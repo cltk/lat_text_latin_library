@@ -71,7 +71,7 @@ Ammianus: Liber XXII
  
 
  
-4. dein Taurum ex praefecto praetorio in exilium egere Vercellum, cuius factum apud iudices iustorum iniustorumque distinctores videri potuit veniae plenum. quid enim deliquit si ortum turbinem veritus ad tutelam principis sui confugit? et acta super eo gesta non sine magno legebantur horrore, cum id voluminis publici contineret exordium ´consulatu Tauri et Florenti inducto sub praeconibus Tauroª. 
+4. dein Taurum ex praefecto praetorio in exilium egere Vercellum, cuius factum apud iudices iustorum iniustorumque distinctores videri potuit veniae plenum. quid enim deliquit si ortum turbinem veritus ad tutelam principis sui confugit? et acta super eo gesta non sine magno legebantur horrore, cum id voluminis publici contineret exordium Â¥consulatu Tauri et Florenti inducto sub praeconibus Tauroâ„¢. 
  
 
  
@@ -139,7 +139,7 @@ Ammianus: Liber XXII
  
 
  
-9. Evenerat isdem diebus, ut ad demendum imperatoris capillum tonsor venire praeceptus introiret quidam ambitiose vestitus. quo viso Iulianus obstupuit ´egoª inquit ´non rationalem iussi sed tonsorem acciriª. interrogatus tamen ille quid haberet ex arte conpendii, vicenas diurnas respondit annonas totidemque pabula iumentorum, quae vulgo dictitant capita, et annuum stipendium grave absque fructuosis petitionibus multis. 
+9. Evenerat isdem diebus, ut ad demendum imperatoris capillum tonsor venire praeceptus introiret quidam ambitiose vestitus. quo viso Iulianus obstupuit Â¥egoâ„¢ inquit Â¥non rationalem iussi sed tonsorem acciriâ„¢. interrogatus tamen ille quid haberet ex arte conpendii, vicenas diurnas respondit annonas totidemque pabula iumentorum, quae vulgo dictitant capita, et annuum stipendium grave absque fructuosis petitionibus multis. 
  
 
  
@@ -163,11 +163,11 @@ Ammianus: Liber XXII
  
 
  
-4. quod agebat ideo obstinate, ut dissensiones augente licentia non timeret unanimantem postea plebem, nullas infestas hominibus bestias, ut sunt sibi ferales plerique Christianorum expertus. saepeque dictitabat ´audite me quem Alamanni audierunt et Franciª imitari putans Marci principis veteris dictum. sed parum advertit hoc ab eo nimium discrepare. 
+4. quod agebat ideo obstinate, ut dissensiones augente licentia non timeret unanimantem postea plebem, nullas infestas hominibus bestias, ut sunt sibi ferales plerique Christianorum expertus. saepeque dictitabat Â¥audite me quem Alamanni audierunt et Franciâ„¢ imitari putans Marci principis veteris dictum. sed parum advertit hoc ab eo nimium discrepare. 
  
 
  
-5. ille enim cum Palaestinam transiret Aegyptum petens, Iudaeorum faetentium et tumultuantium saepe taedio percitus dolenter dicitur exclamasse ´o Marcomanni, o Quadi, o Sarmatae, tandem alios vobis inertiores inveniª.     
+5. ille enim cum Palaestinam transiret Aegyptum petens, Iudaeorum faetentium et tumultuantium saepe taedio percitus dolenter dicitur exclamasse Â¥o Marcomanni, o Quadi, o Sarmatae, tandem alios vobis inertiores inveniâ„¢.     
  
 
  
@@ -211,7 +211,7 @@ Ammianus: Liber XXII
  
 
  
-4. ´ipsi illi philosophi etiam in his libris, quos de contemnenda gloria scribunt, nomen suum inscribunt ut in eo ipso, quo praedicationem nobilitatemque despiciunt, praedicari de se ac se nominari velintª. 
+4. Â¥ipsi illi philosophi etiam in his libris, quos de contemnenda gloria scribunt, nomen suum inscribunt ut in eo ipso, quo praedicationem nobilitatemque despiciunt, praedicari de se ac se nominari velintâ„¢. 
  
 
  
@@ -255,7 +255,7 @@ Ammianus: Liber XXII
  
 
  
-4. Hinc gracilescens paulatim et velut naturali quodam commercio ruens in Pontum eiusque partem ad se iungens, in speciem Ş litterae formatur, exin Hellespontum a Rhodopa scindens, Cynossema, ubi sepulta creditur Hecuba, et Coelan praeterlabitur et Seston et Callipolin contra per Achillis Aiacisque sepulchra Dardanum contingit et Abydon, unde iunctis pontibus Xerxes maria pedibus peragravit, dein Lampsacum Themistocli dono datam a rege Persarum et Parion, quam condidit Iasionis filius Paris. 
+4. Hinc gracilescens paulatim et velut naturali quodam commercio ruens in Pontum eiusque partem ad se iungens, in speciem ï¬ litterae formatur, exin Hellespontum a Rhodopa scindens, Cynossema, ubi sepulta creditur Hecuba, et Coelan praeterlabitur et Seston et Callipolin contra per Achillis Aiacisque sepulchra Dardanum contingit et Abydon, unde iunctis pontibus Xerxes maria pedibus peragravit, dein Lampsacum Themistocli dono datam a rege Persarum et Parion, quam condidit Iasionis filius Paris. 
  
 
  
@@ -263,7 +263,7 @@ Ammianus: Liber XXII
  
 
  
-6. et ut effectae plenaeque Ş litterae figura servetur, in meditullio ipso rotunditatis Proconesus insula est oblonga et Besbicus. 
+6. et ut effectae plenaeque ï¬ litterae figura servetur, in meditullio ipso rotunditatis Proconesus insula est oblonga et Besbicus. 
  
 
  
@@ -483,11 +483,11 @@ Ammianus: Liber XXII
  
 
  
-10. exemplumque patientiae eius in tali negotio, licet sint alia plurima, id unum sufficiet poni. inimicum quidam suum, cum quo discordabat asperrime, commisisse in maiestatem turbulentius deferebat, imperatoreque dissimulante eadem diebus continuis replicans, interrogatus ad ultimum, qui esset quem argueret, respondit, municipem locupletem. quo audito princeps renidens ´quibus indiciisª ait ´ad hoc pervenisti?ª. 
+10. exemplumque patientiae eius in tali negotio, licet sint alia plurima, id unum sufficiet poni. inimicum quidam suum, cum quo discordabat asperrime, commisisse in maiestatem turbulentius deferebat, imperatoreque dissimulante eadem diebus continuis replicans, interrogatus ad ultimum, qui esset quem argueret, respondit, municipem locupletem. quo audito princeps renidens Â¥quibus indiciisâ„¢ ait Â¥ad hoc pervenisti?â„¢. 
  
 
  
-11 . et ille ´purpureum sibiª inquit ´indumentum ex serico pallio paratª iussusque post haec ut vilis arduae rei vilem incusans abire tacitus sed innoxius, nihilo minus instabat. quo taedio Iulianus defatigatus ad largitionum comitem visum propius ´iubeª inquit ´periculoso garrulo pedum tegmina dari purpurea ad adversarium perferenda, quem, ut datur intellegi, chlamydem huius coloris memorat sibi consarcinasse, ut sciri possit sine viribus maximis quid pannuli proficiant levesª. 
+11 . et ille Â¥purpureum sibiâ„¢ inquit Â¥indumentum ex serico pallio paratâ„¢ iussusque post haec ut vilis arduae rei vilem incusans abire tacitus sed innoxius, nihilo minus instabat. quo taedio Iulianus defatigatus ad largitionum comitem visum propius Â¥iubeâ„¢ inquit Â¥periculoso garrulo pedum tegmina dari purpurea ad adversarium perferenda, quem, ut datur intellegi, chlamydem huius coloris memorat sibi consarcinasse, ut sciri possit sine viribus maximis quid pannuli proficiant levesâ„¢. 
  
 
  
@@ -507,11 +507,11 @@ Ammianus: Liber XXII
  
 
  
-16.hic patientiae eius et lenitudinis documentum leve quidem apparuit sed mirandum. Thalassium quendam ex proximo libellorum, insidiatorem fratris oderat Galli, quo adorare adesseque officio inter honoratos prohibito adversarii, cum quibus litigabat in foro, postridie turba congregata superflua, adito imperatore ´Thalassiusª clamitabant ´inimicus pietatis tuae nostra violenter eripuitª. 
+16.hic patientiae eius et lenitudinis documentum leve quidem apparuit sed mirandum. Thalassium quendam ex proximo libellorum, insidiatorem fratris oderat Galli, quo adorare adesseque officio inter honoratos prohibito adversarii, cum quibus litigabat in foro, postridie turba congregata superflua, adito imperatore Â¥Thalassiusâ„¢ clamitabant Â¥inimicus pietatis tuae nostra violenter eripuitâ„¢. 
  
 
  
-10. et ille hac occasione hominem opprimi posse coniciens ´agnoscoª respondit ´quem dicitis offendisse me iusta de causa, sed silere vos interim consentaneum est, dum mihi inimico potiori faciat satisª. mandavitque adsidenti praefecto ne audiretur eorum negotium, antequam ipse cum Thalassio rediret in gratiam, quod brevi evenit.     
+10. et ille hac occasione hominem opprimi posse coniciens Â¥agnoscoâ„¢ respondit Â¥quem dicitis offendisse me iusta de causa, sed silere vos interim consentaneum est, dum mihi inimico potiori faciat satisâ„¢. mandavitque adsidenti praefecto ne audiretur eorum negotium, antequam ipse cum Thalassio rediret in gratiam, quod brevi evenit.     
  
 
  
@@ -531,11 +531,11 @@ Ammianus: Liber XXII
  
 
  
-4. cumque eum defensores causarum ut conscium rationis perfectae plausibus maximis celebrarent, fertur id dixisse permotus ´gaudebam plane prae meque ferebam si ab his laudarer, quos et vituperare posse adverterem, siquid factum sit secus aut dictumª. 
+4. cumque eum defensores causarum ut conscium rationis perfectae plausibus maximis celebrarent, fertur id dixisse permotus Â¥gaudebam plane prae meque ferebam si ab his laudarer, quos et vituperare posse adverterem, siquid factum sit secus aut dictumâ„¢. 
  
 
  
-5. sufficiet autem pro multis, quae clementer egit in litibus cognoscendis, hoc unum ponere nec abhorrens a proposito, nec absurdum. inducta in iudicium femina quaedam cum palatinum adversarium suum e numero proiectorum cinctum praeter spem conspexisset, hoc factum insolens tumultuando querebatur, et imperator ´prosequereª ait ´mulier, siquid te laesam existimas: hic enim sic cinctus est ut expeditius per lutum incedat: parum nocere tuis partibus potestª. 
+5. sufficiet autem pro multis, quae clementer egit in litibus cognoscendis, hoc unum ponere nec abhorrens a proposito, nec absurdum. inducta in iudicium femina quaedam cum palatinum adversarium suum e numero proiectorum cinctum praeter spem conspexisset, hoc factum insolens tumultuando querebatur, et imperator Â¥prosequereâ„¢ ait Â¥mulier, siquid te laesam existimas: hic enim sic cinctus est ut expeditius per lutum incedat: parum nocere tuis partibus potestâ„¢. 
  
 
  
@@ -575,7 +575,7 @@ Ammianus: Liber XXII
  
 
  
-7. ad haec mala id quoque addiderat, unde paulo post actus est in exitium praeceps. reversus ex comitatu principis cum transiret per speciosum Genii templum, multitudine stipatus ex more, flexis ad aedem ipsam luminibus ´quam diuª inquit ´sepulcrum hoc stabit?ª. quo audito velut fulmine multi perculsi, metuentesque ne illud quoque temptaret evertere, quicquid poterant in eius perniciem clandestinis insidiis concitabant. 
+7. ad haec mala id quoque addiderat, unde paulo post actus est in exitium praeceps. reversus ex comitatu principis cum transiret per speciosum Genii templum, multitudine stipatus ex more, flexis ad aedem ipsam luminibus Â¥quam diuâ„¢ inquit Â¥sepulcrum hoc stabit?â„¢. quo audito velut fulmine multi perculsi, metuentesque ne illud quoque temptaret evertere, quicquid poterant in eius perniciem clandestinis insidiis concitabant. 
  
 
  
@@ -675,7 +675,7 @@ Ammianus: Liber XXII
  
 
  
-5. quibus auditis ´accepiª inquit, ´olim hoc dictumª imperator ´relatione multorum, sed abi securus ad lares, exutus omni metu clementia principis, qui ut prudens definivit inimicorum minuere numerum augereque amicorum sponte sua contendit ac libensª. 
+5. quibus auditis Â¥accepiâ„¢ inquit, Â¥olim hoc dictumâ„¢ imperator Â¥relatione multorum, sed abi securus ad lares, exutus omni metu clementia principis, qui ut prudens definivit inimicorum minuere numerum augereque amicorum sponte sua contendit ac libensâ„¢. 
  
 
  

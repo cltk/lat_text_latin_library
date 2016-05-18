@@ -508,7 +508,7 @@ protractum.
  
 6. Totum vero quod in Europa
 restat ab istis, tertium tenuit ydioma, licet nunc tripharium
-videatur: nam alii oc , alii oil , alii sœ 
+videatur: nam alii oc , alii oil , alii s≈ì 
 affirmando locuntur, ut puta Yspani, Franci et Latini. Signum
 autem quod ab uno eodemque ydiomate istarum trium gentium
 progrediantur vulgaria, in promptu est, quia multa per eadem
@@ -519,7 +519,7 @@ est, vivit, moritur, amat, alia fere omnia.
  
 7. Istorum vero proferentes oc 
 meridionalis Europe tenent partem occidentalem, a Ianuensium
-finibus incipientes. Qui autem sœ dicunt a predictis
+finibus incipientes. Qui autem s≈ì dicunt a predictis
 finibus orientalem tenent, videlicet usque ad promuntorium illud
 Ytalie qua sinus Adriatici maris incipit, et Siciliam. Sed
 loquentes oil quodam modo septentrionales sunt respectu
@@ -546,7 +546,7 @@ rational[i], videtur in aliis esse causa.
  
 2. Est igitur super quod
 gradimur ydioma tractando tripharium, ut superius dictum est: nam
-alii oc , alii sœ , alii vero dicunt oil . Et
+alii oc , alii s≈ì , alii vero dicunt oil . Et
 quod unum fuerit a principio confusionis (quod prius probandum
 est) apparet, quia convenimus in vocabulis multis, velut
 eloquentes doctores ostendunt: que quidem convenientia ipsi
@@ -567,15 +567,15 @@ per ver encusera amor.
 Rex Navarre:
 
  De fin amor si
-vient sen et bont»;
+vient sen et bont¬ª;
  
 
  
 Dominus Guido Guinizelli:
 
- N» fe' amor
+ N¬ª fe' amor
 prima che gentil core, 
-n» gentil [cor] prima che amor, natura.
+n¬ª gentil [cor] prima che amor, natura.
  
 
  
@@ -668,7 +668,7 @@ ipsius, secundum quod trisonum factum est, cum tanta timiditate
 cunctamur librantes quod hanc vel istam vel illam partem in
 comparando preponere non audemus, nisi eo quo gramatice positores
 inveniuntur accepisse &#145;sic&#146; adverbium affirmandi: quod
-quandam anterioritatem erogare videtur Ytalis, qui sœ 
+quandam anterioritatem erogare videtur Ytalis, qui s≈ì 
 dicunt.
  
 
@@ -786,7 +786,7 @@ quidam Florentinus nomine Castra posuerat; incipiebat etenim
 
  Una fermana
 scopai da Cascioli, 
-cita cita se 'n gœa 'n grande aina.
+cita cita se 'n g≈ìa 'n grande aina.
  
 
  
@@ -796,7 +796,7 @@ improperium quendam cecinisse recolimus
 
  Enter l'ora del
 vesper, 
-ci⁄ fu del mes d'occhiover.
+ci‚ÅÑ fu del mes d'occhiover.
  
 
  
@@ -938,7 +938,7 @@ dicunt
  
 
  Manichiamo
-introcque, altro. ‘ che noi
+introcque, altro. ‚Äò che noi
 non facciamo 
  
 
@@ -1032,7 +1032,7 @@ facit esse credendum.
  
 3. Hoc Romandiolos omnes habet,
 et presertim Forlivienses, quorum civitas, licet novissima sit,
-meditullium tamen esse videtur totius provincie: hii deuscœ 
+meditullium tamen esse videtur totius provincie: hii deusc≈ì 
 affirmando locuntur, et oclo meo et corada mea 
 proferunt blandientes. Horum aliquos a proprio poetando
 divertisse audivimus, Thomam videlicet et Ugolinum Bucciolam
@@ -1050,7 +1050,7 @@ sed esse virum dubitare[s le]ctor.
 5. Hoc omnes qui magara dicunt,
 Brixianos videlicet, Veronenses et Vigentinos, habet; nec non
 Paduanos, turpiter sincopantes omnia in -tus participia et
-denominativa in -tas , ut merc⁄ et bontÀ .
+denominativa in -tas , ut merc‚ÅÑ et bont√Ä .
 Cum quibus et Trivisianos adducimus, qui more Brixianorum et
 finitimorum suorum u consonantem per f apocopando
 proferunt, puta nof pro &#145;novem&#146; et vif 
@@ -1156,7 +1156,7 @@ gire;
  
 Honestus:
 
- Piò non actendo
+ Pi√≤ non actendo
 il tuo soccorso, Amore.
  
 

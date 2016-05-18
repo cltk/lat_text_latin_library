@@ -536,7 +536,7 @@ et semiunciam sextulam.
 
  
 39. Fistula quinaria: diametri digitum
-unum = Ò , perimetri digitos tres S = = Ò '
+unum = â€œ , perimetri digitos tres S = = â€œ '
  III,
 capit quinariam unam.
  
@@ -544,18 +544,18 @@ capit quinariam unam.
  
 40. Fistula senaria: diametri digitum
 unum semis, perimetri digitos IIII S = &pound; ' II,
-capit quinariam I = = Ò ' VII.
+capit quinariam I = = â€œ ' VII.
  
 
  
 41. Fistula septenaria: diametri
-digitum I S = Ò , perimetri digitos V S, capit quinariam I
-S = = Ò &pound; ; in usu non est.
+digitum I S = â€œ , perimetri digitos V S, capit quinariam I
+S = = â€œ &pound; ; in usu non est.
  
 
  
 42. Fistula octonaria: diametri
-digitos duos, perimetri digitos sex = Ò '
+digitos duos, perimetri digitos sex = â€œ '
  X,
 capit quinarias II S &pound; ' quinque.
  
@@ -569,9 +569,9 @@ capit quinarias IIII.
 
  
 44. Fistula duodenaria: diametri
-digitos III, perimetri digitos VIIII = = Ò '
+digitos III, perimetri digitos VIIII = = â€œ '
  III,
-capit quinarias quinque S = Ò '
+capit quinarias quinque S = â€œ '
  III;
 in usu non est. Apud aquarios habebat diametri digitos III &pound;
  '
@@ -581,7 +581,7 @@ capacitatis quinarias sex.
 
  
 45. Fistula quinum denum: diametri
-digitos III S = Ò , perimetri digitos XI S = Ò '
+digitos III S = â€œ , perimetri digitos XI S = â€œ '
  X,
 capit quinarias novem.
  
@@ -591,12 +591,12 @@ capit quinarias novem.
 digitos quinque, perimetri digitos XV S = = '
  VI,
 capit quinarias sedecim. Apud aquarios habebat diametri digitos IIII S,
-capacitatis quinarias duodecim S = = Ò &pound;.
+capacitatis quinarias duodecim S = = â€œ &pound;.
  
 
  
 47. Fistula vicenum quinum: diametri
-digitos quinque S &middot; Ò &pound; ' V,
+digitos quinque S &middot; â€œ &pound; ' V,
 perimetri digitos decem et septem S = &pound; '
  VII,
 capit quinarias XX = = ' VIIII; in usu
@@ -606,28 +606,28 @@ non est.
  
 48. Fistula tricenaria: diametri
 digitos sex = ' III, perimetri digitos
-decem et novem = = Ò , capit quinarias viginti quattuor 
-= = Ò ' quinque.
+decem et novem = = â€œ , capit quinarias viginti quattuor 
+= = â€œ ' quinque.
  
 
  
 49. Fistula tricenum quinum: diametri
 digitos sex S = ' II, perimetri
-digitos XX S = = Ò &pound; V, capit quinarias XXVIII
+digitos XX S = = â€œ &pound; V, capit quinarias XXVIII
 S ' III; in usu non est.
  
 
  
 50. Fistula quadragenaria: diametri
-digitos septem Ò &pound; ' III,
-perimetri digitos XXII = = Ò , capit quinarias XXXII S Ò
+digitos septem â€œ &pound; ' III,
+perimetri digitos XXII = = â€œ , capit quinarias XXXII S â€œ
  .
  
 
  
 51. Fistula quadragenum quinum:
 diametri digitos septem S &pound; ' 
-octo, perimetri digitos XXIII S = Ò '
+octo, perimetri digitos XXIII S = â€œ '
  X,
 capit quinarias XXXVI S = &pound; ' 
 octo; in usu non est.
@@ -635,7 +635,7 @@ octo; in usu non est.
 
  
 52. Fistula quinquagenaria: diametri
-digitos septem S = = Ò &pound; ' 
+digitos septem S = = â€œ &pound; ' 
 quinque, perimetri digitos XXV &pound; ' VII,
 capit quinarias XL S = &pound; ' V.
  
@@ -643,43 +643,43 @@ capit quinarias XL S = &pound; ' V.
  
 53. Fistula quinquagenum quinum:
 diametri digitos octo = = ' decem,
-perimetri digitos XXVI = Ò &pound; , capit quinarias XLIIII
-S = Ò &pound; ' II; in usu
+perimetri digitos XXVI = â€œ &pound; , capit quinarias XLIIII
+S = â€œ &pound; ' II; in usu
 non est.
  
 
  
 54. Fistula sexagenaria: diametri
 digitos VIII S = &pound; ' novem,
-perimetri digitos XXVII = = Ò &pound;, capit quinarias XL
+perimetri digitos XXVII = = â€œ &pound;, capit quinarias XL
 octo S = = ' XI.
  
 
  
 55. Fistula sexagenum quinum: diametri
-digitos novem Ò ' III, perimetri
-digitos XX octo S Ò , capit quinarias quinquaginta duas S 
+digitos novem â€œ ' III, perimetri
+digitos XX octo S â€œ , capit quinarias quinquaginta duas S 
 = = &pound; ' octo; in usu non est.
  
 
  
 56. Fistula septuagenaria: diametri
-digitos novem = = Ò ' sex,
+digitos novem = = â€œ ' sex,
 perimetri digitos XXIX S = , capit quinarias LVII '
  V.
  
 
  
 57. Fistula septuagenum quinum:
-diametri digitos novem S = Ò ' 
+diametri digitos novem S = â€œ ' 
 sex, perimetri digitos XXX S = ' VIII,
-capit quinarias LXI Ò ' II;
+capit quinarias LXI â€œ ' II;
 in usu non est.
  
 
  
 58. Fistula octogenaria: diametri
-digitos decem Ò ' II, perimetri
+digitos decem â€œ ' II, perimetri
 digitos XXXI S = &pound; , capit quinarias LXV =.
  
 
@@ -693,22 +693,22 @@ quinarias LXVIIII = &pound; ; in usu non est.
  
 60. Fistula nonagenaria: diametri
 digitos decem S = ' X, perimetri
-digitos triginta tres S Ò &pound; ' X,
+digitos triginta tres S â€œ &pound; ' X,
 capit quinarias septuaginta tres = = &pound; '
  V.
  
 
  
 61. Fistula nonagenum quinum: diametri
-digitos X S = = Ò &pound; ' VIIII,
+digitos X S = = â€œ &pound; ' VIIII,
 perimetri digitos XXXIIII S &pound;, capit quinarias LXXVII 
 = = &pound; ' II; in usu non est.
  
 
  
 62. Fistula centenaria: diametri
-digitos XI = Ò ' VIIII, perimetri
-digitos XXXV = = Ò &pound; , capit quinarias octoginta unam 
+digitos XI = â€œ ' VIIII, perimetri
+digitos XXXV = = â€œ &pound; , capit quinarias octoginta unam 
 = = &pound; ' X. Apud aquarios habebat diametri
 digitos XII, capacitatis quinarias nonaginta II.
  
@@ -716,9 +716,9 @@ digitos XII, capacitatis quinarias nonaginta II.
  
 63. Fistula centenum vicenum: diametri
 digitos duodecim = = ' VII, perimetri
-digitos XXXVIII S = = , capit quinarias LXXXXVII S = Ò .
+digitos XXXVIII S = = , capit quinarias LXXXXVII S = â€œ .
 Apud aquarios habebat diametri digitos XVI, capacitatis quinarias centum
-sexaginta tres S = = Ò , qui modus duarum centenariarum est.
+sexaginta tres S = = â€œ , qui modus duarum centenariarum est.
  
 
  
@@ -730,7 +730,7 @@ sexaginta tres S = = Ò , qui modus duarum centenariarum est.
  
 *** (lacuna)
              
-Ò (uncia)
+â€œ (uncia)
              
 = (sextans)
              

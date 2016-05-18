@@ -64,7 +64,7 @@ Galileo Galilei, Sidereus Nuncius
  Celsitudinis tu&#234; ortu, turbidos horizontis vapores iam transgressus, mediumque c&#234;li
  cardinem occupans, orientalemque angulum sua regia illustrans, felicissimum partum ex
  sublimi illo throno prospexit, omnemque splendorem atque amplitudinem suam in purissimum
- aŒrem profudit, ut universam illam vim ac potestatem tenerum corpusculum una cum animo,
+ a≈írem profudit, ut universam illam vim ac potestatem tenerum corpusculum una cum animo,
  nobilioribus ornamentis iam a Deo decorato, primo spiritu hauriret. Verum, quid ego
  probabilibus utor argumentationibus, cum id necessaria propemodum ratione concludere ac
  demonstrare queam? Placuit Deo Optimo Maximo, ut a Serenissimis parentibus tuis non
@@ -96,15 +96,15 @@ Galileo Galilei, Sidereus Nuncius
   Addictissimus Servus 
  Galileus Galileus. 
   Gli Eccellentissimi Signori Capi dell'Ecc. Cons. de' X infrascritti, avuta fede dalli
- Signori Reformatori del Studio di Padova per relazione delli due a questo deputati, cioÀ
+ Signori Reformatori del Studio di Padova per relazione delli due a questo deputati, cio√Ä
  dal Rever. P. Inquisitor, e dal circospetto Secretario del Senato, Gio. Maraviglia, con
  giuramento, come nel libro intitolato: SIDEREUS NUNCIUS etc. di D. Galileo Galilei non si
- trova alcuna cosa contraria alla Santa Fede Cattolica, Prencipi e buoni costumi, e che À
- degno di stampa, concedono licenza che possi esser stampato in questa Citt˝. 
+ trova alcuna cosa contraria alla Santa Fede Cattolica, Prencipi e buoni costumi, e che √Ä
+ degno di stampa, concedono licenza che possi esser stampato in questa CittÀù. 
   Datum die primo Martii 1610. 
   
   D. M. Ant. Valaresso 
-  D. Nicol⁄ Bon Capi dell'Ecc. Cons. de' X 
+  D. Nicol‚ÅÑ Bon Capi dell'Ecc. Cons. de' X 
   D. Lunardo Marcello 
 
   Illustrissimi Consilii X Secretarius 
@@ -578,7 +578,7 @@ OBSERVATIONES RECENS HABITAS NOVI PERSPICILLI BENEFICIO IN LUNE FACIE,
   At cum non tantum in GALAXIA lacteus ille candor, veluti albicantis nubis, spectetur,
  sed complures consimilis coloris areol&#234; sparsim per &#234;thera subfulgeant, si in illarum
  quamlibet Specillum convertas, Stellarum constipatarum c&#156;tum offendes. Amplius (quod
- magis miraberis), Stell&#234; ab Astronomis singulis in hanc usque diem NEBULOSê appellat&#234;,
+ magis miraberis), Stell&#234; ab Astronomis singulis in hanc usque diem NEBULOS√™ appellat&#234;,
  Stellularum mirum in modum consitarum greges sunt; ex quarum radiorum commixtione, dum
  unaqu&#234;que ob exilitatem, seu maximam a nobis remotionem, oculorum aciem fugit, candor
  ille consurgit, qui densior pars C&#234;li, Stellarum aut Solis radios retorquere valens,
@@ -587,7 +587,7 @@ OBSERVATIONES RECENS HABITAS NOVI PERSPICILLI BENEFICIO IN LUNE FACIE,
   In primo habes NEBULOSAM, Capitis Orionis 
    
   appellatam, in qua Stellas vigintiunas numeravimus. 
-  Secundus NEBULOSAM PRêSEPE 
+  Secundus NEBULOSAM PR√™SEPE 
  
   
   nuncupatam continet; qu&#234; non una tantum Stella est, sed congeries Stellularum plurium
@@ -896,7 +896,7 @@ OBSERVATIONES RECENS HABITAS NOVI PERSPICILLI BENEFICIO IN LUNE FACIE,
   
   remotior distabat a Iove min. 10, vicinior vero min. 0, sec. 20; erantque in eadem
  recta. Hora autem quarta, Stella Iovi proxima amplius non apparebat: altera quoque adeo
- imminuta videbatur, ut vix cerni posset, licet aŒr pr&#234;clarus esset; et a Iove remotior,
+ imminuta videbatur, ut vix cerni posset, licet a≈ír pr&#234;clarus esset; et a Iove remotior,
  quam antea, erat; distabat siquidem min. 12. 
   Die undecima, hora prima, aderant ab oriente Stell&#234; du&#234;, et una ab occasu. Distabat
  occidentalis a Iove min. 4; orientalis vicinior 

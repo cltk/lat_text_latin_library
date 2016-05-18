@@ -727,7 +727,7 @@ Officium autem non habet, sed adiutorem de scola notariorum.
  
  
  XIX. Magistri scriniorum. 
-Memoriae›› Epistolarum›› Libellorum›› Graecarum 
+Memoriae‚Ä∫‚Ä∫ Epistolarum‚Ä∫‚Ä∫ Libellorum‚Ä∫‚Ä∫ Graecarum 
   Magister memoriae adnotationes omnes dictat et emittit, et precibus respondet. 
   Magister epistolarum legationes civitatum, consultationes et preces tractat. 
   Magister libellorum cognitiones et preces tractat. 
@@ -1057,7 +1057,7 @@ Et quae de minore laterculo emittuntur:
   Cohors undecima Chamauorum, Peamu. 
   Cohors nona Tzanorum, Nitnu. 
   Cohors nona Alamannorum, Burgo Severi. 
-  Cohors› prima felix Theodosiana, apud Elephantinem. 
+  Cohors‚Ä∫ prima felix Theodosiana, apud Elephantinem. 
   Cohors quinta Suentium, Suene. 
   Cohors sexta saginarum, in Castris Lapidariorum. 
   Cohors septima Francorum, Diospoli. 
@@ -1540,7 +1540,7 @@ Item legiones:
   Praefectus classis Histricae, Aegetae. 
   Praefectus classis Ratianensis. 
 Officium autem habet ita: 
-  Principem de eodem officio, qui completa militia adorat›protector. 
+  Principem de eodem officio, qui completa militia adorat‚Ä∫protector. 
   Numerarios et adiutores eorum. 
   Commentariensem. 
   Adiutorem. 

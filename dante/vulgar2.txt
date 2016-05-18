@@ -511,7 +511,7 @@ subintellecte).
 Rex Navarre:
 
  De fin&#146;amor
-si vient sen et bontÈ,
+si vient sen et bontÂ»,
  
 
  
@@ -531,7 +531,7 @@ repara sempre amore.
 Iudex de Columpnis de Messana:
 
  Amor, che
-lungiamente m'ıi menato.
+lungiamente m'Ëi menato.
  
 
  
@@ -539,7 +539,7 @@ Renaldus de Aquino:
  
 
  Per fino amore
-vo sÏ letamente.
+vo sÅ“ letamente.
  
 
  
@@ -547,7 +547,7 @@ Cynus Pistoriensis:
  
 
  Non spero che
-giı mai per mia salute.
+giË mai per mia salute.
  
 
  
@@ -555,7 +555,7 @@ amicus eius:
  
 
  Amor, che movi
-tua vert˜ da cielo.
+tua vertÃ² da cielo.
  
 
  
@@ -725,7 +725,7 @@ Cynus de Pistorio:
  
 
  Avegna che io
-aggia pi˜ per tempo.
+aggia piÃ² per tempo.
  
 
  
@@ -813,13 +813,13 @@ letitia, salute, securtate, defesa .
 6. Yrsuta quoque dicimus omnia,
 preter hec, que vel necessaria vel ornativa videntur vulgaris
 illustris. Et necessaria quidem appellamus que campsare non
-possumus, ut quedam monosillaba, ut si, no, me, te, sÈ, ı,
-Ë, i&#146;, Ú, u&#146; , interiectiones et alia multa.
+possumus, ut quedam monosillaba, ut si, no, me, te, sÂ», Ë,
+Ã€, i&#146;, â„, u&#146; , interiectiones et alia multa.
 Ornativa vero dicimus omnia polisillaba que, mixta cum pexis,
 pulcram faciunt armoniam compaginis, quamvis asperitatem habeant
 aspirationis et accentus et duplicium et liquidarum et
 prolixitatis: ut terra , honore , speranza , gravitate ,
- alleviato , impossibilitı , impossibilitate , benaventuratissimo ,
+ alleviato , impossibilitË , impossibilitate , benaventuratissimo ,
  inanimatissimamente , disaventuratissimamente , sovramagnificentissimamente ,
 quod endecasillabum est. Posset adhuc inveniri plurium sillabarum
 vocabulum sive verbum, sed quia capacitatem omnium nostrorum
@@ -1110,7 +1110,7 @@ contexta.
 superant carminibus et sillabis, ut in illa quam diximus
 
  Amor, che movi
-tua virt˜ da cielo.
+tua virtÃ² da cielo.
  
 
  

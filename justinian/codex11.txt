@@ -215,7 +215,7 @@ CJ.11.2.4: Imperatores Honorius, Theodosius
  
 
  
-Cum nauarchorum coetus circiter provincias orientis inopia navium tribuaret et investigandae classis obtentu insularum secessus obiret et navigandi opportunitate transacta iudiciorum indignatio sine transvectionis expectaretur effectu, merito celsitudo tua praefecto augustali et insularum praeside conventis alexandrinae et carpathiae classis summates et nonnullos alios naucleros eo professionis adduxit, ut onus frumentarii commeatus, qui per orientales nauarchos ex alexandrinae civitatis conditis consueverat ad sacratissimam urbem transferri, in suam fidem susceptum ad eadem augustissimae urbis horrea comportarent, solaciis pro mercedula praestitis ex tributariae pensitationis immunitate vel ex eo, quod vocatur éphilikoné, nec non etiam aliis, quae tuae cognitionis limavit examen. * honor. et theodos. aa. anthemio pp. *&lt;a 409 d.Xiiii k.Febr.Honorio viii et theodosio iii aa.Conss.&gt;
+Cum nauarchorum coetus circiter provincias orientis inopia navium tribuaret et investigandae classis obtentu insularum secessus obiret et navigandi opportunitate transacta iudiciorum indignatio sine transvectionis expectaretur effectu, merito celsitudo tua praefecto augustali et insularum praeside conventis alexandrinae et carpathiae classis summates et nonnullos alios naucleros eo professionis adduxit, ut onus frumentarii commeatus, qui per orientales nauarchos ex alexandrinae civitatis conditis consueverat ad sacratissimam urbem transferri, in suam fidem susceptum ad eadem augustissimae urbis horrea comportarent, solaciis pro mercedula praestitis ex tributariae pensitationis immunitate vel ex eo, quod vocatur ÃˆphilikonÃˆ, nec non etiam aliis, quae tuae cognitionis limavit examen. * honor. et theodos. aa. anthemio pp. *&lt;a 409 d.Xiiii k.Febr.Honorio viii et theodosio iii aa.Conss.&gt;
  
 
  
@@ -453,7 +453,7 @@ CJ.11.7.1.1: Imperatores Valentinianus, Valens
  
 
  
-Itaque si qui sponte confluxerint, eos laudabilitas, tua octonos scripulos in balluca, quae graece é krusammos é appellatur, cogat exsolvere.&lt;a 365 d. iiii id. dec. parisiis valentiniano et valente aa. conss.&gt;
+Itaque si qui sponte confluxerint, eos laudabilitas, tua octonos scripulos in balluca, quae graece Ãˆ krusammos Ãˆ appellatur, cogat exsolvere.&lt;a 365 d. iiii id. dec. parisiis valentiniano et valente aa. conss.&gt;
  
 
  

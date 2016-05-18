@@ -417,7 +417,7 @@ Pliny the Elder
  
 
  
-[102] Hactenus de mundo ipso sideribusque: nunc reliqua caeli memorabilia. namque et hoc caelum appellavere maiores quod alio nomine a‘ra, omne quod inani simile vitalem hunc spiritum fundit. infra lunam haec sedes multoque inferior, ut animadverto propemodum constare, infinitum ex superiore natura a‘ris, infinitum terreni halitus miscens utraque sorte confunditur. hinc nubila, tonitrua et alia fulmina, hinc grandines, pruinae, imbres, procellae, turbines, hinc plurima mortalium mala et rerum naturae pugna secum. 
+[102] Hactenus de mundo ipso sideribusque: nunc reliqua caeli memorabilia. namque et hoc caelum appellavere maiores quod alio nomine aÃ«ra, omne quod inani simile vitalem hunc spiritum fundit. infra lunam haec sedes multoque inferior, ut animadverto propemodum constare, infinitum ex superiore natura aÃ«ris, infinitum terreni halitus miscens utraque sorte confunditur. hinc nubila, tonitrua et alia fulmina, hinc grandines, pruinae, imbres, procellae, turbines, hinc plurima mortalium mala et rerum naturae pugna secum. 
  
 
  
@@ -453,11 +453,11 @@ Pliny the Elder
  
 
  
-[111] Extra has causas non negaverim exsistere imbres ventosque, quoniam umidam a terra, alias vero propter vaporem fumidam exhalari caliginem certum est nubesque liquore egresso in sublime aut a‘re coacto in liquorem gigni. densitas earum corpusque haut dubio coniectatur argumento, cum solem obumbrent, perspicuum alias etiam urinantibus in quamlibet profundam aquarum altitudinem. 
+[111] Extra has causas non negaverim exsistere imbres ventosque, quoniam umidam a terra, alias vero propter vaporem fumidam exhalari caliginem certum est nubesque liquore egresso in sublime aut aÃ«re coacto in liquorem gigni. densitas earum corpusque haut dubio coniectatur argumento, cum solem obumbrent, perspicuum alias etiam urinantibus in quamlibet profundam aquarum altitudinem. 
  
 
  
-[112] Igitur non eam infitias posse in has et ignes superne stellarum decidere, quales sereno saepe cernimus, quorum ictu concuti a‘ra verum est, quando et tela vibrata stridunt, cum vero in nubem perveniunt, vaporem dissonum gigni, ut candente ferro in aquam demerso, et fumidum verticem volvi. hinc nasci procellas et, si in nube luctetur flatus aut vapor, tonitrua edi; si erumpat ardens, fulmina; si longiore tractu nitatur, fulgetras. his findi nubem, illis perrumpi, et esse tonitrua inpactorum ignium plagas, ideoque protinus coruscare igneas nubium rimas. 
+[112] Igitur non eam infitias posse in has et ignes superne stellarum decidere, quales sereno saepe cernimus, quorum ictu concuti aÃ«ra verum est, quando et tela vibrata stridunt, cum vero in nubem perveniunt, vaporem dissonum gigni, ut candente ferro in aquam demerso, et fumidum verticem volvi. hinc nasci procellas et, si in nube luctetur flatus aut vapor, tonitrua edi; si erumpat ardens, fulmina; si longiore tractu nitatur, fulgetras. his findi nubem, illis perrumpi, et esse tonitrua inpactorum ignium plagas, ideoque protinus coruscare igneas nubium rimas. 
  
 
  
@@ -465,11 +465,11 @@ Pliny the Elder
  
 
  
-[114] Simili modo ventos vel potius flatus posse et arido siccoque anhelitu terrae gigni non negaverim, posse et aquis a‘ra exspirantibus, qui neque in nebulam densetur nec crassescat in nubes, posse et solis inpulsu agi, quoniam ventus haut aliud intellegatur quam fluctus a‘ris, pluribusque etiam modis. namque et e fluminibus ac nivibus et e mari videmus, et quidem tranquillo, et alios, quos vocant altanos, e terra consurgere. qui, cum e mari redeunt, tropaei vocantur, si pergunt, apogei. 
+[114] Simili modo ventos vel potius flatus posse et arido siccoque anhelitu terrae gigni non negaverim, posse et aquis aÃ«ra exspirantibus, qui neque in nebulam densetur nec crassescat in nubes, posse et solis inpulsu agi, quoniam ventus haut aliud intellegatur quam fluctus aÃ«ris, pluribusque etiam modis. namque et e fluminibus ac nivibus et e mari videmus, et quidem tranquillo, et alios, quos vocant altanos, e terra consurgere. qui, cum e mari redeunt, tropaei vocantur, si pergunt, apogei. 
  
 
  
-[115] Montium vero flexus crebrique vertices et conflexa cubito aut confracta in umeros iuga, concavi vallium sinus, scindentes inaequalitate ideo resultantem a‘ra&#151;quae causa etiam voces multis in locis reciprocas facit&#151;, sine fine ventos generant. iam quidem et specus, qualis in Dalmatia ore vasto, praeceps hiatu, in quem deiecto levi pondere quamvis tranquillo die turbini similis emicat procella; nomen loco est Senta. quin et in Cyrenaica provincia rupes quaedam austro traditur sacra, quam profanum sit attrectari hominis manu, confestim austro volvente harenas. in domibus etiam multis madefacta inclusa opacitate conceptacula auras suas habent. adeo causa non deest. 
+[115] Montium vero flexus crebrique vertices et conflexa cubito aut confracta in umeros iuga, concavi vallium sinus, scindentes inaequalitate ideo resultantem aÃ«ra&#151;quae causa etiam voces multis in locis reciprocas facit&#151;, sine fine ventos generant. iam quidem et specus, qualis in Dalmatia ore vasto, praeceps hiatu, in quem deiecto levi pondere quamvis tranquillo die turbini similis emicat procella; nomen loco est Senta. quin et in Cyrenaica provincia rupes quaedam austro traditur sacra, quam profanum sit attrectari hominis manu, confestim austro volvente harenas. in domibus etiam multis madefacta inclusa opacitate conceptacula auras suas habent. adeo causa non deest. 
  
 
  
@@ -549,7 +549,7 @@ Pliny the Elder
  
 
  
-[135] Hieme et aestate rara fulmina contrariis de causis, quoniam hieme densatus a‘r nubium crassiore corio spissatur, omnisque terrarum exhalatio rigens ac gelida quicquid accipit ignei vaporis exstinguit. quae ratio inmunem Scythiam et circa rigentia a fulminum casu praestat, e diverso nimius ardor Aegyptium, siquidem calidi siccique halitus terrae raro admodum tenuesque et infirmas densantur in nubes. 
+[135] Hieme et aestate rara fulmina contrariis de causis, quoniam hieme densatus aÃ«r nubium crassiore corio spissatur, omnisque terrarum exhalatio rigens ac gelida quicquid accipit ignei vaporis exstinguit. quae ratio inmunem Scythiam et circa rigentia a fulminum casu praestat, e diverso nimius ardor Aegyptium, siquidem calidi siccique halitus terrae raro admodum tenuesque et infirmas densantur in nubes. 
  
 
  
@@ -610,7 +610,7 @@ Pliny the Elder
 
  
 [150] in Abydi gymnasio ex ea causa colitur hodieque modicus quidem, sed quem in media terrarum casurum idem Anaxagoras praedixisse narretur. colitur et Cassandriae, quae Potidaea quondam vocitata est, ob id deducta. ego ipse vidi in Vocontiorum agro paulo ante delatum. 
- Arcus vocamus extra miraculum frequentes et extra ostentum. nam ne pluvios quidem aut serenos dies cum fide portendunt. manifestum est radium solis inmissum cavae nubi repulsa acie in solem refringi, colorumque varietatem mixtura nubium, ignium, a‘ris fieri. certe nisi sole adverso non fiunt nec umquam nisi dimidia circuli forma nec noctu, quamvis Aristoteles prodat aliquando visum, quod tamen fatetur idem non nisi XXX luna posse fieri. 
+ Arcus vocamus extra miraculum frequentes et extra ostentum. nam ne pluvios quidem aut serenos dies cum fide portendunt. manifestum est radium solis inmissum cavae nubi repulsa acie in solem refringi, colorumque varietatem mixtura nubium, ignium, aÃ«ris fieri. certe nisi sole adverso non fiunt nec umquam nisi dimidia circuli forma nec noctu, quamvis Aristoteles prodat aliquando visum, quod tamen fatetur idem non nisi XXX luna posse fieri. 
  
 
  
@@ -623,7 +623,7 @@ Pliny the Elder
  
 
  
-[153] Praeterea quasdam proprietates quibusdam locis esse, roscidas aestate Africae noctes, in Italia Locris et in lacu Velino nullo non die apparere arcus, Rhodi et Syracusis numquam tanta nubila obduci, ut non aliqua hora sol cernatur, qualia aptius suis referentur locis. haec sint dicta de a‘re. 
+[153] Praeterea quasdam proprietates quibusdam locis esse, roscidas aestate Africae noctes, in Italia Locris et in lacu Velino nullo non die apparere arcus, Rhodi et Syracusis numquam tanta nubila obduci, ut non aliqua hora sol cernatur, qualia aptius suis referentur locis. haec sint dicta de aÃ«re. 
  
 
  
@@ -723,7 +723,7 @@ Pliny the Elder
  
 
  
-[178] septentriones non cernit Trogodytice et confinis Aegyptus, nec canopum Italia et quem vocant Berneics crinem, item quem sub Divo Augusto cognominavere Caesaris thronon, insignes ibi stellas. adeoque manifesto adsurgens fastigium curvatur, ut canopus quartam fere partem signi unius supra terram eminere Alexandriae intuentibus videatur, eadem a Rhodo terram quodammodo ipsam stringere, in Ponto omnino non cernatur, ubi maxime sublimis septentrio. idem a Rhodo absconditur vigilia occultus, secunda se ostendit, in Mero‘ solstitio vesperi paulisper apparet paucisque ante exortum arcturi diebus pariter cum die cernitur. 
+[178] septentriones non cernit Trogodytice et confinis Aegyptus, nec canopum Italia et quem vocant Berneics crinem, item quem sub Divo Augusto cognominavere Caesaris thronon, insignes ibi stellas. adeoque manifesto adsurgens fastigium curvatur, ut canopus quartam fere partem signi unius supra terram eminere Alexandriae intuentibus videatur, eadem a Rhodo terram quodammodo ipsam stringere, in Ponto omnino non cernatur, ubi maxime sublimis septentrio. idem a Rhodo absconditur vigilia occultus, secunda se ostendit, in MeroÃ« solstitio vesperi paulisper apparet paucisque ante exortum arcturi diebus pariter cum die cernitur. 
  
 
  
@@ -751,7 +751,7 @@ Pliny the Elder
  
 
  
-[186] sic fit, ut vario lucis incremento in Mero‘ longissimus dies XII horas aequinoctiales et octo partes unius horae colligat, Alexandriae vero XIIII horas, in Italia XV, in Britannia XVII, ubi aestate lucidae noctes haut dubie se promittunt, id quod cogit ratio credi, solstiti diebus accedente sole propius verticem mundi angusto lucis ambitu subiecta terrae continuos dies habere senis mensibus noctesque e diverso ad brumam remoto. 
+[186] sic fit, ut vario lucis incremento in MeroÃ« longissimus dies XII horas aequinoctiales et octo partes unius horae colligat, Alexandriae vero XIIII horas, in Italia XV, in Britannia XVII, ubi aestate lucidae noctes haut dubie se promittunt, id quod cogit ratio credi, solstiti diebus accedente sole propius verticem mundi angusto lucis ambitu subiecta terrae continuos dies habere senis mensibus noctesque e diverso ad brumam remoto. 
  
 
  

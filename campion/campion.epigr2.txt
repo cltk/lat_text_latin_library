@@ -727,8 +727,8 @@ iam spectent varie se, et insolenter.
  
 Glandem in fatidicam mutatum stultus amator 
  rivali insultans a Iove finxit avum; 
-at rivalis ait, ìnequid mirere puella, 
- de quercu ob facinus nempe pependit avus.î
+at rivalis ait, √¨nequid mirere puella, 
+ de quercu ob facinus nempe pependit avus.√Æ
  
 
  
@@ -753,7 +753,7 @@ nec exeuntum lucidum hinc et hinc iubar   5
 revocare poterit. improba aeternum vale." 
 ut dubia certas sensit irarum minas, 
 perculsa termulo cecidit ad pedes metu; 
-"quidî" misera dixit "sum merita dignum nece? 
+"quid√Æ" misera dixit "sum merita dignum nece? 
 amans quod in te tam tetrum admisi nephas,   10 
 ut me relinquas perditam, ut pro me tuos? 
 ah siste, saevis imperes iris modum, 
@@ -1545,7 +1545,7 @@ nequaquam meminisse quod spopondit
 aequali, vel etiam potentiori; 
 quin eludere, si sit usus, ipsum   5 
 audere intrepide suos parentes. 
-laesam dic age viín fidem experiri? 
+laesam dic age vi√≠n fidem experiri? 
 hunc ad coenam hodie vocato, vel cras, 
 vel tu postridie, perendieve, 
 sin mavis vel ad ultimas calendas;   10 
@@ -2464,7 +2464,7 @@ mollibus curis, ad eas redi unde es   15
  
 Desine, iam satis est, nimium lascive libelle, 
  et vix Romano qui pede tutus eas. 
-at vos o Latiae peregrinae parcite pusî, 
+at vos o Latiae peregrinae parcite pus√Æ, 
  et fiat vestri pars levis illa chori.
  
 
@@ -2680,7 +2680,7 @@ annon pica animi quoque haec laborat?   5
 
  
 Sacras somniat, Eure, conciones, 
-et pronunciat ore semí aperto 
+et pronunciat ore sem√≠ aperto 
 Pyrrhus: dissimulat, nec est sacerdos.
  
 

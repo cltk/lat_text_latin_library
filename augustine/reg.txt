@@ -143,7 +143,7 @@ corrigatur.
 26. Si autem et post admonitionem iterum, vel alio quocumque die, id ipsum
 eum facere videritis, iam velut vulneratum sanandum prodat, quicumque hoc
 potuit invenire; prius tamen et alteri vel tertio demonstratum, ut duorum
-vel trium possit ore convinci et competenti severitate coërceri. Nec vos
+vel trium possit ore convinci et competenti severitate coÃŽrceri. Nec vos
 iudicetis esse malevolos, quando hoc indicatis. Magis quippe innocentes non
 estis, si fratres vestros, quos indicando corrigere potestis, tacendo perire
 permittitis. Si enim frater tuus vulnus haberet in corpore, quod vellet
@@ -247,7 +247,7 @@ veniam, aut non ex animo petit, sine causa est in monasterio, etiam si inde
 non proiciatur. Proinde vobis a verbis durioribus parcite; quae si emissa
 fuerint ex ore vestro, non pigeat ex ipso ore proferre medicamenta, unde
 facta sunt vulnera. 
-43. Quando autem necessitas disciplinae, minoribus coërcendis, dicere vos
+43. Quando autem necessitas disciplinae, minoribus coÃŽrcendis, dicere vos
 verba dura compellit, si etiam in ipsis modum vos excessisse sentitis, non a
 vobis exigitur, ut ab eis veniam postuletis, ne apud eos quos oportet esse
 subiectos, dum nimia servatur humilitas, regendi frangatur auctoritas. Sed
