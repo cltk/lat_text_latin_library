@@ -159,7 +159,7 @@ est, ea quam intellegi zhlotupi/an volo, aegritudo ex eo, quod alter quoque poti
  
 
  
-[ 18 ] Misericordia est aegritudo ex miseria alterius iniuria laborantis (nemo enim parricidae aut proditoris supplicio cordia commovetur); angor aegritudo premens, luctus aegritudo ex eius qui carus fuerit œnteritu acerbo, maeror aegritudo flebilis, aerumna aegritudo laboriosa, dolor aegritudo crucians, lamentatio aegritudo cum eiulatu, sollicitudo aegritudo cum cogitatione, molestia aegritudo permanens, adflictatio aegritudo cum vexatione corporis, desperatio aegritudo sine ulla rerum expectatione meliorum.
+[ 18 ] Misericordia est aegritudo ex miseria alterius iniuria laborantis (nemo enim parricidae aut proditoris supplicio cordia commovetur); angor aegritudo premens, luctus aegritudo ex eius qui carus fuerit ≈ìnteritu acerbo, maeror aegritudo flebilis, aerumna aegritudo laboriosa, dolor aegritudo crucians, lamentatio aegritudo cum eiulatu, sollicitudo aegritudo cum cogitatione, molestia aegritudo permanens, adflictatio aegritudo cum vexatione corporis, desperatio aegritudo sine ulla rerum expectatione meliorum.
  
 
  
@@ -313,7 +313,7 @@ vitiositas - sic enim malo quam malitiam appellare eam quam Graeci
  
 
  
- XVI . Quid autem est non miserius solum, sed foedius etiam et deformius quam aegritudine quis adflictus debilitatus iacens? Cui miseriae proxumus est is qui adpropinquans aliquod malum metuit exanimatusque pendet animi. Quam vim mali significantes poŒtae impendere apud inferos saxum Tantalo faciunt
+ XVI . Quid autem est non miserius solum, sed foedius etiam et deformius quam aegritudine quis adflictus debilitatus iacens? Cui miseriae proxumus est is qui adpropinquans aliquod malum metuit exanimatusque pendet animi. Quam vim mali significantes po≈ítae impendere apud inferos saxum Tantalo faciunt
  
 
  
@@ -334,7 +334,7 @@ abhorret a ratione, semper aliqui talis terror impendet.
  
 
  
-[ 38 ] Atque idem ita acrem in omnis partis aciem intendit, ut semper videat sedem sibi ac locum sine molestia atque angore vivendi, ut, quemcumque casum fortuna invexerit, hunc apte et quiete ferat. Quod qui faciet, non aegritudine solum vacabit, sed etiam perturbationibus reliquis omnibus. Hœs autem vacuus animus perfecte atque absolute beatos efficit, idemque concitatus et abstractus ab integra certaque ratione non constantiam solum amittit, verum etiam sanitatem. Quocirca mollis et enervata putanda est Peripateticorum ratio et oratio, qui perturbari animos necesse dicunt esse, sed adhibent modum quendam, quem ultra progredi non oporteat.
+[ 38 ] Atque idem ita acrem in omnis partis aciem intendit, ut semper videat sedem sibi ac locum sine molestia atque angore vivendi, ut, quemcumque casum fortuna invexerit, hunc apte et quiete ferat. Quod qui faciet, non aegritudine solum vacabit, sed etiam perturbationibus reliquis omnibus. H≈ìs autem vacuus animus perfecte atque absolute beatos efficit, idemque concitatus et abstractus ab integra certaque ratione non constantiam solum amittit, verum etiam sanitatem. Quocirca mollis et enervata putanda est Peripateticorum ratio et oratio, qui perturbari animos necesse dicunt esse, sed adhibent modum quendam, quem ultra progredi non oporteat.
  
 
  
@@ -456,7 +456,7 @@ ut magis placati quam irati esse videantur. Sed in illo genere sit sane Pacideia
  
 
  
-[ 52 ] Nescio ecquid ipsi nos fortiter in re p. fecerimus: si quid fecimus, certe irati non fecimus. An est quicquam similius insaniae quam ira? quam bene Ennius 'initium' dixit 'insaniae.' Color, vox, oculi, spiritus, inpotentia dictorum ac factorum quam partem habent sanitatis? Quid Achille Homerico foedius, quid Agamemnone in iurgio? Nam Aiacem quidem ira ad furorem mortemque perduxit. Non igitur desiderat fortitudo advocatam iracundiam; satis est instructa parata armata per sese. Nam isto quidem modo licet dicere utilem vinulentiam ad fortitudinem, utilem etiam dementiam, quod et insani et ebrii multa faciunt saepe vehementœus. Semper Aiax fortis, fortissimus tamen in furore; nam
+[ 52 ] Nescio ecquid ipsi nos fortiter in re p. fecerimus: si quid fecimus, certe irati non fecimus. An est quicquam similius insaniae quam ira? quam bene Ennius 'initium' dixit 'insaniae.' Color, vox, oculi, spiritus, inpotentia dictorum ac factorum quam partem habent sanitatis? Quid Achille Homerico foedius, quid Agamemnone in iurgio? Nam Aiacem quidem ira ad furorem mortemque perduxit. Non igitur desiderat fortitudo advocatam iracundiam; satis est instructa parata armata per sese. Nam isto quidem modo licet dicere utilem vinulentiam ad fortitudinem, utilem etiam dementiam, quod et insani et ebrii multa faciunt saepe vehement≈ìus. Semper Aiax fortis, fortissimus tamen in furore; nam
  
 
  
@@ -519,7 +519,7 @@ cupidus esse? in quo ira, non iracundus? in quo angor, non anxius? in quo timor,
 non timidus? Libidinosum igitur et iracundum et anxium et timidum censemus esse 
 sapientem? De cuius excellentia multa quidem dici quamvis fuse lateque possunt, 
 sed brevissime illo modo, sapientiam esse rerum divinarum et humanarum scientiam 
-cognitionemque, quae cuiusque rei causa sit; ex quo eflœcitur, ut divina 
+cognitionemque, quae cuiusque rei causa sit; ex quo efl≈ìcitur, ut divina 
 imitetur, humana omnia inferiore virtute ducat. In hanc tu igitur tamquam in 
 mare, quod est ventis subiectum perturbationem cadere tibi dixisti videri? Quid 
 est quod tantam gravitatem constantiamque perturbet? an improvisum aliquid aut 
@@ -561,7 +561,7 @@ Est autem utilis ad
 persuadendum ea quae acciderint ferri et posse et oportere enumeratio eorum qui 
 tulerunt. Etsi aegritudinis sedatio et hesterna disputatione explicata est et in 
 Consolationis libro, quem in medio - non enim sapientes eramus - maerore et 
-dolore conscripsimus; quodque vetat Chrysippus, ad recentœs quasi tumores animi 
+dolore conscripsimus; quodque vetat Chrysippus, ad recent≈ìs quasi tumores animi 
 remedium adhibere, id nos fecimus naturaeque vim attulimus, ut magnitudini 
 medicinae doloris magnitudo concederet.
 
@@ -572,7 +572,7 @@ medicinae doloris magnitudo concederet.
  
 
  
- XXXI . [ 65 ] Ac de malorum opinione hactenus; videamus nunc de bonorum, id est de laetitia et de cupiditate. Mihi quidem in tota ratione ea, quae pertinet ad animi perturbationem, una, res videtur causam continere, omnis eas esse in nostra potestate, omnis iudicio susceptas, omnis voluntarias. Hic igitur error est eripiendus, haec detrahenda opinio atque ut in malis opinatis tolerabilia, sic in bonis sedatiora sunt 	effœcienda ea quae magna et laetabilia ducuntur. Atque hoc quidem commune malorum et bonorum, ut, si iam difficile sit persuadere nihil earum rerum, quae perturbent animum, aut in bonis aut in malis esse habendum, tamen alia ad alium motum curatio sit adhibenda aliaque ratione malevolus, alia amator, alia rursus anxius, alia timidus corrigendus.
+ XXXI . [ 65 ] Ac de malorum opinione hactenus; videamus nunc de bonorum, id est de laetitia et de cupiditate. Mihi quidem in tota ratione ea, quae pertinet ad animi perturbationem, una, res videtur causam continere, omnis eas esse in nostra potestate, omnis iudicio susceptas, omnis voluntarias. Hic igitur error est eripiendus, haec detrahenda opinio atque ut in malis opinatis tolerabilia, sic in bonis sedatiora sunt 	eff≈ìcienda ea quae magna et laetabilia ducuntur. Atque hoc quidem commune malorum et bonorum, ut, si iam difficile sit persuadere nihil earum rerum, quae perturbent animum, aut in bonis aut in malis esse habendum, tamen alia ad alium motum curatio sit adhibenda aliaque ratione malevolus, alia amator, alia rursus anxius, alia timidus corrigendus.
  
 
  
@@ -632,7 +632,7 @@ ut nihil videam quod putem conferendum. Quem Caecilius
  
 
  
-[ 69 ] 0 praeclaram emendatricem vitae poŒticam, quae 
+[ 69 ] 0 praeclaram emendatricem vitae po≈íticam, quae 
 amorem flagitii et levitatis auctorem in concilio deorum conlocandum putet! De 
 comoedia loquor, quae, si haec flagitia non probaremus, nulla esset omnino; quid 
 ait ex tragoedia princeps ille Argonautarum?
@@ -642,7 +642,7 @@ ait ex tragoedia princeps ille Argonautarum?
 'Tu me amoris magis quam honoris servavisti gratia.' 
 
  
-Quid ergo? hic amor Medeae quanta miseriarum excitavit incendia! Atque ea tamen apud alium poŒtam patri dicere audet se 'coniugem' habuisse
+Quid ergo? hic amor Medeae quanta miseriarum excitavit incendia! Atque ea tamen apud alium po≈ítam patri dicere audet se 'coniugem' habuisse
  
 
  
@@ -654,7 +654,7 @@ Quid ergo? hic amor Medeae quanta miseriarum excitavit incendia! Atque ea tamen 
  
 
  
- XXXIII . [ 70 ] Sed poŒtas ludere sinamus, quorum fabulis in hoc flagitio versari ipsum videmus Iovem: ad magistros virtutis philosophos veniamus, qui amorem negant stupri esse et in eo litigant cum Epicuro non multum, ut opinio mea fert, mentiente. Quis est enim iste amor amicitiae? cur neque deformem adulescentem quisquam amat neque formosum senem? Mihi quidem haec in Graecorum gymnasiis nata consuetudo videtur, in quibus isti liberi et concessi sunt amores. Bene ergo Ennius:
+ XXXIII . [ 70 ] Sed po≈ítas ludere sinamus, quorum fabulis in hoc flagitio versari ipsum videmus Iovem: ad magistros virtutis philosophos veniamus, qui amorem negant stupri esse et in eo litigant cum Epicuro non multum, ut opinio mea fert, mentiente. Quis est enim iste amor amicitiae? cur neque deformem adulescentem quisquam amat neque formosum senem? Mihi quidem haec in Graecorum gymnasiis nata consuetudo videtur, in quibus isti liberi et concessi sunt amores. Bene ergo Ennius:
  
 
  
@@ -669,7 +669,7 @@ continent et coercent.
  
 
  
-[ 71 ] Atque, ut muliebris amores omittam, quibus maiorem licentiam natura concessit, quis aut de Ganymedi raptu dubitat, quid poetae velint, aut non intellegit, quid apud Euripidem et loquatur et cupiat Laius? Quid denique homines doctissimi et summi poetae de se ipsis et carminibus edunt et cantibus? Fortis vir in sua re p. cognitus quae de iuvenum amore scribit Alcaeus! Nam Anacreontis quidem tota poŒsis est amatoria. Maxume vero omnium flagrasse amore Reginum Ibycum apparet ex scriptis.
+[ 71 ] Atque, ut muliebris amores omittam, quibus maiorem licentiam natura concessit, quis aut de Ganymedi raptu dubitat, quid poetae velint, aut non intellegit, quid apud Euripidem et loquatur et cupiat Laius? Quid denique homines doctissimi et summi poetae de se ipsis et carminibus edunt et cantibus? Fortis vir in sua re p. cognitus quae de iuvenum amore scribit Alcaeus! Nam Anacreontis quidem tota po≈ísis est amatoria. Maxume vero omnium flagrasse amore Reginum Ibycum apparet ex scriptis.
  
 
  
@@ -682,7 +682,7 @@ Sapientem amaturum esse dicunt amorem ipsum 'conatum amicitiae faciendae ex
 pulchritudinis specie' definiunt. Qui si quis est in rerum natura sine 
 sollicitudine, sine desiderio, sine cura, sine suspirio, sit sane; vacat enim 
 omni libidine; haec autem de libidine oratio est. Sin autem est aliquis amor, ut 
-est certe, qui nihil absit aut non multum ab insanœa, qualis in Leucadia est:
+est certe, qui nihil absit aut non multum ab insan≈ìa, qualis in Leucadia est:
  
 
  
@@ -796,7 +796,7 @@ totum animum esse debet.
  
 
  
-[ 78 ] His aut subtrahendi sunt ei, in quos impetum conantur facere, dum se ipsi conligant, - quid est autem se ipsum colligere nisi dissupatas animi partis rursum in suum locum cogere? - aut rogandi orandique sunt, ut, si quam habent ulciscendi vim, differant in tempus aliud, dum defervescat ira. Defervescere autem certe signiiœcat ardorem animi invita ratione excitatum. Ex quo illud laudatur Archytae, qui cum vilico factus esset iratior, 'Quo te modo' inquit 'accepissem, nisi iratus essem!'
+[ 78 ] His aut subtrahendi sunt ei, in quos impetum conantur facere, dum se ipsi conligant, - quid est autem se ipsum colligere nisi dissupatas animi partis rursum in suum locum cogere? - aut rogandi orandique sunt, ut, si quam habent ulciscendi vim, differant in tempus aliud, dum defervescat ira. Defervescere autem certe signii≈ìcat ardorem animi invita ratione excitatum. Ex quo illud laudatur Archytae, qui cum vilico factus esset iratior, 'Quo te modo' inquit 'accepissem, nisi iratus essem!'
  
 
  

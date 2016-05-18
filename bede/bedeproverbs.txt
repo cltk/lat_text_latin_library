@@ -51,10 +51,10 @@ Psuedo-Bede: Proverbs
 &#183; Avaro tam deest quod habet, quam quod non habet. 
 &#183; Avaritia semper odiosos, largitas claros facit. 
 &#183; Avaritia desideratis opibus non exstinguitur, sed augetur. 
-&#183; Ante conversionem praecedit turba peccatorum,post conversionem sequitur turba tentationum.  
+&#183; Ante conversionem praecedit turba peccatorum,post conversionem sequitur turba tentationum.â€  
 &#183; Alterius virtutis ope virtus indiget omnis. 
 &#183; Amare recta non poteris, nisi pro Christo humilieris. 
-&#183; Ad humilitatem non potes pervenire, nisi magna utrusque hominis contritione.  
+&#183; Ad humilitatem non potes pervenire, nisi magna utrusque hominis contritione.â€  
 &#183; Ardua fides robustos exigit annos. 
 &#183; Affectus carnis nisi mentis iure demantur, unumquemque hominem ducunt ad perditionem. 
 &#183; Ardua res nimium famulari post dominatum. 
@@ -70,7 +70,7 @@ Psuedo-Bede: Proverbs
 &#183; Beati quorum remissae sunt iniquitates,et quorum tecta sunt peccata. 
 &#183; Benedictus Dominus DeusIsrael, quifacit mirabilia solus. 
 &#183; Beatus qui intelligit super egenum et pauperem, in die mala liberabit eum Deus. 
-&#183; Beatus qui tenebit et allidet parvulos suosad petram.  
+&#183; Beatus qui tenebit et allidet parvulos suosad petram.â€  
 &#183; Brachia peccatorum conterentur, confirmat autem iustosDeus. 
 &#183; Bonus pastor animam suam dat pro ovibus suis. 
 &#183; Beati qui esuriunt et sitiunt iustitiam, quoniam ipsi saturabuntur. 
@@ -81,7 +81,7 @@ Psuedo-Bede: Proverbs
 &#183; Bonum est viro cum portaverit iugum ab adolescentia sua. 
 &#183; Bonus est Dominus sperantibus in eum, animae quaerenti illum. 
 &#183; Brevis omnis malitia super malitiam mulieris. 
-&#183; Beatus qui habet partem in resurrectione prima.  
+&#183; Beatus qui habet partem in resurrectione prima.â€  
 &#183; Beatus vir qui suffert tentationem, quoniam cum probatus fuerit, accipiet coronam vitae. 
 &#183; Bene loqui et male vivere, nihil est aliud nisi seipsum damnare. 
 &#183; Bonum intellectum habet, qui quod recte intelligit, facit. 
@@ -91,7 +91,7 @@ Psuedo-Bede: Proverbs
 &#183; Bonum si facere nequeas, non tamen culpes, vel prohibeas. 
 &#183; Bona conscientia in tenebris splendorem proprium tenet. 
 &#183; Brevitas vitae praesentis pensanda est ab universis. 
-&#183; Bellum optimum agitur, cum spiritus carni adversatur.  
+&#183; Bellum optimum agitur, cum spiritus carni adversatur.â€  
 &#183; Bellator fortis qui se poterit superare. 
 &#183; Bis gratum tribuit, qui quod debet cito reddit. 
 &#183; Blandus mansuetis sis, districtusque superbis. 
@@ -108,7 +108,7 @@ Psuedo-Bede: Proverbs
 &#183; Charos nemo suos Christo praeponere debet. 
 &#183; Coeli enarrant gloriam Dei, et opera manuum eius annuntiat firmamentum. 
 &#183; Cum electo electus eris, et cum perverso perverteris. 
-&#183; Cor contritum et humiliatum Deus non despiciet.  
+&#183; Cor contritum et humiliatum Deus non despiciet.â€  
 &#183; Considerat peccator iustum, et quaerit mortificare eum. 
 &#183; Calix in manu Domini vini meri plenus misto. 
 &#183; Confitemini Domino quoniam bonus, quoniam in saeculum misericordia eius. 
@@ -140,7 +140,7 @@ Psuedo-Bede: Proverbs
 &#183; Credens Deum omnia posse praestare, petita citius meretur obtinere. 
 &#183; Contra Deum consilium nec magnum nec minimum. 
 &#183; Causa quae non praevidetur, non permittit quemquam ad meliora proficere. 
-&#183; Coactum servitium Deus non quaerit.  
+&#183; Coactum servitium Deus non quaerit.â€  
 &#183; Custos castitatis est virtus humililatis. 
 &#183; Cito in crimina maiora corruit, qui parva pro nihilo ducit. 
 &#183; Caput est discordiae, quaeex communibus propriastudet facere. 
@@ -153,7 +153,7 @@ Psuedo-Bede: Proverbs
 &#183; Coelum non animum mutant, qui trans mare currunt. 
 &#183; Crescit amor nummi, quantum ipsa pecunia crescit. 
 &#183; Confer opem miseris quamcunque vales, et egenis. 
-&#183; Copia virtutum constat corpus velut unum.  
+&#183; Copia virtutum constat corpus velut unum.â€  
 &#183; Crimen aequale committunt, et is qui alicui detrahit, et qui detrahentem libenter audit. 
 &#183; Cum dolore abscindenda sunt, quae leviter sanari non possunt. 
 &#183; Cuius quisque facit opera, eius vocatur filius. 
@@ -177,7 +177,7 @@ Psuedo-Bede: Proverbs
 &#183; Dominus scit cogitationes hominum, quoniam vanaesunt. 
 &#183; Dulcis et rectus Dominus, propter hoc legem dabit delinquentibus in via. 
 &#183; Deus iudex iustus, fortis et patiens. 
-&#183; Dominus virtutum ipse est rex gloriae.  
+&#183; Dominus virtutum ipse est rex gloriae.â€  
 &#183; Deus manifeste veniet, et non silebit. 
 &#183; Divites egueruntet esurierunt, inquirentes autem Dominum non minuentur omni bono. 
 &#183; Delectare in Domino, et dabit tibi petitiones cordis tui. 
@@ -190,7 +190,7 @@ Psuedo-Bede: Proverbs
 &#183; Deus fidelis et absque ulla iniquitate. 
 &#183; Dominus pauperem facit et ditat, humiliate et sublimat. 
 &#183; Dominus mortificat, vivificat, deducit ad inferos, et reducit. 
-&#183; Deum time, et mandata eius observa, hoc est omnis homo.   
+&#183; Deum time, et mandata eius observa, hoc est omnis homo. â€  
 &#183; Disciplinam Domini ne abiicias, nec deficias cum ab eo corriperis. 
 &#183; Diligite iustitiam, qui iudicatis terram. 
 &#183; Divitiae salutis sapientia et scientia. 
@@ -204,7 +204,7 @@ Psuedo-Bede: Proverbs
 &#183; Dum tempus habemus, operemur bonum ad omnes, maxime autem ad domesticos fidei. 
 &#183; Deum quaerens, gaudium quaerit. 
 &#183; Discretio est mater virtutum. 
-&#183; Disciplina vel misericordia multum destituitur, si una sine altera teneatur.   
+&#183; Disciplina vel misericordia multum destituitur, si una sine altera teneatur. â€  
 &#183; Difficile corrigitur nequitia, quam concipit quis in pueritia. 
 &#183; Deo nihil mali est imputandum, quandoquidem ipso malo utitur ad bonum. 
 &#183; Difficile est cuiquam agnoscere sanitatis gratiam, nisi per infirmitatis disciplinam. 
@@ -214,7 +214,7 @@ Psuedo-Bede: Proverbs
 &#183; Diu iacens in peccatis, diu quoque si converti voluerit, diabolicae tentationis molestias sustinebit. 
 &#183; Deus ideo dicitur creans mala, quia et pro peccatis nostris immittit flagella. 
 &#183; Divinus sermo sicut mysteriis prudentes exercet, ita superficie simplices refovet. 
-&#183; Deo magis placet, qui sibi puras quam qui plenas manus praebet.   
+&#183; Deo magis placet, qui sibi puras quam qui plenas manus praebet. â€  
 &#183; Difficilius arrogantia quam auro et gemmis caremus. 
 &#183; Duplicis peccati reatus est, et non esse sanctus quod crederis, et simulare quod sanctus sis. 
 &#183; Dum iniusti saeviunt, iusti purgantur. 
@@ -232,7 +232,7 @@ Psuedo-Bede: Proverbs
 
  
 &#183; E 
-&#183; Excelsus super omnes gentes Dominus, et super coelos gloria eius.   
+&#183; Excelsus super omnes gentes Dominus, et super coelos gloria eius. â€  
 &#183; ExspectaDominum, viriliter age, et confertetur cor tuum, et sustine Dominum. 
 &#183; Ecce quam bonum et quam iucundum habitare fratres in unum. 
 &#183; Ex abundantia cordis os loquitur. 
@@ -242,7 +242,7 @@ Psuedo-Bede: Proverbs
 &#183; Eadem mensura qua mensi fueritis, remetietur vobis. 
 &#183; Erue eos qui ducuntur ad mortem, et qui trahuntur ad interitum liberare ne cesses. 
 &#183; Exsecratio peccatori cultura Dei. 
-&#183; Egestas et ignominia ei qui deserit disciplinam, qui autem acquiescit arguenti, glorificabitur.   
+&#183; Egestas et ignominia ei qui deserit disciplinam, qui autem acquiescit arguenti, glorificabitur. â€  
 &#183; Est via quae videtur homini iusta,novissima autem eius deducunt ad mortem. 
 &#183; Equus paratur ad bellum, sed a Domino victoria datur. 
 &#183; Exstudiis suis agnoscitur puer. 
@@ -280,7 +280,7 @@ Psuedo-Bede: Proverbs
 &#183; Frange esurienti panem tuum, et egenos vagosque induc in domum tuam. 
 &#183; Frustra iacitur rete ante oculospennatorum. 
 &#183; Favus stillans labia meretricis, et nitidiu soleo guttur eius, novissima autem illius amara quasi absinthium. 
-&#183; Fallax gratia et vana est pulchritudo, mulier timens Deum, ipsa laudabitur.   
+&#183; Fallax gratia et vana est pulchritudo, mulier timens Deum, ipsa laudabitur. â€  
 &#183; Flagellat Deus omnem filium quem recipit. 
 &#183; Feneratur Domino, qui miseretur pauperis. 
 &#183; Fugit impius nemine persequente, iustus autem quasi leo confidens absque terrore erit. 
@@ -311,7 +311,7 @@ Psuedo-Bede: Proverbs
 &#183; Flammae inexstinguibili quandoque tradetur, qui hic avaritiae et malitiae suae incendia exstinguere neglexit. 
 &#183; Facilis venia huic est danda, qui non peccat exindustria. 
 &#183; Fortior est qui cupiditates quam qui hostes subiicit. 
-&#183; Ferox atque inquietus linguam semper litigiis exercens cani comparatur.   
+&#183; Ferox atque inquietus linguam semper litigiis exercens cani comparatur. â€  
 &#183; Fornicamur a Domino, quando adulterinis cogitationibus ab eius amore casto deviamus. 
 &#183; Foedis immundisque libidinibus deditus, sordidae suis voluptatem imitatur. 
 &#183; Facile offendit qui non optimis, sed pessimis placere cupit. 
@@ -338,7 +338,7 @@ Psuedo-Bede: Proverbs
 &#183; Grandis offensa nolle placare quem offenderis. 
 &#183; Grandis Ecclesiae destructio neglecta coenobiorum provisio. 
 &#183; Gestucorporis habitus demonstratur mentis. 
-&#183; Gladius utraque parte acutus est verbum Dei, penetrans animam et corpus.   
+&#183; Gladius utraque parte acutus est verbum Dei, penetrans animam et corpus. â€  
 &#183; Gravissimum inimicitiae genus, labiis benedicere, et corde maledicere. 
 &#183; Gloriari et superbire pro temporibus commodis, indicium est animi insipientis. 
 &#183; Gloriosius est iniuriam tacendo tolerare quam respondendo vindicare. 
@@ -351,7 +351,7 @@ Psuedo-Bede: Proverbs
 &#183; Grata Deo dona fert, qui frangit mala vota. 
 &#183; Gaudens in Domino gustat suavissima mella. 
 &#183; Grande scelus grandi studio debet superari. 
-&#183; Gloria mundana nullis est prorsus amanda.   
+&#183; Gloria mundana nullis est prorsus amanda. â€  
 &#183; Gratia sola Dei quos vult facit alta mereri.
  
 
@@ -366,7 +366,7 @@ Psuedo-Bede: Proverbs
 &#183; Honora Dominum de tua substantia, et de primitiis frugum tuarum da pauperibus. 
 &#183; Humiliamini sub potenti manu Dei, ut vos exaltet in tempore visitationis. 
 &#183; Hilarem datorem diligit Deus. 
-&#183; Hora est iam nos de somno surgere.   
+&#183; Hora est iam nos de somno surgere. â€  
 &#183; Homo nascitur ad laborem, avis ad volatum. 
 &#183; Haereticum hominem post unam et secundam correptionem devita. 
 &#183; Horrendum est incidere in manus Dei. 
@@ -377,7 +377,7 @@ Psuedo-Bede: Proverbs
 &#183; Honor Deo exhibitus exhibentes aeterna gloria dignos facit. 
 &#183; Honorem et imperium si vis habere, dabo tibi magnum, impera tibi. 
 &#183; Honorare parentes, ad omnes pertinet homines. 
-&#183; Humilibus et fidelibus divinae legis mysteria patent, superbis autem et infidelibus latent.   
+&#183; Humilibus et fidelibus divinae legis mysteria patent, superbis autem et infidelibus latent. â€  
 &#183; Hoc est funditus a malo recedere, ex amore Dei iam nolle peccare. 
 &#183; Homines plusquam Deum timere, non est religionis Christianae. 
 &#183; Haeres et propinquus est spiritualis amicus. 
@@ -394,7 +394,7 @@ Psuedo-Bede: Proverbs
 &#183; Intellectus bonus omnibus facientibus eum. 
 &#183; In circuitu impii ambulant. 
 &#183; In Deo faciemus virtutem, et ipse ad nihilum deducet inimicos nostros. 
-&#183; Immittit angelos Domini in circuitu timentium eum, et eripiet eos.   
+&#183; Immittit angelos Domini in circuitu timentium eum, et eripiet eos. â€  
 &#183; In memoria aeterna erit iustus, ab auditione mala non timebit. 
 &#183; In patientia vestra possidebitis animas vestras. 
 &#183; Impius cum in profundum peccatorum venerit, contemnet. 
@@ -416,7 +416,7 @@ Psuedo-Bede: Proverbs
 &#183; Iter longum agentes maiori providentia indigent quam prope proficiscentes. 
 &#183; Ita et monachi iugiter Deo servientes magis egent provideri quam caeteri libere viventes. 
 &#183; Infinito labori finitus quantuscunque sit comparari nequit. 
-&#183; Invisibilia Dei per ea quae facta sunt intellecta conspiciuntur.   
+&#183; Invisibilia Dei per ea quae facta sunt intellecta conspiciuntur. â€  
 &#183; Infirma mundi elegit Deus ut confundat fortia. 
 &#183; Initium bonorum confessio est malorum. 
 &#183; Incassum caro affligitur, si mens voluptatibus non reluciatur. 
@@ -430,7 +430,7 @@ Psuedo-Bede: Proverbs
 &#183; Inopi beneficium bis dat, qui dat celeriter. 
 &#183; Inopiae parva, avaritiae desunt omnia. 
 &#183; Inimicos diligere grave quidem est praeceptum, sed grande praemium. 
-&#183; Improvidus miles fortem se in pace gloriatur.   
+&#183; Improvidus miles fortem se in pace gloriatur. â€  
 &#183; Illis dimittuntur minima, qui maiora districte fleverunt peccata. 
 &#183; In malis sperare bona, nemo nisi innocens solet. 
 &#183; Inmultis frustra laborat, qui sua magis quam se ipsum Deo offerre studet. 
@@ -458,8 +458,8 @@ Psuedo-Bede: Proverbs
 &#183; Iustus es, Domine, et rectum iudicium tuum. 
 &#183; Iustorum semita quasi lux splendens procedit,etcrescit usque ad perfectam diem. 
 &#183; Iudicium durissimum in his qui praesunt fiet. 
-&#183; Iustus ex fide vivit.   
-&#183; Iusti vocabulum non amittit, qui per poenitentiam semper resurgit.   
+&#183; Iustus ex fide vivit. â€  
+&#183; Iusti vocabulum non amittit, qui per poenitentiam semper resurgit. â€  
 &#183; Ieiunium non est perfecta virtus, sed multarum virtutum fundamentum. 
 &#183; Iustitia humana tam fragilis est, ut potius remissione peccatorum constet, quam perfectione virtutum. 
 &#183; Iugiter attendendum quanta Dei gratia sit nobiscum.
@@ -497,7 +497,7 @@ Psuedo-Bede: Proverbs
 &#183; Lucrum turpe ut dispendium fugito. 
 &#183; Levis atque inconstans nihil avibus differt. 
 &#183; Licet multis vita tua placeat, tibi placere non debet. 
-&#183; Lucrum sine damno alterius fieri non potest.   
+&#183; Lucrum sine damno alterius fieri non potest. â€  
 &#183; Libidinis impetus abstinentiae expellit virtus. 
 &#183; Latentem superbiam nil magis non comprimit, quam culpa patens. 
 &#183; Lascivus iuvenis eget ut crebro moneatur. 
@@ -524,7 +524,7 @@ Psuedo-Bede: Proverbs
 &#183; Mors peccatorum pessima; et qui oderunt iustum, delinquent. 
 &#183; Melius est modicum iusto super divitias peccatorum multas. 
 &#183; Maiorem charitatem nemo habet, quam ut animam suam ponat quis pro amicis suis. 
-&#183; Mercenarius videt lupum venientem, et dimittit oves, et fugit.   
+&#183; Mercenarius videt lupum venientem, et dimittit oves, et fugit. â€  
 &#183; Melior est obedientia quam victimae. 
 &#183; Meliora sunt vulnera diligentis, quam fraudulenta oscula odientis. 
 &#183; Melior est patiens viro forti, et qui dominatur animo suo, expugnatore urbium. 
@@ -536,7 +536,7 @@ Psuedo-Bede: Proverbs
 &#183; Melius est a sapiente corripi, quam stultorum adulatione decipi. 
 &#183; Memoria iusti cum laudibus, et nomen impiorum putrescet. 
 &#183; Memento Creatoris tui in diebus iuventutis tuae. 
-&#183; Militia est vita hominis super terram, et sicut dies mercenarii dies eius.   
+&#183; Militia est vita hominis super terram, et sicut dies mercenarii dies eius. â€  
 &#183; Mors et vita in manibus linguae. 
 &#183; Multum valet deprecatio iusti assidua. 
 &#183; Modicum fermentum totam massam corrumpit. 
@@ -557,7 +557,7 @@ Psuedo-Bede: Proverbs
 &#183; Male Sabbatum celebrat, qui a bonis operibus vacat. 
 &#183; Magna pars intelligentiae scire quid nescias. 
 &#183; Magna securitas est cordis, aliena non appetere. 
-&#183; Militis cuiuslibet fortitudo non agnoscitur, nisi in bello.   
+&#183; Militis cuiuslibet fortitudo non agnoscitur, nisi in bello. â€  
 &#183; Mala mors putanda non est, quam bona vita praecessit. 
 &#183; Malus ubi se simulat bonum, ibi est pessimus. 
 &#183; Male imperando summum imperium amittitur. 
@@ -660,7 +660,7 @@ Psuedo-Bede: Proverbs
 &#183; Omnis qui se exaltat humiliabitur, et qui se humiliat exaltabitur. 
 &#183; Omnis arbor quae non facit fructum bonum, excidetur et in ignem mittetur. 
 &#183; Omni habenti dabitur, ab eo autem quinon habet et quod habet auferetur ab eo. 
-&#183; Omne peccatum et blasphemia remittetur hominibus, spiritus autem blasphemia non remittetur.   
+&#183; Omne peccatum et blasphemia remittetur hominibus, spiritus autem blasphemia non remittetur. â€  
 &#183; Orate ne fuga vestra fiat hieme vel Sabbato. 
 &#183; Omnia possibilia sunt credenti. 
 &#183; Omni tempore benedic Deum, et pete ab eo ut vias tuas dirigat. 
@@ -670,7 +670,7 @@ Psuedo-Bede: Proverbs
 &#183; Omnis sapientia a Domino Deo est, et cum illo fuit semper. 
 &#183; Odium suscitat rixas, et universa delicta operit charitas. 
 &#183; Omnia operatur unus atque idem spiritus, dividens singulis prout vult. 
-&#183; Omne quodcunque facilis in verbo aut in opere, omnia in nomine Domini Iesu, gratias agents Deo et Patri per ipsum.   
+&#183; Omne quodcunque facilis in verbo aut in opere, omnia in nomine Domini Iesu, gratias agents Deo et Patri per ipsum. â€  
 &#183; Omnes unanimes in oratione estote, compatientes, fraternitatis amatores, misericordes, modesti, humiles. 
 &#183; Omnegaudiumexistimate cum in tentationes varias incideritis. 
 &#183; Omnis qui odit fratrem suum, homicida est. 
@@ -697,7 +697,7 @@ Psuedo-Bede: Proverbs
 &#183; Omni praelato subiectus sis quasi Christo. 
 &#183; quantis curis mens indiget omnibus horis. 
 &#183; Osquod mentitur, animam iugulare refertur. 
-  
+â€  
 &#183; P 
 &#183; Propeest Dominus omnibus invocantibus eum in veritate. 
 &#183; Pretiosain conspectu Domini mors sanctorum eius. 
@@ -722,7 +722,7 @@ Psuedo-Bede: Proverbs
 &#183; Petitis, et non accipitis, eo quod male petatis. 
 &#183; Plenitudo legis est dilectio. 
 &#183; Per multas tribulationes oportet nos intrare in regnum Dei. 
-&#183; Peccantes coram omnibus arguantur, ut caeteri metum habeant.   
+&#183; Peccantes coram omnibus arguantur, ut caeteri metum habeant. â€  
 &#183; Positi in deliciis attendere nequeunt quanta sit poena perennis. 
 &#183; Pax vera est dicenda, cum spiritus et caro conveniunt omni modo. 
 &#183; Pacificus homo filius Dei meretur vocari. 
@@ -732,7 +732,7 @@ Psuedo-Bede: Proverbs
 &#183; Par supplicium subibunt, qui pariter peccaverunt. 
 &#183; Poenitentia vera est et perpetrata mala plangere, et plangenda non perpetrare. 
 &#183; Publica culpa, publica etiam indiget poenitentia. 
-&#183; Poenas gravissimas quandoque sunt passuri, qui non pro sceleribus suis renunnt parva flagella pati.   
+&#183; Poenas gravissimas quandoque sunt passuri, qui non pro sceleribus suis renunnt parva flagella pati. â€  
 &#183; Plenus venter facile disputat de ieiuniis. 
 &#183; Perfectum odium est, quod nec iustitia nec ratione caret. 
 &#183; Peccatum peccato adiicitur, cum id quod nequiter gestum est nequiter etiam defenditur. 
@@ -761,7 +761,7 @@ Psuedo-Bede: Proverbs
 
  
 &#183; Q 
-&#183; Quam bonus Israel Deus his qui recto sunt corde.   
+&#183; Quam bonus Israel Deus his qui recto sunt corde. â€  
 &#183; Quaerite Dominum, et confirmamini; quaerite faciem eius semper. 
 &#183; Quaerite Dominum,et vivet anima vestra. 
 &#183; Qui timetis Dominum, laudate eum. 
@@ -822,7 +822,7 @@ Psuedo-Bede: Proverbs
 &#183; Qui ignorat,ignorabitur. 
 &#183; Qualis sit quilibet pastor, lupus adveniens indicat. 
 &#183; Qualis apud se quisque lateat, illata contumelia probat. 
-&#183; Quam laudem merebimur de pallore ieiunii, si invidia sumus lividi?   
+&#183; Quam laudem merebimur de pallore ieiunii, si invidia sumus lividi? â€  
 &#183; Quid virtutis habet vinum non bibere, et ira atque odio inebriari? 
 &#183; Quid prodest attenuari corpus abstinentia, si animus intumescat superbia? 
 &#183; Quasi in sacculum pertusum res suas ingerit, qui et bona aliqua agit, et tamen nulla pravitatis solitae studia deserit. 
@@ -831,7 +831,7 @@ Psuedo-Bede: Proverbs
 &#183; Quantumbonum habeat sanitas, ostendit infirmitas. 
 &#183; Qui succurrere perituro potest, si non succurrat, reus mortis eius erit. 
 &#183; Qui verbis lenibus potest corrigi, non debet increpatione exasperari. 
-&#183; Qui casti perseverantet virgines, angelisDeiefficiuntur aequales.   
+&#183; Qui casti perseverantet virgines, angelisDeiefficiuntur aequales. â€  
 &#183; Quisquis iugiter tractatut bona aliqua faciat, sine intermissione orat. 
 &#183; Quaecunque mensuram excedunt, daemonia suggerunt. 
 &#183; Quantum quis in humilitate et castitate profecerit, tantum Deo appropinquabit. 
@@ -841,7 +841,7 @@ Psuedo-Bede: Proverbs
 &#183; Quaemodo quisque legit, haec habiturus erit, seu bona, sive mala, semper habebit ea. 
 &#183; Quousque homini non displicent mala a se facta, regnant in eo vitia. 
 &#183; Qui nunquam didicit subesse, nulli potest rite praeesse. 
-&#183; Quid infeliciusquam conspectafelicitate aliorumaffici?   
+&#183; Quid infeliciusquam conspectafelicitate aliorumaffici? â€  
 &#183; Quod unusquisque non expertus est in semetipso, difficile credit in alio. 
 &#183; Quis dives? Qui nil cupit. Et quis pauper? Avarus. 
 &#183; Quod satis est cui contingit, nihil amplius optet. 
@@ -852,10 +852,10 @@ Psuedo-Bede: Proverbs
 &#183; Qui tibi dat multum, de te quoque quaerit idipsum. 
 &#183; Quam bonus est Dominus cunctis quaerentibus illum! 
 &#183; Quam tenebrosus amor quo lucis spernitur auctor! 
-  
+â€  
 &#183; R 
 &#183; Regnum tuum, Domine, regnum omnium saeculorum. 
-&#183; Rectos decet laudatio.   
+&#183; Rectos decet laudatio. â€  
 &#183; Redimet Dominus animas servorum suorum, et non delinquet omnes qui sperant in eo. 
 &#183; Revela Domino viam tuam, et spera in eum,etipse faciet. 
 &#183; Recte iudicate, filii hominum. 
@@ -912,7 +912,7 @@ Psuedo-Bede: Proverbs
 &#183; Sapiens cor et intelligibile abstinet se a peccatis. 
 &#183; Stultitia colligata est in corde pueri, et virga disciplinae fugabit eam. 
 &#183; Statera dolosa abominatio est apud Deum, et pondus aequum voluntas eius. 
-&#183; Sapiens ut sol permanet, slultus autem ut luna mutatur.   
+&#183; Sapiens ut sol permanet, slultus autem ut luna mutatur. â€  
 &#183; Semel loquitur Deus, et secundo non repetit. 
 &#183; Sapientiam omnium antiquorum exquirit sapiens. 
 &#183; Sapientia absconditaet thesaurus invisus; quae utilitas in utrisque? 
@@ -947,7 +947,7 @@ Psuedo-Bede: Proverbs
 &#183; Sapiens est, qui factis plus quam verbis alios docet. 
 &#183; Salus est divitum, subvenire necessitatibus pauperum. 
 &#183; Sagittas contumeliae virtus repellit patientiae. 
-&#183; Scorpiones dici possunt, qui bonis quidem in facie non resistunt, sed mox cum recesserint detrahunt.   
+&#183; Scorpiones dici possunt, qui bonis quidem in facie non resistunt, sed mox cum recesserint detrahunt. â€  
 &#183; Semetipsum abnegat, qui, relicto carnalis vitae homine, induit spiritualem et novum hominem, id est, Christum. 
 &#183; Stultum valde est, si his placere quaerimus, quos non placere Deo scimus. 
 &#183; Sufficit unicuique sic disputare vel dictare, ut intelligatur. 
@@ -1004,7 +1004,7 @@ Psuedo-Bede: Proverbs
 &#183; Temporatum omne tam Deo quam hominibus est acceptabile. 
 &#183; Tormenta quorumdam aliis prosunt ad correctionem. 
 &#183; Tantum quisque proximum portat, quantum amat. 
-&#183; Tanto peiora sunt vitia, quanto virtutum specie celantur.   
+&#183; Tanto peiora sunt vitia, quanto virtutum specie celantur. â€  
 &#183; Tamdiu quis errat in fide, quousque omnia a Deo inspici et regi diffidit. 
 &#183; Tecta odia peiora sunt quam aperta. 
 &#183; Tale genus est vitiorum, ut nisi praeteritum celeri poenitentia deleatur, alia exinde oriantur. 

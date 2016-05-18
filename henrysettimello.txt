@@ -72,7 +72,7 @@ Quid tibi, magne, tuli, quid, Jupiter? Unde nocendi
 ista sitis? Celo fulmina nulla tuli, 
 Nec petii thalamos Junonis, nec volui, nec 
 seva giganteis fratribus arma dedi. 
-Cur michi, seve, noces? Cur? Cur? Dic. ‚ Nescio. ‚ Nescis? 
+Cur michi, seve, noces? Cur? Cur? Dic. Ã‡ Nescio. Ã‡ Nescis? 
 Ergo quid innocuo, Jupiter alte, noces? 
 Hic nimis insanum redolet, caret et Salomone, 
 qui nocet innocuo quique nocere cupit. 
@@ -148,7 +148,7 @@ qui nimis omnimoda prosperitate caret.
 Quid sim, quid fuerim, cuias, ubi, quid vocer, unde 
 natus, homo vel humus nescio, mentis inops. 
 Me domini, sotii noti, quod maius, amici, 
-‚ pro scelus! ‚ in medio deseruere mari. 
+Ã‡ pro scelus! Ã‡ in medio deseruere mari. 
 Dum Zephyrus flabat, multis comitabar amicis; 
 nunc omnes Aquilo, turbine flante, fugat. 
 Ut phylomena canens frondes sonitumque canorum, 
@@ -344,7 +344,7 @@ me timet, exhorret, me veneratur, amat.
 Nonne potestates mundi mundique minora 
 imperio cogo subdere cuncta meo? 
 Nuper Alamannus, Siculam delatus in oram, 
-ludendo feriÁam perdidit ipse suam. 
+ludendo feriÂ¡am perdidit ipse suam. 
 Perdidit hic equites, rochos peditesque minores, 
 perdidit alphinos: vix bene tutus abit. 
 Meque Saladinus, nimium vexilla salutis 
@@ -764,7 +764,7 @@ Tunc ego: "Scire velim, si non nimis esset onustum:
 mundus an hic vene deterioris erit, 
 an proprium, quod amo, scelus exuet an magis isto 
 qui iacet infelix stabit in esse suo? 
-Dic tamen ‚ unde supra memini bene ‚ cur retulisti: 
+Dic tamen Ã‡ unde supra memini bene Ã‡ cur retulisti: 
 "inmundus mundus que tibi munda dabit"?"
  
 
@@ -787,7 +787,7 @@ Mundus alit fraudes, refovet scelus, arcet honesta,
 recta fugit, violat federa, fera cupit. 
 Ipsa, caput mundi, venalis curia pape 
 prostat et infirmat cetera membra caput. 
-Sacrum ‚ cerne nefas nostroque pudentius evo ‚ 
+Sacrum Ã‡ cerne nefas nostroque pudentius evo Ã‡ 
 venditur in, turpi conditione, foro: 
 crisma sacrum, sacer ordo, altaria sacra, sacrata 
 dona; quid hec ultra? Venditur ipse Deus. 
@@ -795,7 +795,7 @@ O sacra, que sacras maculant commertia sedes!
 O sacra que faciunt celica templa forum! 
 Tale, tuus mundus, si mundus iure vocatur, 
 tale frequentatum sudat habere forum. 
-Ecce ‚ sed ista pudet ‚ circumvaga turba, scolares 
+Ecce Ã‡ sed ista pudet Ã‡ circumvaga turba, scolares 
 sectantur propria venditione forum. 
 Citra legis iter, pro, tam pretiosa propago 
 venit servili conditione, dolor! 
@@ -813,9 +813,9 @@ Deviat a vero corruptus munere iudex,
 falsilocumque facit ius piagazapium. 
 Luxus edax livorque macer, cocus ardor habendi 
 vastat opes, mordet optima, corda cremat. 
-Pestis adulatrix ‚ pro! ‚ ficto risula vultu, 
+Pestis adulatrix Ã‡ pro! Ã‡ ficto risula vultu, 
 cuncta potest, satrapis delitiosa comes. 
-Ecce suo Pilades ‚ scelus! ‚ insidiatur Horesti, 
+Ecce suo Pilades Ã‡ scelus! Ã‡ insidiatur Horesti, 
 nuptaque sub proprium sannat iniqua virum. 
 Clericus edoctus, miles rudis et leve vulgus 
 negligit, horret, alit: iura, modesta, malum. 
@@ -972,7 +972,7 @@ Sit tibi cara tui victoria plus aliena,
 et te plus aliis vincere marte stude. 
 Crede mihi, magis est virtute domare teipsum, 
 quam vice Sansonis sternere mille viros. 
-Quemlibet offitiis ‚ ne queras quis sit ‚ honora: 
+Quemlibet offitiis Ã‡ ne queras quis sit Ã‡ honora: 
 nam multos claros letus amicat honor. 
 Gressibus assiduis quisquis bene querit honorem 
 reciprocis gradibus hunc quoque querit honor. 

@@ -65,7 +65,7 @@ ARELLI FVSCI patris. 'Nihil' inquit 'filiae plus possum dare quam Cimonem virum.
  
 
  
-[3] VOTIENI MONTANI. Facis iam ut dicam: non accepi beneficium, aut: reddidi. certius reddam, cum tam honeste desideraris quam dedisti. Ego adulteros dimittam? quid aliud facerem, si alligatas haberem manus? Egit me attonitum dolor. Non mehercules me exorasset Miltiades pater. Nihil Calliae debeo, nisi liber sum. Est vir egregius Callias, est misericors Ç sed utinam tantum adversus bonos! Maior iniuria est, si nunc manus Cimonis alligantur, quam fuit beneficium, quod tunc solutae sunt. Non iste iniquiore animo filiam amisit quam ego uxorem, sed aequiore animo impudicam pati voluit. Vis tu divitias tuas abscondere, cum in eos incideris, qui mendicitate censentur? nihil habet domus nostra melius, quod ostendat, quam paupertatem: da pecuniam Miltiadi, qua damnationem luat; nocens erit. da Cimoni, qua patrem redimat; pius non erit.
+[3] VOTIENI MONTANI. Facis iam ut dicam: non accepi beneficium, aut: reddidi. certius reddam, cum tam honeste desideraris quam dedisti. Ego adulteros dimittam? quid aliud facerem, si alligatas haberem manus? Egit me attonitum dolor. Non mehercules me exorasset Miltiades pater. Nihil Calliae debeo, nisi liber sum. Est vir egregius Callias, est misericors √á sed utinam tantum adversus bonos! Maior iniuria est, si nunc manus Cimonis alligantur, quam fuit beneficium, quod tunc solutae sunt. Non iste iniquiore animo filiam amisit quam ego uxorem, sed aequiore animo impudicam pati voluit. Vis tu divitias tuas abscondere, cum in eos incideris, qui mendicitate censentur? nihil habet domus nostra melius, quod ostendat, quam paupertatem: da pecuniam Miltiadi, qua damnationem luat; nocens erit. da Cimoni, qua patrem redimat; pius non erit.
  
 
  
@@ -165,7 +165,7 @@ MVSAE. Hic est Flamininus, qui exiturus in provinciam uxorem a porta dimisit.
  
 
  
-ARGENTARI. Obicio luxuriam, obicio histrionium iocos Ç an vos [revixerunt] in convivio nihil aliud nisi occiditis? Qui in carcere vixerunt, in convivio perierunt.
+ARGENTARI. Obicio luxuriam, obicio histrionium iocos √á an vos [revixerunt] in convivio nihil aliud nisi occiditis? Qui in carcere vixerunt, in convivio perierunt.
  
 
  
@@ -189,7 +189,7 @@ PORCI LATRONIS. Ne a sobrio quidem lictore percussus est. Non inquiro in totum a
  
 
  
-ROMANI HISPONIS. Quis ferret te, si in triclinio tuo iudicium coegisses? scelus est in convivio damnare hominem; quid occidere? Ad arbitrium meretricis de reis pronuntiasti Ç nisi forte facilius in honorem eius decollas quam iudicas.
+ROMANI HISPONIS. Quis ferret te, si in triclinio tuo iudicium coegisses? scelus est in convivio damnare hominem; quid occidere? Ad arbitrium meretricis de reis pronuntiasti √á nisi forte facilius in honorem eius decollas quam iudicas.
  
 
  
@@ -205,7 +205,7 @@ SILONIS POMPEI. Virum nobilissimum et tantis honoribus functum turpiter meretrix
  
 
  
-(‰‰) In eodem triclinio video praetorem amatorem, scorta, caedis; et meretrix praetori, praetor provinciae imperat. In convivio constituitur catenatus qui, cum languentis praetoris istius aspexit oculos, existimans ipsum praetoris beneficio dimitti, gratias isti agens et utrisque manibus mensam tenens 'di tibi' inquit 'immortales parem gratiam referant.' quicumque in eodem accubabant triclinio alius ubertim demisso capite flebat, alius avertebat ab illa crudelitate oculos, alius ridebat, quo gratior esset meretrici. [8] hic iste inter varios convivarum vultus submoveri iubet et miserum stare ad praebendas cervices immotum. interim distinguitur mora poculis. ne sobri quidem carnificis manu civis Romanus occisus est. Non veto, quominus securi percutiatur; illud rogo, legi potius quam scorto cadat. memento terrorem imperio quaeri, non oblectamenta mulierculis. Quid ego nunc referam, iudices, ludorum genera, saltationes et illud dedecoris certamen, praetorne se mollius moveret an meretrix?
+(‚Ä∞‚Ä∞) In eodem triclinio video praetorem amatorem, scorta, caedis; et meretrix praetori, praetor provinciae imperat. In convivio constituitur catenatus qui, cum languentis praetoris istius aspexit oculos, existimans ipsum praetoris beneficio dimitti, gratias isti agens et utrisque manibus mensam tenens 'di tibi' inquit 'immortales parem gratiam referant.' quicumque in eodem accubabant triclinio alius ubertim demisso capite flebat, alius avertebat ab illa crudelitate oculos, alius ridebat, quo gratior esset meretrici. [8] hic iste inter varios convivarum vultus submoveri iubet et miserum stare ad praebendas cervices immotum. interim distinguitur mora poculis. ne sobri quidem carnificis manu civis Romanus occisus est. Non veto, quominus securi percutiatur; illud rogo, legi potius quam scorto cadat. memento terrorem imperio quaeri, non oblectamenta mulierculis. Quid ego nunc referam, iudices, ludorum genera, saltationes et illud dedecoris certamen, praetorne se mollius moveret an meretrix?
  
 
  
@@ -293,7 +293,7 @@ MONTANVS VOTIENVS dixit: percussurus lictor ad praetorem respexit, praetor ad me
  
 
  
-Illud quod tamquam Latronis circumfertur non esse Latronis pro testimonio dico et Latronem a sententia inepte tumultuosa vindico. ipse enim audivi Florum quendam, auditorem Latronis, dicentem (non apud Latronem; neque enim illi mos erat quemquam audire declamantem. declamabat ipse tantum et aiebat se non esse magistrum sed exemplum. nec ulli [nec] alii contigisse scio quam apud Graecos Niceti, apud Romanos Latro(ni), ut discipuli non audiri desiderarent sed contenti essent audire. initio contumeliae causa a deridentibus discipuli Latronis auditores vocabantur, deinde in usu verbum esse coepit et promiscue poni pro discipulo auditor. hoc erat non patientiam suam sed eloquentiam vendere.) [24] ut ad FLORVM revertar, ille dixit in Flaminino: refulsit inter privata pocula publicae securis acies. inter temulentas ebriorum reliquias humanum everritur caput. numquam Latro sic composuisset, ut, quia 'publicam' securem dicturus erat, diceret 'privata' pocula, nec in tam mollem compositionem sententia eius evanuisset; nec tam incredibilis umquam figuras concipiebat, ut in ipso triclinio inter lectos [et loco] et mensas percussum describeret. ille, cum in hac controversia descripsisset atrocitatem supplicii, adiecit: quid exhorruistis, iudices? meretricios lusus loquor. et illam dixit minus notam sententiam sed non minus bonam: in socium nostrum praetor populi Romani animadvertit in privato, nocte, tumultuario tribunali, ebrius fortasse, ne calceatus quidem Ç nisi si, ut omnia spectaret meretrix, diligenter exegit.
+Illud quod tamquam Latronis circumfertur non esse Latronis pro testimonio dico et Latronem a sententia inepte tumultuosa vindico. ipse enim audivi Florum quendam, auditorem Latronis, dicentem (non apud Latronem; neque enim illi mos erat quemquam audire declamantem. declamabat ipse tantum et aiebat se non esse magistrum sed exemplum. nec ulli [nec] alii contigisse scio quam apud Graecos Niceti, apud Romanos Latro(ni), ut discipuli non audiri desiderarent sed contenti essent audire. initio contumeliae causa a deridentibus discipuli Latronis auditores vocabantur, deinde in usu verbum esse coepit et promiscue poni pro discipulo auditor. hoc erat non patientiam suam sed eloquentiam vendere.) [24] ut ad FLORVM revertar, ille dixit in Flaminino: refulsit inter privata pocula publicae securis acies. inter temulentas ebriorum reliquias humanum everritur caput. numquam Latro sic composuisset, ut, quia 'publicam' securem dicturus erat, diceret 'privata' pocula, nec in tam mollem compositionem sententia eius evanuisset; nec tam incredibilis umquam figuras concipiebat, ut in ipso triclinio inter lectos [et loco] et mensas percussum describeret. ille, cum in hac controversia descripsisset atrocitatem supplicii, adiecit: quid exhorruistis, iudices? meretricios lusus loquor. et illam dixit minus notam sententiam sed non minus bonam: in socium nostrum praetor populi Romani animadvertit in privato, nocte, tumultuario tribunali, ebrius fortasse, ne calceatus quidem √á nisi si, ut omnia spectaret meretrix, diligenter exegit.
  
 
  
@@ -353,7 +353,7 @@ CESTI PII. Ne dividerem filios, una exposui. iste quoque duos sustulit, qui tant
  
 
  
-MENTONIS. Iste adsuevit carere liberis; ego, etiamsi unum accipiam, tamen necesse est torquear: duobus adsuevi. Quid(quid) umquam commisi Ç et habes domi, quos de me interroges Ç nihil umquam sine illis feci nisi indicium. Vim vocas quae te patrem fecit? Sine herede ero, qui paulo (ante) habui filios duos tales, ut ex illis vel unus quoilubet satis sit?
+MENTONIS. Iste adsuevit carere liberis; ego, etiamsi unum accipiam, tamen necesse est torquear: duobus adsuevi. Quid(quid) umquam commisi √á et habes domi, quos de me interroges √á nihil umquam sine illis feci nisi indicium. Vim vocas quae te patrem fecit? Sine herede ero, qui paulo (ante) habui filios duos tales, ut ex illis vel unus quoilubet satis sit?
  
 
  
@@ -951,7 +951,7 @@ Felicior essem, si plures reos defenderem. Praecidetis tyrannicidae manus? quid 
  
 
  
-Pars altera. Tamdiu cecidit patrem, donec placeret tyranno satelles. 'Pro re publica feci'; idem et rei publicae imputas et tyranno? Habuisti, quod iactares tyranno: frater maluit mori. Perit, ne parricidium faceret aut videret. 'Caesus' inquit 'poenam dimitto'. mirarer, nisi pro tam bono patre fuisset qui mori vellet. 'Pater' inquit 'voluit'; sed frater noluit. 'pater' inquit 'voluit': ita tu non›tyranno tantum sed etiam patri dignus visus es parricidio? Cecidisti patrem, cum et legem nosses et fratrem.
+Pars altera. Tamdiu cecidit patrem, donec placeret tyranno satelles. 'Pro re publica feci'; idem et rei publicae imputas et tyranno? Habuisti, quod iactares tyranno: frater maluit mori. Perit, ne parricidium faceret aut videret. 'Caesus' inquit 'poenam dimitto'. mirarer, nisi pro tam bono patre fuisset qui mori vellet. 'Pater' inquit 'voluit'; sed frater noluit. 'pater' inquit 'voluit': ita tu non‚Ä∫tyranno tantum sed etiam patri dignus visus es parricidio? Cecidisti patrem, cum et legem nosses et fratrem.
  
 
  

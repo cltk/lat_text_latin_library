@@ -153,7 +153,7 @@ IV 'Ast quid erit quod extra magistratus coerari oesus sit, qui coeret populus c
  
 
  
-'Qui agent auspicia servanto, auguri publico parento, promulgata proposita in aerario Ü cognita agunto; nec plus quam de singulis rebus semel consulunto; rem populum docento, doceri a magistratibus privatisque patiunto.' 
+'Qui agent auspicia servanto, auguri publico parento, promulgata proposita in aerario â€¹ cognita agunto; nec plus quam de singulis rebus semel consulunto; rem populum docento, doceri a magistratibus privatisque patiunto.' 
  
 
  
@@ -165,7 +165,7 @@ IV 'Ast quid erit quod extra magistratus coerari oesus sit, qui coeret populus c
  
 
  
-Cesoris fidem legum custodiunto. Privati ad eos acta referunto, nec eo magis lege liberi sunto.ë 
+Cesoris fidem legum custodiunto. Privati ad eos acta referunto, nec eo magis lege liberi sunto.ÃŽ 
  
 
  
@@ -225,7 +225,7 @@ Lex recitata est: discedere et tabellam iubebo dari.
  
 
  
- [ Macrobius de differentiis et societatibus 17,6: Cicero de legibus tertio: Qui poterit socios tueri, si dilectum rerum utilium et inutilium non habebit? Ü convertem lex in omnis est.] 
+ [ Macrobius de differentiis et societatibus 17,6: Cicero de legibus tertio: Qui poterit socios tueri, si dilectum rerum utilium et inutilium non habebit? â€¹ convertem lex in omnis est.] 
  
 
  

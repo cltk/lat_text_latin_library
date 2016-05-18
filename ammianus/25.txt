@@ -191,7 +191,7 @@ Ammianus: Liber XXV
  
 
  
-15. Quae dum ita aguntur, Iulianus in tabernaculo iacens circumstantes adlocutus est demissos et tristes: «advenit, o socii, nunc abeundi tempus e vita inpendio tempestivum, quam reposcenti naturae ut debitor bonae fidei redditurus exulto, non ut quidam opinantur adflictus et maerens, philosophorum sententia generali perdoctus, quantum corpore sit beatior animus, et contemplans, quotiens condicio melior a deteriore secernitur, laetandum esse potius quam dolendum. illud quoque advertens quod etiam dii caelestes quibusdam piissimis mortem tamquam summum praemium persolverunt. 
+15. Quae dum ita aguntur, Iulianus in tabernaculo iacens circumstantes adlocutus est demissos et tristes: Â´advenit, o socii, nunc abeundi tempus e vita inpendio tempestivum, quam reposcenti naturae ut debitor bonae fidei redditurus exulto, non ut quidam opinantur adflictus et maerens, philosophorum sententia generali perdoctus, quantum corpore sit beatior animus, et contemplans, quotiens condicio melior a deteriore secernitur, laetandum esse potius quam dolendum. illud quoque advertens quod etiam dii caelestes quibusdam piissimis mortem tamquam summum praemium persolverunt. 
  
 
  
@@ -211,7 +211,7 @@ Ammianus: Liber XXV
  
 
  
-20. hactenus loqui vigore virium labente sufficiet. super imperatore vero creando caute reticeo, ne per inprudentiam dignum praeteream, aut nominatum quem habilem reor, anteposito forsitan alio, in discrimen ultimum trudam. ut alumnus autem rei publicae frugi, opto bonum post me reperiri rectorem». 
+20. hactenus loqui vigore virium labente sufficiet. super imperatore vero creando caute reticeo, ne per inprudentiam dignum praeteream, aut nominatum quem habilem reor, anteposito forsitan alio, in discrimen ultimum trudam. ut alumnus autem rei publicae frugi, opto bonum post me reperiri rectoremÂª. 
  
 
  
@@ -287,7 +287,7 @@ Ammianus: Liber XXV
  
 
  
-15. Liberalitatis eius testimonia plurima sunt et verissima, inter quae indicta sunt tributorum admodum levia, coronarium indultum, remissa debita multa diuturnitate congesta, aequata fisci iurgia cum privatis, vectigalia civitatibus restituta cum fundis absque his, quos velut iure vendidere praeteritae potestates, quodque numquam augendae pecuniae cupidus fuit, quam cautius apud dominos servari existimabat, id aliquotiens praedicans Alexandrum Magnum, ubi haberet thesauros interrogatum, «apud amicos» benivole respondisse. 
+15. Liberalitatis eius testimonia plurima sunt et verissima, inter quae indicta sunt tributorum admodum levia, coronarium indultum, remissa debita multa diuturnitate congesta, aequata fisci iurgia cum privatis, vectigalia civitatibus restituta cum fundis absque his, quos velut iure vendidere praeteritae potestates, quodque numquam augendae pecuniae cupidus fuit, quam cautius apud dominos servari existimabat, id aliquotiens praedicans Alexandrum Magnum, ubi haberet thesauros interrogatum, Â´apud amicosÂª benivole respondisse. 
  
 
  
@@ -355,7 +355,7 @@ Ammianus: Liber XXV
  
 
  
-2, eoque causante morbos et senectutem, honoratior aliquis miles advertens destinatius reluctantem «ecquid ageretis» ait «si id bellum vobis curandum commisisset absens, ut saepe factum est, imperator? nonne posthabitis ceteris militem instantibus aerumnis eriperetis? id nunc agite, et si Mesopotamiam videre licuerit, utriusque exercitus consociata suffragia legitimum principem declarabunt». 
+2, eoque causante morbos et senectutem, honoratior aliquis miles advertens destinatius reluctantem Â´ecquid ageretisÂª ait Â´si id bellum vobis curandum commisisset absens, ut saepe factum est, imperator? nonne posthabitis ceteris militem instantibus aerumnis eriperetis? id nunc agite, et si Mesopotamiam videre licuerit, utriusque exercitus consociata suffragia legitimum principem declarabuntÂª. 
  
 
  
@@ -599,7 +599,7 @@ Ammianus: Liber XXV
  
 
  
-4. cumque nihil promoveretur, iuris iurandi religionem principe destinatius praetendente, cum oblatam ei coronam aliquamdiu recusans, coactus denique suscepisset, Silvanus quidam causarum defensor confidentius exclamavit «ita» inquit «imperator, a civitatibus residuis coroneris». quo verbo exasperatus, intra triduum omnes iussit excedere moenibus, detestantes rerum praesentium statum. 
+4. cumque nihil promoveretur, iuris iurandi religionem principe destinatius praetendente, cum oblatam ei coronam aliquamdiu recusans, coactus denique suscepisset, Silvanus quidam causarum defensor confidentius exclamavit Â´itaÂª inquit Â´imperator, a civitatibus residuis coronerisÂª. quo verbo exasperatus, intra triduum omnes iussit excedere moenibus, detestantes rerum praesentium statum. 
  
 
  

@@ -114,7 +114,7 @@ Aurea gens fuit, aurea gens ruit, orba subivit;
 Quae cupit afflua menteque mortua vivere vivit, 
 Afflua censibus, indiga sensibus, orba patronis, 
 Se dat in impia, raptat in invia perditionis. 
-Mundus origine, non nisi nomine ‘mundus’ habetur, 
+Mundus origine, non nisi nomine Ã«mundusÃ­ habetur, 
 Mundiciam spuit, in Veneres ruit, hisque repletur. 
 Ille prior ruit, alter inhorruit, alter at idem; 
 Non modo tempora sunt neque pectora qualia pridem.    100 
@@ -806,7 +806,7 @@ Non patientia sed violentia dat modo pacem.
 Qui tacet esurit et lucra parturit esse loquacem. 
 Lingua sophistica, lingua tyrannica, lingua forensis 
 Praecipit omnia, percutit obvia, qualiter ensis. 
-Lingua volubilis est modo nobilis, “huc ades” audit. 
+Lingua volubilis est modo nobilis, Ã¬huc adesÃ® audit. 
 Mutus Episcopus ordine reprobus, ostia claudit.    790 
 Nil tumidum sapis; aut pecus aut lapis esse probaris. 
 Es quasi vipera; pectora libera testificaris. 

@@ -69,7 +69,7 @@ Solebat declamare studiose et TVRRINVS CLODIVS, cuius filius fraterno vobis amor
  
 
  
-Inde filius quoque eius, id est meus ‚ numquam enim illum a vobis distinxi ‚ habet in dicendo conservatam paternam diligentiam, qua vires ingenii sui ex industria retundit. hoc et in ipso genere vitae sequitur ad summa evasurus iuvenis, nisi modicis contentus esset; et ideo dignus est, cuius tam modestis cupiditatibus Fortuna praestet fidem.
+Inde filius quoque eius, id est meus Ã‡ numquam enim illum a vobis distinxi Ã‡ habet in dicendo conservatam paternam diligentiam, qua vires ingenii sui ex industria retundit. hoc et in ipso genere vitae sequitur ad summa evasurus iuvenis, nisi modicis contentus esset; et ideo dignus est, cuius tam modestis cupiditatibus Fortuna praestet fidem.
  
 
  
@@ -93,7 +93,7 @@ ALBVCI SILI. Quod sordidatus fui, luctus est; quod flevi, pietatis est; quod non
  
 
  
-CESTI PII. Non essem reus, si accusare possem. barba demissa, sordidatus cum criminibus meis ad vos veni. Omnia licet fiant, non desinam inquirere percussorem; et fortasse iam inveni. Cum subito pater meus in media civitate ‚ quid me intueris? quid observas, quid dicam? ‚ subductus est.
+CESTI PII. Non essem reus, si accusare possem. barba demissa, sordidatus cum criminibus meis ad vos veni. Omnia licet fiant, non desinam inquirere percussorem; et fortasse iam inveni. Cum subito pater meus in media civitate Ã‡ quid me intueris? quid observas, quid dicam? Ã‡ subductus est.
  
 
  
@@ -101,7 +101,7 @@ CESTI PII. Non essem reus, si accusare possem. barba demissa, sordidatus cum cri
  
 
  
-MOSCHI. 'Accusa' inquit; ubi est, qui primo coeperat [acceperat]? Vellem pater meus quoque a te non discessisset: viveret. 'Quare' inquit 'me reum non facis?' qui(a) accusatorem me non times. Mortuo patre ‚ timeo [mi] enim, ne quis sibi iniuriam fieri putet [et], si dixero 'occiso'. Occisus est pater meus; a quo, si permittitis, nescio.
+MOSCHI. 'Accusa' inquit; ubi est, qui primo coeperat [acceperat]? Vellem pater meus quoque a te non discessisset: viveret. 'Quare' inquit 'me reum non facis?' qui(a) accusatorem me non times. Mortuo patre Ã‡ timeo [mi] enim, ne quis sibi iniuriam fieri putet [et], si dixero 'occiso'. Occisus est pater meus; a quo, si permittitis, nescio.
  
 
  
@@ -311,7 +311,7 @@ LABIENVS partem patris declamavit et dixit: quod etiam desertoribus licet, nolo 
  
 
  
-MOSCHI. Inquinasti filiae sanguine penates ‚ quamquam quid ego dico penates, tamquam in domo perierit? Adlatum ad se Caesar Pompei caput flevit. hoc ille propter filiam praestitit.
+MOSCHI. Inquinasti filiae sanguine penates Ã‡ quamquam quid ego dico penates, tamquam in domo perierit? Adlatum ad se Caesar Pompei caput flevit. hoc ille propter filiam praestitit.
  
 
  
@@ -439,7 +439,7 @@ ALBVCIVS ait: tuto me [ait] putavi loqui fortius. non dubitavi enim, quin frater
  
 
  
-[3] VIBI GALLI. Intuemini debilia infelicium membra nescioqua tabe consumpta: illi praecisas manus, illi erutos oculos, illi fractos pedes. quid exhorrescitis? sic iste miseretur. Tot membra franguntur, ut unum ventrem impleant, et ‚ o novom monstrum! ‚ integer alitur, debiles alunt.
+[3] VIBI GALLI. Intuemini debilia infelicium membra nescioqua tabe consumpta: illi praecisas manus, illi erutos oculos, illi fractos pedes. quid exhorrescitis? sic iste miseretur. Tot membra franguntur, ut unum ventrem impleant, et Ã‡ o novom monstrum! Ã‡ integer alitur, debiles alunt.
  
 
  
@@ -447,7 +447,7 @@ ALBVCI SILI. 'Perissent' inquit; ita non infelicius supersunt quam perituri fuer
  
 
  
-[4] TRIARI. 'Perissent' inquit. puto, expertus es nos non esse crudeles; tamen nemo non nostrum, cum istis stipem porrigeret, mortem precatus est. Surge tu, debilis: conatur et corruit. surge tu, mute ‚ sed quid excitaris? rogare non potes. surge tu, caece ‚ sed ad quorum eas genua, nescis. o te inter omnis debiles ante hoc iudicium felicissimum, quod istum dominum non videbas, in hoc iudicio infelicissimum, quod istum reum non vides! Expositos aluerunt etiam ferae, satis futurae mites, si praeterissent.
+[4] TRIARI. 'Perissent' inquit. puto, expertus es nos non esse crudeles; tamen nemo non nostrum, cum istis stipem porrigeret, mortem precatus est. Surge tu, debilis: conatur et corruit. surge tu, mute Ã‡ sed quid excitaris? rogare non potes. surge tu, caece Ã‡ sed ad quorum eas genua, nescis. o te inter omnis debiles ante hoc iudicium felicissimum, quod istum dominum non videbas, in hoc iudicio infelicissimum, quod istum reum non vides! Expositos aluerunt etiam ferae, satis futurae mites, si praeterissent.
  
 
  
@@ -709,7 +709,7 @@ Graeci nefas putaverunt pro Parrhasio dicere; omnes illum accusaverunt. in eosde
  
 
  
-[21] Sed et Graeci illam subrupuerunt: EVCTEMON, qui dixit: PROMETHEU, EPI SE TIS PUR CHAI ANTHROPON; sanius quam Glycon ADAEVS: PROMETHEU, SE TIS GRAFON ANTHROPON AFANIZEI. DAMAS corruptissime: DICHAIOS, PROMETHEU. DIA TI GAR PUR ECHLEPTES ANTHROPO; CRATON furiosissime, qui dixit: PROMETHEU, NUN EDEI SE PUR CHLEPSAI. hic est Craton, venustissimus homo et [pro homo et] professus Asianus, qui bellum cum omnibus Atticis gerebat. cum donaret illi Caesar talentum, in quo viginti quattuor sestertia sunt Atheniensium more: E PROSTHES, FESIN, E AFEL', INA ME ATTICHON E. hic Caesari, quod illum numquam nisi mense Decembri audiret, dixit: OS BAUNO MOI CHRE; et (cum) commendaretur a Caesare Passieno nec curaret, interroganti, quare non conplecteretur tanti viri gratiam: ELIOU CHAIONTOS LUCHNON OUCH APTO. [22] saepe solebat apud Caesarem cum TIMAGENE confligere, homine acidae linguae et qui nimis liber erat ‚ puto, quia diu non fuerat. ex captivo cocus, ex coco lecticarius, ex lecticario usque in amicitiam Caesaris +felix+ usque eo utram(que) fortunam contempsit, et in qua erat et in qua fuerat, ut, cum illi multis de causis iratus Caesar interdixisset domo, combureret historias rerum ab illo gestarum, quasi et ipse illi ingenio suo interdiceret; disertus homo et dicax, a quo multa improbe sed venuste dicta.
+[21] Sed et Graeci illam subrupuerunt: EVCTEMON, qui dixit: PROMETHEU, EPI SE TIS PUR CHAI ANTHROPON; sanius quam Glycon ADAEVS: PROMETHEU, SE TIS GRAFON ANTHROPON AFANIZEI. DAMAS corruptissime: DICHAIOS, PROMETHEU. DIA TI GAR PUR ECHLEPTES ANTHROPO; CRATON furiosissime, qui dixit: PROMETHEU, NUN EDEI SE PUR CHLEPSAI. hic est Craton, venustissimus homo et [pro homo et] professus Asianus, qui bellum cum omnibus Atticis gerebat. cum donaret illi Caesar talentum, in quo viginti quattuor sestertia sunt Atheniensium more: E PROSTHES, FESIN, E AFEL', INA ME ATTICHON E. hic Caesari, quod illum numquam nisi mense Decembri audiret, dixit: OS BAUNO MOI CHRE; et (cum) commendaretur a Caesare Passieno nec curaret, interroganti, quare non conplecteretur tanti viri gratiam: ELIOU CHAIONTOS LUCHNON OUCH APTO. [22] saepe solebat apud Caesarem cum TIMAGENE confligere, homine acidae linguae et qui nimis liber erat Ã‡ puto, quia diu non fuerat. ex captivo cocus, ex coco lecticarius, ex lecticario usque in amicitiam Caesaris +felix+ usque eo utram(que) fortunam contempsit, et in qua erat et in qua fuerat, ut, cum illi multis de causis iratus Caesar interdixisset domo, combureret historias rerum ab illo gestarum, quasi et ipse illi ingenio suo interdiceret; disertus homo et dicax, a quo multa improbe sed venuste dicta.
  
 
  
@@ -817,7 +817,7 @@ Lugens divitem sequens filius pauperis
  
 
  
-Gratias diviti, quod quos odit iam reos facere contentus est. 'Non ambulabis' inquit 'eadem via, non calcabis vestigia mea, non offeres delicatis oculis sordidam vestem, non flebis invito me, non tacebis'; perieramus, si hic magistratus esset. Quod sordidatus fui, luctus est; quod flevi, pietatis; quod non accusavi, timoris; quod repulsus est, vestrum est. Honores patre meo (vivo) numquam petivit. Vitium me meum sequitur: taceo. utinam hoc vitium habuisset et pater! Quando vobis non sordidati sumus? 'accusa' inquit; pauper divitem? Ambulare mihi arbitrio meo non licet. 'accusa', inquit 'reum perage, perora'. quis accusare sic loquentem potest? 'cur' inquit 'me sequeris?' aliud ergo pauperes iter, aliud divites habent? Quisquis percussor fuit, quasi dives spolia contempsit. Mortuo patre meo ‚ metuo enim, ne quis se laedi putet, si dixero occisum. 'Sordidatus' inquit 'fles'; quid aliud facere possum occisi pauperis filius? Quid accusanti fecisset qui persequitur tacentem? 'Quare' inquit 'sequeris me?' ut aliquando mei miserearis, ut desinas adflictam domum persequi. Eum accusatorem habeo, qui se reum non esse miratur. 'Cur non agis?' quia adeo non metuis, ut cogas. Sordidatus sum. quod reo licet, lugenti non licet? An ne lugebo quidem quem vindicare non possum? Non erat in illo praeda, quam grassator adpeteret; erat summa virtus, contumax adversus fastidium divitiarum innocentia. haec ab inimico petita sunt spolia. Quis caedem machinatus est? scire non possum; quod dissimulari non potest, scio, quis optaverit. Et tu dives inimicus es et ille inspoliatus inventus est; non est, cur accusem, sed est, cur suspicer.
+Gratias diviti, quod quos odit iam reos facere contentus est. 'Non ambulabis' inquit 'eadem via, non calcabis vestigia mea, non offeres delicatis oculis sordidam vestem, non flebis invito me, non tacebis'; perieramus, si hic magistratus esset. Quod sordidatus fui, luctus est; quod flevi, pietatis; quod non accusavi, timoris; quod repulsus est, vestrum est. Honores patre meo (vivo) numquam petivit. Vitium me meum sequitur: taceo. utinam hoc vitium habuisset et pater! Quando vobis non sordidati sumus? 'accusa' inquit; pauper divitem? Ambulare mihi arbitrio meo non licet. 'accusa', inquit 'reum perage, perora'. quis accusare sic loquentem potest? 'cur' inquit 'me sequeris?' aliud ergo pauperes iter, aliud divites habent? Quisquis percussor fuit, quasi dives spolia contempsit. Mortuo patre meo Ã‡ metuo enim, ne quis se laedi putet, si dixero occisum. 'Sordidatus' inquit 'fles'; quid aliud facere possum occisi pauperis filius? Quid accusanti fecisset qui persequitur tacentem? 'Quare' inquit 'sequeris me?' ut aliquando mei miserearis, ut desinas adflictam domum persequi. Eum accusatorem habeo, qui se reum non esse miratur. 'Cur non agis?' quia adeo non metuis, ut cogas. Sordidatus sum. quod reo licet, lugenti non licet? An ne lugebo quidem quem vindicare non possum? Non erat in illo praeda, quam grassator adpeteret; erat summa virtus, contumax adversus fastidium divitiarum innocentia. haec ab inimico petita sunt spolia. Quis caedem machinatus est? scire non possum; quod dissimulari non potest, scio, quis optaverit. Et tu dives inimicus es et ille inspoliatus inventus est; non est, cur accusem, sed est, cur suspicer.
  
 
  
@@ -849,7 +849,7 @@ Demens quod mori coegerit filiam
  
 
  
-Sic sibi satisfieri ne victor quidem voluit. Nullum fuit in proscriptione mulieris caput. Inquinasti filiae sanguine penates ‚ quamquam quid loquor penates, tamquam in domo perierit? adlatum ad se Caesar Pompei caput flevit, et hoc ille propter filiam fecit. 'Quemadmodum vis satis tibi faciam?' hoc ipso satisfecisse debuerat. puella adeo et in maritum et in patrem pia, ut alterum usque in mortem secuta sit, alteri etiam morte satisfecerit. periculose offendo patrem, qui nescit ignoscere. 'Morere!' quid aliud meruerat, si satisfacere noluisset? Defendisti Ligarium, Cicero. quam leve iudicasti crimen, de quo confessus es! Ante ipsum domus limen extincta est, ne dubitari posset, marito perisset an patri. 'Meruerat' inquit; accusas etiamnunc? et certe iam tibi satisfactum est. Secutus est gener diversas partes, uxor suas. Optima civilis belli defensio oblivio est. 'Morere' inquit; etiam quibus animadvertere in damnatos necesse est, non dicunt 'occide', non 'morere' sed ''age lege'; crudelitatem imperii verbo mitiore subducunt.
+Sic sibi satisfieri ne victor quidem voluit. Nullum fuit in proscriptione mulieris caput. Inquinasti filiae sanguine penates Ã‡ quamquam quid loquor penates, tamquam in domo perierit? adlatum ad se Caesar Pompei caput flevit, et hoc ille propter filiam fecit. 'Quemadmodum vis satis tibi faciam?' hoc ipso satisfecisse debuerat. puella adeo et in maritum et in patrem pia, ut alterum usque in mortem secuta sit, alteri etiam morte satisfecerit. periculose offendo patrem, qui nescit ignoscere. 'Morere!' quid aliud meruerat, si satisfacere noluisset? Defendisti Ligarium, Cicero. quam leve iudicasti crimen, de quo confessus es! Ante ipsum domus limen extincta est, ne dubitari posset, marito perisset an patri. 'Meruerat' inquit; accusas etiamnunc? et certe iam tibi satisfactum est. Secutus est gener diversas partes, uxor suas. Optima civilis belli defensio oblivio est. 'Morere' inquit; etiam quibus animadvertere in damnatos necesse est, non dicunt 'occide', non 'morere' sed ''age lege'; crudelitatem imperii verbo mitiore subducunt.
  
 
  

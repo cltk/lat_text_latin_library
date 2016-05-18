@@ -61,7 +61,7 @@ Inhorruerunt omnes tam fabulosa pollicitatione conterriti. At ille his dictis it
  
 
  
-Dato ad respirandum spatio, et viribus vini adusti portione refectis, conspectum itineris exhibuit, cuncta, quae in aëria navigatione et regionibus subterraneis acciderant, exserte partiteque exponens. Docuit, post integrata aliquot praelia, in quibus superiores evaserant Klimianae factionis homines, imperium rediisse ad filium Nicolai nostri, qui diu sub tutela matris sceptra tenuit, iam vero senio ac rerum gestarum gloria Venerabilis in orbe subterraneo longe lateque sub nomine Nicolai Secundi regnat.
+Dato ad respirandum spatio, et viribus vini adusti portione refectis, conspectum itineris exhibuit, cuncta, quae in aÃŽria navigatione et regionibus subterraneis acciderant, exserte partiteque exponens. Docuit, post integrata aliquot praelia, in quibus superiores evaserant Klimianae factionis homines, imperium rediisse ad filium Nicolai nostri, qui diu sub tutela matris sceptra tenuit, iam vero senio ac rerum gestarum gloria Venerabilis in orbe subterraneo longe lateque sub nomine Nicolai Secundi regnat.
  
 
  
@@ -81,7 +81,7 @@ Hactenus Klimii nostri, qui sufficere hanc apologiam et alio non opus esse clype
  
 
  
- 
+â€ 
  Caput I: Autoris Descensus ad Inferos 
  
 
@@ -102,7 +102,7 @@ Stimulatus ego qua sermonibus horum, qua proprio ingenio, descensum in hanc cave
  
 
  
-Obfirmato igitur animo, et praeparatis huic expeditioni necessariis, die quodam Iovis, cum serenum atque impluvium esset coelum, egredior civitate paulo post diluculum, quo, rebus peractis, salvo adhuc die redire in urbem liceret. Quippe rerum futurarum nescius praevidere non poteram, quod alter ego Phaëthon Volverer in praeceps longoque per aëra tractu in alium orbem detrusus, non nisi post decem annorum errores patriam et amicos revisurus essem.
+Obfirmato igitur animo, et praeparatis huic expeditioni necessariis, die quodam Iovis, cum serenum atque impluvium esset coelum, egredior civitate paulo post diluculum, quo, rebus peractis, salvo adhuc die redire in urbem liceret. Quippe rerum futurarum nescius praevidere non poteram, quod alter ego PhaÃŽthon Volverer in praeceps longoque per aÃŽra tractu in alium orbem detrusus, non nisi post decem annorum errores patriam et amicos revisurus essem.
  
 
  
@@ -114,7 +114,7 @@ Iam in cavernam demittendus comites docebam, quid porro faciendum: pergerent sci
  
 
  
-Circiter horae quadrantem, quantum in ista animi perturbatione coniicere licuit, in spissa caligine et perpetua nocte versatus eram, cum tandem tenue quoddam lumen, crepusculi instar, emicuerit, et mox lucidum et serenum coelum apparuerit. Stulte igitur credebam, aut a repercussione aëris subterranei aut vi contrarii venti me reiectum, cavernamque istam spiritus sui reciprocatione in terram me revomuisse. At neque sol, quem tunc conspicabar, nec coelum nec reliqua sidera nota mihi erant phaenomena, cum coeli nostri sideribus ista, quae iam videbam, essent minora. Credebam igitur, aut totam novi istius coeli machinam in sola cerebri imaginatione, e capitis vertigine excitata, consistere, aut fingebam me mortuum ad sedes beatorum ferri.
+Circiter horae quadrantem, quantum in ista animi perturbatione coniicere licuit, in spissa caligine et perpetua nocte versatus eram, cum tandem tenue quoddam lumen, crepusculi instar, emicuerit, et mox lucidum et serenum coelum apparuerit. Stulte igitur credebam, aut a repercussione aÃŽris subterranei aut vi contrarii venti me reiectum, cavernamque istam spiritus sui reciprocatione in terram me revomuisse. At neque sol, quem tunc conspicabar, nec coelum nec reliqua sidera nota mihi erant phaenomena, cum coeli nostri sideribus ista, quae iam videbam, essent minora. Credebam igitur, aut totam novi istius coeli machinam in sola cerebri imaginatione, e capitis vertigine excitata, consistere, aut fingebam me mortuum ad sedes beatorum ferri.
  
 
  
@@ -142,7 +142,7 @@ At cum ista felicitate Diis me proximum crederem meque ut novum coeli sidus intu
  
 
  
-At defervescente primo aestu, cum ad me paulatim redirem, stoliditatem meam deridebam. Dubium adhuc erat, in quem finem gryphus isre me comiraretur, utrum hostis esset an amicus, aut quod verisimilius erat, an sola rei novitate delectatus, propius accedendo oculos saltem pascere vellet. Nam adspectus corporis humani, in aëre circumacti, harpagonem dextra tenentis et longum post se funem caudae instar trahentis, phaenomenon erat, quod quodvis brutum animal in spectaculum sui allicere posset.
+At defervescente primo aestu, cum ad me paulatim redirem, stoliditatem meam deridebam. Dubium adhuc erat, in quem finem gryphus isre me comiraretur, utrum hostis esset an amicus, aut quod verisimilius erat, an sola rei novitate delectatus, propius accedendo oculos saltem pascere vellet. Nam adspectus corporis humani, in aÃŽre circumacti, harpagonem dextra tenentis et longum post se funem caudae instar trahentis, phaenomenon erat, quod quodvis brutum animal in spectaculum sui allicere posset.
  
 
  
@@ -154,11 +154,11 @@ Notandum est, dari quoque repentina quaedam sidera, quae subterranei dicunt Scis
  
 
  
-Sed ut ad telam revertar, gryphus iste eo viciniae iam pervenerat, ut alarum quassatione me infestaret et tandem crus meum serrato vexare morsu non dubitaret, adeo ut manifeste patuerit, qua mente novum hospitem venaretur. Hinc coepi pugnacissimum animal armata elidere manu, et harpagonem utraque manu complexus, hostis audaciam compescui, fugae locum saepe circumspicere cogens, tandemque, cum pergeret me vellicare, post unum vel alterum inanem ictum harpagonem tanto impetu tergo alitis inter utramque alam impegi, ut telum revellere nequirem. Vulneratus ales horrendo edito stridore in globum praeceps corruit. Ego vero status iam siderei ac novae dignitatis, quam variis casibus et periculis, ut vulgo fieri solet, expositam videbam, pertaesus Arbitrio volucris rapior, quaque impetus egit, Huc sine lege ruo, longoque per aëra tractu In terram feror, ut de coelo stella sereno, Etsi non cecidit, potuit cecidisse videri. Et ita motus circularis, quem nuper descripseram, in perpendicularem denuo mutatur.
+Sed ut ad telam revertar, gryphus iste eo viciniae iam pervenerat, ut alarum quassatione me infestaret et tandem crus meum serrato vexare morsu non dubitaret, adeo ut manifeste patuerit, qua mente novum hospitem venaretur. Hinc coepi pugnacissimum animal armata elidere manu, et harpagonem utraque manu complexus, hostis audaciam compescui, fugae locum saepe circumspicere cogens, tandemque, cum pergeret me vellicare, post unum vel alterum inanem ictum harpagonem tanto impetu tergo alitis inter utramque alam impegi, ut telum revellere nequirem. Vulneratus ales horrendo edito stridore in globum praeceps corruit. Ego vero status iam siderei ac novae dignitatis, quam variis casibus et periculis, ut vulgo fieri solet, expositam videbam, pertaesus Arbitrio volucris rapior, quaque impetus egit, Huc sine lege ruo, longoque per aÃŽra tractu In terram feror, ut de coelo stella sereno, Etsi non cecidit, potuit cecidisse videri. Et ita motus circularis, quem nuper descripseram, in perpendicularem denuo mutatur.
  
 
  
-Sic ingenti cum impetu per adversa crassioris aëris verbera, cuius stridor aures percutiebat, diu tractus, tandem levi innoxioque casu in globum delabor una cum alite, qui paulo post e vulnere obiit. Nox erat, quando in planetam istum delatus fui, id quod e sola absentia solis colligere poteram, non vero e tenebris; nam tantum luminis restabat, ut testimonium meum Academicum distincte legere possem. Oritur nocturnum istud lumen e firmamento sive crusta terrae inversa, cuius hemisphaerium splendorem, qualem apud nos luna, reddit; hinc si solius luminis ratio habeatur, parum hic differunt noctes a diebus, nisi quod absit sol, et absentia eiusdem nocres reddat paulo frigidiores.
+Sic ingenti cum impetu per adversa crassioris aÃŽris verbera, cuius stridor aures percutiebat, diu tractus, tandem levi innoxioque casu in globum delabor una cum alite, qui paulo post e vulnere obiit. Nox erat, quando in planetam istum delatus fui, id quod e sola absentia solis colligere poteram, non vero e tenebris; nam tantum luminis restabat, ut testimonium meum Academicum distincte legere possem. Oritur nocturnum istud lumen e firmamento sive crusta terrae inversa, cuius hemisphaerium splendorem, qualem apud nos luna, reddit; hinc si solius luminis ratio habeatur, parum hic differunt noctes a diebus, nisi quod absit sol, et absentia eiusdem nocres reddat paulo frigidiores.
  
 
  
@@ -166,11 +166,11 @@ Sic ingenti cum impetu per adversa crassioris aëris verbera, cuius stridor aures
  
 
  
-Defunctus ita aëria hac navigatione, cum globum salvus et illaesus attigissem (nam impetus, quo initio ferebatur gryphus, cum virium diminutione languerat) , iacebam diu immobilis, exspectans, quid novi illucescente die mihi contingeret. Animadvertebam tunc pristinas infirmitates redire, opusque mihi esse tam somno quam cibo, adeo ut poenitudo me ceperit abiecti temere panis. Variis solicitudinibus fesso animo tandem altus sopor obrepsit.
+Defunctus ita aÃŽria hac navigatione, cum globum salvus et illaesus attigissem (nam impetus, quo initio ferebatur gryphus, cum virium diminutione languerat) , iacebam diu immobilis, exspectans, quid novi illucescente die mihi contingeret. Animadvertebam tunc pristinas infirmitates redire, opusque mihi esse tam somno quam cibo, adeo ut poenitudo me ceperit abiecti temere panis. Variis solicitudinibus fesso animo tandem altus sopor obrepsit.
  
 
  
-Stertueram, quantum coniicere mihi licuit, duas horas, cum horrendus boatus, diu quietem turbans, tandem somnum penitus excussit. Dormientis animo variae ac mirae oberraverant imagines. Videor in Norvegiam rediisse, ibique popularibus, quae usu venerant, narrasse. Imaginor denique in Templo Fanoensi haud procul ab urbe cantantem Diaconum Nicolaum Andreae audire, stridoremque vocis illius aures meas misere et more solito ferire. Igitur experrectus credebam, latratum istius viri somnum turbasse. Sed cum haud procul stantem viderem taurum, ex eiusdem boatu quietem abruptam conieci. Mox timidos oculos undique circumferens, cum oriente sole, virides passim campos et foecundos videbam agros. Arbores quoque apparuere, sed (mirabile visu) mobiles erant, licet tanta esset aëris tranquillitas, ut ne levissima quidem pluma moveri loco posset.
+Stertueram, quantum coniicere mihi licuit, duas horas, cum horrendus boatus, diu quietem turbans, tandem somnum penitus excussit. Dormientis animo variae ac mirae oberraverant imagines. Videor in Norvegiam rediisse, ibique popularibus, quae usu venerant, narrasse. Imaginor denique in Templo Fanoensi haud procul ab urbe cantantem Diaconum Nicolaum Andreae audire, stridoremque vocis illius aures meas misere et more solito ferire. Igitur experrectus credebam, latratum istius viri somnum turbasse. Sed cum haud procul stantem viderem taurum, ex eiusdem boatu quietem abruptam conieci. Mox timidos oculos undique circumferens, cum oriente sole, virides passim campos et foecundos videbam agros. Arbores quoque apparuere, sed (mirabile visu) mobiles erant, licet tanta esset aÃŽris tranquillitas, ut ne levissima quidem pluma moveri loco posset.
  
 
  
@@ -182,7 +182,7 @@ Postquam oculos aperiebam, conspicabar totam circa me silvam animatam campumque 
  
 
  
-Sed tempus mihi non datum est, automata haec eorundemque causas excutiendi; nam advolans mox alia arbor ramum demittit, cuius extremitas sex gemmis, tanquam totidem digitis, munita erat. His iacentem me sustulit ac vociferantem abstraxit, comitantibus innumeris diversi generis diversaeque magnitudinis arboribus, quae sonos ac murmura edebant, articulata quidem, sed auribus meis peregrina, adeo ut nihil praeter verba haec Pikel Emi, cum saepius eadem iterata fuerint, retinere memoria potuerim. Audivi mox per verba haec intelligi simiam insolitae figurae: quippe e corporis mei forma et cultu coniiciebant, me simiam esse, quamvis specie nonnihil distinctam a cercopithecis, quos haec terra alit. Alii pro incola firmamenti me ceperunt, quem alitem per aërem huc apportasse credebant; id quod olim usu venisse annales huius globi testantur.
+Sed tempus mihi non datum est, automata haec eorundemque causas excutiendi; nam advolans mox alia arbor ramum demittit, cuius extremitas sex gemmis, tanquam totidem digitis, munita erat. His iacentem me sustulit ac vociferantem abstraxit, comitantibus innumeris diversi generis diversaeque magnitudinis arboribus, quae sonos ac murmura edebant, articulata quidem, sed auribus meis peregrina, adeo ut nihil praeter verba haec Pikel Emi, cum saepius eadem iterata fuerint, retinere memoria potuerim. Audivi mox per verba haec intelligi simiam insolitae figurae: quippe e corporis mei forma et cultu coniiciebant, me simiam esse, quamvis specie nonnihil distinctam a cercopithecis, quos haec terra alit. Alii pro incola firmamenti me ceperunt, quem alitem per aÃŽrem huc apportasse credebant; id quod olim usu venisse annales huius globi testantur.
  
 
  
@@ -259,7 +259,7 @@ Praetor iste, in cuius custodia eram, Principi sive Dynastae, haud procul ab hac
  
 
  
-Dum haec aguntur, hospes meus redeuntem quavis vespera e seminario variis sermonibus ac quaestionibus exercebat. Audivit summa cum animi voluptate me de iis, quae in subterraneo hoc itinere usu venerant, dissertantem; maxime vero obstupuit ad descriptionem terrae nostrae, et immensi, quo cincta erat, coeli, innumeris sideribus interstincti. Horum omnium attentus avidusque erat auditor; at erubuit non nihil ad ea, quae narrabam de arboribus nostri orbis, quae inanimatae, immobiles, ac radicibus terrae stent fixae, ac tandem non sine indignatione me intuebatur, cum testarer, arbores nostras caesas calefaciendis fornacibus et cibis coquendis inservire. Attamen re serio pensitata, paulatim ira detumuit, protensisque versus coelum quinque ramis (nam totidem illi erant), iudicia Creatoris, cuius sint variae occultae rationes, est miratus; attente porro audivit alia narrantem. Uxor illius, quae adhuc praesentiam meam aversata fuerat, cum veram, ob quam in iudicium tractus eram, causam didicisset, ac specie me arboris, quam in orbe nostro scandere solemus, deceptum, abiecta omni suspicione, in gratiam mecum rediit. At ego, ne inter initia coëuntis gratiae recentem cicatricem rescinderem, non nisi praesente ac iubente marito, sermones cum illa miscui.
+Dum haec aguntur, hospes meus redeuntem quavis vespera e seminario variis sermonibus ac quaestionibus exercebat. Audivit summa cum animi voluptate me de iis, quae in subterraneo hoc itinere usu venerant, dissertantem; maxime vero obstupuit ad descriptionem terrae nostrae, et immensi, quo cincta erat, coeli, innumeris sideribus interstincti. Horum omnium attentus avidusque erat auditor; at erubuit non nihil ad ea, quae narrabam de arboribus nostri orbis, quae inanimatae, immobiles, ac radicibus terrae stent fixae, ac tandem non sine indignatione me intuebatur, cum testarer, arbores nostras caesas calefaciendis fornacibus et cibis coquendis inservire. Attamen re serio pensitata, paulatim ira detumuit, protensisque versus coelum quinque ramis (nam totidem illi erant), iudicia Creatoris, cuius sint variae occultae rationes, est miratus; attente porro audivit alia narrantem. Uxor illius, quae adhuc praesentiam meam aversata fuerat, cum veram, ob quam in iudicium tractus eram, causam didicisset, ac specie me arboris, quam in orbe nostro scandere solemus, deceptum, abiecta omni suspicione, in gratiam mecum rediit. At ego, ne inter initia coÃŽuntis gratiae recentem cicatricem rescinderem, non nisi praesente ac iubente marito, sermones cum illa miscui.
  
 
  
@@ -295,7 +295,7 @@ Hoc audito, tantum edidit cachinnum, ut tota domus inde exsonaret. Excitata ad s
  
 
  
-Humo mandatur intempesta nocte extra urbis pomoeria, iisdemque vestibus effertur, quibus mortua est inventa. Cautum enim lege est, ne quis in urbe sepeliatur, cum aërem ex effluviis cadaverum putrescere credant. Cautum porro est, ne cum insigni comitatu ac splendido ornatu efferantur funera, vermium scilicet pabula mox futura. Quae omnia satis prudenrer instituta mihi videbantur. Parentalia tamen haberi solent orationesque funebres, sed quae pura tantum hortamina sunt ad bene vivendum, quaeque mortalitatis imaginem ante oculos audientium ponunt. Adesse iubentur Censores, observaturi, an defunctorum praeter merita memoriam aut extenuent oratores aut attollant. Hinc encomiorum parcissimi sunt oratores subterranei, cum poena immodice et praeter merita laudantibus sit statuta.
+Humo mandatur intempesta nocte extra urbis pomoeria, iisdemque vestibus effertur, quibus mortua est inventa. Cautum enim lege est, ne quis in urbe sepeliatur, cum aÃŽrem ex effluviis cadaverum putrescere credant. Cautum porro est, ne cum insigni comitatu ac splendido ornatu efferantur funera, vermium scilicet pabula mox futura. Quae omnia satis prudenrer instituta mihi videbantur. Parentalia tamen haberi solent orationesque funebres, sed quae pura tantum hortamina sunt ad bene vivendum, quaeque mortalitatis imaginem ante oculos audientium ponunt. Adesse iubentur Censores, observaturi, an defunctorum praeter merita memoriam aut extenuent oratores aut attollant. Hinc encomiorum parcissimi sunt oratores subterranei, cum poena immodice et praeter merita laudantibus sit statuta.
  
 
  
@@ -323,7 +323,7 @@ In lacrimas hinc effusus hospitem meum adibam, humillime obsecrans, ut, auctorit
  
 
  
-Porro addidit, nihil tale in tenui aut mediocri fortuna metuendum. Quod vero ad testimonium Karattorum attinet, illud confirmat, oculatissimos simul ac integerrimos esse iudices, qui nullis neque donis corrumpi neque minis deterreri possunt, ut unguem latum a vero deflectant; quapropter in hac etiam causa nullum esse suspicioni locum. Candide tandem ipse fassus est, iam dudum innotuisse sibi imbecillitatem iudicii mei, ac statim e memoriae meae ubertate et celeri apprehensione iudicasse, lignum me non esse, ex quo Mercurius fieri posset, ac proinde ob insignem iudicii eclipsin amplo alicui muneri non suffecturum. Didicisse se, ait, e narrationibus et descriptione gentis Europaeae, me Stultorum in patria, pravoque sub aëre natum. Caetera de amicitia sua prolixe testatus, itineri ut absque mora accingerer, me hortatus est. Consilium prudentissimi viri secutus sum, in primis cum ita postularet necessitas, et temerarium mihi videretur mandato Principis obniti.
+Porro addidit, nihil tale in tenui aut mediocri fortuna metuendum. Quod vero ad testimonium Karattorum attinet, illud confirmat, oculatissimos simul ac integerrimos esse iudices, qui nullis neque donis corrumpi neque minis deterreri possunt, ut unguem latum a vero deflectant; quapropter in hac etiam causa nullum esse suspicioni locum. Candide tandem ipse fassus est, iam dudum innotuisse sibi imbecillitatem iudicii mei, ac statim e memoriae meae ubertate et celeri apprehensione iudicasse, lignum me non esse, ex quo Mercurius fieri posset, ac proinde ob insignem iudicii eclipsin amplo alicui muneri non suffecturum. Didicisse se, ait, e narrationibus et descriptione gentis Europaeae, me Stultorum in patria, pravoque sub aÃŽre natum. Caetera de amicitia sua prolixe testatus, itineri ut absque mora accingerer, me hortatus est. Consilium prudentissimi viri secutus sum, in primis cum ita postularet necessitas, et temerarium mihi videretur mandato Principis obniti.
  
 
  
@@ -395,7 +395,7 @@ Ad mensam sedebant ipse Princeps cum serenissima eiusdem coniuge, item filius Pr
  
 
  
-At cum, quicquid perciperet, penitus perspiceret nihilque nisi praevio ac gravi examine adhibito statueret, dici poterat plura fecisse, quam decem ex iis, qui prompte et celeriter negotia obeunt, ac vulgo magna ingenia dicuntur, quorum acta reformari, mutari ac limam saepius subire solent, adeo ut, tempore ministerii exacto, nihil non tentatum, sed nihil simul peractum cernere liceat. Inter apophthegmata igitur aulae huius insigne est istud, nempe eos, qui prompte nimis munera obeunt comparari posse cum otiosis ambulatoribus, qui progrediendo, retroëundo eandem semitam terunt, movendoque nihil promovent.
+At cum, quicquid perciperet, penitus perspiceret nihilque nisi praevio ac gravi examine adhibito statueret, dici poterat plura fecisse, quam decem ex iis, qui prompte et celeriter negotia obeunt, ac vulgo magna ingenia dicuntur, quorum acta reformari, mutari ac limam saepius subire solent, adeo ut, tempore ministerii exacto, nihil non tentatum, sed nihil simul peractum cernere liceat. Inter apophthegmata igitur aulae huius insigne est istud, nempe eos, qui prompte nimis munera obeunt comparari posse cum otiosis ambulatoribus, qui progrediendo, retroÃŽundo eandem semitam terunt, movendoque nihil promovent.
  
 
  
@@ -423,7 +423,7 @@ Accepto meo diplomate, cum inter cursores Principis ordinarios receptus fuissem,
  
 
  
-Tandem his curis et cogitationibus fessum altus sopor oppressit. Variae tunc quiescenti occurrebant imagines. Videbar in patriam redux, popularibus, quae in itinere subterraneo acciderant, ad ravim usque exponere: mox aëriam navigationem mihi fingens cum torvo alite rem habebam, qui tantum mihi negotium facessebat, ut somnus praelianti tandem excuteretur. At evigilans cum horrore conspicabar lecto adstantem eximiae magnitudinis simiam, quae per ianuam cubiculi non satis solicite clausam intraverat ac in cubile irrepserat. Istud improvisum phaenomenon tantum mihi terrorem incussit, ut ingenti vociferatione, qua tota camera exsonuit, auxilium implorarem. Excitatae hoc strepitu arbusculae quaedam, quae in cubiculis meo contiguis cubabant, inrrant, luc tanti mihi cum simia in auxilium veniunt foedumque istud animal foras eiiciunt.
+Tandem his curis et cogitationibus fessum altus sopor oppressit. Variae tunc quiescenti occurrebant imagines. Videbar in patriam redux, popularibus, quae in itinere subterraneo acciderant, ad ravim usque exponere: mox aÃŽriam navigationem mihi fingens cum torvo alite rem habebam, qui tantum mihi negotium facessebat, ut somnus praelianti tandem excuteretur. At evigilans cum horrore conspicabar lecto adstantem eximiae magnitudinis simiam, quae per ianuam cubiculi non satis solicite clausam intraverat ac in cubile irrepserat. Istud improvisum phaenomenon tantum mihi terrorem incussit, ut ingenti vociferatione, qua tota camera exsonuit, auxilium implorarem. Excitatae hoc strepitu arbusculae quaedam, quae in cubiculis meo contiguis cubabant, inrrant, luc tanti mihi cum simia in auxilium veniunt foedumque istud animal foras eiiciunt.
  
 
  
@@ -463,7 +463,7 @@ Quoniam quadriennii tempore, quo ministerium cursoris obibam, occasionem nactus 
  
 
  
- 
+â€ 
  Caput V: Natura Terrae Potuanae et Gentis Indoles 
  
 
@@ -616,7 +616,7 @@ Monstrant quidem annales subterranei, ante aliquot saecula in usu fuisse dignita
  
 
  
-At non sola erant haec incommoda. Distinctionibus his procedente tempore effectum est, ut praestantiores ac digniores arbores, quas natura maximis animi dotibus et plurimis ramis decoraverit, ultimis ac infimis subselliis in conviviis ac sodalitatibus locarentur. Nam omnis arbor, cui valor aliquis erat internus, quaeque virtute ac prudentia conspicua satis erat, adduci non poterat, ut titulum aut proedr¡as characterem ambiret. Arbores vero nauci ac nullius pretii, quo naturale vitium et inanitatem splendidis honorum titulis quodammodo tegerent, absque intermissione Principem tamdiu petitionibus fatigabant, donec titulum quendam extorquerent. Hinc effectum, ut tituli tandem vilissimarum arborum haberentur notae ac indicia. Miras igitur ac ridiculas scenas advenis exhibebant congregationes solennes ac convivia, cum viderent, vepres aut dumos honoratioribus subselliis, palmas vero, cedros et conspicuas quercus decem vel duodecim ramorum scamnis aut infimis sedilibus locari: nam, durante hoc statu, pauci erant vepres sine aliquo charactere.
+At non sola erant haec incommoda. Distinctionibus his procedente tempore effectum est, ut praestantiores ac digniores arbores, quas natura maximis animi dotibus et plurimis ramis decoraverit, ultimis ac infimis subselliis in conviviis ac sodalitatibus locarentur. Nam omnis arbor, cui valor aliquis erat internus, quaeque virtute ac prudentia conspicua satis erat, adduci non poterat, ut titulum aut proedrÂ°as characterem ambiret. Arbores vero nauci ac nullius pretii, quo naturale vitium et inanitatem splendidis honorum titulis quodammodo tegerent, absque intermissione Principem tamdiu petitionibus fatigabant, donec titulum quendam extorquerent. Hinc effectum, ut tituli tandem vilissimarum arborum haberentur notae ac indicia. Miras igitur ac ridiculas scenas advenis exhibebant congregationes solennes ac convivia, cum viderent, vepres aut dumos honoratioribus subselliis, palmas vero, cedros et conspicuas quercus decem vel duodecim ramorum scamnis aut infimis sedilibus locari: nam, durante hoc statu, pauci erant vepres sine aliquo charactere.
  
 
  
@@ -666,7 +666,7 @@ Inter alia notatu dignissima notabam sequentia. Quo pluribus beneficiis quis a r
  
 
  
-Cives vero meritissimi, quos omnes colere ac venerari iubentur, sunt numerosae sobolis auctores. Heroës hi subterranei sunt, sacraque apud posteros memoria eorundem manet. Soli etiam sunt, quibus nomen MAGNI confertur. Longe aliter ac apud nos, ubi Magni dicuntur humani generis eversores. Hinc facile est coniicere, quid de Alexandro Magno aut Iulio Caesare statuerent subterranei, cum uterque sine prole mortuus aliquot hominum myriades neci dederit. Memini epitaphium rustici cuiusdam videre Kebae hac inscriptione ornatum:
+Cives vero meritissimi, quos omnes colere ac venerari iubentur, sunt numerosae sobolis auctores. HeroÃŽs hi subterranei sunt, sacraque apud posteros memoria eorundem manet. Soli etiam sunt, quibus nomen MAGNI confertur. Longe aliter ac apud nos, ubi Magni dicuntur humani generis eversores. Hinc facile est coniicere, quid de Alexandro Magno aut Iulio Caesare statuerent subterranei, cum uterque sine prole mortuus aliquot hominum myriades neci dederit. Memini epitaphium rustici cuiusdam videre Kebae hac inscriptione ornatum:
  
 
  
@@ -886,11 +886,11 @@ Si quis turpitudine vitae defamatus honestum ac rei publicae salutare consilium 
  
 
  
-In articulo de religione didici, interdictum esse, de rebus fidei fundamentalibus, in primis vero de essentia et attributis Dei disputare: at liberum est, de aliis rebus iudicia proferre, et sententias particulares ventilandas proponere. Dicunt Potuani, incommoda, quae ex eiusmodi litibus nascuntur, comparari posse cum procellis, quae tecta atque arbores prosternunt, at simul purificant aërem, impediuntque, ne nimia tranquillitate putrescat. Cur paucos habeant dies festos, causa haec est, ne otio torpeat arboreum genus: credunt enim Potuani, in utili labore non minus, quam in votis ac precationibus esse cultum Dei.
+In articulo de religione didici, interdictum esse, de rebus fidei fundamentalibus, in primis vero de essentia et attributis Dei disputare: at liberum est, de aliis rebus iudicia proferre, et sententias particulares ventilandas proponere. Dicunt Potuani, incommoda, quae ex eiusmodi litibus nascuntur, comparari posse cum procellis, quae tecta atque arbores prosternunt, at simul purificant aÃŽrem, impediuntque, ne nimia tranquillitate putrescat. Cur paucos habeant dies festos, causa haec est, ne otio torpeat arboreum genus: credunt enim Potuani, in utili labore non minus, quam in votis ac precationibus esse cultum Dei.
  
 
  
-Studium poëticum frigide tantum excolitur, licet Principatus hic non plane destitutus sit poëtis. At Poësis subterranea sola stili sublimitate differt a dictione soluta. Hinc tanquam puerile quippiam deridebant id, quod de pedibus ac rhythmis nostris narrabam.
+Studium poÃŽticum frigide tantum excolitur, licet Principatus hic non plane destitutus sit poÃŽtis. At PoÃŽsis subterranea sola stili sublimitate differt a dictione soluta. Hinc tanquam puerile quippiam deridebant id, quod de pedibus ac rhythmis nostris narrabam.
  
 
  
@@ -910,7 +910,7 @@ Sed ut iam ad me ipsum redeam. Parum iucunde tempus transmisi cum paradoxis his 
  
 
  
-  Caput IX: Iter Klimii circa Planetam Nazar 
+â€  Caput IX: Iter Klimii circa Planetam Nazar 
  
 
  
@@ -922,7 +922,7 @@ Iteratae hae repulsae ad audax et desperatum consilium me adegerunt. Conabar ex 
  
 
  
-Secutus consilium amici, tempus prorogabam, ac patienter deinceps cursoris munere fungebar, urbes ac provincias more solito circumvolans. Continuus iste cursus ansam mihi dedit, totum Principatum cum vicinis regionibus accurate perspiciendi. Et ne memoria exciderent, quae in itineribus meis annotaveram, cuncta eo, quo poteram, stilo persecutus, non exiguae molis volumen Principi offerebam. Quantum hoc opus Serenitati suae ad palatum fuerit, exinde mox patuit, quod labores meos in Senatu publico encomio extolleret, perlectoque studiose libro, meo uti ministerio ad totum planetam Nazar detegendum decerneret. Aliam ego lucubrationum mearum messem exspectaveram, quocirca tacite cum poëta ingeminabam: . . . Virtus laudatur et alget. At, cum rerum novarum avidissimus essem, ac praemia post reditum a benignissimo Principe sperarem, haud prorsus invitus operam meam addixi.
+Secutus consilium amici, tempus prorogabam, ac patienter deinceps cursoris munere fungebar, urbes ac provincias more solito circumvolans. Continuus iste cursus ansam mihi dedit, totum Principatum cum vicinis regionibus accurate perspiciendi. Et ne memoria exciderent, quae in itineribus meis annotaveram, cuncta eo, quo poteram, stilo persecutus, non exiguae molis volumen Principi offerebam. Quantum hoc opus Serenitati suae ad palatum fuerit, exinde mox patuit, quod labores meos in Senatu publico encomio extolleret, perlectoque studiose libro, meo uti ministerio ad totum planetam Nazar detegendum decerneret. Aliam ego lucubrationum mearum messem exspectaveram, quocirca tacite cum poÃŽta ingeminabam: . . . Virtus laudatur et alget. At, cum rerum novarum avidissimus essem, ac praemia post reditum a benignissimo Principe sperarem, haud prorsus invitus operam meam addixi.
  
 
  
@@ -930,7 +930,7 @@ Globus Planetae Nazar, quamvis circuitu vix ducenta milliaria Germanica complect
  
 
  
-Quae sequuntur stupenda adeo sunt, ut ad fictiones poëticas aut meros ingenii lusus referri queant, maxime cum diversitas ista corporum et animorum, quam in itinere hoc expertus sum, ne inter gentes quidem a se invicem dissitissimas, et sub alio sole viventes exspectari posset. At notandum est, plerasque huius globi gentes per freta ac maria dirimi, ac speciem quandam archipelagi praebere hunc globum. Raro haec freta traiiciuntur, et portitores, qui ad ripas excubant, solorum peregrinantium causa in his stationibus ponuntur. Ipsi enim indigenae vix pedes extra limites patriae proferunt, et, si necessitate adacti freta transmittere cogantur, subito reverti solent, utpote alieni soli diu impatientes. Hinc quot gentes, tot novi orbes.
+Quae sequuntur stupenda adeo sunt, ut ad fictiones poÃŽticas aut meros ingenii lusus referri queant, maxime cum diversitas ista corporum et animorum, quam in itinere hoc expertus sum, ne inter gentes quidem a se invicem dissitissimas, et sub alio sole viventes exspectari posset. At notandum est, plerasque huius globi gentes per freta ac maria dirimi, ac speciem quandam archipelagi praebere hunc globum. Raro haec freta traiiciuntur, et portitores, qui ad ripas excubant, solorum peregrinantium causa in his stationibus ponuntur. Ipsi enim indigenae vix pedes extra limites patriae proferunt, et, si necessitate adacti freta transmittere cogantur, subito reverti solent, utpote alieni soli diu impatientes. Hinc quot gentes, tot novi orbes.
  
 
  
@@ -950,7 +950,7 @@ Longum foret, nec operae est, sigillatim et secundum ordinem historicum omnia, q
  
 
  
-In provincia Quamso, quae prima ultra fretum regio est, nulli corporis infirmitati ac morbo obnoxii sunt incolae, sed omnes usque ad canitiem in valetudine inoffensa vivunt. Hinc visae mihi sunt omnium creaturarum felicissimae; at e levi cum iisdem conversatione, opinione me insigniter falsum esse animadverti. Nam cum inter huius provinciae incolas neminem viderim tristem, ita neminem simul contentum, ne dicam laetum, conspexi. Nam uti coeli serenitate ac aëris temperie, non nisi turbida ac nubila prius experti, afficimur; ita arbores hae felicitatem non percipiunt, quia perennis ac sine interruptione est, sanosque se non sentiunt, quoniam morbos ignorant. Vitam igitur agunt in perpetua sanitate, at simul in perpetuo tepore: perpetua enim bona languescunt satietate; et soli iucunde vivunt, quorum suaves voluptates acoribus condiuntur.
+In provincia Quamso, quae prima ultra fretum regio est, nulli corporis infirmitati ac morbo obnoxii sunt incolae, sed omnes usque ad canitiem in valetudine inoffensa vivunt. Hinc visae mihi sunt omnium creaturarum felicissimae; at e levi cum iisdem conversatione, opinione me insigniter falsum esse animadverti. Nam cum inter huius provinciae incolas neminem viderim tristem, ita neminem simul contentum, ne dicam laetum, conspexi. Nam uti coeli serenitate ac aÃŽris temperie, non nisi turbida ac nubila prius experti, afficimur; ita arbores hae felicitatem non percipiunt, quia perennis ac sine interruptione est, sanosque se non sentiunt, quoniam morbos ignorant. Vitam igitur agunt in perpetua sanitate, at simul in perpetuo tepore: perpetua enim bona languescunt satietate; et soli iucunde vivunt, quorum suaves voluptates acoribus condiuntur.
  
 
  
@@ -958,7 +958,7 @@ Testari possum, in nulla gente mores minus lepidos, conversationem magis frigida
  
 
  
-Nam cum morbi mortalitatem nobis repraesentent, ad bene moriendum nos quoque acuunt, ac quasi in procinctu itineris paratos stare iubent; et cum cruciatibus nos affligant, afflictorum simul misereri docent. Hinc facile mihi erat discernere, quantum morbi et pericula mortis ad pietatis ac socialitatis exercitia nos ducant, imo, quam iniuste succenseamus Creatori, quoniam ad certas nati videmur afflictiones, quae salubres tamen et utiles nobis sunt. Notandum tamen istud est, has Quercus, quoties in alia loca divertuntur, morbis et infirmitatibus, non secus ac alias arbores, esse expositas. Hinc soli huius regionis aëri aut victui hoc beneficium, modo beneficium dici mereatur, acceptum ferendum iudico.
+Nam cum morbi mortalitatem nobis repraesentent, ad bene moriendum nos quoque acuunt, ac quasi in procinctu itineris paratos stare iubent; et cum cruciatibus nos affligant, afflictorum simul misereri docent. Hinc facile mihi erat discernere, quantum morbi et pericula mortis ad pietatis ac socialitatis exercitia nos ducant, imo, quam iniuste succenseamus Creatori, quoniam ad certas nati videmur afflictiones, quae salubres tamen et utiles nobis sunt. Notandum tamen istud est, has Quercus, quoties in alia loca divertuntur, morbis et infirmitatibus, non secus ac alias arbores, esse expositas. Hinc soli huius regionis aÃŽri aut victui hoc beneficium, modo beneficium dici mereatur, acceptum ferendum iudico.
  
 
  
@@ -1093,7 +1093,7 @@ Forum urbis, quod valde spatiosum erat, diversae ornabant statuae et columnae, t
  
 
  
-Ad spectaculum istud accurrebant innumeri Philosophi, moreque furentium impetum facientes, pugnis ac fustibus articulatim caesum animamque propediem agentem, totum circa forum capillis raptarunt. Caedendo tandem fessi, licet non satiati, ad spatiosam domum me ducunt, et, cum obnixis in ianuam pedibus obluctarer, meque ingressurum fidenter abnuerem, obducto me collo, ceu porcum mugientem, intro rapiunt, ac in medio pavimento supinum ponunt. Turbata omnia et confusa ibi erant, ac talis mihi visus est aedium status, qualis apud nos esse solet circa terminos Michaëlis aut Paschatis, ubi res mobiles, vasa ac utensilia, in novam domum transferenda confuse proiiciuntur.
+Ad spectaculum istud accurrebant innumeri Philosophi, moreque furentium impetum facientes, pugnis ac fustibus articulatim caesum animamque propediem agentem, totum circa forum capillis raptarunt. Caedendo tandem fessi, licet non satiati, ad spatiosam domum me ducunt, et, cum obnixis in ianuam pedibus obluctarer, meque ingressurum fidenter abnuerem, obducto me collo, ceu porcum mugientem, intro rapiunt, ac in medio pavimento supinum ponunt. Turbata omnia et confusa ibi erant, ac talis mihi visus est aedium status, qualis apud nos esse solet circa terminos MichaÃŽlis aut Paschatis, ubi res mobiles, vasa ac utensilia, in novam domum transferenda confuse proiiciuntur.
  
 
  
@@ -1225,7 +1225,7 @@ At, non ita multo post gemitibus ac horrendo eiulatu tota personabat culina. Acc
  
 
  
-Et postquam mores et ingenia humani generis paulo curatius examinaveram, vera matronam dixisse confessus sum, cum innumeris evincitur exemplis, non solum esse Herculem, quem palla uxoris subegit, sed vulgo hanc fortium virorum esse sortem, ut iugo muliebri colla patienter subdant: contra timidissimos, et qui corda cum Bostanki incolis in femoralibus portant, in culinis esse heroës. Gens haec sub clientela vicini populi, cui vectigalis est, perpetuo vivit.
+Et postquam mores et ingenia humani generis paulo curatius examinaveram, vera matronam dixisse confessus sum, cum innumeris evincitur exemplis, non solum esse Herculem, quem palla uxoris subegit, sed vulgo hanc fortium virorum esse sortem, ut iugo muliebri colla patienter subdant: contra timidissimos, et qui corda cum Bostanki incolis in femoralibus portant, in culinis esse heroÃŽs. Gens haec sub clientela vicini populi, cui vectigalis est, perpetuo vivit.
  
 
  
@@ -1245,7 +1245,7 @@ At vitium istud oritur ex acuto nimis nonnullorum visu, quo fit, ut remotiora, q
  
 
  
-Superato abrupto ac difficillimi ascensus monte, terram ingredior Mütak, cuius metropolis speciem praebet saliceti, cum incolas habeat salices. In forum delatus, robustum quendam iuvenem conspicor, sella Patrocliana sedentem, ac misericordiam senatus implorantem. Sciscitanti mihi, quid rei esset, respondetur: maleficum esse, cui hodie decima quinta dabitur dosis. Perculsus hoc responso, digredior, solutionem aenigmatis ab hospite meo paulo post petens. Ille vero ita fari exorsus est: Flagella, stigmata, cruces et id genus alias poenas, quibus vicinae gentes scelera coërcent, penitus nos ignoramus, quippe vitia non tam punire, quam vitiosos emendare conamur. Noxius iste, quem in publica sella nuper sedentem vidisti, auctor est insulsus, qui ob pruritum scribendi, quem neque legibus, neque admonitionibus coërcere potuit senatus, iam publicae poenae, sive medicinae subiicitur, et pergent censores urbis, qui omnes medicinae Doctores sunt, crebris purgationibus eundem macerare, donec fomite libidinis restincto scribere cesset.
+Superato abrupto ac difficillimi ascensus monte, terram ingredior MÂ¸tak, cuius metropolis speciem praebet saliceti, cum incolas habeat salices. In forum delatus, robustum quendam iuvenem conspicor, sella Patrocliana sedentem, ac misericordiam senatus implorantem. Sciscitanti mihi, quid rei esset, respondetur: maleficum esse, cui hodie decima quinta dabitur dosis. Perculsus hoc responso, digredior, solutionem aenigmatis ab hospite meo paulo post petens. Ille vero ita fari exorsus est: Flagella, stigmata, cruces et id genus alias poenas, quibus vicinae gentes scelera coÃŽrcent, penitus nos ignoramus, quippe vitia non tam punire, quam vitiosos emendare conamur. Noxius iste, quem in publica sella nuper sedentem vidisti, auctor est insulsus, qui ob pruritum scribendi, quem neque legibus, neque admonitionibus coÃŽrcere potuit senatus, iam publicae poenae, sive medicinae subiicitur, et pergent censores urbis, qui omnes medicinae Doctores sunt, crebris purgationibus eundem macerare, donec fomite libidinis restincto scribere cesset.
  
 
  
@@ -1269,15 +1269,15 @@ Valde igitur paradoxam hanc gentem videbam, et, ut virtutem horum medicaminum cu
  
 
  
-His et aliis auditis, miris cogitationum aestibus agitabar. At ne circuli pristinae meae philosophiae penitus turbarentur, terram ocius relinquo, et sane, quod commodum mihi accidit, diutius his cogitationibus immorari non permiserunt nova aliarum gentium prodigia et occurrentia passim phaenomena. Defunctus vero itinere circa hunc globum, cum philosophiam Mütacianam curiosius rimarer, artem medendi, quam profitetur haec gens, non plane reiiciendam iudicavi. Saepe enim expertus sum, in Europa nostra dari libros, qui vomitionem, alvi solutionem aut somnum legentibus pariunt.
+His et aliis auditis, miris cogitationum aestibus agitabar. At ne circuli pristinae meae philosophiae penitus turbarentur, terram ocius relinquo, et sane, quod commodum mihi accidit, diutius his cogitationibus immorari non permiserunt nova aliarum gentium prodigia et occurrentia passim phaenomena. Defunctus vero itinere circa hunc globum, cum philosophiam MÂ¸tacianam curiosius rimarer, artem medendi, quam profitetur haec gens, non plane reiiciendam iudicavi. Saepe enim expertus sum, in Europa nostra dari libros, qui vomitionem, alvi solutionem aut somnum legentibus pariunt.
  
 
  
-At, quod ad morbos animi attinet, principiis Mütacianis subscribere non sustineo, quamvis fatear, dari infirmitates corporis nonnullas, quas cum morbis animi confundimus, uti prudenter monuit poeta quidam nostri orbis subsequenti epigrammate : Sexte, diu mecum morbo vexaris eodem, Humores acres nos cruciare solent Cum mihi sit morbus circa praecordia versans, Exosus, querulus difficilisque vocor At, te aegrotantem plorant, miserantur amici, In pedibus morbi vis quia tota sedet. Comiter excusant te, cum saltare recusas, Immunem clamant, namque podagra tenet. Inter convivas at me cantare negantem, Fastosum, querulum difficilemque vocant, Cum minus ardua res tibi sit saltatio, Sexte, Quam sit cardiaco psallere saepe mihi.
+At, quod ad morbos animi attinet, principiis MÂ¸tacianis subscribere non sustineo, quamvis fatear, dari infirmitates corporis nonnullas, quas cum morbis animi confundimus, uti prudenter monuit poeta quidam nostri orbis subsequenti epigrammate : Sexte, diu mecum morbo vexaris eodem, Humores acres nos cruciare solent Cum mihi sit morbus circa praecordia versans, Exosus, querulus difficilisque vocor At, te aegrotantem plorant, miserantur amici, In pedibus morbi vis quia tota sedet. Comiter excusant te, cum saltare recusas, Immunem clamant, namque podagra tenet. Inter convivas at me cantare negantem, Fastosum, querulum difficilemque vocant, Cum minus ardua res tibi sit saltatio, Sexte, Quam sit cardiaco psallere saepe mihi.
  
 
  
-Relicta hac terra, et stagno quodam fulvi coloris traiecto, ad terram Mikrok adpellor. At, civitatem cognominem introiturus, portam clausam offendi. Hinc subsistere aliquamdiu cogor, donec a somnolento vigile, ferro et compagibus arctis obstructa, reseratur. Alta per totam urbem regnabat quies, nisi quod stertentium stridor auribus ambulantis obstreperet, adeo, ut in somni verum domicilium, et quale fingunt Poëtae, delatus viderer. Hinc tacitus mecum: o utinam hic nasci contigisset consulibus, senatoribus quibusdam, aliisque honestis in patria mea civibus, qui, cum pacis amantissimi sint, in beata hac urbe, commode ac quiete vitam transigerent! E signis tamen ac titulis aedium, artes ac opificia coli, et iura exerceri patuit. Ducibus hisce titulis deversorium detexi, cuius tamen nullus patebat aditus, cum fores essent clausae et oppessulatae: nam, quamvis sol medium coeli orbem traiecisset, nox erat incolis. Tandem postquam crebris assultibus fores infestaveram intromittor.
+Relicta hac terra, et stagno quodam fulvi coloris traiecto, ad terram Mikrok adpellor. At, civitatem cognominem introiturus, portam clausam offendi. Hinc subsistere aliquamdiu cogor, donec a somnolento vigile, ferro et compagibus arctis obstructa, reseratur. Alta per totam urbem regnabat quies, nisi quod stertentium stridor auribus ambulantis obstreperet, adeo, ut in somni verum domicilium, et quale fingunt PoÃŽtae, delatus viderer. Hinc tacitus mecum: o utinam hic nasci contigisset consulibus, senatoribus quibusdam, aliisque honestis in patria mea civibus, qui, cum pacis amantissimi sint, in beata hac urbe, commode ac quiete vitam transigerent! E signis tamen ac titulis aedium, artes ac opificia coli, et iura exerceri patuit. Ducibus hisce titulis deversorium detexi, cuius tamen nullus patebat aditus, cum fores essent clausae et oppessulatae: nam, quamvis sol medium coeli orbem traiecisset, nox erat incolis. Tandem postquam crebris assultibus fores infestaveram intromittor.
  
 
  

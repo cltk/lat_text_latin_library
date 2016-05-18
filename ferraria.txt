@@ -116,7 +116,7 @@ Quam scripsit annum agens XIIII
 84. Et sudare diu, et norunt uibrare securim. 
 85. Conducti in syluam ueniunt, hic fissile Robur 
 86. Diuiditur cuneis, Acer, Ornus, Fraxinus, Ilex, 
-87. Et Picea, et Fagus ueterum altrix, ingemit Ech⁄ 
+87. Et Picea, et Fagus ueterum altrix, ingemit Ech‚ÅÑ 
 88. Per syluam, struibus late loca plena tumescunt. 
 89. Qui uero catus est lignator, quercubus omnis 
 90. Abstinet, et Larice indomita, Buxoque rebelli, 
@@ -239,7 +239,7 @@ Quam scripsit annum agens XIIII
 207. Abstrusas, tornoque trahunt et fune sub auras. 
 208. Quod si forte roges, quanam cognoscitur arte 
 209. Materiem qu&aelig; terra habeat, ferrique fodinam 
-210. Contineat: norunt pueri, nouÕre bubulci, 
+210. Contineat: norunt pueri, nou√ïre bubulci, 
 211. Indicat ipsa soli facies subrufa, nec usquam 
 212. Tam regio infelix ferrum qu&aelig; non ferat ulla est. 
 213. At qu&aelig; materies solita est excellere, disce. 
@@ -263,7 +263,7 @@ Quam scripsit annum agens XIIII
 231. Terga boum, uibrante rota, quam uersat aquarum 
 232. Impetus adsidue, motantur, flantque uicissim, 
 233. Et flant, et reflant, alternis motibus &aelig;qui. 
-234. Adcubat h”c Fusor, sic illum nomine dicunt, 
+234. Adcubat h‚Äùc Fusor, sic illum nomine dicunt, 
 235. Excipit hic solers massam, quod fusile ferrum 
 236. Dicitur, atque regit uentos, lituisque prehensis 
 237. Ferreis emungit squamas, et perdomat ignes: 
@@ -289,7 +289,7 @@ Quam scripsit annum agens XIIII
 257. Vasa luto primum tornatim: denique formis 
 258. Infundunt ferrum: quin et (mirabile uisu) 
 259. Bombardas conflant, ita enim monstra illa uocantur, 
-260. D&aelig;monis inuentum stygij, furor iraque diuöm. 
+260. D&aelig;monis inuentum stygij, furor iraque diu√∂m. 
 261. Mulciber his primos dum Teuthonas instruit armis: 
 262. Atque pilas, quibus et muri quatiuntur, et urbes 
 263. Aequantur turresque solo, robusta teruntur 

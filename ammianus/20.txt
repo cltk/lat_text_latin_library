@@ -49,7 +49,7 @@ Ammianus: Liber XX
  
 
  
-4. Qua iniquitate percitus qui audiebatur ´etsi meª inquit ´despicit imperator, negotii tamen est magnitudo, ut non nisi iudicio principis nosci possit et vindicari; sciat tamen velut quodam praesagio quod, dum maeret super his, quae apud Amidam gesta emendata didicit fide, dumque ad spadonum arbitrium trahitur, defrustandae Mesopotamiae proximo vere ne ipse quidem cum exercitus robore omni opitulari poterit praesensª. 
+4. Qua iniquitate percitus qui audiebatur Â¥etsi meâ„¢ inquit Â¥despicit imperator, negotii tamen est magnitudo, ut non nisi iudicio principis nosci possit et vindicari; sciat tamen velut quodam praesagio quod, dum maeret super his, quae apud Amidam gesta emendata didicit fide, dumque ad spadonum arbitrium trahitur, defrustandae Mesopotamiae proximo vere ne ipse quidem cum exercitus robore omni opitulari poterit praesensâ„¢. 
  
 
  
@@ -149,7 +149,7 @@ Ammianus: Liber XX
  
 
  
-10. hocque conperto apud Petulantium signa famosum quidam libellum humi proiecit occulte, inter alia multa etiam id continentem ´nos quidem ad orbis terrarum extrema ut noxii pellimur et damnati, caritates vero nostrae Alamannis denuo servient, quas captivitate prima post internecivas liberavimus pugnasª. 
+10. hocque conperto apud Petulantium signa famosum quidam libellum humi proiecit occulte, inter alia multa etiam id continentem Â¥nos quidem ad orbis terrarum extrema ut noxii pellimur et damnati, caritates vero nostrae Alamannis denuo servient, quas captivitate prima post internecivas liberavimus pugnasâ„¢. 
  
 
  
@@ -173,7 +173,7 @@ Ammianus: Liber XX
  
 
  
-16. ´Cesset ira quaeso paulisper: absque dissensione vel rerum adpetitu novarum impetrabitur facile quod postulatis. quoniam dulcedo vos patriae retinet, et insueta peregrinaque metuitis loca, redite iam nunc ad sedes nihil visuri, quia displicet, transalpinum. hocque apud Augustum capacem rationis et prudentissimum ego conpetenti satisfactione purgaboª. 
+16. Â¥Cesset ira quaeso paulisper: absque dissensione vel rerum adpetitu novarum impetrabitur facile quod postulatis. quoniam dulcedo vos patriae retinet, et insueta peregrinaque metuitis loca, redite iam nunc ad sedes nihil visuri, quia displicet, transalpinum. hocque apud Augustum capacem rationis et prudentissimum ego conpetenti satisfactione purgaboâ„¢. 
  
 
  
@@ -213,7 +213,7 @@ Ammianus: Liber XX
  
 
  
-3. ´Res ardua poscit et flagitat, propugnatores mei reique publicae fortes et fidi, qui mecum pro statu provinciarum vitam saepius obiecistis, quoniam Caesarem vestrum firmo iudicio ad potestatum omnium columen sustulistis, perstringere pauca summatim, ut remedia permutatae rei iusta conligantur et cauta. 
+3. Â¥Res ardua poscit et flagitat, propugnatores mei reique publicae fortes et fidi, qui mecum pro statu provinciarum vitam saepius obiecistis, quoniam Caesarem vestrum firmo iudicio ad potestatum omnium columen sustulistis, perstringere pauca summatim, ut remedia permutatae rei iusta conligantur et cauta. 
  
 
  
@@ -229,7 +229,7 @@ Ammianus: Liber XX
  
 
  
-7. ut autem rerum integer ordo servetur, praemiaque virorum fortium maneant incorrupta, nec honores ambitio praeripiat clandestina, id sub reverenda consilii vestri facie statuo, ut neque civilis quisquam iudex nec militiae rector, alio quodam praeter merita suffragante, ad potiorem veniat gradum, non sine detrimento pudoris eo, qui pro quolibet petere temptaverit discessuroª. 
+7. ut autem rerum integer ordo servetur, praemiaque virorum fortium maneant incorrupta, nec honores ambitio praeripiat clandestina, id sub reverenda consilii vestri facie statuo, ut neque civilis quisquam iudex nec militiae rector, alio quodam praeter merita suffragante, ad potiorem veniat gradum, non sine detrimento pudoris eo, qui pro quolibet petere temptaverit discessuroâ„¢. 
  
 
  
@@ -241,7 +241,7 @@ Ammianus: Liber XX
  
 
  
-10. Nocte tamen, quae declarationis Augustae praecesserat diem, iunctioribus proximis rettulerat imperator per quietem aliquem visum, ut formari genius publicus solet, haec obiurgando dixisse ´olim Iuliane vestibulum aedium tuarum observo latenter, augere tuam gestiens dignitatem et aliquotiens tamquam repudiatus abscessi: si ne nunc quidem recipior, sententia concordante multorum, ibo demissus et maestus. id tamen retineto imo corde quod tecum non diutius habitaboª.   
+10. Nocte tamen, quae declarationis Augustae praecesserat diem, iunctioribus proximis rettulerat imperator per quietem aliquem visum, ut formari genius publicus solet, haec obiurgando dixisse Â¥olim Iuliane vestibulum aedium tuarum observo latenter, augere tuam gestiens dignitatem et aliquotiens tamquam repudiatus abscessi: si ne nunc quidem recipior, sententia concordante multorum, ibo demissus et maestus. id tamen retineto imo corde quod tecum non diutius habitaboâ„¢.   
  
 
  
@@ -381,7 +381,7 @@ Ammianus: Liber XX
  
 
  
-5. ´Ego quidem propositi mei fidem non minus moribus quam foederum pacto, quoad fuit, umum semper atque idem sentiens conservavi, ut effectu multiplici claruit evidenter. 
+5. Â¥Ego quidem propositi mei fidem non minus moribus quam foederum pacto, quoad fuit, umum semper atque idem sentiens conservavi, ut effectu multiplici claruit evidenter. 
  
 
  
@@ -429,7 +429,7 @@ Ammianus: Liber XX
  
 
  
-17. Haec hortando, ut aestimo, salutariter scripsi poscens et rogans. scio enim, scio, nequid sublatius dicam cum imperio congruens, quas rerum acerbitates iam conclamatas et perditas concordia vicissim sibi cedentium principum meliorem revocavit in statum, cum appareat maiorum exemplo nostrorum moderatores haec et similia cogitantes, fortunate beateque vivendi reperire quodam modo viam, et ultimo tempori posteritatique iucundam sui memoriam commendareª. 
+17. Haec hortando, ut aestimo, salutariter scripsi poscens et rogans. scio enim, scio, nequid sublatius dicam cum imperio congruens, quas rerum acerbitates iam conclamatas et perditas concordia vicissim sibi cedentium principum meliorem revocavit in statum, cum appareat maiorum exemplo nostrorum moderatores haec et similia cogitantes, fortunate beateque vivendi reperire quodam modo viam, et ultimo tempori posteritatique iucundam sui memoriam commendareâ„¢. 
  
 
  
@@ -481,7 +481,7 @@ Ammianus: Liber XX
  
 
  
-7. ´Auguste Iuliane, ut provincialis et miles et rei publicae decrevit auctoritas recreatae quidem, sed adhuc metuentis redivivos barbarorum excursusª. 
+7. Â¥Auguste Iuliane, ut provincialis et miles et rei publicae decrevit auctoritas recreatae quidem, sed adhuc metuentis redivivos barbarorum excursusâ„¢. 
  
 
  
@@ -533,7 +533,7 @@ Ammianus: Liber XX
  
 
  
-2 praesens, qui aerarium tuebatur, dolore percitus exclamavit ´en quibus animis urbes a milite defenduntur, cui ut abundare stipendium possit imperii opes iam fatiscunt!ª. quod dictum ita amarum militaris multitudo postea apud Chalcedona recordata ad eius exitium consurrexit. 
+2 praesens, qui aerarium tuebatur, dolore percitus exclamavit Â¥en quibus animis urbes a milite defenduntur, cui ut abundare stipendium possit imperii opes iam fatiscunt!â„¢. quod dictum ita amarum militaris multitudo postea apud Chalcedona recordata ad eius exitium consurrexit. 
  
 
  

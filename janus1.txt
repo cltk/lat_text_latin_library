@@ -174,7 +174,7 @@ Quis tibi, Bacche, tulit pro centum vota racemis?
   Agricolamve deum mille poposcit apes? 
 Cum pius irrorat sitientes Iuppiter agros, 
   deciduae guttas non numeramus aquae. 
-Sic quoque, cum ventis concussus inhorruit aër, 
+Sic quoque, cum ventis concussus inhorruit aÃŽr, 
   sumpsit et irata Iuppiter arma manu, 
 grandine confusa terras et caerula pulsat, 
   securus sternat quot sata, quotve locis. 
@@ -182,7 +182,7 @@ Seu bona, seu mala sunt, veniunt uberrima caelo:
   maiestas domui convenit illa Iovis. 
 Tu quoque cum dea sis, diva formosior illa 
   concha per aequoreum quam vaga ducit iter, 
-basia cur numero caelestia dona coërces? 
+basia cur numero caelestia dona coÃŽrces? 
   Nec numeras gemitus, dura puella, meos? 
 Nec lacrimas numeras, quae per faciemque sinumque 
   duxerunt rivos semper euntis aquae? 
@@ -651,7 +651,7 @@ Inde procul dulces aurae funduntur anethi,
   narcissi veris illa madent lacrimis, 
 Oebaliique madent iuvenis fragrante cruore, 
   qualis uterque liquor cum cecidisset erat, 
-Nectareque aetherio medicatus, et aëre puro, 
+Nectareque aetherio medicatus, et aÃŽre puro, 
   impleret fetu versicolore solum. 
 Sed me, iure meo libantem mellea labra, 
   ingratae socium ne prohibete favis. 

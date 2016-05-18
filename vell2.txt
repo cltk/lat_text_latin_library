@@ -256,7 +256,7 @@ meruit.
  2 Et ante eum paucis annis tam severum illius Q. Macedonici in his
 gentibus imperium fuit, ut, cum. Urbem Contrebiam nomine in Hispania
 oppugnaret, pulsas praecipiti loco quinque cohortes legionarias eodem
-protinus subiré iuberet, 3 facientibusque omnibus in procinctu
+protinus subirÃˆ iuberet, 3 facientibusque omnibus in procinctu
 testamenta, velut ad certam mortem eundum foret, non deterritus proposito,
 quem moriturum miserat militem victorem recepit: tantum effecit mixtus
 timori pudor spesque desperatione quaesita. Hic virtute ac severitate
@@ -388,7 +388,7 @@ annum bellum, et naturalem nobilitatis superbiam morandique in imperiis
 cupiditatem effecit, ut, cum commeatu petito Romam venisset, consul
 crearetur bellique paene patrati a Metello, qui bis Iugurtham acie
 fuderat, summa committeretur sibi. Metelli tamen et triumphus fuit
-clarissimus et meritum ex virtute ei cognomen Numidicì inditum. 3 Ut
+clarissimus et meritum ex virtute ei cognomen NumidicÃ inditum. 3 Ut
 paulo ante Domitiae familiae, ita Caeciliae notanda claritudo est.
 Quippe intra duodecim ferme annos huius temporis consules fuere Metelli
 aut censores aut triumpharunt amplius duodecies, ut appareat,
@@ -434,7 +434,7 @@ multos clarissimos atque innocentissimos viros saevissent, tum P.
 Rutilium, virum non saeculi sui, sed omnis aevi optimum, interrogatum
 lege repetundarum maximo cum gemitu civitatis damnaverant), in iis
 ipsis, quae pro senatu moliebatur, senatum habuit adversarium non
-intellegentem, sì qua de plebis commodis ab eo agerentur, veluti
+intellegentem, sÃ qua de plebis commodis ab eo agerentur, veluti
 inescandae inliciendaeque multitudinis causa fieri, ut minoribus
 perceptis maiora permitteret. 3 Denique ea fortuna Drusi fuit, ut
 malefacta collegarum quam quaevis optime ab ipso cogitata senatus
@@ -661,8 +661,8 @@ victor, ut dum vincit, mitis ac iustissimo lenior, post victoriam audito
 fuerit crudelior. Nam et consulem, ut praediximus, exarmatum Quintumque
 Sertorium, pro quanti mox belli facem, et multos alios, potitus eorum,
 dimisit incolumes, credo ut in eodem homine duplicis ac diversissimi
-animi conspiceretur exemplum. 4 Post victoriam ­ namque ascendens
-montem Tifata cum C. Norbano concurrerat ­ Sulla gratis Dianae, cuius
+animi conspiceretur exemplum. 4 Post victoriam â‰  namque ascendens
+montem Tifata cum C. Norbano concurrerat â‰  Sulla gratis Dianae, cuius
 numini regio illa sacrata est, solvit; aquas salubritate medendisque
 corporibus nobiles agrosque omnis addixit deae. Huius gratae religionis
 memoriam et inscriptio templi adfixa posti hodieque et tabula testatur
@@ -1018,7 +1018,7 @@ Caesar autem, quod animadvertebat se cedendo Pompei gloriae aucturum suam
 et invidia communis potentiae in illum relegata confirmaturum vires suas,
 Crassus, ut quem principatum solus adsequi non poterat, auctoritate Pompei,
 viribus teneret Caesaris, 3 adfinitas etiam inter Caesarem Pompeiumque
-contracta nupt¸s, quippe Iuliam, filiam C. Caesaris, Cn. Magnus duxit
+contracta nuptâˆs, quippe Iuliam, filiam C. Caesaris, Cn. Magnus duxit
 uxorem. 4 In hoc consulatu Caesar legem tulit, ut ager Campanus plebei
 divideretur, suasore legis Pompeio. Ita circiter viginti milia civium eo
 deducta et ius urbis restitutum post annos circiter centum quinquaginta
@@ -1039,7 +1039,7 @@ dissimiles amicum esse poterat?) et a patribus ad plebem transisset, legem
 in tribunatu tulit, qui civem Romanum indemnatum interemisset, ei aqua et
 igni interdiceretur: cuius verbis etsi non nominabatur Cicero, tamen solus
 petebatur. 2 Ita vir optime meritus de re publica conservatae patriae
-pretiurn calamitatem exil¸ tulit. Non caruerunt suspicione oppressi
+pretiurn calamitatem exilâˆ tulit. Non caruerunt suspicione oppressi
 Ciceronis Caesar et Pompeius. Hoc sibi contraxisse videbatur Cicero, quod
 inter viginti viros dividendo agro Campano esse noluisset. 3 Idem intra
 biennium sera Cn. Pompei cura, verum ut coepit intenta, votisque Italiae ac
@@ -1086,7 +1086,7 @@ saepe derecta acie, saepe in agminibus, saepe eruptionibus, bis penetrata
 Britannia, novem denique aestatibus vix ulla non iustissimus triumphus
 emeritus. Circa Alesiam vero tantae res gestae, quantas audere vix hominis,
 perficere paene nullius nisi dei fuerit. 2 Quarto ferme anno Caesar
-morabatur in Gall¸s, cum medium iam ex invidia potentiae (et viva illa)
+morabatur in Gallâˆs, cum medium iam ex invidia potentiae (et viva illa)
 male cohaerentis inter Cn. Pompeium et C. Caesarem concordiae pignus Iulia,
 uxor Magni, decessit: atque omnia inter destinatos tanto discrimini duces
 dirimente fortuna filius quoque parvus Pompei, Iulia natus, intra breve
@@ -1175,7 +1175,7 @@ pars senatus relicta urbe ac deinde Italia transmisere Dyrrachium.
  
 [ 51 ] Proximo anno cum Dyrrachium ac vicina ei urbi regio castris Pompei
  obtineretur, qui accitis ex ornnibus transmarinis provinciis legionibus,
- equitum ac peditum auxilüs, regumque et tetrarcharum simulque dynastarum
+ equitum ac peditum auxilÂ¸s, regumque et tetrarcharum simulque dynastarum
  copiis inmanem exercitum confecerat et mare praesidiis classium, ut
  rebatur, saepserat, quo minus Caesar legiones posset transmittere, 2 sua
  et celeritate et fortuna C. Caesar usus nihil in mora habuit, quo minus eo
@@ -1239,9 +1239,9 @@ pars senatus relicta urbe ac deinde Italia transmisere Dyrrachium.
  
 [ 54 ] Non fuit maior in Caesarem, quam in Pompeium fuerat, regis eorumque,
  quorum is auctoritaie regebatur, fides. Quippe cum venientem eum
- temptassent insidüs ac deinde bello lacessere auderent, utrique summorum
+ temptassent insidÂ¸s ac deinde bello lacessere auderent, utrique summorum
  imperatorum, alteri mortuo, alteri superstiti meritas poenas luere
- supplicüs. 2 Nusquam erat Pompeius corpore, adhuc ubique vivebat nomine.
+ supplicÂ¸s. 2 Nusquam erat Pompeius corpore, adhuc ubique vivebat nomine.
  Quippe ingens partium eius favor bellum excitaverat Africum, quod ciebat
  rex Iuba et Scipio, vir consularis, ante biennium quam extingueretur
  Pompeius, lectus ab eo socer, 3 eorumque copias auxerat M. Cato, ingenti
@@ -1280,11 +1280,11 @@ pars senatus relicta urbe ac deinde Italia transmisere Dyrrachium.
  Pontici ex acantho, Alexandrini testudine, Africi ebore, Hispaniensis
  argento rasili constitit. Pecunia ex manubiis lata paulo amplius sexiens
  miliens sestertium.
- 3 Neque illi tanto viro et tam clementer omnibus victorüs suis uso plus
+ 3 Neque illi tanto viro et tam clementer omnibus victorÂ¸s suis uso plus
  quinque mensium principalis quies contigit. Quippe cum mense Octobri in
  urbem revertisset, idibus Martiis, coniurationis auctoribus Bruto et
  Cassio, quorum alterum promittendo consulatum non obligaverat, contra
- differendo Cassium offenderat, adiectis etiam consiliarüs caedis
+ differendo Cassium offenderat, adiectis etiam consiliarÂ¸s caedis
  familiarissimis omnium et fortuna partium eius in summum evectis fastigium,
  D. Bruto et C. Trebonio aliisque clari nominis viris, interemptus est. 4 
  Cui magnam invidiam conciliarat M. Antonius, omnibus audendis paratissimus,
@@ -1731,7 +1731,7 @@ Pompei faciens execratione populi spectaculo, quod praebebat, pelleretur.
 [ 80 ] Acciverat gerens contra Pompeium bellum ex Africa Caesar Lepidum cum duodecim semiplenis legionibus. Hic vir omnium vanissimus neque ulla virtute tam longam fortunae indugentiarn meritus exercitum Pompei, quia
 propior fuerat, sequentem non ipsius, sed Caesaris auctoritatem ac fidem,
 sibi iunxerat 2 inflatusque amplius viginti legionum numero in id furoris processerat, ut inutilis alienae victoriae comes, quam diu moratus erat,
-dissidendo in consiliis Caesari et semper diversa üs, quae aliis placebant,
+dissidendo in consiliis Caesari et semper diversa Â¸s, quae aliis placebant,
 dicendo, totam victoriam ut suam interpretabatur audebatque denuntiare
 Caesari, excederet Sicilia. 3 Non ab Scipionibus aliisque veteribus
 Romanorum ducum quidquam ausum patratumque fortius quam tunc a Caesare.
@@ -1858,7 +1858,7 @@ minus honoratus (quippe vixit angusti clavi plene contentus), nec minora
 consequi potuit, sed non tam concupivit. 3 Hic speculatus est per summam quietem ac dissimulationem praecipitis consilia iuvenis et mira celeritate
 nullaque cum perturbatione aut rerum aut hominum oppresso Lepido inmane
 novi ac resurrecturi belli civilis restinxit initium. Et ille quidem male
-consultorum poenas exsolvit. Aequetur praedictae iam Antistü Servilia
+consultorum poenas exsolvit. Aequetur praedictae iam AntistÂ¸ Servilia
 Lepidi uxor, quae vivo igni devorato praematura morte immortalem nominis
 sui pensavit memoriam.
  

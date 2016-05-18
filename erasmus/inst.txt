@@ -258,7 +258,7 @@ gremium dedit Respublica1 quorsum iam tum uergat.
 Quandoquidem potest hoc quoque in ea aetate notis 
 quibusdam deprehendi, num propensior sit ad iracundiam 
 aut arrogantiam, num ad ambitionem aut famae sitim, num 
-ad libidinem âut aleam, aut pecuniae studium, num ad 
+ad libidinem â€šut aleam, aut pecuniae studium, num ad 
 uindictam aut bellum, num ad impotentiam aut Tyrannidem.
  
 
@@ -1725,7 +1725,7 @@ unde, quaeso, Principi sit otium, totos fallendi dies, imo
 perdendi maximam uitae partem alea, choreis, uenatibus, 
 morionibus, et his etiam nugacioribus nugis? Subuertitur 
 Respublica factionibus, bellis affligitur, latrociniorum plena 
-sunt omnia, expilationibus immodicis plébes ad famem et 
+sunt omnia, expilationibus immodicis plÃˆbes ad famem et 
 laqueum adigitur. Opprimuntur ab iniquis Proceribus tenues: 
 corrupti Magistratus, non quod ius est, sed quod libet 
 faciunt, et inter haec uelut otiosus, tum aleam ludit Princeps? 
@@ -2979,7 +2979,7 @@ ea res deinde grauem perniciem attulit Reipublicae.
 [6,6] Eiusmodi leges proponat Princeps, quae non solum 
 poenam denuncient sontibus, uerum etiam quae persua-
 deant non esse peccandum. Proinde elrant, qui putant, leges 
-paucissimis uerbis esse comprehendéndas, ut tantum iube-
+paucissimis uerbis esse comprehendÃˆndas, ut tantum iube-
 ant, non etiam doceant, imo magis in hoc sint occupatae, 
 ut deterreant a peccando rationibus quam poenis. Etiamsi 
 hanc Platonis sententiam non approbat Seneca, sed audac-
@@ -3588,7 +3588,7 @@ dissitae, ut etiam si bene uelint, prodesse nihil possint.
 Postremo sunt quaedam adeo morosae ac foedifragae et 
 insolentes, ut etiam si finitimae sint, tamen inutiles sint ad 
 omnum amicitiam. Cum his consultissimum fuerit, nec bello 
-dissidere, nec arctioribus foederum aùt affinitatum uinculis 
+dissidere, nec arctioribus foederum aË˜t affinitatum uinculis 
 alligari, quod et bellum semper sit exitiale, et quorumdam 
 amicitia non multo bello tolerabilior.
  
