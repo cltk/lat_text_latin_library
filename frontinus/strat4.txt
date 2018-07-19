@@ -18,11 +18,11 @@ Frontinus: Strategemata IIII
  
 
  
-Multa lectione conquisitis strategematibus et non exiguo scrupulo digestis, ut promissum trium librorum implerem, si modo implevi, hoc exhibebo ea, quae parum apte discriptioni priorum ad speciem alligata&lt;e&gt; subici videbantur et erant exempla potius strategicon quam strategemata: quae idcirco separavi, quia quamvis clara diversae tamen erant substantiae, ne, si qui forte in aliqua ex his incidissent, similitudine inducti praetermissa opinarentur. 
+Multa lectione conquisitis strategematibus et non exiguo scrupulo digestis, ut promissum trium librorum implerem, si modo implevi, hoc exhibebo ea, quae parum apte discriptioni priorum ad speciem alligata<e> subici videbantur et erant exempla potius strategicon quam strategemata: quae idcirco separavi, quia quamvis clara diversae tamen erant substantiae, ne, si qui forte in aliqua ex his incidissent, similitudine inducti praetermissa opinarentur. 
  
 
  
-Et sane velut &lt;res&gt; residua expedienda fuit: in qua et ipsa ordinem per species servare conabor:
+Et sane velut <res> residua expedienda fuit: in qua et ipsa ordinem per species servare conabor:
  
 
  
@@ -62,7 +62,7 @@ C. Marius recidendorum impedimentorum gratia, quibus maxime exercitus agmen oner
  
 
  
-Theagenes Atheniensis, cum exercitum Megaram duceret, petentibus ordines respondit ibi se daturum. Deinde clam equites praemisit eosque hostium specie impetum in suos retorquere iussit. Quo facto cum &lt;quos secum&gt; habebat tamquam ad hostium occursum praepararentur, permisit ita ordinari aciem, ut quo quis voluisset loco consisteret: cum inertissimusquisque retro se dedisset, strenui autem in fronte&lt;m&gt; prosiluissent, ut quemque invenerat stantem, ita ad ordines militiae provexit. 
+Theagenes Atheniensis, cum exercitum Megaram duceret, petentibus ordines respondit ibi se daturum. Deinde clam equites praemisit eosque hostium specie impetum in suos retorquere iussit. Quo facto cum <quos secum> habebat tamquam ad hostium occursum praepararentur, permisit ita ordinari aciem, ut quo quis voluisset loco consisteret: cum inertissimusquisque retro se dedisset, strenui autem in fronte<m> prosiluissent, ut quemque invenerat stantem, ita ad ordines militiae provexit. 
  
 
  
@@ -178,11 +178,11 @@ M. Antonius, cum agger ab hostibus incensus esset, ex his, qui in opere fuerant,
  
 
  
-In legionem, quae Regium oppidum iniussu ducis dir&lt;ip&gt;uerat, animadversumest ita, ut quattuor milia tradita custodiae necarentur: praeterea senatus consulto cautum est, ne quem ex eis sepelire vel lugere fas esset. 
+In legionem, quae Regium oppidum iniussu ducis dir<ip>uerat, animadversumest ita, ut quattuor milia tradita custodiae necarentur: praeterea senatus consulto cautum est, ne quem ex eis sepelire vel lugere fas esset. 
  
 
  
-L. Papirius Cursor dictator Fabium Rutilium magistrum equitum, quod adversum edictum eius quamvis prospere pugnaverat, &lt;ad&gt; virgas poposcit, caesum securi percussurus: nec contentioni aut precibus militum concessit animadversionem eumque profugientem Romam persecutus est, ne ibi quidem remisso prius supplicii metu, quam ad genua eius et Fabius cum patre provolveretur et pariter senatus ac populus rogarent. 
+L. Papirius Cursor dictator Fabium Rutilium magistrum equitum, quod adversum edictum eius quamvis prospere pugnaverat, <ad> virgas poposcit, caesum securi percussurus: nec contentioni aut precibus militum concessit animadversionem eumque profugientem Romam persecutus est, ne ibi quidem remisso prius supplicii metu, quam ad genua eius et Fabius cum patre provolveretur et pariter senatus ac populus rogarent. 
  
 
  
@@ -426,7 +426,7 @@ Q. Fabius hortante filio, ut locum idoneum paucorum iactura caperet, "visne", in
  
 
  
-Xenophon, cum equo veheretur et pedites iugum quoddam occupare iussisset, unum ex eis obmurmurantem &lt;audiens&gt; [quod diceret] facile tam laboriosa sedentem imperare, desiluit et gregalem equo imposuit, cursu ipse ad destinatum iugum contendens. Cuius facti ruborem cum perpeti miles non posset, irridentibus commilitonibus sponte descendit: Xenophontemvix universi perpulerunt, ut conscenderet equum et laborem suum in necessaria duci munera reservaret. 
+Xenophon, cum equo veheretur et pedites iugum quoddam occupare iussisset, unum ex eis obmurmurantem <audiens> [quod diceret] facile tam laboriosa sedentem imperare, desiluit et gregalem equo imposuit, cursu ipse ad destinatum iugum contendens. Cuius facti ruborem cum perpeti miles non posset, irridentibus commilitonibus sponte descendit: Xenophontemvix universi perpulerunt, ut conscenderet equum et laborem suum in necessaria duci munera reservaret. 
  
 
  
@@ -470,7 +470,7 @@ Valerius Laevinus consul, cum intra castra sua exploratorem hostium deprehendiss
  
 
  
-Caedi&lt;ci&gt;us primipilaris, qui in Germania post Varianam cladem obsessisnostris pro duce fuit, veritus, ne barbari ligna, quae congesta erant, vallo admoverent et castra eius incenderent, simulata lignorum inopia, missis undique, qui ea furarentur, effecit, ut Germani universos truncos amolirentur. 
+Caedi<ci>us primipilaris, qui in Germania post Varianam cladem obsessisnostris pro duce fuit, veritus, ne barbari ligna, quae congesta erant, vallo admoverent et castra eius incenderent, simulata lignorum inopia, missis undique, qui ea furarentur, effecit, ut Germani universos truncos amolirentur. 
  
 
  
@@ -510,7 +510,7 @@ Paches Atheniensis affirmavit incolumes futuros hostes, si deponerent ferrum: ei
  
 
  
-Hasdrubal subigendorum Numidarum causa ingressus fines eorum resistere parantibus affirmavit ad capiendos se venisse elephantos, quibus ferax est Numidia: ut hoc permitterent, poscentibus &lt;pretium cum&gt; promisisset, ea persuasione avocatos adortus sub leges redegit. 
+Hasdrubal subigendorum Numidarum causa ingressus fines eorum resistere parantibus affirmavit ad capiendos se venisse elephantos, quibus ferax est Numidia: ut hoc permitterent, poscentibus <pretium cum> promisisset, ea persuasione avocatos adortus sub leges redegit. 
  
 
  
@@ -554,7 +554,7 @@ Pelopidas Thebanus, cum a Thessalis in fugam versus flumen, in quo tumultuarium 
  
 
  
-Romani, cum Campanis equitibus nullo modo pares essent, Q. Naevius centurio in exercitu Fulvi Flacci proconsulis excogitavit, ut delectos ex toto exercitu, qui velocissimi videbantur et mediocris erant staturae, parmulis non amplis et galeiculis gladiisque ac septenis singulos hastis quaternorum circiter pedum armare&lt;t&gt; eosque adiunctos equitibus iuberet usque ad moenia provehi, deinde ibi positos, nostris equitibus recipientibus, inter hostium equitatum proeliari: quo facto vehementer et ipsi Campani afflicti sunt et maxime equi eorum, quibus turbatis prona nostris victoria fuit. 
+Romani, cum Campanis equitibus nullo modo pares essent, Q. Naevius centurio in exercitu Fulvi Flacci proconsulis excogitavit, ut delectos ex toto exercitu, qui velocissimi videbantur et mediocris erant staturae, parmulis non amplis et galeiculis gladiisque ac septenis singulos hastis quaternorum circiter pedum armare<t> eosque adiunctos equitibus iuberet usque ad moenia provehi, deinde ibi positos, nostris equitibus recipientibus, inter hostium equitatum proeliari: quo facto vehementer et ipsi Campani afflicti sunt et maxime equi eorum, quibus turbatis prona nostris victoria fuit. 
  
 
  
@@ -562,7 +562,7 @@ P. Scipio in Lydia, cum die ac nocte imbre continuo vexatum exercitum Antiochi v
  
 
  
-Catonem vastantem Hispaniam legati Ilergetum, qui sociorum populus erat, adierunt oraveruntque auxilia. Ille, ne aut negato adiutorio socios alienaret aut diducto exercitu vires minueret, tertiam partem militum cibaria parare et naves ascendere iussit, dato praecepto, ut cau&lt;sa&gt;ti ventos retro redirent: praecedens interim adventantis auxilii rumor ut Ilergetum excitavit animos, ita hostium consilia discussit. 
+Catonem vastantem Hispaniam legati Ilergetum, qui sociorum populus erat, adierunt oraveruntque auxilia. Ille, ne aut negato adiutorio socios alienaret aut diducto exercitu vires minueret, tertiam partem militum cibaria parare et naves ascendere iussit, dato praecepto, ut cau<sa>ti ventos retro redirent: praecedens interim adventantis auxilii rumor ut Ilergetum excitavit animos, ita hostium consilia discussit. 
  
 
  
@@ -590,7 +590,7 @@ Philippus, cum audisset Pythian quendam bonum pugnatorem alienatumsibi, quod tre
  
 
  
-T. Quintius Crispinus post infaustam adversus Poenos dimicationem, qua collegam Marcellum amiserat, cum comperisset potitum anulo interfectiHannibalem, litteras circa municipia totius Italiae dimisit, ne crederent epistulis, si quae Marcelli anulo signatae perferrentur: &lt;ea&gt; monitione consecutus est, ut Salapia et aliae urbes frustra Hannibalis dolis temptarentur. 
+T. Quintius Crispinus post infaustam adversus Poenos dimicationem, qua collegam Marcellum amiserat, cum comperisset potitum anulo interfectiHannibalem, litteras circa municipia totius Italiae dimisit, ne crederent epistulis, si quae Marcelli anulo signatae perferrentur: <ea> monitione consecutus est, ut Salapia et aliae urbes frustra Hannibalis dolis temptarentur. 
  
 
  
@@ -606,7 +606,7 @@ P. Crassus bello sociali eodem modo prope cum copiis omnibus interceptusest.
  
 
  
- Q. Metellus in Hispania castra moturus, cum in agmine milites con&lt;ti&gt;nerevelle[n]t, pronuntiavit comperisse se insidias ab hostibus dispositas; idcirco ne discederent a signis neve agmen laxarent: quod cum [solveret] ex disciplina fecisset, exceptus forte veris insidiis, quia praedixerat, interritos. 
+ Q. Metellus in Hispania castra moturus, cum in agmine milites con<ti>nerevelle[n]t, pronuntiavit comperisse se insidias ab hostibus dispositas; idcirco ne discederent a signis neve agmen laxarent: quod cum [solveret] ex disciplina fecisset, exceptus forte veris insidiis, quia praedixerat, interritos. 
  
  
 	 

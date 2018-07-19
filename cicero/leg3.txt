@@ -21,7 +21,7 @@ Cicero: de Legibus III
 
  
 
- I [1] Marcus: Sequar igitur ut institui divinum illum virum quem &lt;nimia&gt; quadam admiratione commotus saepius fortasse laudo quam necesse est. 
+ I [1] Marcus: Sequar igitur ut institui divinum illum virum quem <nimia> quadam admiratione commotus saepius fortasse laudo quam necesse est. 
  
 
  
@@ -57,15 +57,15 @@ Cicero: de Legibus III
  
 
  
- [3] Nihil porro tam aptum est ad ius condicionemque naturae &#151; quod quom dico, legem a me dici intellegi volo &#151; quam imperium, sine quo nec domus ulla nec civitas nec gens nec hominum universum genus stare, nec rerum natura omnis nec ipse mundus potest. Nam et hic deo paret, et huic oboediunt maria terraeque, et hominum vita iussis supremae legis obtemperat. 
+ [3] Nihil porro tam aptum est ad ius condicionemque naturae — quod quom dico, legem a me dici intellegi volo — quam imperium, sine quo nec domus ulla nec civitas nec gens nec hominum universum genus stare, nec rerum natura omnis nec ipse mundus potest. Nam et hic deo paret, et huic oboediunt maria terraeque, et hominum vita iussis supremae legis obtemperat. 
  
 
  
- II [4] Atque ut ad haec citeriora veniam et notiora nobis: omnes antiquae gentes regibus quondam paruerunt. Quod genus imperii primum ad homines iustissimos et sapientissimos deferebatur &#151; idque et in re publica nostra maxime valuit, quoad ei regalis potestas praefuit &#151;, deinde etiam deinceps posteris prodebatur, quo &lt;et&gt; in iis qui etiam nunc regnant&lt;ur&gt; manet. Quibus autem regia potestas non placuit, non ii nemini, sed non semper uni parere voluerunt. Nos autem quoniam leges damus liberis populis, quaeque de optima re publica sentiremus, in sex libris ante diximus, accommodabimus hoc tempore leges ad illum quem probamus civitatis statum.  
+ II [4] Atque ut ad haec citeriora veniam et notiora nobis: omnes antiquae gentes regibus quondam paruerunt. Quod genus imperii primum ad homines iustissimos et sapientissimos deferebatur — idque et in re publica nostra maxime valuit, quoad ei regalis potestas praefuit —, deinde etiam deinceps posteris prodebatur, quo <et> in iis qui etiam nunc regnant<ur> manet. Quibus autem regia potestas non placuit, non ii nemini, sed non semper uni parere voluerunt. Nos autem quoniam leges damus liberis populis, quaeque de optima re publica sentiremus, in sex libris ante diximus, accommodabimus hoc tempore leges ad illum quem probamus civitatis statum.  
  
 
  
- [5] Magistratibus igitur opus est, sine quorum prudentia ac diligentia esse civitas non potest, quorumque discriptione omnis rei publicae moderatio continetur. Neque solum iis praescribendus est imperandi, sed etiam civibus obtemperandi modus. Nam et qui bene imperat, paruerit aliquando necesse est, et qui modeste paret, videtur qui aliquando imperet dignus esse. Itaque oportet et eum qui paret sperare, se aliquo tempore imperaturum, et illum qui imperat cogitare, brevi tempore sibi esse parendum. Nec vero solum ut obtemperent oboediantque magistratibus, sed etiam ut eos colant diligantque praescribimus, ut Charondas in suis facit legibus, noster vero Plato Titanum e genere &lt;esse&gt; statuit eos qui ut illi caelestibus, sic hi adversentur magistratibus. Quae cum ita sint ad ipsas iam leges veniamus si placet. 
+ [5] Magistratibus igitur opus est, sine quorum prudentia ac diligentia esse civitas non potest, quorumque discriptione omnis rei publicae moderatio continetur. Neque solum iis praescribendus est imperandi, sed etiam civibus obtemperandi modus. Nam et qui bene imperat, paruerit aliquando necesse est, et qui modeste paret, videtur qui aliquando imperet dignus esse. Itaque oportet et eum qui paret sperare, se aliquo tempore imperaturum, et illum qui imperat cogitare, brevi tempore sibi esse parendum. Nec vero solum ut obtemperent oboediantque magistratibus, sed etiam ut eos colant diligantque praescribimus, ut Charondas in suis facit legibus, noster vero Plato Titanum e genere <esse> statuit eos qui ut illi caelestibus, sic hi adversentur magistratibus. Quae cum ita sint ad ipsas iam leges veniamus si placet. 
  
 
  
@@ -73,11 +73,11 @@ Cicero: de Legibus III
  
 
  
- III [6] Marcus: 'Justa imperia sunto, isque cives modeste ac sine recusatione parento. Magistratus nec oboedientem et &lt;in&gt;noxium civem multa vinculis verberibusve coherceto, ni par maiorve potestas populusve prohibessit, ad quos provocatio esto. Cum magistratus iudicassit inrogassitve, per populum multae poenae certatio esto. Militiae ab eo qui imperabit provocatio nec esto, quodque is qui bellum geret imperassit, ius ratumque esto.' 
+ III [6] Marcus: 'Justa imperia sunto, isque cives modeste ac sine recusatione parento. Magistratus nec oboedientem et <in>noxium civem multa vinculis verberibusve coherceto, ni par maiorve potestas populusve prohibessit, ad quos provocatio esto. Cum magistratus iudicassit inrogassitve, per populum multae poenae certatio esto. Militiae ab eo qui imperabit provocatio nec esto, quodque is qui bellum geret imperassit, ius ratumque esto.' 
  
 
  
-'Minoris magistratus partiti iuris ploeres in ploera sunto. Militiae quibus iussi erunt imperanto eorumque tribuni sunto. Domi pecuniam publicam custodiunto, vincula sontium servanto, capitalia vindicanto, aes argentum aurumve publice signanto, litis contractas iudicanto, &lt;quod&gt; quodcumque senatus creverit agunto.' 
+'Minoris magistratus partiti iuris ploeres in ploera sunto. Militiae quibus iussi erunt imperanto eorumque tribuni sunto. Domi pecuniam publicam custodiunto, vincula sontium servanto, capitalia vindicanto, aes argentum aurumve publice signanto, litis contractas iudicanto, <quod> quodcumque senatus creverit agunto.' 
  
 
  
@@ -93,7 +93,7 @@ Cicero: de Legibus III
  
 
  
-'Regio imperio duo sunto, iique &lt;a&gt; praeeundo iudicando consulendo praetores iudices consules appellamino. Militiae summum ius habento, nemini parento. Ollis salus populi suprema lex esto.' 
+'Regio imperio duo sunto, iique <a> praeeundo iudicando consulendo praetores iudices consules appellamino. Militiae summum ius habento, nemini parento. Ollis salus populi suprema lex esto.' 
  
 
  
@@ -109,7 +109,7 @@ Cicero: de Legibus III
  
 
  
-'Imperia potestates legationes, cum senatus creverit populusve jusserit, ex urbe exeunto, duella iusta iuste gerunto, sociis parcunto, se et suos continento, populi &lt;sui&gt; gloriam augento, domum cum laude redeunto.' 
+'Imperia potestates legationes, cum senatus creverit populusve jusserit, ex urbe exeunto, duella iusta iuste gerunto, sociis parcunto, se et suos continento, populi <sui> gloriam augento, domum cum laude redeunto.' 
  
 
  
@@ -177,7 +177,7 @@ Lex recitata est: discedere et tabellam iubebo dari.
  
 
  
- Marcus: Rectissime Quinte animadvertis. Haec est enim quam Scipio laudat in &lt;illis&gt; libris et quam maxime probat temperationem rei publicae, quae effici non potuisset nisi tali discriptione magistratuum. Nam sic habetote, magistratibus iisque qui praesint contineri rem publicam, et ex eorum conpositione quod cuiusque rei publicae genus sit intellegi. Quae res cum sapientissime moderatissimeque constituta esset a maioribus nostris, nihil habui sane &lt;aut&gt; non multum quod putarem novandum in legibus. 
+ Marcus: Rectissime Quinte animadvertis. Haec est enim quam Scipio laudat in <illis> libris et quam maxime probat temperationem rei publicae, quae effici non potuisset nisi tali discriptione magistratuum. Nam sic habetote, magistratibus iisque qui praesint contineri rem publicam, et ex eorum conpositione quod cuiusque rei publicae genus sit intellegi. Quae res cum sapientissime moderatissimeque constituta esset a maioribus nostris, nihil habui sane <aut> non multum quod putarem novandum in legibus. 
  
 
  
@@ -193,7 +193,7 @@ Lex recitata est: discedere et tabellam iubebo dari.
  
 
  
- Marcus: Atqui pleraque sunt dicta in illis libris, quod faciendum fuit quom de optuma re publica quaereretur. Sed huius loci de magistratibus sunt propria quaedam, a Theophrasto primum, deinde a Dio&lt;ge&gt;ne Stoico quaesita subtilius. 
+ Marcus: Atqui pleraque sunt dicta in illis libris, quod faciendum fuit quom de optuma re publica quaereretur. Sed huius loci de magistratibus sunt propria quaedam, a Theophrasto primum, deinde a Dio<ge>ne Stoico quaesita subtilius. 
  
 
  
@@ -221,7 +221,7 @@ Lex recitata est: discedere et tabellam iubebo dari.
  
 
  
- Marcus: Non est Quinte ita. Non ius enim illud solum superbius populo, &lt;sed&gt; et violentius videri necesse erat. Quo posteaquam modica et sapiens temperatio accessit* 
+ Marcus: Non est Quinte ita. Non ius enim illud solum superbius populo, <sed> et violentius videri necesse erat. Quo posteaquam modica et sapiens temperatio accessit* 
  
 
  
@@ -253,7 +253,7 @@ IX quo pacto recreatus multoque taetrior et foedior natus est. Quae enim ille no
  
 
  
- [20] Namque ut C. Flaminium atque ea quae iam prisca videntur propter vetustatem relinquam, quid iuris bonis viris Tiberi Gracchi tribunatus reliquit? Etsi quinquennio ante D[ecim]um Brutum et P. Scipionem consules &#151; quos et quantos viros! &#151; homo omnium infimus et sordidissimus tribunus plebis C. Curiatius in vincula coniecit, quod ante factum non erat. C. vero Gracchi tribunatus sicis quas ipse se proiecisse in forum dixit, quibus digladiarentur inter se cives, nonne omnem rei publicae statum perturbavit? Quid iam de Saturnino, Sulpicio, reliquis dicam? Quos ne depellere quidem a se sine ferro potuit res publica. 
+ [20] Namque ut C. Flaminium atque ea quae iam prisca videntur propter vetustatem relinquam, quid iuris bonis viris Tiberi Gracchi tribunatus reliquit? Etsi quinquennio ante D[ecim]um Brutum et P. Scipionem consules — quos et quantos viros! — homo omnium infimus et sordidissimus tribunus plebis C. Curiatius in vincula coniecit, quod ante factum non erat. C. vero Gracchi tribunatus sicis quas ipse se proiecisse in forum dixit, quibus digladiarentur inter se cives, nonne omnem rei publicae statum perturbavit? Quid iam de Saturnino, Sulpicio, reliquis dicam? Quos ne depellere quidem a se sine ferro potuit res publica. 
  
 
  
@@ -261,7 +261,7 @@ IX quo pacto recreatus multoque taetrior et foedior natus est. Quae enim ille no
  
 
  
- [22] Sed ille quas strages edidit! Eas videlicet quas sine ratione ac sine ulla spe bona furor edere potuit inpurae beluae, multorum inflammatus furoribus. Quam ob rem in ista quidem re vehementer Sullam probo, qui tribunis plebis sua lege iniuriae faciendae potestatem ademerit, auxilii ferendi reliquerit, Pompeiumque nostrum &lt;in&gt; ceteris rebus omnibus semper amplissimis summisque ecfero laudibus, de tribunicia potestate taceo. Nec enim reprehendere libct, nec laudare possum. 
+ [22] Sed ille quas strages edidit! Eas videlicet quas sine ratione ac sine ulla spe bona furor edere potuit inpurae beluae, multorum inflammatus furoribus. Quam ob rem in ista quidem re vehementer Sullam probo, qui tribunis plebis sua lege iniuriae faciendae potestatem ademerit, auxilii ferendi reliquerit, Pompeiumque nostrum <in> ceteris rebus omnibus semper amplissimis summisque ecfero laudibus, de tribunicia potestate taceo. Nec enim reprehendere libct, nec laudare possum. 
  
 
  
@@ -269,11 +269,11 @@ IX quo pacto recreatus multoque taetrior et foedior natus est. Quae enim ille no
  
 
  
- [24] 'At aliquando incenditur.' Et quidem saepe sedatur. Quod enim est tam desperatum collegium, in quo nemo e decem sana mente sit? Quin ipsum Ti. Gracchum non solum neglectus sed etiam sublatus intercessor evertit. Quid enim illum aliud perculit, nisi quod potestatem intercedenti collegae abrogavit? Sed tu sapientiam maiorum in illo vide: concessa plebei a patribus ista potestate arma ceciderunt, restincta seditio est, inventum est temperamentum, quo tenuiores cum principibus aequari se putarent, in quo uno fuit civitatis salus. 'At duo Gracchi fuerunt.' Et praeter eos quamvis enumeres multos licet, cum deni creentur, &lt;non&gt;nullos in omni memoria reperies perniciosos tribunos, leves etiam, non bonos, fortasse plures: invidia quidem summus ordo caret, plebes de suo iure periculosas contentione nullas facit. 
+ [24] 'At aliquando incenditur.' Et quidem saepe sedatur. Quod enim est tam desperatum collegium, in quo nemo e decem sana mente sit? Quin ipsum Ti. Gracchum non solum neglectus sed etiam sublatus intercessor evertit. Quid enim illum aliud perculit, nisi quod potestatem intercedenti collegae abrogavit? Sed tu sapientiam maiorum in illo vide: concessa plebei a patribus ista potestate arma ceciderunt, restincta seditio est, inventum est temperamentum, quo tenuiores cum principibus aequari se putarent, in quo uno fuit civitatis salus. 'At duo Gracchi fuerunt.' Et praeter eos quamvis enumeres multos licet, cum deni creentur, <non>nullos in omni memoria reperies perniciosos tribunos, leves etiam, non bonos, fortasse plures: invidia quidem summus ordo caret, plebes de suo iure periculosas contentione nullas facit. 
  
 
  
- [25] Quam ob rem aut exigendi reges non fuerunt, aut plebi re, non verbo, danda libertas. Quae tamen sic data est, ut multis &lt;institutis&gt; praeclarissimis adduceretur, ut auctoritati principum cederet. 
+ [25] Quam ob rem aut exigendi reges non fuerunt, aut plebi re, non verbo, danda libertas. Quae tamen sic data est, ut multis <institutis> praeclarissimis adduceretur, ut auctoritati principum cederet. 
  
 
  
@@ -281,7 +281,7 @@ XI Nostra autem causa quae, optume et dulcissume frater, incidit in tribuniciam 
  
 
  
- [26] Quodsi is casus fuisset rerum quas pro salute rei publicae gessimus, ut non omnibus gratus esset, et si nos multitudinis furentis inflammata invidia pepulisset, tribuniciaque vis in me populum, sicut Gracchus in Laenatem, Saturninus in Metellum incitasset, ferremus o Quinte frater, consolarenturque nos non tam philosophi qui Athenis fuerunt &#151; qui hoc facere debebant &#151;, quam clarissimi vin qui illa urbe pulsi carere ingrata civitate quam manere in &lt;im&gt;proba maluerunt. Pompeium vero quod una ista in re non ita valde probas, vix satis mihi illud videris attendere, non solum ei quid esset optimum videndum fuisse, sed etiam quid necessarium. Sensit enim deberi non posse huic civitati illam potestatem: quippe quam tanto opere populus noster ignotam expetisset, qui posset carere cognita? Sapientis autem civis fuit, causam nec perniciosam et ita popularem ut non posset obsisti, perniciose populari civi non relinquere. &#151; Scis solere frater in huius modi sermone, ut transiri alio possit, dici 'admodum' aut 'prorsus ita est.' 
+ [26] Quodsi is casus fuisset rerum quas pro salute rei publicae gessimus, ut non omnibus gratus esset, et si nos multitudinis furentis inflammata invidia pepulisset, tribuniciaque vis in me populum, sicut Gracchus in Laenatem, Saturninus in Metellum incitasset, ferremus o Quinte frater, consolarenturque nos non tam philosophi qui Athenis fuerunt — qui hoc facere debebant —, quam clarissimi vin qui illa urbe pulsi carere ingrata civitate quam manere in <im>proba maluerunt. Pompeium vero quod una ista in re non ita valde probas, vix satis mihi illud videris attendere, non solum ei quid esset optimum videndum fuisse, sed etiam quid necessarium. Sensit enim deberi non posse huic civitati illam potestatem: quippe quam tanto opere populus noster ignotam expetisset, qui posset carere cognita? Sapientis autem civis fuit, causam nec perniciosam et ita popularem ut non posset obsisti, perniciose populari civi non relinquere. — Scis solere frater in huius modi sermone, ut transiri alio possit, dici 'admodum' aut 'prorsus ita est.' 
  
 
  
@@ -297,7 +297,7 @@ XI Nostra autem causa quae, optume et dulcissume frater, incidit in tribuniciam 
  
 
  
- XII [27] Marcus: Deinceps igitur omnibus magistratibus auspicia et iudicia dantur: iudicia &lt;ita&gt; ut esset populi potestas ad quam provocaretur, auspicia ut multos inutiles comitiatus probabiles inpedirent morae. Saepe enim populi impetum iniustum auspiciis di immortales represserunt. Ex iis autem qui magistratum ceperunt quod senatus efficitur, populare &lt;est&gt; sane neminem in summum locum nisi per populum venire, sublata cooptatione censoria. Sed praesto est huius viti temperatio, quod senatus lege nostra confirmatur auctoritas. 
+ XII [27] Marcus: Deinceps igitur omnibus magistratibus auspicia et iudicia dantur: iudicia <ita> ut esset populi potestas ad quam provocaretur, auspicia ut multos inutiles comitiatus probabiles inpedirent morae. Saepe enim populi impetum iniustum auspiciis di immortales represserunt. Ex iis autem qui magistratum ceperunt quod senatus efficitur, populare <est> sane neminem in summum locum nisi per populum venire, sublata cooptatione censoria. Sed praesto est huius viti temperatio, quod senatus lege nostra confirmatur auctoritas. 
  
 
  
@@ -325,7 +325,7 @@ XIII Marcus: Omitte ista Attice! Non enim de hoc senatu nec his de hominibus qui
  
 
  
-'Ceteris specimen esto.' Quod si tenemus, &lt;tenemus&gt; omnia. Ut enim cupiditatibus principum et vitiis infici solet tota civitas, sic emendari et corrigi continentia. vir magnus et nobis omnibus amicus L. Lucullus ferebatur, quasi commodissime respondisset, cum esset obiecta magnificentia villae Tusculanae, duo se habere vicinos, superiorem equitem Romanum, inferiorem libertinum: quorum cum essent magnificae villae, concedi sibi oportere quod iis qui inferioris ordinis essent liceret. Non vides Luculle a te id ipsum natum ut illi cuperent quibus id si tu non faceres non liceret? 
+'Ceteris specimen esto.' Quod si tenemus, <tenemus> omnia. Ut enim cupiditatibus principum et vitiis infici solet tota civitas, sic emendari et corrigi continentia. vir magnus et nobis omnibus amicus L. Lucullus ferebatur, quasi commodissime respondisset, cum esset obiecta magnificentia villae Tusculanae, duo se habere vicinos, superiorem equitem Romanum, inferiorem libertinum: quorum cum essent magnificae villae, concedi sibi oportere quod iis qui inferioris ordinis essent liceret. Non vides Luculle a te id ipsum natum ut illi cuperent quibus id si tu non faceres non liceret? 
  
 
  
@@ -349,7 +349,7 @@ XIV Nec enim tantum mali est peccare principes, quamquam est magnum hoc per se i
  
 
  
- Marcus: Dicam Tite et versabor in re difficili ac multum et saepe quaesita, suffragia in magistratu mandando ac de reo iudicando &lt;sciscenda&gt;que in lege aut rogatione clam an palam ferri melius esset. 
+ Marcus: Dicam Tite et versabor in re difficili ac multum et saepe quaesita, suffragia in magistratu mandando ac de reo iudicando <sciscenda>que in lege aut rogatione clam an palam ferri melius esset. 
  
 
  
@@ -381,27 +381,27 @@ XVII Atticus: Mihi vero nihil umquam populare placuit, eamque optimam rem public
  
 
  
- [38] Marcus: Vos &lt;qui&gt;dem ut video legem antiquastis sine tabella. Sed ego, etsi satis dixit pro se in illis libris Scipio, tamen ita libertatem istam largior populo, ut auctoritate et valeant et utantur boni. Sic enim a me recitata lex est de suffragiis: 'Optimatibus nota, plebi libera sunto.' Quae lex hanc sententiam continet, ut omnes leges tollat quae postea latae sunt quae tegunt omni ratione suffragium, ne quis inspiciat tabellam, ne roget, ne appellet. Pontes etiam lex Maria fecit angustos. 
+ [38] Marcus: Vos <qui>dem ut video legem antiquastis sine tabella. Sed ego, etsi satis dixit pro se in illis libris Scipio, tamen ita libertatem istam largior populo, ut auctoritate et valeant et utantur boni. Sic enim a me recitata lex est de suffragiis: 'Optimatibus nota, plebi libera sunto.' Quae lex hanc sententiam continet, ut omnes leges tollat quae postea latae sunt quae tegunt omni ratione suffragium, ne quis inspiciat tabellam, ne roget, ne appellet. Pontes etiam lex Maria fecit angustos. 
  
 
  
- [39] Quae si opposita sunt ambitiosis, ut sunt fere, non reprehendo; si non valuerint tamen leges ut ne sit ambitus, habeat sane populus tabellam quasi vindicem libertatis, dummodo haec optimo cuique et gravissimo civi ostendatur ultroque offeratur, ut in eo sit ipso libertas &lt;in&gt; quod populo potestas honeste bonis gratificandi datur. Eoque nunc fit illud quod a te modo Quinte dictum est, ut minus multos tabella condemnet, quam solebat vox, quia populo licere satis est: hoc retento reliqua voluntas auctoritati aut gratiae traditur. Itaque, ut omittam largitione corrupta suffragia, non vides, si quando ambitus sileat, quaeri in suifragiis quid optimi viri sentiant? Quam ob rem lege nostra libertatis species datur, auctoritas bonorum retinetur, contentionis causa tollitur. 
+ [39] Quae si opposita sunt ambitiosis, ut sunt fere, non reprehendo; si non valuerint tamen leges ut ne sit ambitus, habeat sane populus tabellam quasi vindicem libertatis, dummodo haec optimo cuique et gravissimo civi ostendatur ultroque offeratur, ut in eo sit ipso libertas <in> quod populo potestas honeste bonis gratificandi datur. Eoque nunc fit illud quod a te modo Quinte dictum est, ut minus multos tabella condemnet, quam solebat vox, quia populo licere satis est: hoc retento reliqua voluntas auctoritati aut gratiae traditur. Itaque, ut omittam largitione corrupta suffragia, non vides, si quando ambitus sileat, quaeri in suifragiis quid optimi viri sentiant? Quam ob rem lege nostra libertatis species datur, auctoritas bonorum retinetur, contentionis causa tollitur. 
  
 
  
- XVIII [40] Deinde sequitur, quibus ius sit cum populo agendi aut cum senatu. &lt;Tum&gt; gravis et ut arbitror praeclara lex: 'Quae cum populo quaeque in patribus agentur, modica sunto', id est modesta atque sedata. Actor enim moderatur et fingit non modo mentes ac voluntates, sed paene vultus eorum apud quos agit. Quod &lt;ni&gt;si in senatu non difficile; est enim ipse senator is cuius non ad actorem referatur animus, sed qui per se ipse spectari velit. Huic iussa tria sunt: ut adsit, nam gravitatem res habet, cum frequens ordo est; ut loco dicat, id est rogatus; ut modo, ne sit infinitus. Nam brevitas non modo senatoris sed etiam oratoris magna laus est in sententia, nec est umquam longa oratione utendum &#151; quod fit ambitione saepissime &#151;, nisi aut peccante senatu nullo magistratu adiuvante tolli diem utile est, aut cum tanta causa est ut opus sit oratoris copia vel ad hortandum vel ad docendum; quorum generum in utroque magnus noster Cato est. 
+ XVIII [40] Deinde sequitur, quibus ius sit cum populo agendi aut cum senatu. <Tum> gravis et ut arbitror praeclara lex: 'Quae cum populo quaeque in patribus agentur, modica sunto', id est modesta atque sedata. Actor enim moderatur et fingit non modo mentes ac voluntates, sed paene vultus eorum apud quos agit. Quod <ni>si in senatu non difficile; est enim ipse senator is cuius non ad actorem referatur animus, sed qui per se ipse spectari velit. Huic iussa tria sunt: ut adsit, nam gravitatem res habet, cum frequens ordo est; ut loco dicat, id est rogatus; ut modo, ne sit infinitus. Nam brevitas non modo senatoris sed etiam oratoris magna laus est in sententia, nec est umquam longa oratione utendum — quod fit ambitione saepissime —, nisi aut peccante senatu nullo magistratu adiuvante tolli diem utile est, aut cum tanta causa est ut opus sit oratoris copia vel ad hortandum vel ad docendum; quorum generum in utroque magnus noster Cato est. 
  
 
  
- [41] Quodque addit 'causas populi teneto, est senatori necessarium nosse rem publicam &#151; idque late patet: quid habeat militum, quid valeat aerario, quos socios res publica habeat, quos amicos, quos stipendiarios, qua quisque sit lege, condicione, foedere &#151;, tenere consuetudinem decernendi, nosse exempla maiorum. Videtis iam genus hoc omne scientiae, diligentiae, memoriae, sine quo paratus esse senator nullo pacto potest. 
+ [41] Quodque addit 'causas populi teneto, est senatori necessarium nosse rem publicam — idque late patet: quid habeat militum, quid valeat aerario, quos socios res publica habeat, quos amicos, quos stipendiarios, qua quisque sit lege, condicione, foedere —, tenere consuetudinem decernendi, nosse exempla maiorum. Videtis iam genus hoc omne scientiae, diligentiae, memoriae, sine quo paratus esse senator nullo pacto potest. 
  
 
  
- [42] Deinceps sunt cum populo actiones, in quibus primum et maximum , vis abesto'. Nihil est enim exitiosius civitatibus, nihil tam contrarium iuri ac legibus, nihil minus civile et inhumanius, quam composita et constituta re publica quicquam agi per vim. Parere iubet intercessori, quo nihil praest&lt;abil&gt;ius: impediri enim bonam rem melius quam concedi malae. 
+ [42] Deinceps sunt cum populo actiones, in quibus primum et maximum , vis abesto'. Nihil est enim exitiosius civitatibus, nihil tam contrarium iuri ac legibus, nihil minus civile et inhumanius, quam composita et constituta re publica quicquam agi per vim. Parere iubet intercessori, quo nihil praest<abil>ius: impediri enim bonam rem melius quam concedi malae. 
  
 
  
-XIX Quod vero actoris iubeo esse fraudem, id totum dixi ex Crassi sapientissimi hominis sententia, quem est senatus secutus, cum decrevisset C. Claudio consule de Cn. Carbonis seditione referente, invito eo qui cum populo ageret seditionem non posse fieri, quippe cui liceat concilium, simul atque intercessum turbarique coeptum sit, dimittere. Quod qui &lt;agere&gt; perget cum agi nihil potest, vim quaerit, cuius inpunitatem amittit hac lege. 
+XIX Quod vero actoris iubeo esse fraudem, id totum dixi ex Crassi sapientissimi hominis sententia, quem est senatus secutus, cum decrevisset C. Claudio consule de Cn. Carbonis seditione referente, invito eo qui cum populo ageret seditionem non posse fieri, quippe cui liceat concilium, simul atque intercessum turbarique coeptum sit, dimittere. Quod qui <agere> perget cum agi nihil potest, vim quaerit, cuius inpunitatem amittit hac lege. 
  
 
  
@@ -409,23 +409,23 @@ XIX Quod vero actoris iubeo esse fraudem, id totum dixi ex Crassi sapientissimi 
  
 
  
-Sunt deinde posita deinceps quae habemus etiam in publicis institutis atque legibus: 'Auspicia servanto, auguri &lt;publico&gt; parento.' est autem boni auguris meminisse &lt;se&gt; maximis rei publicae temporibus praesto esse debere, Iovique optimo maximo se consiliarium atque administrum datum, ut sibi eos quos in auspicio esse iusserit, caelique partes sibi definitas esse traditas, e quibus saepe opem rei publicae ferre possit. Deinde de promulgatione, de singulis rebus agendis, de privatis magistratibusve audiendis. 
+Sunt deinde posita deinceps quae habemus etiam in publicis institutis atque legibus: 'Auspicia servanto, auguri <publico> parento.' est autem boni auguris meminisse <se> maximis rei publicae temporibus praesto esse debere, Iovique optimo maximo se consiliarium atque administrum datum, ut sibi eos quos in auspicio esse iusserit, caelique partes sibi definitas esse traditas, e quibus saepe opem rei publicae ferre possit. Deinde de promulgatione, de singulis rebus agendis, de privatis magistratibusve audiendis. 
  
 
  
- [44] Tum leges praeclarissimae de duodecim tabulis tralatae duae, quarum altera privilegia tollit, altera de capite civis rogari nisi maximo comitiatu vetat. Et nondum in&lt;ven&gt;tis seditiosis tribunis plebis, ne cogitatis quidem, admirandum tantum maioris in posterum providisse. In privatos homines leges ferri noluerunt, id est enim privilegium: quo quid est iniustius, cum legis haec vis sit, &lt;ut sit&gt; scitum et iussum in omnis? Ferri de singulis &lt;ni&gt;si centuriatis comitiis noluerunt. Discriptus enim populus censu ordinibus aetatibus plus adhibet ad suffragium &lt;con&gt;silii quam fuse in tribus convocatus. 
+ [44] Tum leges praeclarissimae de duodecim tabulis tralatae duae, quarum altera privilegia tollit, altera de capite civis rogari nisi maximo comitiatu vetat. Et nondum in<ven>tis seditiosis tribunis plebis, ne cogitatis quidem, admirandum tantum maioris in posterum providisse. In privatos homines leges ferri noluerunt, id est enim privilegium: quo quid est iniustius, cum legis haec vis sit, <ut sit> scitum et iussum in omnis? Ferri de singulis <ni>si centuriatis comitiis noluerunt. Discriptus enim populus censu ordinibus aetatibus plus adhibet ad suffragium <con>silii quam fuse in tribus convocatus. 
  
 
  
- [45] Quo verius in causa nostra vir magni ingenii summaque prudentia L. Cotta dicebat, nihil omnino actum esse de nobis. Praeter enim quam quod comitia illa essent armis gesta servilibus, praeterea neque tributa capitis comitia rata esse posse neque ulla privilegii. Quocirca nihil nobis opus esse lege, de quibus nihil omnino actum esset legibus. Sed visum est et vobis et clarissimis viris melius, de quo servi et latrones scivisse &lt;se&gt; aliquid dicerent, de hoc eodem cunctam Italiam quid sentiret ostendere. 
+ [45] Quo verius in causa nostra vir magni ingenii summaque prudentia L. Cotta dicebat, nihil omnino actum esse de nobis. Praeter enim quam quod comitia illa essent armis gesta servilibus, praeterea neque tributa capitis comitia rata esse posse neque ulla privilegii. Quocirca nihil nobis opus esse lege, de quibus nihil omnino actum esset legibus. Sed visum est et vobis et clarissimis viris melius, de quo servi et latrones scivisse <se> aliquid dicerent, de hoc eodem cunctam Italiam quid sentiret ostendere. 
  
 
  
- XX [46] Sequitur de captis pecuniis et de ambitu. &lt;Leges&gt; quae cum magis iudiciis quam &lt;legum&gt; verbis sancienda sint, adiungitur 'noxiae poena par esto', ut in suo vitio quisque plectatur, vis capite, avaritia multa, honoris cupiditas ignominia sanciatur. 
+ XX [46] Sequitur de captis pecuniis et de ambitu. <Leges> quae cum magis iudiciis quam <legum> verbis sancienda sint, adiungitur 'noxiae poena par esto', ut in suo vitio quisque plectatur, vis capite, avaritia multa, honoris cupiditas ignominia sanciatur. 
  
 
  
-Extremae leges sunt nobis non usitatae, rei publicae necessariae. Legum custodiam nullam habemus, itaque eae leges sunt quas apparitores nostri volunt: a librariis petimus, publicis litteris consignatam memoriam publicam nullam habemus. Graeci hoc diligentius, apud quos nomofulakoi crea&lt;ba&gt;ntur, nec ei solum litteras &#151; nam id quidem etiam apud maiores nostros erat &#151;, sed etiam facta hominum observabant ad legesque revocabant. 
+Extremae leges sunt nobis non usitatae, rei publicae necessariae. Legum custodiam nullam habemus, itaque eae leges sunt quas apparitores nostri volunt: a librariis petimus, publicis litteris consignatam memoriam publicam nullam habemus. Graeci hoc diligentius, apud quos nomofulakoi crea<ba>ntur, nec ei solum litteras — nam id quidem etiam apud maiores nostros erat —, sed etiam facta hominum observabant ad legesque revocabant. 
  
 
  
@@ -449,11 +449,11 @@ Extremae leges sunt nobis non usitatae, rei publicae necessariae. Legum custodia
  
 
  
- Atticus: Egone? Quod ignorari ab iis qui in re publica versantur turpissimum puto. Nam ut modo a te dictum est leges a librariis peti, sic animadverto &lt;ple&gt;rosque in magistratibus ignoratione iuris sui tantum sapere quantum apparitores velint. Quam ob rem si de sacrorum alienatione dicendum putasti, quom de religione leges proposueras, faciendum tibi est ut magistratibus lege constitutis de potestatum iure disputes. 
+ Atticus: Egone? Quod ignorari ab iis qui in re publica versantur turpissimum puto. Nam ut modo a te dictum est leges a librariis peti, sic animadverto <ple>rosque in magistratibus ignoratione iuris sui tantum sapere quantum apparitores velint. Quam ob rem si de sacrorum alienatione dicendum putasti, quom de religione leges proposueras, faciendum tibi est ut magistratibus lege constitutis de potestatum iure disputes. 
  
 
  
- [49] Marcus: Faciam breviter si consequi potuero. Nam pluribus verbis scripsit ad patrem tuum M. Iunius sodalis, perite meo quidem iudicio et diligenter. Nos autem de iure nat&lt;ur&gt;ae cogitare per nos atque dicere debemus, de iure populi Romani quae relicta sunt et tradita. 
+ [49] Marcus: Faciam breviter si consequi potuero. Nam pluribus verbis scripsit ad patrem tuum M. Iunius sodalis, perite meo quidem iudicio et diligenter. Nos autem de iure nat<ur>ae cogitare per nos atque dicere debemus, de iure populi Romani quae relicta sunt et tradita. 
  
 
  

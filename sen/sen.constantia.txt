@@ -173,7 +173,7 @@ apparatus terribilium rectos oculos tenet, nihil ex uultu mutat siue illi
 dura siue secunda ostentantur. 5. Itaque nihil perdet quod perire sensurus
 sit; unius enim in possessione uirtutis est, ex qua depelli numquam potest,
 ceteris precario utitur: quis autem iactura mouetur alieni? Quodsi iniuria
-nihil laedere potest ex his quae propria sapientis sunt, quia &lt;salua&gt;
+nihil laedere potest ex his quae propria sapientis sunt, quia <salua>
 uirtute sua salua sunt, iniuria sapienti non potest fieri. 6. Megaram Demetrius ceperat, cui cognomen Poliorcetes fuit. Ab hoc
 Stilbon philosophus interrogatus num aliquid perdidisset, 'nihil,' inquit
 'omnia mea mecum sunt.' Atqui et patrimonium eius in praedam cesserat et
@@ -225,7 +225,7 @@ pro pecunia corpora opponunt, qui hostem onerato sinu fugiunt.'
 uirtutibus plenum, nihil perdere. Bona eius solidis et inexsuperabilibus
 munimentis praecincta sunt. Non Babylonios illis muros contuleris, quos
 Alexander intrauit, non Carthaginis aut Numantiae moenia una manu capta,
-non Capitolium arcemue &#151; habent ista hostile uestigium: illa quae sapientem
+non Capitolium arcemue — habent ista hostile uestigium: illa quae sapientem
 tuentur et a flamma et ab incursu tuta sunt, nullum introitum praebent,
 excelsa, inexpugnabilia, dis aequa.
  
@@ -288,10 +288,10 @@ dis consistit, excepta mortalitate similis deo. Ad illa nitens pergensque
 excelsa, ordinata, intrepida, aequali et concordi cursu fluentia, secura,
 benigna, bono publico nata, et sibi et aliis salutaria, nihil humile concupiscet,
 nihil flebit. 3. Qui rationi innixus per humanos casus diuino incedit animo,
-non habet ubi accipiat iniuriam &#151; ab homine me tantum dicere putas? ne
+non habet ubi accipiat iniuriam — ab homine me tantum dicere putas? ne
 a fortuna quidem, quae quotiens cum uirtute congressa est, numquam par
 recessit. Si maximum illud ultra quod nihil habent iratae leges ac saeuissimi
-domini &lt;quod&gt; minentur, in quo imperium suum fortuna consumit, aequo
+domini <quod> minentur, in quo imperium suum fortuna consumit, aequo
 placidoque animo accipimus et scimus mortem malum non esse, ob hoc ne iniuriam
 quidem, multo facilius alia tolerabimus, damna et dolores, ignominias,
 locorum commutationes, orbitates, discidia, quae sapientem, etiam si uniuersa
@@ -311,7 +311,7 @@ iudicat ut illum quicquam putet consilio fecisse, quod in uno sapiente
 est. Aliorum omnium non consilia, sed fraudes et insidiae et motus animorum
 inconditi sunt, quos casibus adnumerat; omne autem fortuitum circa nos
 saeuit et in uilia.
- 2. Illud quoque cogita, iniuriarum latissime patere materiam &lt;in&gt;
+ 2. Illud quoque cogita, iniuriarum latissime patere materiam <in>
 illis per quae periculum nobis quaesitum est, ut accusatore summisso aut
 criminatione falsa aut inritatis in nos potentiorum odiis quaeque alia
 inter togatos latrocinia sunt. Est et illa iniuria frequens, si lucrum
@@ -436,8 +436,8 @@ ausi sunt aduersus medentem, et quo animo honores eorum nihilo aestimat,
 eodem parum honorifice facta. 3. Quemadmodum non placebit sibi, si illum
 mendicus coluerit, nec contumeliam iudicabit, si illi homo plebis ultimae
 salutanti mutuam salutationem non reddiderit, sic ne suspiciet quidem,
-si illum multi diuites suspexerint &#151; scit enim illos nihil a mendicis
-differre, immo miseriores esse; illi enim exiguo, hi multo egent &#151; et
+si illum multi diuites suspexerint — scit enim illos nihil a mendicis
+differre, immo miseriores esse; illi enim exiguo, hi multo egent — et
 rursus non tangetur, si illum rex Medorum Attalusue Asiae salutantem silentio
 ac uultu adroganti transierit. Scit statum eius non magis habere quicquam
 inuidendum quam eius cui in magna familia cura optigit aegros insanosque
@@ -462,7 +462,7 @@ est enim, a quo quisque contemni moleste ferat, suspici gaudeat.
 
  
 1. Tanta quosdam dementia tenet ut sibi contumeliam fieri putent posse
-a muliere. Quid refert quam &lt;beatam&gt; habeant, quot lecticarios habentem,
+a muliere. Quid refert quam <beatam> habeant, quot lecticarios habentem,
 quam oneratas aures, quam laxam sellam? aeque inprudens animal est et,
 nisi scientia accessit ac multa eruditio, ferum, cupiditatium incontinens.
 Quidam se a cinerario inpulsos moleste ferunt et contumeliam uocant ostiari

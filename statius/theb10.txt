@@ -376,7 +376,7 @@ Obruit Hesperia Phoebum nox umida porta,
  excipit orsa Dymas: 'per ego haec uaga sidera iuro,     360 
  per ducis errantes instar mihi numinis umbras, 
  idem animus misero; comitem circumspicit olim 
- mens humili luctu, sed nunc prior ibo'&#151;uiamque 
+ mens humili luctu, sed nunc prior ibo'—uiamque 
  incohat et maesto conuersus ad aethera uultu 
  sic ait: 'arcanae moderatrix Cynthia noctis,     365 
  si te tergeminis perhibent uariare figuris 
@@ -701,7 +701,7 @@ Obruit Hesperia Phoebum nox umida porta,
  conclamat gaudens atque ignibus implet honestis.     685 
  iamque iter ad muros cursu festinus anhelo 
  obtinet et miseros gaudet uitasse parentes, 
- cum genitor&#151;steterunt ambo et uox haesit utrique, 
+ cum genitor—steterunt ambo et uox haesit utrique, 
  deiectaeque genae. tandem pater ante profatus: 
  'quis nouus inceptis rapuit te casus ab armis?     690 
  quae bello grauiora paras? dic, nate, precanti, 
@@ -743,7 +743,7 @@ Obruit Hesperia Phoebum nox umida porta,
  sed grauis unanimi casus me fratris ad urbem 
  sponte refert: gemit Inachia mihi saucius Haemon 
  cuspide; uix illum medio de puluere belli 
- inter utrasque acies, iam iamque tenentibus Argis&#151;     730 
+ inter utrasque acies, iam iamque tenentibus Argis—     730 
  sed moror. i, refoue dubium turbaeque ferenti 
  dic, parcant leuiterque uehant; ego uulnera doctum 
  iungere supremique fugam reuocare cruoris 
@@ -820,7 +820,7 @@ Obruit Hesperia Phoebum nox umida porta,
  unde hic mortis amor? quae sacra insania menti? 
  quosue ego conceptus aut quae male pignora fudi     805 
  tam diuersa mihi? nimirum Martius anguis, 
- quaeque nouis proauum tellus effloruit armis&#151; 
+ quaeque nouis proauum tellus effloruit armis— 
  hinc animi tristes nimiusque in pectore Mauors, 
  et de matre nihil. sponte en ultroque peremptus 
  inrumpis maestas Fatis nolentibus umbras.     810 
@@ -871,7 +871,7 @@ Obruit Hesperia Phoebum nox umida porta,
  aequatura solo turres Bellona subiret,     855 
  omnibus e tectis certatim ingentia saxa 
  roboraque et ualidas fundae Balearis habenas, 
- nam iaculis caeloque uagis spes unde sagittis?&#151; 
+ nam iaculis caeloque uagis spes unde sagittis?— 
  uerum auidi et tormenta rotant et molibus urguent. 
  ille nec ingestis nec terga sequentibus umquam     860 
  detrahitur telis, uacuoque sub aere pendens 

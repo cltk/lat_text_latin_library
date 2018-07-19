@@ -67,7 +67,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [13] indigenae tamen tradunt in ora ab Salat CL flumen Asanam, marino haustu, sed portu spectabile, mox amnem, quem vocant Fut, ab eo ad Dirim &#151; hoc enim Atlanti nomen esse eorum lingua convenit &#151;CC, interveniente flumine, cui nomen est Ivor. ibi pauca extare circa vestigia habitati quondam soli, vinearum palmetorumque reliquias.
+ [13] indigenae tamen tradunt in ora ab Salat CL flumen Asanam, marino haustu, sed portu spectabile, mox amnem, quem vocant Fut, ab eo ad Dirim — hoc enim Atlanti nomen esse eorum lingua convenit —CC, interveniente flumine, cui nomen est Ivor. ibi pauca extare circa vestigia habitati quondam soli, vinearum palmetorumque reliquias.
  
 
  
@@ -83,7 +83,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [17] Tingitanae provinciae longitudo CLXX est. gentes in ea: quondam praecipua Maurorum &#151; unde nomen &#151; quos plerique Maurusios dixerunt, attenuata bellis ad paucas recidit familias. proxima illi Masaesylorum fuerat; simili modo extincta est. Gaetulae nunc tenent gentes, Baniurae multoque validissimi Autololes et horum pars quondam Nesimi, qui avolsi iis propriam fecere gentem versi ad Aethiopas.
+ [17] Tingitanae provinciae longitudo CLXX est. gentes in ea: quondam praecipua Maurorum — unde nomen — quos plerique Maurusios dixerunt, attenuata bellis ad paucas recidit familias. proxima illi Masaesylorum fuerat; simili modo extincta est. Gaetulae nunc tenent gentes, Baniurae multoque validissimi Autololes et horum pars quondam Nesimi, qui avolsi iis propriam fecere gentem versi ad Aethiopas.
  
 
  
@@ -167,7 +167,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [38] ad Garamantas iter inexplicabile adhuc fuit, latronibus gentis eius puteos &#151; qui sunt non alte fodiendi, si locorum notitia adsit &#151; harenis operientibus. proxumo bello, quod cum Oeensibus gessere initiis Vespasiani Imperatoris, conpendium viae quadridui deprehensum est. hoc iter vocatur Praeter Caput Saxi. finis Cyrenaicus Catabathmos appellatur, oppidum et vallis repente convexa. ad eum terminum Cyrenaica Africa a Syrti Minore |X|:LX in longitudinem patet, in latitudinem, qua cognitum est,DCCCCX.
+ [38] ad Garamantas iter inexplicabile adhuc fuit, latronibus gentis eius puteos — qui sunt non alte fodiendi, si locorum notitia adsit — harenis operientibus. proxumo bello, quod cum Oeensibus gessere initiis Vespasiani Imperatoris, conpendium viae quadridui deprehensum est. hoc iter vocatur Praeter Caput Saxi. finis Cyrenaicus Catabathmos appellatur, oppidum et vallis repente convexa. ad eum terminum Cyrenaica Africa a Syrti Minore |X|:LX in longitudinem patet, in latitudinem, qua cognitum est,DCCCCX.
  
 
  
@@ -175,7 +175,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [40] Agrippa totius Africae a mari Atlantico cum inferiore Aegypto |XXX|:XXXX longitudinem, Polybius et Eratosthenes, diligentissimi existimati, ab oceano ad Carthaginem magnam |XI|, ab ea Canopum, Nili proximum ostium, |XVI|&middot LXXXVIII fecerunt, Isidorus a Tingi Canopum |XXXVI|:XCVII, Artemidorus XL M minus quam Isidorus.
+ [40] Agrippa totius Africae a mari Atlantico cum inferiore Aegypto |XXX|:XXXX longitudinem, Polybius et Eratosthenes, diligentissimi existimati, ab oceano ad Carthaginem magnam |XI|, ab ea Canopum, Nili proximum ostium, |XVI|· LXXXVIII fecerunt, Isidorus a Tingi Canopum |XXXVI|:XCVII, Artemidorus XL M minus quam Isidorus.
  
 
  
@@ -271,7 +271,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [64] sunt in honore et intra decursus Nili multa oppida, praecipue quae nomina ostiis dedere, non omnibus &#151; XII enim reperiuntur superque quattuor, quae ipsi falsa ora appellant &#151;, sed celeberrimis VII, proximo Alexandriae Canopico, dein Bolbitino, Sebennytico, Phatmitico, Mendesico, Tanitico ultimoque Pelusiaco. praeterea Butos, Pharbaethos, Leontopolis, Athribis, Isidis oppidum, Busiris, Cynopolis, Aphrodites, Sais, Naucratis, unde ostium quidam Naucraticum nominant quod alii Heracleoticum, Canopico, cui proximum est, praeferentes.
+ [64] sunt in honore et intra decursus Nili multa oppida, praecipue quae nomina ostiis dedere, non omnibus — XII enim reperiuntur superque quattuor, quae ipsi falsa ora appellant —, sed celeberrimis VII, proximo Alexandriae Canopico, dein Bolbitino, Sebennytico, Phatmitico, Mendesico, Tanitico ultimoque Pelusiaco. praeterea Butos, Pharbaethos, Leontopolis, Athribis, Isidis oppidum, Busiris, Cynopolis, Aphrodites, Sais, Naucratis, unde ostium quidam Naucraticum nominant quod alii Heracleoticum, Canopico, cui proximum est, praeferentes.
  
 
  
@@ -307,11 +307,11 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [73] Ab occidente litora Esseni fugiunt usque qua nocent, gens sola et in toto orbe praeter ceteras mira, sine ulla femina, omni venere abdicata, sine pecunia, socia palmarum. in diem ex aequo convenarum turba renascitur, large frequentantibus quos vita fessos ad mores eorum fortuna fluctibus agit. ita per saeculorum milia &#151; incredibile dictu &#151; gens aeterna est, in qua nemo nascitur. tam fecunda illis aliorum vitae paenitentia est! infra hos Engada oppidum fuit, secundum ab Hierosolymis fertilitate palmetorumque nemoribus, nunc alterum bustum. inde Masada castellum in rupe, et ipsum haut procul Asphaltite. et hactenus Iudaea est.
+ [73] Ab occidente litora Esseni fugiunt usque qua nocent, gens sola et in toto orbe praeter ceteras mira, sine ulla femina, omni venere abdicata, sine pecunia, socia palmarum. in diem ex aequo convenarum turba renascitur, large frequentantibus quos vita fessos ad mores eorum fortuna fluctibus agit. ita per saeculorum milia — incredibile dictu — gens aeterna est, in qua nemo nascitur. tam fecunda illis aliorum vitae paenitentia est! infra hos Engada oppidum fuit, secundum ab Hierosolymis fertilitate palmetorumque nemoribus, nunc alterum bustum. inde Masada castellum in rupe, et ipsum haut procul Asphaltite. et hactenus Iudaea est.
  
 
  
- [74] Iungitur et latere Syriae Decapolitana regio, a numero oppidorum, in quo non omnes eadem observant, primum tamen Damascum epoto riguis amne Chrysorroa fertilem, Philadelphiam, Rhaphanam, omnia in Arabiam recedentia, Scythopolim, antea Nysam, a Libero Patre sepulta nutrice ibi Scythis deductis, Gadara, Hieromice praefluente, et iam dictum Hippon, Dion, Pellam aquis divitem, Garasam, Canatham. intercursant cinguntque has urbes tetrarchiae &#151; regnorum instar singulae, et regna contribuuntur &#151; Trachonitis, Paneas, in qua Caesarea cum supra dicto fonte, Abila, Arca, Ampeloessa, Gabe.
+ [74] Iungitur et latere Syriae Decapolitana regio, a numero oppidorum, in quo non omnes eadem observant, primum tamen Damascum epoto riguis amne Chrysorroa fertilem, Philadelphiam, Rhaphanam, omnia in Arabiam recedentia, Scythopolim, antea Nysam, a Libero Patre sepulta nutrice ibi Scythis deductis, Gadara, Hieromice praefluente, et iam dictum Hippon, Dion, Pellam aquis divitem, Garasam, Canatham. intercursant cinguntque has urbes tetrarchiae — regnorum instar singulae, et regna contribuuntur — Trachonitis, Paneas, in qua Caesarea cum supra dicto fonte, Abila, Arca, Ampeloessa, Gabe.
  
 
  
@@ -339,7 +339,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [81] Nunc interiora dicantur. Coele habet Apameam, Marsya amne divisam a Nazerinorum tetrarchia, Bambycen, quae alio nomine Hierapolis vocatur, Syris vero Mabog &#151; ibi prodigiosa Atargatis, Graecis autem Derceto dicta, colitur &#151;, Chalcidem cognominatam Ad Belum, unde regio Chalcidena fertilissima Syriae, et inde Cyrresticae Cyrrum, Gazetas, Gindarenos, Gabenos, tetrarchias duas quae Granucomatitae vocantur, Hemesenos, Hylatas, Ituraeorum gentem et qui es iix Baethaemi vocantur, Mariamnitanos,
+ [81] Nunc interiora dicantur. Coele habet Apameam, Marsya amne divisam a Nazerinorum tetrarchia, Bambycen, quae alio nomine Hierapolis vocatur, Syris vero Mabog — ibi prodigiosa Atargatis, Graecis autem Derceto dicta, colitur —, Chalcidem cognominatam Ad Belum, unde regio Chalcidena fertilissima Syriae, et inde Cyrresticae Cyrrum, Gazetas, Gindarenos, Gabenos, tetrarchias duas quae Granucomatitae vocantur, Hemesenos, Hylatas, Ituraeorum gentem et qui es iix Baethaemi vocantur, Mariamnitanos,
  
 
  
@@ -387,7 +387,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [93] sed in continente oppida Mysanda, Anemurium, Coracesium, finisque antiquus Ciliciae Melas amnis. intus autem dicendi Anazarbeni, qui nunc Caesarea, Augusta, Castabala, Epiphania, quae ante Oeniandos, El&euml;usa, Iconium, Seleucia supra amnem Calycadnum, Tracheotis cognomine, ab mari relata ubi vocabatur Hermia. praeterea intus flumina Liparis, Bombos, Paradisus, mons Imbarus.
+ [93] sed in continente oppida Mysanda, Anemurium, Coracesium, finisque antiquus Ciliciae Melas amnis. intus autem dicendi Anazarbeni, qui nunc Caesarea, Augusta, Castabala, Epiphania, quae ante Oeniandos, Elëusa, Iconium, Seleucia supra amnem Calycadnum, Tracheotis cognomine, ab mari relata ubi vocabatur Hermia. praeterea intus flumina Liparis, Bombos, Paradisus, mons Imbarus.
  
 
  
@@ -459,7 +459,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [111] Sardiana nunc appellatur each iurisdictio, conveniuntque in eam extra praedictos Macedones Cadieni, Philadelphini et ipsi in radice Tmoli Cogamo flumini adpositi Maeonii, Tripolitani, iid et Antoniopolitae &#151; Maeandro adluuntur &#151;, Apollonhieritae, Mysotimolitae et alii ignobiles.
+ [111] Sardiana nunc appellatur each iurisdictio, conveniuntque in eam extra praedictos Macedones Cadieni, Philadelphini et ipsi in radice Tmoli Cogamo flumini adpositi Maeonii, Tripolitani, iid et Antoniopolitae — Maeandro adluuntur —, Apollonhieritae, Mysotimolitae et alii ignobiles.
  
 
  
@@ -479,7 +479,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [116] ab Epheso Matium aliud Colophoniorum et intus ipsa Colophon, Haleso adfluente. inde Apollinis Clarii fanum, Lebedos &#151; fuit et Notium oppidum &#151;, promunturium Cyrenaeum, mons Mimas CL p. excurrens atque in continentibus campis residens. quo in loco Magnus Alexander intercidi planitiem eam iusserat VII:D p. longitudine, ut duos sinus iungeret Erythrasque cum Mimante circumfunderet.
+ [116] ab Epheso Matium aliud Colophoniorum et intus ipsa Colophon, Haleso adfluente. inde Apollinis Clarii fanum, Lebedos — fuit et Notium oppidum —, promunturium Cyrenaeum, mons Mimas CL p. excurrens atque in continentibus campis residens. quo in loco Magnus Alexander intercidi planitiem eam iusserat VII:D p. longitudine, ut duos sinus iungeret Erythrasque cum Mimante circumfunderet.
  
 
  
@@ -499,7 +499,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [121] Aeolis proxima est, quondam Mysia appellata, et quae Hellesponto adiacet Troas. ibi a Phocaea Ascanius portus. dein fuerat Larisa, sunt Cyme, Myrina quae Sebastopolim se vocat, et intus Aegaeae, Itale, Posidea, Neon Tichos, Temnos. in ora autem Titanus amnis et civitas ab eo cognominata &#151; fuit et Grynia, nunc tantum portus, olim insula adprehensa &#151;, oppidum Elsea et ex Mysia veniens Caicus amnis, oppidum Pitane, Canaitis amnis.
+ [121] Aeolis proxima est, quondam Mysia appellata, et quae Hellesponto adiacet Troas. ibi a Phocaea Ascanius portus. dein fuerat Larisa, sunt Cyme, Myrina quae Sebastopolim se vocat, et intus Aegaeae, Itale, Posidea, Neon Tichos, Temnos. in ora autem Titanus amnis et civitas ab eo cognominata — fuit et Grynia, nunc tantum portus, olim insula adprehensa —, oppidum Elsea et ex Mysia veniens Caicus amnis, oppidum Pitane, Canaitis amnis.
  
 
  
@@ -507,7 +507,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [123] rursus in litore Antandros, Edonis prius vocata, dein Cimmeris, Assos, eadem apollonia &#151; fuit et Palamedium oppidum &#151;, promunturium Lectum disterminans Aeolida et Troada. fuit et Polymedia civitas, Chrysa et Larisa alia. Zminthium templum durat. intus Colone intercidit. deportant Adramytteum negotia Apollonitae a Rhyndaco amne, Eresi, Miletopolitae, Poemaneni, Macedones Asculacae, Polichnaei, Pionitae, Cilices Mandacandeni, Mysi Abretteni et Hellespontii appellati et alii ignobiles.
+ [123] rursus in litore Antandros, Edonis prius vocata, dein Cimmeris, Assos, eadem apollonia — fuit et Palamedium oppidum —, promunturium Lectum disterminans Aeolida et Troada. fuit et Polymedia civitas, Chrysa et Larisa alia. Zminthium templum durat. intus Colone intercidit. deportant Adramytteum negotia Apollonitae a Rhyndaco amne, Eresi, Miletopolitae, Poemaneni, Macedones Asculacae, Polichnaei, Pionitae, Cilices Mandacandeni, Mysi Abretteni et Hellespontii appellati et alii ignobiles.
  
 
  
@@ -563,7 +563,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [137] finitimae sunt Tellusa, quam alii Paphnusam scribunt, Oenusa, Elaphitis, Euryanassa, Arginusa cum oppido. iam hae circa Ephesum et quae Pisistrati vocantur Anthinae, Myonnesos, Diarrheusa &#151; in utraque oppida intercidere &#151;, Poroselene cum oppido, Cerciae, Halone, Commone, Illetia, Lepria, Aethre, Sphaeria, Procusae, Bolbulae, Pheate, Priapos, Syce, Melane, Aenare, Sidusa, Pele, Drymusa, Anhydros, Scopelos, Sycusa, Marathusa, Psile, Perirrheusa multaeque ignobiles.
+ [137] finitimae sunt Tellusa, quam alii Paphnusam scribunt, Oenusa, Elaphitis, Euryanassa, Arginusa cum oppido. iam hae circa Ephesum et quae Pisistrati vocantur Anthinae, Myonnesos, Diarrheusa — in utraque oppida intercidere —, Poroselene cum oppido, Cerciae, Halone, Commone, Illetia, Lepria, Aethre, Sphaeria, Procusae, Bolbulae, Pheate, Priapos, Syce, Melane, Aenare, Sidusa, Pele, Drymusa, Anhydros, Scopelos, Sycusa, Marathusa, Psile, Perirrheusa multaeque ignobiles.
  
 
  
@@ -579,7 +579,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [141] Impetum deinde sumit Hellespontus, et mare incumbit, verticibus limitem fodiens, donec Asiam abrumpat Europae. promunturium id appellavimus Trapezam. ab eo X p. Abydum oppidum, ubi angustiae VII stadiorum. deinde Percote oppidum et Lampsacum, antea Pityusa dictum, Parium colonia quam Homerus Adrastiam appellavit, oppidum Priapos, amnis Aesepus, Zelia, Propontis &#151; ita appellatur ubi se distat mare &#151;, flumen Granicum, Artace portus ubi oppidum fuit.
+ [141] Impetum deinde sumit Hellespontus, et mare incumbit, verticibus limitem fodiens, donec Asiam abrumpat Europae. promunturium id appellavimus Trapezam. ab eo X p. Abydum oppidum, ubi angustiae VII stadiorum. deinde Percote oppidum et Lampsacum, antea Pityusa dictum, Parium colonia quam Homerus Adrastiam appellavit, oppidum Priapos, amnis Aesepus, Zelia, Propontis — ita appellatur ubi se distat mare —, flumen Granicum, Artace portus ubi oppidum fuit.
  
 
  
@@ -595,7 +595,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [145] Phrygia, Troadi superiecta populisque a promunturio Lecto ad flumen Echeleum praedictis, septentrionali sui parte Galatiae contermina, meridiana Lycaoniae, Pisidiae, Mygdoniae, ab oriente Cappadociam attingit. oppida ibi celeberrima praeter iam dicta Ancyra, Andria, Celaenae, Colossae, Carina, Cotia&iuml;on, Cera&iuml;ne, Conium, Mida&iuml;um. sunt auctores transisse ex Europa Moesos et Brygos et Thynos, a quibus appellentur Mysi, Phryges, Bithyni.
+ [145] Phrygia, Troadi superiecta populisque a promunturio Lecto ad flumen Echeleum praedictis, septentrionali sui parte Galatiae contermina, meridiana Lycaoniae, Pisidiae, Mygdoniae, ab oriente Cappadociam attingit. oppida ibi celeberrima praeter iam dicta Ancyra, Andria, Celaenae, Colossae, Carina, Cotiaïon, Ceraïne, Conium, Midaïum. sunt auctores transisse ex Europa Moesos et Brygos et Thynos, a quibus appellentur Mysi, Phryges, Bithyni.
  
 
  
@@ -607,7 +607,7 @@ Pliny the Elder: Natural History, Book V
  
 
  
- [148] Nunc reliqua in ora. a Cio intus in Bithynia Prusa, ab Hannibale sub Olympo condita &#151; indea Nicaeam XXV p. interveniente Ascanio lacu &#151;, dein Nicaea in ultimo Ascanio sinu, quae prius Olbia et Prusias, item altera sub Hypio monte. fuere Pythopolis, Parthenopolis, Coryphanta. sunt in ora amnes Aesius, Bryazon, Plataneus, Areus, Aesyros, Geudos, qui et Chrysorroas, promunturium in quo Megarice oppidum fuit. inde Craspedites sinus vocabatur, quoniam id oppidum velut in lacinia erat. fuit et Astacum, unde et ex eo Astacenus idem sinus; fuit et Libyssa oppidum, ubi nunc Hannibalis tantum tumulus. est in intimo sinu Nicomedia Bithyniae praeclara.
+ [148] Nunc reliqua in ora. a Cio intus in Bithynia Prusa, ab Hannibale sub Olympo condita — indea Nicaeam XXV p. interveniente Ascanio lacu —, dein Nicaea in ultimo Ascanio sinu, quae prius Olbia et Prusias, item altera sub Hypio monte. fuere Pythopolis, Parthenopolis, Coryphanta. sunt in ora amnes Aesius, Bryazon, Plataneus, Areus, Aesyros, Geudos, qui et Chrysorroas, promunturium in quo Megarice oppidum fuit. inde Craspedites sinus vocabatur, quoniam id oppidum velut in lacinia erat. fuit et Astacum, unde et ex eo Astacenus idem sinus; fuit et Libyssa oppidum, ubi nunc Hannibalis tantum tumulus. est in intimo sinu Nicomedia Bithyniae praeclara.
  
 
  

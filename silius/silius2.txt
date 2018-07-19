@@ -172,7 +172,7 @@ exuuiae capiti impositae tegimenque leonis
 terribilem attollunt excelso uertice rictum. 
 centum angues idem Lernaeaque monstra gerebat 
 in clipeo et sectis geminam serpentibus hydram. 
-ille Iubam T&lt;h&gt;apsumque patrem clarumque Micipsam    160 
+ille Iubam T<h>apsumque patrem clarumque Micipsam    160 
 nomine aui Maurumque Sacen, a moenibus actos 
 palantisque fuga, praeceps ad litora cursu 
 egerat, atque una spumabant aequora dextra. 
@@ -468,7 +468,7 @@ Poenorum populos Romana in bella uocabat.
 tali sublimis dono, noua tegmina latis 
 aptat concutiens umeris celsusque profatur: 
 'Heu quantum Ausonio sudabitis, arma, cruore!    455 
-quas, belli ui&lt;n&gt;dex, poenas mihi, Curia, pendes!' 
+quas, belli ui<n>dex, poenas mihi, Curia, pendes!' 
   Iamque senescebat uallatus moenibus hostis, 
 carpebatque dies urbem, dum signa manusque 
 expectant fessi socias. tandem aequore uano 
@@ -606,7 +606,7 @@ ac similis profugo uicina ad litora tendit    590
 spumantisque freti praeceps immergitur undis. 
   Tum uero excussae mentes, ceu prodita tecta 
 expulsi fugiant manes, umbraeque recusent 
-captiuo iacuisse solo. sperare salute&lt;m&gt; 
+captiuo iacuisse solo. sperare salute<m> 
 pertaesum, damnantque cibos: agit abdita Erinys.    595 
 haud grauior duris diuum inclementia rebus 
 quam leti perferre moras: abrumpere uitam 

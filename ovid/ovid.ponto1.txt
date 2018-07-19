@@ -114,7 +114,7 @@ LIBER PRIMVS
  Ei mihi! quid faciam? Vereor ne nomine lecto 
   durus et auersa cetera mente legas! 
  Videris! Audebo tibi me scripsisse fateri 
-  &lt; . . . . . . . . . . . . . . &gt;             10 
+  < . . . . . . . . . . . . . . >             10 
  qui, cum me poena dignum grauiore fuisse 
   confiteor, possum uix grauiora pati. 
  Hostibus in mediis interque pericula uersor, 
@@ -180,7 +180,7 @@ LIBER PRIMVS
  Magna tenent illud numen molimina rerum, 
   haec est caelesti pectore cura minor, 
  nec uacat in qua sint positi regione Tomitae      75 
-  quaerere&#151;finitimo uix loca nota Getae&#151; 
+  quaerere—finitimo uix loca nota Getae— 
  aut quid Sauromatae faciant, quid Iazyges acres 
   cultaque Oresteae Taurica terra deae 
  quaeque aliae gentes, ubi frigore constitit Hister, 
@@ -251,8 +251,8 @@ LIBER PRIMVS
   proxima pars uitae transilienda meae. 
  Sed de me ut sileam, coniunx mea sarcina uestra est:      145 
   non potes hanc salua dissimulare fide. 
- Confugit haec ad uos, uestras amplectitur aras&#151; 
-  iure uenit cultos ad sibi quisque deos&#151; 
+ Confugit haec ad uos, uestras amplectitur aras— 
+  iure uenit cultos ad sibi quisque deos— 
  flensque rogat precibus lenito Caesare uestris 
   busta sui fiant ut propiora uiri.
  
@@ -302,8 +302,8 @@ LIBER PRIMVS
   Huc tamen ex ista barbarus urbe fugit. 
  Cum bene sit clausae cauea Pandione natae, 
   nititur in siluas illa redire suas.      40 
- Adsuetos tauri saltus, adsueta leones&#151; 
-  nec feritas illos inpedit&#151;antra petunt. 
+ Adsuetos tauri saltus, adsueta leones— 
+  nec feritas illos inpedit—antra petunt. 
  Tu tamen exilii morsus e pectore nostro 
   fomentis speras cedere posse tuis. 
  Effice uos ipsi ne tam mihi sitis amandi,      45 
@@ -373,7 +373,7 @@ LIBER PRIMVS
   anxietas animi continuusque labor; 
  nam mea per longos si quis mala digerat annos, 
   crede mihi, Pylio Nestore maior ero.      10 
- Cernis ut in duris&#151;et quid boue firmius?&#151;aruis 
+ Cernis ut in duris—et quid boue firmius?—aruis 
   fortia taurorum corpora frangat opus. 
  Quae numquam uacuo solita est cessare nouali 
   fructibus adsiduis lassa senescit humus. 
@@ -411,7 +411,7 @@ LIBER PRIMVS
   illo quod subiit Aesone natus opus. 
  Te quoque, quam iuuenem discedens Vrbe reliqui, 
   credibile est nostris insenuisse malis. 
- O! ego&#151;di faciant!&#151;talem te cernere possim, 
+ O! ego—di faciant!—talem te cernere possim, 
   caraque mutatis oscula ferre comis      50 
  amplectique meis corpus non pingue lacertis 
   et 'Gracile hoc fecit' dicere 'cura mei' 
@@ -455,7 +455,7 @@ LIBER PRIMVS
  At, puto, fructus adest, iustissima causa laborum,      25 
   et sata cum multo fenore reddit ager. 
  Tempus ad hoc nobis, repetas licet omnia, nullum 
-  profuit&#151;atque utinam non nocuisset!&#151;opus. 
+  profuit—atque utinam non nocuisset!—opus. 
  Cur igitur scribam miraris. Miror et ipse 
   et tecum quaero saepe quid inde petam.      30 
  An populus uere sanos negat esse poetas 
@@ -521,8 +521,8 @@ LIBER PRIMVS
  
 
  
- Ecquid, ut audisti&#151;nam te diuersa tenebat 
-  terra&#151;meos casus, cor tibi triste fuit? 
+ Ecquid, ut audisti—nam te diuersa tenebat 
+  terra—meos casus, cor tibi triste fuit? 
  Dissimules metuasque licet, Graecine, fateri, 
   si bene te noui, triste fuisse liquet. 
  Non cadit in mores feritas inamabilis istos      5 
@@ -532,7 +532,7 @@ LIBER PRIMVS
  nec quisquam meliore fide complectitur illas, 
   qua sinit officium militiaeque labor.      10 
  Certe ego cum primum potui sentire quid essem, 
-  &#151;nam fuit attonito mens mea nulla diu&#151; 
+  —nam fuit attonito mens mea nulla diu— 
  hoc quoque fortunam sensi quod amicus abesses, 
   qui mihi praesidium grande futurus eras. 
  Tecum tunc aberant aegrae solacia mentis      15 
@@ -666,7 +666,7 @@ LIBER PRIMVS
  Viuimus adsiduis expertes pacis in armis      5 
   dura pharetrato bella mouente Geta. 
  Deque tot expulsis sum miles in exule solus: 
-  tuta&#151;nec inuideo&#151;cetera turba latet. 
+  tuta—nec inuideo—cetera turba latet. 
  Quoque magis nostros uenia dignere libellos, 
   haec in procinctu carmina facta leges.      10 
  Stat uetus urbs, ripae uicina binominis Histri, 
@@ -681,7 +681,7 @@ LIBER PRIMVS
   . . . . . . . . . . . . . . .              20 
  At tibi, rex aeuo, detur, fortissime nostro, 
   semper honorata sceptra tenere manu, 
- teque, quod et praestat&#151;quid enim tibi plenius optem?&#151; 
+ teque, quod et praestat—quid enim tibi plenius optem?— 
   Martia cum magno Caesare Roma probet. 
  Sed memor unde abii, queror, o iucunde sodalis,      25 
   accedant nostris saeua quod arma malis. 

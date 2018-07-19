@@ -19,7 +19,7 @@ Cicero: de Senectute
  
 
  
-I. 1 .     &nbsp   O Tite, si quid ego adiuero curamve levasso,     &nbsp   Quae nunc te coquit et versat in pectore fixa,     &nbsp   Ecquid erit praemi?
+I. 1 .         O Tite, si quid ego adiuero curamve levasso,         Quae nunc te coquit et versat in pectore fixa,         Ecquid erit praemi?
  
 
  
@@ -27,7 +27,7 @@ Licet enim mihi versibus eisdem adfari te, Attice, quibus adfatur Flamininum
  
 
  
-     &nbsp   Ille vir haud magna cum re, sed plenus fidei; 
+         Ille vir haud magna cum re, sed plenus fidei; 
  
 
  
@@ -35,7 +35,7 @@ quamquam certo scio non, ut Flamininum,
  
 
  
-     &nbsp   Sollicitari te, Tite, sic noctesque diesque;
+         Sollicitari te, Tite, sic noctesque diesque;
  
 
  
@@ -63,7 +63,7 @@ II. 4 . Scipio. Saepe numero admirari soleo cum hoc C. Laelio cum ceterarum reru
  
 
  
-III. 7 . Cato. Faciam, ut potero, Laeli. Saepe enim interfui querellis aequalium meorum&#151;pares autem, vetere proverbio, cum paribus facillime congregantur--quae C. Salinator, quae Sp. Albinus, homines consulares nostri fere aequales, deplorare solebant, tum quod voluptatibus carerent sine quibus vitam nullam putarent, tum quod spernerentur ab eis, a quibus essent coli soliti. Qui mihi non id videbantur accusare, quod esset accusandum. Nam si id culpa senectutis accideret, eadem mihi usu venirent reliquisque omnibus maioribus natu, quorum ego multorum cognovi senectutem sine querella, qui se et libidinum vinculis laxatos esse non moleste ferrent nec a suis despicerentur. Sed omnium istius modi querellarum in moribus est culpa, non in aetate. Moderati enim et nec difficiles nec inhumani senes tolerabilem senectutem agunt; importunitas autem et inhumanitas omni aetati molesta est. 
+III. 7 . Cato. Faciam, ut potero, Laeli. Saepe enim interfui querellis aequalium meorum—pares autem, vetere proverbio, cum paribus facillime congregantur--quae C. Salinator, quae Sp. Albinus, homines consulares nostri fere aequales, deplorare solebant, tum quod voluptatibus carerent sine quibus vitam nullam putarent, tum quod spernerentur ab eis, a quibus essent coli soliti. Qui mihi non id videbantur accusare, quod esset accusandum. Nam si id culpa senectutis accideret, eadem mihi usu venirent reliquisque omnibus maioribus natu, quorum ego multorum cognovi senectutem sine querella, qui se et libidinum vinculis laxatos esse non moleste ferrent nec a suis despicerentur. Sed omnium istius modi querellarum in moribus est culpa, non in aetate. Moderati enim et nec difficiles nec inhumani senes tolerabilem senectutem agunt; importunitas autem et inhumanitas omni aetati molesta est. 
  
 
  

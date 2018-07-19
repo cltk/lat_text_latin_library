@@ -265,11 +265,11 @@ expediam neque [te] in promissis plura morabor.
 nubibus extructis; nam caelo nulla sereno 
 nec leviter densis mittuntur nubibus umquam. 
 nam dubio procul hoc fieri manifesta docet res; 
-quod tunc per totum concrescunt ae&euml;ra nubes, 
+quod tunc per totum concrescunt aeëra nubes, 
 undique uti tenebras omnis Acherunta reamur 
 liquisse et magnas caeli complesse cavernas, 
-&AElig;usque adeo tetra nimborum nocte coorta 
-inpendent atrae formidinis ora superne,&AElig; 
+Æusque adeo tetra nimborum nocte coorta 
+inpendent atrae formidinis ora superne,Æ 
 cum commoliri tempestas fulmina coeptat. 
 praeterea persaepe niger quoque per mare nimbus, 
 ut picis e caelo demissum flumen, in undas 
@@ -319,7 +319,7 @@ hoc fit idem in partis alias, quo cumque tulit vis.
 igniscat tamen in spatio longoque meatu, 
 dum venit amittens in cursu corpora quaedam 
 grandia, quae nequeunt pariter penetrare per auras, 
-atque alia ex ipso conradens ae&euml;re portat 
+atque alia ex ipso conradens aeëre portat 
 parvola, quae faciunt ignem commixta volando; 
 non alia longe ratione ac plumbea saepe 
 fervida fit glans in cursu, cum multa rigoris 
@@ -361,7 +361,7 @@ et validas auget viris et roborat ictum;
 nam facit ut quae sint illius semina cumque 
 e regione locum quasi in unum cuncta ferantur, 
 omnia coniciens in eum volventia cursum. 
- Forsitan ex ipso veniens trahat ae&euml;re quaedam 
+ Forsitan ex ipso veniens trahat aeëre quaedam 
 corpora, quae plagis incendunt mobilitatem. 
 incolumisque venit per res atque integra transit 
 multa, foraminibus liquidus quia transviat ignis. 
@@ -382,10 +382,10 @@ tum variae causae concurrunt fulminis omnes.
 nam fretus ipse anni permiscet frigus [ad] aestum. 
 quorum utrumque opus est fabricanda ad fulmina nubi, 
 ut discordia [sit] rerum magnoque tumultu 
-ignibus et ventis furibundus fluctuet ae&euml;r. 
+ignibus et ventis furibundus fluctuet aeër. 
  
 ut discordia [sit] rerum magnoque tumultu 
-ignibus et ventis furibundus fluctuet ae&euml;r. 
+ignibus et ventis furibundus fluctuet aeër. 
 prima caloris enim pars est postrema rigoris; 
 tempus id est vernum; quare pugnare necessest 
 dissimilis [res] inter se turbareque mixtas. 
@@ -462,7 +462,7 @@ quam simul ac gravidam detrusit ad aequora ponti,
 ille in aquam subito totum se inmittit et omne 
 excitat ingenti sonitu mare fervere cogens. 
  Fit quoque ut involvat venti se nubibus ipse 
-vertex conradens ex ae&euml;re semina nubis 
+vertex conradens ex aeëre semina nubis 
 et quasi demissum caelo prestera imitetur; 
 hic ubi se in terras demisit dissoluitque, 
 turbinis immanem vim provomit atque procellae. 
@@ -703,8 +703,8 @@ nil sint ad summam summai totius omnem.
 flamma foras vastis Aetnae fornacibus efflet, 
 expediam. primum totius subcava montis 
 est natura fere silicum suffulta cavernis. 
-omnibus est porro in speluncis ventus et ae&euml;r. 
-ventus enim fit, ubi est agitando percitus ae&euml;r. 
+omnibus est porro in speluncis ventus et aeër. 
+ventus enim fit, ubi est agitando percitus aeër. 
 hic ubi percaluit cale fecitque omnia circum 
 saxa furens, qua contingit, terramque et ab ollis 
 excussit calidum flammis velocibus ignem, 
@@ -774,7 +774,7 @@ vertice, Palladis ad templum Tritonidis almae,
 quo numquam pennis appellunt corpora raucae 
 cornices, non cum fumant altaria donis; 
 usque adeo fugitant non iras Palladis acris 
-pervigili causa, Graium ut cecinere poe&euml;tae, 
+pervigili causa, Graium ut cecinere poeëtae, 
 sed natura loci opus efficit ipsa suapte. 
 in Syria quoque fertur item locus esse videri, 
 quadripedes quoque quo simul ac vestigia primum 
@@ -851,7 +851,7 @@ posterius fit uti. cum iam cecidere veneni
 in fontis ipsos, ibi sit quoque vita vomenda, 
 propterea quod magna mali fit copia circum. 
  Fit quoque ut inter dum vis haec atque aestus Averni 
-ae&euml;ra, qui inter avis cumquest terramque locatus. 
+aeëra, qui inter avis cumquest terramque locatus. 
 discutiat, prope uti locus hic linquatur inanis. 
 cuius ubi e regione loci venere volantis, 
 claudicat extemplo pinnarum nisus inanis 
@@ -974,8 +974,8 @@ sentimus, sentimus item transire per aurum
 atque per argentum, cum pocula plena tenemus. 
 denique per dissaepta domorum saxea voces 
 pervolitant, permanat odor frigusque vaposque 
-ignis, qui ferri quoque vim penetrare sue&euml;vit, 
-denique qua circum caeli lorica coe&euml;rcet, 
+ignis, qui ferri quoque vim penetrare sueëvit, 
+denique qua circum caeli lorica coeërcet, 
 morbida visque simul, cum extrinsecus insinuatur; 
 et tempestate in terra caeloque coorta 
 in caelum terrasque remotae iure facessunt; 
@@ -1024,7 +1024,7 @@ omnia constiterint nobis praeposta parata,
 quod super est, facile hinc ratio reddetur et omnis 
 causa pate fiet, quae ferri pelliciat vim. 
  Principio fluere e lapide hoc permulta necessest 
-semina sive aestum, qui discutit ae&euml;ra plagis, 
+semina sive aestum, qui discutit aeëra plagis, 
 inter qui lapidem ferrumque est cumque locatus. 
 hoc ubi inanitur spatium multusque vace fit 
 in medio locus, extemplo primordia ferri 
@@ -1045,20 +1045,20 @@ quippe agitantur enim plagis aliunde nec ipsa
 sponte sua sursum possunt consurgere in auras. 
 huc accedit item, quare queat id magis esse, 
 haec quoque res adiumento motuque iuvatur, 
-quod, simul a fronte est anelli rarior ae&euml;r 
+quod, simul a fronte est anelli rarior aeër 
 factus inanitusque locus magis ac vacuatus, 
 continuo fit uti qui post est cumque locatus 
-ae&euml;r a tergo quasi provehat atque propellat. 
-semper enim circum positus res verberat ae&euml;r; 
+aeër a tergo quasi provehat atque propellat. 
+semper enim circum positus res verberat aeër; 
 sed tali fit uti propellat tempore ferrum, 
 parte quod ex una spatium vacat et capit in se. 
 hic, tibi quem memoro, per crebra foramina ferri 
 parvas ad partis subtiliter insinuatus 
 trudit et inpellit, quasi navem velaque ventus. 
  denique res omnes debent in corpore habere 
-ae&euml;ra, quandoquidem raro sunt corpore et ae&euml;r 
+aeëra, quandoquidem raro sunt corpore et aeër 
 omnibus est rebus circum datus adpositusque. 
-hic igitur, penitus qui in ferrost abditus ae&euml;r, 
+hic igitur, penitus qui in ferrost abditus aeër, 
 sollicito motu semper iactatur eoque 
 verberat anellum dubio procul et ciet intus, 
 scilicet illo eodem fertur, quo praecipitavit 
@@ -1118,7 +1118,7 @@ expediam, primum multarum semina rerum
 esse supra docui quae sint vitalia nobis, 
 et contra quae sint morbo mortique necessest 
 multa volare; ea cum casu sunt forte coorta 
-et perturbarunt caelum, fit morbidus ae&euml;r. 
+et perturbarunt caelum, fit morbidus aeër. 
 atque ea vis omnis morborum pestilitasque 
 aut extrinsecus ut nubes nebulaeque superne 
 per caelum veniunt aut ipsa saepe coorta 
@@ -1139,9 +1139,9 @@ est elephas morbus qui propter flumina Nili
 gignitur Aegypto in media neque praeterea usquam. 
 Atthide temptantur gressus oculique in Achaeis 
 finibus. inde aliis alius locus est inimicus 
-partibus ac membris; varius concinnat id ae&euml;r. 
+partibus ac membris; varius concinnat id aeër. 
 proinde ubi se caelum, quod nobis forte alienum, 
-commovet atque ae&euml;r inimicus serpere coepit, 
+commovet atque aeër inimicus serpere coepit, 
 ut nebula ac nubes paulatim repit et omne 
 qua graditur conturbat et immutare coactat, 
 fit quoque ut, in nostrum cum venit denique caelum, 
@@ -1149,7 +1149,7 @@ corrumpat reddatque sui simile atque alienum.
 haec igitur subito clades nova pestilitasque 
 aut in aquas cadit aut fruges persidit in ipsas 
 aut alios hominum pastus pecudumque cibatus, 
-aut etiam suspensa manet vis ae&euml;re in ipso 
+aut etiam suspensa manet vis aeëre in ipso 
 et, cum spirantes mixtas hinc ducimus auras, 
 illa quoque in corpus pariter sorbere necessest. 
 consimili ratione venit bubus quoque saepe 
@@ -1163,7 +1163,7 @@ quod nos adventu possit temptare recenti.
 finibus in Cecropis funestos reddidit agros 
 vastavitque vias, exhausit civibus urbem. 
 nam penitus veniens Aegypti finibus ortus, 
-ae&euml;ra permensus multum camposque natantis, 
+aeëra permensus multum camposque natantis, 
 incubuit tandem populo Pandionis omni. 
  inde catervatim morbo mortique dabantur. 
 principio caput incensum fervore gerebant 
@@ -1248,7 +1248,7 @@ strata viis animam ponebat in omnibus aegre;
 extorquebat enim vitam vis morbida membris. 
 incomitata rapi certabant funera vasta 
 nec ratio remedii communis certa dabatur; 
-nam quod ali dederat vitalis ae&euml;ris auras 
+nam quod ali dederat vitalis aeëris auras 
 volvere in ore licere et caeli templa tueri, 
 hoc aliis erat exitio letumque parabat. 
  Illud in his rebus miserandum magnopere unum 

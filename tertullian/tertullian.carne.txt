@@ -161,7 +161,7 @@ quid postea factum sit corporibus illorum: quod de nihilo fuit, nihil factum est
     antecedit.
  
  
- VII.  [1] Sed quotiens de nativitate contenditur omnes qui respuunt eam ut praeiudicantem de carnis in Christo veritate ipsum dominum volunt negare esse &lt;se&gt; natum quia dixerit, Quae mihi mater et qui mihi fratres? audiat igitur et Apelles quid iam responsum sit a nobis Marcioni eo libello quo ad evangelium ipsius provocavimus, considerandam scilicet materiam
+ VII.  [1] Sed quotiens de nativitate contenditur omnes qui respuunt eam ut praeiudicantem de carnis in Christo veritate ipsum dominum volunt negare esse <se> natum quia dixerit, Quae mihi mater et qui mihi fratres? audiat igitur et Apelles quid iam responsum sit a nobis Marcioni eo libello quo ad evangelium ipsius provocavimus, considerandam scilicet materiam
 pronuntiationis 
  istius. [2] primo quidem nunquam quisquam
 adnuntiasset 
@@ -179,7 +179,7 @@ temptandi gratia nuntiaverant ei matrem et fratres quos non
     argumentaris 
  voluisse illos per temptationem sciscitari quod nunquam produxerunt in quaestionem? eo adicimus, etiam si temptandus esset de nativitate, non utique hoc modo temptaretur, earum 
  personarum adnuntiatione quae poterant etiam nato Christo non fuisse. omnes nascimur, et tamen
-    non omnes aut fratres habemus aut matrem: [6] adhuc potest &lt;quis&gt; et patrem magis habere quam matrem et avunculos magis quam fratres. adeo non competit temptatio nativitatis, quam licebat et sine matris et sine fratrum 
+    non omnes aut fratres habemus aut matrem: [6] adhuc potest <quis> et patrem magis habere quam matrem et avunculos magis quam fratres. adeo non competit temptatio nativitatis, quam licebat et sine matris et sine fratrum 
  nominatione constare. facilius plane est ut certi illum et matrem et fratres habere divinitatem potius temptaverint eius quam
     nativitatem, 
  an intus agens sciret quid foris esset mendacio petitus praesentiae adnuntiatae eorum qui in praesentia non erant. nisi 
@@ -361,8 +361,8 @@ deprehendatur qui non terrenae carnis extiterunt, dehinc quod
  sententiam nostram, dum ne tanta amentia qua putavit tanquam ipsam carnem Christi opiriemur ut peccatricem
     evacuatam 
  in ipso, cum illam et ad dexteram patris in caelis praesidere meminerimus et venturam inde in suggestu paternae claritatis praedicemus.
-     [2] adeo, ut evacuatam non possumus dicere &lt;quae in 
- caelis est&gt;, ita nec peccatricem in qua dolus non fuit. defendirnus autem non carnem peccati evacuatam esse in Christo sed peccatum carnis, non materiam sed naturam, nec substantiam sed culpam, secundum apostoli auctoritatem dicentis, Evacuavit peccatum in carne.
+     [2] adeo, ut evacuatam non possumus dicere <quae in 
+ caelis est>, ita nec peccatricem in qua dolus non fuit. defendirnus autem non carnem peccati evacuatam esse in Christo sed peccatum carnis, non materiam sed naturam, nec substantiam sed culpam, secundum apostoli auctoritatem dicentis, Evacuavit peccatum in carne.
      [3] nam et alibi in similitudine inquit carnis peccati fuisse 
  Christum, non quod similitudinem carnis acceperit quasi imaginem 
  corporis et non veritatem, sed similitudinem peccatricis carnis vult intellegi quod ipsa non peccatrix caro Christi eius fuit par cuius erat peccatum, genere non vitio Adae aequanda.
@@ -416,7 +416,7 @@ proferendum, cur non ex virgine acceperit corpus quod de virgine protulit, quia 
  etiam Valentinus ipse? adeo singulariter ut de domino scriptum est, Sed ex deo natus est. merito, quia verbum dei, et cum verbo dei spiritus, et in spiritu dei virtus, et quicquid dei est Christus. qua caro autem, non ex sanguine nec ex carnis et viri voluntate, quia ex dei voluntate verbum caro factum est:
      [3] ad carnem enim, 
  non ad verbum, pertinet negatio formalis nostrae nativitatis, quia caro sic habebat nasci, non verbum. 'Negans autem ex carnis quoque voluntate natum, cur non negavit etiam ex substantia carnis?' neque enim quia ex sanguine negavit substantiam carnis renuit, sed materiam seminis quam constat sanguinis esse calorem 
- ut despumatione mutatum in coagulum sanguinis feminae: [4] nam ex coagulo in caseo eius &lt;vis&gt; est substantiae quam medicando constringit, id est lactis. intellegimus ergo ex concubitu
+ ut despumatione mutatum in coagulum sanguinis feminae: [4] nam ex coagulo in caseo eius <vis> est substantiae quam medicando constringit, id est lactis. intellegimus ergo ex concubitu
     nativitatem 
  domini negatam, quod sapit voluntas viri et carnis, non ex vulvae participatione. et quid utique tam exaggeranter
     inculcavit 
@@ -454,11 +454,11 @@ sanctificata
  
  XXI.  [1] Si ergo contendunt hoc competisse novitati ut
 quemadmodum 
- non ex viri semine ita nec ex virginis carne caro fieret dei verbum, quare non hoc sit tota novitas, ut caro non ex semine nata ex carne &lt;semine nata&gt; processerit?
+ non ex viri semine ita nec ex virginis carne caro fieret dei verbum, quare non hoc sit tota novitas, ut caro non ex semine nata ex carne <semine nata> processerit?
  [2] accedant adhuc comminius 
  ad congressum. Ecce, inquit, virgo concipiet in utero. quidnam? utique dei verbum, non viri semen. certe ut pareret filium: nam Et pariet, inquit, filium. ergo ut ipsius fuit parere, quia ipsius fuit concepisse, ita ipsius est quod peperit, licet non ipsius fuerit quod concepit. contra si verbum ex se caro factum est, iam 
  ipsum se concepit et peperit, et vacat prophetia: [3] non enim virgo concepit neque peperit, si non quod peperit ex verbi conceptu caro ipsius est. sola haec autem prophetae vox evacuabitur? an et angeli conceptum et partum virginis annuntiantis? an et omnis iam scriptura quaecunque matrem pronuntiat Christi? quomodo 
- enim mater nisi quia in utero eius fuit? &lt;ut quid in utero&gt; si nihil ex utero eius accepit quod matrem eam faceret in cuius utero fuit? hoc nomen non debet caro extranea: matris uterum non appellat nisi filia uteri caro; filia porro uteri non est, si sibi nata est.
+ enim mater nisi quia in utero eius fuit? <ut quid in utero> si nihil ex utero eius accepit quod matrem eam faceret in cuius utero fuit? hoc nomen non debet caro extranea: matris uterum non appellat nisi filia uteri caro; filia porro uteri non est, si sibi nata est.
  [4] tacebit igitur et Elisabeth, prophetam portans iam domini sui 
  conscium infantem et insuper spiritu sancto adimpleta: sine causa 
 enim dicit, Et unde mihi ut mater domini mei veniat ad me? si Maria non filium sed hospitem in utero gestabat Iesum, quomodo dicit, Benedictus fructus uteri tui? quis hic fructus uteri qui non ex utero germinavit, qui non in utero radicem egit, qui non eius 
@@ -511,7 +511,7 @@ signum quod contradicitur. signum enim nativitatis Christi secundum Esaiam: Prop
     carnis aut viri voluntate sed ex deo natus est, Hebioni respondit. aeque Etiamsi angelus de caelis aliter evangelizaverit vobis quam nos anathema sit, ad energema Apelleiacae virginis Philumenes [filium] dirigit.
      [3] certe Qui negat Christum in carne venisse hic antichristus est, nudam et absolutam et simplici nomine naturae 
  suae pronuntians carnem, omnes disceptatores eius ferit, sicut et definiens ipsum quoque Christum unum multiformis Christi argumentatores quatit, qui alium faciunt Christum alium Iesum, alium elapsum de mediis turbis alium detentum, alium in secessu montis in ambitu nubis sub tribus arbitris clarum alium ceteris 
- passivum, &lt;alium nobilem alium&gt; ignobilem, alium magnanimum alium vero trepidantem, novissime alium passum alium
+ passivum, <alium nobilem alium> ignobilem, alium magnanimum alium vero trepidantem, novissime alium passum alium
     resuscitatum, 
  per quod suam quoque in aliam carnem resurrectionem adseverant. [4] sed bene quod idem veniet de caelis qui est passus, idem omnibus apparebit qui est resuscitatus, et videbunt et 
  agnoscent qui eum confixerunt, utique ipsam carnem in quam saevierunt, sine qua nec ipse esse poterit nec agnosci: ut et illi erubescant qui adfirmant carnem in caelis vacuam sensu ut vaginam exempto Christo sedere, aut qui carnem et animam tantundem, aut tantummodo animam carnem vero non iam.

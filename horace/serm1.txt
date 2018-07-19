@@ -33,7 +33,7 @@ agricolam laudat iuris legumque peritus,
 sub galli cantum consultor ubi ostia pulsat;    10 
 ille, datis vadibus qui rure extractus in urbem est, 
 solos felicis viventis clamat in urbe. 
-cetera de genere hoc&#151;adeo sunt multa&#151;loquacem 
+cetera de genere hoc—adeo sunt multa—loquacem 
 delassare valent Fabium. ne te morer, audi, 
 quo rem deducam. si quis deus 'en ego' dicat    15 
 'iam faciam quod voltis: eris tu, qui modo miles, 
@@ -53,7 +53,7 @@ perfidus hic caupo, miles nautaeque, per omne
 audaces mare qui currunt, hac mente laborem    30 
 sese ferre, senes ut in otia tuta recedant, 
 aiunt, cum sibi sint congesta cibaria: sicut 
-parvola&#151;nam exemplo est&#151;magni formica laboris 
+parvola—nam exemplo est—magni formica laboris 
 ore trahit quodcumque potest atque addit acervo 
 quem struit, haud ignara ac non incauta futuri.    35 
 quae, simul inversum contristat Aquarius annum, 
@@ -89,7 +89,7 @@ sordidus ac dives, populi contemnere voces    65
 sic solitus: 'populus me sibilat, at mihi plaudo 
 ipse domi, simul ac nummos contemplor in arca.' 
 Tantalus a labris sitiens fugientia captat 
-flumina&#151;quid rides? mutato nomine de te 
+flumina—quid rides? mutato nomine de te 
 fabula narratur: congestis undique saccis    70 
 indormis inhians et tamquam parcere sacris 
 cogeris aut pictis tamquam gaudere tabellis. 
@@ -246,8 +246,8 @@ quae mala sunt, spectes. 'o crus, o bracchia.' verum
 depugis, nasuta, brevi latere ac pede longo est. 
 matronae praeter faciem nil cernere possis, 
 cetera, ni Catia est, demissa veste tegentis.    95 
- si interdicta petes, vallo circumdata&#151;nam te 
-hoc facit insanum&#151;, multae tibi tum officient res, 
+ si interdicta petes, vallo circumdata—nam te 
+hoc facit insanum—, multae tibi tum officient res, 
 custodes, lectica, ciniflones, parasitae, 
 ad talos stola demissa et circumdata palla, 
 plurima, quae invideant pure adparere tibi rem.    100 
@@ -586,7 +586,7 @@ conpressis agito labris; ubi quid datur oti,
 inludo chartis. hoc est mediocribus illis 
 ex vitiis unum; cui si concedere nolis,    140 
 multa poetarum veniat manus, auxilio quae 
-sit mihi&#151;nam multo plures sumus&#151;, ac veluti te 
+sit mihi—nam multo plures sumus—, ac veluti te 
 Iudaei cogemus in hanc concedere turbam.
  
 
@@ -765,8 +765,8 @@ ambitione procul. felicem dicere non hoc
 me possim, casu quod te sortitus amicum; 
 nulla etenim mihi te fors obtulit: optimus olim 
 Vergilius, post hunc Varius dixere, quid essem.    55 
-ut veni coram, singultim pauca locutus&#151; 
-infans namque pudor prohibebat plura profari&#151; 
+ut veni coram, singultim pauca locutus— 
+infans namque pudor prohibebat plura profari— 
 non ego me claro natum patre, non ego circum 
 me Satureiano vectari rura caballo, 
 sed quod eram narro. respondes, ut tuus est mos,    60 
@@ -811,7 +811,7 @@ iudicio volgi, sanus fortasse tuo, quod
 nollem onus haud umquam solitus portare molestum. 
 nam mihi continuo maior quaerenda foret res    100 
 atque salutandi plures, ducendus et unus 
-et comes alter, uti ne solus rusve peregre&lt;ve&gt; 
+et comes alter, uti ne solus rusve peregre<ve> 
 exirem, plures calones atque caballi 
 pascendi, ducenda petorrita. nunc mihi curto 
 ire licet mulo vel si libet usque Tarentum,    105 
@@ -859,7 +859,7 @@ durus homo atque odio qui posset vincere Regem,    5
 confidens, tumidus, adeo sermonis amari, 
 Sisennas, Barros ut equis praecurreret albis. 
 ad Regem redeo. postquam nihil inter utrumque 
-convenit&#151;hoc etenim sunt omnes iure molesti, 
+convenit—hoc etenim sunt omnes iure molesti, 
 quo fortes, quibus adversum bellum incidit: inter    10 
 Hectora Priamiden, animosum atque inter Achillem 
 ira fuit capitalis, ut ultima divideret mors, 
@@ -932,7 +932,7 @@ infernas errare canes Lunamque rubentem,    35
 ne foret his testis, post magna latere sepulcra. 
 mentior at siquid, merdis caput inquiner albis 
 corvorum atque in me veniat mictum atque cacatum 
-&Auml;Iulius et fragilis Pediatia furque Voranus. 
+ÄIulius et fragilis Pediatia furque Voranus. 
 singula quid memorem, quo pacto alterna loquentes    40 
 umbrae cum Sagana resonarint triste et acutum 
 utque lupi barbam variae cum dente colubrae 

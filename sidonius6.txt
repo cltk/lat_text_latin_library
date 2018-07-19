@@ -171,7 +171,7 @@ Sidonius domino papae Graeco salutem.
  
 
  
-1. Apicum oblator pauperem vitam sola mercandi actione sustentat; non illi est opificium quaestui, militia commodo, cultura compendio; &lt;ob&gt; hoc ipsum, quod mercennariis prosecutionibus et locaticia fatigatione cognoscitur, fama quidem sua sed facultas crescit aliena. sed tamen quoniam illi fides magna est, etsi parva substantia, quotiens cum pecuniis quorumpiam catapli recentis nundinas adit, creditoribus bene credulis sola deponit morum experimenta pro pignore.
+1. Apicum oblator pauperem vitam sola mercandi actione sustentat; non illi est opificium quaestui, militia commodo, cultura compendio; <ob> hoc ipsum, quod mercennariis prosecutionibus et locaticia fatigatione cognoscitur, fama quidem sua sed facultas crescit aliena. sed tamen quoniam illi fides magna est, etsi parva substantia, quotiens cum pecuniis quorumpiam catapli recentis nundinas adit, creditoribus bene credulis sola deponit morum experimenta pro pignore.
  
 
  

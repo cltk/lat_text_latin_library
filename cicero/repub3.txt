@@ -19,7 +19,7 @@ Cicero: de Re Publica III
  
 
  
-(3) et vehiculis tarditati, eademque cum accepisset homines inconditis vocibus inchoatum quiddam et confusum sonantes, incidit has et distinxit in partis, et ut signa quaedam sic verba rebus inpressit, hominesque antea dissociatos iucundissimo inter se sermonis vinculo conligavit. a simili etiam mente vocis qui videbantur infiniti soni paucis notis inventis sunt omnes signati et expressi, quibus et conloquia cum absentibus et indicia voluntatum et monumenta rerum praeteritarum tenerentur. accessit eo numerus, res cum ad vitam necessaria tum una inmutabilis et aeterna; quae prima inpulit etiam ut suspiceremus in caelum, nec frustra siderum motus intueremur, dinumerationibusque noctium ac die&lt;rum&gt;
+(3) et vehiculis tarditati, eademque cum accepisset homines inconditis vocibus inchoatum quiddam et confusum sonantes, incidit has et distinxit in partis, et ut signa quaedam sic verba rebus inpressit, hominesque antea dissociatos iucundissimo inter se sermonis vinculo conligavit. a simili etiam mente vocis qui videbantur infiniti soni paucis notis inventis sunt omnes signati et expressi, quibus et conloquia cum absentibus et indicia voluntatum et monumenta rerum praeteritarum tenerentur. accessit eo numerus, res cum ad vitam necessaria tum una inmutabilis et aeterna; quae prima inpulit etiam ut suspiceremus in caelum, nec frustra siderum motus intueremur, dinumerationibusque noctium ac die<rum>
  
 
  
@@ -47,7 +47,7 @@ cui nemo civis neque hostis Quibit pro factis reddere opis pretium.
  
 
  
-(7) fuisse sapientiam, tamen hoc in ratione utriusque generis interfuit, quod illi verbis et artibus aluerunt naturae principia, hi autem institutis et legibus. pluris vero haec tulit una civitas, si minus sapientis quoniam id nomen illi tam restricte tenent, at certe summa laude dignos, quoniam sapientium praecepta et inventa coluerunt. atque etiam, quot et sunt laudandae civitates et fuerunt&#151;quoniam id est in rerum natura longe maximi consili, constituere eam rem publicam quae possit esse diuturna&#151;, si singulos numeremus in singulas, quanta iam reperiatur virorum excellentium multitudo! quodsi aut Italiae Latium, aut eiusdem Sabinam aut Volscam gentem, si Samnium, si Etruriam, si magnam illam Graeciam conlustrare animo voluerimus, si deinde Assyrios, si Persas, si Poenos, ei haec
+(7) fuisse sapientiam, tamen hoc in ratione utriusque generis interfuit, quod illi verbis et artibus aluerunt naturae principia, hi autem institutis et legibus. pluris vero haec tulit una civitas, si minus sapientis quoniam id nomen illi tam restricte tenent, at certe summa laude dignos, quoniam sapientium praecepta et inventa coluerunt. atque etiam, quot et sunt laudandae civitates et fuerunt—quoniam id est in rerum natura longe maximi consili, constituere eam rem publicam quae possit esse diuturna—, si singulos numeremus in singulas, quanta iam reperiatur virorum excellentium multitudo! quodsi aut Italiae Latium, aut eiusdem Sabinam aut Volscam gentem, si Samnium, si Etruriam, si magnam illam Graeciam conlustrare animo voluerimus, si deinde Assyrios, si Persas, si Poenos, ei haec
  
 
  
@@ -63,7 +63,7 @@ cui nemo civis neque hostis Quibit pro factis reddere opis pretium.
  
 
  
-(12) (PHIL) 'et reperiret et tueretur, alter autem de ipsa iustitia quattuor implevit sane grandis libros. nam ab Chrysippo nihil magnum nec magnificum desideravi, qui suo quodam more loquitur, ut omnia verborum momentis, non rerum ponderibus examinet. illorum fuit heroum, eam virtutem, quae est una, si modo est, maxime munifica et liberalis, et quae omnis magis quam sepse diligit, aliis nata potius quam siti, excitare iacentem et in illo divino solio non longe a sapientia conlocare. (13) nec vero illis aut voluntas defuit&#151;quae enim iis scribendi alia causa aut quod omnino consilium fuit?&#151;aut ingenium, quo omnibus praestiterunt; sed eorum et voluntatem et copiam causa vicit. ius enim de quo quaerimus civile est aliquod, naturale nullum; nam si esset, ut calida et frigida et amara et dulcia, sic essent iusta et iniusta eadem omnibus. 
+(12) (PHIL) 'et reperiret et tueretur, alter autem de ipsa iustitia quattuor implevit sane grandis libros. nam ab Chrysippo nihil magnum nec magnificum desideravi, qui suo quodam more loquitur, ut omnia verborum momentis, non rerum ponderibus examinet. illorum fuit heroum, eam virtutem, quae est una, si modo est, maxime munifica et liberalis, et quae omnis magis quam sepse diligit, aliis nata potius quam siti, excitare iacentem et in illo divino solio non longe a sapientia conlocare. (13) nec vero illis aut voluntas defuit—quae enim iis scribendi alia causa aut quod omnino consilium fuit?—aut ingenium, quo omnibus praestiterunt; sed eorum et voluntatem et copiam causa vicit. ius enim de quo quaerimus civile est aliquod, naturale nullum; nam si esset, ut calida et frigida et amara et dulcia, sic essent iusta et iniusta eadem omnibus. 
  
 
  
@@ -95,7 +95,7 @@ cui nemo civis neque hostis Quibit pro factis reddere opis pretium.
  
 
  
-(24) (PHIL) 'omni mementote. sapientia iubet augere opes, amplificare divitias, proferre fines&#151;unde enim esset illa laus in summorum imperatorum incisa monumentis 'finis imperii propagavit', nisi aliquid de alieno accessisset?&#151; imperare quam plurimis, frui voluptatibus, pollere regnare dominari; iustitia autem praecipit parcere omnibus, consulere generi hominum, suum cuique reddere, sacra publica aliena non tangere. quid igitur efficitur si sapientiae pareas? divitiae, potestates, opes, honores, imperia, regna vel privatis vel populis. sed quoniam de re publica loquimur, sunt&lt;que&gt; inlustriora quae publice fiunt, quoniamque eadem est ratio iuris in utroque, de populi sapientia dicendum puto, et &lt;ut&gt; iam omittam alios: noster hic populus, quem Africanus hesterno sermone a stirpe repetivit, cuius imperio iam orbis terrae tenetur, iustitia an sapientia est e minimo omnium &lt;maximus factus?&gt;
+(24) (PHIL) 'omni mementote. sapientia iubet augere opes, amplificare divitias, proferre fines—unde enim esset illa laus in summorum imperatorum incisa monumentis 'finis imperii propagavit', nisi aliquid de alieno accessisset?— imperare quam plurimis, frui voluptatibus, pollere regnare dominari; iustitia autem praecipit parcere omnibus, consulere generi hominum, suum cuique reddere, sacra publica aliena non tangere. quid igitur efficitur si sapientiae pareas? divitiae, potestates, opes, honores, imperia, regna vel privatis vel populis. sed quoniam de re publica loquimur, sunt<que> inlustriora quae publice fiunt, quoniamque eadem est ratio iuris in utroque, de populi sapientia dicendum puto, et <ut> iam omittam alios: noster hic populus, quem Africanus hesterno sermone a stirpe repetivit, cuius imperio iam orbis terrae tenetur, iustitia an sapientia est e minimo omnium <maximus factus?>
  
 
  
@@ -115,7 +115,7 @@ cui nemo civis neque hostis Quibit pro factis reddere opis pretium.
  
 
  
-(27) (PHIL) 'Quaero: si duo sint, quorum alter optimus vir aequissimus, summa iustitia, singulari fide, alter insigni scelere et audacia, et si in eo sit errore civitas, ut bonum illum virum sceleratum, facinerosum, nefarium putet, contra autem &lt;eum&gt; qui sit inprobissimus existimet esse summa probitate ac fide, proque hac opinione omnium civium bonus ille vir vexetur, rapiatur, manus ei denique auferantur, effodiantur oculi, damnetur, vinciatur, uratur, exterminetur, egeat, postremo iure etiam optimo omnibus miserrimus esse videatur, contra autem ille improbus laudetur, colatur, ab omnibus diligatur, omnes ad eum honores, omnia imperia, omnes opes omnes undique copiae conferantur, vir denique optimus omnium existimatione et dignissimus omni fortuna optima iudicetur: quis tandem erit tam demens qui dubitet utrum se esse malit? 
+(27) (PHIL) 'Quaero: si duo sint, quorum alter optimus vir aequissimus, summa iustitia, singulari fide, alter insigni scelere et audacia, et si in eo sit errore civitas, ut bonum illum virum sceleratum, facinerosum, nefarium putet, contra autem <eum> qui sit inprobissimus existimet esse summa probitate ac fide, proque hac opinione omnium civium bonus ille vir vexetur, rapiatur, manus ei denique auferantur, effodiantur oculi, damnetur, vinciatur, uratur, exterminetur, egeat, postremo iure etiam optimo omnibus miserrimus esse videatur, contra autem ille improbus laudetur, colatur, ab omnibus diligatur, omnes ad eum honores, omnia imperia, omnes opes omnes undique copiae conferantur, vir denique optimus omnium existimatione et dignissimus omni fortuna optima iudicetur: quis tandem erit tam demens qui dubitet utrum se esse malit? 
  
 
  
@@ -131,7 +131,7 @@ cui nemo civis neque hostis Quibit pro factis reddere opis pretium.
  
 
  
-(42) Quae cum dixisset Laelius, etsi omnes qui aderant significabant ab eo se esse admodum delectatos, tamen praeter ceteros Scipio quasi quodam gaudio elatus: 'multas tu quidem' inquit 'Laeli saepe causas ita defendisti, ut ego non modo tecum Servium Galbam collegam nostrum, quem tu quoad vixit omnibus anteponebas, verum ne Atticorum quidem oratorum quemquam aut sua&lt;vitate&gt;
+(42) Quae cum dixisset Laelius, etsi omnes qui aderant significabant ab eo se esse admodum delectatos, tamen praeter ceteros Scipio quasi quodam gaudio elatus: 'multas tu quidem' inquit 'Laeli saepe causas ita defendisti, ut ego non modo tecum Servium Galbam collegam nostrum, quem tu quoad vixit omnibus anteponebas, verum ne Atticorum quidem oratorum quemquam aut sua<vitate>
  
 
  
@@ -159,7 +159,7 @@ cui nemo civis neque hostis Quibit pro factis reddere opis pretium.
  
 
  
-(47) Ad hunc Scipio 'adgnosco', inquit, 'tuum morem istum Spuri aversum a ratione populari; et quamquam potest id lenius ferri quam tu soles ferre, tamen adsentior nullum esse de tribus his generibus quod sit probandum minus. illud tamen non adsentior iusto praestare regi optimates; si enim sapientia est quae gubernet rem publicam, quid tandem interest, haec in unone sit an in pluribus? sed errore quodam fallimur ita disputando; cum enim optumates appellantur, nihil potest videri praestabilius; quid enim optumo melius cogitari potest? cum autem regis est facta mentio, occurrit animis rex etiam iniustus. nos autem de iniusto is rege nihil loquimur nunc, cum de ipsa regali re publica quaerimus. quare cogitato Romulum aut Pompilium aut Tullium regem: fortasse non tam illius te rei publicae paenitebit.' (48) (Mummius) 'quam igitur relinquis populari rei publicae laudem?' tum ille (Scipio) 'quid? tibi tandem Spuri Rhodiorum, apud quos nuper fuimus una, nullane videtur esse res publica?' (Mummius) 'mihi vero videtur, et minime quidem vituperanda.' (Scipio) 'recte dicis; sed si meministi, omnes erant idem tum de plebe tum senatores, vicissitudinesque habebant quibus mensibus populari munere fungerentur, quibus senatorio; utrubique autem conventicium accipiebant, et in theatro et in curia res capitalis et reliquas omnis iudicabant idem; tantum poterat tantique erat quanti multitudo &lt;senatus&gt;'
+(47) Ad hunc Scipio 'adgnosco', inquit, 'tuum morem istum Spuri aversum a ratione populari; et quamquam potest id lenius ferri quam tu soles ferre, tamen adsentior nullum esse de tribus his generibus quod sit probandum minus. illud tamen non adsentior iusto praestare regi optimates; si enim sapientia est quae gubernet rem publicam, quid tandem interest, haec in unone sit an in pluribus? sed errore quodam fallimur ita disputando; cum enim optumates appellantur, nihil potest videri praestabilius; quid enim optumo melius cogitari potest? cum autem regis est facta mentio, occurrit animis rex etiam iniustus. nos autem de iniusto is rege nihil loquimur nunc, cum de ipsa regali re publica quaerimus. quare cogitato Romulum aut Pompilium aut Tullium regem: fortasse non tam illius te rei publicae paenitebit.' (48) (Mummius) 'quam igitur relinquis populari rei publicae laudem?' tum ille (Scipio) 'quid? tibi tandem Spuri Rhodiorum, apud quos nuper fuimus una, nullane videtur esse res publica?' (Mummius) 'mihi vero videtur, et minime quidem vituperanda.' (Scipio) 'recte dicis; sed si meministi, omnes erant idem tum de plebe tum senatores, vicissitudinesque habebant quibus mensibus populari munere fungerentur, quibus senatorio; utrubique autem conventicium accipiebant, et in theatro et in curia res capitalis et reliquas omnis iudicabant idem; tantum poterat tantique erat quanti multitudo <senatus>'
  
  
 	 

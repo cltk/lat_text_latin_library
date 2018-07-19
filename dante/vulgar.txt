@@ -91,7 +91,7 @@ est intentio pertractare.
 
  
 1. Hec est nostra vera prima
-locutio. Non dico autem &#145;nostra&#146; ut et aliam sit esse
+locutio. Non dico autem ‘nostra’ ut et aliam sit esse
 locutionem quam hominis: nam eorum que sunt omnium soli homini
 datum est loqui, cum solum sibi necessarium fuerit.
  
@@ -153,7 +153,7 @@ Et si dicatur quod pice adhuc et alie aves locuntur, dicimus quod
 falsum est, quia talis actus locutio non est, sed quedam imitatio
 soni nostre vocis; vel quod nituntur imitari nos in quantum
 sonamus, sed non in quantum loquimur. Unde si expresse dicenti
-&#145;pica&#146; resonaret etiam &#145;pica&#146;, non esset hec
+‘pica’ resonaret etiam ‘pica’, non esset hec
 nisi representatio vel imitatio soni illius qui prius dixisset.
  
 
@@ -214,10 +214,10 @@ nec non et sub quo ydiomate primiloquium emanavit.
 principio Genesis loquitur, ubi de primordio mundi Sacratissima
 Scriptura pertractat, mulierem invenitur ante omnes fuisse
 locutam, scilicet presumptuosissimam Evam, cum dyabolo
-sciscitanti respondit: &#145;De fructu lignorum que sunt in
+sciscitanti respondit: ‘De fructu lignorum que sunt in
 paradiso vescimur; de fructu vero ligni quod est in medio
 paradisi precepit nobis Deus ne comederemus nec tangeremus, ne
-forte moriamur&#146;. 
+forte moriamur’. 
  
 
  
@@ -232,16 +232,16 @@ fuisse loqui ab Eo qui statim ipsum plasmaverat.
  
 4. Quid autem prius vox primi
 loquentis sonaverit, viro sane mentis in promptu esse non titubo
-ipsum fuisse quod &#145;Deus&#146; est, scilicet El , vel
+ipsum fuisse quod ‘Deus’ est, scilicet El , vel
 per modum interrogationis vel per modum responsionis. Absurdum
 atque rationi videtur orrificum ante Deum ab homine quicquam
 nominatum fuisse, cum ab ipso et in ipsum factus fuisset homo.
 Nam sicut post prevaricationem humani generis quilibet exordium
-sue locutionis incipit ab &#145;heu&#146;, rationabile est quod
+sue locutionis incipit ab ‘heu’, rationabile est quod
 ante qui fuit inciperet a gaudio; et cum nullum gaudium sit extra
 Deum, sed totum in Deo, et ipse Deus totus sit gaudium,
 consequens est quod primus loquens primo et ante omnia dixisset
-&#145;Deus&#146;.
+‘Deus’.
  
 
  
@@ -350,7 +350,7 @@ delectabiliori atque utiliori sermone uti quam Latinos.
  
 4. Redeuntes igitur ad
 propositum, dicimus certam formam locutionis a Deo cum anima
-prima concreatam fuisse. Dico autem &#145;formam&#146; et quantum
+prima concreatam fuisse. Dico autem ‘formam’ et quantum
 ad rerum vocabula et quantum ad vocabulorum constructionem et
 quantum ad constructionis prolationem: qua quidem forma omnis
 lingua loquentium uteretur, nisi culpa presumptionis humane
@@ -360,8 +360,8 @@ dissipata fuisset, ut inferius ostendetur.
  
 5. Hac forma locutionis locutus
 est Adam; hac forma locutionis locuti sunt omnes posteri eius
-usque ad edificationem turris Babel, que &#145;turris
-confusionis&#146; interpretatur; hanc formam locutionis
+usque ad edificationem turris Babel, que ‘turris
+confusionis’ interpretatur; hanc formam locutionis
 hereditati sunt filii Heber, qui ab eo dicti sunt Hebrei. 
  
 
@@ -396,8 +396,8 @@ eluminata, delitiarum exulabas a patria? Num satis quod, per
 universalem familie tue luxuriem et trucitatem, unica riservata
 domo, quicquid tui iuris erat cataclismo perierat, et [que]
 commiseras tu animalia celi terreque iam luerant? Quippe satis
-extiterat. Sed, sicut proverbialiter dici solet &#145;Non ante
-tertium equitabis&#146;, misera miserum venire maluisti ad equum.
+extiterat. Sed, sicut proverbialiter dici solet ‘Non ante
+tertium equitabis’, misera miserum venire maluisti ad equum.
 
  
 
@@ -413,7 +413,7 @@ per superbam stultitiam presumendo.
 incurabilis homo, sub persuasione gigantis Nembroth, arte sua non
 solum superare naturam, sed etiam ipsum naturantem, qui Deus est,
 et cepit edificare turrim in Sennaar, que postea dicta est Babel,
-hoc est &#145;confusio&#146;, per quam celum sperabat ascendere,
+hoc est ‘confusio’, per quam celum sperabat ascendere,
 intendens inscius non equare, sed suum superare Factorem. 
  
 
@@ -556,7 +556,7 @@ confusioni repugnat, que ruit celitus in edificatione Babel.
  
 3. Trilingues ergo doctores in
 multis conveniunt, et maxime in hoc vocabulo quod est
-&#145;amor&#146;. Gerardus de Brunel:
+‘amor’. Gerardus de Brunel:
 
  Si-m sentis
 fezelz amics, 
@@ -610,7 +610,7 @@ locorum temporumque distantias variari oportet.
 
  
 7. Nec dubitandum reor modo in
-eo quod diximus &#145;temporum&#146;, sed potius opinamur
+eo quod diximus ‘temporum’, sed potius opinamur
 tenendum: nam si alia nostra opera perscrutemur, multo magis
 discrepare videmur a vetustissimis concivibus nostris quam a
 coetaneis perlonginquis. Quapropter audacter testamur quod si
@@ -667,7 +667,7 @@ nostro ydiomate, ut superius dictum est, in comparatione sui
 ipsius, secundum quod trisonum factum est, cum tanta timiditate
 cunctamur librantes quod hanc vel istam vel illam partem in
 comparando preponere non audemus, nisi eo quo gramatice positores
-inveniuntur accepisse &#145;sic&#146; adverbium affirmandi: quod
+inveniuntur accepisse ‘sic’ adverbium affirmandi: quod
 quandam anterioritatem erogare videtur Ytalis, qui sœ 
 dicunt.
  
@@ -863,8 +863,8 @@ permutare valebunt.
 5. Racha, racha. Quid nunc
 personat tuba novissimi Frederici, quid tintinabulum secundi
 Karoli, quid cornua lohannis et Azonis marchionum potentum, quid
-aliorum magnatum tibie, nisi &#145;Venite carnifices, venite
-altriplices, venite avaritie sectatores&#146;?
+aliorum magnatum tibie, nisi ‘Venite carnifices, venite
+altriplices, venite avaritie sectatores’?
  
 
  
@@ -1053,8 +1053,8 @@ Paduanos, turpiter sincopantes omnia in -tus participia et
 denominativa in -tas , ut merc⁄ et bontÀ .
 Cum quibus et Trivisianos adducimus, qui more Brixianorum et
 finitimorum suorum u consonantem per f apocopando
-proferunt, puta nof pro &#145;novem&#146; et vif 
-pro &#145;vivo&#146;: quod quidem barbarissimum reprobamus.
+proferunt, puta nof pro ‘novem’ et vif 
+pro ‘vivo’: quod quidem barbarissimum reprobamus.
  
 
  
@@ -1113,7 +1113,7 @@ Ferrarensium, Mutinensium vel Regianorum nullum invenimus
 poetasse: nam proprie garrulitati assuefacti nullo modo possunt
 ad vulgare aulicum sine quadam acerbitate venire. Quod multo
 magis de Parmensibus est putandum, qui monto pro
-&#145;multo&#146; dicunt.
+‘multo’ dicunt.
  
 
  

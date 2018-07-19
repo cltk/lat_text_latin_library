@@ -41,7 +41,7 @@ denotatis. Equidem haud miror prae documento superiore. Nam et arietem (non quem
 et lanicutem et testitrahum, sed trabes machina est, quae muros frangere militat)
 nemini unquam adhuc libratum illa dicitur Carthago, studiis asperrima belli, prima
 omnium armasse in oscillum penduli impetus, commentata uim tormenti de bile pecoris capite
-&lt;se&gt; uindicantis. Cum tamen ultimant tempora patriae et aries iam Romanus in muros
+<se> uindicantis. Cum tamen ultimant tempora patriae et aries iam Romanus in muros
 quondam suos audet, stupuere illico Carthaginienses ut nouum extraneum ingenium:
 
  
@@ -79,7 +79,7 @@ decurrendo, et fontium uenae cauillando et fluminum uiae obhumando?
 maris conchae et buccinae peregrinantur in montibus, cupientes Platoni probare etiam ardua
 fluitasse. Sed et enatando rursus in forma mutauit rursus orbis, alius idem. Mutat et nunc
 localiter habitus, cum situs laeditur, cum inter insulas nulla iam Delos, harenae Samos,
-et Sibylla non mendax, cum &lt;terra&gt; in Atlantico Libyam aut Asiam adaequans iam
+et Sibylla non mendax, cum <terra> in Atlantico Libyam aut Asiam adaequans iam
 quaeritur, cum Italiae quondam latus Hadria Tyrrhenoque quassantibus mediotenus
 interceptum reliquias Siciliam facit, cum tota illa plaga discidii contentiosos aequorum
 coitus angustis retorquens nouum uitii maris imbuit, non exspuentis maufragia sed
@@ -269,7 +269,7 @@ extinxit. Non erat satis animi tumens Macedo, ni illum etiam uestis inflatior de
 cur non et in baxa? Tyrium calciari nisi auro minime Graecatum decet. Atquiri alius et
 sericatus et crepidam aeratus incessit. Digne quidem, ut bacchantibus indumentis aliquid
 subtinniret, cymbalo incessit. Quod si iam tunc locorum Diogenes de dolio latraret, non
-caenulentis pedibus, ut tori Platonici sciunt, &lt;inculcasset&gt;, sed omnino totum
+caenulentis pedibus, ut tori Platonici sciunt, <inculcasset>, sed omnino totum
 Empedoclem in adyta Cloacinarum detulisset, ut qui se caelitem delirarat, sorores prius
 suas, dehinc homines deus salutaret.
 
@@ -304,7 +304,7 @@ priuilegium galeri Cereri initiantur; cum ob diuersam affectionem tenebricae ues
 tetrici super caput uelleris in Bellonae montes fugantur; cum latioris purpurae ambitio
 et Galatici ruboris superiectio Saturnum commendat. Cum ipsum hoc pallium morosius
 ordinatum et crepidae Graecatim Aesculapio adulantur, quanto tunc magis arguas illud et
-urgeas oculis, et&lt;si&gt; iam simplicis et inaffectatae, tamen superstitionis reum?
+urgeas oculis, et<si> iam simplicis et inaffectatae, tamen superstitionis reum?
 Enimuero cum hanc primum sapientiam uestit, quae uanissimis superstitionibus renuit, tunc
 certissime pallium super omnes exuuias et peplos augusta uestis superque omnes apices et
 titulos sacerdos suggestus. Deduc oculos, suadeo, reuerere habitum, unius interim. erroris

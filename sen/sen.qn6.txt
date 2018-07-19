@@ -122,7 +122,7 @@ promittit melioribus fundamentis hoc aut illud solum stare?
  
 [1,11] Omnia eiusdem sortis sunt et, si nondum mota, tamen 
 mobilia: hunc fortasse in quo securius consistitis locum haec nox 
-aut hic ante noctem dies scindet. Unde scis an &lt;non&gt; melior eorum 
+aut hic ante noctem dies scindet. Unde scis an <non> melior eorum 
 locorum condicio sit in quibus iam uires suas fortuna 
 consumpsit et quae in futurum ruina sua fulta sunt?
  
@@ -224,7 +224,7 @@ se mali habeant quam uulgaris mors, ut contra, cum sit necessarium
 e uita exire et aliquando emittere animam, maiore perire 
 ratione iuuet. Necesse est mori ubicumque, quandoque: stet licet 
 ista humus et se teneat suis finibus nec ulla iactetur iniuria, 
-supra me quandoque erit. &lt;Quid&gt; interest, ego illam mihi an 
+supra me quandoque erit. <Quid> interest, ego illam mihi an 
 ipsa se mihi imponat?
  
 
@@ -302,7 +302,7 @@ usui, quam quod hominem magnificentia sui detinet nec mercede
 sed miraculo colitur. Inspiciamus ergo quid sit propter quod 
 haec accidant: quorum adeo est mihi dulcis inspectio ut, quamuis 
 aliquando de motu terrarum uolumen iuuenis ediderim, 
-tamen temptare me uoluerim et experiri, &lt;si&gt; aetas aliquid nobis 
+tamen temptare me uoluerim et experiri, <si> aetas aliquid nobis 
 aut ad scientiam aut certe ad diligentiam adiecerit.
  
 
@@ -356,7 +356,7 @@ solito magis surgit).
  
 [6,3] Hanc opinionem falsam esse non est 
 diu colligendum: nam si terra aqua sustineretur, et ea aliquando 
-concuteretur &lt;et&gt; semper moueretur, nec agitari illam miraremur 
+concuteretur <et> semper moueretur, nec agitari illam miraremur 
 sed manere; deinde tota concuteretur, non ex parte (numquam 
 enim nauis dimidia iactatur); nunc uero terrarum non 
 uniuersarum sed ex parte motus est: quomodo ergo fieri potest 
@@ -563,7 +563,7 @@ superiores dies caelo aer stetit.
 
  
 [12,3] Quid ergo? Numquam flante 
-uento terra concussa est? Admodum raro; duo &lt;si&gt; simul 
+uento terra concussa est? Admodum raro; duo <si> simul 
 flauere uenti fieri; tamen et potest et solet. Quod si recipimus et 
 constat duos uentos rem simul gerere, quidni accidere possit ut 
 alter superiorem aera agitet, alter infernum?
@@ -596,7 +596,7 @@ utrumque in contrarium agi ex hoc tibi appareat:
 specus atque omnes sub terra recessus, quia illo se calor contulit 
 superiora possidenti frigori cedens; qui, cum in inferiora peruenit 
 et eo se quantum poterat ingessit, quo densior, hoc ualidior 
-est. Frigori cal&lt;idi&gt; uis superuenit, cui necessario congregatus ille 
+est. Frigori cal<idi> uis superuenit, cui necessario congregatus ille 
 iam et in angustum pressus loco cedit.
  
 
@@ -949,7 +949,7 @@ oneri ferendo:
  
 [22,4] tunc saxa uasti ponderis decidunt; tunc illa 
 praecipitata rupes quicquid ab imo repercussit non passura 
-consistere "&lt;cum&gt; sonitu uenit, et ruere omnia uisa repente", ut 
+consistere "<cum> sonitu uenit, et ruere omnia uisa repente", ut 
 ait Uergilius noster.
  
 
@@ -1262,7 +1262,7 @@ ad caput in partes duas statuam?
 [31,1] Quare tamen per plures dies motus fuit? Non desiit 
 enim assidue tremere Campania, clementius quidem sed cum 
 ingenti damno, quia quassa quatiebat, quibus ad cadendum male 
-stantibus &lt;opus&gt; non erat impelli sed agitari: nondum uidelicet 
+stantibus <opus> non erat impelli sed agitari: nondum uidelicet 
 spiritus omnis exierat, sed adhuc, emissa sui parte maiore, 
 oberrabat. Inter argumenta quibus probatur spiritu ista fieri, non est 
 quod dubites et hoc ponere:
@@ -1271,7 +1271,7 @@ quod dubites et hoc ponere:
  
 [31,2] cum maximus editus tremor est, 
 quo in urbes terrasque saeuitum est, non potest par illi subsequi 
-alius, sed post maximum lenes motus sunt, quia iam uehement&lt;ior&gt; 
+alius, sed post maximum lenes motus sunt, quia iam uehement<ior> 
 uis exitum uentis luctantibus fecit; reliquiae deinde residui 
 spiritus non idem possunt, nec illis pugna opus est, cum iam 
 uiam inuenerint sequanturque ea qua prima uis ac maxima euasit.

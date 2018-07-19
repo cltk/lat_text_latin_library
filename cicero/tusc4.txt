@@ -243,18 +243,18 @@ accepimus de Timone qui misa/nqrwpoj appellatur, ut inhospitalitas est: quae omn
  XII . Atque ut ad valetudinis 
 similitudinem veniamus eaque conlatione utamur aliquando, sed parcius quam 
 solent Stoici: ut sunt alii ad alios morbos procliviores - itaque dicimus 
-gravidinosos quosdam, &lt;quosdam&gt; torminosos, non quia iam sint, sed 
-quia saepe sint - &lt;sic&gt; alii ad metum, alii ad aliam perturbationem; 
+gravidinosos quosdam, <quosdam> torminosos, non quia iam sint, sed 
+quia saepe sint - <sic> alii ad metum, alii ad aliam perturbationem; 
 ex quo in aliis anxietas, unde anxii, in aliis iracundia dicitur. Quae ab ira 
 differt, estque aliud iracundum esse, aliud iratum, ut differt anxietas ab 
 angore (neque enim omnes anxii, qui anguntur aliquando, nec, qui anxii, semper 
-anguntur), ut inter ebrietatem &lt;et ebriositatem&gt; interest, aliudque est amatorem esse, aliud amantem. Atque haec aliorum ad alios morbos proclivitas late patet; nam pertinet ad omnes perturbationes;
+anguntur), ut inter ebrietatem <et ebriositatem> interest, aliudque est amatorem esse, aliud amantem. Atque haec aliorum ad alios morbos proclivitas late patet; nam pertinet ad omnes perturbationes;
  
 
  
 [ 28 ] in multis etiam vitiis apparet, sed nomen res non 
 habet. Ergo et invidi et malivoli [et lividi] et timidi et misericordes, quia 
-proclives ad eas perturbationes &lt;sunt&gt;, non quia semper feruntur. Haec igitur proclivitas ad suum quodque genus a similitudine corporis aegrotatio dicatur, dum ea intellegatur ad aegrotandum proclivitas. Sed haec in bonis rebus, quod alii ad alia bona sunt aptiores, f a c i l i t a s nominetur, in malis p r o c l i v i t a s, ut significet lapsionem, in neutris habeat superius nomen.
+proclives ad eas perturbationes <sunt>, non quia semper feruntur. Haec igitur proclivitas ad suum quodque genus a similitudine corporis aegrotatio dicatur, dum ea intellegatur ad aegrotandum proclivitas. Sed haec in bonis rebus, quod alii ad alia bona sunt aptiores, f a c i l i t a s nominetur, in malis p r o c l i v i t a s, ut significet lapsionem, in neutris habeat superius nomen.
  
 
  
@@ -270,7 +270,7 @@ proclives ad eas perturbationes &lt;sunt&gt;, non quia semper feruntur. Haec igi
 perturbationes autem moventes, ut non possint adfectionum manentium partes 
 esse. Atque ut in malis attingit animi naturam corporis similitudo, sic in 
 bonis. Sunt enim in corpore praecipua, pulchritudo, vires valetudo, firmitas, 
-velocitas, sunt item in animo. &lt;Ut&gt; enim corporis temperatio, cum ea congruunt inter se e quibus constamus, sanitas, sic animi dicitur, cum eius iudicia opinionesque concordant, eaque animi est virtus, quam alii ipsam temperantiam dicunt esse, alii obtemperantem temperantiae praeceptis et eam subsequentem nec habentem ullam speciem suam, sed sive hoc sive illud sit, in solo esse sapiente. Est autem quaedam animi sanitas, quae in insipientem etiam cadat, cum curatione [et perturbatione] medicorum conturbatio mentis aufertur.
+velocitas, sunt item in animo. <Ut> enim corporis temperatio, cum ea congruunt inter se e quibus constamus, sanitas, sic animi dicitur, cum eius iudicia opinionesque concordant, eaque animi est virtus, quam alii ipsam temperantiam dicunt esse, alii obtemperantem temperantiae praeceptis et eam subsequentem nec habentem ullam speciem suam, sed sive hoc sive illud sit, in solo esse sapiente. Est autem quaedam animi sanitas, quae in insipientem etiam cadat, cum curatione [et perturbatione] medicorum conturbatio mentis aufertur.
  
 
  
@@ -412,7 +412,7 @@ licet, cui nihil est necesse nisi, ubi sit illud, quod veri simillimum videatur,
 anquirere. Quid est igitur quod occurrat in hac quaestione, e quo possit attingi 
 aliquid veri simile, quo longius mens humana progredi non potest? Definitio 
 perturbationis, qua recte Zenonem usum puto; ita enim definit, ut perturbatio 
-sit aversa &lt;a&gt; ratione contra naturam 
+sit aversa <a> ratione contra naturam 
 animi commotio, vel brevius, ut perturbatio sit adpetitus vehementior, 
 vehementior autem intellegatur is qui procul absit a naturae constantia.
 
@@ -478,7 +478,7 @@ senties. Sic iracundus non semper iratus est; lacesse: iam videbis furentem. Qui
 
  
  XXV . [ 55 ] Oratorem vero irasci minime 
-decet, simulare non &lt;de&gt;decet. An tibi irasci tum videmur, cum quid 
+decet, simulare non <de>decet. An tibi irasci tum videmur, cum quid 
 in causis acrius et vehementius dicimus? Quid? cum iam rebus transactis et 
 praeteritis orationes scribimus, num irati scribimus?
  
@@ -524,11 +524,11 @@ imitetur, humana omnia inferiore virtute ducat. In hanc tu igitur tamquam in
 mare, quod est ventis subiectum perturbationem cadere tibi dixisti videri? Quid 
 est quod tantam gravitatem constantiamque perturbet? an improvisum aliquid aut 
 repentinum? Quid potest accidere tale ei, cui nihil, quod homini evenire possit, 
-&lt;non praemeditatum sit&gt;? Nam quod aiunt nimia resecari oportere, naturale relinqui, quid tandem potest esse naturale, quod idem nimium esse possit? Sunt enim omnia ista ex errorum orta radicibus, quae evellenda et extrahenda penitus, non circumcidenda nec amputanda sunt.
+<non praemeditatum sit>? Nam quod aiunt nimia resecari oportere, naturale relinqui, quid tandem potest esse naturale, quod idem nimium esse possit? Sunt enim omnia ista ex errorum orta radicibus, quae evellenda et extrahenda penitus, non circumcidenda nec amputanda sunt.
  
 
  
- XXVII . [ 58 ] Sed quoniam suspicor te non tam de sapiente quam de te ipso quaerere - illum enim putas omni perturbatione esse liberum, te vis -, videamus, quanta sint quae &lt;a&gt; philosophia remedia morbis animorum adhibeantur. Est enim quaedam medicina certe, nec tam fuit hominum generi infensa atque inimica natura, ut corporibus tot res salutaris, animis nullam invenerit; de quibus hoc etiam est merita melius, quod corporum adiumenta adhibentur extrinsecus, animorum salus inclusa in is ipsis est. Sed quo maior est in eis praestantia et divinior, eo maiore indigent diligentia. Itaque bene adhibita ratio cernit, quid optumum sit, neglecta multis implicatur erroribus.
+ XXVII . [ 58 ] Sed quoniam suspicor te non tam de sapiente quam de te ipso quaerere - illum enim putas omni perturbatione esse liberum, te vis -, videamus, quanta sint quae <a> philosophia remedia morbis animorum adhibeantur. Est enim quaedam medicina certe, nec tam fuit hominum generi infensa atque inimica natura, ut corporibus tot res salutaris, animis nullam invenerit; de quibus hoc etiam est merita melius, quod corporum adiumenta adhibentur extrinsecus, animorum salus inclusa in is ipsis est. Sed quo maior est in eis praestantia et divinior, eo maiore indigent diligentia. Itaque bene adhibita ratio cernit, quid optumum sit, neglecta multis implicatur erroribus.
 
  
 
@@ -737,7 +737,7 @@ et dicat.
  
 
  
-[ 75 ] etiam novo quidam amore veterem amorem tamquam clavo clavum eiciendum putant; maxume autem, admonendus &lt;est&gt;, quantus sit furor amoris. Omnibus, enim ex animi perturbationibus est profecto nulla vehementior, ut, si iam ipsa illa accusare nolis, stupra dico et corruptelas et adulteria, incesta denique, quorum omnium accusabilis est turpitudo, - sed ut haec omittas, perturbatio ipsa mentis in amore foeda per se est.
+[ 75 ] etiam novo quidam amore veterem amorem tamquam clavo clavum eiciendum putant; maxume autem, admonendus <est>, quantus sit furor amoris. Omnibus, enim ex animi perturbationibus est profecto nulla vehementior, ut, si iam ipsa illa accusare nolis, stupra dico et corruptelas et adulteria, incesta denique, quorum omnium accusabilis est turpitudo, - sed ut haec omittas, perturbatio ipsa mentis in amore foeda per se est.
  
 
  

@@ -87,7 +87,7 @@ At plerique sunt, qui beneficia asperitate uerborum
 et supercilio in odium adducunt eo sermone usi, ea
 superbia, ut inpetrasse paeniteat. Aliae deinde post
 rem promissam secuntur morae; nihil autem est acerbius,
-quam ubi quoque, &lt;quod&gt; inpetrasti, rogandum est.
+quam ubi quoque, <quod> inpetrasti, rogandum est.
 Repraesentanda sunt beneficia, quae a quibusdam accipere
 difficilius est quam inpetrare. Hic rogandus est,
 ut admoneat, ille, ut consummet; sic unum munus per
@@ -146,7 +146,7 @@ celeritas adiecit, multum abstulit mora. Sicut in telis
 eadem ferri uis est, sed infinitum interest, utrum excusso
 lacerto torqueantur an remissa manu effluant,
 gladius idem et stringit et transforat, quam presso
-articulo uenerit, refert, &lt;ita&gt; idem est, quod datur, sed
+articulo uenerit, refert, <ita> idem est, quod datur, sed
 interest, quomodo detur. Quam dulce, quam pretiosum
 est, si gratias sibi agi non est passus, qui dedit, si
 dedisse, dum dat, oblitus est! Nam corripere eum, cui
@@ -356,7 +356,7 @@ adulterae sciam, nec in societate turpis facti
 aut consilii inueniar; si potero, reuocabo, si minus,
 non adiuuabo scelus. Siue illum ira, quo non debebit,
 inpellet, siue ambitionis calor abducet a tutis, in nullum
-malum uires a &lt;me&gt; sumere ipsas patiar nec conmittam,
+malum uires a <me> sumere ipsas patiar nec conmittam,
 ut possit quandoque dicere: 'Ille amando me occidit.'
 Saepe nihil interest inter amicorum munera et hostium
 uota; quidquid illi accidere optant, in id horum intempestiua
@@ -373,7 +373,7 @@ ipse non egeam; succurram perituro, sed ut ipse non
 peream, nisi si futurus ero magni hominis aut magnae
 rei merces. Nullum beneficium dabo, quod turpiter
 peterem. Nec exiguum dilatabo nec magna pro paruis
-accipi patiar; nam ut qui, quod &lt;dedit&gt;, inputat, gratiam
+accipi patiar; nam ut qui, quod <dedit>, inputat, gratiam
 destruit, ita qui, quantum det, ostendit, munus suum
 conmendat, non exprobrat. Respiciendae sunt cuique
 facultates suae uiresque, ne aut plus praestemus, quam
@@ -402,7 +402,7 @@ modus, aeque peccat, quod excedit, quam quod deficit.
 Liceat istud sane tibi et te in tantum fortuna sustulerit,
 ut congiaria tua urbes sint (quas quanto maioris animi
 fuit non capere quam spargere!): est tamen aliquis
-minor, quam &lt;ut&gt; in sinu eius condenda sit ciuitas.
+minor, quam <ut> in sinu eius condenda sit ciuitas.
  
  
 [17]
@@ -494,7 +494,7 @@ beneficii quam pecuniae creditor. Huic enim reddendum
 est, quantum accepi, et, si reddidi, solutus sum ac
 liber; at illi et plus soluendum est, et nihilo minus
 etiam relata gratia cohaeremus; debeo enim, cum reddidi,
-rursus incipere, manetque amicitia; &lt;et ut in amicitiam&gt; non reciperem indignum, sic ne in beneficiorum
+rursus incipere, manetque amicitia; <et ut in amicitiam> non reciperem indignum, sic ne in beneficiorum
 quidem sacratissimum ius, ex quo amicitia oritur. 'Non
 semper' inquit 'mihi licet dicere: nolo; aliquando
 beneficium accipiendum est et inuito. Dat tyrannus
@@ -552,7 +552,7 @@ uero illum aut rerum naturae aut urbis suae tenuit
 obliuio, qui uno interempto defuturum credidit alium,
 qui idem uellet, cum Tarquinius esset inuentus post
 tot reges ferro ac fulminibus occisos! Sed uitam accipere
-debuit, ob hoc tamen &lt;non&gt; habere illum parentis
+debuit, ob hoc tamen <non> habere illum parentis
 loco, quia in ius dandi beneficii iniuria uenerat; non
 enim seruauit is, qui non interfecit, nec beneficium
 dedit, sed missionem.
@@ -619,7 +619,7 @@ agunt et in angulo et ad aurem; non est ista uerecundia,
 sed infitiandi genus; ingratus est, qui remotis
 arbitris agit gratias. Quidam nolunt nomina secum
 fieri nec interponi pararios nec signatores aduocari,
-&lt;uix&gt; chirographum dare; idem faciunt, qui dant operam,
+<uix> chirographum dare; idem faciunt, qui dant operam,
 ut beneficium in ipsos conlatum quam ignotissimum
 sit. Verentur palam ferre, ut sua potius uirtute quam
 alieno adiutorio consecuti dicantur; rariores in eorum
@@ -634,7 +634,7 @@ est quosdam offendere quam demeruisse; argumentum
 enim nihil debentium odio quaerunt; atqui nihil magis
 praestandum est, quam ut memoria nobis meritorum
 haereat, quae subinde reficienda est, quia nec referre
-potest gratiam, nisi qui meminit, &lt;et&gt;, qui meminit,> eam
+potest gratiam, nisi qui meminit, <et>, qui meminit,> eam
 refert. Nec delicate accipiendum est nec submisse et
 humiliter; nam qui neclegens est in accipiendo, cum
 omne beneficium recens pateat, quid faciat, cum prima
@@ -697,7 +697,7 @@ emittebat quam uerba: tanta illi inopia erat sermonis. Hic
 cum omnia incrementa sua diuo Augusto deberet, ad
 quem adtulerat paupertatem sub onere nobilitatis laborantem,
 princeps iam ciuitatis et pecunia et gratia subinde
-&lt;de&gt; Augusto solebat queri dicens a studiis se abductum;
+<de> Augusto solebat queri dicens a studiis se abductum;
 nihil tantum in se congestum esse, quantum
 perdidisset relicta eloquentia. At illi inter alia hoc
 quoque diuus Augustus praestiterat, quod illum derisu
@@ -800,7 +800,7 @@ excusationem mentis ingratae ab infirmitate atque
 inopia petat et dicat: 'Quid enim faciam et quomodo?
 quando superioribus dominisque rerum omnium gratiam
 referam?' Referre facile est, si auarus es, sine inpendio,
-si iners, &lt;sine&gt; opera. Eodem quidem momento,
+si iners, <sine> opera. Eodem quidem momento,
 quo obligatus es, si uis, cum quolibet paria fecisti,
 quoniam, qui libenter beneficium accipit, reddidit.
  
@@ -871,7 +871,7 @@ hunc absoluto opere percipit; alter famae; tertius utilitatis,
 quem adlatura est aut gratia aut uenditio aut
 aliqua commoditas. Sic beneficii fructus primus ille
 est conscientiae: hunc percipit, qui, quo uoluit, munus
-suum pertulit; secundus &lt;et tertius&gt; est et famae et eorum,
+suum pertulit; secundus <et tertius> est et famae et eorum,
 quae praestari in uicem possunt. Itaque cum benigne
 acceptum est beneficium, qui dedit, gratiam quidem
 iam recepit, mercedem nondum; debeo itaque, quod
@@ -931,10 +931,10 @@ insanos, et suffragium et iuris dictionem conmittimus.
 Sic dicimus eum, qui beneficium bono animo accipit,
 gratiam rettulisse, nihilo minus illum in aere alieno
 relinquimus gratiam relaturum, etiam cum rettulit.
-Exhortatio est illa, non infitiatio &lt;beneficii, ne&gt; beneficia
+Exhortatio est illa, non infitiatio <beneficii, ne> beneficia
 timeamus, ne ut intolerabili sarcina pressi deficiamus
 animo. 'Bona mihi donata sunt et fama defensa, detractae
-sordes, spiritus &lt;seruatus&gt; et libertas spiritu potior:
+sordes, spiritus <seruatus> et libertas spiritu potior:
 et quomodo referre gratiam potero? quando ille
 ueniet dies, quo illi animum meum ostendam?' Hic
 ipse est, quo ille suum ostendit. Excipe beneficium,

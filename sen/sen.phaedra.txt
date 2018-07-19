@@ -533,7 +533,7 @@ Seneca: Phaedra
  solesque uitat. hinc aues querulae fremunt 
  ramique uentis lene percussi tremunt 
    *      509a 
- ueteresque fagi. iuuat &lt;et&gt; aut amnis uagi 
+ ueteresque fagi. iuuat <et> aut amnis uagi 
  pressisse ripas, caespite aut nudo leues 
  duxisse somnos, siue fons largus citas 
  defundit undas, siue per flores nouos 

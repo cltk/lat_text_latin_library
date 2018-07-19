@@ -88,7 +88,7 @@ sidera, caeruleis orbem pulsantia bigis,
 
 naturae rerum magnis intexere chartis, 
 
-aeterno &lt;ut> sophiae coniunctum carmine nomen     40 
+aeterno <ut> sophiae coniunctum carmine nomen     40 
 
 nostra tuom senibus loqueretur pagina saeclis. 
 
@@ -102,7 +102,7 @@ prima rudimenta et iuvenes exegimus annos,     45
 
 accipe dona meo multum vigilata labore 
 
-promissa atque diu iam tandem &lt;reddita vota>, 
+promissa atque diu iam tandem <reddita vota>, 
 
 impia prodigiis ut quondam exterrita proles 
 
@@ -176,7 +176,7 @@ ipsa suos quotiens heu pertimuit latratus),
 
 ausa quod est mulier numen fraudare deorum 
 
-et dictam Veneri votorum &lt;a> vertere poenam, 
+et dictam Veneri votorum <a> vertere poenam, 
 
 quam mala multiplici iuvenum consaepta caterva     85 
 
@@ -480,7 +480,7 @@ Dic age nunc miserae saltem quod saepe petenti
 
 iurabas nihil esse mihi, cur maesta parentis     235 
 
-formosos circum virgo &lt;re>morere capillos. 
+formosos circum virgo <re>morere capillos. 
 
 Ei mihi, ne furor ille tuos invaserit artus, 
 
@@ -584,7 +584,7 @@ O mihi nunc iterum crudelis reddite Minos,
 
 o iterum nostrae Minos inimice senectae, 
 
-semper &lt;ut> aut olim natae te propter eundem 
+semper <ut> aut olim natae te propter eundem 
 
 aut Amor insanae luctum portavit alumnae. 
 
@@ -636,7 +636,7 @@ et vox ista meas nondum violaverat auris.
 
 Tene etiam Fortuna mihi crudelis ademit, 
 
-tene, &lt;o> sola meae vivendi causa senectae? 
+tene, <o> sola meae vivendi causa senectae? 
 
 Saepe tuo dulci nequiquam capta sopore     315 
 
@@ -698,7 +698,7 @@ virginis et placidam tenebris captare quietem
 
 inverso bibulum restinguens lumen olivo 
 
-incipit ad crebros&lt;que> insani pectoris ictus     345 
+incipit ad crebros<que> insani pectoris ictus     345 
 
 ferre manum assiduis mulcens praecordia palmis. 
 
@@ -712,7 +712,7 @@ et gelida veniente + mihi quatiebat ab Oeta,     350
 
 quem pavidae alternis fugitant optantque puellae 
 
-(Hesperium vitant, optant ardescere &lt;Eoum>), 
+(Hesperium vitant, optant ardescere <Eoum>), 
 
 praeceptis paret virgo nutricis et omnis 
 
@@ -876,7 +876,7 @@ tale malum nasci: forma vel sidera fallas.
 
 Me non deliciis commovit regia dives, 
 
-&lt;dives> curalio fragili et lacrimoso electro, 
+<dives> curalio fragili et lacrimoso electro, 
 
 me non florentes aequali corpore nymphae,     435 
 
@@ -1042,7 +1042,7 @@ cum sonitu ad caelum stridentibus extulit alis     515
 
 et multum late dispersit in aequora rorem, 
 
-infelix virgo nequiquam &lt;a> morte recepta 
+infelix virgo nequiquam <a> morte recepta 
 
 incultum solis in rupibus exigit aevom, 
 

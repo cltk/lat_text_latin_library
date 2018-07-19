@@ -196,7 +196,7 @@ at magnum cum venit opus promendaque virtus
 et vocat extremo praeceps discrimine mavors:    180 
 non tunc egregios tantum admirere Molossos, 
 comparat his versuta suas Athamania ... 
-A&Ccedil;orusque Pheraeque et clandestinus Acarnan: 
+AÇorusque Pheraeque et clandestinus Acarnan: 
 sicut Acarnanes subierunt proelia furto, 
 sic canis illa suos taciturna supervenit hostis.    185 
 at clangore citat quos nondum conspicit apros 
@@ -352,8 +352,8 @@ noverit et socios tutabitur hoste minores,    335
 aut cedent aut illa tamen victoria damnost. 
 ergo in opus vigila factusque ades omnibus armis: 
 (arma acuere virum); tegat imas fascia suras; 
-&lt;sit pell&gt;is vitulina, suis et tergore fulvo 
-i&lt;re decet, niteant&gt; canaque e maele galeri,    340 
+<sit pell>is vitulina, suis et tergore fulvo 
+i<re decet, niteant> canaque e maele galeri,    340 
 ima Toletano praecingant ilia cultro 
 terribilemque manu vibrata falarica dextra 
 det sonitum et curvae rumpant non pervia falces. 
@@ -374,8 +374,8 @@ mortis enim patuere viae. tum pura monebo
 circum labra sequi tenuique includere filo. 
 At si pernicies angusto pascitur ore, 
 contra pande viam fallentisque argue causas    360 
-morborum: in vitio facilis med&lt;icina recenti&gt;; 
-sed tacta impositis mulcent p&lt;ecuaria palmis&gt; 
+morborum: in vitio facilis med<icina recenti>; 
+sed tacta impositis mulcent p<ecuaria palmis> 
 (id satis) aut nigrae circum picis unguine signant; 
 quodsi destricto levis est in vulnere noxa, 
 ipse habet auxilium validae natale salivae.    365 
@@ -471,7 +471,7 @@ sollicitare caput patriosve lacessere divos,
 illum agat infandae comes huc audacia culpae: 
 discet commissa quantum deus ultor in ira    455 
 pone sequens valeat. sed cui bona pectore mens est 
-obsequitur&lt;que&gt; deo, deus illam molliter aram 
+obsequitur<que> deo, deus illam molliter aram 
 lambit et ipse, suos ubi contigit ignis honores, 
 defugit a sacris rursumque reconditur antro: 
 huic fas auxilium et Vulcania tangere dona.    460 
@@ -484,7 +484,7 @@ hinc venit auxilium valida vehementius ira.
 quod primam si fallet opem dimissa facultas, 
 at tu praecipitem qua spes est proxima labem 
 adgredere: in subito subita et medicina tumultu. 
-stringendae nares et &lt;bi&gt;na ligamina ferro    470 
+stringendae nares et <bi>na ligamina ferro    470 
 armorum, geminaque cruor ducendus ab aure: 
 hinc vitium, hinc illa est avidae vehementia pesti. 
 ilicet auxiliis fessum solabere corpus 
@@ -496,7 +496,7 @@ aut incurvatae siquast tutela podagrae?
 mille tenent pestes curaque potentia maior. 
 mitte age (non opibus tanta est fiducia nostris),    480 
 mitte, anime: ex alto ducendum numen Olympo, 
-supplicibus&lt;que&gt; vocanda sacris tutela deorum. 
+supplicibus<que> vocanda sacris tutela deorum. 
 idcirco aeriis molimur compita lucis 
 spicatasque faces sacrum ad nemorale Dianae 
 sistimus et solito catuli velantur honore,    485 
@@ -528,12 +528,12 @@ Garganumve trucem aut Ligurinas desuper Alpes;    510
 ante opus excussis cadet unguibus. et tamen illi 
 est animus fingetque meas se iussus in artes: 
 sed iuxta vitium posuit deus. at tibi contra 
-Callaecis lustratur &lt;e&gt;quis scruposa Pyr&lt;ene&gt;, 
-non tamen Hispano martem temptare m&lt;inistro&gt;    515 
-ausim: &lt;in&gt; muricibus vix ora tenacia ferr&lt;o&gt; 
-concedunt. at tota levi Nasam&lt;onia virga&gt; 
-fingit equos: ipsis Numidae solver&lt;e capistris&gt; 
-audax et patiens operum g&lt;enus. Ille vigebit&gt; 
+Callaecis lustratur <e>quis scruposa Pyr<ene>, 
+non tamen Hispano martem temptare m<inistro>    515 
+ausim: <in> muricibus vix ora tenacia ferr<o> 
+concedunt. at tota levi Nasam<onia virga> 
+fingit equos: ipsis Numidae solver<e capistris> 
+audax et patiens operum g<enus. Ille vigebit> 
 centum actus spatiis atque eluctabitur iram.    520 
 nec magni cultus: sterilis quodcumque remisit 
 terra sui tenuesque satis producere rivi. 
@@ -550,12 +550,12 @@ spadices vix Pellaei valuere Cerauni;
 at tibi devotae magnum pecuaria Cyrrhae, 
 Phoebe, decus meruere, levis seu iungere currus 
 usus, seu nostras agere in sacraria tensas.    535 
-venanti melius pugnat color: optima nigr&lt;a&gt; 
-&lt;cru&gt;ra illi badiosque leg&lt;a&gt;nt et a * * * 
-&lt;et quo&gt;rum fessas imitantur terga favillas. 
-&lt;o quan&gt;tum Italiae (sic di voluere) parentes 
-&lt;praestant&gt; et terras omni praecepimus usu    540 
-&ltnostraque quam pernix&gt; collustrat prata &lt;iuventus&gt;!
+venanti melius pugnat color: optima nigr<a> 
+<cru>ra illi badiosque leg<a>nt et a * * * 
+<et quo>rum fessas imitantur terga favillas. 
+<o quan>tum Italiae (sic di voluere) parentes 
+<praestant> et terras omni praecepimus usu    540 
+<nostraque quam pernix> collustrat prata <iuventus>!
  
 
  

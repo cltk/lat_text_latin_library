@@ -157,7 +157,7 @@ De Architectura Liber VII
  
 
  
- [17] Eam autem postea, cum Demetrius Phalereus Athenis rerum potiretur, Philo ante templum in fronte columnis constitutis prostylon fecit; ita aucto vestibula laxamentum initiantibus operique summam adfecit auctoritatem. In asty vero ad Olympium amplo modulorum comparatu corinthiis symmetriis et proportionibus, uti s&lt;upra&gt; s&lt;criptum&gt; est, architectandum Quossutius suscepisse memoratur, cuius commentarium nullum est inventum. Nec tamen a Cossutio solum de his rebus scripta sunt desideranda sed etiam a G. Mucio, qui magna scientia confisus aedes Honoris et Virtutis Marianae, cellae columnarumque et epistyliorum symmetrias legitimis artis institutis perfecit. Id vero si marmoreum fuisset, ut haberet, quemadmodum ab arte subtilitatem, sic ab magnificentia et inpensis auctoritatem, in primis et summis operibus nominaretur.
+ [17] Eam autem postea, cum Demetrius Phalereus Athenis rerum potiretur, Philo ante templum in fronte columnis constitutis prostylon fecit; ita aucto vestibula laxamentum initiantibus operique summam adfecit auctoritatem. In asty vero ad Olympium amplo modulorum comparatu corinthiis symmetriis et proportionibus, uti s<upra> s<criptum> est, architectandum Quossutius suscepisse memoratur, cuius commentarium nullum est inventum. Nec tamen a Cossutio solum de his rebus scripta sunt desideranda sed etiam a G. Mucio, qui magna scientia confisus aedes Honoris et Virtutis Marianae, cellae columnarumque et epistyliorum symmetrias legitimis artis institutis perfecit. Id vero si marmoreum fuisset, ut haberet, quemadmodum ab arte subtilitatem, sic ab magnificentia et inpensis auctoritatem, in primis et summis operibus nominaretur.
  
 
  
@@ -177,7 +177,7 @@ De Architectura Liber VII
  
 
  
- [3] Tunc insuper statuminetur ne minore saxo, quam qui possit manum implere. Statuminationibus inductis, rudus si novum erit ad tres partes una calcis misceatur, si redivivum fuerit, quinque ad duum mixtiones habeant responsum. Deinde rudus inducatur et vectibus ligneis, decuriis inductis, crebriter pinsatione solidetur, et id non minus pinsum absolutum crassitudine sit dodrantis. Insuper ex testa nucleus inducatur mixtionem habens ad tres partes unam calcis, ne minore crassitudine pavimentum digitorum sen&ucirc;m. Supra nucleum ad regulam et libellam exacta pavimenta struantur sive sectilia seu tesseris. [4] Cum ea exstructa fuerint et fastigia sua exstructionem habuerint, ita fricentur, uti, si sectilia sint, nulli gradus Ãn scutulis aut trigonis aut quadratis seu favis extent, sed coagmentorum conpositio planam habeat inter se derectionem, si tesseris structum erit, ut eae omnes angulos habeant aequales; cum enim anguli non fuerint omnes aequaliter pleni, non erit exacta, ut oportet, fricatura. Item testacea spicata tiburtina sunt diligenter exigenda, ut ne habeant lacunas nec extantes tumulos, sed extenta et ad regulam perfricata. Super fricaturam levigationibus et polituris cum fuerint perfecta, incernatur marmor, et supra loricae ex calce et harena inducantur.
+ [3] Tunc insuper statuminetur ne minore saxo, quam qui possit manum implere. Statuminationibus inductis, rudus si novum erit ad tres partes una calcis misceatur, si redivivum fuerit, quinque ad duum mixtiones habeant responsum. Deinde rudus inducatur et vectibus ligneis, decuriis inductis, crebriter pinsatione solidetur, et id non minus pinsum absolutum crassitudine sit dodrantis. Insuper ex testa nucleus inducatur mixtionem habens ad tres partes unam calcis, ne minore crassitudine pavimentum digitorum senûm. Supra nucleum ad regulam et libellam exacta pavimenta struantur sive sectilia seu tesseris. [4] Cum ea exstructa fuerint et fastigia sua exstructionem habuerint, ita fricentur, uti, si sectilia sint, nulli gradus Ãn scutulis aut trigonis aut quadratis seu favis extent, sed coagmentorum conpositio planam habeat inter se derectionem, si tesseris structum erit, ut eae omnes angulos habeant aequales; cum enim anguli non fuerint omnes aequaliter pleni, non erit exacta, ut oportet, fricatura. Item testacea spicata tiburtina sunt diligenter exigenda, ut ne habeant lacunas nec extantes tumulos, sed extenta et ad regulam perfricata. Super fricaturam levigationibus et polituris cum fuerint perfecta, incernatur marmor, et supra loricae ex calce et harena inducantur.
  
 
  
@@ -185,7 +185,7 @@ De Architectura Liber VII
  
 
  
- [6] Statuminatione facta rudus inducatur, idque pistum absolutum ne minus pede sit crassum. Tunc autem nucleo inducto, uti, s&lt;upra&gt; s&lt;criptum&gt; est, pavimentum e tessera grandi circiter bin&ucirc;m digit&ucirc;m caesa struatur fastigium habens in pedes denos digitos binos; quod si bene temperabitur et recte fricatum fuerit, ab omnibus vitiis erit tutum. Uti autem inter coagmenta materies ab gelicidiis ne laboret, fracibus quotannis ante hiemem saturetur; ita non patietur in se recipere gelicidi pruinam.
+ [6] Statuminatione facta rudus inducatur, idque pistum absolutum ne minus pede sit crassum. Tunc autem nucleo inducto, uti, s<upra> s<criptum> est, pavimentum e tessera grandi circiter binûm digitûm caesa struatur fastigium habens in pedes denos digitos binos; quod si bene temperabitur et recte fricatum fuerit, ab omnibus vitiis erit tutum. Uti autem inter coagmenta materies ab gelicidiis ne laboret, fracibus quotannis ante hiemem saturetur; ita non patietur in se recipere gelicidi pruinam.
  
 
  
@@ -225,11 +225,11 @@ Cum camerae politae fuerint, sub eas coronae sunt subiciendae quam maxime tenues
  
 
  
- [7] Sed et liaculorum subactionibus fundata soliditate marmorisque candore firmo levigata, coloribus cum politionibus inductis nitidos expriment splendores. Colores autem, udo tectorio cum diligenter sunt inducti, ideo non remittunt sed sunt perpetuo permanentes, quod calx, in fornacibus excocto liquore facta raritatibus et evanida, ieiunitate coacta corripit in se quae res forte contigerunt, mixtionibusque ex aliis potestatibus conlatis seminibus seu princip&icirc;s una solidescendo, in quibuscumque membris est formata cum fit arida, redigitur, uti sui generis proprias videatur habere qualitates.
+ [7] Sed et liaculorum subactionibus fundata soliditate marmorisque candore firmo levigata, coloribus cum politionibus inductis nitidos expriment splendores. Colores autem, udo tectorio cum diligenter sunt inducti, ideo non remittunt sed sunt perpetuo permanentes, quod calx, in fornacibus excocto liquore facta raritatibus et evanida, ieiunitate coacta corripit in se quae res forte contigerunt, mixtionibusque ex aliis potestatibus conlatis seminibus seu principîs una solidescendo, in quibuscumque membris est formata cum fit arida, redigitur, uti sui generis proprias videatur habere qualitates.
  
 
  
- [8] Itaque tectoria, quae recte sunt facta, neque vetustatibus fiunt horrida neque, cum extergentur, remittunt colores, nisi si parum diligenter et in arido fuerint inducti. Cum ergo itaque in parietibus tectoria facta fuerint, uti supra scriptum est, et firmitatem et splendorem et ad vetustatem permanentem virtutem pot&ecirc;runt habere. Cum vero unum corium harenae et unum minuti marmoris erit inductum, tenuitas eius minus valendo faciliter rumpitur nec splendorem politionibus propter inbecillitatem crassitudinis proprium optinebit.
+ [8] Itaque tectoria, quae recte sunt facta, neque vetustatibus fiunt horrida neque, cum extergentur, remittunt colores, nisi si parum diligenter et in arido fuerint inducti. Cum ergo itaque in parietibus tectoria facta fuerint, uti supra scriptum est, et firmitatem et splendorem et ad vetustatem permanentem virtutem potêrunt habere. Cum vero unum corium harenae et unum minuti marmoris erit inductum, tenuitas eius minus valendo faciliter rumpitur nec splendorem politionibus propter inbecillitatem crassitudinis proprium optinebit.
  
 
  
@@ -261,7 +261,7 @@ Cum camerae politae fuerint, sub eas coronae sunt subiciendae quam maxime tenues
  
 
  
- [4] Ipsi autem politionibus eorum ornatus proprios debent habere ad decoris rationes, uti et ex locis aptas et generum discriminibus non alienas habeant dignitates. Tricliniis hibernis non est utilis compositione nec melographia nec camerarum coronario opere subtilis ornatus, quod ea et ab ignis fumo et ab luminum crebris fuliginibus conrumpuntur. In his vero supra podia abaci ex atramento sunt subigendi et poliendi cuneis silaceis seu miniaceis interpositis; explicatae camerae pure politae; etiam pavimentorum non erit displicens, si qui animadvertere voluerit Graecorum ad hibernaculorum usum. Minime sumptuosus est utilis apparatus. [5] Foditur enim intra libramentum triclini altitudo circiter pedum bin&ucirc;m, et solo festucato inducitur aut rudus aut testaceum pavimentum ita fastigatum, ut in canali habeat nares. Deinde congestis et spisse calcatis carbonibus inducitur et sabulone et calce et favilla mixta materies crassitudine semipedali. Ad regulam et libellam summo libramento cote despumato redditur species nigri pavimenti. Ita conviviis eorum et, quod poculis et pytismatis effundetur, simul cadit siccescitque, quique versantur ibi ministrantes, etsi nudis pedibus fuerint, non recipiunt fraces ab eius modi genere pavimenti.
+ [4] Ipsi autem politionibus eorum ornatus proprios debent habere ad decoris rationes, uti et ex locis aptas et generum discriminibus non alienas habeant dignitates. Tricliniis hibernis non est utilis compositione nec melographia nec camerarum coronario opere subtilis ornatus, quod ea et ab ignis fumo et ab luminum crebris fuliginibus conrumpuntur. In his vero supra podia abaci ex atramento sunt subigendi et poliendi cuneis silaceis seu miniaceis interpositis; explicatae camerae pure politae; etiam pavimentorum non erit displicens, si qui animadvertere voluerit Graecorum ad hibernaculorum usum. Minime sumptuosus est utilis apparatus. [5] Foditur enim intra libramentum triclini altitudo circiter pedum binûm, et solo festucato inducitur aut rudus aut testaceum pavimentum ita fastigatum, ut in canali habeat nares. Deinde congestis et spisse calcatis carbonibus inducitur et sabulone et calce et favilla mixta materies crassitudine semipedali. Ad regulam et libellam summo libramento cote despumato redditur species nigri pavimenti. Ita conviviis eorum et, quod poculis et pytismatis effundetur, simul cadit siccescitque, quique versantur ibi ministrantes, etsi nudis pedibus fuerint, non recipiunt fraces ab eius modi genere pavimenti.
  
 
  
@@ -277,7 +277,7 @@ Cum camerae politae fuerint, sub eas coronae sunt subiciendae quam maxime tenues
  
 
  
- [3] Sed haec, quae ex veris rebus exempla sumebantur, nunc iniquis moribus inprobantur. &lt;Nam pinguntur&gt; tectoriis monstra potius quam ex rebus finitis imagines certae: pro columnis enim struuntur calami striati, pro fastigiis appagineculi cum crispis foliis et volutis, item candelabra aedicularum sustinentia figuras, supra fastigia eorum surgentes ex radicibus cum volutis teneri plures habentes in se sine ratione sedentia sigilla, non minus coliculi dimidiata habentes sigilla alia humanis alia bestiarum capitibus.
+ [3] Sed haec, quae ex veris rebus exempla sumebantur, nunc iniquis moribus inprobantur. <Nam pinguntur> tectoriis monstra potius quam ex rebus finitis imagines certae: pro columnis enim struuntur calami striati, pro fastigiis appagineculi cum crispis foliis et volutis, item candelabra aedicularum sustinentia figuras, supra fastigia eorum surgentes ex radicibus cum volutis teneri plures habentes in se sine ratione sedentia sigilla, non minus coliculi dimidiata habentes sigilla alia humanis alia bestiarum capitibus.
  
 
  
@@ -305,7 +305,7 @@ Quae commune facere potui, ut ab errore discedatur in opere tectorio, satis expo
  
 
  
- [1] Marmor non eodem genere omnibus regionibus procreatur, sed quibusdam locis glaebae ut salis micas perlucidas habentes nascuntur, quae contusae et molitae praestant operibus utilitatem. Quibus autem locis eae copiae non sunt, caementa marmorea, sive assulae dicuntur, quae marmorarii ex operibus deiciunt, contunduntur et moluntur, subcretum in operibus utuntur. Aliis locis, ut inter Magnesiae et Ephesi fines, sunt loca, unde foditur &lt;glaeba&gt; parata, quam nec molere nec cernere opus est, sed sic est subtilis, quemadmodum si qua est manu contusa et subcreta.
+ [1] Marmor non eodem genere omnibus regionibus procreatur, sed quibusdam locis glaebae ut salis micas perlucidas habentes nascuntur, quae contusae et molitae praestant operibus utilitatem. Quibus autem locis eae copiae non sunt, caementa marmorea, sive assulae dicuntur, quae marmorarii ex operibus deiciunt, contunduntur et moluntur, subcretum in operibus utuntur. Aliis locis, ut inter Magnesiae et Ephesi fines, sunt loca, unde foditur <glaeba> parata, quam nec molere nec cernere opus est, sed sic est subtilis, quemadmodum si qua est manu contusa et subcreta.
  
 
  
@@ -397,7 +397,7 @@ Colores vero alii sunt, qui per se certis locis procreantur et inde fodiuntur, n
  
 
  
- [1] Incipiam nunc de ostro dicere, quod et carissimam et excellentissimam habet praeter hos colores aspectus suavitatem. It autem excipitur e conchylio marino, e quo purpura efficitur, cuius non minores sunt quam ceterarum &lt;rerum&gt; naturae considerantibus admirationes, quod habet non in omnibus locis, quibus nascitur, unius generis colorem, sed solis cursu naturaliter temperatur. [2] Itaque quod legitur Ponto et Gallia, quod hae regiones sunt proximae ad septentrionem, est atrum; progredientibus inter septentrionem et occidentem invenitur lividum; quod autem legitur ad aequinoctialem orientem et occidentem, invenitur violacio colore; quod vero meridianis regionibus excipitur, rubra procreatur potestate, et ideo hoc Rhodo etiam insula creatur ceterisque eiusmodi regionibus, quae proximae sunt solis cursui. [3] Ea conchylia, cum sunt lecta, ferramentis circa scinduntur, e quibus plagis purpurea sanies, uti lacrima profluens, excussa in mortariis terendo comparatur. Et quod ex concharum marinarum testis eximitur, ideo ostrum est vocitatum. Id autem propter salsuginem cito fit siticulosum, nisi mel habeat circa fusum.
+ [1] Incipiam nunc de ostro dicere, quod et carissimam et excellentissimam habet praeter hos colores aspectus suavitatem. It autem excipitur e conchylio marino, e quo purpura efficitur, cuius non minores sunt quam ceterarum <rerum> naturae considerantibus admirationes, quod habet non in omnibus locis, quibus nascitur, unius generis colorem, sed solis cursu naturaliter temperatur. [2] Itaque quod legitur Ponto et Gallia, quod hae regiones sunt proximae ad septentrionem, est atrum; progredientibus inter septentrionem et occidentem invenitur lividum; quod autem legitur ad aequinoctialem orientem et occidentem, invenitur violacio colore; quod vero meridianis regionibus excipitur, rubra procreatur potestate, et ideo hoc Rhodo etiam insula creatur ceterisque eiusmodi regionibus, quae proximae sunt solis cursui. [3] Ea conchylia, cum sunt lecta, ferramentis circa scinduntur, e quibus plagis purpurea sanies, uti lacrima profluens, excussa in mortariis terendo comparatur. Et quod ex concharum marinarum testis eximitur, ideo ostrum est vocitatum. Id autem propter salsuginem cito fit siticulosum, nisi mel habeat circa fusum.
  
 
  
@@ -405,7 +405,7 @@ Colores vero alii sunt, qui per se certis locis procreantur et inde fodiuntur, n
  
 
  
- [1] Fiunt etiam purpurei colores infecta creta rubiae radice et hysgino, non minus et ex floribus alii colores. Itaque tectores, cum volunt sil atticum imitari, violam aridam coicientes in vas cum aqua, confervefaciunt ad ignem, deinde, cum est temperatum, coiciunt &lt;in&gt; linteum, et inde manibus exprimentes recipiunt in mortarium aquam ex violis coloratam, et eo cretam infundentes et eam terentes efficiunt silis attici colorem.
+ [1] Fiunt etiam purpurei colores infecta creta rubiae radice et hysgino, non minus et ex floribus alii colores. Itaque tectores, cum volunt sil atticum imitari, violam aridam coicientes in vas cum aqua, confervefaciunt ad ignem, deinde, cum est temperatum, coiciunt <in> linteum, et inde manibus exprimentes recipiunt in mortarium aquam ex violis coloratam, et eo cretam infundentes et eam terentes efficiunt silis attici colorem.
  
 
  

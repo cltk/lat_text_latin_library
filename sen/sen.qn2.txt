@@ -32,7 +32,7 @@ deinceps his similia.
  
 [1,2] Secunda pars tractat inter coelum terramque uersantia.
 
-Haec sont nubila, imbres, niues, et &#171; humanas motura tonitrua mentes; &#187; quaecumque
+Haec sont nubila, imbres, niues, et « humanas motura tonitrua mentes; » quaecumque
 
 aer facit patiturue. Haec sublimia dicimus, quia editiora imis sunt.
 
@@ -1562,15 +1562,15 @@ res ueri attulit signa, quantum ad hoc, par est.
 
 non mentieris ; sed, ad indicandum ignem, idem ualet
 
-flamma quod fumus. Itaque si hoc dicunt : &#171; Quotiens
+flamma quod fumus. Itaque si hoc dicunt : « Quotiens
 
 aliud exta significabunt, aliud fulmina, fulminum.
 
-erit auctoritas maior &#187;, fortasse consentiam. Si hoc
+erit auctoritas maior », fortasse consentiam. Si hoc
 
-dicunt : &#171; Quamuis altera res uerum praedixisset,
+dicunt : « Quamuis altera res uerum praedixisset,
 
-fulminis ictus priora deleuit et ad se fidem. traxit, &#187;
+fulminis ictus priora deleuit et ad se fidem. traxit, »
 
 falsum est. Quare? Quia nihil interest quam multa
 
@@ -2530,11 +2530,11 @@ per haec transeundum est.
  
 [59,1] Intelligo quid dudum desideres, quid
 
-efflagites. &#171; Malo, inquis, fulmina non timere quam
+efflagites. « Malo, inquis, fulmina non timere quam
 
 nosse ; itaque alios doce quemadmodum fiant ;
 
-ego mihi metum illorum excuti uolo, non naturam indicari. &#187; 
+ego mihi metum illorum excuti uolo, non naturam indicari. » 
  
 
  

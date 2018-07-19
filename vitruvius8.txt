@@ -194,7 +194,7 @@ Cum ergo et a physicis et philosophis et ab sacerdotibus iudicetur ex potestate 
  
 
  
- [4] In quibus si eae significabuntur inventiones, sic erunt experiundae. Fodiatur quoquoversus locus latus ne minus pedes &lt;tres, altus pedes&gt; quinque, in eoque conlocetur circiter solis occasum scaphium aereum aut plumbeum aut pelvis. Ex his quod erit paratum, id intrinsecus oleo ungatur ponaturque inversum, et summa fossura operiatur harundinibus aut fronde, supra terra obruatur; tum postero die aperiatur, et si in vaso stillae sudorisque erunt, is locus habebit aquam.
+ [4] In quibus si eae significabuntur inventiones, sic erunt experiundae. Fodiatur quoquoversus locus latus ne minus pedes <tres, altus pedes> quinque, in eoque conlocetur circiter solis occasum scaphium aereum aut plumbeum aut pelvis. Ex his quod erit paratum, id intrinsecus oleo ungatur ponaturque inversum, et summa fossura operiatur harundinibus aut fronde, supra terra obruatur; tum postero die aperiatur, et si in vaso stillae sudorisque erunt, is locus habebit aquam.
  
 
  
@@ -233,14 +233,14 @@ Haec autem maxime in montibus et regionibus septentrionalibus sunt quaerenda, eo
  
 
  
- [8] Ergo cum omnia flumina magnitudinibus in orbis terrarum descriptionibus a septentrione videantur profluere Afrique campi, qui sunt in meridianis partibus subiecti solis cursui, latentes penitus habent umores nec fontes crebros amnesque raros, relinquitur, uti multo meliora inveniantur capita fontium, quae ad septentrionem aut aquilonem spectant, nisi si inciderint in sulphurosum locum aut aluminosum seu bituminosum. Tunc enim permutantur &lt;et&gt; aut calidae aquae aut frigidae odore malo et sapore profundunt fontes. [9] Neque enim calidae aquae est ulla proprietas, sed frigida aqua, cum incidit percurrens in ardentem locum, effervescit et percalefacta egreditur per venas extra terram. Ideo diutius non potest permanere, sed brevi spatio fit frigida. Namque si naturaliter esset calida, non refrigeraretur calor eius. Sapor autem et odor et color eius non restituitur, quod intinctus et commixtus est propter naturae raritatem.
+ [8] Ergo cum omnia flumina magnitudinibus in orbis terrarum descriptionibus a septentrione videantur profluere Afrique campi, qui sunt in meridianis partibus subiecti solis cursui, latentes penitus habent umores nec fontes crebros amnesque raros, relinquitur, uti multo meliora inveniantur capita fontium, quae ad septentrionem aut aquilonem spectant, nisi si inciderint in sulphurosum locum aut aluminosum seu bituminosum. Tunc enim permutantur <et> aut calidae aquae aut frigidae odore malo et sapore profundunt fontes. [9] Neque enim calidae aquae est ulla proprietas, sed frigida aqua, cum incidit percurrens in ardentem locum, effervescit et percalefacta egreditur per venas extra terram. Ideo diutius non potest permanere, sed brevi spatio fit frigida. Namque si naturaliter esset calida, non refrigeraretur calor eius. Sapor autem et odor et color eius non restituitur, quod intinctus et commixtus est propter naturae raritatem.
  
 
  
  Caput Tertium 
 
  
- [1] Sunt autem etiam nonnulli fontes calidi, ex quibus profluit aqua sapore optimo, quae in potione ita est suavis, uti nec fontalis ab Camenis nec Marcia saliens desideretur. Haec autem ab natura perficiuntur his rationibus. Cum in imo per alumen aut bitumen seu sulphur ignis excitatur, ardore percandefacit terram, quae est supra se; autem fervidum emittit in superiora loca vaporem, et ita, si qui in &icirc;s locis, qui sunt supra, fontes dulcis aquae nascuntur, offensi eo vapore effervescunt inter venas et ita profluunt incorrupto sapore.
+ [1] Sunt autem etiam nonnulli fontes calidi, ex quibus profluit aqua sapore optimo, quae in potione ita est suavis, uti nec fontalis ab Camenis nec Marcia saliens desideretur. Haec autem ab natura perficiuntur his rationibus. Cum in imo per alumen aut bitumen seu sulphur ignis excitatur, ardore percandefacit terram, quae est supra se; autem fervidum emittit in superiora loca vaporem, et ita, si qui in îs locis, qui sunt supra, fontes dulcis aquae nascuntur, offensi eo vapore effervescunt inter venas et ita profluunt incorrupto sapore.
  
 
  
@@ -264,7 +264,7 @@ Haec autem maxime in montibus et regionibus septentrionalibus sunt quaerenda, eo
  
 
  
- [7] Sunt autem et alia multa genera, quae habent suas proprietates, ut in Sicilia flumen est Himeras, quod a fonte cum est progressum, dividitur in duas partes; quae pars profluit contra Etruriam, quod per terrae dulcem sucum percurrit, est infinita dulcedine, quae altera parte per eam terram currit, unde sal foditur, salsum habet saporem. Item Paraetonio et quod est iter ad Ammonem et Casio ad Aegyptum lacus sunt palustres, qui ita sunt salsi, ut habeant insuper se salem congelatum. Sunt autem et aliis pluribus locis et fontes et flumina &lt;et&gt; lacus, qui per salifodinas percurrentes necessario salsi perficiuntur.
+ [7] Sunt autem et alia multa genera, quae habent suas proprietates, ut in Sicilia flumen est Himeras, quod a fonte cum est progressum, dividitur in duas partes; quae pars profluit contra Etruriam, quod per terrae dulcem sucum percurrit, est infinita dulcedine, quae altera parte per eam terram currit, unde sal foditur, salsum habet saporem. Item Paraetonio et quod est iter ad Ammonem et Casio ad Aegyptum lacus sunt palustres, qui ita sunt salsi, ut habeant insuper se salem congelatum. Sunt autem et aliis pluribus locis et fontes et flumina <et> lacus, qui per salifodinas percurrentes necessario salsi perficiuntur.
  
 
  
@@ -276,7 +276,7 @@ Haec autem maxime in montibus et regionibus septentrionalibus sunt quaerenda, eo
  
 
  
- [10] Ad eundem modum Hierapoli Phrygiae effervet aquae calidae multitudo, e quibus circum hortos et vineas fossis ductis inmittitur; haec autem efficitur post annum crusta lapidea. Ita quotannis dextra ac sinistra margines ex terra faciundo inducunt eam et efficiunt in his crustis in agris saepta. Hoc autem ita videtur naturaliter fieri, quod in &icirc;s locis et ea terra, quibus is nascitur, sucus subest coaguli naturae similis; deinde cum commixta vis egreditur per fontes extra terram, a solis et aeris calore cogitur congelari, ut etiam in aeris salinarum videtur. [11] Item sunt ex amaro suco terrae fontes exeuntes vehementer amari, ut in Ponto est flumen Hypanis. A capite profluit circiter milia XL sapore dulcissimo; deinde, cum pervenit ad locum, qui est ab ostio ad milia CLX, admiscetur ei fonticulus oppido quam parvolus. Is cum in eum influit, tunc tanta magnitudine fluminis facit amaram, ideo quod per id genus terrae et venas, unde sandaracam fodiunt, est aqua manando perficitur amara.
+ [10] Ad eundem modum Hierapoli Phrygiae effervet aquae calidae multitudo, e quibus circum hortos et vineas fossis ductis inmittitur; haec autem efficitur post annum crusta lapidea. Ita quotannis dextra ac sinistra margines ex terra faciundo inducunt eam et efficiunt in his crustis in agris saepta. Hoc autem ita videtur naturaliter fieri, quod in îs locis et ea terra, quibus is nascitur, sucus subest coaguli naturae similis; deinde cum commixta vis egreditur per fontes extra terram, a solis et aeris calore cogitur congelari, ut etiam in aeris salinarum videtur. [11] Item sunt ex amaro suco terrae fontes exeuntes vehementer amari, ut in Ponto est flumen Hypanis. A capite profluit circiter milia XL sapore dulcissimo; deinde, cum pervenit ad locum, qui est ab ostio ad milia CLX, admiscetur ei fonticulus oppido quam parvolus. Is cum in eum influit, tunc tanta magnitudine fluminis facit amaram, ideo quod per id genus terrae et venas, unde sandaracam fodiunt, est aqua manando perficitur amara.
  
 
  
@@ -288,7 +288,7 @@ Haec autem maxime in montibus et regionibus septentrionalibus sunt quaerenda, eo
  
 
  
- [14] Sunt enim Boeotiae flumina Cephisos et Melas, Lucanis Crathis, Troia Xanthus inque agris Clazomeniorum et Erythraeorum et Laodicensium fontes. Ad flumina cum pecora suis temporibus anni parantur ad conceptionem partus, per id tempus adiguntur eo cotidie potum, ex eoque, quamvis sint alba, procreant aliis locis leucophaea, aliis locis pulla, aliis coracino colore. Ita proprietas liquoris, cum in&icirc;t in corpus, proseminat intinctam sui cuiusque generis qualitatem. Igitur quod in campis Troianis proxime flumen armenta rufa et pecora leucophaea nascuntur, ideo id flumen Ilienses Xanthum appellavisse dicuntur.
+ [14] Sunt enim Boeotiae flumina Cephisos et Melas, Lucanis Crathis, Troia Xanthus inque agris Clazomeniorum et Erythraeorum et Laodicensium fontes. Ad flumina cum pecora suis temporibus anni parantur ad conceptionem partus, per id tempus adiguntur eo cotidie potum, ex eoque, quamvis sint alba, procreant aliis locis leucophaea, aliis locis pulla, aliis coracino colore. Ita proprietas liquoris, cum inît in corpus, proseminat intinctam sui cuiusque generis qualitatem. Igitur quod in campis Troianis proxime flumen armenta rufa et pecora leucophaea nascuntur, ideo id flumen Ilienses Xanthum appellavisse dicuntur.
  
 
  
@@ -375,7 +375,7 @@ Item sunt nonnullae acidae venae fontium, uti Lyncesto et in Italia Velino, Camp
  
 
  
- [3] Fortasse, qui Archimedis libros legit, dicet non posse fieri veram ex aqua librationem, quod ei placet aquam non esse libratam, sed sphaeroides habere schema sed ibi habere centrum, quo loci habet orbis terrarum. Hoc autem, sive plana est aqua seu sphaeroides, necesse est: &lt;ad&gt; extrema capita regulae sit pariter sustinere regulam aquam; sin autem proclinatum erit ex una parte, quae erit altior, non habuerit regulae canalis in summis labris aquam. Necesse est enim, quocumque aqua sit infusa, in medio inflationem curvaturamque habere, sed capita dextra ac sinistra inter se librata esse. Exemplar autem chorobati erit in extremo volumine descriptum. Et si erit fastigium magnum, facilior erit decursus aquae; sin autem intervalla erunt lacunosa, substructionibus erit succurrendum.
+ [3] Fortasse, qui Archimedis libros legit, dicet non posse fieri veram ex aqua librationem, quod ei placet aquam non esse libratam, sed sphaeroides habere schema sed ibi habere centrum, quo loci habet orbis terrarum. Hoc autem, sive plana est aqua seu sphaeroides, necesse est: <ad> extrema capita regulae sit pariter sustinere regulam aquam; sin autem proclinatum erit ex una parte, quae erit altior, non habuerit regulae canalis in summis labris aquam. Necesse est enim, quocumque aqua sit infusa, in medio inflationem curvaturamque habere, sed capita dextra ac sinistra inter se librata esse. Exemplar autem chorobati erit in extremo volumine descriptum. Et si erit fastigium magnum, facilior erit decursus aquae; sin autem intervalla erunt lacunosa, substructionibus erit succurrendum.
  
 
  
@@ -390,7 +390,7 @@ Item sunt nonnullae acidae venae fontium, uti Lyncesto et in Italia Velino, Camp
  
 
  
- [4] Sin autem fistulis plumbeis ducetur, primum castellum ad caput struatur, deinde ad copiam aquae lumen fistularum constituatur, eaeque fistulae castello conlocentur ad castellum, quod erit in moenibus. Fistulae ne minus longae pedum den&ucirc;m fundantur. Quae si centenariae erunt, pondus habeant in singulas pondo MCC; si octogenariae, pondo DCCCCLX; si quinquagenariae, pondo DC; quadragenariae pondo CCCCLXXX; tricenariae pondo CCCLX; vicenariae pondo CCXL; quin&ucirc;m den&ucirc;m pondo CLXXX; den&ucirc;m pondo CXX; octon&ucirc;m pondo C; quinariae pondo LX. E latitudine autem lamnarum, quot digitos habuerint, antequam in rotundationem flectantur, magnitudinum ita nomina concipiunt fistulae. Namque quae lamna fuerit digitorum quinquaginta, cum fistula perficietur ex ea lamna vocabitur quinquagenaria similiterque reliqua.
+ [4] Sin autem fistulis plumbeis ducetur, primum castellum ad caput struatur, deinde ad copiam aquae lumen fistularum constituatur, eaeque fistulae castello conlocentur ad castellum, quod erit in moenibus. Fistulae ne minus longae pedum denûm fundantur. Quae si centenariae erunt, pondus habeant in singulas pondo MCC; si octogenariae, pondo DCCCCLX; si quinquagenariae, pondo DC; quadragenariae pondo CCCCLXXX; tricenariae pondo CCCLX; vicenariae pondo CCXL; quinûm denûm pondo CLXXX; denûm pondo CXX; octonûm pondo C; quinariae pondo LX. E latitudine autem lamnarum, quot digitos habuerint, antequam in rotundationem flectantur, magnitudinum ita nomina concipiunt fistulae. Namque quae lamna fuerit digitorum quinquaginta, cum fistula perficietur ex ea lamna vocabitur quinquagenaria similiterque reliqua.
  
 
  
@@ -414,7 +414,7 @@ Item sunt nonnullae acidae venae fontium, uti Lyncesto et in Italia Velino, Camp
  
 
  
- [10] Habent autem tubulorum ductiones ea commoda. Primum in opere quod si quod vitium factum fuerit, quilibet id potest reficere. Etiamque multo salubrior est ex tubulis aqua quam per fistulas, quod per plumbum videtur esse ideo vitiosum, quod ex eo cerussa nascitur; haec autem dicitur esse nocens corporibus humanis. Ita quod ex eo procreatur, &lt;si&gt; id est vitiosum, non est dubium, quin ipsum quoque non sit salubre.
+ [10] Habent autem tubulorum ductiones ea commoda. Primum in opere quod si quod vitium factum fuerit, quilibet id potest reficere. Etiamque multo salubrior est ex tubulis aqua quam per fistulas, quod per plumbum videtur esse ideo vitiosum, quod ex eo cerussa nascitur; haec autem dicitur esse nocens corporibus humanis. Ita quod ex eo procreatur, <si> id est vitiosum, non est dubium, quin ipsum quoque non sit salubre.
  
 
  
@@ -426,7 +426,7 @@ Item sunt nonnullae acidae venae fontium, uti Lyncesto et in Italia Velino, Camp
  
 
  
- [13] Hoc autem quibus rationibus caveatur, sic erit faciendum. Lucerna accensa demittatur; quae si permanserit ardens, sine periculo descendetur. Sin autem eripietur lumen a vi vaporis, tunc secundum puteum dextra ac sinistra defodiantur aestuaria; ita quemadmodum per nares spiritus ex aestu &lt;ariis&gt; dissipabuntur. Cum haec sic explicata fuerint et ad aquam erit perventum, tunc saepiatur a structura, nec obturentur venae.
+ [13] Hoc autem quibus rationibus caveatur, sic erit faciendum. Lucerna accensa demittatur; quae si permanserit ardens, sine periculo descendetur. Sin autem eripietur lumen a vi vaporis, tunc secundum puteum dextra ac sinistra defodiantur aestuaria; ita quemadmodum per nares spiritus ex aestu <ariis> dissipabuntur. Cum haec sic explicata fuerint et ad aquam erit perventum, tunc saepiatur a structura, nec obturentur venae.
  
 
  

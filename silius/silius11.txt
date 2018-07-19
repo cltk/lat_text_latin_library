@@ -43,7 +43,7 @@ tota se socios properarunt iungere mole.
  Sed fas id Celtis, fas impia bella referre 
 Boiorum fuerit populis: Capuaene furorem, 
 quem Senonum genti, placuisse, et Dardana ab ortu    30 
-moenia barbarico Nom&lt;a&gt;dum sociata tyranno 
+moenia barbarico Nom<a>dum sociata tyranno 
 quisnam mutato tantum nunc tempore credat? 
 luxus et insanis nutrita ignauia lustris 
 consumptusque pudor peccando unisque relictus 
@@ -63,14 +63,14 @@ delicta augebat pollutior ipsa senectus.
 nec, quos uile genus despectaque lucis origo 
 foedabat, sperare sibi et deposcere primi 
 deerant imperia ac patriae pereuntis habenas.    50 
-quin etiam exhilar&lt;ar&gt;e uiris conuiuia caede 
+quin etiam exhilar<ar>e uiris conuiuia caede 
 mos olim et miscere epulis spectacula dira 
 certantum ferro, saepe et super ipsa cadentum 
 pocula, respersis non parco sanguine mensis. 
  Has astu adgressus quo uerteret acrius aegras    55 
 ad Tyrios mentes, quae nulla sorte daturam 
-certus erat Romam (neque enim impetrata uolebat)&#151; 
-Pacuuio fuit haud obscurum crimine nomen&#151; 
+certus erat Romam (neque enim impetrata uolebat)— 
+Pacuuio fuit haud obscurum crimine nomen— 
 hortatur summi partem deposcere iuris 
 atque alternatos sociato consule fasces    60 
 et, si partita renuant sedisse curuli 
@@ -81,7 +81,7 @@ antistat cunctis praecellens Virrius ore,    65
 sed genus obscurum nullique furore secundus. 
 qui postquam coetu patrum ingentique senatu 
 impia dementis uulgi ac uix tota profudit 
-consulta &lt;et&gt; tumidis incendit uocibus aures, 
+consulta <et> tumidis incendit uocibus aures, 
 concordi fremitu renuentum effunditur asper    70 
 toto e concilio clamor, tum quisque fatigat 
 increpitans, uocumque tremit certamine templum. 
@@ -145,7 +145,7 @@ quam Carthago suos.
  Postquam nunc dicta senatus, 
 nunc facta exposuit, tum ueris falsa per artem    130 
 Virrius admiscens cecinit fatale cruenti 
-turbati&lt;s&gt; signum belli. furiata iuuentus 
+turbati<s> signum belli. furiata iuuentus 
 arma, arma Hannibalemque uolunt. ruit undique uulgus 
 et Poenos in tecta uocant. ingentia facta 
 Sidonii iuuenis celebrant: ut ruperit Alpes    135 
@@ -176,8 +176,8 @@ in medios coetus (neque enim differre dabatur)
 'Itis,' ait 'ciues, uiolanda ad iura parentum    160 
 damnatumque caput temerati foederis aris 
 iungitis hospitio? quae tanta obliuio recti? 
-magnu&lt;m&gt; atque in magnis positum populisque uirisque 
-&lt;h&gt;a&lt;u&gt;d uersam ostentare fidem! nunc tempus inire 
+magnu<m> atque in magnis positum populisque uirisque 
+<h>a<u>d uersam ostentare fidem! nunc tempus inire 
 proelia pro Rutulis, nunc signa aciemque mouere,    165 
 dum trepidae res, et medicinam uulnera poscunt: 
 is locus officio, cum cessant prospera, cumque 
@@ -304,16 +304,16 @@ laetitia, et positae grauiores pectore curae.
  Personat Euboica Teuthras testudine, Cymes 
 incola, et obtusas immiti murmure saeuae 
 inter bella tubae permulcet cantibus auris.    290 
-&lt;namque chaos, caecam quondam sine sidere molem    453 
+<namque chaos, caecam quondam sine sidere molem    453 
 non surgente die, ac mundum sine luce canebat. 
 tum deus ut liquidi disclusset stagna profundi 
 tellurisque globum media compage locasset; 
 ut celsum superis habitare dedisset Olympum, 
-castaque Saturni monstrabat saecula patris.&gt; 
+castaque Saturni monstrabat saecula patris.> 
 iamque Iouem et laetos per furta canebat amores    291 
 Electraeque toros Atlantidos, unde creatus 
 proles digna deum tum Dardanus, isque Tonanti 
-ut det Eric&lt;h&gt;thonium magna de stirpe nepotem; 
+ut det Eric<h>thonium magna de stirpe nepotem; 
 hinc Tros, hinc Ilus, generis tunc ordine longo    295 
 Assaracus, nulloque minor famaue manuue 
 tum Capys ut primis dederit sua nomina muris. 
@@ -385,10 +385,10 @@ Scipiadae Poenus, nec tantum fata dederunt
 externa peragi dextra. pulcherrimus irae 
 et dignus fieri compos memorabilis ausi, 
 amisit quantam posito conamine laudem,    365 
-cui tantum est uoluisse decus. tum red&lt;d&gt;ere sese 
+cui tantum est uoluisse decus. tum red<d>ere sese 
 festinant epulis et tristia fronte serenant, 
 donec laeta uirum soluit conuiuia somnus. 
- Postera lux Phaet&lt;h&gt;ontis equos proferre parabat, 
+ Postera lux Phaet<h>ontis equos proferre parabat, 
 iam rapido summis curru splendente sub undis,    370 
 et iuuenis magno generatus Hamilcare duras 
 iam dudum exercet curas. Carthaginis arces 
@@ -489,7 +489,7 @@ cum siluis uenere ferae, cum montibus amnes,
 immemor et dulcis nidi positoque uolatu 
 non mota uolucris captiua pependit in aethra. 
 quin etiam, Pagasaea ratis, cum caerula nondum 
-cognita terrere&lt;nt&gt; pontoque intrare negarent,    470 
+cognita terrere<nt> pontoque intrare negarent,    470 
       . . . . . . . . . . . .             470a 
 ad puppim sacrae, cithara eliciente, carinae 
 adductum cantu uenit mare. pallida regna 
@@ -517,7 +517,7 @@ certatim ingenti celebrat noua gaudia plausu.
 aequatur rector diuis: illum undique matres, 
 illum turba minor moniti gaudere nepotes,    495 
 et senior manus et iuxta populusque patresque 
-mactatis superum digna&lt;n&gt;tur honore iuuencis. 
+mactatis superum digna<n>tur honore iuuencis. 
 sic patriam Mago et portas ingressus ouantis 
 fraternae laudis fama. ruit inde senatus, 
 et multo patrum stipatur curia coetu.    500 
@@ -564,7 +564,7 @@ quas emimus bello. defit iam belua, tristis    540
 Ausoniis terror, necnon alimenta fatigant.' 
  Atque ea dum memorat, toruo conuersus in ora 
 Hannonis uultu, quem gliscens gloria prauum 
-ductori&lt;s&gt; studio iam dudum agitabat acerbo: 
+ductori<s> studio iam dudum agitabat acerbo: 
 'Iamne tibi dextras inceptaque nostra probamus?    545 
 iam fas Dardanio me non seruire colono? 
 anne iterum Hannibalem dedi placet? atra ueneno 
@@ -574,13 +574,13 @@ infelix muta. dextra en, en dextera, quam tu    550
 Aeneadis lacerare dabas, et litora et amnes 
 et stagna et latos impleuit sanguine campos.' 
 haec Mago, atque animos fauor haud obscurus alebat. 
- Cui, simul inuidia atque ira stimulantibus, Hanno&lt;n&gt;: 
+ Cui, simul inuidia atque ira stimulantibus, Hanno<n>: 
 'Talia uesani iuuenis conuicia miror    555 
 haud equidem: tumet ingenio, fraternaque corda 
 non tarde agnoscas et uirus futtile linguae. 
 qui ne mutatum uanis absistere credat, 
 nunc pacem orandum, nunc improba foedere rupto 
-arma reponendu&lt;m&gt; et bellum exitiale cauendum    560 
+arma reponendu<m> et bellum exitiale cauendum    560 
 auctor ego. atque adeo uosmet perpendite, quaeso, 
 quid ferat: haud aliud nobis censere relictum est. 
 tela, uiros, aurum, classis, alimenta precatur 

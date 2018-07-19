@@ -8,8 +8,8 @@ Nero: Act V.3
  
 
  UMBRA AGRIPPINAE, POPPAEA GRAVIDA, NERO
-E THEATRO, &lt;EPAPHRODITUS,&gt; TIGELLINUS, &lt;CAPITO
-COSSUTIANUS&gt; 
+E THEATRO, <EPAPHRODITUS,> TIGELLINUS, <CAPITO
+COSSUTIANUS> 
 
  
 
@@ -132,7 +132,7 @@ age, nolo, nequeo: sed deus vindex tibi, ah.
   NERO duratis, oculi,
 duri, inhumani, truces, 
 
-spectare? nec pro&thorn;uitis in lacrymas? an est 
+spectare? nec proþuitis in lacrymas? an est 
 
 dolor iste supra lacrymas, et fit stupor?  4215 
 
@@ -485,7 +485,7 @@ mala quando nec spem nec metum ulterius ferunt?
 
 fortuna, spes, valete: mihi portus patet. 
 
-aperio venas: his &thorn;uunt fontes Stygis.
+aperio venas: his þuunt fontes Stygis.
  
 
 iubet tyrannus Arbitrum (o feritas) mori 
@@ -497,7 +497,7 @@ video necesse, ut iussit, intra horam mori.
 
 ut hora, ad horam e clepysdra stillans aqua; 
 
-sanguis ita, vita ad sanguinem sensim ef&thorn;uit. 
+sanguis ita, vita ad sanguinem sensim efþuit. 
 
 sed prius in istis rite codicillis, nihil 
 
@@ -507,7 +507,7 @@ plerique morti sic dati), eleganti stylo,
 
 sub faeminarum, et exoletorum novis 
 
-titulis, Neronis &thorn;agitia scripsi, et stupra. 
+titulis, Neronis þagitia scripsi, et stupra. 
 
 quae Silia nimum conscium haud siluit mihi. 
  
@@ -669,7 +669,7 @@ breviore, in alium quam relegari diem.
 dii negligentes: saeve, Nero, servi patres. 
 
  THRAS. maledicta cessent: lacrymae haud fortem decent. 
-ne &thorn;ete, amici; fugite non &thorn;entem ocyus; 
+ne þete, amici; fugite non þentem ocyus; 
 pericla nec miscere: sufficiam neci.  4460 
  
  
@@ -758,7 +758,7 @@ facis ut oportet, Paete.
  
 siquid molestum, aut triste narrabo
 tibi.   4495 
-sed hunc liquorum libo &#167;leuy&#176;r&#171;i 
+sed hunc liquorum libo §leuy°r«i 
 Iovi. 
 
  Ad quaestorem. 

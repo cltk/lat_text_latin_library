@@ -36,7 +36,7 @@ Lusus erat sacrae conubia taedae,
 Vltraque tu prohibes, Caesar, populisque futuris 
   succurris, nasci quos sine fraude iubes. 
 Nec spado iam nec moechus erit te praeside quisquam:    5 
-  at prius&#151;o mores&#151;et spado moechus erat.
+  at prius—o mores—et spado moechus erat.
  
 
  
@@ -389,7 +389,7 @@ Arrigere desit posse Sotades: lingit.
  
 
  
-Bis uicine Nepos&#151;nam tu quoque proxima Florae 
+Bis uicine Nepos—nam tu quoque proxima Florae 
   incolis et ueteres tu quoque Ficelias Ñ 
 est tibi, quae patria signatur imagine uoltus, 
   testis maternae nata pudicitiae. 

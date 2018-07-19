@@ -100,7 +100,7 @@ De Architectura Liber IX
  
 
  
- [1] Nobilibus athletis, qui Olympia, Isthmia, Nemea vicissent, Graecorum maiores ita magnos honores constituerunt, uti non modo in conventu stantes cum palma et corona ferant laudes, sed etiam, cum revertantur in suas civitates cum victoria, triumphantes quadrigis in moenia et in patrias invehantur e reque publica perpetua vita constitutis vetigalibus fruantur. Cum ergo id animadvertam, admiror, quid ita non scriptoribus eidem honores etiamque maiores sint tributi, qui infinitas utilitates aevo perpetuo omnibus gentibus praestant. Id enim magis erat institui dignum, quod athletae sua corpora exercitationibus efficiunt fortiora, scriptores non solum suos sensus, sed etiam omnium, &lt;cum&gt; libris ad discendum et animos exacuendos praeparant praecepta.
+ [1] Nobilibus athletis, qui Olympia, Isthmia, Nemea vicissent, Graecorum maiores ita magnos honores constituerunt, uti non modo in conventu stantes cum palma et corona ferant laudes, sed etiam, cum revertantur in suas civitates cum victoria, triumphantes quadrigis in moenia et in patrias invehantur e reque publica perpetua vita constitutis vetigalibus fruantur. Cum ergo id animadvertam, admiror, quid ita non scriptoribus eidem honores etiamque maiores sint tributi, qui infinitas utilitates aevo perpetuo omnibus gentibus praestant. Id enim magis erat institui dignum, quod athletae sua corpora exercitationibus efficiunt fortiora, scriptores non solum suos sensus, sed etiam omnium, <cum> libris ad discendum et animos exacuendos praeparant praecepta.
  
 
  
@@ -113,7 +113,7 @@ paribus lateribus facere, quaerendum erit, quam magnum latus eius quadrati fiat,
  
 
  
- [5] Ergo quoniam id non explicatur numero, in eo quadrato, longo et lato pedes X quod fuerit, linea ab angulo ad angulum diagonios perducatur, uti dividantur duo trigona aequa magnitudine, singula area pedum quinquagen&ucirc;m, ad eiusque lineae diagonalis longitudinem locus quadratus paribus lateribus describatur. Ita quam magna duo trigona in minores quadrato quinquagen&ucirc;m pedum linea diagonio fuerint designata, eadem magnitudine et eodem pedum numero quattuor in maiore erunt effecta. Hac ratione duplicatio grammicis rationibus ab Platone, uti schema subscriptum est, explicata est in ima pagina.
+ [5] Ergo quoniam id non explicatur numero, in eo quadrato, longo et lato pedes X quod fuerit, linea ab angulo ad angulum diagonios perducatur, uti dividantur duo trigona aequa magnitudine, singula area pedum quinquagenûm, ad eiusque lineae diagonalis longitudinem locus quadratus paribus lateribus describatur. Ita quam magna duo trigona in minores quadrato quinquagenûm pedum linea diagonio fuerint designata, eadem magnitudine et eodem pedum numero quattuor in maiore erunt effecta. Hac ratione duplicatio grammicis rationibus ab Platone, uti schema subscriptum est, explicata est in ima pagina.
  
 
  
@@ -277,7 +277,7 @@ Nunc, ut in singulis mensibus sol signa pervadens auget et minuit dierum et hora
  
 
  
- [1] Namque cum arietis signum iniit et partem octavam pervagatur, perficit aequinoctium vernum. Cum progreditur ad caudam tauri sidusque vergiliarum, e quibus eminet dimidia pars prior tauri, in maius spatium mundi quam dimidium procurrit procedens ad septentrionalem partem. E tauro cum ingreditur in geminos exorientibus vergiliis, magis crescit supra terram et auget spatia dierum. Deinde &lt;e&gt; geminis cum iniit ad cancrum, qui brevissimum tenet caeli spatium, cum pervenit in partem octavam, perficit solstitiale tempus, et peragens pervenit ad caput et pectus leonis, quod eae partes cancero sunt attributae.
+ [1] Namque cum arietis signum iniit et partem octavam pervagatur, perficit aequinoctium vernum. Cum progreditur ad caudam tauri sidusque vergiliarum, e quibus eminet dimidia pars prior tauri, in maius spatium mundi quam dimidium procurrit procedens ad septentrionalem partem. E tauro cum ingreditur in geminos exorientibus vergiliis, magis crescit supra terram et auget spatia dierum. Deinde <e> geminis cum iniit ad cancrum, qui brevissimum tenet caeli spatium, cum pervenit in partem octavam, perficit solstitiale tempus, et peragens pervenit ad caput et pectus leonis, quod eae partes cancero sunt attributae.
  
 
  
@@ -285,7 +285,7 @@ Nunc, ut in singulis mensibus sol signa pervadens auget et minuit dierum et hora
  
 
  
- [3] Scorpionem autem cum sol ingressus fuerit occidentibus vergiliis, minuit progrediens meridianas partes longitudines dierum. E scorpione cum percurrendo init in sagittarium ad &lt;femorem&gt; eius, contractiorem diurnum pervolat cursum. Cum autem incipit a &lt;femoribus&gt; sagittarii, quae pars est attributa capricorno, ad partem octavam, brevissimum caeli percurrit spatium. Ex eo a brevitate diurna bruma ac dies brumales appellantur. E capricorno autem transiens in aquarium adauget et aequat sagittarii longitudine diei spatium. Ab aquario cum ingressus est in pisces favonio flante, scorpionis comparat aequalem cursum. Ita sol ea signa circum pervagando certis temporibus auget aut minuit dierum et horarum spatia.
+ [3] Scorpionem autem cum sol ingressus fuerit occidentibus vergiliis, minuit progrediens meridianas partes longitudines dierum. E scorpione cum percurrendo init in sagittarium ad <femorem> eius, contractiorem diurnum pervolat cursum. Cum autem incipit a <femoribus> sagittarii, quae pars est attributa capricorno, ad partem octavam, brevissimum caeli percurrit spatium. Ex eo a brevitate diurna bruma ac dies brumales appellantur. E capricorno autem transiens in aquarium adauget et aequat sagittarii longitudine diei spatium. Ab aquario cum ingressus est in pisces favonio flante, scorpionis comparat aequalem cursum. Ita sol ea signa circum pervagando certis temporibus auget aut minuit dierum et horarum spatia.
  
 
  
@@ -301,7 +301,7 @@ Nunc de ceteris sideribus, quae sunt dextra ac sinistra zonam signorum meridiana
  
 
  
- [2] E regione capitis septentrionis transversus ad pedes geminorum auriga stat in summo cornu tauri -- itemque in summo cornu laevo et auriga petis una tenet parte stellam -- et appelluntur aurigae manui haedi, capra laevo umero. Tauri quidem et arietis insuper Perseus -- dexterioribus subter currens basem vergiliis, at sinisterioris caput arietis -- et manu dextra innitens Cassi&lt;o&gt;piae simulacro, laeva supra tauri tenet gorgoneum ad summum caput, subiciensque Andromedae pedibus.
+ [2] E regione capitis septentrionis transversus ad pedes geminorum auriga stat in summo cornu tauri -- itemque in summo cornu laevo et auriga petis una tenet parte stellam -- et appelluntur aurigae manui haedi, capra laevo umero. Tauri quidem et arietis insuper Perseus -- dexterioribus subter currens basem vergiliis, at sinisterioris caput arietis -- et manu dextra innitens Cassi<o>piae simulacro, laeva supra tauri tenet gorgoneum ad summum caput, subiciensque Andromedae pedibus.
  
 
  
@@ -365,7 +365,7 @@ Quae sunt ad dextram orientis inter zonam signorum et septentrionum sidera in ca
  
 
  
- [1] Nobis autem ab his separandae sunt rationes et explicandae menstruae dierum brevitates itemque depalationes. Namque sol aequinoctiali tempore ariete libraque versando, quas e gnomone partes habent novem, eas umbrae facit VIII in declinatione caeli, quae est Romae. Idemque Athenis quam magnae sunt gnomonis partes quattuor, umbrae sunt tres, ad VII Rhodo V, ad XI Tarenti IX, ad quinque &lt;Alexandriae&gt; ceterisque omnibus locis aliae alio modo umbrae gnomonum aequinoctiales a natura rerum inveniuntur disparatae.
+ [1] Nobis autem ab his separandae sunt rationes et explicandae menstruae dierum brevitates itemque depalationes. Namque sol aequinoctiali tempore ariete libraque versando, quas e gnomone partes habent novem, eas umbrae facit VIII in declinatione caeli, quae est Romae. Idemque Athenis quam magnae sunt gnomonis partes quattuor, umbrae sunt tres, ad VII Rhodo V, ad XI Tarenti IX, ad quinque <Alexandriae> ceterisque omnibus locis aliae alio modo umbrae gnomonum aequinoctiales a natura rerum inveniuntur disparatae.
  
 
  
@@ -373,7 +373,7 @@ Quae sunt ad dextram orientis inter zonam signorum et septentrionum sidera in ca
  
 
  
- [4] Deinde circinationis totius sumenda pars est XV; et circini centrum conlocandum in linea circinationis, quod loci secat eam lineam aequinoctialis radius, ubi erit littera F; et signandum dextra sinistra, ubi sunt litterae G H. Deinde ab his &lt;et per centrum&gt; lineae usque ad lineam planitiae perducendae sunt, ubi erunt litterae T R. Ita erit solis radius unus hibernus, alter aestivus. Contra autem &lt;E&gt; littera I erit, qua secat circinationem linea, quae est traiecta per centrum, ubi erunt litterae Y K L G, et contra K litterae erunt K H X L; et contra C et F et A erit littera N. [5] Tunc perducendae sunt diametro ab G ad L et ab H &lt;ad K&gt;. Quae erit superior, partis erit aestivae, inferior hibernae. Eaeque diametro sunt aeque mediae dividendae, ubi erunt litterae O et M, ibique centra signanda. Et per ea signa et centrum A lineae ad extremas lineae circinationis sunt perducendae, ubi erunt litterae Q et P; haec erit linea pros orthas radio aequinoctiali. Vocabitur autem haec linea mathematicis rationibus axon . Et ab eisdem centris deducto circino ad extremas diametros describantur hemicyclia, quorum unum erit aestivum, alterum hibernum.
+ [4] Deinde circinationis totius sumenda pars est XV; et circini centrum conlocandum in linea circinationis, quod loci secat eam lineam aequinoctialis radius, ubi erit littera F; et signandum dextra sinistra, ubi sunt litterae G H. Deinde ab his <et per centrum> lineae usque ad lineam planitiae perducendae sunt, ubi erunt litterae T R. Ita erit solis radius unus hibernus, alter aestivus. Contra autem <E> littera I erit, qua secat circinationem linea, quae est traiecta per centrum, ubi erunt litterae Y K L G, et contra K litterae erunt K H X L; et contra C et F et A erit littera N. [5] Tunc perducendae sunt diametro ab G ad L et ab H <ad K>. Quae erit superior, partis erit aestivae, inferior hibernae. Eaeque diametro sunt aeque mediae dividendae, ubi erunt litterae O et M, ibique centra signanda. Et per ea signa et centrum A lineae ad extremas lineae circinationis sunt perducendae, ubi erunt litterae Q et P; haec erit linea pros orthas radio aequinoctiali. Vocabitur autem haec linea mathematicis rationibus axon . Et ab eisdem centris deducto circino ad extremas diametros describantur hemicyclia, quorum unum erit aestivum, alterum hibernum.
  
 
  

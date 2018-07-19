@@ -9,7 +9,7 @@ Seneca: Quaestiones Naturales III
 
  L. ANNAEI SENECAE QUAESTIONES NATURALES
  
-LIBER III DE AQUIS &lt;TERRESTRIBUS&gt;
+LIBER III DE AQUIS <TERRESTRIBUS>
  
 
  
@@ -506,7 +506,7 @@ huic tractabili et cultae.
 constitutum; habet suas uenas, quibus impletur atque aestuat. 
 Quomodo maris sic et huius aquae mitioris uasta in occulto uis 
 est, quam nullius fluminis cursus exhauriet. Abdita est uirium 
-ratio: tantum ex illa, quantum semper fluere &lt;pos&gt;sit, emittitur.
+ratio: tantum ex illa, quantum semper fluere <pos>sit, emittitur.
  
 
  
@@ -566,8 +566,8 @@ desinit posse alimenta in umorem conuertere.
 autem exhausta replentur modo per se uiribus recollectis, modo 
 aliunde translatis: saepe enim inania apposita plenis umorem in 
 se auocauerunt; saepe terra, si facilis est in tabem, ipsa soluitur 
-et umescit; &lt;saepe&gt; idem euenit sub terra quod in nubibus, ut 
-spissetur &lt;aer&gt; grauiorque, quam ut manere in natura sua possit, 
+et umescit; <saepe> idem euenit sub terra quod in nubibus, ut 
+spissetur <aer> grauiorque, quam ut manere in natura sua possit, 
 gignat umorem; saepe colligitur roris modo tenuis et dispersus 
 liquor, qui ex multis in unum locis confluit (sudorem aquileges 
 uocant, quia guttae quaedam uel pressura loci eliduntur 
@@ -653,9 +653,9 @@ oculos ante quam gulam pauit?
 [18,1] Permitte mihi quaestione seposita castigare luxuriam. 
 Nihil est, inquis, mullo expirante illis formosius: ipsa 
 colluctatione animae deficientis rubor primum, deinde pallor 
-subfunditur, squamaeque uariantur et &lt;in&gt; incertas facies inter 
+subfunditur, squamaeque uariantur et <in> incertas facies inter 
 uitam ac mortem coloris est uagatio. Languor somniculosae 
-inertisque luxuriae quam&lt;quam&gt; sero experrectus circumscribi 
+inertisque luxuriae quam<quam> sero experrectus circumscribi 
 se et fraudari tanto bono sensit: hoc adhuc tam pulchro 
 spectaculo piscatores fruebantur.
  
@@ -750,7 +750,7 @@ per iniuriam.
  
 [20,2] Hae causae saporem dant aquis uarium, hae 
 medicatam potentiam, hae grauera spiritum odoremque pestiferum, 
-hae leuitatem grauitatemque, &lt;hae&gt; aut calorem aut nimium 
+hae leuitatem grauitatemque, <hae> aut calorem aut nimium 
 rigorem. Interest utrum loca sulphure an nitro an bitumine 
 plena transierint; hac ratione corruptae cum uitae periculo 
 bibuntur.
@@ -891,7 +891,7 @@ lacu exeunt diuersa facturi.
 
  
 [25,4] In Macedonia quoque, ut 
-ait Theophrastus, qui facere albas oues uolunt, &lt;ad Haliacmonem&gt; 
+ait Theophrastus, qui facere albas oues uolunt, <ad Haliacmonem> 
 adducunt, quem ut diutius potauere, non aliter quam infectae 
 mutantur; at si illis lana opus fuit pulla, paratus gratuitus 
 infector est: ad Peneion eundem gregem appellunt. Auctores 
@@ -950,7 +950,7 @@ sparsas pinguis umor apprehendit ac uinxit.
  
 [25,10] Itaque etiam si 
 qua in illa saxa sunt, inuenies exesa et fistulosa, qualia sunt quae 
-duratus umor eficit, utique circa medicatorum fontium &lt;ripas&gt; 
+duratus umor eficit, utique circa medicatorum fontium <ripas> 
 riuosque, ubi purgamenta aquarum coaluerunt et spuma solidatur: 
 necessario leue est quod ex uentoso inanique concretum est.
  
@@ -1028,7 +1028,7 @@ secundo traditum flumini illic redundare.
 
  
 [26,6] Hoc et a te creditum 
-est, ut in prima parte &lt;dixi&gt;, Lucili carissime, et a Uergilio, qui 
+est, ut in prima parte <dixi>, Lucili carissime, et a Uergilio, qui 
 alloquitur Arethusam:
 "sic tibi, cum fluctus subter labere Sicanos, 
 Doris amara suas non intermisceat undas." 
@@ -1369,7 +1369,7 @@ pessundabit.
  
 
  
-[30,1] Sunt omnia, ut dixi, facilia naturae, utique &lt;quae&gt; a 
+[30,1] Sunt omnia, ut dixi, facilia naturae, utique <quae> a 
 primo facere constituit, ad quae non subito sed ex denuntiato 
 uenit. Iam autem a primo die mundi, cum in hunc habitum ex 
 informi unitate discederet, quando mergerentur terrena decretum 

@@ -127,7 +127,7 @@ libera currebant et inobservata per annum
   sidera; constabat sed tamen esse deos. 
 non illi caelo labentia signa tenebant, 
   sed sua, quae magnum perdere crimen erat, 
-illa quidem &lt;e> feno, sed erat reverentia feno    115 
+illa quidem <e> feno, sed erat reverentia feno    115 
   quantam nunc aquilas cernis habere tuas. 
 pertica suspensos portabat longa maniplos, 
   unde maniplaris nomina miles habet. 
@@ -907,10 +907,10 @@ an quia, cum colerent prisci studiosius agros,
   et faceret patrio rure senator opus,    780 
 et caperet fasces a curvo consul aratro, 
   nec crimen duras esset habere manus, 
-rusticus ad ludos populus veniebat in Urbem&#151; 
+rusticus ad ludos populus veniebat in Urbem— 
   sed dis, non studiis ille dabatur honor: 
 luce sua ludos uvae commentor habebat,    785 
-  quos cum taedifera nunc habet ille dea&#151; 
+  quos cum taedifera nunc habet ille dea— 
  ergo ut tironem celebrare frequentia possit, 
   visa dies dandae non aliena togae? 
 mite caput, pater, huc placataque cornua vertas, 

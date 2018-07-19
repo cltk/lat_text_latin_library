@@ -19,7 +19,7 @@ Cicero: pro Marcello
  
 
  
-[ 1 ] [I] Diuturni silenti, patres conscripti, quo eram his temporibus usus&#151;non timore aliquo, sed partim dolore, partim verecundia&#151;finem hodiernus dies attulit, idemque initium quae vellem quaeque sentirem meo pristino more dicendi. Tantam enim mansuetudinem, tam inusitatam inauditamque clementiam, tantum in summa potestate rerum omnium modum, tam denique incredibilem sapientiam ac paene divinam, tacitus praeterire nullo modo possum. 
+[ 1 ] [I] Diuturni silenti, patres conscripti, quo eram his temporibus usus—non timore aliquo, sed partim dolore, partim verecundia—finem hodiernus dies attulit, idemque initium quae vellem quaeque sentirem meo pristino more dicendi. Tantam enim mansuetudinem, tam inusitatam inauditamque clementiam, tantum in summa potestate rerum omnium modum, tam denique incredibilem sapientiam ac paene divinam, tacitus praeterire nullo modo possum. 
  
 
  
@@ -51,7 +51,7 @@ Cicero: pro Marcello
  
 
  
- [ 9 ] Itaque, C. Caesar, bellicae tuae laudes celebrabuntur illae quidem non solum nostris, sed paene omnium gentium litteris atque linguis, nec ulla umquam aetas de tuis laudibus conticescet. Sed tamen eius modi res nescio quo modo etiam cum leguntur, obstrepi clamore militum videntur et tubarum sono. At vero cum aliquid clementer, mansuete, iuste, moderate, sapienter factum&#151;in iracundia praesertim, quae est inimica consilio, et in victoria, quae natura insolens et superba est&#151;audimus aut legimus, quo studio incendimur, non modo in gestis rebus, sed etiam in fictis, ut eos saepe, quos numquam vidimus, diligamus! 
+ [ 9 ] Itaque, C. Caesar, bellicae tuae laudes celebrabuntur illae quidem non solum nostris, sed paene omnium gentium litteris atque linguis, nec ulla umquam aetas de tuis laudibus conticescet. Sed tamen eius modi res nescio quo modo etiam cum leguntur, obstrepi clamore militum videntur et tubarum sono. At vero cum aliquid clementer, mansuete, iuste, moderate, sapienter factum—in iracundia praesertim, quae est inimica consilio, et in victoria, quae natura insolens et superba est—audimus aut legimus, quo studio incendimur, non modo in gestis rebus, sed etiam in fictis, ut eos saepe, quos numquam vidimus, diligamus! 
  
 
  
@@ -59,7 +59,7 @@ Cicero: pro Marcello
  
 
  
- [ 11 ] Hunc tu igitur diem tuis maximis et innumerabilibus gratulationibus iure antepones. Haec enim res unius est propria C. Caesaris: ceterae duce te gestae magnae illae quidem, sed tamen multo magnoque comitatu. Huius autem rei tu idem es et dux et comes: quae quidem tanta est, ut tropaeis et monumentis tuis adlatura finem sit aetas,&#151;nihil est enim opere et manu factum, quod non [aliquando] conficiat et consumat ventustas: 
+ [ 11 ] Hunc tu igitur diem tuis maximis et innumerabilibus gratulationibus iure antepones. Haec enim res unius est propria C. Caesaris: ceterae duce te gestae magnae illae quidem, sed tamen multo magnoque comitatu. Huius autem rei tu idem es et dux et comes: quae quidem tanta est, ut tropaeis et monumentis tuis adlatura finem sit aetas,—nihil est enim opere et manu factum, quod non [aliquando] conficiat et consumat ventustas: 
  
 
  
@@ -95,11 +95,11 @@ Cicero: pro Marcello
  
 
  
- [ 20 ] Noli igitur in conservandis bonis viris defetigari&#151;non cupiditate praesertim aliqua aut pravitate lapsis, sed opinione offici stulta fortasse, certe non improba, et specie quadam rei publicae: non enim tua culpa est si te aliqui timuerunt, contraque summa laus, quod minime timendum fuisse senserunt. 
+ [ 20 ] Noli igitur in conservandis bonis viris defetigari—non cupiditate praesertim aliqua aut pravitate lapsis, sed opinione offici stulta fortasse, certe non improba, et specie quadam rei publicae: non enim tua culpa est si te aliqui timuerunt, contraque summa laus, quod minime timendum fuisse senserunt. 
  
 
  
- [ 21 ] [VII] Nunc venio ad gravissimam querelam et atrocissimam suspicionem tuam, quae non tibi ipsi magis quam cum omnibus civibus tum maxime nobis, qui a te conservati sumus, providenda est: quam etsi spero falsam esse, tamen numquam extenuabo verbis. Tua enim cautio nostra cautio est, ut si in alterutro peccandum sit, malim videri nimis timidus quam parum prudens. Sed quisnam est iste tam demens? De tuisne? &#151;tametsi qui magis sunt tui quam quibus tu salutem insperantibus reddidisti? &#151;an ex hoc numero, qui una tecum fuerunt? Non est credibilis tantus in ullo furor, ut quo duce omnia summa sit adeptus, huius vitam non anteponat suae. An si nihil tui cogitant sceleris, cavendum est ne quid inimici? Qui? omnes enim, qui fuerunt, aut sua pertinacia vitam amiserunt, aut tua misericordia retinuerunt; ut aut nulli supersint de inimicis, aut qui fuerunt sint amicissimi. 
+ [ 21 ] [VII] Nunc venio ad gravissimam querelam et atrocissimam suspicionem tuam, quae non tibi ipsi magis quam cum omnibus civibus tum maxime nobis, qui a te conservati sumus, providenda est: quam etsi spero falsam esse, tamen numquam extenuabo verbis. Tua enim cautio nostra cautio est, ut si in alterutro peccandum sit, malim videri nimis timidus quam parum prudens. Sed quisnam est iste tam demens? De tuisne? —tametsi qui magis sunt tui quam quibus tu salutem insperantibus reddidisti? —an ex hoc numero, qui una tecum fuerunt? Non est credibilis tantus in ullo furor, ut quo duce omnia summa sit adeptus, huius vitam non anteponat suae. An si nihil tui cogitant sceleris, cavendum est ne quid inimici? Qui? omnes enim, qui fuerunt, aut sua pertinacia vitam amiserunt, aut tua misericordia retinuerunt; ut aut nulli supersint de inimicis, aut qui fuerunt sint amicissimi. 
  
 
  
@@ -147,7 +147,7 @@ Cicero: pro Marcello
  
 
  
- [ 33 ] [XXX] Sed, ut unde est orsa, in eodem terminetur oratio,&#151;maximas tibi omnes gratias agimus, C. Caesar, maiores etiam habemus. Nam omnes idem sentiunt, quod ex omnium precibus et lacrimis sentire potuisti: sed quia non est omnibus stantibus necesse dicere, a me certe dici volunt, cui necesse est quodam modo, et quod fieri decet&#151;M. Marcello a te huic ordini populoque Romano et rei publicae reddito&#151;fieri id intellego. Nam laetari omnis non de unius solum, sed de communi omnium salute sentio. 
+ [ 33 ] [XXX] Sed, ut unde est orsa, in eodem terminetur oratio,—maximas tibi omnes gratias agimus, C. Caesar, maiores etiam habemus. Nam omnes idem sentiunt, quod ex omnium precibus et lacrimis sentire potuisti: sed quia non est omnibus stantibus necesse dicere, a me certe dici volunt, cui necesse est quodam modo, et quod fieri decet—M. Marcello a te huic ordini populoque Romano et rei publicae reddito—fieri id intellego. Nam laetari omnis non de unius solum, sed de communi omnium salute sentio. 
  
 
  

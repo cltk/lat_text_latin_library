@@ -13,11 +13,11 @@ Valerius Maximus IV
  
 
  
-4.1.init. Transgrediar ad saluberrimam partem animi, moderationem, quae mentes nostras inpotentiae &lt;et&gt; temeritatis incursu transuersas ferri non patitur. quo euenit ut reprehensionis morsu sit uacua et laudis quaestu sit opulentissima. itaque effectus suos in claris uiris recognoscat.
+4.1.init. Transgrediar ad saluberrimam partem animi, moderationem, quae mentes nostras inpotentiae <et> temeritatis incursu transuersas ferri non patitur. quo euenit ut reprehensionis morsu sit uacua et laudis quaestu sit opulentissima. itaque effectus suos in claris uiris recognoscat.
  
 
  
-4.1.1 Atque ut &lt;ab&gt; incunabulis summi honoris incipiam, P. Valerius, qui populi maiestatem uenerando Publicolae nomen adsecutus est, cum exactis regibus imperii eorum uim uniuersam omniaque insignia sub titulo consulatus in se translata cerneret, inuidiosum magistratus fastigium moderatione ad tolerabilem habitum deduxit fasces securibus uacuefaciendo et in contione populo summittendo. numerum quoque eorum dimidia ex parte minuit ultro Sp. Lucretio collega adsumpto, ad quem, quia maior natu erat, priorem fasces transferri iussit. legem etiam comitiis centuriatis tulit, ne quis magistratus ciuem Romanum aduersus prouocationem uerberare aut necare uellet. ita, quo ciuitatis condicio liberior esset, imperium suum paulatim destruxit. quid quod aedes suas diruit, quia excelsiore loco positae instar arcis habere uidebantur, nonne quantum domo inferior, tantum gloria superior euasit?
+4.1.1 Atque ut <ab> incunabulis summi honoris incipiam, P. Valerius, qui populi maiestatem uenerando Publicolae nomen adsecutus est, cum exactis regibus imperii eorum uim uniuersam omniaque insignia sub titulo consulatus in se translata cerneret, inuidiosum magistratus fastigium moderatione ad tolerabilem habitum deduxit fasces securibus uacuefaciendo et in contione populo summittendo. numerum quoque eorum dimidia ex parte minuit ultro Sp. Lucretio collega adsumpto, ad quem, quia maior natu erat, priorem fasces transferri iussit. legem etiam comitiis centuriatis tulit, ne quis magistratus ciuem Romanum aduersus prouocationem uerberare aut necare uellet. ita, quo ciuitatis condicio liberior esset, imperium suum paulatim destruxit. quid quod aedes suas diruit, quia excelsiore loco positae instar arcis habere uidebantur, nonne quantum domo inferior, tantum gloria superior euasit?
  
 
  
@@ -37,7 +37,7 @@ Valerius Maximus IV
  
 
  
-4.1.6 Non defuit maioribus grata mens ad praemia superiori Africano exsoluenda, si quidem maxima eius merita paribus ornamentis decorare conati sunt. uoluerunt illi statuas in comitio, in rostris, in curia, in ipsa denique Iouis optimi maximi cella ponere, uoluerunt imaginem eius triumphali ornatu indutam Capitolinis puluinaribus adplicare, uoluerunt ei continuum per omnes uitae annos consulatum perpetuamque dictaturam tribuere: quorum &lt;nihil&gt; sibi neque plebiscito dari neque senatus consulto decerni patiendo paene tantum se in recusandis honoribus gessit, quantum egerat in emerendis..
+4.1.6 Non defuit maioribus grata mens ad praemia superiori Africano exsoluenda, si quidem maxima eius merita paribus ornamentis decorare conati sunt. uoluerunt illi statuas in comitio, in rostris, in curia, in ipsa denique Iouis optimi maximi cella ponere, uoluerunt imaginem eius triumphali ornatu indutam Capitolinis puluinaribus adplicare, uoluerunt ei continuum per omnes uitae annos consulatum perpetuamque dictaturam tribuere: quorum <nihil> sibi neque plebiscito dari neque senatus consulto decerni patiendo paene tantum se in recusandis honoribus gessit, quantum egerat in emerendis..
  
 
  
@@ -65,11 +65,11 @@ Eodem robore mentis causam Hannibalis in senatu protexit, cum eum ciues sui miss
  
 
  
-4.1.12 Sentio quos ciues quaeue facta eorum ac dicta quam angusto ambitu orationis amplectar. &eth;sed cum magna mihi atque permulta breuiter dicenda sint, claritate excellentibus infinitis personis rebusque circumfusus utrumque praestare non potuit. itaque propositi quoque nostri ratio non laudanda sibi omnia, sed recordanda sumpsit. quapropter bona cum uenia duo Metelli, Macedonicus et Numidicus, maxima patriae ornamenta strictim se narrari patientur.
+4.1.12 Sentio quos ciues quaeue facta eorum ac dicta quam angusto ambitu orationis amplectar. ðsed cum magna mihi atque permulta breuiter dicenda sint, claritate excellentibus infinitis personis rebusque circumfusus utrumque praestare non potuit. itaque propositi quoque nostri ratio non laudanda sibi omnia, sed recordanda sumpsit. quapropter bona cum uenia duo Metelli, Macedonicus et Numidicus, maxima patriae ornamenta strictim se narrari patientur.
  
 
  
-Acerrime cum Scipione Africano &lt;Metellus&gt; Macedonicus dissenserat, eorumque ab aemulatione uirtutis profecta concitatio ad graues testatasque inimicitias progressa fuerat: sed tamen, cum interemptum Scipionem conclamari audisset, in publicum se proripuit maestoque uultu et uoce confusa 'concurrite, concurrite' inquit, 'ciues! moenia nostrae urbis euersa sunt: Scipioni enim Africano intra suos penates quiescenti nefaria uis allata est'. o rem publicam pariter Africani morte miseram et Macedonici tam humana tamque ciuili lamentatione felicem! eodem enim tempore et quantum amisisset principem et qualem haberet recognouit. idem filios suos monuit ut funebri eius lecto humeros subicerent, atque huic exequiarum illum honorem uocis adiecit, non fore ut postea id officium ab illis maiori uiro praestari posset. ubi illa tot in curia iurgia? ubi tot [multae] pro rostris altercationes? ubi maximorum ciuium et ducum tantum non togata proelia? omnia nimirum ista praecipua ueneratione prosequenda deleuit moderatio.
+Acerrime cum Scipione Africano <Metellus> Macedonicus dissenserat, eorumque ab aemulatione uirtutis profecta concitatio ad graues testatasque inimicitias progressa fuerat: sed tamen, cum interemptum Scipionem conclamari audisset, in publicum se proripuit maestoque uultu et uoce confusa 'concurrite, concurrite' inquit, 'ciues! moenia nostrae urbis euersa sunt: Scipioni enim Africano intra suos penates quiescenti nefaria uis allata est'. o rem publicam pariter Africani morte miseram et Macedonici tam humana tamque ciuili lamentatione felicem! eodem enim tempore et quantum amisisset principem et qualem haberet recognouit. idem filios suos monuit ut funebri eius lecto humeros subicerent, atque huic exequiarum illum honorem uocis adiecit, non fore ut postea id officium ab illis maiori uiro praestari posset. ubi illa tot in curia iurgia? ubi tot [multae] pro rostris altercationes? ubi maximorum ciuium et ducum tantum non togata proelia? omnia nimirum ista praecipua ueneratione prosequenda deleuit moderatio.
  
 
  
@@ -89,7 +89,7 @@ Acerrime cum Scipione Africano &lt;Metellus&gt; Macedonicus dissenserat, eorumqu
  
 
  
-4.1.ext. 2 Nimis liberalis Archytae moderatio, temperatior Platonis: nam cum &lt;ad&gt;uersus delictum serui uehementius exarsisset, ueritus ne ipse uindictae modum dispicere non posset, Speusippo amico castigationis arbitrium mandauit deforme sibi futurum existimans, si conmisisset ut parem reprehensionem culpa serui et animaduersio Platonis mereretur.
+4.1.ext. 2 Nimis liberalis Archytae moderatio, temperatior Platonis: nam cum <ad>uersus delictum serui uehementius exarsisset, ueritus ne ipse uindictae modum dispicere non posset, Speusippo amico castigationis arbitrium mandauit deforme sibi futurum existimans, si conmisisset ut parem reprehensionem culpa serui et animaduersio Platonis mereretur.
  
 
  
@@ -105,11 +105,11 @@ Quo minus miror quod in Xenocrate discipulo suo tam constanter moderatus fuit. a
  
 
  
-4.1.ext.5 Non minoris admirationis illud. Stasippus Tegeates hortantibus amicis ut grauem in administratione rei publicae aemulum, sed alioqui probum et ornatum uirum qualibet ratione uel tolleret uel summoueret negauit se facturum, ne quem in tutela patriae bonus ciuis locum obtineret, malus et inprobus occuparet, seque potius uehementer &lt;ab&gt; aduersario urgueri quam patriam egregio aduocato carere praeoptauit.
+4.1.ext.5 Non minoris admirationis illud. Stasippus Tegeates hortantibus amicis ut grauem in administratione rei publicae aemulum, sed alioqui probum et ornatum uirum qualibet ratione uel tolleret uel summoueret negauit se facturum, ne quem in tutela patriae bonus ciuis locum obtineret, malus et inprobus occuparet, seque potius uehementer <ab> aduersario urgueri quam patriam egregio aduocato carere praeoptauit.
  
 
  
-4.1.ext.6 Pittaci quoque moderatione pectus instructum. qui Alcaeum poetam et amaritudine odii et uiribus ingenii aduersus se pertinacissime usum tyrannidem a ciuibus delatam adeptus tantum modo quid in &lt;eo&gt; opprimendo posset admonuit.
+4.1.ext.6 Pittaci quoque moderatione pectus instructum. qui Alcaeum poetam et amaritudine odii et uiribus ingenii aduersus se pertinacissime usum tyrannidem a ciuibus delatam adeptus tantum modo quid in <eo> opprimendo posset admonuit.
  
 
  
@@ -117,11 +117,11 @@ Quo minus miror quod in Xenocrate discipulo suo tam constanter moderatus fuit. a
  
 
  
-t&#167;w sof&#167;&amp; pr&#180;tow p&#147;ntvn; to t&uuml; tr&#167;pod' a&#187;d&#180;. tum Milesii consensu Thaleti mensam dederunt. ille cessit ea Bianti, Bias Pittaco, is protinus alii, deincepsque per omnium vii sapientium orbem ad ultimum ad Solonem peruenit, qui et titulum amplissimae prudentiae et praemium ad ipsum Apollinem transtulit.
+t§w sof§& pr´tow p“ntvn; to tü tr§pod' a»d´. tum Milesii consensu Thaleti mensam dederunt. ille cessit ea Bianti, Bias Pittaco, is protinus alii, deincepsque per omnium vii sapientium orbem ad ultimum ad Solonem peruenit, qui et titulum amplissimae prudentiae et praemium ad ipsum Apollinem transtulit.
  
 
  
-4.1.ext.8 Atque ut Theopompo quoque Spartanorum regi moderationis testimonium reddamus, [qui] cum primus instituisset ut ephori Lacedaemone crearentur, ita fu&lt;tu&gt;ri regiae potestati oppositi, quemadmodum Romae consulari imperio tribuni pl. sunt obiecti, atque illi cum uxor dixisset id egisse illum, ut filiis minorem potestatem relinqueret, 'relinquam' inquit, 'sed diuturniorem'. optime quidem: ea enim demum tuta est potentia, quae uiribus suis modum inponit. igitur Theopompus regnum legitimis uinculis constringendo, quo longius a licentia retraxit, hoc ad beniuolentiam ciuium propius admouit.
+4.1.ext.8 Atque ut Theopompo quoque Spartanorum regi moderationis testimonium reddamus, [qui] cum primus instituisset ut ephori Lacedaemone crearentur, ita fu<tu>ri regiae potestati oppositi, quemadmodum Romae consulari imperio tribuni pl. sunt obiecti, atque illi cum uxor dixisset id egisse illum, ut filiis minorem potestatem relinqueret, 'relinquam' inquit, 'sed diuturniorem'. optime quidem: ea enim demum tuta est potentia, quae uiribus suis modum inponit. igitur Theopompus regnum legitimis uinculis constringendo, quo longius a licentia retraxit, hoc ad beniuolentiam ciuium propius admouit.
  
 
  
@@ -133,7 +133,7 @@ t&#167;w sof&#167;&amp; pr&#180;tow p&#147;ntvn; to t&uuml; tr&#167;pod' a&#187;
  
 
  
-4.2.1 M. Aemilius Lepidus, bis consul et pontifex maximus splendorique honorum par&lt;i&gt; uitae grauitate, diutinas ac uehementes inimicitias cum Fuluio Flacco eiusdem amplitudinis uiro gessit. quas, ut simul censores renuntiati sunt, in campo deposuit existimans non oportere eos priuatis inimicitiis dissidere, qui publice summa iuncti essent potestate. id iudicium animi eius et praesens aetas conprobauit et nobis ueteres annalium scriptores laudandum tradiderunt.
+4.2.1 M. Aemilius Lepidus, bis consul et pontifex maximus splendorique honorum par<i> uitae grauitate, diutinas ac uehementes inimicitias cum Fuluio Flacco eiusdem amplitudinis uiro gessit. quas, ut simul censores renuntiati sunt, in campo deposuit existimans non oportere eos priuatis inimicitiis dissidere, qui publice summa iuncti essent potestate. id iudicium animi eius et praesens aetas conprobauit et nobis ueteres annalium scriptores laudandum tradiderunt.
  
 
  
@@ -157,7 +157,7 @@ t&#167;w sof&#167;&amp; pr&#180;tow p&#147;ntvn; to t&uuml; tr&#167;pod' a&#187;
  
 
  
-4.2.7 Caeli uero Rufi ut uita inquinata, ita misericordia, quam Q. Pompeio praestitit, probanda. cui a se publica quaestione prostrato, cum mater Cornelia fidei commissa praedia non redderet, atque iste auxilium suum litteris inplorasset, pertinacissime absenti adfuit: recitauit etiam eius epistolam &lt;in&gt; iudicio ultimae necessitatis indicem, qua impiam Corneliae auaritiam subuertit. factum propter eximiam humanitatem ne sub Caelio quidem auctore repudiandum.
+4.2.7 Caeli uero Rufi ut uita inquinata, ita misericordia, quam Q. Pompeio praestitit, probanda. cui a se publica quaestione prostrato, cum mater Cornelia fidei commissa praedia non redderet, atque iste auxilium suum litteris inplorasset, pertinacissime absenti adfuit: recitauit etiam eius epistolam <in> iudicio ultimae necessitatis indicem, qua impiam Corneliae auaritiam subuertit. factum propter eximiam humanitatem ne sub Caelio quidem auctore repudiandum.
  
 
  
@@ -173,7 +173,7 @@ t&#167;w sof&#167;&amp; pr&#180;tow p&#147;ntvn; to t&uuml; tr&#167;pod' a&#187;
  
 
  
-4.3.3 Drusum etiam Germanicum, eximiam Claudiae familiae gloriam patriaeque rarum ornamentum, et quod super omnia est, operum suorum pro habitu aetatis magnitudine uitrico pariter ac fratri Augustis duobus rei publicae diuinis oculis mirifice respondentem, constitit usum ueneris intra coniugis caritatem clausum tenuisse. Antonia quoque, femina laudibus uirilem familiae suae claritatem supergressa, amorem mariti egregia fide pensauit, quae post eius excessum forma &lt;et&gt; aetate florens conuictum socrus pro coniugio habuit, in eodemque toro alterius adulescentiae uigor extinctus est, alterius uiduitatis experientia consenuit. hoc cubiculum talibus experimentis summam inponat.
+4.3.3 Drusum etiam Germanicum, eximiam Claudiae familiae gloriam patriaeque rarum ornamentum, et quod super omnia est, operum suorum pro habitu aetatis magnitudine uitrico pariter ac fratri Augustis duobus rei publicae diuinis oculis mirifice respondentem, constitit usum ueneris intra coniugis caritatem clausum tenuisse. Antonia quoque, femina laudibus uirilem familiae suae claritatem supergressa, amorem mariti egregia fide pensauit, quae post eius excessum forma <et> aetate florens conuictum socrus pro coniugio habuit, in eodemque toro alterius adulescentiae uigor extinctus est, alterius uiduitatis experientia consenuit. hoc cubiculum talibus experimentis summam inponat.
  
 
  
@@ -181,11 +181,11 @@ t&#167;w sof&#167;&amp; pr&#180;tow p&#147;ntvn; to t&uuml; tr&#167;pod' a&#187;
  
 
  
-4.3.5 M'. autem Curius, exactissima norma Romanae frugalitatis idemque fortitudinis perfectissimum specimen, Samnitium legatis agresti se in scamno adsidentem foco eque ligneo catillo cenantem++quales epulas apparatus indicio est++spectandum praebuit: ille enim Samnitium diuitias contempsit, Samnites eius paupertatem mirati sunt: nam cum ad eum magnum pondus auri publice missum attulissent, benignis uerbis inuitatus ut eo uti uellet, uultum risu soluit &lt;et&gt; protinus 'superuacuae' inquit, 'ne dicam ineptae legationis ministri, narrate Samnitibus M'. Curium malle locupletibus imperare quam ipsum fieri locupletem, atque istud ut pretiosum, ita malo hominum excogitatum munus refertote et memento&lt;te&gt; me nec acie uinci nec pecunia corrumpi posse'. Idem, cum Italia Pyrrum regem exegisset, nihil omnino ex praeda regia, qua exercitum urbemque ditauerat, adtigit. decretis etiam &lt;a&gt; senatu septenis iugeribus agri populo, sibi autem quinquaginta, popularis adsignationis modum non excessit parum idoneum rei publicae ciuem existimans qui eo, quod reliquis tribueretur, contentus non es&lt;se&gt;t.
+4.3.5 M'. autem Curius, exactissima norma Romanae frugalitatis idemque fortitudinis perfectissimum specimen, Samnitium legatis agresti se in scamno adsidentem foco eque ligneo catillo cenantem++quales epulas apparatus indicio est++spectandum praebuit: ille enim Samnitium diuitias contempsit, Samnites eius paupertatem mirati sunt: nam cum ad eum magnum pondus auri publice missum attulissent, benignis uerbis inuitatus ut eo uti uellet, uultum risu soluit <et> protinus 'superuacuae' inquit, 'ne dicam ineptae legationis ministri, narrate Samnitibus M'. Curium malle locupletibus imperare quam ipsum fieri locupletem, atque istud ut pretiosum, ita malo hominum excogitatum munus refertote et memento<te> me nec acie uinci nec pecunia corrumpi posse'. Idem, cum Italia Pyrrum regem exegisset, nihil omnino ex praeda regia, qua exercitum urbemque ditauerat, adtigit. decretis etiam <a> senatu septenis iugeribus agri populo, sibi autem quinquaginta, popularis adsignationis modum non excessit parum idoneum rei publicae ciuem existimans qui eo, quod reliquis tribueretur, contentus non es<se>t.
  
 
  
-4.3.6 Idem sensit Fabricius Luscinus honoribus et auctoritate omni ciuitate temporibus suis maior, censu par unicuique pauperrimo, qui a Samnitibus, quos uniuersos in clientela habebat, x aeris et v pondo argenti et decem seruos sibi missos in Samnium remisit, continentiae suae beneficio sine pecunia praediues, sine usu familiae abunde comitatus, quia locupletem illum faciebat non multa possidere, sed modica desiderare. ergo domus eius quemadmodum aere et argento et mancipiis Samnitium uacua, ita gloria ex iis parta referta fuit. Consentanea repudiatis donis Fabricii uota extiterunt: legatus enim ad Pyrrum profectus, cum apud eum Cineam Thessalum narrantem audisset quendam Athenis esse clarum sapientia suadentem ne quid aliud homines quam uoluptatis causa facere uellent, pro monstro eam uocem accepit continuoque Pyrro et Samnitibus istam sapientiam deprecatus est. licet Athenae doctrina sua glorientur, uir tamen prudens Fabricii detestationem quam Epicuri malu&lt;er&gt;it praecepta. quod euentus quoque indicauit: nam quae urbs uoluptati plurimum tribuit, imperium maximum amisit, quae labore delectata est, occupauit, et illa libertatem tueri non ualuit, haec etiam donare potuit.
+4.3.6 Idem sensit Fabricius Luscinus honoribus et auctoritate omni ciuitate temporibus suis maior, censu par unicuique pauperrimo, qui a Samnitibus, quos uniuersos in clientela habebat, x aeris et v pondo argenti et decem seruos sibi missos in Samnium remisit, continentiae suae beneficio sine pecunia praediues, sine usu familiae abunde comitatus, quia locupletem illum faciebat non multa possidere, sed modica desiderare. ergo domus eius quemadmodum aere et argento et mancipiis Samnitium uacua, ita gloria ex iis parta referta fuit. Consentanea repudiatis donis Fabricii uota extiterunt: legatus enim ad Pyrrum profectus, cum apud eum Cineam Thessalum narrantem audisset quendam Athenis esse clarum sapientia suadentem ne quid aliud homines quam uoluptatis causa facere uellent, pro monstro eam uocem accepit continuoque Pyrro et Samnitibus istam sapientiam deprecatus est. licet Athenae doctrina sua glorientur, uir tamen prudens Fabricii detestationem quam Epicuri malu<er>it praecepta. quod euentus quoque indicauit: nam quae urbs uoluptati plurimum tribuit, imperium maximum amisit, quae labore delectata est, occupauit, et illa libertatem tueri non ualuit, haec etiam donare potuit.
  
 
  
@@ -197,7 +197,7 @@ t&#167;w sof&#167;&amp; pr&#180;tow p&#147;ntvn; to t&uuml; tr&#167;pod' a&#187;
  
 
  
-4.3.9 Atque huic animi eius iudicio Q. Fabius Gurges, N. F&lt;abius&gt; Pictor, Q. Ogulnius subscripserunt. qui legati &lt;ad&gt; Ptolomaeum regem missi munera, quae ab eo priuatim acceperant, in aerarium, et quidem prius quam ad senatum legationem referrent, detulerunt, scilicet de publico ministerio nihil cuiquam praeter laudem bene administrati officii accedere debere iudicantes. iam illud humanitatis senatus et attentae maiorum disciplinae indicium est: data sunt enim legatis quae in aerarium reposuerant non solum patrum conscriptorum decreto, sed etiam populi permissu ~ rum at quem legata quaestores prompta uni cuique distribuerunt. ita in isdem Ptolomaei liberalitas, legatorum abstinentia, senatus ac populi aequitas debitam probabilis facti portionem obtinuit.
+4.3.9 Atque huic animi eius iudicio Q. Fabius Gurges, N. F<abius> Pictor, Q. Ogulnius subscripserunt. qui legati <ad> Ptolomaeum regem missi munera, quae ab eo priuatim acceperant, in aerarium, et quidem prius quam ad senatum legationem referrent, detulerunt, scilicet de publico ministerio nihil cuiquam praeter laudem bene administrati officii accedere debere iudicantes. iam illud humanitatis senatus et attentae maiorum disciplinae indicium est: data sunt enim legatis quae in aerarium reposuerant non solum patrum conscriptorum decreto, sed etiam populi permissu ~ rum at quem legata quaestores prompta uni cuique distribuerunt. ita in isdem Ptolomaei liberalitas, legatorum abstinentia, senatus ac populi aequitas debitam probabilis facti portionem obtinuit.
  
 
  
@@ -217,7 +217,7 @@ t&#167;w sof&#167;&amp; pr&#180;tow p&#147;ntvn; to t&uuml; tr&#167;pod' a&#187;
  
 
  
-4.3.14 Continentia uero etiam in uniuersae plebis animis saepe numero cognita est, sed abunde erit ex his duo exempla longe inter se distantium saeculorum retulisse. Pyrrus impetus sui terrore soluto ac iam Epiroticis armis languentibus beniuolentiam populi Romani mercari, quia uirtutem debilitare nequiuerat, cupiens paene totum regiarum opum apparatum in urbem nostram transtulerat. ceterum cum et magni pretii et uarii generis a legatis eius tam uirorum quam feminarum apta usui munera circa domos ferrentur, nulla cui&lt;us&gt;quam dono ianua patuit, Tarentinaeque petulantiae animosus magis quam efficax defensor haud scio maiore cum gloria huius urbis moribus &lt;an armis&gt; repulsus sit.
+4.3.14 Continentia uero etiam in uniuersae plebis animis saepe numero cognita est, sed abunde erit ex his duo exempla longe inter se distantium saeculorum retulisse. Pyrrus impetus sui terrore soluto ac iam Epiroticis armis languentibus beniuolentiam populi Romani mercari, quia uirtutem debilitare nequiuerat, cupiens paene totum regiarum opum apparatum in urbem nostram transtulerat. ceterum cum et magni pretii et uarii generis a legatis eius tam uirorum quam feminarum apta usui munera circa domos ferrentur, nulla cui<us>quam dono ianua patuit, Tarentinaeque petulantiae animosus magis quam efficax defensor haud scio maiore cum gloria huius urbis moribus <an armis> repulsus sit.
  
 
  
@@ -237,11 +237,11 @@ In illa quoque procella, quam C. Marius et L. Cinna rei publicae inflixerant, ab
  
 
  
-4.3.ext.4 Alexander uero cognomen inuicti adsecutus continentiam Diogenis cynici uincere non potuit. ad quem cum in sole sedentem accessisset hortareturque ut, si qua praestari sibi uellet, indicaret, quemadmodum erat in crepidine conlocatus, sordidae appellationis, sed robustae uir praestantiae, 'mox' inquit 'de ceteris, interim uelim a sole mihi non obstes'. quibus uerbis illa nimirum inhaesit sententia: Alexander Diogenen gradu suo diuitiis pellere temptat, celerius Dareum armis. Idem Syracusis, cum holera ei lauanti Aristippus dixisset, si 'Dionysium adulari uelles, ista non esses', 'immo', inquit 'si tu ista esse uelles, non adulare&lt;re&gt; Dionysium'.
+4.3.ext.4 Alexander uero cognomen inuicti adsecutus continentiam Diogenis cynici uincere non potuit. ad quem cum in sole sedentem accessisset hortareturque ut, si qua praestari sibi uellet, indicaret, quemadmodum erat in crepidine conlocatus, sordidae appellationis, sed robustae uir praestantiae, 'mox' inquit 'de ceteris, interim uelim a sole mihi non obstes'. quibus uerbis illa nimirum inhaesit sententia: Alexander Diogenen gradu suo diuitiis pellere temptat, celerius Dareum armis. Idem Syracusis, cum holera ei lauanti Aristippus dixisset, si 'Dionysium adulari uelles, ista non esses', 'immo', inquit 'si tu ista esse uelles, non adulare<re> Dionysium'.
  
 
  
-4.4.init. Maxima ornamenta esse matronis liberos, apud Pomponium Rufum collectorum libro * sic inuenimus: Cornelia Gracchorum mater, cum Campana matrona apud illam hospita ornamenta sua pulcherrima illius saeculi ostenderet, traxit eam sermone, &lt;donec&gt; e schola redirent liberi, et 'haec' inquit 'ornamenta sunt mea'. omnia nimirum habet qui nihil concupiscit, eo quidem certius ~ quam cuncta possidet, quia dominium rerum conlabi solet, bonae mentis usurpatio nullum tristioris fortunae recipit incursum. itaque quorsum attinet aut diuitias in prima felicitatis parte aut paupertatem in ultimo miseriarum statu ponere, cum et illarum frons hilaris multis intus amaritudinibus sit referta et huius horridior aspectus solidis et certis bonis abundet? quod melius personis quam uerbis repraesentabitur.
+4.4.init. Maxima ornamenta esse matronis liberos, apud Pomponium Rufum collectorum libro * sic inuenimus: Cornelia Gracchorum mater, cum Campana matrona apud illam hospita ornamenta sua pulcherrima illius saeculi ostenderet, traxit eam sermone, <donec> e schola redirent liberi, et 'haec' inquit 'ornamenta sunt mea'. omnia nimirum habet qui nihil concupiscit, eo quidem certius ~ quam cuncta possidet, quia dominium rerum conlabi solet, bonae mentis usurpatio nullum tristioris fortunae recipit incursum. itaque quorsum attinet aut diuitias in prima felicitatis parte aut paupertatem in ultimo miseriarum statu ponere, cum et illarum frons hilaris multis intus amaritudinibus sit referta et huius horridior aspectus solidis et certis bonis abundet? quod melius personis quam uerbis repraesentabitur.
  
 
  
@@ -249,7 +249,7 @@ In illa quoque procella, quam C. Marius et L. Cinna rei publicae inflixerant, ab
  
 
  
-4.4.2 Quantae amplitudinis Menenium Agrippam fuisse arbitremur, quem senatus et plebs pacis in&lt;ter&gt; se faciendae auctorem legit? quantae scilicet esse debuit arbiter publicae salutis. hic, nisi a populo conlatis in capita sextantibus funeratus esset,++ita pecuniae inops decessit++sepulturae honore caruisset. uerum idcirco perniciosa seditione diuidua ciuitas manibus Agrippae in unum contrahi uoluit, quia eas pauperes quidem, sed sanctas animaduerterat. cuius ut superstitis nullum fuit, quod in censum deferretur, ita extincti hodieque amplissimum est patrimonium Romana concordia.
+4.4.2 Quantae amplitudinis Menenium Agrippam fuisse arbitremur, quem senatus et plebs pacis in<ter> se faciendae auctorem legit? quantae scilicet esse debuit arbiter publicae salutis. hic, nisi a populo conlatis in capita sextantibus funeratus esset,++ita pecuniae inops decessit++sepulturae honore caruisset. uerum idcirco perniciosa seditione diuidua ciuitas manibus Agrippae in unum contrahi uoluit, quia eas pauperes quidem, sed sanctas animaduerterat. cuius ut superstitis nullum fuit, quod in censum deferretur, ita extincti hodieque amplissimum est patrimonium Romana concordia.
  
 
  
@@ -261,7 +261,7 @@ In illa quoque procella, quam C. Marius et L. Cinna rei publicae inflixerant, ab
  
 
  
-4.4.5 Atilium autem, qui ad eum arcessendum a senatu missi erant ad imperium populi Romani suscipiendum, semen spargentem uiderunt. sed illae rustico opere adtritae manus salutem publicam stabilierunt, ingentes hostium copias pessum dederunt, quaeque modo arantium boum iugum rexerant, triumphalis currus habenas retinuerunt, nec fuit his rubor&lt;i&gt; eburneo scipione deposito agrestem stiuam aratri repetere. potest pauperes consolari Atilius, sed multo magis docere locupletes quam non sit necessaria solidae laudis cupidini anxia diuitiarum conparatio.
+4.4.5 Atilium autem, qui ad eum arcessendum a senatu missi erant ad imperium populi Romani suscipiendum, semen spargentem uiderunt. sed illae rustico opere adtritae manus salutem publicam stabilierunt, ingentes hostium copias pessum dederunt, quaeque modo arantium boum iugum rexerant, triumphalis currus habenas retinuerunt, nec fuit his rubor<i> eburneo scipione deposito agrestem stiuam aratri repetere. potest pauperes consolari Atilius, sed multo magis docere locupletes quam non sit necessaria solidae laudis cupidini anxia diuitiarum conparatio.
  
 
  
@@ -289,7 +289,7 @@ In illa quoque procella, quam C. Marius et L. Cinna rei publicae inflixerant, ab
  
 
  
-Haec igitur exempla respicere, his adquiescere solaciis debemus, qui paruulos census nostros numquam querellis uacuos esse sinimus. nullum aut admodum parui ponderis argentum, paucos seruos, vii iugera aridae terrae, indigentia domesticae inpensae funera, inopes dotum filias, sed egregios consulatus, mirificas dictaturas, innumerabiles triumphos cernimus. quid ergo modicam fortunam quasi praecipuum generis humani malum diurnis &lt;atque&gt; nocturnis conuiciis laceramus, quae ut non abundantibus, ita fidis uberibus Publicolas, Aemilios, Fabricios, Curios, Scipiones, Scauros hisque paria robora uirtutis aluit. exurgamus potius animis pecuniaeque aspectu debilitatos spiritus pristini temporis memoria recreemus: namque per Romuli casam perque ueteris Capitolii humilia tecta et aeternos Vestae focos fictilibus etiam nunc uasis contentos iuro nullas diuitias talium uirorum paupertati posse praeferri.
+Haec igitur exempla respicere, his adquiescere solaciis debemus, qui paruulos census nostros numquam querellis uacuos esse sinimus. nullum aut admodum parui ponderis argentum, paucos seruos, vii iugera aridae terrae, indigentia domesticae inpensae funera, inopes dotum filias, sed egregios consulatus, mirificas dictaturas, innumerabiles triumphos cernimus. quid ergo modicam fortunam quasi praecipuum generis humani malum diurnis <atque> nocturnis conuiciis laceramus, quae ut non abundantibus, ita fidis uberibus Publicolas, Aemilios, Fabricios, Curios, Scipiones, Scauros hisque paria robora uirtutis aluit. exurgamus potius animis pecuniaeque aspectu debilitatos spiritus pristini temporis memoria recreemus: namque per Romuli casam perque ueteris Capitolii humilia tecta et aeternos Vestae focos fictilibus etiam nunc uasis contentos iuro nullas diuitias talium uirorum paupertati posse praeferri.
  
 
  
@@ -297,7 +297,7 @@ Haec igitur exempla respicere, his adquiescere solaciis debemus, qui paruulos ce
  
 
  
-4.5.1 Sed ut a laudibus eius ad facta ueniamus, a condita urbe usque ad Africanum et Ti. Longum consules promiscuus senatui et populo spectandorum ludorum locus erat. numquam tamen quisquam ex plebe ante patres conscriptos in theatro spectare sus tinuit: adeo circumspecta ciuitatis nostrae uerecundia fuit. quae quidem certissimum sui documentum etiam illo die exhibuit, quo L. Flamininus extrema in parte theatri constitit, quia a M. Catone et L. Flacco censoribus senatu m&lt;otus&gt; fuerat, consulatus iam honore defunctus, frater etiam T. Flaminini Macedoniae Philippique uictoris: omnes enim transire eum in locum dignitati suae debitum coegerunt.
+4.5.1 Sed ut a laudibus eius ad facta ueniamus, a condita urbe usque ad Africanum et Ti. Longum consules promiscuus senatui et populo spectandorum ludorum locus erat. numquam tamen quisquam ex plebe ante patres conscriptos in theatro spectare sus tinuit: adeo circumspecta ciuitatis nostrae uerecundia fuit. quae quidem certissimum sui documentum etiam illo die exhibuit, quo L. Flamininus extrema in parte theatri constitit, quia a M. Catone et L. Flacco censoribus senatu m<otus> fuerat, consulatus iam honore defunctus, frater etiam T. Flaminini Macedoniae Philippique uictoris: omnes enim transire eum in locum dignitati suae debitum coegerunt.
  
 
  
@@ -333,7 +333,7 @@ Haec igitur exempla respicere, his adquiescere solaciis debemus, qui paruulos ce
  
 
  
-4.6.1 Ti. Gracchus anguibus domi suae mare &lt;ac&gt; femina deprehensis, certior factus ab aruspice mare dimisso uxori eius, femina ipsi celerem obitum instare, salutarem coniugi potius quam sibi partem augurii secutus marem necari, feminam dimitti iussit sustinuitque in conspectu suo se ipsum interitu serpentis occidi. itaque Corneliam nescio utrum feliciorem dixerim, quod talem uirum habuerit, an miseriorem, quod amiserit. o te, Thessaliae rex Admete, crudelis et duri facti crimine sub magno iudice damnatum, qui coniugis tuae fata pro tuis permutari passus es, eaque, ne tu extinguere&lt;re&gt;, uoluntario obitu consumpta lucem intueri potuisti, et certe parentum prius indulgentiam temptaueras!
+4.6.1 Ti. Gracchus anguibus domi suae mare <ac> femina deprehensis, certior factus ab aruspice mare dimisso uxori eius, femina ipsi celerem obitum instare, salutarem coniugi potius quam sibi partem augurii secutus marem necari, feminam dimitti iussit sustinuitque in conspectu suo se ipsum interitu serpentis occidi. itaque Corneliam nescio utrum feliciorem dixerim, quod talem uirum habuerit, an miseriorem, quod amiserit. o te, Thessaliae rex Admete, crudelis et duri facti crimine sub magno iudice damnatum, qui coniugis tuae fata pro tuis permutari passus es, eaque, ne tu extinguere<re>, uoluntario obitu consumpta lucem intueri potuisti, et certe parentum prius indulgentiam temptaueras!
  
 
  
@@ -341,7 +341,7 @@ Haec igitur exempla respicere, his adquiescere solaciis debemus, qui paruulos ce
  
 
  
-4.6.3 Eiusdem ut nominis, ita amoris quoque M. Plautius: nam cum imperio senatus classem sociorum sexaginta nauium in Asiam reduceret Tarentumque appulisset, atque ibi uxor eius Orestilla, quae illuc eum prosecuta fuerat, morbo &lt;op&gt;pressa decessisset, funerata ea et in rogum inposita inter officium unguendi et osculandi stricto ferro incubuit. quem amici, sicut erat, togatum et calceatum corpori coniugis iunxerunt ac deinde subiectis facibus utrumque una cremauerunt. quorum ibi factum sepulcrum est,++Tarenti etiam nunc conspicitur++quod uocatur TVN DUO FILOUNTVN. nec dubito quin, si quis modo extinctis sensus inest, Plautius et Orestilla fati consortione gestientes uultus tenebris intulerint. saneque, ubi idem et maximus et honestissimus amor est, aliquanto praestat morte iungi quam distrahi uita.
+4.6.3 Eiusdem ut nominis, ita amoris quoque M. Plautius: nam cum imperio senatus classem sociorum sexaginta nauium in Asiam reduceret Tarentumque appulisset, atque ibi uxor eius Orestilla, quae illuc eum prosecuta fuerat, morbo <op>pressa decessisset, funerata ea et in rogum inposita inter officium unguendi et osculandi stricto ferro incubuit. quem amici, sicut erat, togatum et calceatum corpori coniugis iunxerunt ac deinde subiectis facibus utrumque una cremauerunt. quorum ibi factum sepulcrum est,++Tarenti etiam nunc conspicitur++quod uocatur TVN DUO FILOUNTVN. nec dubito quin, si quis modo extinctis sensus inest, Plautius et Orestilla fati consortione gestientes uultus tenebris intulerint. saneque, ubi idem et maximus et honestissimus amor est, aliquanto praestat morte iungi quam distrahi uita.
  
 
  
@@ -349,11 +349,11 @@ Haec igitur exempla respicere, his adquiescere solaciis debemus, qui paruulos ce
  
 
  
-4.6.5 Tuos quoque castissimos ignes, Porcia M. Catonis filia, cuncta saecula debita admiratione prosequentur. quae, cum apud Philippos uictum et interemptum uirum tuum Brutum cognosses, quia ferrum non dabatur, ardentes ore carbones haurire non dubitasti, muliebri spiritu uirilem patris exitum imitata. sed nescio an hoc fortius, quod ille usitato, &lt;tu&gt; nouo genere mortis absumpta e&lt;s&gt;.
+4.6.5 Tuos quoque castissimos ignes, Porcia M. Catonis filia, cuncta saecula debita admiratione prosequentur. quae, cum apud Philippos uictum et interemptum uirum tuum Brutum cognosses, quia ferrum non dabatur, ardentes ore carbones haurire non dubitasti, muliebri spiritu uirilem patris exitum imitata. sed nescio an hoc fortius, quod ille usitato, <tu> nouo genere mortis absumpta e<s>.
  
 
  
-4.6.ext.1 Sunt et alienigeni amores iusti obscuritate ignorantiae non obruti, e quibus paucos attigisse satis erit. gentis Cariae regina Artemisia uirum suum Mausolum fato absumptum quantopere desiderau&lt;e&gt;&lt;r&gt;it leue est post conquisitorum omnis generis honorum monumentique usque ad vii miracula prouecti magnificentiam argumentari: quid enim aut eos colligas aut de illo inclito tumulto loquare, cum ipsa Mausoli uiuum ac spirans sepulcrum fieri concupierit eorum testimonio, qui illam extincti ossa potioni aspersa bibisse tradunt?
+4.6.ext.1 Sunt et alienigeni amores iusti obscuritate ignorantiae non obruti, e quibus paucos attigisse satis erit. gentis Cariae regina Artemisia uirum suum Mausolum fato absumptum quantopere desiderau<e><r>it leue est post conquisitorum omnis generis honorum monumentique usque ad vii miracula prouecti magnificentiam argumentari: quid enim aut eos colligas aut de illo inclito tumulto loquare, cum ipsa Mausoli uiuum ac spirans sepulcrum fieri concupierit eorum testimonio, qui illam extincti ossa potioni aspersa bibisse tradunt?
  
 
  
@@ -373,11 +373,11 @@ Minyae, quorum origo ex inclyto sociorum Iasonis numero Lemniorum in insula conc
  
 
  
-4.7.1 Inimicus patriae fuisse Ti. Gracchus existimatus est, nec inmerito, quia potentiam suam saluti eius praetulerat. quam constantis tamen fidei amicum etiam in hoc tam prauo proposito C. Blossium Cumanum habuerit operae pretium est cognoscere. hostis iudicatus, ultimo supplicio adfectus, sepulturae honore spoliatus beniuolentia tamen eius non caruit: nam cum senatus Rupilio et Laenati consulibus mandasset ut in eos, qui cum Graccho consenserant, &lt;more&gt; maiorum animaduerte&lt;re&gt;nt, et ad Laelium, cuius consilio praecipue consules utebantur, pro se Blossius deprecatum uenisset familiaritatisque excusatione uteretur, atque is dixisset: 'quid? si te Gracchus templo Iouis optimi maximi faces subdere iussisset, obsecuturusne illius uoluntati propter istam, quam iactas, familiaritatem fuisti?' 'numquam istud' inquit 'Gracchus imperasset'. satis, immo etiam nimium: totius namque senatus consensu damnat&lt;os ei&gt;us mores defendere ausus est. uerum quod sequitur multo audacius multoque periculosius: conpressus enim perseueranti interrogatione Laeli in eodem constantiae gradu stetit seque etiam hoc, si modo Gracchus annuisset, facturum respondit. quis illum sceleratum putasset fuisse, si tacuisset? quis non etiam sapientem, si pro necessitate temporis locutus esset? at Blossius nec silentio honesto nec prudenti sermone salutem suam, ne qua ex parte infelicis amicitiae memoriam desereret, tueri uoluit.
+4.7.1 Inimicus patriae fuisse Ti. Gracchus existimatus est, nec inmerito, quia potentiam suam saluti eius praetulerat. quam constantis tamen fidei amicum etiam in hoc tam prauo proposito C. Blossium Cumanum habuerit operae pretium est cognoscere. hostis iudicatus, ultimo supplicio adfectus, sepulturae honore spoliatus beniuolentia tamen eius non caruit: nam cum senatus Rupilio et Laenati consulibus mandasset ut in eos, qui cum Graccho consenserant, <more> maiorum animaduerte<re>nt, et ad Laelium, cuius consilio praecipue consules utebantur, pro se Blossius deprecatum uenisset familiaritatisque excusatione uteretur, atque is dixisset: 'quid? si te Gracchus templo Iouis optimi maximi faces subdere iussisset, obsecuturusne illius uoluntati propter istam, quam iactas, familiaritatem fuisti?' 'numquam istud' inquit 'Gracchus imperasset'. satis, immo etiam nimium: totius namque senatus consensu damnat<os ei>us mores defendere ausus est. uerum quod sequitur multo audacius multoque periculosius: conpressus enim perseueranti interrogatione Laeli in eodem constantiae gradu stetit seque etiam hoc, si modo Gracchus annuisset, facturum respondit. quis illum sceleratum putasset fuisse, si tacuisset? quis non etiam sapientem, si pro necessitate temporis locutus esset? at Blossius nec silentio honesto nec prudenti sermone salutem suam, ne qua ex parte infelicis amicitiae memoriam desereret, tueri uoluit.
  
 
  
-4.7.2 In eadem domo aeque robusta constantis amicitiae exempla oboriuntur: prostratis enim iam et perditis C. Gracchi consiliis rebusque, cum tota eius conspiratio late quaereretur, desertum omni auxilio duo tantum amici Pomponius et Laetorius ab infestis et undique ruentibus telis oppositu corporum suorum texerunt. quorum Pomponius, quo is facilius euaderet, concitatum &lt;in&gt;sequentium agmen in porta trigemina aliquamdiu acerrima pugna inhibuit nec uiuus pelli potuit, sed multis confectus uulneribus transitum eis super cadauer suum, credo etiam post fata inuitus, dedit. Laetorius autem in ponte sublicio constitit et eum, donec Gracchus transiret, ardore spiritus sui saepsit ac ui iam multitudinis obrutus conuerso in se gladio celeri saltu profundum Tiberis petiit, quamque in eo ponte caritatem toti patriae Horatius Cocles exhibuerat, unius amicitiae adiecta uoluntaria morte praestitit. quam bonos Gracchi, si aut patris aut materni aui sectam uitae ingredi uoluissent, habere milites potuerant! quo enim impetu, qua perseuerantia animi Blossius et Pomponius et Laetorius tropaea ac triumphos eorum adiuuissent, furiosi conatus tam strenui comites, sinistris quidem auspiciis amicitiae condicionem secuti, sed quo miseriora, hoc certiora fideliter cultae [nobilitatis] exempla.
+4.7.2 In eadem domo aeque robusta constantis amicitiae exempla oboriuntur: prostratis enim iam et perditis C. Gracchi consiliis rebusque, cum tota eius conspiratio late quaereretur, desertum omni auxilio duo tantum amici Pomponius et Laetorius ab infestis et undique ruentibus telis oppositu corporum suorum texerunt. quorum Pomponius, quo is facilius euaderet, concitatum <in>sequentium agmen in porta trigemina aliquamdiu acerrima pugna inhibuit nec uiuus pelli potuit, sed multis confectus uulneribus transitum eis super cadauer suum, credo etiam post fata inuitus, dedit. Laetorius autem in ponte sublicio constitit et eum, donec Gracchus transiret, ardore spiritus sui saepsit ac ui iam multitudinis obrutus conuerso in se gladio celeri saltu profundum Tiberis petiit, quamque in eo ponte caritatem toti patriae Horatius Cocles exhibuerat, unius amicitiae adiecta uoluntaria morte praestitit. quam bonos Gracchi, si aut patris aut materni aui sectam uitae ingredi uoluissent, habere milites potuerant! quo enim impetu, qua perseuerantia animi Blossius et Pomponius et Laetorius tropaea ac triumphos eorum adiuuissent, furiosi conatus tam strenui comites, sinistris quidem auspiciis amicitiae condicionem secuti, sed quo miseriora, hoc certiora fideliter cultae [nobilitatis] exempla.
  
 
  
@@ -385,19 +385,19 @@ Minyae, quorum origo ex inclyto sociorum Iasonis numero Lemniorum in insula conc
  
 
  
-4.7.4 Admirabile hoc opus tuum, sed quod sequitur aliquanto laudabilius: recognosce enim quo usque Volumni constantem erga amicum suum caritatem sine ullarei publicae iniuria eue&lt;xe&gt;ris. qui ortus equestri loco, cum M. Lucullum familiariter coluisset eumque M. Antonius, quia Bruti et Cassii partes secutus fuerat, interemisset, in magna fugiendi licentia exanimi amico adhaesit hucusque in lacrimas et gemitus profusus, ut nimia pietate causam sibi mortis arcesseret: nam propter praecipuam et perseuerantem lamentationem ad Antonium pertractus est. cuius postquam in conspectu stetit, 'iube me' inquit, 'imperator, protinus ad Luculli corpus ductum occidi: neque enim absumpto illo superesse debeo, cum ei infelicis militiae auctor extiterim'. quid hac fidelius beniuolentia? mortem amici hostis odio leuauit, uitam suam consilii crimine astrinxit, quoque illum miserabiliorem redderet, se fecit inuisiorem. nec difficiles Antoni aures habuit ductusque, quo uoluerat, dexteram Luculli auide osculatus, caput, quod abscisum iacebat, sublatum pectori suo adplicauit ac deinde demissam ceruicem uictori gladio praebuit. loquatur Graecia Thesea nefandis Pirithoi amoribus suscribentem Ditis se patris regnis commisisse: uani est istud narrare, stulti credere. mixtum cruorem amicorum et uulneribus innexa uulnera mortique inhaerentem mortem uidere, haec sunt uera Romanae amicitiae indicia, illa gentis ad fingendum paratae monstro similia mendacia.
+4.7.4 Admirabile hoc opus tuum, sed quod sequitur aliquanto laudabilius: recognosce enim quo usque Volumni constantem erga amicum suum caritatem sine ullarei publicae iniuria eue<xe>ris. qui ortus equestri loco, cum M. Lucullum familiariter coluisset eumque M. Antonius, quia Bruti et Cassii partes secutus fuerat, interemisset, in magna fugiendi licentia exanimi amico adhaesit hucusque in lacrimas et gemitus profusus, ut nimia pietate causam sibi mortis arcesseret: nam propter praecipuam et perseuerantem lamentationem ad Antonium pertractus est. cuius postquam in conspectu stetit, 'iube me' inquit, 'imperator, protinus ad Luculli corpus ductum occidi: neque enim absumpto illo superesse debeo, cum ei infelicis militiae auctor extiterim'. quid hac fidelius beniuolentia? mortem amici hostis odio leuauit, uitam suam consilii crimine astrinxit, quoque illum miserabiliorem redderet, se fecit inuisiorem. nec difficiles Antoni aures habuit ductusque, quo uoluerat, dexteram Luculli auide osculatus, caput, quod abscisum iacebat, sublatum pectori suo adplicauit ac deinde demissam ceruicem uictori gladio praebuit. loquatur Graecia Thesea nefandis Pirithoi amoribus suscribentem Ditis se patris regnis commisisse: uani est istud narrare, stulti credere. mixtum cruorem amicorum et uulneribus innexa uulnera mortique inhaerentem mortem uidere, haec sunt uera Romanae amicitiae indicia, illa gentis ad fingendum paratae monstro similia mendacia.
  
 
  
-4.7.5 L. quoque Petronius huiusce laudis consortionem merito uindicat: paria enim in cultu amicitiae auso par gloriae portio adserenda est. admodum humili loco natus ad equestrem ordinem et splendidae militiae stipendia P. Caeli beneficio peruenerat. cui gratum animum, quia laeta in materia exhibere non contigerat, in ea, quam inicam fortuna esse uoluit, cum multa fide praestitit. erat ob Octauio consule Placentiae praepositus Caelius. qua &lt;a&gt; Cinnano exercitu capta et senior iam et graui ualitudine adfectus, ne in potestatem hostium ueniret, ad auxilium dexterae Petroni confugit. quem is ab incepto consilio frustra conatus abstrahere in isdem perseuerantem precibus interemit caedique eius suam iunxit, ne eo iacente, per quem omnia dignitatis incrementa adsecutus fuerat, superesset. ita alterius fato uerecundia, alterius pietas causam praebuit.
+4.7.5 L. quoque Petronius huiusce laudis consortionem merito uindicat: paria enim in cultu amicitiae auso par gloriae portio adserenda est. admodum humili loco natus ad equestrem ordinem et splendidae militiae stipendia P. Caeli beneficio peruenerat. cui gratum animum, quia laeta in materia exhibere non contigerat, in ea, quam inicam fortuna esse uoluit, cum multa fide praestitit. erat ob Octauio consule Placentiae praepositus Caelius. qua <a> Cinnano exercitu capta et senior iam et graui ualitudine adfectus, ne in potestatem hostium ueniret, ad auxilium dexterae Petroni confugit. quem is ab incepto consilio frustra conatus abstrahere in isdem perseuerantem precibus interemit caedique eius suam iunxit, ne eo iacente, per quem omnia dignitatis incrementa adsecutus fuerat, superesset. ita alterius fato uerecundia, alterius pietas causam praebuit.
  
 
  
-4.7.6 Iungendus Petronio Ser. Terentius est, quamquam ei, sicut cupierat, pro amico suo perire &lt;non&gt; contigit: incepto namque egregio, non inrito euentu aestimari debet, quia, quantum in illo fuit, et ipse extinctus est et D. Brutus periculum euasit mortis. qui fugiens a Mutina, ut ad se interficiendum ab Antonio missos equites aduenisse cognouit, quodam in loco iustae poenae debitum spiritum tenebris furari conabatur, eoque iam facta inruptione Terentius fideli mendacio obscuritate ipsa suffragante Brutum se esse simulauit et corpus suum trucidandum equitibus obiecit. uerum cognitus a Furio, cui Brutianae ultionis officium mandatum fuerat, nece sua amici supplicium discutere non potuit. sic inuitus fortuna cogente uixit.
+4.7.6 Iungendus Petronio Ser. Terentius est, quamquam ei, sicut cupierat, pro amico suo perire <non> contigit: incepto namque egregio, non inrito euentu aestimari debet, quia, quantum in illo fuit, et ipse extinctus est et D. Brutus periculum euasit mortis. qui fugiens a Mutina, ut ad se interficiendum ab Antonio missos equites aduenisse cognouit, quodam in loco iustae poenae debitum spiritum tenebris furari conabatur, eoque iam facta inruptione Terentius fideli mendacio obscuritate ipsa suffragante Brutum se esse simulauit et corpus suum trucidandum equitibus obiecit. uerum cognitus a Furio, cui Brutianae ultionis officium mandatum fuerat, nece sua amici supplicium discutere non potuit. sic inuitus fortuna cogente uixit.
  
 
  
-4.7.7 Ab hoc horrido et tristi pertinacis amicitiae ad laetum et serenum uultum transeamus atque in&lt;de&gt; eam euocatam, ubi omnia lacrimis, gemitu, caedibus fuerant referta, in eo, quo dignior est, felicitatis domicilio conlocemus, gratia, honore abundantissimisque opibus fulgentem. orere igitur ab illa, quae sanctorum umbris dicata esse creditur, sede hinc Decime Laeli, illinc M. Agrippa, alter uirorum, deorum alter maximum amicum et certa mente et secundis ominibus sortiti, totumque beatae turbae gregem, qui uestro ductu ueneranda sincerae fidei stipendia laudibus et praemiis onustus peregit, in lucem uobiscum protrahite: uestros enim constantis animos, uestra strenua ministeria, uestram inexpugnabilem taciturnitatem proque dignitate et salute amicorum perpetuam excubationem et stationem beniuolentiae et rursus harum rerum uberrimos fructus posterior intuens aetas in excolendo iure amicitiae qua libentius qua etiam religiosius erit operata.
+4.7.7 Ab hoc horrido et tristi pertinacis amicitiae ad laetum et serenum uultum transeamus atque in<de> eam euocatam, ubi omnia lacrimis, gemitu, caedibus fuerant referta, in eo, quo dignior est, felicitatis domicilio conlocemus, gratia, honore abundantissimisque opibus fulgentem. orere igitur ab illa, quae sanctorum umbris dicata esse creditur, sede hinc Decime Laeli, illinc M. Agrippa, alter uirorum, deorum alter maximum amicum et certa mente et secundis ominibus sortiti, totumque beatae turbae gregem, qui uestro ductu ueneranda sincerae fidei stipendia laudibus et praemiis onustus peregit, in lucem uobiscum protrahite: uestros enim constantis animos, uestra strenua ministeria, uestram inexpugnabilem taciturnitatem proque dignitate et salute amicorum perpetuam excubationem et stationem beniuolentiae et rursus harum rerum uberrimos fructus posterior intuens aetas in excolendo iure amicitiae qua libentius qua etiam religiosius erit operata.
  
 
  

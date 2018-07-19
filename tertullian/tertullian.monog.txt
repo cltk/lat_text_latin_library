@@ -54,13 +54,13 @@ ex diversitate praedicationis appareret, primo regulam adulterans fidei et ita o
 gradus prior est, eius corruptela antecedit, id est fidei, quae 
 prior est disciplina: ante quis [4] 
 deo haereticus sit necesse 
-&lt;e&gt;st et tunc de instituto; 4. paraclitus autem multa habens 
+<e>st et tunc de instituto; 4. paraclitus autem multa habens 
 edocere, quae in illum distulit dominus, secundum praefinitionem 
  ipsum primo Christum contestabitur qualem credimus 
 cum toto ordine dei creatoris et ipsum glorificabit et de ipso 
 commemorabit et sic de principali regula illa multa, quae sunt 
 disciplinarum, revelabit fidem dicente pro eis integritate 
-praedicationis, &lt;licet&gt; novis, quia nunc revelantur, licet 
+praedicationis, <licet> novis, quia nunc revelantur, licet 
 onerosis, quia nec nunc sustinentur, non alterius tamen 
 Christi quam qui habere se dixit et alia multa quae a paraclito 
  edocerentur, non minus istis onerosa quam illis, a quibus 
@@ -79,7 +79,7 @@ quem specta n s et apostolus, propterea et ipse castratus,
 continentiam mavult. [2] 'Sed salvo', inquis, 'iure nubendi'. 
   Plane salvo et videbimus quousque, nihilominus tamen ex 
 ea parte destructo, qua continentiam praefert. Bonum, 
- inquit, homini mulierem non contingere ó &lt; ergo malum est contingere;&gt; nihil enim bono contrarium nisi malum ---- ideoque 
+ inquit, homini mulierem non contingere ó < ergo malum est contingere;> nihil enim bono contrarium nisi malum ---- ideoque 
 superesse, ut et qui habeant uxores sic sint quasi non habentes, 
  quo magis qui non habent habere non debeant. [3] Reddit 
 etiam causas, cur ita suadeat, quod innupti de deo cogitent, 
@@ -123,10 +123,10 @@ Et omnis, inquit, qui spem istam in illo habet, castificat
  se, sicut et ipse castus est. Nam et alibi: Estote sancti, sicut
 et 
 ille sanctus fuit, scilicet carne; de spiritu enim non dixisset, 
-quia spiritus ultro sanctus agnoscitur nec &lt;ex&gt;spectat sanctitatis 
+quia spiritus ultro sanctus agnoscitur nec <ex>spectat sanctitatis 
  admonitionem, quae propria natura est eius; caro autem 
 docetur sanctitatem, quae et in Christo fuit sancta. [10] Igitur 
-si omnia ista oblitterant licentia&lt;m&gt; nubendi et condicione 
+si omnia ista oblitterant licentia<m> nubendi et condicione 
 licentiae inspecta et praelatione continentiae imposita, cur non 
 potuerit post apostolos idem spiritus superveniens ad deducendam disciplinam in omnem veritatem per gradus temporum 
 ---- secundum quod Ecclesiastes: Tempus omni rei inquit ---- 
@@ -205,8 +205,8 @@ ad Ephesios deum proposuisse in semetipso ad dispensationem
 universa in Christo, quae sunt super caelos et super terras in 
 ipso.  [3] Sic et duas Graeciae litteras, summam et ultimam, 
 sibi induit dominus, initii et finis concurrentium in se figuras, 
-uti, quemadmodum A ad &Omega; &lt; usque volvitur et rursus &Omega; ad 
- A&gt; replicatur, ita ostenderet in se esse et initii decursum ad finem et finis reoursum ad initium, ut omnis dispositio in eo 
+uti, quemadmodum A ad Ω < usque volvitur et rursus Ω ad 
+ A> replicatur, ita ostenderet in se esse et initii decursum ad finem et finis reoursum ad initium, ut omnis dispositio in eo 
 desinens, per quem coepta est, per sermonem scilicet dei, 
 qui[a] caro factus est, proinde desinat, quemadmodum et 
 coepit. [4] Et adeo in Christo omnia revocantur ad initium, 
@@ -215,15 +215,15 @@ illius, sicut ab initio fuit, et libertas ciborum et sanguinis
 solius abstinentia, sicut ab initio fuit, et matrimonii individuitas, 
 sicut ab initio fuit, et repudii cohibitio, quod ab initio non fuit; 
 et postremo totus homo in paradisum revocatur, ubi ab initio 
-fuit. [5] Cur ergo vel monogamum illo &lt;non&gt; debeat Adam 
+fuit. [5] Cur ergo vel monogamum illo <non> debeat Adam 
 referre, qui [non] potest tam integrum quam inde dimissus est? 
 Quantum pertinet itaque ad initii restitutionem, id a te exigit 
 et dispositionis et spei tuae ratio, quod ab initio fuit; secundum 
-initium, quod tibi et in Adam censetur &lt;et in Noe recensetur&gt;, 
+initium, quod tibi et in Adam censetur <et in Noe recensetur>, 
 elige, in quo eorum initium tuum deputes: in ambobus te sibi 
 monogamiae censura defendit. [6] Sed et si initium transmittit 
-ad finem ut A ad &Omega;, quomodo finis remittit ad initium &lt;ut &Omega; 
-ad A&gt;, atque ita census noster transfertur in Christum, animalis 
+ad finem ut A ad Ω, quomodo finis remittit ad initium <ut Ω 
+ad A>, atque ita census noster transfertur in Christum, animalis 
  in spiritalem, quia non primo, quod spiritale est, sed quod animale, 
  dehinc quod spiritale, proinde videamus, an id ipsum 
 debeas huic quoque censui secundo, an in eandem te formam 
@@ -234,10 +234,10 @@ infirmitati
 eo quoque nomine perfectior qua integrior, volenti quidem 
 tibi spado occurrit in carne; si vero non sufficis, monogamus 
 incurrit in spiritu, unam habens ecclesiam sponsam secundum 
-figuram, quam apostolus &lt;in&gt; illud magnum sacramentum 
+figuram, quam apostolus <in> illud magnum sacramentum 
 interpretatur, in Christum et ecclesiam, competentes carnali 
 monogamiae per spiritalem. [8] Vides igitur, quemadmodum 
-etiam in Christo nova&lt;n&gt;s censum non possis eum sine monogamiae 
+etiam in Christo nova<n>s censum non possis eum sine monogamiae 
  professione deferre, nisi carne sis, quod spiritu ille est, 
 licet et quod fuit carne, aeque esse debueris. 
  
@@ -299,8 +299,8 @@ Et quoniam quidam interdum nihil sibi dicunt esse cum
 decessisse legem, ut onera quidem eius, secundum sententiam 
 apostolorum quae nec patres sustinere valuerunt, concessarint, 
  quae vero ad iustitiam spectant, non tantum reservata permaneant, verum et ampliata, ut scilicet redundare possit iu- 
-stitia nostra super scribarum et Pharisaeorum iustititia&lt;m&gt;. 
- [2] &lt;Si&gt; iusti&lt;tia&gt;, utique et pudicitia. Si ergo, quoniam in lege 
+stitia nostra super scribarum et Pharisaeorum iustititia<m>. 
+ [2] <Si> iusti<tia>, utique et pudicitia. Si ergo, quoniam in lege 
 praecipitur, ut quis fratris sui uxorem sine liberis defuncti in 
 matrimonium adsumat ad suscitandum fratri suo semen, 
  idque saepius evenire in unam personam potest secundum 
@@ -437,9 +437,9 @@ commiserit sine matrimonii nomine, non capit elogium adulterii,
  qua adulterium in matrimonio crimen est?' Deus aliter 
 censuit, citra quam homines, ut in totum sive per nuptias sive 
 vulgo alterius viri admissio adulterium pronuntietur, immo 
-&lt;. . .&gt;. [6] Ideo videamus enim, quid sit matrimonium apud 
+<. . .>. [6] Ideo videamus enim, quid sit matrimonium apud 
 deum, et ita cognoscemus, quid aeque adulterium. Matrimonium 
- est, cum deus duos iungit in unam carnem aut iunctos deprehendens in eadem carne coniunctione&lt;m&gt; signavit; 
+ est, cum deus duos iungit in unam carnem aut iunctos deprehendens in eadem carne coniunctione<m> signavit; 
 adulterium est, cum quoquo modo disiunctis duobus alia caro, 
  immo aliena misceatur, de qua dici non possit: Haec est caro 
 ex carne mea et hoc os de ossibus meis.  [7] Semel enim hoc et 
@@ -491,9 +491,9 @@ non poterit, nec sic quidem nuptura, si repudiare potuisset.
 (4.) [5] Enimvero et pro anima eius orat et refrigerium interim
 adpostulat ei et in prima resurrectione consortium et offert 
  annuis diebus dormitionis eius. [6] Nam haec nisi fecerit, 
-&lt;quomodo potuit,&gt; vere repudiavit, quantum in ipsa est, et 
-quidem hoc iniquius, quanto [quomodo potuit] &lt;iam aequius, 
-si&gt; quia non potuit, et hoc indignius, quanto iam [in]dignius, 
+<quomodo potuit,> vere repudiavit, quantum in ipsa est, et 
+quidem hoc iniquius, quanto [quomodo potuit] <iam aequius, 
+si> quia non potuit, et hoc indignius, quanto iam [in]dignius, 
 si quia non meruit. [7] Aut numquid nihil erimus post mortem 
  secundum aliquem Epicuram et non secundum Christum? 
 Quodsi credidimus mortuorum resurrectionem, utique tenebimur, 
@@ -517,7 +517,7 @@ est? ---- utrique autem sexui loquimur, etsi ad alterum sermo est, quia una omni
 spiritu aliud et in carne? Hoc erit adulterium, unius feminae 
  in duos viros conscientia. [11] Si alter a carne disiunctus est, 
 sed in corde remanet, illic, ubi etiam congregatus sine carnis 
-congressu et adulterium ante perficit&lt;ur&gt; ex concupiscentia et 
+congressu et adulterium ante perficit<ur> ex concupiscentia et 
 matrimonium ex voluntate, usque adhuc maritus est, ipsum. 
 illud possidens, per quod et factus est, id est animum, in quo 
 si et alius habitabit, hoc erit crimen. [12] Ceterum non est 
@@ -559,7 +559,7 @@ adhuc positos a fructu matrimonii avocat dicens in collectum
 matrimonium revocat? [8] Haec si diversa sunt ei capitulo, de 
 quo agitur, constabit, ut diximus, non hoc illum sensu scripsisse, 
  quo psychici utuntur, quia facilius est, ut aliquam rationem 
- habeat unum illud capitulum, quae cum ceteris &lt;s&gt;a pi at, 
+ habeat unum illud capitulum, quae cum ceteris <s>a pi at, 
 quam ut apostolus diversa inter se docuisse videatur. [9] Eam 
 rationem in ipsa materia poterimus recognoscere. Quae ista 
 materia apostolo fuit scribendi talia? Tirocinium novae et quam maxime orientis ecclesiae, quam lacte scilicet educabat, 
@@ -612,7 +612,7 @@ ullo pudore nubendi etiam ethnicos congruente[s]. Sed si ita
 esset quasi de futuro: 'si cuius maritus mortiras fuerit', tantundem 
  et futurum ad eam pertineret, cuius ante fidem morietur 
  maritus. Quavis accipe, dum cetera non evertas. [18] Nam 
- cum et illa sententiae &lt;prae&gt;cedant: Servus vocatus es? ne curaveris; in praeputi&lt;o voc&gt;atus es? ne circumcidaris ; circumcisus 
+ cum et illa sententiae <prae>cedant: Servus vocatus es? ne curaveris; in praeputi<o voc>atus es? ne circumcidaris ; circumcisus 
  vocatus es? ne adduxeris ---- quibus concurrit: Vinctus es 
 uxori? ne quaesieris solutionem ; solutus es ab uxore? ne quaesieris 
 uxorem ----, satis manifestum est ad eos haec pertinere, qui in 
@@ -639,7 +639,7 @@ monogami in clerum? An ordo aliquis seorsum debebit institui
  monogamorum, de quo allectio fiat in clerum? [4] Sed cum 
 extollimur et inflamur adversus cleram, tunc unum omnes 
 sumus, tunc omnes sacerdotes, quia sacerdotes nos deo et patri 
- fecit; cum ad peraequationem disciplinae sacerdotalis provocamur, deponimus infulas et pares &lt;non&gt; sumus. [5] De
+ fecit; cum ad peraequationem disciplinae sacerdotalis provocamur, deponimus infulas et pares <non> sumus. [5] De
 ecclesiasticis 
  ordinibus agebatur, quales ordinari oporteret. Oportebat 
  igitur omnem communis diseiplinae formam sua fronte 
@@ -653,7 +653,7 @@ ille vester Utinensis nec Scantiniam timuit. Quot enim ex
 digamia praesident apud vos, insultantes utique apostolo, 
 certe non erubescentes, cum haec sub illis leguntur! [7] Age 
 iam, qui putas acceptionem monogamiae de episcopis factam, 
-recede &lt;et&gt; a reliquis tuis titulis disciplinae, qui cum monogamia 
+recede <et> a reliquis tuis titulis disciplinae, qui cum monogamia 
  episcopis ascribuntur: noli esse irreprehensibilis, sobrius, 
 bene moratus, ornatus, hospitalis, docibilis, quin vero et vino 
 deditus et [manu promptus ad caedendum et] pugnax et 
@@ -694,7 +694,7 @@ morti ; nunc autem evacuati sumus a lege, mortui, in quo tenebamur,
  litterae.  [5] Igitur si mortificari nos iubet legi per corpus 
 Christi, quod est ecclesia, quae spiritu novitatis constat, non 
 per litteram vetustatis, id est legis, auferens te a lege, quae 
-&lt;non&gt; tenet uxorem marito defuncto, quominus alii viro fiat, 
+<non> tenet uxorem marito defuncto, quominus alii viro fiat, 
 ad contrariam te redigit condicionem, ne amisso viro nubas; 
  [6] quantumque non deputareris adultera, alteri viro facta 
 post mortem mariti, si adhuc in lege agere deberes, tanto ex 
@@ -703,7 +703,7 @@ mariti alii nubentem: quia iam mortificare legi, non potest
 tibi licere, cum recessisti ab ea, apud quam tibi licebat.
  
 
- XIV.  [1] Nunc &lt;si&gt; et absolute apostolus permisisset in fide 
+ XIV.  [1] Nunc <si> et absolute apostolus permisisset in fide 
 amisso matrimonio nubere, proinde fecisset quemadmodum 
 et cetera, quae adversus formam regulae suae pro condicione 
 temporum gessit, circumcidens Timotheum propter superducticios 
@@ -766,7 +766,7 @@ eos, qui in totum nubere prohibebant, qui et de cibis interdicebant,
 saepius ieiunamus. Aliud est auferre, aliud temperare, aliud 
 est legem non nubendi ponere, aliud est modum nubendi 
  statuere. [3] Plane, qui exprobrant nobis duritiam vel haeresim 
-in hac causa aestimant. si in tantum fovent carnis mei &lt;in&gt;firmitatem, 
+in hac causa aestimant. si in tantum fovent carnis mei <in>firmitatem, 
  ut in nubendo frequenter sustinendam putant, 
 cur illam in alia causa neque sustinent neque venia fovent, 
 cum tormentis expugnata est in negationem? [4] Utique enim illam magis excusari capit, quae in proelio cecidit quam quae 

@@ -75,7 +75,7 @@ satis.
 Imperare oportet. 
  TOX. Mihi quidem tu iam eras mortuos, quia non te visitabam.   
 20 
- S. Negotium edepol&#151; T. Ferreum fortasse? S. Plusculum
+ S. Negotium edepol— T. Ferreum fortasse? S. Plusculum
 annum 
 fui praeferratus apud molas tribunus vapularis. 
  TOX. Vetus iam istaec militiast tua. SAG. Satin tu usque
@@ -100,7 +100,7 @@ basilico accipiere victu.
  TOX. Haec dies summa hodie est, mea amica sitne libera, 
 an sempiternam servitutem serviat. SAG. Quid nunc vis ergo?  
 34a 
- TOX. &lt;Facere ami>cum tibi me potis es sempiternum. SAG. 
+ TOX. <Facere ami>cum tibi me potis es sempiternum. SAG. 
 Quem ad modum? 
  TOX. Vt mihi des nummos sescentos, quos pro capite illius pendam, 
 quos continuo tibi reponam in hoc triduo, aut quadriduo. 
@@ -119,21 +119,21 @@ si quis credat.
 iam pollicerer: 45 
 hoc meumst ut faciam sedulo. TOX. Quidquid erit, recipe te ad
 me. 
-quaere tamen, ego item sedulo. SAG. Si quid erit, &lt;te fac>iam
+quaere tamen, ego item sedulo. SAG. Si quid erit, <te fac>iam
 ut scias. 
- TOX. *** obsecro te resecro&lt;que>, operam da hanc mihi 
+ TOX. *** obsecro te resecro<que>, operam da hanc mihi 
 fidelem. SAG. Ah, odio me enicas.     
 48a 
  TOX. Amoris vitio, non meo, nunc tibi morologus fio. 
- SAG. At pol ego aps te concessero.&#151; TOX. Iamne abis?
+ SAG. At pol ego aps te concessero.— TOX. Iamne abis?
 bene ambulato. 
 sed recipe quam primum potes, cave fuas mi in quaestione. 
-usque ero domi, dum excoxero lenoni malam &lt;rem magnam>.&#151;
+usque ero domi, dum excoxero lenoni malam <rem magnam>.—
  
 
  
  I.ii 
- SATVRIO Veterem atque antiquom quaestum maio&lt;rum meum> 
+ SATVRIO Veterem atque antiquom quaestum maio<rum meum> 
 servo atque obtineo et magna cum cura colo. 
 nam numquam quisquam meorum maiorum fuit,  
 55 
@@ -204,7 +204,7 @@ calefieri iussi reliquias. SAT. Pernam quidem
 ius est adponi frigidam postridie. 
  TOX. Ita fieri iussi. SAT. Ecquid hallecis? TOX. 
 Vah, rogas? 
- SAT. Sapis multum ad genium. TOX. Sed &lt;tu>, ecquid
+ SAT. Sapis multum ad genium. TOX. Sed <tu>, ecquid
 meministi, here 
 qua de re ego tecum mentionem feceram? 
  SAT. Memini: ut murena et conger ne calefierent; 
@@ -276,11 +276,11 @@ dare debet: praebenda aediles locaverunt.
  SAT. Iam faxo hic aderunt. sed ego nihil horunc scio. 
  TOX. Nihil hercle vero. nam ubi ego argentum accepero, 
 continuo tu illam a lenone adserito manu. 
- SAT. Sibi habeat, si non extemplo ab eo abduxero.&#151; 
+ SAT. Sibi habeat, si non extemplo ab eo abduxero.— 
  TOX. Abi et istuc cura. interibi ego puerum volo   
 165 
 mittere ad amicam meam, ut habeat animum bonum, 
-me esse effecturum &lt;hoc> hodie. nimis longum loquor.&#151;
+me esse effecturum <hoc> hodie. nimis longum loquor.—
  
 
  
@@ -306,7 +306,7 @@ potin ut taceas? potin ne moneas?
 memini et scio et calleo et commemini. 
 amas pol misera: id tuos scatit animus. 
 ego istuc placidum tibi ut sit faciam. 
- LEMNISELENIS Miser est qui amat.&#151; SOPH. Certo is quidem
+ LEMNISELENIS Miser est qui amat.— SOPH. Certo is quidem
 nihilist, 
 qui nil amat: quid ei homini opus vita est?          
 180 
@@ -345,7 +345,7 @@ ipsi Lemniseleni fac des et quae iussi nuntiato.
  SOPH. Cesso ire ego quo missa sum? 
  P. Eo ego. T. I sane. ego domum ibo. face rem hanc cum
 cura geras. 
-vola curriculo.&#151; PAEG. Istuc marinus passer per circum solet. 
+vola curriculo.— PAEG. Istuc marinus passer per circum solet. 
 illic hinc abiit intro huc. sed quis haec est quae med advorsum incedit? 
 200 
  S. Paegnium hic quidem est. P. Sophoclidisca haec peculiarest
@@ -356,7 +356,7 @@ apud hanc obieci *
  SOPH. Paegnium, deliciae pueri, salve. quid agis? ut vales? 
  PAEG. Sophoclidisca, di me amabunt. SOPH. Quid me? PAEG. 
 Vtrum  205 
-  hercle &lt;di volent>; 
+  hercle <di volent>; 
 sed si ut digna es faciant, odio hercle habeant et faciant male. 
  SOPH. Mitte male loqui. PAEG. Quom ut digna es dico,
 bene, non male loquor. 
@@ -376,12 +376,12 @@ ut te autumo?
  PAEG. Fatear, si ita sim. SOPH. Iam abi, vicisti. PAEG. 
 Abi nunciam ergo. 215 
   SOPH. Hoc mi expedi, 
-quo agis? PAEG. Quo tu? SOPH. Dic tu. &lt; PAEG. 
+quo agis? PAEG. Quo tu? SOPH. Dic tu. < PAEG. 
 Dic tu. SOPH. > Prior 
   rogavi. PAEG. At post scies. 
  SOPH. Eo ego hinc haud longe. PAEG. Et quidem ego haud
-longe &lt;hinc eo>. 
-  SOPH. Quo ergo &lt;is>, scelus? 
+longe <hinc eo>. 
+  SOPH. Quo ergo <is>, scelus? 
  PAEG. Nisi sciero prius ex te, tu ex me numquam hoc quod rogitas
 scies. 
  SOPH. Numquam ecastor hodie scibis prius quam ex te audivero. 
@@ -416,7 +416,7 @@ atque ego hanc [nunc] operam perdo. SOPH. Quid iam? PAEG.
 Quia peritae 
   praedico. 
 sed ego cesso. SOPH. Mane. PAEG. Molesta es. SOPH. 
-Ergo &lt;ero> quoque, 
+Ergo <ero> quoque, 
   nisi scio, 
 quo agas te. PAEG. Ad vos. SOPH. Et pol ego ad vos. PAEG. 
 Quid eo? 235 
@@ -447,8 +447,8 @@ at ego hanc ad Lemniselenem tuam eram opsignatam abietem.
  SOPH. Quid istic scriptum? PAEG. Iuxta tecum, si tu nescis,
 nescio; 
 nisi fortasse blanda verba. SOPH. Abeo. PAEG. Et ego
-abiero.&#151;   250 
-  SOPH. Ambula.&#151;
+abiero.—   250 
+  SOPH. Ambula.—
  
 
  
@@ -525,15 +525,15 @@ male loquere? 290
   PAEG. Tandem ut liceat, 
 quom servos sis, servom tibi male dicere. SAG. Itane? specta 
 quid dedero. PAEG. Nil, nam nil habes. SAG. Di deaeque
-me omnes perdant&#151; 
+me omnes perdant— 
  PAEG. Amicus sum, eveniant volo tibi quae optas. SAG. 
 Atque id fiat, 
 nisi te hodie, si prehendero, defigam in terram colaphis. 
  PAEG. Tun me defigas? te cruci ipsum adfigent propediem alii. 
 295 
- SAG. Qui te di deaeque&#151; scis quid hinc porro dicturus fuerim, 
+ SAG. Qui te di deaeque— scis quid hinc porro dicturus fuerim, 
 ni linguae moderari queam. potin abeas? PAEG. Abigis facile. 
-nam umbra mea iam intus vapulat.&#151; SAG. Vt istunc di deaeque
+nam umbra mea iam intus vapulat.— SAG. Vt istunc di deaeque
 perdant. 
 tamquam proserpens bestiast bilinguis et scelestus. 
 hercle illum abiisse gaudeo. foris aperit, eccere autem   
@@ -548,7 +548,7 @@ iubeto habere animum bonum, dic me illam amare multum;
 ubi se adiuvat, ibi me adiuvat. quae dixi ut nuntiares, 
 satin ea tenes? SOPHOCLIDISCA Magis calleo quam aprugnum callum 
 305 
-  callet.&#151; 
+  callet.— 
  TOX. Propera, abi domum. *** SAG. Nunc ego huic graphice
 facetus fiam. 
 subnixis alis me inferam atque amicibor gloriose. 
@@ -581,8 +581,8 @@ nam iam omnes sycophantias instruxi et comparavi,
 325 
 quo pacto ab lenone auferam hoc argentum, SAG. Tanto melior. 
  TOX. Et mulier ut sit libera atque ipse ultro det argentum. 
-sed sequere me: ad eam rem usus est tua mihi opera.&#151; SA. Vtere
-ut vis.&#151;
+sed sequere me: ad eam rem usus est tua mihi opera.— SA. Vtere
+ut vis.—
  
 
  
@@ -679,8 +679,8 @@ atque Attici omnes; nullum Siculum acceperis:
 cum hac dote poteris vel mendico nubere. 
  VIR. Quin tu me ducis, si quo ducturu's, pater? 
 vel tu me vende vel face quid tibi lubet. 
- SAT. Bonum aequomque oras. sequere hac.&#151; VIR. Dicto
-sum audiens.&#151;
+ SAT. Bonum aequomque oras. sequere hac.— VIR. Dicto
+sum audiens.—
  
 
  
@@ -701,9 +701,9 @@ Toxile, quid agitur? TOX. Oh, lutum lenonium,
 commixtum caeno sterculinum publicum, 
 impure, inhoneste, iniure, inlex, labes popli, 
 pecuniae accipiter avide atque invide, 
-procax, rapax, trahax&#151; trecentis versibus   
+procax, rapax, trahax— trecentis versibus   
 410 
-tuas impuritias traloqui nemo potest&#151; 
+tuas impuritias traloqui nemo potest— 
 accipin argentum? accipe sis argentum, impudens, 
 tene sis argentum, etiam tu argentum tenes? 
 possum te facere ut argentum accipias, lutum? 
@@ -747,7 +747,7 @@ eadem istaec facito mulier ad me transeat
 445 
 per hortum. DOR. Iam hic faxo aderit. TOX. At ne propalam. 
  DOR. Sapienter sane. TOX. Supplicatum cras eat. 
- DOR. Ita hercle vero.&#151; TOX. Dum stas, reditum oportuit.
+ DOR. Ita hercle vero.— TOX. Dum stas, reditum oportuit.
  
 
  
@@ -803,7 +803,7 @@ maximam maiorem feci atque auxi civi femina?
 sed ut ego hodie fui benignus, ut ego multis credidi, 
 nec satis a quiquam homine accepi: ita prosum credebam omnibus; 
 nec metuo, quibus credidi hodie, ne quis mi in iure abiurassit: 
-bonus volo iam ex hoc die esse&#151; quod neque fiet neque fuit. 
+bonus volo iam ex hoc die esse— quod neque fiet neque fuit. 
  TOX. Hunc hominem ego hodie in trasennam doctis deducam dolis, 
 480 
 itaque huic insidiae paratae sunt probe. adgrediar virum. 
@@ -1060,7 +1060,7 @@ captusne est pater? VIR. Non captus, sed quod habuit perdidit.
  DOR. Quis fuit? dic nomen. VIR. Quid illum miserum memorem
 qui fuit? 
 nunc et illum miserum et me miseram aequom est nominarier. 
- DOR. Quoius modi is &lt;suo> in populo habitust? VIR. 
+ DOR. Quoius modi is <suo> in populo habitust? VIR. 
 Nemo quisquam acceptior: 
 servi liberique amabant. TOX. Hominem miserum praedicas, 
 quom et ipsus prorsus perditust et benevolentis perdidit.    
@@ -1104,7 +1104,7 @@ quaerere ansam, infectum ut faciat? abin atque argentum petis?
 671a 
  DOR. Heus tu serva istum. TOX. Quin tu is intro? DOR. 
 Abeo atque 
-  argentum affero.&#151;
+  argentum affero.—
  
 
  
@@ -1158,13 +1158,13 @@ Quodsemelarripides Numquameripides. em tibi.
 contortiplicata habemus. numquid ceterum 
 voltis? DOR. Vale. SAG. Et vos, nam animus iam in navist
 meus. 
- TOX. Cras ires potius, hodie hic cenares. SAG. Vale.&#151;   
+ TOX. Cras ires potius, hodie hic cenares. SAG. Vale.—   
 710
  
 
  
  IV.vii 
- TOX. Postquam illic &lt;hinc> abiit, dicere hic quidvis licet. 
+ TOX. Postquam illic <hinc> abiit, dicere hic quidvis licet. 
 ne hic tibi dies inluxit lucrificabilis. 
 nam non emisti hanc, verum fecisti lucri. 
  DOR. Ille quidem iam scit, quid negoti gesserit, 
@@ -1178,7 +1178,7 @@ tibi, Toxile, habeo; nam te sensi sedulo
 720 
 mihi dare bonam operam. TOX. Tibine ego? immo sedulo. 
  DOR. Attat, oblitus sum intus dudum edicere 
-quae volui edicta. adserva hanc.&#151; TOX. Salvast haec quidem. 
+quae volui edicta. adserva hanc.— TOX. Salvast haec quidem. 
  VIR. Pater nunc cessat. TOX. Quid si admoneam? VIR. 
 Tempus est. 
  TOX. Heus, Saturio, exi. nunc est illa occasio     
@@ -1187,7 +1187,7 @@ inimicum ulcisci. SATVRIO Ecce me. numquid moror?
  TOX. Age, illuc abscede procul e conspectu, tace; 
 ubi cum lenone me videbis conloqui, 
 tum turbam facito. SAG. Dictum sapienti sat est. 
- TOX. Tunc, quando abiero&#151; SAG. Quin taces? scio quid
+ TOX. Tunc, quando abiero— SAG. Quin taces? scio quid
 velis. 730
  
 
@@ -1224,7 +1224,7 @@ qui hic commercaris civis homines liberos?
  DOR. Sine dicam. SAT. Nolo. DOR. Audi. SAT. 
 Surdus sum. ambula. 750 
 sequere hac, sceleste, feles virginaria. 
-sequere hac, mea gnata, me usque ad praetorem.&#151; VIR. Sequor.&#151;
+sequere hac, mea gnata, me usque ad praetorem.— VIR. Sequor.—
  
 
  
@@ -1299,7 +1299,7 @@ male di omnes perdant, ita misero Toxilus haec mihi concivit.
 quia ei fidem non habui argenti, eo mihi eas machinas molitust;  
 785 
 quem pol ego ut non in cruciatum atque in compedis cogam, si vivam, 
-siquidem huc umquam erus redierit eius, quod spero&#151; sed quid ego aspicio? 
+siquidem huc umquam erus redierit eius, quod spero— sed quid ego aspicio? 
 hoc vide, quae haec fabulast? hic quidem pol potant. adgrediar. o bone
 vir, 
 salveto, et tu, bona liberta. TOX. Dordalus hic quidemst. SAG.  
@@ -1370,7 +1370,7 @@ volo.
 non opust. 
 et me haud par est. TOX. Credo eo, quia non inconciliavit, cum
 te emo. 
- LEMN. At tamen non&#151; tamen&#151; TOX. Cave ergo sis malo,
+ LEMN. At tamen non— tamen— TOX. Cave ergo sis malo,
 et sequere me. 835 
 te mihi dicto audientem esse addecet, nam hercle absque me 
 foret et meo praesidio, hic faceret te prostibilem propediem. 
@@ -1407,7 +1407,7 @@ esse. L. Ne sit.
 vobis do. 
  TOX. Et post dabis sub furcis.        
 855 
- SAG. Abi intro&#151; in crucem. DOR. An me hic parum exercitum
+ SAG. Abi intro— in crucem. DOR. An me hic parum exercitum
 hisce 
 habent? TOX. Convenisse te Toxilum me *** 
 spectatores, bene valete. leno periit. plaudite.

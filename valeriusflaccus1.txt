@@ -142,9 +142,9 @@ molliri videt igne trabes remisque paratis      125
 constitit ut longo moles non pervia ponto, 
 puppis et ut tenues subiere latentia cerae 
 lumina, picturae varios super addit honores. 
-hic sperata &lt;. . . . . &gt; Tyrrheni tergore piscis      130 
+hic sperata <. . . . . > Tyrrheni tergore piscis      130 
  Peleos in thalamos vehitur Thetis; aequora delphin 
-corripit, &lt;ipsa&gt; sedet deiecta in lumina palla 
+corripit, <ipsa> sedet deiecta in lumina palla 
 nec Iove maiorem nasci suspirat Achillen. 
 hanc Panope Dotoque soror laetataque fluctu 
 prosequitur nudis pariter Galatea lacertis      135 
@@ -239,7 +239,7 @@ et iam iamque umeri. quem circum vellera Martem
 aspicio? quaenam aligeris secat anguibus auras 
 caede madens? quos ense ferit? miser, eripe parvos,      225 
  Aesonide! cerno et thalamos ardere iugales!' 
-  Iamdudum Minyas &lt;% &gt; ambage ducemque 
+  Iamdudum Minyas <% > ambage ducemque 
 terrificat; sed enim contra Phoebeius Idmon 
 non pallore viris, non ullo horrore comarum 
 terribilis, plenus fatis Phoeboque quieto,      230 
@@ -432,7 +432,7 @@ haud minus Erginus proles Neptunia fertur,      415
 norit et e clausis quem destinet Aeolus antris, 
 non metuat cui regna ratis, cui tradere caelum 
 adsidua Tiphys vultum lassatus ab Arcto. 
-taurea vulnifico portat celer a&lt;spera&gt; plumbo      420 
+taurea vulnifico portat celer a<spera> plumbo      420 
  terga Lacon, saltem in vacuos ut bracchia ventos 
 spargat et Oebalium Pagaseia puppis alumnum 
 spectet securo celebrantem litora ludo, 
@@ -509,7 +509,7 @@ mater in adverso catulis venatur Amano.
 it pariter propulsa ratis. stant litore matres 
 claraque vela oculis percussaque sole sequuntur      495 
  scuta virum, donec iam celsior arbore pontus 
-immens&lt;usque&gt; ratem spectantibus abstulit aer. 
+immens<usque> ratem spectantibus abstulit aer. 
   Siderea tunc arce pater pulcherrima Graium 
 coepta tuens tantamque operis consurgere molem 
 laetatur; patrii neque enim probat otia regni.      500 
@@ -738,7 +738,7 @@ dixit et extemplo furiis iraque minaci
 terribilis: 'sunt hic etiam tua vulnera, praedo, 
 sunt lacrimae carusque parens!' simul aedibus altis 
 itque reditque fremens rerumque asperrima versat.      725 
- Bistonas ad meritos cum cornua saeva Thyone&lt;us&gt; 
+ Bistonas ad meritos cum cornua saeva Thyone<us> 
 torsit et infelix iam mille furoribus Haemus, 
 iam Rhodopes nemora alta gemunt, talem incita longis 
 porticibus coniunxque fugit natique Lycurgum. 

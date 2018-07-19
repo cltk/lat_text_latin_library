@@ -651,7 +651,7 @@ Aeneadum genetrix, hominum divomque voluptas,
  ignem atque ex igni summam consistere solo, 
  magno opere a vera lapsi ratione videntur. 
  Heraclitus init quorum dux proelia primus, 
- clarus &lt;ob&gt; obscuram linguam magis inter inanis 
+ clarus <ob> obscuram linguam magis inter inanis 
  quamde gravis inter Graios, qui vera requirunt;    640 
  omnia enim stolidi magis admirantur amantque, 
  inversis quae sub verbis latitantia cernunt, 
@@ -663,7 +663,7 @@ Aeneadum genetrix, hominum divomque voluptas,
  nec rare fieri, si partes ignis eandem 
  naturam quam totus habet super ignis haberent. 
  acrior ardor enim conductis partibus esset,    650 
- languidior porro disiectis &lt;dis&gt;que supatis. 
+ languidior porro disiectis <dis>que supatis. 
  amplius hoc fieri nihil est quod posse rearis 
  talibus in causis, ne dum variantia rerum 
  tanta queat densis rarisque ex ignibus esse. 
@@ -681,7 +681,7 @@ Aeneadum genetrix, hominum divomque voluptas,
  ignis in coetu stingui mutareque corpus, 
  scilicet ex nulla facere id si parte reparcent, 
  occidet ad nihilum ni mirum funditus ardor 
- omnis et &lt;e&gt; nihilo fient quae cumque creantur; 
+ omnis et <e> nihilo fient quae cumque creantur; 
  nam quod cumque suis mutatum finibus exit,    670 
  continuo hoc mors est illius quod fuit ante. 
  proinde aliquid superare necesse est incolume ollis, 
@@ -715,7 +715,7 @@ Aeneadum genetrix, hominum divomque voluptas,
  sensibus esse potest, qui vera ac falsa notemus?    700 
   Praeterea quare quisquam magis omnia tollat 
  et velit ardoris naturam linquere solam, 
- quam neget esse ignis, &lt;aliam&gt; tamen esse relinquat? 
+ quam neget esse ignis, <aliam> tamen esse relinquat? 
  aequa videtur enim dementia dicere utrumque. 
   Quapropter qui materiem rerum esse putarunt    705 
  ignem atque ex igni summam consistere posse, 
@@ -760,11 +760,11 @@ Aeneadum genetrix, hominum divomque voluptas,
  nec tamen admiscent in eorum corpus inane;    745 
  deinde quod omnino finem non esse secandis 
  corporibus facient neque pausam stare fragori 
- nec prorsum in rebus minimum consistere qui&lt;cquam&gt;, 
+ nec prorsum in rebus minimum consistere qui<cquam>, 
  cum videamus id extremum cuiusque cacumen 
  esse quod ad sensus nostros minimum esse videtur,    750 
  conicere ut possis ex hoc, quae cernere non quis 
- extremum quod habent, minimum consistere &lt;rerum&gt;. 
+ extremum quod habent, minimum consistere <rerum>. 
   Huc accedit item, quoniam primordia rerum 
  mollia constituunt, quae nos nativa videmus 
  esse et mortali cum corpore, funditus ut qui    755 
@@ -887,7 +887,7 @@ Aeneadum genetrix, hominum divomque voluptas,
  in lignis si flamma latet fumusque cinisque, 
  ex alienigenis consistant ligna necessest, 
  [praeterea tellus quae corpora cumque alit auget] 
- ex alienigenis, quae lignis &lt;ex&gt;oriuntur. 
+ ex alienigenis, quae lignis <ex>oriuntur. 
   Linquitur hic quaedam latitandi copia tenvis,    875 
  id quod Anaxagoras sibi sumit, ut omnibus omnis 
  res putet inmixtas rebus latitare, sed illud 
@@ -967,7 +967,7 @@ Aeneadum genetrix, hominum divomque voluptas,
   Sed quoniam docui solidissima materiai 
  corpora perpetuo volitare invicta per aevom, 
  nunc age, summai quaedam sit finis eorum 
- nec&lt;ne&gt; sit, evolvamus; item quod inane repertumst 
+ nec<ne> sit, evolvamus; item quod inane repertumst 
  seu locus ac spatium, res in quo quaeque gerantur,    955 
  pervideamus utrum finitum funditus omne 
  constet an immensum pateat vasteque profundum. 
@@ -1009,7 +1009,7 @@ Aeneadum genetrix, hominum divomque voluptas,
  corporibus nullast, quia nil est funditus imum, 
  quo quasi confluere et sedes ubi ponere possint. 
  semper in adsiduo motu res quaeque geruntur    995 
- partibus &lt;in&gt; cunctis, infernaque suppeditantur 
+ partibus <in> cunctis, infernaque suppeditantur 
  ex infinito cita corpora materiai. 
   Postremo ante oculos res rem finire videtur; 
  aer dissaepit collis atque aera montes, 
@@ -1036,7 +1036,7 @@ Aeneadum genetrix, hominum divomque voluptas,
  ullam rem, quoniam cogi disiecta nequisset.    1020 
  nam certe neque consilio primordia rerum 
  ordine se suo quaeque sagaci mente locarunt 
- nec quos quaeque &lt;darent motus pepigere profecto&gt; 
+ nec quos quaeque <darent motus pepigere profecto> 
  sed quia multa modis multis mutata per omne 
  ex infinito vexantur percita plagis,    1025 
  omne genus motus et coetus experiundo 
@@ -1084,14 +1084,14 @@ Aeneadum genetrix, hominum divomque voluptas,
  sed vanus stolidis haec * * * 
  amplexi quod habent perv * * * 
  nam medium nihil esse potest * * *    1070 
- infinita; neque omnino, si iam &lt;medium sit&gt;, 
+ infinita; neque omnino, si iam <medium sit>, 
  possit ibi quicquam consistere * * * 
  quam quavis alia longe ratione * * * 
- omnis enim locus ac spatium, quod in&lt;ane vocamus&gt;, 
- per medium, per non medium, concedere &lt;debet&gt;    1075 
+ omnis enim locus ac spatium, quod in<ane vocamus>, 
+ per medium, per non medium, concedere <debet>    1075 
  aeque ponderibus, motus qua cumque feruntur. 
  nec quisquam locus est, quo corpora cum venerunt, 
- ponderis amissa vi possint stare &lt;in&gt; inani; 
+ ponderis amissa vi possint stare <in> inani; 
  nec quod inane autem est ulli subsistere debet, 
  quin, sua quod natura petit, concedere pergat.    1080 
  haud igitur possunt tali ratione teneri 

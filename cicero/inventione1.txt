@@ -589,7 +589,7 @@ P a r s est, quae subest generi, ut amor, avaritia.
  
 
  
-[ 43 ] Quarta autem pars est ex iis &lt;rebus&gt;, quas negotiis dicebamus esse adtributas, consecutio. In hac eae res quaeruntur, quae gestum negotium consequuntur: primum, quod factum est, quo id nomine appellari conveniat; deinde eius facti qui sint principes et inventores, qui denique auctoritatis eius et inventionis comprobatores atque aemuli; deinde ecquae de ea re aut eius rei sit lex, consuetudo, pactio, iudicium, scientia, artificium; deinde natura eius, evenire vulgo soleat an insolenter et raro; postea homines id sua auctoritate comprobare an offendere in iis consueverint; et cetera, quae factum aliquid similiter confestim aut ex intervallo solent consequi. Deinde postremo adtendendum est, num quae res ex iis rebus, quae positae sunt in partibus honestatis aut utilitatis, consequantur; de quibus in deliberativo genere causae distinctius erit dicendum.
+[ 43 ] Quarta autem pars est ex iis <rebus>, quas negotiis dicebamus esse adtributas, consecutio. In hac eae res quaeruntur, quae gestum negotium consequuntur: primum, quod factum est, quo id nomine appellari conveniat; deinde eius facti qui sint principes et inventores, qui denique auctoritatis eius et inventionis comprobatores atque aemuli; deinde ecquae de ea re aut eius rei sit lex, consuetudo, pactio, iudicium, scientia, artificium; deinde natura eius, evenire vulgo soleat an insolenter et raro; postea homines id sua auctoritate comprobare an offendere in iis consueverint; et cetera, quae factum aliquid similiter confestim aut ex intervallo solent consequi. Deinde postremo adtendendum est, num quae res ex iis rebus, quae positae sunt in partibus honestatis aut utilitatis, consequantur; de quibus in deliberativo genere causae distinctius erit dicendum.
  
 
  
@@ -613,7 +613,7 @@ Simplex autem conclusio ex necessaria consecutione conficitur, hoc modo: "Si vos
  
 
  
-[ 46 ] P r o b a b i l e autem est id, quod fere solet fieri aut quod in opinione positum est aut quod habet in se ad haec quandam similitudinem, sive id falsum est sive verum. In eo genere, quod fere fieri solet, probabile huiusmodi est: "Si mater est, diligit filium; si avarus est, neglegit ius iurandum." In eo autem, quod in opinione positum est, huiusmodi sunt probabilia: impiis apud inferos poenas esse praeparatas; eos, qui philosophiae dent operam, non arbitrari deos esse. Similitudo autem in contrariis et &lt;ex&gt; paribus et in iis rebus, quae sub eandem rationem cadunt, maxime spectatur. In contrariis, hoc modo: "Nam si iis, qui inprudentes laeserunt, ignosci convenit, iis, qui necessario profuerunt, haberi gratiam non oportet."
+[ 46 ] P r o b a b i l e autem est id, quod fere solet fieri aut quod in opinione positum est aut quod habet in se ad haec quandam similitudinem, sive id falsum est sive verum. In eo genere, quod fere fieri solet, probabile huiusmodi est: "Si mater est, diligit filium; si avarus est, neglegit ius iurandum." In eo autem, quod in opinione positum est, huiusmodi sunt probabilia: impiis apud inferos poenas esse praeparatas; eos, qui philosophiae dent operam, non arbitrari deos esse. Similitudo autem in contrariis et <ex> paribus et in iis rebus, quae sub eandem rationem cadunt, maxime spectatur. In contrariis, hoc modo: "Nam si iis, qui inprudentes laeserunt, ignosci convenit, iis, qui necessario profuerunt, haberi gratiam non oportet."
  
 
  
@@ -660,7 +660,7 @@ Ac fons quidem confirmationis, ut facultas tulit, apertus est nec minus dilucide
  
 
  
-[ 50 ] Atque inveniri quidem omnis ex his locis argumentatio poterit: inventam exornari et certas in partes distingui et suavissimum est et summe necessarium et ab artis scriptoribus maxime neglectum. Quare et de ea praeceptione nobis et in hoc loco dicendum visum est, ut ad inventionem argumentandi &lt;ratio&gt; adiungeretur. Et magna cum cura et diligentia locus hic omnis considerandus est, quod rei non solum magna utilitas est, sed praecipiendi quoque summa difficultas.
+[ 50 ] Atque inveniri quidem omnis ex his locis argumentatio poterit: inventam exornari et certas in partes distingui et suavissimum est et summe necessarium et ab artis scriptoribus maxime neglectum. Quare et de ea praeceptione nobis et in hoc loco dicendum visum est, ut ad inventionem argumentandi <ratio> adiungeretur. Et magna cum cura et diligentia locus hic omnis considerandus est, quod rei non solum magna utilitas est, sed praecipiendi quoque summa difficultas.
  
 
  
@@ -672,7 +672,7 @@ I n d u c t i o est oratio, quae rebus non dubiis captat assensionem eius, quicu
  
 
  
-[ 52 ] Aspasia autem sermonem cum ipso Xenophonte instituit. "Quaeso," inquit, "Xenophon, si vicinus tuus equum meliorem habeat, quam tuus est, tuumne equum malis an illius?" "Illius," inquit. "Quid, si fundum meliorem habeat quam tu habes, utrum tandem fundum habere malis?" "Illum," inquit, "meliorem scilicet." "Quid, si uxorem meliorem habeat, quam tu habes, utrum &lt;tuamne an&gt; illius malis?" Atque hic Xenophon quoque ipse tacuit. Post Aspasia: "Quoniam uterque vestrum," inquit, "id mihi solum non respondit, quod ego solum audire volueram, egomet dicam, quid uterque cogitet. Nam et tu, mulier, optumum virum vis habere et tu, Xenophon, uxorem habere lectissimam maxime vis. Quare, nisi hoc perfeceritis, ut neque vir melior neque femina lectior in terris sit, profecto semper id, quod optumum putabitis esse, multo maxime requiretis [, ut et tu maritus sis quam optumae et haec quam optimo viro nupta sit]".Hic cum rebus non dubiis assensum est, factum est propter similitudinem, ut etiam illud, quod dubium videretur, si qui separatim quaereret, id pro certo propter rationem rogandi concederetur.
+[ 52 ] Aspasia autem sermonem cum ipso Xenophonte instituit. "Quaeso," inquit, "Xenophon, si vicinus tuus equum meliorem habeat, quam tuus est, tuumne equum malis an illius?" "Illius," inquit. "Quid, si fundum meliorem habeat quam tu habes, utrum tandem fundum habere malis?" "Illum," inquit, "meliorem scilicet." "Quid, si uxorem meliorem habeat, quam tu habes, utrum <tuamne an> illius malis?" Atque hic Xenophon quoque ipse tacuit. Post Aspasia: "Quoniam uterque vestrum," inquit, "id mihi solum non respondit, quod ego solum audire volueram, egomet dicam, quid uterque cogitet. Nam et tu, mulier, optumum virum vis habere et tu, Xenophon, uxorem habere lectissimam maxime vis. Quare, nisi hoc perfeceritis, ut neque vir melior neque femina lectior in terris sit, profecto semper id, quod optumum putabitis esse, multo maxime requiretis [, ut et tu maritus sis quam optumae et haec quam optimo viro nupta sit]".Hic cum rebus non dubiis assensum est, factum est propter similitudinem, ut etiam illud, quod dubium videretur, si qui separatim quaereret, id pro certo propter rationem rogandi concederetur.
  
 
  

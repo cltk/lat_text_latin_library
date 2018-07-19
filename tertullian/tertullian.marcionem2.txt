@@ -666,7 +666,7 @@ distant. Denique contrarios eorum sensus, lenitatem dico, patientiam, misericord
 divina praesumitis? Nec tamen perfecte ea obtinemus, quia solus 
 deus perfectus. Ita et illas species, irae dico et exasperationis, non 
 tam feliciter patimur, quia solus deus de incorruptibilitatis proprietate felix. [7] Irascetur
-enim sed non &lt;quatietur&gt;; exacerbabitur 
+enim sed non <quatietur>; exacerbabitur 
 sed non periclitabitur; movebitur sed non evertetur. Omnia necesse est adhibeat propter omnia; tot sensus quot et causas; et 
 iram propter scelestos, et bilem propter ingratos, et aemulationem 
 propter superbos, et quicquid non expedit malis. Sic et misericordiam propter errantes, et patientiam propter non resipiscentes, 
@@ -711,7 +711,7 @@ remittuntur ad fructum praesentis laboris, quo facilius in pecudibus praemeditat
  
  18.  [1] Sed
 quae potius legis bona defendam quam quae haeresis 
-concu&lt;tere concu&gt;piit ut talionis definitionem, oculum
+concu<tere concu>piit ut talionis definitionem, oculum
 pro oculo, 
 dentera pro dente, et livorem pro livore repetentis? Non enim 
 iniuriae mutuo exercendae licentiam sapit, sed in totum cohibendae violentiae prospicit, ut quia durissimo et infideli in deum 
@@ -1065,8 +1065,8 @@ dispositioni suae voluntatique praefecit, diminuens illum modico
 citra angelos, sicut apud David scriptum est; [4] qua
 diminutione in 
 haec quoque dispositus est a patre quae ut humana reprehenditis, 
-ediscens iam inde a primordio, iam inde hominem &lt;indutus, id 
-esse&gt; quod erat futurus in fine. Ille est qui descendit,
+ediscens iam inde a primordio, iam inde hominem <indutus, id 
+esse> quod erat futurus in fine. Ille est qui descendit,
 ille qui 
 interrogat, ille qui postulat, ille qui iurat. Ceterum patrem nemini 
 visum etiam commune testabitur evangelium dicente Christo, 
@@ -1085,7 +1085,7 @@ audito et congresso, arbitro patris et ministro, miscente in semetipso hominem e
 hominem, ut tantum homini conferat quantum deo detrahit. 
  [7] Totum denique dei
 mei penes vos dedecus sacramentum est 
-humanae salutis. Conversabatur deus &lt;humane&gt;, ut homo
+humanae salutis. Conversabatur deus <humane>, ut homo
 divine agere doceretur. Ex aequo agebat deus cum homine, ut homo ex 
 aequo agere cum deo posset. Deus pusillus inventus est, ut homo 
 maximus fieret. Qui talem deum dedignaris, nescio an ex fide 
@@ -1152,7 +1152,7 @@ argumentis, ut bonitatem suam voluerit ostendere in quibus praemiserat severitat
 si postea dens mitior pro rebus edomitis, qui retro austerior pro 
 indomitis. Ita per antitheses facilius ostendi potest ordo creatoris 
 a Christo refonnatus quam repercussus, et redditus potius quam 
-exclusus, praesertim &lt;cum&gt; deum tuum ab omni motu
+exclusus, praesertim <cum> deum tuum ab omni motu
 amariore 
 secernas, utique et ab aemulatione creatoris scilicet. [4] Nam
 si ita 

@@ -65,7 +65,7 @@ cras igitur auctio Peducaei. Cum poteris ergo; etsi impediet fortasse Faberius. 
  
 
  
- ego vero ista nomina sic probo ut nihil aliud me moveat nisi quod tu videris dubitare. illud enim non accipio in bonam partem, &lt;quod&gt; ad me refers; qui si ipse negotium meum gererem, nihil gererem nisi consilio tuo. sed tamen intellego magis te id facere diligentia qua semper uteris quam quod dubites de nominibus istis. etenim Caelium non probas, plura non vis. utrumque laudo. his igitur utendum espraes aliquando factus esset in his quidem tabulis. a me igitur omnia. quod dies longior est (teneamus modo quod volumus), puto fore istam etiam a praecone diem, certe ab heredibus.
+ ego vero ista nomina sic probo ut nihil aliud me moveat nisi quod tu videris dubitare. illud enim non accipio in bonam partem, <quod> ad me refers; qui si ipse negotium meum gererem, nihil gererem nisi consilio tuo. sed tamen intellego magis te id facere diligentia qua semper uteris quam quod dubites de nominibus istis. etenim Caelium non probas, plura non vis. utrumque laudo. his igitur utendum espraes aliquando factus esset in his quidem tabulis. a me igitur omnia. quod dies longior est (teneamus modo quod volumus), puto fore istam etiam a praecone diem, certe ab heredibus.
  
 
  
@@ -79,7 +79,7 @@ cras igitur auctio Peducaei. Cum poteris ergo; etsi impediet fortasse Faberius. 
  
 
  
-habeo munus a te elaboratum decem legatorum: et quidem &lt;de Tuditano idem&gt; puto. nam filius anno post quaestor fuit quam consul Mummius. sed quoniam saepius de nominibus quaeris quid placeat, ego quoque tibi saepius respondeo placere. si quid poteris, cum Pisone conficies; avius enim videtur in officio futurus. velim ante possis, si minus, utique simul simus quom Brutus veniet in Tusculanum. Magni interest mea una nos esse. scies autem qui dies is futurus sit, si puero negotium dederis ut quaerat.
+habeo munus a te elaboratum decem legatorum: et quidem <de Tuditano idem> puto. nam filius anno post quaestor fuit quam consul Mummius. sed quoniam saepius de nominibus quaeris quid placeat, ego quoque tibi saepius respondeo placere. si quid poteris, cum Pisone conficies; avius enim videtur in officio futurus. velim ante possis, si minus, utique simul simus quom Brutus veniet in Tusculanum. Magni interest mea una nos esse. scies autem qui dies is futurus sit, si puero negotium dederis ut quaerat.
  
 
  
@@ -103,7 +103,7 @@ Sp. Mummium putaram in decem legatis fuisse sed videlicet (etenim eu)/logon ) fr
  
 
  
-de aquae ductu probe fecisti. Columniftum vide ne nullum debeamus; quamquam mihi videor isse &lt;a&gt; Camillo commutatam esse legem. 
+de aquae ductu probe fecisti. Columniftum vide ne nullum debeamus; quamquam mihi videor isse <a> Camillo commutatam esse legem. 
  
 
  
@@ -219,7 +219,7 @@ valde me memorderunt epistulae tuae de Attica nostra; eaedem tamen sanaverunt. q
  
 
  
-[2] Ligarianam praeclare vendidisti. posthac quicquid scripsero tibi praeconium deferam. quod ad me de Varrone scribis, scis me antea orationes aut aliquid id genus solitum scribere ut Varronem nusquam possem intexere. postea autem quam haec coepi filologw/tera , iam Varro mihi denuntiaverat magnam sane et gravem prosfw/nhsin . biennium praeteriit cum ille Kallipi/dhj adsiduo cursu cubitum nullum processerit, ego autem me parabam ad id quod ille mihi misisset ut ' autw=? tw=? me/trw? kai\ lw/i+on ,' si modo potuissem; nam hoc etiam Hesiodus ascribit, ' ai)/ ke du/nhai .' nunc illam peri\ Telw=n su/ntacin sane mihi probatam Bruto, ut tibi placuit, despondimus, idque &lt;tu&gt; eum non nolle mihi scripsisti. ergo illam )Akadhmikh/n , in qua homines nobiles illi quidem sed nullo modo philologi nimis acute loquuntur, ad Varronem transferamus. etenim sunt Antiochia quae iste valde probat. Catulo et Lucullo alibi reponemus, ita tamen si tu hoc probas; deque eo mihi rescribas velim.
+[2] Ligarianam praeclare vendidisti. posthac quicquid scripsero tibi praeconium deferam. quod ad me de Varrone scribis, scis me antea orationes aut aliquid id genus solitum scribere ut Varronem nusquam possem intexere. postea autem quam haec coepi filologw/tera , iam Varro mihi denuntiaverat magnam sane et gravem prosfw/nhsin . biennium praeteriit cum ille Kallipi/dhj adsiduo cursu cubitum nullum processerit, ego autem me parabam ad id quod ille mihi misisset ut ' autw=? tw=? me/trw? kai\ lw/i+on ,' si modo potuissem; nam hoc etiam Hesiodus ascribit, ' ai)/ ke du/nhai .' nunc illam peri\ Telw=n su/ntacin sane mihi probatam Bruto, ut tibi placuit, despondimus, idque <tu> eum non nolle mihi scripsisti. ergo illam )Akadhmikh/n , in qua homines nobiles illi quidem sed nullo modo philologi nimis acute loquuntur, ad Varronem transferamus. etenim sunt Antiochia quae iste valde probat. Catulo et Lucullo alibi reponemus, ita tamen si tu hoc probas; deque eo mihi rescribas velim.
  
 
  
@@ -287,7 +287,7 @@ iv Kal. exspectabam Roma aliquid; non imperassem igitur aliquid tuis . nunc eade
  
 
  
-[2] vides propinquitas quid habeat. nos vero conficiamus hortos. conloqui videbamur in Tusculano cum essem . tanta erat crebritas litterarum. sed id quidem iam erit. ego interea admonitu tuo perfeci sane argutulos libros ad Varronem sed tamen exspecto quid ad ea quae scripsi ad te, primum qui intellexeris eum desiderare a me cum ipse homo polugrafw/tatoj numquam me lacessisset; deinde quem zhlotupei=n &lt;nisi forte Brutum, quem si non&gt; zhlotupei=j multo Hortensium minus aut eos qui de re publica loquuntur. plane hoc mihi explices velim, in primis maneasne in sententia ut mittam ad eum quae scripsi, an nihil necesse putes. sed haec coram. 
+[2] vides propinquitas quid habeat. nos vero conficiamus hortos. conloqui videbamur in Tusculano cum essem . tanta erat crebritas litterarum. sed id quidem iam erit. ego interea admonitu tuo perfeci sane argutulos libros ad Varronem sed tamen exspecto quid ad ea quae scripsi ad te, primum qui intellexeris eum desiderare a me cum ipse homo polugrafw/tatoj numquam me lacessisset; deinde quem zhlotupei=n <nisi forte Brutum, quem si non> zhlotupei=j multo Hortensium minus aut eos qui de re publica loquuntur. plane hoc mihi explices velim, in primis maneasne in sententia ut mittam ad eum quae scripsi, an nihil necesse putes. sed haec coram. 
  
 
  
@@ -305,11 +305,11 @@ commodum discesserat Hilarus librarius iv Kal., cui dederam litteras ad te, quom
  
 
  
-[3] in Varrone ista causa me non moveret ne viderer file/ndocoj (sic enim constitueram neminem includere in dialogos eorum qui viverent); sed quia &lt;scribis&gt; et desiderari a Varrone et magni illum aestimare, eos confeci et absolvi nescio quam bene, sed ita accurate ut nihil posset supra, academicam omnem quaestionem libris quattuor. in eis quae erant contra a)katalhyi/an praeclare conlecta ab Antiocho, Varroni dedi. ad ea ipse respondeo; tu es tertius in sermone nostro. si Cottam et Varronem fecissem inter se disputantis, &lt;ut&gt; a te proximis litteris admoneor, meum kwfo\n pro/swpon esset. 
+[3] in Varrone ista causa me non moveret ne viderer file/ndocoj (sic enim constitueram neminem includere in dialogos eorum qui viverent); sed quia <scribis> et desiderari a Varrone et magni illum aestimare, eos confeci et absolvi nescio quam bene, sed ita accurate ut nihil posset supra, academicam omnem quaestionem libris quattuor. in eis quae erant contra a)katalhyi/an praeclare conlecta ab Antiocho, Varroni dedi. ad ea ipse respondeo; tu es tertius in sermone nostro. si Cottam et Varronem fecissem inter se disputantis, <ut> a te proximis litteris admoneor, meum kwfo\n pro/swpon esset. 
  
 
  
-[4] hoc in antiquis personis suaviter fit, ut et Heraclides in multis et nos &lt;in&gt; vi 'de re publica' libris fecimus. sunt etiam 'de oratore' nostri tres mihi vehementer probati. in eis quoque eae personae sunt ut mihi tacendum fuerit. Crassus enim loquitur, Antonius, Catulus senex, C. Iulius frater Catuli, Cotta, Sulpicius. puero me hic sermo inducitur, ut nullae esse possent partes meae. quae autem his temporibus scripsi )Aristote/leion morem habent in quo ita sermo inducitur ceterorum ut penes ipsum sit principatus. ita confeci quinque libros peri\ telw=n ut Epicurea L. Torquato, Stoica M. Catoni, peripathtika\ M. Pisoni darem. )Azhlotu/phton id fore putaram quod omnes illi decesserant. haec 'academica,' ut scis, cum Catulo, Lucullo, Hortensio contuleram. sane in personas non cadebant; erant enim logikw/tera quam ut illi de iis somniasse umquam viderentur. itaque ut legi tuas de Varrone, tamquam e(/rmaion adripui. aptius esse nihil potuit ad id philosophiae genus quo ille maxime mihi delectari videtur, easque partis ut non sim consecutus ut superior mea causa videatur. sunt enim vehementer piqana\ Antiochia; quae diligenter a me expressa acumen habent Antiochi, nitorem orationis nostrum si modo is est aliquis in nobis. sed tu dandosne putes hos libros Varroni &lt;etiam&gt; atque etiam videbis. mihi quaedam occurrunt; sed ea coram. 
+[4] hoc in antiquis personis suaviter fit, ut et Heraclides in multis et nos <in> vi 'de re publica' libris fecimus. sunt etiam 'de oratore' nostri tres mihi vehementer probati. in eis quoque eae personae sunt ut mihi tacendum fuerit. Crassus enim loquitur, Antonius, Catulus senex, C. Iulius frater Catuli, Cotta, Sulpicius. puero me hic sermo inducitur, ut nullae esse possent partes meae. quae autem his temporibus scripsi )Aristote/leion morem habent in quo ita sermo inducitur ceterorum ut penes ipsum sit principatus. ita confeci quinque libros peri\ telw=n ut Epicurea L. Torquato, Stoica M. Catoni, peripathtika\ M. Pisoni darem. )Azhlotu/phton id fore putaram quod omnes illi decesserant. haec 'academica,' ut scis, cum Catulo, Lucullo, Hortensio contuleram. sane in personas non cadebant; erant enim logikw/tera quam ut illi de iis somniasse umquam viderentur. itaque ut legi tuas de Varrone, tamquam e(/rmaion adripui. aptius esse nihil potuit ad id philosophiae genus quo ille maxime mihi delectari videtur, easque partis ut non sim consecutus ut superior mea causa videatur. sunt enim vehementer piqana\ Antiochia; quae diligenter a me expressa acumen habent Antiochi, nitorem orationis nostrum si modo is est aliquis in nobis. sed tu dandosne putes hos libros Varroni <etiam> atque etiam videbis. mihi quaedam occurrunt; sed ea coram. 
  
 
  
@@ -331,7 +331,7 @@ a Caesare litteras accepi consolatorias datas pridie Kal. Maias Hispali. de urbe
  
 
  
-[4] de fama nihil sane laboro; etsi scripseram ad te tunc stulte 'nihil melius'; curandum enim non est. atque hoc 'in omni vita sua quemque a recta conscientia traversum unguem non oportet discedere' viden quam filoso/fwj ? an tu nos frustra existimas haec in manibus habere? Dedh=xqai te &lt;eo&gt; nollem, quod nihil erat. redeo enim rursus eodem. quicquamne me putas curare in toto, nisi ut ei ne desim? id ago scilicet ut iudicia videar tenere. Mh\ gar autoi=j --.' vellem tam domestica ferre possem quam ista contemnere. Putas autem me voluisse aliquid quod perfectum non sit? non licet scilicet sententiam suam. sed tamen quae tum acta sunt non possum non probare et tamen non curare pulchre possum, sicuti facio. sed nimium multa de nugis. 
+[4] de fama nihil sane laboro; etsi scripseram ad te tunc stulte 'nihil melius'; curandum enim non est. atque hoc 'in omni vita sua quemque a recta conscientia traversum unguem non oportet discedere' viden quam filoso/fwj ? an tu nos frustra existimas haec in manibus habere? Dedh=xqai te <eo> nollem, quod nihil erat. redeo enim rursus eodem. quicquamne me putas curare in toto, nisi ut ei ne desim? id ago scilicet ut iudicia videar tenere. Mh\ gar autoi=j --.' vellem tam domestica ferre possem quam ista contemnere. Putas autem me voluisse aliquid quod perfectum non sit? non licet scilicet sententiam suam. sed tamen quae tum acta sunt non possum non probare et tamen non curare pulchre possum, sicuti facio. sed nimium multa de nugis. 
  
 
  
@@ -363,7 +363,7 @@ ad Hirtium dederam epistulam sane grandem quam scripseram proxime in Tusculano. 
  
 
  
-dic mihi, placetne tibi primum edere iniussu meo? hoc ne Hermodorus quidem faciebat, is qui Platonis libros solitus est divulgare, ex quo ' lo/goisin (Ermo/dwroj .' quid? illud rectumne existimas quoiquam &lt;ante quam&gt; Bruto, cui te auctore prosfwnw= ? scripsit enim Balbus ad me se a te quintum 'de finibus' librum descripsisse; in quo non sane multa mutavi sed tamen quaedam. tu autem commode feceris si reliquos continueris, ne et a)dio/rqwta habeat Balbus et e(wla Brutus. sed haec hactenus, ne videar peri\ mikra\ spouda/zein . etsi nunc quidem maxima mihi sunt haec; quid est enim aliud? 
+dic mihi, placetne tibi primum edere iniussu meo? hoc ne Hermodorus quidem faciebat, is qui Platonis libros solitus est divulgare, ex quo ' lo/goisin (Ermo/dwroj .' quid? illud rectumne existimas quoiquam <ante quam> Bruto, cui te auctore prosfwnw= ? scripsit enim Balbus ad me se a te quintum 'de finibus' librum descripsisse; in quo non sane multa mutavi sed tamen quaedam. tu autem commode feceris si reliquos continueris, ne et a)dio/rqwta habeat Balbus et e(wla Brutus. sed haec hactenus, ne videar peri\ mikra\ spouda/zein . etsi nunc quidem maxima mihi sunt haec; quid est enim aliud? 
  
 
  
@@ -397,11 +397,11 @@ de Varrone non sine causa quid tibi placeat tam diligenter exquiro. occurrunt mi
  
 
  
-[2] de Marcello scripserat ad me Cassius antea, ta\ kata\ me/roj Servius. O rem acerbam! ad prima redeo. scripta nostra nusquam malo esse quam apud te, sed ea tum foras dari cum utrique nostrum videbitur. ego et librarios tuos culpa libero neque te accuso et tamen aliud quiddam ad te scripseram, Caerelliam quaedam &lt;habere quae nisi a te&gt; habere non potuerit. Balbo quidem intellegebam sat faciendum fuisse, tantum nolebam aut obsoletum Bruto aut Balbo incohatum dari. Varroni, simul ac te videro, si tibi videbitur, mittam. quid autem dubitarim, cum videro te, scies . 
+[2] de Marcello scripserat ad me Cassius antea, ta\ kata\ me/roj Servius. O rem acerbam! ad prima redeo. scripta nostra nusquam malo esse quam apud te, sed ea tum foras dari cum utrique nostrum videbitur. ego et librarios tuos culpa libero neque te accuso et tamen aliud quiddam ad te scripseram, Caerelliam quaedam <habere quae nisi a te> habere non potuerit. Balbo quidem intellegebam sat faciendum fuisse, tantum nolebam aut obsoletum Bruto aut Balbo incohatum dari. Varroni, simul ac te videro, si tibi videbitur, mittam. quid autem dubitarim, cum videro te, scies . 
  
 
  
-[4] attributos quod appellas valde probe. te de praedio Oviae exerceri moleste fero. de Bruto nostro perodiosum, sed vita fert. mulieres autem vix satis humane quae inimico animo ferant, cum &lt;in&gt; utraque officio pareat. Tullium scribam nihil fuit quod appellares; nam tibi mandassem si fuisset. nihil enim est apud eum positum nomine voti, sed est quiddam apud illum meum. id ego in hanc rem statui conferre. itaque et ego recte tibi dixi ubi esset, et tibi ille recte negavit. sed hoc quoque ipsum continuo adoriamur. Lucum hominibus non sane probo quod est desertior, sed habet eu)logi/an . verum hoc quoque ut censueris, quippe qui omnia. ego, ut constitui, adero, atque utinam tu quoque eodem die! sin quid (multa enim), utique postridie. etenim coheredes a quis sine te opprimi militia est . alteris iam litteris nihil ad me &lt;de&gt; Attica. sed id quidem in optima spe pono; illud accuso non te sed illam, ne salutem quidem. at tu et illi et Piliae plurimam, nec me tamen irasci indicaris. epistulam Caesaris misi, si minus legisses. 
+[4] attributos quod appellas valde probe. te de praedio Oviae exerceri moleste fero. de Bruto nostro perodiosum, sed vita fert. mulieres autem vix satis humane quae inimico animo ferant, cum <in> utraque officio pareat. Tullium scribam nihil fuit quod appellares; nam tibi mandassem si fuisset. nihil enim est apud eum positum nomine voti, sed est quiddam apud illum meum. id ego in hanc rem statui conferre. itaque et ego recte tibi dixi ubi esset, et tibi ille recte negavit. sed hoc quoque ipsum continuo adoriamur. Lucum hominibus non sane probo quod est desertior, sed habet eu)logi/an . verum hoc quoque ut censueris, quippe qui omnia. ego, ut constitui, adero, atque utinam tu quoque eodem die! sin quid (multa enim), utique postridie. etenim coheredes a quis sine te opprimi militia est . alteris iam litteris nihil ad me <de> Attica. sed id quidem in optima spe pono; illud accuso non te sed illam, ne salutem quidem. at tu et illi et Piliae plurimam, nec me tamen irasci indicaris. epistulam Caesaris misi, si minus legisses. 
  
 
  
@@ -419,7 +419,7 @@ ante meridianis tuis litteris heri statim rescripsi; nunc respondeo vespertinis.
  
 
  
-[3] mea mandata, scribis, explica. quamquam ista retentione omnis ait uti Trebatius; quid tu istos putas? Nosti domum. qua re confice eu)gagw/gwj . incredibile est quam ego ista non curem. omni tibi adseveratione adfirmo, quod mihi credas velim, mihi maiori offensioni esse quam delectationi possessiunculas meas. magis enim doleo me non habere quoi tradam quam habere qui utar &lt;laetor&gt;. atque illud Trebatius se tibi dixisse narrabat; tu autem veritus es fortasse ne ego invitus audirem. fuit id quidem humanitatis, sed, mihi crede, iam ista non curo. qua re da te in sermonem et perseca et confice et ita cum Polla loquere ut te cum illo Scaeva loqui putes nec existimes eos qui non debita consectari soleant quod debeatur remissuros. de die tantum videto et id ipsum bono modo. 
+[3] mea mandata, scribis, explica. quamquam ista retentione omnis ait uti Trebatius; quid tu istos putas? Nosti domum. qua re confice eu)gagw/gwj . incredibile est quam ego ista non curem. omni tibi adseveratione adfirmo, quod mihi credas velim, mihi maiori offensioni esse quam delectationi possessiunculas meas. magis enim doleo me non habere quoi tradam quam habere qui utar <laetor>. atque illud Trebatius se tibi dixisse narrabat; tu autem veritus es fortasse ne ego invitus audirem. fuit id quidem humanitatis, sed, mihi crede, iam ista non curo. qua re da te in sermonem et perseca et confice et ita cum Polla loquere ut te cum illo Scaeva loqui putes nec existimes eos qui non debita consectari soleant quod debeatur remissuros. de die tantum videto et id ipsum bono modo. 
  
 
  
@@ -475,7 +475,7 @@ de epistula ad Caesarem nobis vero semper rectissime placuit ut isti ante legere
  
 
  
-[2] sed redeo ad hortos. plane illuc te ire nisi tuo magno commodo nolo; nihil enim urget. quicquid erit, operam &lt;in&gt; Faberio ponamus. de die tamen auctionis, si quid scies. eum qui e Cumano venerat, quod et plane valere Atticam nuntiabat et litteras se habere aiebat, statim ad te misi. 
+[2] sed redeo ad hortos. plane illuc te ire nisi tuo magno commodo nolo; nihil enim urget. quicquid erit, operam <in> Faberio ponamus. de die tamen auctionis, si quid scies. eum qui e Cumano venerat, quod et plane valere Atticam nuntiabat et litteras se habere aiebat, statim ad te misi. 
  
 
  
@@ -507,15 +507,15 @@ hortos quoniam hodie eras inspecturus, quid visum tibi sit cras scilicet. de Fab
  
 
  
-de hortis ex tuis litteris cognovi et &lt;ex&gt; Chrysippo. in villa cuius insulsitatem bene noram video nihil aut pauca mutata; balnearia tamen laudat maiora, de minoribus ait hiberna effici posse. tecta igitur ambulatiuncula addenda est; quam ut tantam faciamus quantam in Tusculano fecimus prope dimidio minoris constabit isto loco. ad id autem quod volumus a)fi/druma nihil aptius videtur quam lucus quem ego noram; sed celebritatem nullam tum habebat, nunc audio maximam. nihil est quod ego malim. in hoc to\n tu=fo/n mou pro\j qew=n tropofo/rhson . reliquum est, si Faberius nobis nomen illud explicat, noli quaerere quanti; Othonem vincas volo. nec tamen insaniturum illum puto; nosse enim mihi hominem videor. ita male autem audio ipsum esse tractatum ut mihi ille emptor non esse videatur. quid enim? pateretur? sed quid argumentor? 
+de hortis ex tuis litteris cognovi et <ex> Chrysippo. in villa cuius insulsitatem bene noram video nihil aut pauca mutata; balnearia tamen laudat maiora, de minoribus ait hiberna effici posse. tecta igitur ambulatiuncula addenda est; quam ut tantam faciamus quantam in Tusculano fecimus prope dimidio minoris constabit isto loco. ad id autem quod volumus a)fi/druma nihil aptius videtur quam lucus quem ego noram; sed celebritatem nullam tum habebat, nunc audio maximam. nihil est quod ego malim. in hoc to\n tu=fo/n mou pro\j qew=n tropofo/rhson . reliquum est, si Faberius nobis nomen illud explicat, noli quaerere quanti; Othonem vincas volo. nec tamen insaniturum illum puto; nosse enim mihi hominem videor. ita male autem audio ipsum esse tractatum ut mihi ille emptor non esse videatur. quid enim? pateretur? sed quid argumentor? 
  
 
  
-[2] si Faberianum explicas, emamus vel magno; si minus, ne parvo quidem possumus. Clodiam igitur. A qua ipsa ob eam causam sperare videor, quod et multo minoris sunt et Dolabellae nomen tam expeditum videtur ut etiam repraesentatione confidam. de hortis satis. cras aut te aut causam; quam quidem &lt;puto&gt; futuram Faberianam. sed si poteris. Ciceronis epistulam tibi remisi.
+[2] si Faberianum explicas, emamus vel magno; si minus, ne parvo quidem possumus. Clodiam igitur. A qua ipsa ob eam causam sperare videor, quod et multo minoris sunt et Dolabellae nomen tam expeditum videtur ut etiam repraesentatione confidam. de hortis satis. cras aut te aut causam; quam quidem <puto> futuram Faberianam. sed si poteris. Ciceronis epistulam tibi remisi.
  
 
  
-[3] O te ferreum qui illius periculis non moveris! me quoque accusat. eam tibi epistulam misissem . nam illam alteram de rebus gestis eodem exemplo &lt;puto&gt;. in Cumanum hodie misi tabellarium. ei dedi tuas ad Vestorium quas Pharnaci dederas. 
+[3] O te ferreum qui illius periculis non moveris! me quoque accusat. eam tibi epistulam misissem . nam illam alteram de rebus gestis eodem exemplo <puto>. in Cumanum hodie misi tabellarium. ei dedi tuas ad Vestorium quas Pharnaci dederas. 
  
 
  
@@ -525,7 +525,7 @@ de hortis ex tuis litteris cognovi et &lt;ex&gt; Chrysippo. in villa cuius insul
  
 
  
-commodum ad te miseram Demean quom Eros ad me venit. sed in eius epistula nihil erat novi nisi auctionem biduum. ab ea igitur, ut scribis, et velim confecto negotio Faberiano; quem quidem negat Eros hodie, cras mane putat. &lt;A&gt; te colendus est; istae autem kolakei=ai ?at non longe absunt a scelere. &lt;te&gt;, ut spero, perendie. 
+commodum ad te miseram Demean quom Eros ad me venit. sed in eius epistula nihil erat novi nisi auctionem biduum. ab ea igitur, ut scribis, et velim confecto negotio Faberiano; quem quidem negat Eros hodie, cras mane putat. <A> te colendus est; istae autem kolakei=ai ?at non longe absunt a scelere. <te>, ut spero, perendie. 
  
 
  
@@ -539,7 +539,7 @@ commodum ad te miseram Demean quom Eros ad me venit. sed in eius epistula nihil 
  
 
  
-v Kal. mane accepi a Demea litteras pridie datas ex quibus aut hodie aut cras &lt;te&gt; exspectare deberem. sed, ut opinor, idem ego qui exspecto tuum adventum morabor te. non enim puto tam expeditum Faberianum negotium futurum, etiam si est futurum ut &lt;non&gt; habeat aliquid morae. 
+v Kal. mane accepi a Demea litteras pridie datas ex quibus aut hodie aut cras <te> exspectare deberem. sed, ut opinor, idem ego qui exspecto tuum adventum morabor te. non enim puto tam expeditum Faberianum negotium futurum, etiam si est futurum ut <non> habeat aliquid morae. 
  
 
  
@@ -569,7 +569,7 @@ alteram a te epistulam cum hodie accepissem, nolui te una mea contentum. tu vero
  
 
  
-[3] Torquatus Romae est. misi ut tibi daretur. Catulum et Lucullum, ut opinor, antea. his libris nova prohoemia sunt addita quibus eorum uterque laudatur. eas litteras volo habeas et sunt quaedam alia. et quod ad te &lt;de&gt; decem legatis scripsi parum intellexisti, credo, quia dia\ shmei/wn scripseram. de C. Tuditano enim quaerebam quem ex Hortensio audieram fuisse in decem. eum video in Libonis praetorem P. Popilio P. Rupilio &lt;coss.&gt; Annis xiiii ante quam praetor factus est legatus esse potuisset, nisi admodum sero quaestor est factus? quod non arbitror. video enim curulis magistratus eum legitimis annis perfacile cepisse. Postumium autem cuius statuam in Isthmo meminisse te dicis nesciebam fuisse. is autem est qui &lt;cos.&gt; cum &lt;L.&gt; Lucullo fuit; quem tu mihi addidisti sane ad illum su/llogon personam idoneam. videbis igitur, si poteris, ceteros, ut possimus pompeu=sai&lt; kai\ toi=j prosw/poij .
+[3] Torquatus Romae est. misi ut tibi daretur. Catulum et Lucullum, ut opinor, antea. his libris nova prohoemia sunt addita quibus eorum uterque laudatur. eas litteras volo habeas et sunt quaedam alia. et quod ad te <de> decem legatis scripsi parum intellexisti, credo, quia dia\ shmei/wn scripseram. de C. Tuditano enim quaerebam quem ex Hortensio audieram fuisse in decem. eum video in Libonis praetorem P. Popilio P. Rupilio <coss.> Annis xiiii ante quam praetor factus est legatus esse potuisset, nisi admodum sero quaestor est factus? quod non arbitror. video enim curulis magistratus eum legitimis annis perfacile cepisse. Postumium autem cuius statuam in Isthmo meminisse te dicis nesciebam fuisse. is autem est qui <cos.> cum <L.> Lucullo fuit; quem tu mihi addidisti sane ad illum su/llogon personam idoneam. videbis igitur, si poteris, ceteros, ut possimus pompeu=sai< kai\ toi=j prosw/poij .
  
 
  
@@ -579,7 +579,7 @@ alteram a te epistulam cum hodie accepissem, nolui te una mea contentum. tu vero
  
 
  
-&lt;O&gt; neglegentiam miram! semelne putas mihi dixisse Balbum et Faberium professionem relatam? qui etiam eorum iussu miserim qui profiteretur. ita enim oportere dicebant. professus est Philotimus libertus. nosti, credo, librarium. 
+<O> neglegentiam miram! semelne putas mihi dixisse Balbum et Faberium professionem relatam? qui etiam eorum iussu miserim qui profiteretur. ita enim oportere dicebant. professus est Philotimus libertus. nosti, credo, librarium. 
  
 
  
@@ -587,7 +587,7 @@ alteram a te epistulam cum hodie accepissem, nolui te una mea contentum. tu vero
  
 
  
-[3] * * * negotium dederis, reperiet ex eo libro in quo sunt servatus consulta Cn. Cornelio L. &lt;Mummio&gt; coss. de Tuditano autem quod putas, eu)/logon est tum illum, quoniam fuit ad Corinthum (non enim temere dixit Hortensius), aut quaestorem &lt;aut&gt; tribunum mil. fuisse, idque potius credo. tu de Antiocho scire poteris vide etiam, quo anno quaestor aut tribunus mil. fuerit; si neutrum ea de in praefectis an in contubernalibus fuerit, modo fuerit in eo bello.
+[3] * * * negotium dederis, reperiet ex eo libro in quo sunt servatus consulta Cn. Cornelio L. <Mummio> coss. de Tuditano autem quod putas, eu)/logon est tum illum, quoniam fuit ad Corinthum (non enim temere dixit Hortensius), aut quaestorem <aut> tribunum mil. fuisse, idque potius credo. tu de Antiocho scire poteris vide etiam, quo anno quaestor aut tribunus mil. fuerit; si neutrum ea de in praefectis an in contubernalibus fuerit, modo fuerit in eo bello.
  
 
  
@@ -611,7 +611,7 @@ de Varrone loquebamur: lupus in fabula. venit enim ad me et quidem id temporis u
  
 
  
-Asturam veni viii Kal. &lt;vesperi&gt;. vitandi enim caloris causa Lanuvi tris horas acquieveram. tu velim, si grave non erit, efficias ne ante Nonas mihi illuc veniendum sit (id potes per Egnatium maximum), illud in primis, cum Publilio me absente conficias. de quo quae fama sit scribes. id populus curat scilicet! non me hercule arbitror; etenim haec decantata erat fabula. sed complere paginam volui. quid plura? ipse enim adsum, nisi quid tu prorogas. scripsi enim ad te de hortis.
+Asturam veni viii Kal. <vesperi>. vitandi enim caloris causa Lanuvi tris horas acquieveram. tu velim, si grave non erit, efficias ne ante Nonas mihi illuc veniendum sit (id potes per Egnatium maximum), illud in primis, cum Publilio me absente conficias. de quo quae fama sit scribes. id populus curat scilicet! non me hercule arbitror; etenim haec decantata erat fabula. sed complere paginam volui. quid plura? ipse enim adsum, nisi quid tu prorogas. scripsi enim ad te de hortis.
  
 
  
@@ -639,7 +639,7 @@ has alteras hodie litteras. de Xenonis nomine et de Epiroticis x_x_x_x_ nihil po
  
 
  
-[2] nihil novi sane nisi Hirtium cum Quinto acerrime pro me litigasse; omnibus eum locis furere maximeque in conviviis cum multa de me tum redire ad patrem; nihil autem ab eo &lt;tam&gt; a)ciopi/stwj dici quam alienissimos nos esse a Caesare; fidem nobis habendam non esse, me vero etiam cavendum ( fobero\n a)\n h)=n nisi viderem scire regem me animi nihil habere), Ciceronem vero meum vexari; sed id quidem arbitratu suo. 
+[2] nihil novi sane nisi Hirtium cum Quinto acerrime pro me litigasse; omnibus eum locis furere maximeque in conviviis cum multa de me tum redire ad patrem; nihil autem ab eo <tam> a)ciopi/stwj dici quam alienissimos nos esse a Caesare; fidem nobis habendam non esse, me vero etiam cavendum ( fobero\n a)\n h)=n nisi viderem scire regem me animi nihil habere), Ciceronem vero meum vexari; sed id quidem arbitratu suo. 
  
 
  
@@ -661,7 +661,7 @@ ante lucem cum scriberem contra Epicureos, de eodem oleo et opera exaravi nescio
  
 
  
-[2] nunc me iuva, mi Attice, consilio, ' po/teron di/ka? tei=xoj u(/yion ,' id est utrum aperte hominem asperner et respuam, h)\ skoliai=j a)pa/taij .' Vt enim Pindaro sic ' di/xa moi no/oj a)tre/keian ei)pei=n .' omnino moribus meis illud aptius sed hoc fortasse temporibus. tu autem quod ipse tibi suaseris idem mihi persuasum putato. equidem vereor maxime ne in Tusculano opprimar. in turba haec essent faciliora. utrum igitur Asturae? quid &lt;si&gt; Caesar subito? iuva me, quaeso, consilio. utar eo quod tu decreveris.
+[2] nunc me iuva, mi Attice, consilio, ' po/teron di/ka? tei=xoj u(/yion ,' id est utrum aperte hominem asperner et respuam, h)\ skoliai=j a)pa/taij .' Vt enim Pindaro sic ' di/xa moi no/oj a)tre/keian ei)pei=n .' omnino moribus meis illud aptius sed hoc fortasse temporibus. tu autem quod ipse tibi suaseris idem mihi persuasum putato. equidem vereor maxime ne in Tusculano opprimar. in turba haec essent faciliora. utrum igitur Asturae? quid <si> Caesar subito? iuva me, quaeso, consilio. utar eo quod tu decreveris.
  
 
  
@@ -671,7 +671,7 @@ ante lucem cum scriberem contra Epicureos, de eodem oleo et opera exaravi nescio
  
 
  
-O incredibilem vanitatem! ad patrem 'domo sibi carendum propter matrem,' &lt;ad matrem&gt; plenam pietatis. hic autem iam languescit et ait sibi illum iure iratum. 
+O incredibilem vanitatem! ad patrem 'domo sibi carendum propter matrem,' <ad matrem> plenam pietatis. hic autem iam languescit et ait sibi illum iure iratum. 
  
 
  
@@ -777,7 +777,7 @@ Pollex quidem, ut dixerat ad Idus Sextilis, ita mihi Lanuvi pridie Idus praesto 
  
 
  
-[2] cognosces igitur ex ipso. Balbum conveni--Lepta enim de sua munerum curatione laborans me ad eum perduxerat--in eo autem Lanuvino quod Lepido tradidit. ex eo hoc primum, 'Paulo ante acceperam eas litteras in quibus magno opere confirmat ante ludos Romanos.' legi epistulam. multa de meo Catone, quo saepissime legendo se dicit copiosiorem factum, Bruti Catone lecto se sibi visum disertum. &lt;tum&gt; ex eo cognovi cretionem Cluvi Vestorium neglegentem!) liberam cretionem testibus praesentibus sexaginta diebus. metuebam ne ille arcessendus esset. nunc mittendum est ut meo iussu cernat. idem igitur Pollex. etiam de hortis Cluvianis egi cum Balbo. nil liberalius. se enim statim ad Caesarem scripturum, Cluvium autem a T. Hordeonio legare et Terentiae HS i[c][c][c] et sepulcro multisque rebus, nihil a nobis. subaccusa, quaeso, Vestorium. quid minus probandum quam Plotium unguentarium per suos pueros omnia tanto ante Balbo, illum mi ne per meos quidem? de Cossinio doleo; dilexi hominem. 
+[2] cognosces igitur ex ipso. Balbum conveni--Lepta enim de sua munerum curatione laborans me ad eum perduxerat--in eo autem Lanuvino quod Lepido tradidit. ex eo hoc primum, 'Paulo ante acceperam eas litteras in quibus magno opere confirmat ante ludos Romanos.' legi epistulam. multa de meo Catone, quo saepissime legendo se dicit copiosiorem factum, Bruti Catone lecto se sibi visum disertum. <tum> ex eo cognovi cretionem Cluvi Vestorium neglegentem!) liberam cretionem testibus praesentibus sexaginta diebus. metuebam ne ille arcessendus esset. nunc mittendum est ut meo iussu cernat. idem igitur Pollex. etiam de hortis Cluvianis egi cum Balbo. nil liberalius. se enim statim ad Caesarem scripturum, Cluvium autem a T. Hordeonio legare et Terentiae HS i[c][c][c] et sepulcro multisque rebus, nihil a nobis. subaccusa, quaeso, Vestorium. quid minus probandum quam Plotium unguentarium per suos pueros omnia tanto ante Balbo, illum mi ne per meos quidem? de Cossinio doleo; dilexi hominem. 
  
 
  
@@ -823,7 +823,7 @@ Lepidus ad me heri vesperi litteras misit Antio. nam ibi erat. habet enim domum 
  
 
  
-heri nescio quid in strepitu videor exaudisse cum diceres te in Tusculanum venturum. quod utinam! iterum utinam! tuo tamen commodo. Lepta me rogat ut, si quid sibi opus sit, accurram; mortuus enim Babullius. Caesar, opinor, ex uncia etsi nihil adhuc; sed Lepta ex triente. veretur autem ne non liceat tenere hereditatem, a)lo/gwj Omnino, sed veretur tamen. is igitur si accierit, accurram; si minus, &lt;non&gt; ante quam necesse erit. tu Pollicem, cum poteris. 
+heri nescio quid in strepitu videor exaudisse cum diceres te in Tusculanum venturum. quod utinam! iterum utinam! tuo tamen commodo. Lepta me rogat ut, si quid sibi opus sit, accurram; mortuus enim Babullius. Caesar, opinor, ex uncia etsi nihil adhuc; sed Lepta ex triente. veretur autem ne non liceat tenere hereditatem, a)lo/gwj Omnino, sed veretur tamen. is igitur si accierit, accurram; si minus, <non> ante quam necesse erit. tu Pollicem, cum poteris. 
  
 
  
@@ -841,7 +841,7 @@ Atticae primum salutem (quam equidem ruri esse arbitror; multam igitur salutem) 
  
 
  
- [2] Gallo autem narravi, cum proxime Romae fui, quid audissem neque nominavi Balbum minorem. habuit suum negotium Gallus ut scribit. ait illum &lt;dicere&gt; me animi conscientia quod Phamean destituissem de se suspicari. qua re tibi hactenus mando, de illo nostro, si quid poteris, exquiras, de me ne quid labores. est bellum aliquem libenter odisse et quem ad modum &lt;non omnibus dormire, ita&gt; non omnibus servire. etsi me hercule, ut tu intellegis, magis mihi isti serviunt, si observare servire est.
+ [2] Gallo autem narravi, cum proxime Romae fui, quid audissem neque nominavi Balbum minorem. habuit suum negotium Gallus ut scribit. ait illum <dicere> me animi conscientia quod Phamean destituissem de se suspicari. qua re tibi hactenus mando, de illo nostro, si quid poteris, exquiras, de me ne quid labores. est bellum aliquem libenter odisse et quem ad modum <non omnibus dormire, ita> non omnibus servire. etsi me hercule, ut tu intellegis, magis mihi isti serviunt, si observare servire est.
  
 
  

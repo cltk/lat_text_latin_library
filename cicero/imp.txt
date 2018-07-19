@@ -31,7 +31,7 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 4 ] Atque,&#151;ut inde oratio mea proficiscatur, unde haec omnis causa ducitur,&#151;bellum grave et periculosum vestris vectigalibus ac sociis a duobus potentissimis regibus infertur, Mithridate et Tigrane, quorum alter relictus, alter lacessitus, occasionem sibi ad occupandam Asiam oblatam esse arbitrantur. Equitibus Romanis, honestissimis viris, adferuntur ex Asia cotidie litterae, quorum magnae res aguntur in vestris vectigalibus exercendis occupatae: qui ad me, pro necessitudine quae mihi est cum illo ordine, causam rei publicae periculaque rerum suarum detulerunt:
+[ 4 ] Atque,—ut inde oratio mea proficiscatur, unde haec omnis causa ducitur,—bellum grave et periculosum vestris vectigalibus ac sociis a duobus potentissimis regibus infertur, Mithridate et Tigrane, quorum alter relictus, alter lacessitus, occasionem sibi ad occupandam Asiam oblatam esse arbitrantur. Equitibus Romanis, honestissimis viris, adferuntur ex Asia cotidie litterae, quorum magnae res aguntur in vestris vectigalibus exercendis occupatae: qui ad me, pro necessitudine quae mihi est cum illo ordine, causam rei publicae periculaque rerum suarum detulerunt:
  
 
  
@@ -43,7 +43,7 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 7 ] Et quoniam semper appetentes gloriae praeter ceteras gentis atque avidi laudis fuistis, delenda est vobis ill macula Mithridatico bello superiore concepta, quae penitus iam insedit ac nimis inveteravit in populi Romani nomine,&#151;quod is, qui uno die, tota in Asia, tot in civitatibus, uno nuntio atque una significatione [litterarum] civis Romanos necandos trucidandosque denotavit, non modo adhuc poenam nullam suo dignam scelere suscepit, sed ab illo tempore annum iam tertium et vicesimum regnat, et ita regnat, ut se non Ponti neque Cappadociae latebris occultare velit, sed emergere ex patrio regno atque in vestris vectigalibus, hoc est, in Asiae luce versari.
+[ 7 ] Et quoniam semper appetentes gloriae praeter ceteras gentis atque avidi laudis fuistis, delenda est vobis ill macula Mithridatico bello superiore concepta, quae penitus iam insedit ac nimis inveteravit in populi Romani nomine,—quod is, qui uno die, tota in Asia, tot in civitatibus, uno nuntio atque una significatione [litterarum] civis Romanos necandos trucidandosque denotavit, non modo adhuc poenam nullam suo dignam scelere suscepit, sed ab illo tempore annum iam tertium et vicesimum regnat, et ita regnat, ut se non Ponti neque Cappadociae latebris occultare velit, sed emergere ex patrio regno atque in vestris vectigalibus, hoc est, in Asiae luce versari.
  
 
  
@@ -59,7 +59,7 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 11 ] de vestri imperi dignitate atque gloria&#151;quoniam is est exorsus orationis meae&#151; videte quem vobis animum suscipiendum putetis. Maiores nostri saepe mercatoribus aut naviculariis nostris iniuriosius tractatis bella gesserunt: vos, tot milibus civium Romanorum uno nuntio atque uno tempore necatis, quo tandem animo esse debetis? Legati quod erant appellati superbius, Corinthum patres vestri totius Graeciae lumen exstinctum esse voluerunt: vos eum regem inultum esse patiemini, qui legatum populi Romani consularem vinculis ac verberibus atque omni supplicio excruciatum necavit? Illi libertatem imminutam civium Romanorum non tulerunt: vos ereptam vitam neglegetis? ius legationis verbo violatum illi persecuti sunt: vos legatum omni supplicio interfectum relinquetis?
+[ 11 ] de vestri imperi dignitate atque gloria—quoniam is est exorsus orationis meae— videte quem vobis animum suscipiendum putetis. Maiores nostri saepe mercatoribus aut naviculariis nostris iniuriosius tractatis bella gesserunt: vos, tot milibus civium Romanorum uno nuntio atque uno tempore necatis, quo tandem animo esse debetis? Legati quod erant appellati superbius, Corinthum patres vestri totius Graeciae lumen exstinctum esse voluerunt: vos eum regem inultum esse patiemini, qui legatum populi Romani consularem vinculis ac verberibus atque omni supplicio excruciatum necavit? Illi libertatem imminutam civium Romanorum non tulerunt: vos ereptam vitam neglegetis? ius legationis verbo violatum illi persecuti sunt: vos legatum omni supplicio interfectum relinquetis?
  
 
  
@@ -67,7 +67,7 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 13 ] Vident et sentiunt hoc idem quod vos,&#151;unum virum esse, in quo summa sint omnia, et eum propter esse, quo etiam carent aegrius; cuius adventus ipso atque nomine, tametsi ille ad maritimum bellum venerit, tamen impetus hostium repressos esse intellegunt ac retardatos. His vos, quoniam libere loqui non licet, tacite rogant, ut se quoque, sicut ceterarum provinciarum socios, dignos existimetis, quorum salutem tali viro commendetis; atque hoc etiam magis, quod ceteros in provinciam eius modi homines cum imperio mittimus, ut etiam si ab hoste defendant, tamen ipsorum adventus in urbis sociorum non multum ab hostili expugnatione differant. Hunc audiebant antea, nunc praesentem vident, tanta temperantia, tanta mansuetudine, tanta humanitate, ut ei beatissimi esse videantur, apud quod ille diutissime commoratur.
+[ 13 ] Vident et sentiunt hoc idem quod vos,—unum virum esse, in quo summa sint omnia, et eum propter esse, quo etiam carent aegrius; cuius adventus ipso atque nomine, tametsi ille ad maritimum bellum venerit, tamen impetus hostium repressos esse intellegunt ac retardatos. His vos, quoniam libere loqui non licet, tacite rogant, ut se quoque, sicut ceterarum provinciarum socios, dignos existimetis, quorum salutem tali viro commendetis; atque hoc etiam magis, quod ceteros in provinciam eius modi homines cum imperio mittimus, ut etiam si ab hoste defendant, tamen ipsorum adventus in urbis sociorum non multum ab hostili expugnatione differant. Hunc audiebant antea, nunc praesentem vident, tanta temperantia, tanta mansuetudine, tanta humanitate, ut ei beatissimi esse videantur, apud quod ille diutissime commoratur.
  
 
  
@@ -115,19 +115,19 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 25 ] Itaque tantum victus efficere potuit, quantum incolumis numquam est ausus optare. Nam cum se in regnum suum recepisset, non fuit eo contentus, quod ei praeter spem acciderat,&#151;ut illam, postea quam pulsus erat, terram umquam attingeret,&#151;sed in exercitum nostrum clarum atque victorem impetum fecit. Sinite hoc loco, Quirites, sicut poetae solent, qui res Romanas scribunt, praeterire me nostram calamitatem, quae tanta fuit, ut eam ad auris [Luculli] imperatoris non ex proelio nuntius, sed ex sermone rumor adferret.
+[ 25 ] Itaque tantum victus efficere potuit, quantum incolumis numquam est ausus optare. Nam cum se in regnum suum recepisset, non fuit eo contentus, quod ei praeter spem acciderat,—ut illam, postea quam pulsus erat, terram umquam attingeret,—sed in exercitum nostrum clarum atque victorem impetum fecit. Sinite hoc loco, Quirites, sicut poetae solent, qui res Romanas scribunt, praeterire me nostram calamitatem, quae tanta fuit, ut eam ad auris [Luculli] imperatoris non ex proelio nuntius, sed ex sermone rumor adferret.
  
 
  
-[ 26 ] Hic in illo ipso malo gravissimaque belli offensione, L. Lucullus, qui tamen aliqua ex parte eis incommodis mederi fortasse potuisset, vestro iussu coactus,&#151;qui imperi diuturnitati modum statuendum vetere exemplo putavistis,&#151;partem militum, qui iam stipendiis confecti erant, dimisit, partem M'. Glabrioni tradidit. Multa praetereo consulto, sed ea vos coniectura perspicite, quantum illud bellum factum putetis, quod coniungant reges potentissimi, renovent agitatae nationes, suscipiant integrae gentes, novus imperator noster accipiat, vetere exercitu pulso.
+[ 26 ] Hic in illo ipso malo gravissimaque belli offensione, L. Lucullus, qui tamen aliqua ex parte eis incommodis mederi fortasse potuisset, vestro iussu coactus,—qui imperi diuturnitati modum statuendum vetere exemplo putavistis,—partem militum, qui iam stipendiis confecti erant, dimisit, partem M'. Glabrioni tradidit. Multa praetereo consulto, sed ea vos coniectura perspicite, quantum illud bellum factum putetis, quod coniungant reges potentissimi, renovent agitatae nationes, suscipiant integrae gentes, novus imperator noster accipiat, vetere exercitu pulso.
  
 
  
-[ 27 ] Satis mihi multa verba fecisse videor, qua re esset hoc bellum genere ipso necessarium, magnitudine periculosum. Restat ut de imperatore ad id bellum delingendo ac tantis rebus praeficiendo dicendum esse videatur. Utinam, Quirites, virorum fortium atque innocentium copiam tantam haberetis, ut haec vobis deliberatio difficilis esset, quemnam potissimum tantis rebus ac tanto bello praeficiendum putaretis! Nunc vero&#151;cum sit unus Cn. Pompeius, qui non modo eorum hominum qui nunc sunt gloriam, sed etiam antiquitatis memoriam virtute superarit&#151;quae res est quae cuiusquam animum in hac causa dubium facere possit?
+[ 27 ] Satis mihi multa verba fecisse videor, qua re esset hoc bellum genere ipso necessarium, magnitudine periculosum. Restat ut de imperatore ad id bellum delingendo ac tantis rebus praeficiendo dicendum esse videatur. Utinam, Quirites, virorum fortium atque innocentium copiam tantam haberetis, ut haec vobis deliberatio difficilis esset, quemnam potissimum tantis rebus ac tanto bello praeficiendum putaretis! Nunc vero—cum sit unus Cn. Pompeius, qui non modo eorum hominum qui nunc sunt gloriam, sed etiam antiquitatis memoriam virtute superarit—quae res est quae cuiusquam animum in hac causa dubium facere possit?
  
 
  
-[ 28 ] Ego enim sic existimo, in summo imperatore quattuor has res inesse oportere,&#151;scientiam rei militaris, virtutem, auctoritatem, felicitatem. Quis igitur hoc homine scientior umquam aut fuit aut esse debuit? qui e ludo atque e pueritiae disciplinis bello maximo atque acerrimis hostibus ad patris exercitum atque in militiae disciplinam profectus est; qui extrema pueritia miles in exercitu fuit summi imperatoris, ineunte adulescentia maximi ipse exercitus imperator; qui saepius cum hoste conflixit quam quisquam cum inimico concertavit, plura bello gessit quam ceteri legerunt, plures provincias confecit quam alii concupiverunt; cuius adulescentia ad scientiam rei militaris non alienis praeceptis sed suis imperiis, non offensionibus belli sed victoriis, non stipendiis sed triumphis est erudita. Quod denique genus esse belli potest, in quo illum non exercuerit fortuna rei publicae? Civile, Africanum, Transalpinum, Hispaniense [mixtum ex civitatibus atque ex bellicosissimis nationibus], servile, navale bellum, varia et diversa genera et bellorum et hostium, non solum gesta ab hoc uno, sed etiam confecta, nullam rem esse declarant in usu positam militari, quae huius viri scientiam fugere possit.
+[ 28 ] Ego enim sic existimo, in summo imperatore quattuor has res inesse oportere,—scientiam rei militaris, virtutem, auctoritatem, felicitatem. Quis igitur hoc homine scientior umquam aut fuit aut esse debuit? qui e ludo atque e pueritiae disciplinis bello maximo atque acerrimis hostibus ad patris exercitum atque in militiae disciplinam profectus est; qui extrema pueritia miles in exercitu fuit summi imperatoris, ineunte adulescentia maximi ipse exercitus imperator; qui saepius cum hoste conflixit quam quisquam cum inimico concertavit, plura bello gessit quam ceteri legerunt, plures provincias confecit quam alii concupiverunt; cuius adulescentia ad scientiam rei militaris non alienis praeceptis sed suis imperiis, non offensionibus belli sed victoriis, non stipendiis sed triumphis est erudita. Quod denique genus esse belli potest, in quo illum non exercuerit fortuna rei publicae? Civile, Africanum, Transalpinum, Hispaniense [mixtum ex civitatibus atque ex bellicosissimis nationibus], servile, navale bellum, varia et diversa genera et bellorum et hostium, non solum gesta ab hoc uno, sed etiam confecta, nullam rem esse declarant in usu positam militari, quae huius viri scientiam fugere possit.
  
 
  
@@ -135,7 +135,7 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 29 ] Iam vero virtuti Cn. Pompei quae potest oratio par inveniri? Quid est quod quisquam aut illo dignum aut vobis novum aut cuiquam inauditum possit adferre? Neque enim illae sunt solae virtutes imperatoriae, quae volgo existimantur,&#151;labor in negotiis, fortitudo in periculis, industria in agendo, celeritas in conficiendo, consilium in providiendo: quae tanta sunt in hoc uno, quanta in omnibus reliquis imperatoribus, quos aut vidimus aut audivimus, non fuerunt.
+[ 29 ] Iam vero virtuti Cn. Pompei quae potest oratio par inveniri? Quid est quod quisquam aut illo dignum aut vobis novum aut cuiquam inauditum possit adferre? Neque enim illae sunt solae virtutes imperatoriae, quae volgo existimantur,—labor in negotiis, fortitudo in periculis, industria in agendo, celeritas in conficiendo, consilium in providiendo: quae tanta sunt in hoc uno, quanta in omnibus reliquis imperatoribus, quos aut vidimus aut audivimus, non fuerunt.
  
 
  
@@ -187,19 +187,19 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 42 ] iam quantum consilio, quantum dicendi gravitate et copia valeat,&#151;in quo ipso inest quaedam dignitas imperatoria,&#151;vos, Quirites, hoc ipso ex loco saepe cognovistis. Fidem vero eius quantam inter socios existimari putatis, quam hostes omnes omnium generum sanctissimam iudicarint? Humanitate iam tanta est, ut difficile dictu sit utrum hostes magis virtutem eius pugnantes timuerint, an mansuetudinem victi dilexerint. Et quisquam dubitabit quin huic hoc tantum bellum transmittendum sit, qui ad omnia nostrae memoriae bella conficienda divino quodam consilio natus esse videatur?
+[ 42 ] iam quantum consilio, quantum dicendi gravitate et copia valeat,—in quo ipso inest quaedam dignitas imperatoria,—vos, Quirites, hoc ipso ex loco saepe cognovistis. Fidem vero eius quantam inter socios existimari putatis, quam hostes omnes omnium generum sanctissimam iudicarint? Humanitate iam tanta est, ut difficile dictu sit utrum hostes magis virtutem eius pugnantes timuerint, an mansuetudinem victi dilexerint. Et quisquam dubitabit quin huic hoc tantum bellum transmittendum sit, qui ad omnia nostrae memoriae bella conficienda divino quodam consilio natus esse videatur?
  
 
  
-[ 43 ] Et quoniam auctoritas quoque in bellis administrandis multum atque in imperio militari valet, certe nemini dubium est quin ea re idem ille imperator plurimum possit. Vehementer autem pertinere ad bella administranda quid hostes, quid socii de imperatoribus nostris existiment, quis ignorat, cum sciamus homines in tantis rebus, ut aut contemnant aut metuant aut oderint aut ament, opinione non minus et fama quam aliqua ratione certa commoveri? Quod igitur nomen umquam in orbe terrarum clarius fuit? cuius res gestae pares? de quo homine vos,&#151;id quod maxime facit auctoritatem,&#151;tanta et tam praeclara iudicia fecistis?
+[ 43 ] Et quoniam auctoritas quoque in bellis administrandis multum atque in imperio militari valet, certe nemini dubium est quin ea re idem ille imperator plurimum possit. Vehementer autem pertinere ad bella administranda quid hostes, quid socii de imperatoribus nostris existiment, quis ignorat, cum sciamus homines in tantis rebus, ut aut contemnant aut metuant aut oderint aut ament, opinione non minus et fama quam aliqua ratione certa commoveri? Quod igitur nomen umquam in orbe terrarum clarius fuit? cuius res gestae pares? de quo homine vos,—id quod maxime facit auctoritatem,—tanta et tam praeclara iudicia fecistis?
  
 
  
-[ 44 ] An vero ullam usquam esse oram tam desertam putatis, quo non illius diei fama pervaserit, cum universus populus Romanus, referto foro completisque omnibus templis ex quibus hic locus conspici potest, unum sibi ad commune omnium gentium bellum Cn. Pompeium imperatorem deposcit? Itaque&#151;ut plura non dicam, neque aliorum exemplis confirmem quantum [huius] auctoritas valeat in bello&#151;ab eodem Cn. Pompeio omnium rerum egregiarum exempla sumantur: qui quo die a vobis maritimo bello praepositus est imperator, tanta repente vilitas annonae ex summa inopia et caritate rei frumentariae consecuta est unius hominis spe ac nomine, quantum vix in summa ubertate agrorum diuturna pax efficere potuisset.
+[ 44 ] An vero ullam usquam esse oram tam desertam putatis, quo non illius diei fama pervaserit, cum universus populus Romanus, referto foro completisque omnibus templis ex quibus hic locus conspici potest, unum sibi ad commune omnium gentium bellum Cn. Pompeium imperatorem deposcit? Itaque—ut plura non dicam, neque aliorum exemplis confirmem quantum [huius] auctoritas valeat in bello—ab eodem Cn. Pompeio omnium rerum egregiarum exempla sumantur: qui quo die a vobis maritimo bello praepositus est imperator, tanta repente vilitas annonae ex summa inopia et caritate rei frumentariae consecuta est unius hominis spe ac nomine, quantum vix in summa ubertate agrorum diuturna pax efficere potuisset.
  
 
  
-[ 45 ] Iam accepta in Ponto calamitate ex eo proelio, de quo vos paulo ante invitus admonui,&#151;cum socii pertimuissent, hostium opes animique crevissent, satis firmum praesidium provincia non haberet,&#151;amisissetis Asiam, Quirites, nisi ad ipsum discrimen eius temporis divinitus Cn. Pompeium ad eas regiones fortuna populi Romani attulisset. Huius adventus et Mithridatem insolita inflammatum victoria continuit, et Tigranem magnis copiis minitantem Asiae retardavit. Et quisquam dubitabit quid virtute perfecturus sit, qui tantum auctoritate perfecerit? aut quam facile imperio atque exercitu socios et vectigalia conservaturus sit, qui ipso nomine ac rumore defenderit?
+[ 45 ] Iam accepta in Ponto calamitate ex eo proelio, de quo vos paulo ante invitus admonui,—cum socii pertimuissent, hostium opes animique crevissent, satis firmum praesidium provincia non haberet,—amisissetis Asiam, Quirites, nisi ad ipsum discrimen eius temporis divinitus Cn. Pompeium ad eas regiones fortuna populi Romani attulisset. Huius adventus et Mithridatem insolita inflammatum victoria continuit, et Tigranem magnis copiis minitantem Asiae retardavit. Et quisquam dubitabit quid virtute perfecturus sit, qui tantum auctoritate perfecerit? aut quam facile imperio atque exercitu socios et vectigalia conservaturus sit, qui ipso nomine ac rumore defenderit?
  
 
  
@@ -215,7 +215,7 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 49 ] Qua re,&#151;cum et bellum sit ita necessarium ut neglegi non possit, ita magnum ut accuratissime sit administrandum; et cum ei imperatorem praeficere possitis, in quo sit eximia belli scientia, singularis virtus, clarissima auctoritas, egregia fortuna,&#151;dubitatis Quirites, quin hoc tantum boni, quod vobis ab dis immortalibus oblatum et datum est, in rem publicam conservandam atque amplificandam conferatis?
+[ 49 ] Qua re,—cum et bellum sit ita necessarium ut neglegi non possit, ita magnum ut accuratissime sit administrandum; et cum ei imperatorem praeficere possitis, in quo sit eximia belli scientia, singularis virtus, clarissima auctoritas, egregia fortuna,—dubitatis Quirites, quin hoc tantum boni, quod vobis ab dis immortalibus oblatum et datum est, in rem publicam conservandam atque amplificandam conferatis?
  
 
  
@@ -223,7 +223,7 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 51 ] At enim vir clarissimus, amantissimus rei publicae, vestris beneficiis amplissimis adfectus, Q. Catulus, itemque summis ornamentis honoris, fortunae, virtutis, ingeni praeditus, Q. Hortensius, ab hac ratione dissentiunt. Quorum ego auctoritatem apud vos multis locis plurimum valuisse et valere oportere confiteor; sed in hac causa, tametsi cognoscitis auctoritates contrarias virorum fortissimorum et clarissimorum, tamen omissis auctoritatibus ipsa re ac ratione exquirere possumus veritatem, atque hoc facilius, quod ea omnia quae a me adhuc dicta sunt, eidem isti vera esse concedunt,&#151;et necessarium bellum esse et magnum, et in uno Cn. Pompeio summa esse omnia.
+[ 51 ] At enim vir clarissimus, amantissimus rei publicae, vestris beneficiis amplissimis adfectus, Q. Catulus, itemque summis ornamentis honoris, fortunae, virtutis, ingeni praeditus, Q. Hortensius, ab hac ratione dissentiunt. Quorum ego auctoritatem apud vos multis locis plurimum valuisse et valere oportere confiteor; sed in hac causa, tametsi cognoscitis auctoritates contrarias virorum fortissimorum et clarissimorum, tamen omissis auctoritatibus ipsa re ac ratione exquirere possumus veritatem, atque hoc facilius, quod ea omnia quae a me adhuc dicta sunt, eidem isti vera esse concedunt,—et necessarium bellum esse et magnum, et in uno Cn. Pompeio summa esse omnia.
  
 
  
@@ -235,11 +235,11 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 54 ] Quae civitas antea umquam fuit,&#151;non dico Atheniensium, quae satis late quondam mare tenuisse dicitur; non Karthaginiensium, qui permultum classe ac maritimis rebus valuerunt; non Rhodiorum, quorum usque ad nostram memoriam disciplina navalis et gloria remansit,&#151;sed quae civitas umquam antea tam tenuis, quae tam parva insula fuit, quae non portus suos et agros et aliquam partem regionis atque orae maritimae per se ipsa defenderet? At (hercule) aliquot annos continuos ante legem Gabiniam ille populus Romanus, cuius usque ad nostram memoriam nomen invictum in navalibus pugnis permanserit, magna ac multo maxima parte non modo utilitatis, sed dignitatis atque imperi caruit.
+[ 54 ] Quae civitas antea umquam fuit,—non dico Atheniensium, quae satis late quondam mare tenuisse dicitur; non Karthaginiensium, qui permultum classe ac maritimis rebus valuerunt; non Rhodiorum, quorum usque ad nostram memoriam disciplina navalis et gloria remansit,—sed quae civitas umquam antea tam tenuis, quae tam parva insula fuit, quae non portus suos et agros et aliquam partem regionis atque orae maritimae per se ipsa defenderet? At (hercule) aliquot annos continuos ante legem Gabiniam ille populus Romanus, cuius usque ad nostram memoriam nomen invictum in navalibus pugnis permanserit, magna ac multo maxima parte non modo utilitatis, sed dignitatis atque imperi caruit.
  
 
  
-[ 55 ] Nos, quorum maiores Antiochum regem classe Persenque superarunt, omnibus navalibus pugnis Karthaginiensis, homines in maritimis rebus exercitatissimos paratissimosque, vicerunt, ei nullo in loco iam praedonibus pares esse poteramus: nos, qui antea non modo Italiam tutam habebamus, sed omnis socios in ultimis oris auctoritate nostri imperi salvos praestare poteramus,&#151;tum cum insula Delos, tam procul a nobis in Aegaeo mari posita, quo omnes undique cum mercibus atque oneribus commeabant, referta divitiis, parva, sine muro, nihil timebat,&#151;eidem non modo provinciis atque oris Italiae maritimis ac portubus nostris, sed etiam Appia iam via carebamus; et eis temporibus non pudebat magistratus populi Romani in hunc ipsum locum escendere, cum eum nobis maiores nostri exuviis nauticis et classium spoliis ornatum reliquissent.
+[ 55 ] Nos, quorum maiores Antiochum regem classe Persenque superarunt, omnibus navalibus pugnis Karthaginiensis, homines in maritimis rebus exercitatissimos paratissimosque, vicerunt, ei nullo in loco iam praedonibus pares esse poteramus: nos, qui antea non modo Italiam tutam habebamus, sed omnis socios in ultimis oris auctoritate nostri imperi salvos praestare poteramus,—tum cum insula Delos, tam procul a nobis in Aegaeo mari posita, quo omnes undique cum mercibus atque oneribus commeabant, referta divitiis, parva, sine muro, nihil timebat,—eidem non modo provinciis atque oris Italiae maritimis ac portubus nostris, sed etiam Appia iam via carebamus; et eis temporibus non pudebat magistratus populi Romani in hunc ipsum locum escendere, cum eum nobis maiores nostri exuviis nauticis et classium spoliis ornatum reliquissent.
  
 
  
@@ -247,7 +247,7 @@ DE IMPERIO CN. POMPEI
  
 
  
-[ 57 ] Quo mihi etiam indignius videtur obtrectatum esse adhuc,&#151;Gabinio dicam anne Pompeio, an utrique, id quod est verius?&#151;ne legaretur A. Gabinius Cn. Pompeio expetenti ac postulanti. Utrum ille, qui postulat ad tantum bellum legatum quem velit, idoneus non est qui impetret, cum ceteri ad expilandos socios diripiendasque provincias quos voluerunt legatos eduxerint; an ipse, cuius lege salus ac dignitas populo Romano atque omnibus gentibus constituta est, expers esse debet gloriae eius imperatoris atque eius exercitus, qui consilio ipsius ac periculo est constitutus?
+[ 57 ] Quo mihi etiam indignius videtur obtrectatum esse adhuc,—Gabinio dicam anne Pompeio, an utrique, id quod est verius?—ne legaretur A. Gabinius Cn. Pompeio expetenti ac postulanti. Utrum ille, qui postulat ad tantum bellum legatum quem velit, idoneus non est qui impetret, cum ceteri ad expilandos socios diripiendasque provincias quos voluerunt legatos eduxerint; an ipse, cuius lege salus ac dignitas populo Romano atque omnibus gentibus constituta est, expers esse debet gloriae eius imperatoris atque eius exercitus, qui consilio ipsius ac periculo est constitutus?
  
 
  

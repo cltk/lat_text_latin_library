@@ -29,7 +29,7 @@ Sidonius domino papae Mamerto salutem.
  
 
  
-3. non enim latet nostram sciscitationem, &lt;quod&gt; primis temporibus harumce supplicationum institutarum civitas caelitus tibi credita per cuiusque modi prodigiorum terriculamenta vacuabatur. nam modo scaenae moenium publicorum crebris terrae motibus concutiebantur; nunc ignes sulpure flammati caducas culminum cristas superiecto favillarum monte tumulabant; nunc stupenda foro cubilia collocabat audacium pavenda mansuetudo cervorum: cum tu inter ista discessu primorum populariumque statu urbis exinanito ad nova celer veterum Ninivitarum exempla decurristi, ne divinae admonitioni tua quoque desperatio conviciaretur. 
+3. non enim latet nostram sciscitationem, <quod> primis temporibus harumce supplicationum institutarum civitas caelitus tibi credita per cuiusque modi prodigiorum terriculamenta vacuabatur. nam modo scaenae moenium publicorum crebris terrae motibus concutiebantur; nunc ignes sulpure flammati caducas culminum cristas superiecto favillarum monte tumulabant; nunc stupenda foro cubilia collocabat audacium pavenda mansuetudo cervorum: cum tu inter ista discessu primorum populariumque statu urbis exinanito ad nova celer veterum Ninivitarum exempla decurristi, ne divinae admonitioni tua quoque desperatio conviciaretur. 
  
 
  
@@ -233,7 +233,7 @@ Sidonius domino papae Graeco salutem.
  
 
  
-1. Ecce iterum Amantius, nugigerulus noster, Massiliam suam repetit, aliquid, ut moris est, de manubiis civitatis domum reportaturus, si tamen ..... aut cataplus arriserit. per quem ioculariter plura garrirem, si pariter unus idemque valeret animus exercere laeta et tristia sustinere. siquidem nostri hic nunc est infelicis anguli status, cuius, ut fama confirmat, minus &lt;tristis&gt; fuit sub bello quam sub pace condicio. facta est servitus nostra pretium securitatis alienae.
+1. Ecce iterum Amantius, nugigerulus noster, Massiliam suam repetit, aliquid, ut moris est, de manubiis civitatis domum reportaturus, si tamen ..... aut cataplus arriserit. per quem ioculariter plura garrirem, si pariter unus idemque valeret animus exercere laeta et tristia sustinere. siquidem nostri hic nunc est infelicis anguli status, cuius, ut fama confirmat, minus <tristis> fuit sub bello quam sub pace condicio. facta est servitus nostra pretium securitatis alienae.
  
 
  

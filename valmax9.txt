@@ -178,11 +178,11 @@ Valerius Maximus I
  
 
  
- 9.1.init. Blandum etiam malum luxuria, quam accusare aliquanto facilius est quam uitare, operi nostro inseratur, non quidem ut ullum honorem recipiat, sed ut se ipsa recognoscens ad paenitentiam inpelli possit. iungatur illi libido, quoniam ex isdem uitiorum principiis oritur, neque aut a reprehensione aut ab emendatione separentur, gemino mentis errore co&lt;ne&gt;xae.
+ 9.1.init. Blandum etiam malum luxuria, quam accusare aliquanto facilius est quam uitare, operi nostro inseratur, non quidem ut ullum honorem recipiat, sed ut se ipsa recognoscens ad paenitentiam inpelli possit. iungatur illi libido, quoniam ex isdem uitiorum principiis oritur, neque aut a reprehensione aut ab emendatione separentur, gemino mentis errore co<ne>xae.
  
 
  
- 9.1.1 C. Sergius Orata pensilia balinea primus facere instituit. quae inpensa &lt;a&gt; leuibus initiis coepta ad suspensa caldae aquae tantum non aequora penetrauit. idem, uidelicet ne gulam Neptuni arbitrio subiectam haberet, peculiaria sibi maria excogitauit, aestuariis intercipiendo fluctus pisciumque diuersos greges separatim molibus includendo, ut nulla tam saeua tempestas inciderit, qua non Oratae mensae uarietate ferculorum abundarent. aedificiis etiam spatiosis et excelsis deserta ad id tempus ora Lucrini lacus pressit, quo recentiore usu conchyliorum frueretur: ubi &lt;dum&gt; se publicae aquae cupidius inmergit, cum Considio publicano iudicium nanctus est. in quo L. Crassus aduersus illum causam agens errare amicum suum Considium dixit, quod putaret Oratam remotum a lacu cariturum ostreis: namque ea, si inde petere non licuisset, in tegulis reperturum.
+ 9.1.1 C. Sergius Orata pensilia balinea primus facere instituit. quae inpensa <a> leuibus initiis coepta ad suspensa caldae aquae tantum non aequora penetrauit. idem, uidelicet ne gulam Neptuni arbitrio subiectam haberet, peculiaria sibi maria excogitauit, aestuariis intercipiendo fluctus pisciumque diuersos greges separatim molibus includendo, ut nulla tam saeua tempestas inciderit, qua non Oratae mensae uarietate ferculorum abundarent. aedificiis etiam spatiosis et excelsis deserta ad id tempus ora Lucrini lacus pressit, quo recentiore usu conchyliorum frueretur: ubi <dum> se publicae aquae cupidius inmergit, cum Considio publicano iudicium nanctus est. in quo L. Crassus aduersus illum causam agens errare amicum suum Considium dixit, quod putaret Oratam remotum a lacu cariturum ostreis: namque ea, si inde petere non licuisset, in tegulis reperturum.
  
 
  
@@ -194,7 +194,7 @@ Valerius Maximus I
  
 
  
- 9.1.4 Cn. Domitius L. Crasso collegae suo altercatione orta obiecit, quod columnas Hymettias in porticu domus haberet. quem continuo Crassus quanti ipse domum suam aestimaret interrogauit, atque ut respondit 'sexagies sestertio', 'qu&lt;ant&gt;o ergo eam' inquit, 'minoris fore existimas, si decem arbusculas inde succidero?' 'ipso tricies sestertio' Domitius. tunc Crassus: 'uter igitur luxuriosior est, egone, qui decem columnas centum milibus nummum emi, an tu, qui decem arbuscularum umbram tricies sestertii summa conpensas?' sermonem oblitum Pyrri, inmemorem Hannibalis iamque transmarinorum stipendiorum abundantia oscitantem! et quanto tamen insequentium saeculorum aedificiis et nemoribus angustiorem ~ quam introduxerunt atque inchoatam a se lautitiam posteris relinquere quam a maioribus acceptam continentiam retinere maluerunt.
+ 9.1.4 Cn. Domitius L. Crasso collegae suo altercatione orta obiecit, quod columnas Hymettias in porticu domus haberet. quem continuo Crassus quanti ipse domum suam aestimaret interrogauit, atque ut respondit 'sexagies sestertio', 'qu<ant>o ergo eam' inquit, 'minoris fore existimas, si decem arbusculas inde succidero?' 'ipso tricies sestertio' Domitius. tunc Crassus: 'uter igitur luxuriosior est, egone, qui decem columnas centum milibus nummum emi, an tu, qui decem arbuscularum umbram tricies sestertii summa conpensas?' sermonem oblitum Pyrri, inmemorem Hannibalis iamque transmarinorum stipendiorum abundantia oscitantem! et quanto tamen insequentium saeculorum aedificiis et nemoribus angustiorem ~ quam introduxerunt atque inchoatam a se lautitiam posteris relinquere quam a maioribus acceptam continentiam retinere maluerunt.
  
 
  
@@ -218,7 +218,7 @@ Valerius Maximus I
  
 
  
- 9.1.ext.1 At Campana luxuria perquam utilis nostrae ciuitati fuit: inuictum enim armis Hannibalem inlecebris suis conplexa uincendum Romano militi tradidit. illa uigilantissimum ducem, illa exercitum acerrimum dapibus largis, abundanti uino, unguentorum fragrantia, ueneris usu lasciuiore ad somnum et delicias euocauit. ac tum demum fracta et contusa Punica feritas est, cum Seplasia ei &lt;et&gt; Albana castra esse coeperunt. quid iis ergo uitiis foedius, quid etiam damnosius, quibus uirtus atteritur, uictoriae relanguescunt, sopita gloria in infamiam conuertitur animique pariter et corporis uires expugnantur, adeo ut nescias ab hostibusne &lt;an&gt; ab illis capi perniciosius habendum sit?
+ 9.1.ext.1 At Campana luxuria perquam utilis nostrae ciuitati fuit: inuictum enim armis Hannibalem inlecebris suis conplexa uincendum Romano militi tradidit. illa uigilantissimum ducem, illa exercitum acerrimum dapibus largis, abundanti uino, unguentorum fragrantia, ueneris usu lasciuiore ad somnum et delicias euocauit. ac tum demum fracta et contusa Punica feritas est, cum Seplasia ei <et> Albana castra esse coeperunt. quid iis ergo uitiis foedius, quid etiam damnosius, quibus uirtus atteritur, uictoriae relanguescunt, sopita gloria in infamiam conuertitur animique pariter et corporis uires expugnantur, adeo ut nescias ab hostibusne <an> ab illis capi perniciosius habendum sit?
  
 
  
@@ -230,7 +230,7 @@ Valerius Maximus I
  
 
  
- 9.1.ext.4 Antiochus quoque Syriae rex nihilo cont&lt;in&gt;entioris exempli. cuius caecam et amentem luxuriam exercitus imitatus magna ex parte aureos clauos crepidis subiectos habuit argenteaque uasa ad usum culinae conparauit et tabernacula textilibus sigillis adornata statuit, auaro potius hosti praeda optabilis quam ulla ad uincendum strenuo mora.
+ 9.1.ext.4 Antiochus quoque Syriae rex nihilo cont<in>entioris exempli. cuius caecam et amentem luxuriam exercitus imitatus magna ex parte aureos clauos crepidis subiectos habuit argenteaque uasa ad usum culinae conparauit et tabernacula textilibus sigillis adornata statuit, auaro potius hosti praeda optabilis quam ulla ad uincendum strenuo mora.
  
 
  
@@ -246,7 +246,7 @@ Valerius Maximus I
  
 
  
- 9.2.init. Haec societas uitiorum lasciui uultus et nouae cupiditati inhaerentium oculorum ac delicato cultu affluentis perque uarios inlecebrarum motus uolitantis animi: crudelitatis uero horridus habitus, truculenta species, uiolenti spiritus, uox terribilis, omnia minis et cruentis imperiis referta. cui silentium donare crementum est adicere: &lt;et&gt;enim quem modum sibi ipsa statuet, si ne suggillationis quidem frenis fuerit reuocata? ad summam, cum penes illam sit timeri, penes nos sit odisse.
+ 9.2.init. Haec societas uitiorum lasciui uultus et nouae cupiditati inhaerentium oculorum ac delicato cultu affluentis perque uarios inlecebrarum motus uolitantis animi: crudelitatis uero horridus habitus, truculenta species, uiolenti spiritus, uox terribilis, omnia minis et cruentis imperiis referta. cui silentium donare crementum est adicere: <et>enim quem modum sibi ipsa statuet, si ne suggillationis quidem frenis fuerit reuocata? ad summam, cum penes illam sit timeri, penes nos sit odisse.
  
 
  
@@ -254,7 +254,7 @@ Valerius Maximus I
  
 
  
- 9.2.2 Cuius tamen crudelitatis C. Marius inuidiam leuat: nam et ille nimia cupiditate persequendi inimicos iram suam nefarie destrinxit, C. Caesaris consularis et censorii nobilissimum corpus ignobili saeuitia trucidando, et quidem apud seditiosissimi et abiectissimi hominis bustum: id enim malorum miserrimae tunc rei publicae deerat, ut Vario Caesar piaculo caderet. paene tanti uictoriae eius non fuerunt, quarum oblitus plus criminis domi quam laudis in militia meruit. idem caput M. Antoni abscisum laetis manibus inter epulas per summam animi ac uerborum insolentiam aliquamdiu tenuit clarissimique et ciuis et oratoris sanguine contaminari mensae sacra passus &lt;est&gt; atque etiam P. Annium, qui id attulerat, in sinum suum recentis caedis uestigiis aspersum recepit.
+ 9.2.2 Cuius tamen crudelitatis C. Marius inuidiam leuat: nam et ille nimia cupiditate persequendi inimicos iram suam nefarie destrinxit, C. Caesaris consularis et censorii nobilissimum corpus ignobili saeuitia trucidando, et quidem apud seditiosissimi et abiectissimi hominis bustum: id enim malorum miserrimae tunc rei publicae deerat, ut Vario Caesar piaculo caderet. paene tanti uictoriae eius non fuerunt, quarum oblitus plus criminis domi quam laudis in militia meruit. idem caput M. Antoni abscisum laetis manibus inter epulas per summam animi ac uerborum insolentiam aliquamdiu tenuit clarissimique et ciuis et oratoris sanguine contaminari mensae sacra passus <est> atque etiam P. Annium, qui id attulerat, in sinum suum recentis caedis uestigiis aspersum recepit.
  
 
  
@@ -262,15 +262,15 @@ Valerius Maximus I
  
 
  
- 9.2.4 Munatius etiam Flaccus, Pompeiani nominis acrior quam probabilior defensor, cum ab imperatore Caesare in Hispania inclusus moenibus Ateguensium obsideretur, efferatam crudelitatem suam truculentissimo genere uaesaniae exercuit: omnes enim eius oppidi ciues, quos studiosiores Caesaris senserat, iugulatos muris praecipitauit. feminas quoque citatis nominibus uirorum, qui in contrariis castris erant, ut caedes coniugum suarum cernerent, maternis&lt;que&gt; gremiis superpositos liberos trucidauit. infantes alios in conspectu parentum humo infligi, alios superiactatos pilis excipi iussit. quae auditu etiam intolerabilia Romano iussu Lusitanis manibus administrata sunt, cuius gentis praesidio Flaccus uallatus diuinis opibus uaecordi pertinacia resistebat.
+ 9.2.4 Munatius etiam Flaccus, Pompeiani nominis acrior quam probabilior defensor, cum ab imperatore Caesare in Hispania inclusus moenibus Ateguensium obsideretur, efferatam crudelitatem suam truculentissimo genere uaesaniae exercuit: omnes enim eius oppidi ciues, quos studiosiores Caesaris senserat, iugulatos muris praecipitauit. feminas quoque citatis nominibus uirorum, qui in contrariis castris erant, ut caedes coniugum suarum cernerent, maternis<que> gremiis superpositos liberos trucidauit. infantes alios in conspectu parentum humo infligi, alios superiactatos pilis excipi iussit. quae auditu etiam intolerabilia Romano iussu Lusitanis manibus administrata sunt, cuius gentis praesidio Flaccus uallatus diuinis opibus uaecordi pertinacia resistebat.
  
 
  
- 9.2.ext.1 Transgrediemur nunc ad illa, quibus ut par dolor, ita nullus nostrae ciuitatis rubor inest. Karthaginienses Atilium Regulum palpebris resectis machinae, in qua undique praeacuti stimuli eminebant, inclusum uigilantia pariter et continuo tractu doloris necauerunt, tormenti genus haud dignum passo, auctoribus dignissimum. eadem usi crudelitate milites nostros quo&lt;dam&gt; mar&lt;i&gt;ti&lt;mo&gt; certamine in suam potestatem redactos nauibus substrauerunt, ut earum carinis ac pondere elisi inusitata ratione mortis barbaram feritatem satiarent, taetro facinore pollutis classibus ipsum mare uiolaturi.
+ 9.2.ext.1 Transgrediemur nunc ad illa, quibus ut par dolor, ita nullus nostrae ciuitatis rubor inest. Karthaginienses Atilium Regulum palpebris resectis machinae, in qua undique praeacuti stimuli eminebant, inclusum uigilantia pariter et continuo tractu doloris necauerunt, tormenti genus haud dignum passo, auctoribus dignissimum. eadem usi crudelitate milites nostros quo<dam> mar<i>ti<mo> certamine in suam potestatem redactos nauibus substrauerunt, ut earum carinis ac pondere elisi inusitata ratione mortis barbaram feritatem satiarent, taetro facinore pollutis classibus ipsum mare uiolaturi.
  
 
  
- 9.2.ext.2 Eorum dux Hannibal, cuius maiore ex parte uirtus saeuitia constabat, in flumine &lt;Ver&gt;gello corporibus Romanis ponte facto exercitum transduxit, ut aeque terrestrium scelestum Karthaginiensium copiarum ingressum terra quam maritimarum Neptunus experiretur. idem captiuos nostros oneribus et itinere fessos iam prima pedum parte succisa relinquebat. quos uero in castra perduxerat, paria fere fratrum et propinquorum iungens ferro decernere cogebat neque ante sanguine explebatur quam ad unum uictorem omnes redegisset. iusto ergo illum odio, uerum tamen tardo supplicio senatus Prusiae regis factum supplicem ad uoluntariam mortem conpulit.
+ 9.2.ext.2 Eorum dux Hannibal, cuius maiore ex parte uirtus saeuitia constabat, in flumine <Ver>gello corporibus Romanis ponte facto exercitum transduxit, ut aeque terrestrium scelestum Karthaginiensium copiarum ingressum terra quam maritimarum Neptunus experiretur. idem captiuos nostros oneribus et itinere fessos iam prima pedum parte succisa relinquebat. quos uero in castra perduxerat, paria fere fratrum et propinquorum iungens ferro decernere cogebat neque ante sanguine explebatur quam ad unum uictorem omnes redegisset. iusto ergo illum odio, uerum tamen tardo supplicio senatus Prusiae regis factum supplicem ad uoluntariam mortem conpulit.
  
 
  
@@ -278,7 +278,7 @@ Valerius Maximus I
  
 
  
- 9.2.ext.4 ~ Zisemis, Diogyridis filii, Thraciae regis, etsi minus admirabilem crudelitatem gentis ipsius feritas, narrandam tamen rabies saeuitiae facit, cui neque uiuos homines medios secare neque parentes liberorum uesci &lt;cogere&gt; corporibus nefas fuit.
+ 9.2.ext.4 ~ Zisemis, Diogyridis filii, Thraciae regis, etsi minus admirabilem crudelitatem gentis ipsius feritas, narrandam tamen rabies saeuitiae facit, cui neque uiuos homines medios secare neque parentes liberorum uesci <cogere> corporibus nefas fuit.
  
 
  
@@ -310,7 +310,7 @@ Valerius Maximus I
  
 
  
- 9.3.init. Ira quoque et odium in pectoribus humanis magnos fluctus excitant, procursu celerior illa, nocendi cupidine hoc pertinacius, uterque consternationis plenus affectus ac numquam sine tormento sui uiolentus, quia dolorem, cum inferre uult, patitur, amara sollicitudine ne non contingat ultio anxius. sed proprietatis eorum certissimae sunt imagines, quas &lt;di&gt; ipsi in claris personis aut dicto aliquo aut facto uehementiore conspici uoluerunt.
+ 9.3.init. Ira quoque et odium in pectoribus humanis magnos fluctus excitant, procursu celerior illa, nocendi cupidine hoc pertinacius, uterque consternationis plenus affectus ac numquam sine tormento sui uiolentus, quia dolorem, cum inferre uult, patitur, amara sollicitudine ne non contingat ultio anxius. sed proprietatis eorum certissimae sunt imagines, quas <di> ipsi in claris personis aut dicto aliquo aut facto uehementiore conspici uoluerunt.
  
 
  
@@ -338,7 +338,7 @@ Valerius Maximus I
  
 
  
- 9.3.7 Quae quidem non proculcauit tantum imperia, sed etiam gessit inpotenter: nam Q. Metellus, cum utramque Hispaniam consul prius, deinde pro consule paene &lt;to&gt;tam subegisset, postquam cognouit Q. Pompeium consulem inimicum suum successorem sibi mitti, omnes, qui modo militiam suam uoluerunt finiri, dimisit, commeatus petentibus neque causis excussis neque constituto tempore dedit, horrea custodibus remotis opportuna rapinae praebuit, arcus sagittasque Cretensium frangi atque in amnem abici iussit, elephantis cibaria dari uetuit. quibus factis ut cupiditati suae indulsit, ita magnifice gestarum rerum gloriam corrupit meritumque honorem triumphi hostium quam irae fortior uictor amisit.
+ 9.3.7 Quae quidem non proculcauit tantum imperia, sed etiam gessit inpotenter: nam Q. Metellus, cum utramque Hispaniam consul prius, deinde pro consule paene <to>tam subegisset, postquam cognouit Q. Pompeium consulem inimicum suum successorem sibi mitti, omnes, qui modo militiam suam uoluerunt finiri, dimisit, commeatus petentibus neque causis excussis neque constituto tempore dedit, horrea custodibus remotis opportuna rapinae praebuit, arcus sagittasque Cretensium frangi atque in amnem abici iussit, elephantis cibaria dari uetuit. quibus factis ut cupiditati suae indulsit, ita magnifice gestarum rerum gloriam corrupit meritumque honorem triumphi hostium quam irae fortior uictor amisit.
  
 
  
@@ -358,11 +358,11 @@ Valerius Maximus I
  
 
  
- 9.3.ext.3 E quibus Hannibal mature adeo patria uestigia subsecutus est, ut eo exercitum in Hispaniam traiecturo et ob id sacrificante viiii annorum natu altaria tenens iuraret se, cum primum per aetatem potuisset, acerrimum hostem populi Romani futurum, &lt;et&gt; pertinacissimis precibus instantis belli commilitium exprimeret. idem significare cupiens quanto inter se odio Karthago et Roma dissiderent, inflicto in terram pede suscitatoque puluere, tunc inter eas finem fore belli dixit, cum alterutra [pars] in habitum pulueris esset redacta.
+ 9.3.ext.3 E quibus Hannibal mature adeo patria uestigia subsecutus est, ut eo exercitum in Hispaniam traiecturo et ob id sacrificante viiii annorum natu altaria tenens iuraret se, cum primum per aetatem potuisset, acerrimum hostem populi Romani futurum, <et> pertinacissimis precibus instantis belli commilitium exprimeret. idem significare cupiens quanto inter se odio Karthago et Roma dissiderent, inflicto in terram pede suscitatoque puluere, tunc inter eas finem fore belli dixit, cum alterutra [pars] in habitum pulueris esset redacta.
  
 
  
- 9.3.ext.4 In puerili pectore tantum uis odii potuit, sed in muliebri quoque aeque multum ualuit: namque Samiramis Assyriorum regina, cum ei circa cultum capitis sui occupatae nuntiatum esset Babylona defecisse, altera parte crinium adhuc soluta protinus ad eam expugnandam cucurrit nec prius decorem capillorum in ordinem quam urbem in potestatem suam redegit. quocirca statua eius Babylone posita est illo habitu, quo ad ultionem exigendam celeritate praecipi&lt;ti&gt; tetendit.
+ 9.3.ext.4 In puerili pectore tantum uis odii potuit, sed in muliebri quoque aeque multum ualuit: namque Samiramis Assyriorum regina, cum ei circa cultum capitis sui occupatae nuntiatum esset Babylona defecisse, altera parte crinium adhuc soluta protinus ad eam expugnandam cucurrit nec prius decorem capillorum in ordinem quam urbem in potestatem suam redegit. quocirca statua eius Babylone posita est illo habitu, quo ad ultionem exigendam celeritate praecipi<ti> tetendit.
  
 
  
@@ -386,7 +386,7 @@ Valerius Maximus I
  
 
  
- 9.5.1 Atque ut superbia quoque et inpotentia in conspicuo ponatur, M. Fuluius Flaccus consul M. Plautii Hypsaei collega, cum perniciosissimas rei publicae leges introduceret de ciuitate &lt;Italiae&gt; danda et de prouocatione ad populum eorum, qui ciuitatem mutare noluissent, aegre conpulsus est ut in curiam ueniret: deinde partim monenti, partim oranti senatui ut incepto desisteret, responsum non dedit. tyrannici spiritus consul haberetur, si aduersus unum senatorem hoc modo se gessisset, quo Flaccus in totius amplissimi ordinis contemnenda maiestate uersatus est.
+ 9.5.1 Atque ut superbia quoque et inpotentia in conspicuo ponatur, M. Fuluius Flaccus consul M. Plautii Hypsaei collega, cum perniciosissimas rei publicae leges introduceret de ciuitate <Italiae> danda et de prouocatione ad populum eorum, qui ciuitatem mutare noluissent, aegre conpulsus est ut in curiam ueniret: deinde partim monenti, partim oranti senatui ut incepto desisteret, responsum non dedit. tyrannici spiritus consul haberetur, si aduersus unum senatorem hoc modo se gessisset, quo Flaccus in totius amplissimi ordinis contemnenda maiestate uersatus est.
  
 
  
@@ -394,7 +394,7 @@ Valerius Maximus I
  
 
  
- 9.5.3 Cn. autem Pompeius quam insolenter! qui balineo egressus ante pedes suos prostratum Hypsaeum ambitus reum, et nobilem uirum et sibi amicum, iacentem reliquit contumeliosa uoce proculcatum: nihil enim eum aliud agere quam ut conuiuium suum moraretur respondit, et huius dicti conscius securo animo cenare potuit. ille uero etiam in foro non erubuit P. Scipionem socerum suum legibus &lt;ob&gt;noxium, quas ipse tulerat, in maxima quidem reorum [et] inlustrium ruina muneris loco a iudicibus deposcere, maritalis lecti blanditiis statum rei publicae temerando.
+ 9.5.3 Cn. autem Pompeius quam insolenter! qui balineo egressus ante pedes suos prostratum Hypsaeum ambitus reum, et nobilem uirum et sibi amicum, iacentem reliquit contumeliosa uoce proculcatum: nihil enim eum aliud agere quam ut conuiuium suum moraretur respondit, et huius dicti conscius securo animo cenare potuit. ille uero etiam in foro non erubuit P. Scipionem socerum suum legibus <ob>noxium, quas ipse tulerat, in maxima quidem reorum [et] inlustrium ruina muneris loco a iudicibus deposcere, maritalis lecti blanditiis statum rei publicae temerando.
  
 
  
@@ -410,7 +410,7 @@ Valerius Maximus I
  
 
  
- 9.5.ext.3 Hannibal autem Cannensis pugnae successu elatus nec admisit quemquam ciuium suorum in castris nec responsum ulli &lt;nisi&gt; per interpretem dedit. Maharbalem etiam, ante tabernaculum suum clara uoce adfirmantem prospexisse quonam modo paucis diebus Romae in Capitolio cenaret, aspernatus est. adeo felicitatis et moderationis diuiduum contubernium est.
+ 9.5.ext.3 Hannibal autem Cannensis pugnae successu elatus nec admisit quemquam ciuium suorum in castris nec responsum ulli <nisi> per interpretem dedit. Maharbalem etiam, ante tabernaculum suum clara uoce adfirmantem prospexisse quonam modo paucis diebus Romae in Capitolio cenaret, aspernatus est. adeo felicitatis et moderationis diuiduum contubernium est.
  
 
  
@@ -422,7 +422,7 @@ Valerius Maximus I
  
 
  
- 9.6.1 Romulo regnante Spurius Tarpeius arci praeerat. cuius filiam uirginem aquam sacris petitum extra moenia egressam Tatius ut armatos Sabinos in arcem secum reciperet corrupit, mercedis nomine pactam quae in sinistris manibus gerebant: erant autem &lt;in&gt; his armillae et anuli magno ex pondere auri. loco potitum agmen Sabinorum puellam praemium flagitantem armis obrutam necauit, perinde quasi promissum, quod ea quoque laeuis gestauerant, solui&lt;sse&gt;t. absit reprehensio, quia inpia proditio celeri poena uindicata est.
+ 9.6.1 Romulo regnante Spurius Tarpeius arci praeerat. cuius filiam uirginem aquam sacris petitum extra moenia egressam Tatius ut armatos Sabinos in arcem secum reciperet corrupit, mercedis nomine pactam quae in sinistris manibus gerebant: erant autem <in> his armillae et anuli magno ex pondere auri. loco potitum agmen Sabinorum puellam praemium flagitantem armis obrutam necauit, perinde quasi promissum, quod ea quoque laeuis gestauerant, solui<sse>t. absit reprehensio, quia inpia proditio celeri poena uindicata est.
  
 
  
@@ -446,11 +446,11 @@ Valerius Maximus I
  
 
  
- 9.7.init. Sed ut uiolentiae &lt;et&gt; seditionis tam togatae quam etiam armatae facta referantur,&auml;
+ 9.7.init. Sed ut uiolentiae <et> seditionis tam togatae quam etiam armatae facta referantur,ä
  
 
  
- 9.7.1 (Sed ut uiolentiae &lt;et&gt; seditionis tam togatae quam etiam armatae facta referantur =init.), L. Equitium, qui se Ti. Gracchi filium simulabat tribunatumque aduersus leges &lt;cum&gt; L. Saturnino petebat, a C. Mario quintum consulatum gerente in publicam custodiam ductum populus claustris carceris conuulsis raptum humeris suis per summam animorum alacritatem portauit.
+ 9.7.1 (Sed ut uiolentiae <et> seditionis tam togatae quam etiam armatae facta referantur =init.), L. Equitium, qui se Ti. Gracchi filium simulabat tribunatumque aduersus leges <cum> L. Saturnino petebat, a C. Mario quintum consulatum gerente in publicam custodiam ductum populus claustris carceris conuulsis raptum humeris suis per summam animorum alacritatem portauit.
  
 
  
@@ -478,7 +478,7 @@ Valerius Maximus I
  
 
  
- 9.8.init. Temeritatis etiam et subiti &lt;et&gt; uehementes sunt impulsus, quorum ictibus hominum mentes concussae nec sua pericula dispicere nec aliena facta iusta aestimatione prosequi ualent.
+ 9.8.init. Temeritatis etiam et subiti <et> uehementes sunt impulsus, quorum ictibus hominum mentes concussae nec sua pericula dispicere nec aliena facta iusta aestimatione prosequi ualent.
  
 
  
@@ -486,7 +486,7 @@ Valerius Maximus I
  
 
  
- 9.8.2 Nam C. Caesaris anceps conatus, etsi caelestium cura protectus est, [non] tamen uix sine horrore animi referri potest: si quidem inpatiens legionum tardioris a Brundisio Apolloniam traiectus per simulationem aduersae ualetudinis conuiuio egressus maiestate sua seruili ueste occultata nauiculam conscendit &lt;et&gt; e flumine Aoo maris Hadriatici saeua tempestate fauces petiit protinusque in altum dirigi iusso nauigio multum ac diu contrariis iactatus fluctibus tandem necessitati cessit.
+ 9.8.2 Nam C. Caesaris anceps conatus, etsi caelestium cura protectus est, [non] tamen uix sine horrore animi referri potest: si quidem inpatiens legionum tardioris a Brundisio Apolloniam traiectus per simulationem aduersae ualetudinis conuiuio egressus maiestate sua seruili ueste occultata nauiculam conscendit <et> e flumine Aoo maris Hadriatici saeua tempestate fauces petiit protinusque in altum dirigi iusso nauigio multum ac diu contrariis iactatus fluctibus tandem necessitati cessit.
  
 
  
@@ -510,7 +510,7 @@ Valerius Maximus I
  
 
  
- 9.9.2 Nam C. Cassium error a semet ipso poenas exigere coegit: inter illum enim pugnae quattuor exercituum apud Philippos uarium ipsisque ducibus ignotum euentum missus ab eo Ti&lt;ti&gt;nius centurio nocturno tempore, ut specularetur quonam in statu res M. Bruti essent, dum crebros excessus uiae petit, quia tenebrarum obscuritas hostesne an conmilitones occurrerent dinoscere non sinebat, tardius ad Cassium rediit. quem is exceptum ab hostibus omniaque in eorum potestatem recidisse existimans finire uitam properauit, cum et castra hostium inuicem capta et Bruti copiae magna ex parte incolumes essent. Titini uero non obliteranda silentio uirtus, qui oculis paulisper haesit inopinato iacentis ducis spectaculo attonitus, deinde profusus in lacrimas 'etsi inprudens' inquit, 'imperator, causa tibi mortis fui, tamen, ne id ipsum inpunitum sit, accipe me fati tui comitem', superque exanime corpus eius iugulo suo gladium capulo tenus demisit ac permixto utriusque sanguine duplex uictima iacuit, pietatis haec, erroris illa.
+ 9.9.2 Nam C. Cassium error a semet ipso poenas exigere coegit: inter illum enim pugnae quattuor exercituum apud Philippos uarium ipsisque ducibus ignotum euentum missus ab eo Ti<ti>nius centurio nocturno tempore, ut specularetur quonam in statu res M. Bruti essent, dum crebros excessus uiae petit, quia tenebrarum obscuritas hostesne an conmilitones occurrerent dinoscere non sinebat, tardius ad Cassium rediit. quem is exceptum ab hostibus omniaque in eorum potestatem recidisse existimans finire uitam properauit, cum et castra hostium inuicem capta et Bruti copiae magna ex parte incolumes essent. Titini uero non obliteranda silentio uirtus, qui oculis paulisper haesit inopinato iacentis ducis spectaculo attonitus, deinde profusus in lacrimas 'etsi inprudens' inquit, 'imperator, causa tibi mortis fui, tamen, ne id ipsum inpunitum sit, accipe me fati tui comitem', superque exanime corpus eius iugulo suo gladium capulo tenus demisit ac permixto utriusque sanguine duplex uictima iacuit, pietatis haec, erroris illa.
  
 
  
@@ -518,11 +518,11 @@ Valerius Maximus I
  
 
  
- 9.10.init. Vltionis autem quem ad modum acres, ita iusti aculei sunt, qui lacessiti concitantur, acceptum dolorem &lt;dolore&gt; pensare cupientes: quos latius conplecti non adtinet.
+ 9.10.init. Vltionis autem quem ad modum acres, ita iusti aculei sunt, qui lacessiti concitantur, acceptum dolorem <dolore> pensare cupientes: quos latius conplecti non adtinet.
  
 
  
- 9.10.1 Tribunus pl. M. Flauius ad populum de Tusculanis retulit, quod eorum consilio Veliternos Priuernatesque ~ rebellaturos diceret. qui cum &lt;cum&gt; coniugibus ac liberis squalore obsiti supplices Romam uenissent, accidit ut reliquis tribubus salutarem sententiam secutis sola Pollia iudicaret oportere publice eos uerberatos securi percuti, inbellem multitudinem sub corona uenire. quam ob causam Papiria tribus, in qua plurimum postea Tusculani in ciuitatem recepti potuerunt, neminem umquam candidatum Polliae tribus fecit magistratum, ne ad eam ullus honor suffragiis &lt;suis&gt; perueniret, quae illis uitam ac libertatem, quantum in ipsa fuit, ademerat.
+ 9.10.1 Tribunus pl. M. Flauius ad populum de Tusculanis retulit, quod eorum consilio Veliternos Priuernatesque ~ rebellaturos diceret. qui cum <cum> coniugibus ac liberis squalore obsiti supplices Romam uenissent, accidit ut reliquis tribubus salutarem sententiam secutis sola Pollia iudicaret oportere publice eos uerberatos securi percuti, inbellem multitudinem sub corona uenire. quam ob causam Papiria tribus, in qua plurimum postea Tusculani in ciuitatem recepti potuerunt, neminem umquam candidatum Polliae tribus fecit magistratum, ne ad eam ullus honor suffragiis <suis> perueniret, quae illis uitam ac libertatem, quantum in ipsa fuit, ademerat.
  
 
  
@@ -554,7 +554,7 @@ Valerius Maximus I
  
 
  
- 9.11.4 Consternatum etiam Magi Chilonis amentia pectus, qui M. Marcello datum a Caesare spiritum sua manu eripuit, uetus &lt;amicus&gt; et Pompeianae militiae comes, indignatus aliquos sibi amicorum ab eo praeferri: urbem enim a Mytilenis, quo se contulerat, repetentem in Atheniensium portu pugione confodit protinusque ad inritamenta uaesaniae suae trucidanda tetendit, amicitiae hostis, diuini beneficii interceptor, publicae religionis, quod ad salutem clarissimi ciuis recuperandam attinuit, acerba labes.
+ 9.11.4 Consternatum etiam Magi Chilonis amentia pectus, qui M. Marcello datum a Caesare spiritum sua manu eripuit, uetus <amicus> et Pompeianae militiae comes, indignatus aliquos sibi amicorum ab eo praeferri: urbem enim a Mytilenis, quo se contulerat, repetentem in Atheniensium portu pugione confodit protinusque ad inritamenta uaesaniae suae trucidanda tetendit, amicitiae hostis, diuini beneficii interceptor, publicae religionis, quod ad salutem clarissimi ciuis recuperandam attinuit, acerba labes.
  
 
  
@@ -574,15 +574,15 @@ Valerius Maximus I
  
 
  
- 9.11.ext.2 Mitridates autem multo sceleratius, qui non cum fratre de paterno regno, sed cum ipso patre bellum de dominatione gessit. in quo qui aut homines ullos adiutores inuenerit aut deos inuocare ausus sit, prae&lt;cipuam&gt; admirationem habet.
+ 9.11.ext.2 Mitridates autem multo sceleratius, qui non cum fratre de paterno regno, sed cum ipso patre bellum de dominatione gessit. in quo qui aut homines ullos adiutores inuenerit aut deos inuocare ausus sit, prae<cipuam> admirationem habet.
  
 
  
- 9.11.ext.3 Quamquam quid hoc quasi inusitatum illis gentibus miremur, cum Sariaster aduersus patrem suum Tigranen Armeniae regem ita cum amicis consenserit, ut omnes &lt;e d&gt;exteris manibus sanguinem mitterent atque eum inuicem sorberent? vix ferrem pro salute parentis tam cruenta conspiratione foedus facientem.
+ 9.11.ext.3 Quamquam quid hoc quasi inusitatum illis gentibus miremur, cum Sariaster aduersus patrem suum Tigranen Armeniae regem ita cum amicis consenserit, ut omnes <e d>exteris manibus sanguinem mitterent atque eum inuicem sorberent? vix ferrem pro salute parentis tam cruenta conspiratione foedus facientem.
  
 
  
- 9.11.ext.4 Sed quid ego ista consector aut quid his immoror, cum unius parricidii cogitatione cuncta scelera superata cernam? omni igitur impetu mentis, omnibus indignationis uiribus ad id lacerandum pio magis quam ualido adfectu rapior: quis enim amicitiae fide extincta genus humanum cruentis in tenebris sepelire conatum profundo debitae execrationis satis efficacibus uerbis adegerit? tu uidelicet efferatae barbariae immanitate truculentior habenas Romani imperii, quas princeps parensque noster salutari dextera continet, capere potuisti? aut te conpote furoris mundus in suo statu mansisset? urbem a Gallis captam et trecentorum inclytae gentis uirorum strage foedatum &lt;amnem Cremeram et&gt; Alliensem diem et oppressos in Hispania Scipiones et Trasimennum lacum et Cannas bellorumque ciuilium domestico sagnuine manantis ~ furores amentibus propositis furoris tui repraesentare et uincere uoluisti. sed uigilarunt oculi deorum, sidera suum uigorem obtinuerunt, arae, puluinaria, templa praesenti numine uallata sunt, nihilque, quod pro capite augusto ac patria excubare debuit, torporem sibi permisit, et in primis auctor ac tutela nostrae incolumitatis ne excellentissima merita sua totius orbis ruina conlaberentur diuino consilio prouidit. itaque stat pax, ualent leges, sincerus priuati ac publici officii tenor seruatur. qui autem haec uiolatis amicitiae foederibus temptauit subuertere, omni cum stirpe sua populi Romani uiribus obtritus etiam apud inferos, si tamen illuc receptus est, quae meretur supplicia pendit.
+ 9.11.ext.4 Sed quid ego ista consector aut quid his immoror, cum unius parricidii cogitatione cuncta scelera superata cernam? omni igitur impetu mentis, omnibus indignationis uiribus ad id lacerandum pio magis quam ualido adfectu rapior: quis enim amicitiae fide extincta genus humanum cruentis in tenebris sepelire conatum profundo debitae execrationis satis efficacibus uerbis adegerit? tu uidelicet efferatae barbariae immanitate truculentior habenas Romani imperii, quas princeps parensque noster salutari dextera continet, capere potuisti? aut te conpote furoris mundus in suo statu mansisset? urbem a Gallis captam et trecentorum inclytae gentis uirorum strage foedatum <amnem Cremeram et> Alliensem diem et oppressos in Hispania Scipiones et Trasimennum lacum et Cannas bellorumque ciuilium domestico sagnuine manantis ~ furores amentibus propositis furoris tui repraesentare et uincere uoluisti. sed uigilarunt oculi deorum, sidera suum uigorem obtinuerunt, arae, puluinaria, templa praesenti numine uallata sunt, nihilque, quod pro capite augusto ac patria excubare debuit, torporem sibi permisit, et in primis auctor ac tutela nostrae incolumitatis ne excellentissima merita sua totius orbis ruina conlaberentur diuino consilio prouidit. itaque stat pax, ualent leges, sincerus priuati ac publici officii tenor seruatur. qui autem haec uiolatis amicitiae foederibus temptauit subuertere, omni cum stirpe sua populi Romani uiribus obtritus etiam apud inferos, si tamen illuc receptus est, quae meretur supplicia pendit.
  
 
  
@@ -594,11 +594,11 @@ Valerius Maximus I
  
 
  
- 9.12.2 Vix ueri simile est in eripiendo spiritu idem gaudium potuisse quod fulmen, et tamen idem ualuit. nuntiata enim clade, quae ad lacum Trasimennum inciderat, altera &lt;mater&gt;, sospiti filio ad ipsam portam facta obuia, in conplexu eius expirauit, altera, cum falso mortis filii nuntio maesta domi sederet, ad primum conspectum redeuntis exanimata est. genus casus inusitatum! quas dolor &lt;non&gt; extinxerat, laetitia consumpsit.
+ 9.12.2 Vix ueri simile est in eripiendo spiritu idem gaudium potuisse quod fulmen, et tamen idem ualuit. nuntiata enim clade, quae ad lacum Trasimennum inciderat, altera <mater>, sospiti filio ad ipsam portam facta obuia, in conplexu eius expirauit, altera, cum falso mortis filii nuntio maesta domi sederet, ad primum conspectum redeuntis exanimata est. genus casus inusitatum! quas dolor <non> extinxerat, laetitia consumpsit.
  
 
  
- 9.12.3 Sed minus miror, quod mulieres. M'. Iuuentius Thalna consul, collega Ti. Gracchi consulis iterum, cum in Corsica, quam nuper subegerat, sacrificaret, receptis litteris decretas ei a senatu supplicationes nuntiantibus, intento illas animo legens caligine &lt;ob&gt;orta ante foculum conlapsus mortuus humi iacuit. quem quid aliud quam nimio gaudio enectum putemus? en cui Numantia aut Karthago excindenda traderetur!
+ 9.12.3 Sed minus miror, quod mulieres. M'. Iuuentius Thalna consul, collega Ti. Gracchi consulis iterum, cum in Corsica, quam nuper subegerat, sacrificaret, receptis litteris decretas ei a senatu supplicationes nuntiantibus, intento illas animo legens caligine <ob>orta ante foculum conlapsus mortuus humi iacuit. quem quid aliud quam nimio gaudio enectum putemus? en cui Numantia aut Karthago excindenda traderetur!
  
 
  
@@ -618,11 +618,11 @@ Valerius Maximus I
  
 
  
- 9.12.8 Fortis huius mors, illorum perridicula: Cornelius enim Gallus praetorius et T. Etereius, eques Romanus, inter usum [puerilis] ueneris absumpti sunt. quamquam quorsum attinet eorum cauillari fata, quos non libido sua, sed fragilitatis humanae ratio abstulit? fine namque uitae nostrae uariis et occultis causis exposito interdum quae inmerentia &lt;sunt&gt;, supremi fati titulum occupant, cum magis in tempus mortis incidant quam ipsa mortem accersant.
+ 9.12.8 Fortis huius mors, illorum perridicula: Cornelius enim Gallus praetorius et T. Etereius, eques Romanus, inter usum [puerilis] ueneris absumpti sunt. quamquam quorsum attinet eorum cauillari fata, quos non libido sua, sed fragilitatis humanae ratio abstulit? fine namque uitae nostrae uariis et occultis causis exposito interdum quae inmerentia <sunt>, supremi fati titulum occupant, cum magis in tempus mortis incidant quam ipsa mortem accersant.
  
 
  
- 9.12.ext.1 Sunt et externae mortes dignae adnotatu. qualis in primis Comae, quem ferunt maximi latronum ducis Cleonis fratrem fuisse: is enim ad &lt;P.&gt; Rupilium consulem Hennam, quam praedones tenuerant, in potestatem nostram redactam perductus, cum de uiribus et conatibus fugitiuorum interrogaretur, sumpto tempore ad se colligendum caput operuit innixusque genibus conpresso spiritu inter ipsas custodum manus inque conspectu summi imperii exoptata securitate adquieuit. torqueant se miseri, quibus extingui quam superesse utilius est, in trepido et anxio consilio quanam ratione uita exeant quaerentes: ferrum acuant, uenena temperent, laqueos adprehendant, uastas altitudines circumspiciant, tamquam magno apparatu aut exquisita molitione opus sit, ut corporis atque animi infirmo uinculo cohaerens societas dirimatur. nihil horum Coma, sed intra pectus inclusa anima finem sui repperit: enimuero non nimio studio retinendum bonum, cuius caduca possessio tam leui adflatu uiolentiae concussa dilabi potuit.
+ 9.12.ext.1 Sunt et externae mortes dignae adnotatu. qualis in primis Comae, quem ferunt maximi latronum ducis Cleonis fratrem fuisse: is enim ad <P.> Rupilium consulem Hennam, quam praedones tenuerant, in potestatem nostram redactam perductus, cum de uiribus et conatibus fugitiuorum interrogaretur, sumpto tempore ad se colligendum caput operuit innixusque genibus conpresso spiritu inter ipsas custodum manus inque conspectu summi imperii exoptata securitate adquieuit. torqueant se miseri, quibus extingui quam superesse utilius est, in trepido et anxio consilio quanam ratione uita exeant quaerentes: ferrum acuant, uenena temperent, laqueos adprehendant, uastas altitudines circumspiciant, tamquam magno apparatu aut exquisita molitione opus sit, ut corporis atque animi infirmo uinculo cohaerens societas dirimatur. nihil horum Coma, sed intra pectus inclusa anima finem sui repperit: enimuero non nimio studio retinendum bonum, cuius caduca possessio tam leui adflatu uiolentiae concussa dilabi potuit.
  
 
  
@@ -630,7 +630,7 @@ Valerius Maximus I
  
 
  
- 9.12.ext.3 Non uulgaris etiam Homeri mortis causa fertur, qui in &lt;Io&gt; insula, quia quaestionem a piscatoribus positam soluere non potuisset, dolore absumptus creditur.
+ 9.12.ext.3 Non uulgaris etiam Homeri mortis causa fertur, qui in <Io> insula, quia quaestionem a piscatoribus positam soluere non potuisset, dolore absumptus creditur.
  
 
  
@@ -658,7 +658,7 @@ Valerius Maximus I
  
 
  
- 9.12.ext.10 Item Polydamas athleta tempestate speluncam subire coactus [est], nimio et subito incursu aquae labefactata ea ac ruente, ceteris comitibus fuga periculi egressis solus restitit tamquam humeris suis totius ruinae molem sustentaturus, sed pondere omni corpore humano potentiore &lt;op&gt;pressus imbris petitam latebram dementis facti sepulcrum habuit. possunt hi praebere documentum nimio robore membrorum uigorem mentis hebescere, quasi, abnuente natura utriusque boni largitionem, [ne] supra mortalem sit felicitatem eundem et ualentissimum esse et sapientissimum.
+ 9.12.ext.10 Item Polydamas athleta tempestate speluncam subire coactus [est], nimio et subito incursu aquae labefactata ea ac ruente, ceteris comitibus fuga periculi egressis solus restitit tamquam humeris suis totius ruinae molem sustentaturus, sed pondere omni corpore humano potentiore <op>pressus imbris petitam latebram dementis facti sepulcrum habuit. possunt hi praebere documentum nimio robore membrorum uigorem mentis hebescere, quasi, abnuente natura utriusque boni largitionem, [ne] supra mortalem sit felicitatem eundem et ualentissimum esse et sapientissimum.
  
 
  
@@ -666,15 +666,15 @@ Valerius Maximus I
  
 
  
- 9.13.1 M'. Aquilius, cum sibi gloriose &lt;extingui&gt; posset, Mithridati maluit turpiter seruire. quem non&lt;ne&gt; aliquis merito dixerit Pontico supplicio quam Romano imperio digniorem, quoniam conmisit ut priuatum obprobium publicus rubor existeret?
+ 9.13.1 M'. Aquilius, cum sibi gloriose <extingui> posset, Mithridati maluit turpiter seruire. quem non<ne> aliquis merito dixerit Pontico supplicio quam Romano imperio digniorem, quoniam conmisit ut priuatum obprobium publicus rubor existeret?
  
 
  
- 9.13.2 Cn. quoque Carbo magnae uerecundiae est Latinis annalibus. tertio in consulatu suo iussu Pompei in Sicilia ad supplicium ductus petiit a militibus demisse et flebiliter ut sibi aluum leuare prius quam expiraret liceret, quo miserrimae lucis usu diutius frueretur, eo &lt;us&gt;que moram trahens, donec caput eius sordido in loco sedentis abscideretur. ipsa uerba tale flagitium narrantis secum luctantur, nec silentio amica, quia occultari non meretur, neque relationi familiaria, quia dictu fastidienda sunt.
+ 9.13.2 Cn. quoque Carbo magnae uerecundiae est Latinis annalibus. tertio in consulatu suo iussu Pompei in Sicilia ad supplicium ductus petiit a militibus demisse et flebiliter ut sibi aluum leuare prius quam expiraret liceret, quo miserrimae lucis usu diutius frueretur, eo <us>que moram trahens, donec caput eius sordido in loco sedentis abscideretur. ipsa uerba tale flagitium narrantis secum luctantur, nec silentio amica, quia occultari non meretur, neque relationi familiaria, quia dictu fastidienda sunt.
  
 
  
- 9.13.3 Quid, &lt;D.&gt; Brutus exiguom et infelix momentum uitae quanto dedecore emit! qui a Furio, quem ad eum occidendum Antonius miserat, conprehensus, non solum ceruicem gladio subtraxit, sed etiam constantius eam praebere admonitus ipsis his uerbis iurauit: 'ita uiuam, dabo'. &lt;o&gt; cunctationem fati aerumnosam! o iurandi stolidam fidem! sed hos tu furores inmoderata retinendi spiritus dulcedo subicis sanae rationis modum expugnando, quae uitam diligere, mortem non timere praecepit.
+ 9.13.3 Quid, <D.> Brutus exiguom et infelix momentum uitae quanto dedecore emit! qui a Furio, quem ad eum occidendum Antonius miserat, conprehensus, non solum ceruicem gladio subtraxit, sed etiam constantius eam praebere admonitus ipsis his uerbis iurauit: 'ita uiuam, dabo'. <o> cunctationem fati aerumnosam! o iurandi stolidam fidem! sed hos tu furores inmoderata retinendi spiritus dulcedo subicis sanae rationis modum expugnando, quae uitam diligere, mortem non timere praecepit.
  
 
  
@@ -694,7 +694,7 @@ Valerius Maximus I
  
 
  
- 9.14.init. De similitudine autem oris et totius corporis altiore doctrina praediti subtilius disputant, eorumque alii in ea sunt opinione ut existiment illam origini et contextui sanguinis respondere, nec paruum argumentum ex ceteris animalibus trahunt, quae fere gignentibus similia nascuntur. alii negant hanc esse certam naturae legem, sed species mortalium, prout fortuita sors conceptionis obtulit, attribui, atque ideo plerumque ex speciosis deformis et ex robustis inualidos partus edi. &lt;igi&gt;tur, quoniam ista quaestio in ambiguo uersatur, pauca inter alienos conspectae similitudinis exempla referemus.
+ 9.14.init. De similitudine autem oris et totius corporis altiore doctrina praediti subtilius disputant, eorumque alii in ea sunt opinione ut existiment illam origini et contextui sanguinis respondere, nec paruum argumentum ex ceteris animalibus trahunt, quae fere gignentibus similia nascuntur. alii negant hanc esse certam naturae legem, sed species mortalium, prout fortuita sors conceptionis obtulit, attribui, atque ideo plerumque ex speciosis deformis et ex robustis inualidos partus edi. <igi>tur, quoniam ista quaestio in ambiguo uersatur, pauca inter alienos conspectae similitudinis exempla referemus.
  
 
  
@@ -706,7 +706,7 @@ Valerius Maximus I
  
 
  
- 9.14.3 Eximiae uero nobilitatis adulescens Cornelius Scipio, cum plurimis et clarissimis familie suae cognominibus abundaret, in seruilem Serapionis appellationem uulgi sermone inpactus est, quod huiusce nominis uictimari &lt;per&gt;quam similis erat. neque illi aut morum probitas aut respectus tot imaginum quo minus hac contumelia aspergeretur opitulata sunt.
+ 9.14.3 Eximiae uero nobilitatis adulescens Cornelius Scipio, cum plurimis et clarissimis familie suae cognominibus abundaret, in seruilem Serapionis appellationem uulgi sermone inpactus est, quod huiusce nominis uictimari <per>quam similis erat. neque illi aut morum probitas aut respectus tot imaginum quo minus hac contumelia aspergeretur opitulata sunt.
  
 
  
@@ -726,7 +726,7 @@ Valerius Maximus I
  
 
  
- 9.14.ext.3 Ille uero, quem in Sicilia prouinciae &lt;rect&gt;oris admodum similem fuisse constat, petulantis animi: pro consule enim dicente mirari se quapropter sui tam similis esset, cum pater suus in eam prouinciam numquam accessisset, "at meus" inquit "Romam accessit:" ioco namque lacessitam matris suae pudicitiam inuicem suspicione in matrem eius reiecta audacius quam uirgis et securibus subiecto conueniebat ultus est.
+ 9.14.ext.3 Ille uero, quem in Sicilia prouinciae <rect>oris admodum similem fuisse constat, petulantis animi: pro consule enim dicente mirari se quapropter sui tam similis esset, cum pater suus in eam prouinciam numquam accessisset, "at meus" inquit "Romam accessit:" ioco namque lacessitam matris suae pudicitiam inuicem suspicione in matrem eius reiecta audacius quam uirgis et securibus subiecto conueniebat ultus est.
  
 
  
@@ -750,7 +750,7 @@ Valerius Maximus I
  
 
  
- 9.15.5 Multo fortius ille, qui Cornelio Sulla rerum potiente in domum Cn. Asini Dionis inrupit filiumque eius patriis penatibus expulit uociferando non illum, sed se Dione esse procreatum. uerum postquam a Sullana uiolentia Caesariana aequitas &lt;rem publicam&gt; reduxit, gubernacula Romani imperii iustiore principe obtinente in publica custodia spiritum posuit.
+ 9.15.5 Multo fortius ille, qui Cornelio Sulla rerum potiente in domum Cn. Asini Dionis inrupit filiumque eius patriis penatibus expulit uociferando non illum, sed se Dione esse procreatum. uerum postquam a Sullana uiolentia Caesariana aequitas <rem publicam> reduxit, gubernacula Romani imperii iustiore principe obtinente in publica custodia spiritum posuit.
  
 
  
@@ -758,7 +758,7 @@ Valerius Maximus I
  
 
  
- 9.15.ext.2 Idem barbarum quendam ob eximiam similitudinem Cappadociae regnum adfectantem, tamquam Ari&lt;ar&gt;athes esset, quem a M. Antonio interemptum luce clarius erat, quamquam paene totius orientis ciuitatium et gentium credula suffragatione fultum caput imperio dementer inminens iusto inpendere supplicio coegit.
+ 9.15.ext.2 Idem barbarum quendam ob eximiam similitudinem Cappadociae regnum adfectantem, tamquam Ari<ar>athes esset, quem a M. Antonio interemptum luce clarius erat, quamquam paene totius orientis ciuitatium et gentium credula suffragatione fultum caput imperio dementer inminens iusto inpendere supplicio coegit.
  
  
  

@@ -529,7 +529,7 @@ pectus in aurigae stomachoque infigitur alto;
 ille ruens ictu media inter lora rotasque 
 uoluitur et uitam calido cum sanguine fundit. 
 Ingemit Aeneas curruque animosus ab alto 
-desilit et ualido Crethona&lt;que&gt; comminus ictu 
+desilit et ualido Crethona<que> comminus ictu 
 Orsilochumque ferit, quorum post funera uictus 
 Paphlagonum ductor Menelai concidit armis, 
 Antilochique Mydon. Post hos Iouis inclita proles 
@@ -594,7 +594,7 @@ Graiorumque duces inuictis prouocat armis.
 Nec mora: continuo fraudis commentor Vlixes 
 et ferus Idomeneus et notus gente paterna 
 Meriones Graiumque simul dux acer Atrides 
-Aiacesque duo &lt;et&gt; claris speciosus in armis 
+Aiacesque duo <et> claris speciosus in armis 
 Eurypylus magnoque Thoas Andraemone natus 
 quique manum Veneris uiolauit uulnere tristi 
 procedunt; aberat nam Troum terror Achilles 
@@ -697,7 +697,7 @@ confugiunt portasque obiecto robore firmant.
 At Phryges obsidunt inclusos aggere Graios 
 excubituque premunt muros flammisque coronant. 
 Cetera per campos sternunt sua corpora pubes 
-indulgentque mero curas&lt;que&gt; animosque resoluunt. 
+indulgentque mero curas<que> animosque resoluunt. 
 Attoniti Danaum proceres discrimine tanto 
 nec dapibus releuant animos nec corpora curant, 
 sed miseri sua fata gemunt. Mox Nestore pulsi 
@@ -803,7 +803,7 @@ Archelochumque Antenoriden Telamonius Aiax,
 Boeotumque Acamas Promachum, quem sternit atrocis 
 Penelei dextra; inde cadit Priameia pubes 
 acrius insurgunt Troes ad Achaica bella 
-&lt;&gt; 
+<> 
 pulsa metu uallumque et muros aggere saeptos 
 transiliunt, alii fossas uoluuntur in ipsas. 
 Aduolat interea Danaum metus impiger Hector: 

@@ -33,7 +33,7 @@ extulerat uix triste caput truncosque trahebat
 per stragem neruis interlabentibus artus, 
 tenuis opum, non patre nitens linguaue, sed asper 
 ense, nec e Volsca quisquam uir gente redemit    20 
-plus aeui nec&lt;e&gt; magnanima. puer addere sese 
+plus aeui nec<e> magnanima. puer addere sese 
 pubescente gena castris optarat et acri 
 Flaminio spectatus erat, cum Celtica uictor 
 obrueret bello diuis melioribus arma. 
@@ -206,7 +206,7 @@ implebant nemus. at subita formidine caecus    190
 et facti damnandus Auens (sed fata trahebant) 
 antiquae quercus ingenti robore sese 
 occulit, infandum si posset fallere monstrum. 
-uix egomet credo: spiris &lt;c&gt;ingentibus arte 
+uix egomet credo: spiris <c>ingentibus arte 
 arboris abstraxit molem penitusque reuulsam    195 
 euertit fundo et radicibus eruit imis. 
 tum trepidum ac socios extrema uoce cientem 
@@ -284,12 +284,12 @@ congerit alternasque ferum diducit in iras,
 donec murali ballista coercuit ictu. 
 tum fractus demum uires; nec iam amplius aegra    270 
 consuetum ad nisus spina praestante rigorem 
-et solitum in nubes tolli caput, acrius insta&lt;n&gt;t. 
+et solitum in nubes tolli caput, acrius insta<n>t. 
 iamque aluo penitus demersa phalarica sedit 
 et geminum uolucres lumen rapuere sagittae. 
-iam patulis uasto sub uulnere faucibus a&lt;t&gt;er    275 
+iam patulis uasto sub uulnere faucibus a<t>er    275 
 tabificam expirat saniem specus. ultima iamque 
-ingesti&lt;s&gt; cauda et iaculis et pondere conti 
+ingesti<s> cauda et iaculis et pondere conti 
 haeret humi, lassoque tamen minitatur hiatu, 
 donec tormentis stridens magnoque fragore 
 discussit trabs acta caput, longoque resoluens    280 
@@ -331,7 +331,7 @@ exutos seruans portabo in Tartara, luctus.    315
 consertae campis acies, multusque per arua 
 feruebat Mauors, nec mens erat ulla sine ira. 
 hic inter medios memorandis Regulus ausis 
-laxabat ferro campum &lt;in&gt;que pericla ruebat 
+laxabat ferro campum <in>que pericla ruebat 
 nec repetenda dabat letali uulnera dextra.    320 
 sic, ubi nigrantem torquens stridentibus Austris 
 portat turbo globum piceaque e nube ruinam 
@@ -503,7 +503,7 @@ foedere et ex aequo geminas conscribere leges.
 sed mihi sit Stygios ante intrauisse penatis, 
 talia quam uideam ferientis pacta Latinos." 
  Haec fatus Tyriae sese iam reddidit irae,    490 
-nec monitus spernente grauis fido&lt;s&gt;que senatu 
+nec monitus spernente grauis fido<s>que senatu 
 Poenorum dimissa cohors. quae maesta repulsa 
 ac minitans capto patrias properabat ad oras. 
 prosequitur uulgus, patres, ac planctibus ingens 
@@ -526,7 +526,7 @@ teque tuosque simul, uel, si stat rumpere uitam,    510
 in patria moriamur. adest comes ultima fati." 
  Has inter uoces uinclis resoluta moueri 
 paulatim et ripa coepit decedere puppis. 
-tum uero infelix, mente&lt;m&gt; furiata dolore, 
+tum uero infelix, mente<m> furiata dolore, 
 exclamat fessas tendens ad litora palmas:    515 
 "En, qui se iactat Libyae populisque nefandis 
 atque hosti seruare fidem. data foedera nobis 
@@ -580,7 +580,7 @@ dispersum uulgus, remeantumque ordine longo
 seruat turba gradus. pendent ex ore loquentum,    565 
 nec laetis sat certa fides, iterumque morantur 
 orando et, uultu interdum sine uoce precati, 
-quod rogitant, audire pauent. hi&lt;n&gt;c fletus, ubi aures 
+quod rogitant, audire pauent. hi<n>c fletus, ubi aures 
 percussae grauiore malo, metus inde, negatum 
 si scire, et dubius responsi nuntius haesit.    570 
 iamque ubi conspectu redeuntum uisa propinquo 
@@ -678,7 +678,7 @@ Appius astabat pugna lauroque reuinctus
 iustum Sarrana ducebat caede triumphum. 
 aequoreum iuxta decus et nauale tropaeum, 
 rostra gerens niuea surgebat mole columna. 
-exuuias Marti ~donumque Du&lt;i&gt;lius, alto    665 
+exuuias Marti ~donumque Du<i>lius, alto    665 
 ante omnis mersa Poenorum classe, dicabat. 
 cui, nocturnus honos, funalia clara sacerque 
 post epulas tibicen adest, castosque penatis 

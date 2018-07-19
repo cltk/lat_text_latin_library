@@ -10,17 +10,17 @@ Precatio Omnium Herbarum
  exoro maiestatem vestram, quas parens
  tellus generavit et cunctis dono dedit:
  medicinam sanitatis in vos contulit
- maiestatemque, ut omni generi &lt;identidem&gt;
+ maiestatemque, ut omni generi <identidem>
  humano sitis auxilium utilissimum.
- hoc supplex exposco &lt;et&gt; precor: ve&lt;locius&gt;
- &lt;huc&gt; huc adeste cum vestris virtutibus,
+ hoc supplex exposco <et> precor: ve<locius>
+ <huc> huc adeste cum vestris virtutibus,
  quia, quae creavit, ipsa permisit mihi,
  ut colligam vos; favit hic etiam, cui
- medicina tradita est. quantumque vestra &lt;nunc&gt;
+ medicina tradita est. quantumque vestra <nunc>
  virtus potest, praestate medicinam bonam
  causa salutis. gratiam, precor, mihi
  praestetis per virtutem vestram, ut omnibus
- in rebus, quicquid ex vobis &lt;ego&gt; fecero,
+ in rebus, quicquid ex vobis <ego> fecero,
  cuive homini dedero, habeatis eventus bonos
  et effectum celerrimum. ut semper mihi
  liceat favente maiestate vestra vos

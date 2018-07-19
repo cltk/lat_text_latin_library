@@ -34,7 +34,7 @@ Liber primus: [1]
  
 
  
-hic pauca primo atque ea percunctantibus nobis ecquid forte Roma novi. &lt;Tum&gt; Atticus 'Omitte ista quae nec percunctari nec audire sine molestia possumus quaeso' inquit 'et quaere potius ecquid ipse novi. silent enim diutius Musae Varronis quam solebant, nec tamen istum cessare sed celare quae scribat existimo.' 'Minime vero' inquit ille; 'intemperantis enim arbitror esse scribere quod occultari velit; sed habeo magnum opus in manihus, quae iam pridem; ad hunc enim ipsum' (me autem dicebat) 'quaedam institui, quae et sunt magna sane et limantur a me politius.' 
+hic pauca primo atque ea percunctantibus nobis ecquid forte Roma novi. <Tum> Atticus 'Omitte ista quae nec percunctari nec audire sine molestia possumus quaeso' inquit 'et quaere potius ecquid ipse novi. silent enim diutius Musae Varronis quam solebant, nec tamen istum cessare sed celare quae scribat existimo.' 'Minime vero' inquit ille; 'intemperantis enim arbitror esse scribere quod occultari velit; sed habeo magnum opus in manihus, quae iam pridem; ad hunc enim ipsum' (me autem dicebat) 'quaedam institui, quae et sunt magna sane et limantur a me politius.' 
  
 
  
@@ -42,7 +42,7 @@ Et ego 'Ista quidem' inquam Varro iam diu expectans non audeo tamen flagitare; a
  
 
  
- [2] Tum ille: 'Rem a me saepe deliberatam ei multum agitatam requiris. itaque non haesitans respondebo, sed ea dicam quae mihi sunt in promptu, quod ista ipsa de re multum ut dixi et diu cogitavi. nam cum philosophium viderem diligentissime Graecis litteris explicatam, existimavi si qui de nostris eius studio tenerentur, si essent Graecis doctrinis eruditi, Graeca potius quam nostra lecturos, sin a Graecorum artibus et disciplinis abhorrerent, ne haec quidem curaturos, quae sine eruditione Graeca intellegi non possunt. itaque ea nolui scribere quae nec indocti intellegere possent nec docti legere curarent. Vides autem eadem ipse; didicisti enim non posse nos Amafinii aut Rabirii similes esse, qui nulla arte adhibita de rebus ante oculos positis vulgari sermone disputant, nihil definiunt nihil partiuntur nihil apta interrogatione concludunt nullam denique artem esse nec dicendi nec disserendi putant; nos autem praeceptis dialecticorum et oratorum etiam, quoniam utramque vim virtutem esse nostri putant, sic parentes ut legibus verbis quoque novis cogimur uti, qune docti ut dixi a Graecis petere malent, indocti ne a nobis quidem accipient, ut frustra omnis suscipiatur &lt;labor&gt;. 
+ [2] Tum ille: 'Rem a me saepe deliberatam ei multum agitatam requiris. itaque non haesitans respondebo, sed ea dicam quae mihi sunt in promptu, quod ista ipsa de re multum ut dixi et diu cogitavi. nam cum philosophium viderem diligentissime Graecis litteris explicatam, existimavi si qui de nostris eius studio tenerentur, si essent Graecis doctrinis eruditi, Graeca potius quam nostra lecturos, sin a Graecorum artibus et disciplinis abhorrerent, ne haec quidem curaturos, quae sine eruditione Graeca intellegi non possunt. itaque ea nolui scribere quae nec indocti intellegere possent nec docti legere curarent. Vides autem eadem ipse; didicisti enim non posse nos Amafinii aut Rabirii similes esse, qui nulla arte adhibita de rebus ante oculos positis vulgari sermone disputant, nihil definiunt nihil partiuntur nihil apta interrogatione concludunt nullam denique artem esse nec dicendi nec disserendi putant; nos autem praeceptis dialecticorum et oratorum etiam, quoniam utramque vim virtutem esse nostri putant, sic parentes ut legibus verbis quoque novis cogimur uti, qune docti ut dixi a Graecis petere malent, indocti ne a nobis quidem accipient, ut frustra omnis suscipiatur <labor>. 
  
 
  
@@ -50,15 +50,15 @@ Iam vero physica, si Epicurum id est si Democritum probarem, possem scribere ita
  
 
  
-sive enim Zenonem sequare, magnum est efficere ut quis intellegat quid sit illud verum et simplex bonum quod non possit ab honestate seiungi (quod bonum quale sit negat omnino Epicurus &lt;se&gt; sine voluptatibus sensum moventibus ne suspicari &lt;quidem&gt;; si vero Academiam veterem persequemur, quam nos ut scis probamus quam erit illa acute explicanda nobis, quam argute quam obscure etiam contra Stoicos disserendum. Totum igitur illud philosophiae studium mihi quidem ipse sumo et ad vitae constantiam quantum possum et ad delectationem animi nec ullum arbitror ut apud Platonem est maius aut melius a deis datum munus homini; 
+sive enim Zenonem sequare, magnum est efficere ut quis intellegat quid sit illud verum et simplex bonum quod non possit ab honestate seiungi (quod bonum quale sit negat omnino Epicurus <se> sine voluptatibus sensum moventibus ne suspicari <quidem>; si vero Academiam veterem persequemur, quam nos ut scis probamus quam erit illa acute explicanda nobis, quam argute quam obscure etiam contra Stoicos disserendum. Totum igitur illud philosophiae studium mihi quidem ipse sumo et ad vitae constantiam quantum possum et ad delectationem animi nec ullum arbitror ut apud Platonem est maius aut melius a deis datum munus homini; 
  
 
  
-sed meos amicos in quibus est studium in Graeciam mitto id est ad Graecos ire iubeo ut ex [a] fontibus potius hauriant quam rivulos consectentur. quae autem nemo adhuc docuerat nec erat unde studiosi scire possent ea quantum potui (nihil enim magnopere meorum miror) feci ut essent nota nostris. a Graecis enim peti non poterant ac post L. Aelii nostri occasum ne a Latinis quidem. et tamen in illis veteribus nostris, quae Menippium imitati nom interpretati quadam hilaritate conspersimus multa admixta ex intima philosophia multa dicta dialectice quae quo facilius minus docti intellegerent iucunditate quadam ad legendum invitati; in laudationibus, in his ipsis antiquatatum prooemiis philosophiae &lt;more&gt; scribere voluimus si modo consecuti sumus.' 
+sed meos amicos in quibus est studium in Graeciam mitto id est ad Graecos ire iubeo ut ex [a] fontibus potius hauriant quam rivulos consectentur. quae autem nemo adhuc docuerat nec erat unde studiosi scire possent ea quantum potui (nihil enim magnopere meorum miror) feci ut essent nota nostris. a Graecis enim peti non poterant ac post L. Aelii nostri occasum ne a Latinis quidem. et tamen in illis veteribus nostris, quae Menippium imitati nom interpretati quadam hilaritate conspersimus multa admixta ex intima philosophia multa dicta dialectice quae quo facilius minus docti intellegerent iucunditate quadam ad legendum invitati; in laudationibus, in his ipsis antiquatatum prooemiis philosophiae <more> scribere voluimus si modo consecuti sumus.' 
  
 
  
- [3] Tum ego 'Sunt' inquam 'ista Varro. nam nos in nostra urbe peregrinantis errantisque tamquam hospites tui libri quasi domum deduxerunt ut possemus aliquando qui et ubi essemus agnoscere. tu aetatem patriae tu descriptiones temporum tu sacrorum iura tu sacerdotum tu domesticam tu bellicam disciplinam, tu sedum regionum locorum tu omnium divinarum humanarumque rerum nomina genera officia causas aperuisti; plurimum quidem poetis nostris omninoque Latinis et litteris luminis et verbis attulisti atque ipse varium et elegans omni fere numero poema fecisti philosophiamque multis locis inchoasti, ad impellandum satis, ad edocendorum parum. Causam autem probabilem tu quidem affers: aut enim Graeca legere malent qui erunt eruditi aut ne haec quidem qui illa nescient. sed eam mihi non sane probas immo vero et haec qui illa non poterunt et qui Graeca poterunt non contemnent sua. quid enim causae est cur poetas Latinos Graecis litteris eruditi legant philosophos non legant? an quia delectat Ennius Pacuvius Accius multi alii qui non verba seri vim Graecorum expresserunt poetarum&#151;quanto magis philosophi delectabunt, si ut illi Aeschylum Sophociem Euripidem sic hi Platonem imitentur Aristotelem Theophrastum. oratores quidem laudari video si qui nostris Hyperidem sint aut Demosthenem imitati. 
+ [3] Tum ego 'Sunt' inquam 'ista Varro. nam nos in nostra urbe peregrinantis errantisque tamquam hospites tui libri quasi domum deduxerunt ut possemus aliquando qui et ubi essemus agnoscere. tu aetatem patriae tu descriptiones temporum tu sacrorum iura tu sacerdotum tu domesticam tu bellicam disciplinam, tu sedum regionum locorum tu omnium divinarum humanarumque rerum nomina genera officia causas aperuisti; plurimum quidem poetis nostris omninoque Latinis et litteris luminis et verbis attulisti atque ipse varium et elegans omni fere numero poema fecisti philosophiamque multis locis inchoasti, ad impellandum satis, ad edocendorum parum. Causam autem probabilem tu quidem affers: aut enim Graeca legere malent qui erunt eruditi aut ne haec quidem qui illa nescient. sed eam mihi non sane probas immo vero et haec qui illa non poterunt et qui Graeca poterunt non contemnent sua. quid enim causae est cur poetas Latinos Graecis litteris eruditi legant philosophos non legant? an quia delectat Ennius Pacuvius Accius multi alii qui non verba seri vim Graecorum expresserunt poetarum—quanto magis philosophi delectabunt, si ut illi Aeschylum Sophociem Euripidem sic hi Platonem imitentur Aristotelem Theophrastum. oratores quidem laudari video si qui nostris Hyperidem sint aut Demosthenem imitati. 
  
 
  
@@ -94,7 +94,7 @@ Quae quidem erat primo duobus ut dixi nominibus una; nihil enim inter Peripateti
  
 
  
-animi autem quae essent ad comprehendendam ingeniis virtutem idonea, eaque ab his in naturam et mores dividebantur. naturae celeritatem ad discendum et memoriam dabant, quorum utrumque mentis esset proprium et ingenii; morum autem putabant studia esse et quasi consuetudinem, quam partim assiduitate exercitationis partim ratione formabant, in quibus erat ipsa philosophia; in qua quod inchoatum est neque &lt;absolutum&gt; progressio quaedam ad virtutem appellatur, quod autem absolutum, id est virtus, quasi perfectio naturae omniumque rerum quas in animis ponunt una res optuna. ergo haec animorum; 
+animi autem quae essent ad comprehendendam ingeniis virtutem idonea, eaque ab his in naturam et mores dividebantur. naturae celeritatem ad discendum et memoriam dabant, quorum utrumque mentis esset proprium et ingenii; morum autem putabant studia esse et quasi consuetudinem, quam partim assiduitate exercitationis partim ratione formabant, in quibus erat ipsa philosophia; in qua quod inchoatum est neque <absolutum> progressio quaedam ad virtutem appellatur, quod autem absolutum, id est virtus, quasi perfectio naturae omniumque rerum quas in animis ponunt una res optuna. ergo haec animorum; 
  
 
  
@@ -106,11 +106,11 @@ vitae autem (id enim erat tertium) adiuncta esse dicebant quae ad virtutis usum 
  
 
  
-Ex hac descriptione agendi quoque aliquid in vita et officii ipsius initium reperiebatur, quod erat in conservatione &lt;sui et in appetitione&gt; earum rerum quas natura praescriberet. hinc gignebatur fuga desidiae voluptatumque contemptio, ex quo laborum dolorumque susceptio multorum magnorum&lt;que&gt; recti honestique causa et earum rerum quae erant congruentes cum praescriptione naturae; unde et amicitia exsistebat et iustitia atque aequitas, eaeque et voluptatibus et multis vitue commodis anteponebantur. Haec quidem fuit apud eos morum institutio et eius partis quam primam posui forma atque descriptio. 
+Ex hac descriptione agendi quoque aliquid in vita et officii ipsius initium reperiebatur, quod erat in conservatione <sui et in appetitione> earum rerum quas natura praescriberet. hinc gignebatur fuga desidiae voluptatumque contemptio, ex quo laborum dolorumque susceptio multorum magnorum<que> recti honestique causa et earum rerum quae erant congruentes cum praescriptione naturae; unde et amicitia exsistebat et iustitia atque aequitas, eaeque et voluptatibus et multis vitue commodis anteponebantur. Haec quidem fuit apud eos morum institutio et eius partis quam primam posui forma atque descriptio. 
  
 
  
-De natura autem (id enim sequebatur) ita dicebant ut eam dividerent in res duas, ut altera esset efficiens, altera autem quasi huic se praebens, eaque efficeretur aliquid. in eo quod efficeret vim esse censebant, in eo autem quod efficeretur tantum modo materiam quandam; in utroque tamen utrumque: neque enim materiam ipsam cohaerere potilisse si nulla vi contineretur, neque vim sine aliqua materia; nihil est enim quod non alicubi esse cogatur. sed quod ex utroque, id iam corpus et quasi qualitatem quandam nominabant&#151;dabitis enim profecto ut in rebus inusitatis, quod Graeci ipsi faciunt a quibus haec iam diu tractantur, utamur verbis interdum inauditis.' 
+De natura autem (id enim sequebatur) ita dicebant ut eam dividerent in res duas, ut altera esset efficiens, altera autem quasi huic se praebens, eaque efficeretur aliquid. in eo quod efficeret vim esse censebant, in eo autem quod efficeretur tantum modo materiam quandam; in utroque tamen utrumque: neque enim materiam ipsam cohaerere potilisse si nulla vi contineretur, neque vim sine aliqua materia; nihil est enim quod non alicubi esse cogatur. sed quod ex utroque, id iam corpus et quasi qualitatem quandam nominabant—dabitis enim profecto ut in rebus inusitatis, quod Graeci ipsi faciunt a quibus haec iam diu tractantur, utamur verbis interdum inauditis.' 
  
 
  
@@ -130,7 +130,7 @@ et cum ita moveatur illa vis quam qualitatem esse diximus, et cum sic ultro citr
  
 
  
-quam vim animum esse dicunt mundi, eandemque esse mentem sapientiumque perfectam, quem deum appellant, omniumque rerum quae sunt ei subiectae quasi prudentiam quandam procurantem caelestia maxime, deinde in terris ea quae pertineant ad homines; quam interdum eandem necessitatem appellant, quia nihil aliter possit atque ab ea constitutum sit, inter &lt;dum&gt; ** quasi fatalem et immutabilem continuationem ordinis sempiterni, non numquam quidem eandem fortunam, quod efficiat multa improvisa et necopinata nobis propter obscuritatem ignorationemque causarum. 
+quam vim animum esse dicunt mundi, eandemque esse mentem sapientiumque perfectam, quem deum appellant, omniumque rerum quae sunt ei subiectae quasi prudentiam quandam procurantem caelestia maxime, deinde in terris ea quae pertineant ad homines; quam interdum eandem necessitatem appellant, quia nihil aliter possit atque ab ea constitutum sit, inter <dum> ** quasi fatalem et immutabilem continuationem ordinis sempiterni, non numquam quidem eandem fortunam, quod efficiat multa improvisa et necopinata nobis propter obscuritatem ignorationemque causarum. 
  
 
  
@@ -138,7 +138,7 @@ quam vim animum esse dicunt mundi, eandemque esse mentem sapientiumque perfectam
  
 
  
-Sensus autem omnis hebetes et tardos esse arbitrabantur nec percipcre ullo modi, res eas quae subiectae sensibus viderentur, quod essent aut ita parvae ut sub sensum cadere non possent, aut ita mobiles et concitatae ut nihil umquam unum esset &lt;et&gt; constans, ne idem quidem, quia continenter laberentur et fluerent omnia. itaque hanc omnem partem rerum opinabilem appellabant; 
+Sensus autem omnis hebetes et tardos esse arbitrabantur nec percipcre ullo modi, res eas quae subiectae sensibus viderentur, quod essent aut ita parvae ut sub sensum cadere non possent, aut ita mobiles et concitatae ut nihil umquam unum esset <et> constans, ne idem quidem, quia continenter laberentur et fluerent omnia. itaque hanc omnem partem rerum opinabilem appellabant; 
  
 
  
@@ -186,11 +186,11 @@ cumque eas perturbationes antiquti naturales esse dicerent et rationis expertes 
  
 
  
-Plurima autem in illa tertia philosophiae parte mutavit. in qua primum de sensibus ipsis quaedam dixit nova, quos iunctos esse censuit e quadam quasi impulsione oblata extrinsecus. quam ille phantasian nos visum appellemus licet, et teramus hoc quidem verbum, erit enim utendum in reliquo sermone saepius&#151;sed ad haec quae visa sunt et quasi accepta sensibus assensionem adiungit animomorum, quam esse vult in nobis positam et voluntariam. 
+Plurima autem in illa tertia philosophiae parte mutavit. in qua primum de sensibus ipsis quaedam dixit nova, quos iunctos esse censuit e quadam quasi impulsione oblata extrinsecus. quam ille phantasian nos visum appellemus licet, et teramus hoc quidem verbum, erit enim utendum in reliquo sermone saepius—sed ad haec quae visa sunt et quasi accepta sensibus assensionem adiungit animomorum, quam esse vult in nobis positam et voluntariam. 
  
 
  
-visis non omnibus adiungebat fidem sed is solum quae propriam quandam haberent declarationem earum rerum quae viderentur; id autem visum cum ipsum per se cerneretur, comprehenibile&#151;feretis haec?' Att. 'nos vero' inquit; 'quonam enim alio modo katalaempton diceres?'&#151;Va. 'Sed cum acceptum iam et approbatum esset, comprehensionem appellabat, similem is rebus quae manu prenderentur; ex quo etiam nomen hoc duxerat [at] cum eo verbo antea nemo tali in re usus esset, plurimisque idem novis verbis (nova enim dicebat) usus est. Quod autem erat sensu comprensum id ipsum sensum appellabat, et si ita erat comprensum ut convelli ratione non posset scientiam, sin aliter inscientiam nominabat; ex qua existebat etiam opinio, quae esset imbecilla et cum falso incognitoque communis. 
+visis non omnibus adiungebat fidem sed is solum quae propriam quandam haberent declarationem earum rerum quae viderentur; id autem visum cum ipsum per se cerneretur, comprehenibile—feretis haec?' Att. 'nos vero' inquit; 'quonam enim alio modo katalaempton diceres?'—Va. 'Sed cum acceptum iam et approbatum esset, comprehensionem appellabat, similem is rebus quae manu prenderentur; ex quo etiam nomen hoc duxerat [at] cum eo verbo antea nemo tali in re usus esset, plurimisque idem novis verbis (nova enim dicebat) usus est. Quod autem erat sensu comprensum id ipsum sensum appellabat, et si ita erat comprensum ut convelli ratione non posset scientiam, sin aliter inscientiam nominabat; ex qua existebat etiam opinio, quae esset imbecilla et cum falso incognitoque communis. 
  
 
  
@@ -218,7 +218,7 @@ itaque Arcesilas negabat esse quicquam quod sciri posset, ne illud quidem ipsum 
  
 
  
-Hanc Academiam novam appellant, quae mihi vetus videtur, si quidem Platonem ex illa vetere numeramus, cuius in libris nihil affirmatur et in utramque partem multa disseruntur, de omnibus quaeritur nihil certi dicitur&#151;sed tamen illa quam euisti vetus, haec nova nominetur. quae usque ad Carneadem perducta, qui quartus ab Arcesila fuit, in eadem Arcesilae ratione permansit. Carneades autem nullius philosophiae partis ignarus et, ut cognovi ex is qui illum audierant maximeque ex Epicureo Zenone, qui cum ab eo plurimum dissentiret unum tamen praeter ceteros mirabatur, incredibili quadam fuit facultate et 
+Hanc Academiam novam appellant, quae mihi vetus videtur, si quidem Platonem ex illa vetere numeramus, cuius in libris nihil affirmatur et in utramque partem multa disseruntur, de omnibus quaeritur nihil certi dicitur—sed tamen illa quam euisti vetus, haec nova nominetur. quae usque ad Carneadem perducta, qui quartus ab Arcesila fuit, in eadem Arcesilae ratione permansit. Carneades autem nullius philosophiae partis ignarus et, ut cognovi ex is qui illum audierant maximeque ex Epicureo Zenone, qui cum ab eo plurimum dissentiret unum tamen praeter ceteros mirabatur, incredibili quadam fuit facultate et 
  
 
  

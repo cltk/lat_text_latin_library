@@ -53,7 +53,7 @@ DE CHOROGRAPHIA LIBER PRIMUS
  
 
  
-[11] In ea primos hominum ab oriente accipimus Indos et Seras et Scythas. Seres media ferme Eoae partis incolunt, Indi &lt;et Scythae> ultima: ambo late patentes neque in hoc tantum pelagus effusi. Spectant enim etiam meridiem Indi, oramque Indici maris, nisi quoad aestus inhabitabilem efficiunt, diu continuis gentibus occupant. Spectant et septentrionem Scythae, ac litus Scythicum, nisi unde frigoribus arcentur, usque ad Caspium sinum possident. 
+[11] In ea primos hominum ab oriente accipimus Indos et Seras et Scythas. Seres media ferme Eoae partis incolunt, Indi <et Scythae> ultima: ambo late patentes neque in hoc tantum pelagus effusi. Spectant enim etiam meridiem Indi, oramque Indici maris, nisi quoad aestus inhabitabilem efficiunt, diu continuis gentibus occupant. Spectant et septentrionem Scythae, ac litus Scythicum, nisi unde frigoribus arcentur, usque ad Caspium sinum possident. 
  
 
  
@@ -85,7 +85,7 @@ DE CHOROGRAPHIA LIBER PRIMUS
  
 
  
-[19] Quantum incolitur eximie fertilis, verum quod pleraque eius inculta et aut harenis sterilibus obducta aut ob sitim caeli terrarumque deserta sunt aut infestantur multo ac malefico genere animalium, vasta est magis quam frequens. Mare quo cingitur a septentrione Libycum, a meridie Aethiopicum, ab occidente Atlanticum dicimus. In ea parte quae Libyco adiacet proxima Nilo provincia quam Cyrenas vocant; dein cui totius regionis vocabulo cognomen inditum est Africa. Cetera Numidae et Mauri tenent, sed Mauri &lt;et> in Atlanticum pelagus expositi. Vltra Nigritae sunt et Pharusii usque ad Aethiopas. Hi et reliqua huius et totum latus quod meridiem spectat usque in Asiae confinia possident. 
+[19] Quantum incolitur eximie fertilis, verum quod pleraque eius inculta et aut harenis sterilibus obducta aut ob sitim caeli terrarumque deserta sunt aut infestantur multo ac malefico genere animalium, vasta est magis quam frequens. Mare quo cingitur a septentrione Libycum, a meridie Aethiopicum, ab occidente Atlanticum dicimus. In ea parte quae Libyco adiacet proxima Nilo provincia quam Cyrenas vocant; dein cui totius regionis vocabulo cognomen inditum est Africa. Cetera Numidae et Mauri tenent, sed Mauri <et> in Atlanticum pelagus expositi. Vltra Nigritae sunt et Pharusii usque ad Aethiopas. Hi et reliqua huius et totum latus quod meridiem spectat usque in Asiae confinia possident. 
  
 
  
@@ -157,7 +157,7 @@ DE CHOROGRAPHIA LIBER PRIMUS
  
 
  
-[37] Interiores incultius etiam secuntur vagi pecora, utque &lt;e>a pabulo ducta sunt ita se ac tuguria sua promovent, atque ubi dies deficit ibi noctem agunt. Quamquam in familias passim et sine lege dispersi nihil in commune consultant, tamen quia singulis aliquot simul coniuges et plures ob id liberi adgnatique sunt nusquam pauci. Ex his qui ultra deserta esse memorantur Atlantes solem exsecrantur et dum oritur et dum occidit ut ipsis agrisque pestiferum. Nomina singuli non habent, non vescuntur animalibus, neque illis in quiete qualia ceteris mortalibus visere datur. 
+[37] Interiores incultius etiam secuntur vagi pecora, utque <e>a pabulo ducta sunt ita se ac tuguria sua promovent, atque ubi dies deficit ibi noctem agunt. Quamquam in familias passim et sine lege dispersi nihil in commune consultant, tamen quia singulis aliquot simul coniuges et plures ob id liberi adgnatique sunt nusquam pauci. Ex his qui ultra deserta esse memorantur Atlantes solem exsecrantur et dum oritur et dum occidit ut ipsis agrisque pestiferum. Nomina singuli non habent, non vescuntur animalibus, neque illis in quiete qualia ceteris mortalibus visere datur. 
  
 
  
@@ -181,7 +181,7 @@ DE CHOROGRAPHIA LIBER PRIMUS
  
 
  
-[43] Inde partim asper partim navigia patiens in immanem lacum devenit, ex quo praecipiti impetu egressus et Tachempso alteram insulam amplexus usque ad Elephantinen urbem Aegyptiam atrox adhuc fervensque decurrit. Tum demum placidior et iam bene navigabilis primum iuxta Cercasorum oppidum triplex esse incipit. Deinde &lt;iterum> iterumque divisus ad Delta et ad Melyn it per omnem Aegyptum vagus atque dispersus, septemque in ora se scindens singulis tamen grandis evolvitur. 
+[43] Inde partim asper partim navigia patiens in immanem lacum devenit, ex quo praecipiti impetu egressus et Tachempso alteram insulam amplexus usque ad Elephantinen urbem Aegyptiam atrox adhuc fervensque decurrit. Tum demum placidior et iam bene navigabilis primum iuxta Cercasorum oppidum triplex esse incipit. Deinde <iterum> iterumque divisus ad Delta et ad Melyn it per omnem Aegyptum vagus atque dispersus, septemque in ora se scindens singulis tamen grandis evolvitur. 
  
 
  
@@ -213,7 +213,7 @@ DE CHOROGRAPHIA LIBER PRIMUS
  
 
  
-[51] Viginti &lt;milia> urbium Amasi regnante habitarunt et nunc multas habitant. Earum clarissimae procul a mari Sais, Memphis, Syene, Bubastis, Elephantine Thebae utique &lt;quae> ut Homero dictum est centum portas sive ut alii aiunt centum aulas habent, totidem olim principum domos, solitasque singulas ubi negotium exegerat dena armatorum milia effundere; in litore Alexandria Africae contermina, Pelusium Arabiae. Ipsas oras secant Canopicum, Bolbiticum, Sebennyticum, Pathmeticum, Mendesium, Cataptystum, Pelusiacum Nili ostia. 
+[51] Viginti <milia> urbium Amasi regnante habitarunt et nunc multas habitant. Earum clarissimae procul a mari Sais, Memphis, Syene, Bubastis, Elephantine Thebae utique <quae> ut Homero dictum est centum portas sive ut alii aiunt centum aulas habent, totidem olim principum domos, solitasque singulas ubi negotium exegerat dena armatorum milia effundere; in litore Alexandria Africae contermina, Pelusium Arabiae. Ipsas oras secant Canopicum, Bolbiticum, Sebennyticum, Pathmeticum, Mendesium, Cataptystum, Pelusiacum Nili ostia. 
  
 
  
@@ -221,7 +221,7 @@ DE CHOROGRAPHIA LIBER PRIMUS
  
 
  
-[53] Syria late litora tenet, terrasque etiam latius introrsus, aliis aliisque nuncupata nominibus: nam et Coele dicitur et Mesopotamia et Damascene et Adiabene et Babylonia et Iudaea et Co&lt;mmagene et> Sophene. 
+[53] Syria late litora tenet, terrasque etiam latius introrsus, aliis aliisque nuncupata nominibus: nam et Coele dicitur et Mesopotamia et Damascene et Adiabene et Babylonia et Iudaea et Co<mmagene et> Sophene. 
  
 
  
@@ -237,7 +237,7 @@ DE CHOROGRAPHIA LIBER PRIMUS
  
 
  
-[57] In ea est [et] Tyros aliquando insula, nunc adnexa terris * * * , quod ab inpugnante quondam Alexandro iacta &lt;sunt> opera. Vici tenent ulteriora et adhuc opulenta Sidon, antequam a Persis caperetur maritimarum urbium maxima. 
+[57] In ea est [et] Tyros aliquando insula, nunc adnexa terris * * * , quod ab inpugnante quondam Alexandro iacta <sunt> opera. Vici tenent ulteriora et adhuc opulenta Sidon, antequam a Persis caperetur maritimarum urbium maxima. 
  
 
  
@@ -357,7 +357,7 @@ DE CHOROGRAPHIA LIBER PRIMUS
  
 
  
-[86] Interius Bithyni sunt et Mariandyni, in ora Graiae urbes Abydos et Lampsacum et Parion et Priapos. Abydos magni quondam amoris commercio insignis est. Lampsacum Phocaeis appellantibus nomen ex eo traxit, quod consulentibus in quasnam terras potissimum tenderent responsum erat, ubi primum fulsisset, ibi sedem capessere&lt;nt>. 
+[86] Interius Bithyni sunt et Mariandyni, in ora Graiae urbes Abydos et Lampsacum et Parion et Priapos. Abydos magni quondam amoris commercio insignis est. Lampsacum Phocaeis appellantibus nomen ex eo traxit, quod consulentibus in quasnam terras potissimum tenderent responsum erat, ubi primum fulsisset, ibi sedem capessere<nt>. 
  
 
  
@@ -365,7 +365,7 @@ DE CHOROGRAPHIA LIBER PRIMUS
  
 
  
-[88] Flumen Ryndacos in quae secuntur emittit&lt;ur>. Circa angues nascuntur immanes, neque ob magnitudinem modo sed ob id etiam mirabiles, quod ubi in alveum eius aestus solemque fugerunt, emergunt atque hiant, supervolantesque aves quamvis alte et perniciter ferantur absorbent. trans Ryndacum est Dascylos et quam Colophonii conlocavere Myrlea. 
+[88] Flumen Ryndacos in quae secuntur emittit<ur>. Circa angues nascuntur immanes, neque ob magnitudinem modo sed ob id etiam mirabiles, quod ubi in alveum eius aestus solemque fugerunt, emergunt atque hiant, supervolantesque aves quamvis alte et perniciter ferantur absorbent. trans Ryndacum est Dascylos et quam Colophonii conlocavere Myrlea. 
  
 
  

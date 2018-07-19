@@ -25,7 +25,7 @@ Duo amici, ex quibus uni mater erat, peregre profecti ad tyrannum appliciti sunt
  
 
  
-Viderint, sanctissimi viri, . . . sed receptas nominum persuasiones velut aliquam servitutem caritatis attendunt. me si quis interroget, nullos affectus tantum nasci puto, et si quis omnia vera ratione respiciat, quicquid liberos, &lt;parentes,&gt; fratres, propinquos invicem tenet, amicitia est. homines igitur, quos cum maxime incredibilium rerum loquitur invidia, sumus sine dubio non eiusdem pars animae, non eiusdem pondus uteri; sed quanto minus in causis, tanto plus in affectu est. admirabilior caritas, in quam coimus viribus nostris. non pudet, iudices, hanc fateri persuasionem: minus debetur homini, qui aliquem ideo tantum amat, quia necesse est. ita est, iudices, ita est: a primis statim aetatibus in eandem coire vitam habet aliquem fraternitatis affectum.
+Viderint, sanctissimi viri, . . . sed receptas nominum persuasiones velut aliquam servitutem caritatis attendunt. me si quis interroget, nullos affectus tantum nasci puto, et si quis omnia vera ratione respiciat, quicquid liberos, <parentes,> fratres, propinquos invicem tenet, amicitia est. homines igitur, quos cum maxime incredibilium rerum loquitur invidia, sumus sine dubio non eiusdem pars animae, non eiusdem pondus uteri; sed quanto minus in causis, tanto plus in affectu est. admirabilior caritas, in quam coimus viribus nostris. non pudet, iudices, hanc fateri persuasionem: minus debetur homini, qui aliquem ideo tantum amat, quia necesse est. ita est, iudices, ita est: a primis statim aetatibus in eandem coire vitam habet aliquem fraternitatis affectum.
  
 
  
@@ -33,7 +33,7 @@ Sic effectum est, ut nos statim fama committeret, et tali certamine coimus, ut, 
  
 
  
-Utrumne igitur, iudices, sumere de nobis etiam nunc voluit experimentum ipsa amicitia, et parum fortuna credit hominibus adhuc tantum feliciter amantibus, an haec est magnae semper opinionis invidia, nec ulli umquam tam plena confessione laudantur, ut illos non ipsa quoque . . . ~ad~ litoribus appulsi sumus. homines, quorum omnis casus fama custodiebat, ~consumimus~ terrore, qui parentibus statim caecitas est. hinc illud evenit, quod &lt;non&gt; sumus pariter alligati: sic magis adversus solutum carcer inventus est. pudet, iudices, fateri: iam in hoc victus, iam inferior recessi; ex duobus magis amatur, quem tyrannus paratus est alligare.
+Utrumne igitur, iudices, sumere de nobis etiam nunc voluit experimentum ipsa amicitia, et parum fortuna credit hominibus adhuc tantum feliciter amantibus, an haec est magnae semper opinionis invidia, nec ulli umquam tam plena confessione laudantur, ut illos non ipsa quoque . . . ~ad~ litoribus appulsi sumus. homines, quorum omnis casus fama custodiebat, ~consumimus~ terrore, qui parentibus statim caecitas est. hinc illud evenit, quod <non> sumus pariter alligati: sic magis adversus solutum carcer inventus est. pudet, iudices, fateri: iam in hoc victus, iam inferior recessi; ex duobus magis amatur, quem tyrannus paratus est alligare.
  
 
  
@@ -41,7 +41,7 @@ Quantum tibi, amice, debeo! non potuit nos dividere nisi mater. ubi primum caeci
  
 
  
-[4] Ego non invenio, cur horreat mater arcem, quid sibi velit quasi destinatas operire cervices. non odit me tyrannus, cuius non interest, an alium occidat. miserere, mater, si quis est magnorum meritorum pudor, querere, quod unum decet, impatientius ex &lt;d&gt;uobus amari semper absentem. cui tu fortunae, quibus necessitatibus inicis manum! me ad amicum meum admitterent alterius catenae tyranni, nunc mihi portas aperiret, subsidio navigium pirata praestaret. si mehercules ante morerer, ire deberes, mater, ad diem. misera, non intellegis, quanto te magis [plus] obligaverit amicus? plus debes homini, qui me tibi remisit, ex quo pati non potes, ut revertar.
+[4] Ego non invenio, cur horreat mater arcem, quid sibi velit quasi destinatas operire cervices. non odit me tyrannus, cuius non interest, an alium occidat. miserere, mater, si quis est magnorum meritorum pudor, querere, quod unum decet, impatientius ex <d>uobus amari semper absentem. cui tu fortunae, quibus necessitatibus inicis manum! me ad amicum meum admitterent alterius catenae tyranni, nunc mihi portas aperiret, subsidio navigium pirata praestaret. si mehercules ante morerer, ire deberes, mater, ad diem. misera, non intellegis, quanto te magis [plus] obligaverit amicus? plus debes homini, qui me tibi remisit, ex quo pati non potes, ut revertar.
  
 
  
@@ -65,7 +65,7 @@ Nondum, iudices, necessitates meas, nondum amici merita refero; interim contendo
  
 
  
-Finge me &lt;se&gt;positis paulisper meritis, quibus obligatus sum, hoc tantum dicere: 'amicus alligatus est.' ire volo, mater, ut redeat, ut consoler, ut ~dominum regem, ut, si tyrannus exegerit, vicarium corpus opponam. quid detines, quid moraris? hoc est tempus, propter quod coimus. nescias, an diligat, cuius non habet experimenta nisi sola felicitas, et, si vitae praestes omnia secunda, amicus otiosa res est. dicturum me putas: 'hoc expectat alligatus'? expectat totum immo genus hominum, et nos in hanc fidem persuasiones receperunt, ut, si hoc faciam, nemo miretur. vis scire, mater, quem affectum, quam reverentiam in calamitatibus amico praestare debeamus? nullam legem timuit, ne relinqueretur.
+Finge me <se>positis paulisper meritis, quibus obligatus sum, hoc tantum dicere: 'amicus alligatus est.' ire volo, mater, ut redeat, ut consoler, ut ~dominum regem, ut, si tyrannus exegerit, vicarium corpus opponam. quid detines, quid moraris? hoc est tempus, propter quod coimus. nescias, an diligat, cuius non habet experimenta nisi sola felicitas, et, si vitae praestes omnia secunda, amicus otiosa res est. dicturum me putas: 'hoc expectat alligatus'? expectat totum immo genus hominum, et nos in hanc fidem persuasiones receperunt, ut, si hoc faciam, nemo miretur. vis scire, mater, quem affectum, quam reverentiam in calamitatibus amico praestare debeamus? nullam legem timuit, ne relinqueretur.
  
 
  
@@ -73,7 +73,7 @@ Differo interim causam amicitiae; agere paulisper omnium libet. et tyrannus mihi
  
 
  
-[8] Intellegit, iudices, et ipsa mater, quantae reverentiae locum amicus optineat, quae incipit contendere adfectu. nisi fallor igitur, cum ego sim materia litis, hoc primum aestimare debetis, ut&lt;er&gt; in mea calamitate plus fecerit. ante omnia permitte mihi de hoc adfectus tui genere, mater, queri. quid tibi tam rabido, tam praecipiti dolore voluisti, quid adversis tuis praestare faciem et in oculos tuos accipere nuntium? non reliquisti tibi, ut redimeres. sine dubio adiecisti ad matris adfectus; oculos in media orbitate fudisti; sed illud non laxat catenas, non explicat corpus. quid mihi prodest iste, qui se citra filium consumpsit, adfectus? plus fecisset mater, quae isset ad tyrannum. alligatus sum; tu nunc sic flebis, tamquam solvar in lectulo, tamquam in tuis manibus expirem? in quibusdam calamitatibus desperatio non est summus affectus, et quisquis orbitatem statim credit, festinat ad inpatientiae securitatem. dissimules licet, mater tantae pro me inpatientiae, tam incredibilis adfectus: amicus rem difficiliorem fecit, quod servavit oculos suos, ut alligaretur. dii deaeque, quantum ille praestitit &lt;mihi&gt;, qui [mihi] [in]vidit poenam meam nec recessit! ille, ille terribilem carcerem facit, qui inde procedit. iam non corporis nexus haerebat, nec aliud quam resederant pondere catenae; consumpti longo squalore vultus, concretae noctibus diebusque super ora lacrimae.
+[8] Intellegit, iudices, et ipsa mater, quantae reverentiae locum amicus optineat, quae incipit contendere adfectu. nisi fallor igitur, cum ego sim materia litis, hoc primum aestimare debetis, ut<er> in mea calamitate plus fecerit. ante omnia permitte mihi de hoc adfectus tui genere, mater, queri. quid tibi tam rabido, tam praecipiti dolore voluisti, quid adversis tuis praestare faciem et in oculos tuos accipere nuntium? non reliquisti tibi, ut redimeres. sine dubio adiecisti ad matris adfectus; oculos in media orbitate fudisti; sed illud non laxat catenas, non explicat corpus. quid mihi prodest iste, qui se citra filium consumpsit, adfectus? plus fecisset mater, quae isset ad tyrannum. alligatus sum; tu nunc sic flebis, tamquam solvar in lectulo, tamquam in tuis manibus expirem? in quibusdam calamitatibus desperatio non est summus affectus, et quisquis orbitatem statim credit, festinat ad inpatientiae securitatem. dissimules licet, mater tantae pro me inpatientiae, tam incredibilis adfectus: amicus rem difficiliorem fecit, quod servavit oculos suos, ut alligaretur. dii deaeque, quantum ille praestitit <mihi>, qui [mihi] [in]vidit poenam meam nec recessit! ille, ille terribilem carcerem facit, qui inde procedit. iam non corporis nexus haerebat, nec aliud quam resederant pondere catenae; consumpti longo squalore vultus, concretae noctibus diebusque super ora lacrimae.
  
 
  

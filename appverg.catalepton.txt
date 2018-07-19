@@ -81,7 +81,7 @@ Villula, quae Sironis eras, et pauper agelle,
 verum illi domino tu quoque divitiae, 
 me tibi et hos una mecum, quos semper amavi, 
 siquid de patria tristius audiero, 
-commendo &lt;im>primisque patrem: tu nunc eris illi,      5 
+commendo <im>primisque patrem: tu nunc eris illi,      5 
 Mantua quod fuerat quodque Cremona prius.
  
 IX. 
@@ -128,7 +128,7 @@ multa neque immeritis donavit praemia alumnis,
 praemia Messalis maxima Poplicolis. -     40 
 Nam quid ego immensi memorem studia ista laboris, 
 horrida quid durae tempora militiae? 
-Castra foro, &lt;te> castra Urbi praeponere, castra 
+Castra foro, <te> castra Urbi praeponere, castra 
 tam procul hoc gnato, tam procul hac patria; 
 immoderata pati iam frigora iamque calores,     45 
 sternere vel dura posse super silice; 
@@ -166,7 +166,7 @@ premente dura volnus ederet iuba.
 Cremona frigida et lutosa Gallia, 
 tibi haec fuisse et esse cognitissima 
 ait Sabinus. ultima ex origine 
-tua stetisse &lt;dicit> in voragine,     15 
+tua stetisse <dicit> in voragine,     15 
 tua in palude deposisse sarcinas 
 et inde tot per orbitosa milia 
 iugum tulisse, laeva sive dextera 
@@ -197,10 +197,10 @@ datur, superbe Noctuine, quam petis.
 Sed, o superbe Noctuine, non vides 
 duas habere filias Atilium,     
 5 
-&lt;duas>, et hanc et alteram, tibi dari? 
+<duas>, et hanc et alteram, tibi dari? 
 Adeste, nunc adeste: ducit, ut decet, 
 superbus ecce Noctuinus - hirneam. 
-Thalassio, thalassio, &lt;thalassio&gt;.
+Thalassio, thalassio, <thalassio>.
  
 XIII. 
 Iacere me, quod alta non possim, putas, 

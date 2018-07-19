@@ -26,7 +26,7 @@ aliquando et immites fateor.
 An felix fuerit solum Quirini 
 Incepi dubitare, quod tulisset 
 Tot civilia bella Caesaresque: 
-At, divine Catulle! cum put&acirc;ssem 
+At, divine Catulle! cum putâssem 
 Ut suavis fueris, et ut Diones 
 Cesto laeta Camaena cingeretur, 
 Tum fugere procul, repente, ocellis 
@@ -146,7 +146,7 @@ Queis sublime per aera auferaris.
 Quaerat materiem novam querelae, 
 Tu das materiem novam querelae. 
 Tum, si forte facetiis adornat 
-Carmen quod rabida incho&acirc;rit Ira, 
+Carmen quod rabida inchoârit Ira, 
 Subridet: velut inquiere vates 
 Emersam Venerem mari, columbis 
 Iunctis ante vehentibusque concham. 
@@ -237,7 +237,7 @@ Currui adsigo Scelus, at molestat
         Cura triumphum. 
 
 Heu iuventutis reditura nunquam 
-Gaudia! infest&acirc; mihi dempta dextr&acirc;; 
+Gaudia! infestâ mihi dempta dextrâ; 
 Innocens risus, agilesque ludi, 
         Laetaque frontis. 
 
@@ -287,10 +287,10 @@ Pallidum fortes, ubi mistus umbris
 Umbra! per dura tenebrosa Ditis 
         Regna vagatur. 
 
-Aeacus null&acirc; reticet loquel&acirc;; 
+Aeacus nullâ reticet loquelâ; 
 Nec iacet torpens veluti videtur 
 Bos, sub aestivi medio diei, 
-        Stratus in herb&acirc;. 
+        Stratus in herbâ. 
 
 Ecce! fatalem quatit aequus urnam; 
 Ecce quam circum miseri ministri. 
@@ -314,7 +314,7 @@ De manu vomer cadit, et lavantur
         Brachia rivo. 
 
 Currit ad campum citus. O Puella 
-Fausta! cui sese, medi&acirc; sodales 
+Fausta! cui sese, mediâ sodales 
 Fronte robustos supereminenti, 
         Conferet heros. 
 
@@ -325,7 +325,7 @@ Ornat immistis, sociique visu
 
 Fluctuant flatu Zephyri corollae 
 Et viri et nymphae simul; alma Cypri 
-Marsque sic un&acirc; roseis in hortis 
+Marsque sic unâ roseis in hortis 
         Ora gerebant. 
 
  
@@ -336,15 +336,15 @@ Parce! lenimen precibus negabis
 Cum tuum numen toties adorem 
         Carmine Sapphus? 
 
-Illa sublimi volucres in aur&acirc; 
+Illa sublimi volucres in aurâ 
 Passeres vidit quoties ad aras 
 Supplicaretur tibi, et annuebas 
         Blandula votis: 
 
 Dulce subridens Dea! Iam Phaontis 
 Candidae subpurpurei lacerti 
-Ambiunt collum, ac tepid&acirc; Cupido 
-        Ventilat al&acirc; 
+Ambiunt collum, ac tepidâ Cupido 
+        Ventilat alâ 
 
 Iam nec umbrosum Zephyrus recessum 
 Abnuit molli recreare flatu; 
@@ -363,7 +363,7 @@ Cur micat, verno nisi lusum eatur
 
  XVI 
 O Puellarum chorus! O Dianae 
-Candidae zon&acirc; refluente nymphae! 
+Candidae zonâ refluente nymphae! 
 Phyllidi aequandam, lepidae, potestis 
         Dicere nomen? 
 
@@ -383,9 +383,9 @@ Quid valet? nostrae quid inhaesit hasta
         Vestra Dione. 
 
 Vos nimis duras satis indicabant 
-Lumina: immist&acirc; taciturnitate 
-Laesa defect&acirc; tremula edidit sus- 
-        piria lingu&acirc;. 
+Lumina: immistâ taciturnitate 
+Laesa defectâ tremula edidit sus- 
+        piria linguâ. 
 
 Vos decet nigris adhibere nodum 
 Crinibus, vestri est Borean vocare 
@@ -393,7 +393,7 @@ In sinum nudam, et penetrare cornu
         Devia sylvae. 
 
 Vos decet fortes catulos ciere 
-Per locos crass&acirc; rigidos pruin&acirc;, 
+Per locos crassâ rigidos pruinâ, 
 Mane ubi nondum radiante gemmae 
         Sole liquescunt. 
 
@@ -411,14 +411,14 @@ Adpetens, lectis Veneri sacellum
 Nil, O P***! praeter bona vota, recessu 
 Exanimis, poterit tibi mittere Rugbia: vino 
 Solo animi redeunt, et dulcia carmina vino. 
-Hoc mihi saepe rubet, non deficiente crumen&acirc; 
+Hoc mihi saepe rubet, non deficiente crumenâ 
 Nunc velut ante: tamen non amplius illa ministrat 
 Gaudia quae quondam celeres ubicunque ferinam 
 Quaesumus, niveas quo late Aquila explicat alas, 
 Quove nigra erectum baculum complectitur Ursa, 
 Pennigerumve premit Serpentem Celticus Heros. 
  Verum ubi diripior? versus, quem libera dictat 
-Mens mea, lene fluat; nam cor dabit absque Camaen&acirc;. 
+Mens mea, lene fluat; nam cor dabit absque Camaenâ. 
 At vocor; en! sonipes ut fraena lupata remordet. 
 Iamque vale. His abeuns a sedibus, alta reviso 
 Tecta ubi Bacchus adest, Bacchoque beatior Hospes. 
@@ -437,7 +437,7 @@ Tunc tumet irato metuenda Tarantula morsu,
 Miris ora modis pallent, et inertia membra 
  Corporis insolito pondere pressa tremunt. 
 At quem non potis es medicamine pellere morbum 
- Phaebe! agili chore&acirc; carminibusque domas. 
+ Phaebe! agili choreâ carminibusque domas. 
 Et virus, misto sudore, fugatur in auras 
  Cum salit ad magicum saucia turba sonum. 
 Sed, sua cuique placent modulamina. Rusticus audit 
@@ -452,9 +452,9 @@ Dum per Biltonios errabam devius agros,
  Atque inconsulto dulce patebat iter: 
 Tunc, vel avem sequerer, quae nollem linquere nidum 
  Nolit, et impavide pipilat ante pedes: 
-Aut, humili volitante al&acirc; per florida prata, 
+Aut, humili volitante alâ per florida prata, 
  Ducerer in vetitas papilione moras: 
-Forte, iisdem studiis versata ignobilis ot&icirc;, 
+Forte, iisdem studiis versata ignobilis otî, 
  Venit eundem ipsum nescia nympha locum. 
 Ver tenerum spirabat; erat tenera ipsa puella. 
  At nec Amoris inops, at nec inepta iugo. 
@@ -479,7 +479,7 @@ At Natura iubet, quae me mollissima finxit,
 Sed lacrymas oculo quoties velit elicet, et me 
  Excruciant alii quae leviora putant. 
 Stipes agro non est, non septa virentia rident 
- Vere novo, modic&acirc; non strepit amnis aqu&acirc;; 
+ Vere novo, modicâ non strepit amnis aquâ; 
 Pernicem puerum quae transiluisse recordor, 
  Quin ictu subito pectora pulsa micent. 
 
@@ -489,7 +489,7 @@ Insula! tu mihi surgis; ego te saepe solebam
  Cingere flore capri, te decorare rosis! 
 Ambit et hos flores, fine nomine, parvula Nympha, 
  Nympha sub ardenti mox peritura Cane. 
-Illius in rip&acirc; quoties sub vespere sedi, 
+Illius in ripâ quoties sub vespere sedi, 
  Compingens lyricis anxia verba modis! 
 Forsitan aut calamo liquidas Elegeia voces 
  Leniter inflaret, forsitan aptus Amor. 
@@ -503,7 +503,7 @@ At sero linquant puerilia tempora mentem
 Sola, Cupidineas volvens sub pectore curas, 
  Infido statuit Laura perire viro. 
 Nuper in Hesperias Phoebus descenderat undas, 
- Coeperat e tepid&acirc; surgere valla vapor: 
+ Coeperat e tepidâ surgere valla vapor: 
 Plena reliquissent fulvae mulctralia vaccae, 
  Longaque frendentem terruit umbra canem. 
 Iamque vagis Virgo compleverat omne querelis, 
@@ -512,16 +512,16 @@ Ingreditur: non illa petit lenimina luctus,
  Corde sed e tristi talia verba ruunt. 
 Vae! quousque viro sic temnar? inultaque temnar? 
  Debuerat potius quod licet ille mori! 
-Ulmo a procer&acirc; suspendar , inutile pondus, 
+Ulmo a procerâ suspendar , inutile pondus, 
  Hei mihi! vel rapidis obruta mergar aquis? 
 Obruta merga aquis? eheu! fortasse sepulchrum 
  Non erit, et nullo carmine nota tegar. 
 Talia dicebat, cum linquens Tityrus umbram 
  Ecce puellares sternitur ante pedes. 
 Anne decet lacrymis madefiant Virginis ora, 
- Illa ora, illa nov&acirc; candidiora nive. 
+ Illa ora, illa novâ candidiora nive. 
 O! mea nectareas abstergant basia guttas 
- Morte fer&acirc; debet virgo tenella mori? 
+ Morte ferâ debet virgo tenella mori? 
 Suspendare? sequar fugientis ad astra sodalis, 
  Teque iubente altis obruar unus aquis. 
 Qualia dixit habes: licet haud memore quid egit; 
@@ -553,7 +553,7 @@ Sic tibi sit Nemesis, tibi Delia, cumque recedit
  QUI, PYRENAEIS IN MONTIBUS, VICTOR OCCUBUIT. 
 Dum tua Pyrene castrum caput aere velat, 
  Dum latus ad niveum plurima Nympha salit: 
-Laetaque caerul&acirc; dum Sequana labitur und&acirc;, 
+Laetaque caerulâ dum Sequana labitur undâ, 
  Et Rhodanus rapidas in mare volvit aquas: 
 Semper honos Dagoberte tuus laudesque manebunt, 
  O patriae vindex! O columen patriae! 
@@ -563,7 +563,7 @@ Semper honos Dagoberte tuus laudesque manebunt,
  GERMANIS 
  ALIISQUE VICTIS HOSTIBUS 
 Gallia! libertate ardens, et lassa triumphis, 
- Intrepid&acirc; vibras tela tremenda manu. 
+ Intrepidâ vibras tela tremenda manu. 
 Scilicet agnoscunt iam iam tua iura tyranni, 
  Et reboant vinctae sub pedibus Furiae. 
 En! iterumque vocas ad pectora mitia natos, 
@@ -599,7 +599,7 @@ Iam video modica saltem me laude mereri;
 Graecule! cum solito tua tristior ira videtur, 
  Crede mihi, solito tum minus illa nocet, 
 Sic, ubi saevit Hyems canos fine more per agros, 
- Omnia tunc ips&acirc; sub nive tuta iacent. 
+ Omnia tunc ipsâ sub nive tuta iacent. 
 
  XXIX 
  IN MORTEM ANUS 
@@ -623,7 +623,7 @@ Caecus es: at melius tibi fors versatur Amoris
 Dum, malesuada! mihi tua candida pectora praebes, 
  Me ferus in rapido vortice volvit Amor. 
 Aequora non secus in puppim surgentia candent, 
- Non secus intere&acirc; Nauta perire timet. 
+ Non secus intereâ Nauta perire timet. 
  
  
  

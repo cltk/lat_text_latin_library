@@ -272,12 +272,12 @@ liliaque et Tyrias imitata papavera luces
 vernantisque rosae rubicundo sanguine florem 
 conseret et veris depinget prata figuris.    261 
 aut varios nectet flores sertisque locabit 
-effingetque suum sidus similisque &lt;coronas 
-Cnosiacae faciet; calamosque&gt; in mutua pressos    263a 
+effingetque suum sidus similisque <coronas 
+Cnosiacae faciet; calamosque> in mutua pressos    263a 
 incoquet atque Arabum Syriis mulcebit odores 
 et medios unguenta dabit referentia flatus, 
 ut sit adulterio sucorum gratia maior. 
-munditiae &lt;cordi&gt; cultusque artesque decorae 
+munditiae <cordi> cultusque artesque decorae 
 et lenocinium vitae praesensque voluptas. 
 Virginis hoc anni poscunt floresque Coronae. 
   At, cum per decimam consurgens horrida partem    270 
@@ -288,8 +288,8 @@ usuramque sequi maiorem sorte receptis
 frugibus innumeris atque horrea quaerere messi    275 
 (quod solum decuit mortalis nosse metallum: 
 nulla fames, non ulla forent ieiunia terris; 
-dives erat census saturatis gentibus &lt;olim 
-argenti venis aurique latentibus&gt; orbi)    278a 
+dives erat census saturatis gentibus <olim 
+argenti venis aurique latentibus> orbi)    278a 
 et, si forte labor vires tardaverit, artes 
 quis sine nulla Ceres, non ullus seminis usus, 
 subdere fracturo silici frumenta superque 
@@ -341,7 +341,7 @@ qua quondam somnumque fretis Oeagrius Orpheus
 et sensus scopulis et silvis addidit aures 
 et Diti lacrimas et morti denique finem. 
 hinc venient vocis dotes chordaeque sonantis 
-garrulaque &lt;in&gt; modulos diversa tibia forma    330 
+garrulaque <in> modulos diversa tibia forma    330 
 et quodcumque manu loquitur flatuque movetur. 
 ille dabit cantus inter convivia dulcis 
 mulcebitque sono Bacchum noctemque tenebit. 
@@ -437,7 +437,7 @@ nunc summum scindens pelagus nunc alta profundi    420
 et sinibus vires sumit fluctumque figurat, 
 sic, venit ex illo quisquis, volitabit in undis. 
 nunc alterna ferens in lentos bracchia tractus 
-&lt;conspicuus franget spumanti limite pontum&gt;    423a 
+<conspicuus franget spumanti limite pontum>    423a 
 et plausa resonabit aqua, nunc aequore mersas 
 diducet palmas furtiva biremis in ipso, 
 nunc in aquas rectus veniet passuque natabit 
@@ -465,7 +465,7 @@ materies tamen apta; dabit natura vigorem
 atque alacris cursus campoque volantia membra. 
   Sed regione means Cepheus umentis Aquari 
 non dabit in lusum mores. facit ora severae    450 
-frontis &lt;is&gt; ac vultus componit pondere mentis. 
+frontis <is> ac vultus componit pondere mentis. 
 pascentur curis veterumque exempla revolvent 
 semper et antiqui laudabunt verba Catonis. 
 componet teneros etiam qui nutriat annos    455 
@@ -539,7 +539,7 @@ quid potius matrona velit tractare creatos    520
 quam factum revocare suos quod possit ad usus? 
 ac, ne materies tali sub munere desit, 
 quaerere sub terris aurum furtoque latentem 
-naturam eruere &lt;omnem&gt; orbemque invertere praedae 
+naturam eruere <omnem> orbemque invertere praedae 
 imperat et glaebas inter deprendere gazam    525 
 invitamque novo tandem producere caelo. 
 ille etiam fulvas avidus numerabit harenas 
@@ -745,7 +745,7 @@ mersit et ardentis Orion aureus ignes
 signaque transgressus permutat tempora Phoebus, 
 effulget tenebris et nocte accenditur atra.    725 
 tum conferta licet caeli fulgentia templa 
-cernere seminibus &lt;minimis&gt; totumque micare 
+cernere seminibus <minimis> totumque micare 
 stipatum stellis mundum nec cedere summa    729 
 floribus aut siccae curvum per litus harenae, 
 sed, quot eant semper nascentes aequore fluctus, 

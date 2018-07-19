@@ -91,7 +91,7 @@ Cir.ver. a primo CCLXX
  
 
  
-[&#167; 4] Ego in C. Rabirio perduellionis reo XXXX annis ante me consulem interpositam senatus auctoritatem sustinui contra invidiam atque defendi. 
+[§ 4] Ego in C. Rabirio perduellionis reo XXXX annis ante me consulem interpositam senatus auctoritatem sustinui contra invidiam atque defendi. 
  
 
  
@@ -103,7 +103,7 @@ Cir. vers. a primo CCC
  
 
  
-[&#167; 6] Ego cum in contione abiens magistratu dicere a tribuno plebis prohibe rer quae constitueram, cum is mihi tantum modo iurare permitteret, sine ulla dubitatione iuravi rem p. atque hanc urbem mea unius opera esse salvam. 
+[§ 6] Ego cum in contione abiens magistratu dicere a tribuno plebis prohibe rer quae constitueram, cum is mihi tantum modo iurare permitteret, sine ulla dubitatione iuravi rem p. atque hanc urbem mea unius opera esse salvam. 
  
 
  
@@ -119,7 +119,7 @@ Dicit de ludia Compitaliciis:
  
 
  
-[&#167; 8] Quos Q. Metellus facio iniuriam fortissimo (7) viro mortuo, qui illum cuius paucos pares haec civitas tulit cum hac importuna belua conferam , sed ille designatus consul, cum quidem tr. pl. suo auxilio magistros ludos contra S.C. facere iussisset, privatus fieri vetuit. Tu cum in Kal. Ian. Compitaliorum dies incidisset, Sex. Clodium, qui numquam ante praetextatus fuisset, ludos facere et praetextatum volitare passus es. 
+[§ 8] Quos Q. Metellus facio iniuriam fortissimo (7) viro mortuo, qui illum cuius paucos pares haec civitas tulit cum hac importuna belua conferam , sed ille designatus consul, cum quidem tr. pl. suo auxilio magistros ludos contra S.C. facere iussisset, privatus fieri vetuit. Tu cum in Kal. Ian. Compitaliorum dies incidisset, Sex. Clodium, qui numquam ante praetextatus fuisset, ludos facere et praetextatum volitare passus es. 
  
 
  
@@ -131,7 +131,7 @@ L. Iulio C. Marcio consulibus quos et ipse Cicero supra memoravit senatus consul
  
 
  
-[&#167; 9] Ergo his fundamentis positis consulatus tui, triduo post, inspectante te et tacente, a fatali portento prodigioque rei publicae lex Aelia et Fufia eversa est, propugnacula murique tranquillitatis atque oti; collegia non ea solum quae senatus sustulerat restituta, sed innumerabilia quaedam ex omni faece urbis ac servitio concitata. Ab eodem homine in stupris inauditis nefariisque versato vetus illa magistra pudoris et modestiae censura sublata est. 
+[§ 9] Ergo his fundamentis positis consulatus tui, triduo post, inspectante te et tacente, a fatali portento prodigioque rei publicae lex Aelia et Fufia eversa est, propugnacula murique tranquillitatis atque oti; collegia non ea solum quae senatus sustulerat restituta, sed innumerabilia quaedam ex omni faece urbis ac servitio concitata. Ab eodem homine in stupris inauditis nefariisque versato vetus illa magistra pudoris et modestiae censura sublata est. 
  
 
  
@@ -147,7 +147,7 @@ Paulo post
  
 
  
-[&#167; 11] Persequere continentis his funeribus dies. Pro Aurelio tribunali ne conivente quidem te, quod ipsum esset scelus, sed etiam hilarioribus oculis quam solitus eras intuente, dilectus servorum habebatur ab eo qui nihil sibi umquam nec facere nec pati turpe duxit. 
+[§ 11] Persequere continentis his funeribus dies. Pro Aurelio tribunali ne conivente quidem te, quod ipsum esset scelus, sed etiam hilarioribus oculis quam solitus eras intuente, dilectus servorum habebatur ab eo qui nihil sibi umquam nec facere nec pati turpe duxit. 
  
 
  
@@ -163,7 +163,7 @@ Dicit de Castoris templo:
  
 
  
-[&#167; 23] Id autem templum sublato aditu, revolsis gradibus, a coniuratorum reliquiis atque a Catilinae praevaricatore quondam, tum ultore, armis teneretur. 
+[§ 23] Id autem templum sublato aditu, revolsis gradibus, a coniuratorum reliquiis atque a Catilinae praevaricatore quondam, tum ultore, armis teneretur. 
  
 
  
@@ -187,7 +187,7 @@ L. Lamiam a Gabinio consule edicto relegatum esse iam diximus.
  
 
  
-[&#167; 24] Seplasia me hercule, te ut primum aspexit, Campanum consulem repu diavit. 
+[§ 24] Seplasia me hercule, te ut primum aspexit, Campanum consulem repu diavit. 
  
 
  
@@ -199,7 +199,7 @@ Cir. ver. a primo DCXL
  
 
  
-[&#167; 26] Ecquod in hac urbe maius umquam incendium fuit cui non consul subveniret? At tu illo ipso tempore apud socrum tuam cuius domum ad meam exhauriendam patefeceras sedebas. 
+[§ 26] Ecquod in hac urbe maius umquam incendium fuit cui non consul subveniret? At tu illo ipso tempore apud socrum tuam cuius domum ad meam exhauriendam patefeceras sedebas. 
  
 
  
@@ -211,7 +211,7 @@ Post profectionem ex urbe Ciceronis bona eius P. Clodius publicavit; postquam di
  
 
  
-[&#167; 27] Ac ne tum quidem emersisti, lutulente Caesonine, e miserrimis naturae sordibus cum experrecta tandem virtus celeriter et verum amicum et optime meritum civem et suum pristinum morem requisivit. 
+[§ 27] Ac ne tum quidem emersisti, lutulente Caesonine, e miserrimis naturae sordibus cum experrecta tandem virtus celeriter et verum amicum et optime meritum civem et suum pristinum morem requisivit. 
  
 
  
@@ -223,7 +223,7 @@ Cir. ver. a primo DCCC
  
 
  
-[&#167; 35] De me cum omnes magistratus promulgassent praeter unum praetorem a quo non fuit postulandum, fratrem inimici mei, praeterque duos de lapide emptos tribunos, legem comitiis centuriatis tulit P. Lentulus consul. 
+[§ 35] De me cum omnes magistratus promulgassent praeter unum praetorem a quo non fuit postulandum, fratrem inimici mei, praeterque duos de lapide emptos tribunos, legem comitiis centuriatis tulit P. Lentulus consul. 
  
 
  
@@ -235,7 +235,7 @@ Cir. medium
  
 
  
-[&#167;&#167; 38. 39] Appellatus est hic volturius illius provinciae, si dis placet, imperator. Ne tum quidem, Paule noster, tabellas cum laurea Romam mittere audebas? 
+[§§ 38. 39] Appellatus est hic volturius illius provinciae, si dis placet, imperator. Ne tum quidem, Paule noster, tabellas cum laurea Romam mittere audebas? 
  
 
  
@@ -247,7 +247,7 @@ Cir. medium
  
 
  
-[&#167; 44] M. Marcellus qui ter consul fuit summa virtute, pietate, gloria militari, periit in mari: qui tamen ob virtutem in gloria et laude vivit. 
+[§ 44] M. Marcellus qui ter consul fuit summa virtute, pietate, gloria militari, periit in mari: qui tamen ob virtutem in gloria et laude vivit. 
  
 
  
@@ -259,7 +259,7 @@ Cir. ver. a nov. DCCCC
  
 
  
-[&#167; 52] Me consequentibus diebus in ea ipsa domo qua tu me expulerats, quam incenderas, (13) pontifices, consules, patres conscripti conlocarunt, mihique, quod antea nemini, pecunia publica aedificandam domum censuerunt. 
+[§ 52] Me consequentibus diebus in ea ipsa domo qua tu me expulerats, quam incenderas, (13) pontifices, consules, patres conscripti conlocarunt, mihique, quod antea nemini, pecunia publica aedificandam domum censuerunt. 
  
 
  
@@ -279,7 +279,7 @@ Cir. ver. a novis. DCCCXX
  
 
  
-[&#167; 58] O stultos Camillos, Curios, Fabricios, Calatinos, Scipiones, Marcellos, Maximos! o amentem Paulum, rusticum Marium, nullius consili patres horum amborum consulum qui triumpharunt! 
+[§ 58] O stultos Camillos, Curios, Fabricios, Calatinos, Scipiones, Marcellos, Maximos! o amentem Paulum, rusticum Marium, nullius consili patres horum amborum consulum qui triumpharunt! 
  
 
  
@@ -291,7 +291,7 @@ Cir. ver. a nov. DCLX
  
 
  
-[&#167; 62] Eadem cupiditate vir summo ingenio praeditus, C. Cotta, nullo certo hoste flagravit. Eorum neuter triumphavit, quod alteri illum honorem collega, alteri mors peremit. 
+[§ 62] Eadem cupiditate vir summo ingenio praeditus, C. Cotta, nullo certo hoste flagravit. Eorum neuter triumphavit, quod alteri illum honorem collega, alteri mors peremit. 
  
 
  
@@ -303,7 +303,7 @@ Statim
  
 
  
-[&#167; 62] Inrisa est a te paulo ante M. Pisonis cupiditas triumphandi a qua te longe dixisti abhorrere: qui etiam si minus magnum bellum gesserat, istum honorem omittendum non putavit. Tu eruditior quam Piso. 
+[§ 62] Inrisa est a te paulo ante M. Pisonis cupiditas triumphandi a qua te longe dixisti abhorrere: qui etiam si minus magnum bellum gesserat, istum honorem omittendum non putavit. Tu eruditior quam Piso. 
  
 
  
@@ -315,7 +315,7 @@ Paulo post
  
 
  
-[&#167; 65] Instant post hominum memoriam apparatissimi magnificentissimique ludi, quales non (16) modo numquam fuerunt, sed ne quo modo fieri quidem posthac possint possum ullo pacto suspicari. 
+[§ 65] Instant post hominum memoriam apparatissimi magnificentissimique ludi, quales non (16) modo numquam fuerunt, sed ne quo modo fieri quidem posthac possint possum ullo pacto suspicari. 
  
 
  
@@ -327,7 +327,7 @@ Ver. a novis. DLX
  
 
  
-[&#167; 68] Est quidam Graecus qui cum isto vivit, homo, vere ut dicam sic enim cognovi humanus, sed tam diu quam diu aut cum aliis est aut ipse secum. 
+[§ 68] Est quidam Graecus qui cum isto vivit, homo, vere ut dicam sic enim cognovi humanus, sed tam diu quam diu aut cum aliis est aut ipse secum. 
  
 
  
@@ -339,7 +339,7 @@ Cir. ver. a novis. CCCXX
  
 
  
-[&#167; 82] Quamquam, quod ad me attinet,
+[§ 82] Quamquam, quod ad me attinet,
  
 
  
@@ -355,7 +355,7 @@ Cir. ver. a novis. CC
  
 
  
-[&#167; 89] Quod populari illi sacerdoti sescentos ad bestias socios stipendiarios que misisti. 
+[§ 89] Quod populari illi sacerdoti sescentos ad bestias socios stipendiarios que misisti. 
  
 
  
@@ -367,7 +367,7 @@ Manifestum est P. Clodium significari.
  
 
  
-[&#167; 94] Ecquid vides, ecquid sentis, lege iudiciaria lata, quos posthac iudices simus habituri? 
+[§ 94] Ecquid vides, ecquid sentis, lege iudiciaria lata, quos posthac iudices simus habituri? 
  
 
  
@@ -379,7 +379,7 @@ Cir. ver. a novis. LXXXX
  
 
  
-[&#167; 95] L. Opimius eiectus patria est qui et post praeturam et consul maximis periculis rem publicam liberarat. Non in eo cui facta iniuria est sed in eis qui fecerunt sceleris et conscientiae poena permansit. 
+[§ 95] L. Opimius eiectus patria est qui et post praeturam et consul maximis periculis rem publicam liberarat. Non in eo cui facta iniuria est sed in eis qui fecerunt sceleris et conscientiae poena permansit. 
  
 
  
@@ -425,7 +425,7 @@ Circa ver. a prim. XXXX
  
 
  
-[I.&#167;1] Cum enumerat iudicia quae pater Scauri expertus est: 
+[I.§1] Cum enumerat iudicia quae pater Scauri expertus est: 
  
 
  
@@ -441,7 +441,7 @@ Ibidem
  
 
  
-[&#167; 2] Reus est factus a Q. Servilio Caepione lege Servilia, cum iudicia penes equestrem ordinem essent et P. Rutilio damnato nemo tam innocens videretur ut non timeret illa. 
+[§ 2] Reus est factus a Q. Servilio Caepione lege Servilia, cum iudicia penes equestrem ordinem essent et P. Rutilio damnato nemo tam innocens videretur ut non timeret illa. 
  
 
  
@@ -457,7 +457,7 @@ Scaurus tanta fuit continentia animi et magnitudine ut Caepionem contra reum det
  
 
  
-[&#167; 3] Ab eodem etiam lege Varia custos ille rei publicae proditionis est in crimen vocatus: vexatus a Q. Vario tribuno plebis est. 
+[§ 3] Ab eodem etiam lege Varia custos ille rei publicae proditionis est in crimen vocatus: vexatus a Q. Vario tribuno plebis est. 
  
 
  
@@ -477,7 +477,7 @@ Dicit iterum de patre M. Scauri:
  
 
  
-[&#167; 4] Non enim tantum admiratus sum ego illum virum, sicut omnes, sed etiam praecipue dilexi. Primus enim me flagrantem studio laudis in spem impulit posse virtute me sine praesidio fortunae quo contendissem labore et constantia pervenire .
+[§ 4] Non enim tantum admiratus sum ego illum virum, sicut omnes, sed etiam praecipue dilexi. Primus enim me flagrantem studio laudis in spem impulit posse virtute me sine praesidio fortunae quo contendissem labore et constantia pervenire .
  
 
  
@@ -485,7 +485,7 @@ Dicit iterum de patre M. Scauri:
  
 
  
-[&#167; 5] Si, me hercule, iudices, pro L. Tubulo dicerem quem unum ex omni memoria sceleratissimum et audacissimum fuisse accepimus, tamen non timerem, venenum hospiti aut convivae si diceretur cenanti ab illo datum cui neque heres neque iratus fuisset. 
+[§ 5] Si, me hercule, iudices, pro L. Tubulo dicerem quem unum ex omni memoria sceleratissimum et audacissimum fuisse accepimus, tamen non timerem, venenum hospiti aut convivae si diceretur cenanti ab illo datum cui neque heres neque iratus fuisset. 
  
 
  
@@ -497,7 +497,7 @@ Circa tertiam partem a primo
  
 
  
-[II &#167; 1] Illa audivimus: hoc vero meminimus ac paene vidimus, eiusdem stirpis et nominis P. Crassum, ne in manus incideret inimicorum, se ipsum interemisse. 
+[II § 1] Illa audivimus: hoc vero meminimus ac paene vidimus, eiusdem stirpis et nominis P. Crassum, ne in manus incideret inimicorum, se ipsum interemisse. 
  
 
  
@@ -509,7 +509,7 @@ Hic Crassus fuit pater Crassi eius qui aemulus potentiae Cn. Pompeii fuit. Perii
  
 
  
-[&#167; 2] Ac neque illius Crassi factum superioris isdem honoribus usus, qui fortissimus in bellis fuisset, M&#180;. Aquilius potuit imitari. 
+[§ 2] Ac neque illius Crassi factum superioris isdem honoribus usus, qui fortissimus in bellis fuisset, M´. Aquilius potuit imitari. 
  
 
  
@@ -521,7 +521,7 @@ Paulo post
  
 
  
-[&#167; 2] Quid vero alterum Crassum temporibus isdem num aut clarissimi viri Iulii aut summo ingenio praeditus M. Antonius potuit imitari? 
+[§ 2] Quid vero alterum Crassum temporibus isdem num aut clarissimi viri Iulii aut summo ingenio praeditus M. Antonius potuit imitari? 
  
 
  
@@ -533,7 +533,7 @@ Cir. medium
  
 
  
-[&#167; 33 sQ. ] Neque vero haec ipsa cotidiana res Appium Claudium illa humani tate et sapientia praeditum per se ipsa movisset, nisi hunc C. Claudi fratris sui competitorem fore putasset. Qui sive patricius sive plebeius esset nondum enim certum constitutum erat cum illo sibi contentionem fore putabat. 
+[§ 33 sQ. ] Neque vero haec ipsa cotidiana res Appium Claudium illa humani tate et sapientia praeditum per se ipsa movisset, nisi hunc C. Claudi fratris sui competitorem fore putasset. Qui sive patricius sive plebeius esset nondum enim certum constitutum erat cum illo sibi contentionem fore putabat. 
  
 
  
@@ -549,7 +549,7 @@ Dicit dein de Scauro quem defendit:
  
 
  
-[&#167; 45] Nam cum ex multis unus ei restaret Dolabella paternus inimicus qui cum Q. Caepione propinquo suo contra Scaurum patrem suum subsignaverat: eas sibi inimicitias non susceptas sed relictas et cetera. 
+[§ 45] Nam cum ex multis unus ei restaret Dolabella paternus inimicus qui cum Q. Caepione propinquo suo contra Scaurum patrem suum subsignaverat: eas sibi inimicitias non susceptas sed relictas et cetera. 
  
 
  
@@ -565,7 +565,7 @@ Quo loco defendit, quod tam magnificam domum Scaurus habet:
  
 
  
-[&#167; 45] Praesertim cum propinquitas et celebritas loci suspicionem desidiae tollat aut cupiditatis. 
+[§ 45] Praesertim cum propinquitas et celebritas loci suspicionem desidiae tollat aut cupiditatis. 
  
 
  
@@ -577,7 +577,7 @@ Ver. a nov. ***
  
 
  
-[&#167; 45] Haec cum tu effugere non potuisses, contendes tamen et postulabis ut M. Aemilius cum sua dignitate omni, cum patris memoria, cum avi gloria, sordidissimae, vanissimae, levissimae genti ac prope dicam pellitis testibus condonetur? 
+[§ 45] Haec cum tu effugere non potuisses, contendes tamen et postulabis ut M. Aemilius cum sua dignitate omni, cum patris memoria, cum avi gloria, sordidissimae, vanissimae, levissimae genti ac prope dicam pellitis testibus condonetur? 
  
 
  
@@ -589,7 +589,7 @@ Ver. a. novis. CLX
  
 
  
-[&#167; 46] Undique mihi suppeditat quod pro M. Scauro dicam, quocumque non modo mens verum etiam oculi inciderunt. Curia illa vos de gravissimo (28) principatu patris fortissimoque testatur; L. ipse Metellus, avus huius, sanctis simos deos illo constituisse templo videtur in vestro conspectu, iudices, ut salutem a vobis nepotis sui deprecarentur. 
+[§ 46] Undique mihi suppeditat quod pro M. Scauro dicam, quocumque non modo mens verum etiam oculi inciderunt. Curia illa vos de gravissimo (28) principatu patris fortissimoque testatur; L. ipse Metellus, avus huius, sanctis simos deos illo constituisse templo videtur in vestro conspectu, iudices, ut salutem a vobis nepotis sui deprecarentur. 
  
 
  
@@ -597,7 +597,7 @@ Castoris et Pollucis templum Metellus quem nominat refecerat.
  
 
  
-Laudaverunt Scaurum consulares novem, L. Piso, L. Volcacius, Q. Metellus Nepos, M. Perpenna, L. Philippus, M. Cicero, Q. Hortensius, P. Servilius Isauricus pater, Cn. Pompeius Magnus. Horum magna pars per tabellas laudaverunt quia aberant: inter quos Pompeius quoque; nam quod erat pro cos. extra urbem morabatur. Unus praeterea adulescens laudavit, frater eius, Faustus Cornelius Sullae filius. Is in laudatione multa humiliter et cum lacrimis locutus non minus audientes permovit quam Scaurus ipse permoverat. Ad genua iudicum, cum sententiae ferrentur, bifariam se diviserunt qui pro eo rogabant: ab uno latere Scaurus ipse et M&#180;.Glabrio, sororis filius, et L. Paulus et P. Lentulus, Lentuli Nigri flaminis filius, et L. Aemilius Buca filius et C. Memmius, Fausta natus, supplicaverunt; ex altera parte Sulla Faustus, frater Scauri, et T.Annius Milo, cui Fausta ante paucos menses nupserat dimissa a Memmio, et C. Peducaeus et C. Cato et M. Laenas Curtianus.
+Laudaverunt Scaurum consulares novem, L. Piso, L. Volcacius, Q. Metellus Nepos, M. Perpenna, L. Philippus, M. Cicero, Q. Hortensius, P. Servilius Isauricus pater, Cn. Pompeius Magnus. Horum magna pars per tabellas laudaverunt quia aberant: inter quos Pompeius quoque; nam quod erat pro cos. extra urbem morabatur. Unus praeterea adulescens laudavit, frater eius, Faustus Cornelius Sullae filius. Is in laudatione multa humiliter et cum lacrimis locutus non minus audientes permovit quam Scaurus ipse permoverat. Ad genua iudicum, cum sententiae ferrentur, bifariam se diviserunt qui pro eo rogabant: ab uno latere Scaurus ipse et M´.Glabrio, sororis filius, et L. Paulus et P. Lentulus, Lentuli Nigri flaminis filius, et L. Aemilius Buca filius et C. Memmius, Fausta natus, supplicaverunt; ex altera parte Sulla Faustus, frater Scauri, et T.Annius Milo, cui Fausta ante paucos menses nupserat dimissa a Memmio, et C. Peducaeus et C. Cato et M. Laenas Curtianus.
  
 
  
@@ -756,7 +756,7 @@ Vers. a primo L
  
 
  
-[&#167; 3] Unum genus est adversum infestumque nobis et cetera. 
+[§ 3] Unum genus est adversum infestumque nobis et cetera. 
  
 
  
@@ -768,7 +768,7 @@ Ver. a primo CC
  
 
  
-[&#167; 12] Declarant huius ambusti tribuni plebis illae intermortuae contiones quibus cotidie meam potentiam invidiose criminabatur. 
+[§ 12] Declarant huius ambusti tribuni plebis illae intermortuae contiones quibus cotidie meam potentiam invidiose criminabatur. 
  
 
  
@@ -780,7 +780,7 @@ Paulo post
  
 
  
-[&#167; 13] Cur igitur incendium curiae, oppugnationem (43) aedium M. Lepidi, caedem hanc ipsam contra rem publicam senatus factam esse decrevit? 
+[§ 13] Cur igitur incendium curiae, oppugnationem (43) aedium M. Lepidi, caedem hanc ipsam contra rem publicam senatus factam esse decrevit? 
  
 
  
@@ -792,7 +792,7 @@ Paulo post
  
 
  
-[&#167; 14] Quod si per furiosum illum tribunum pl. senatui quod sentiebat perfice re licuisset, novam quaestionem nullam haberemus. Decernebat enim ut veteribus legibus, tantum modo extra ordinem, quaereretur. Divisa sententia est postulante nescio quo. Si reliqua auctoritas senatus empta intercessione sublata est. 
+[§ 14] Quod si per furiosum illum tribunum pl. senatui quod sentiebat perfice re licuisset, novam quaestionem nullam haberemus. Decernebat enim ut veteribus legibus, tantum modo extra ordinem, quaereretur. Divisa sententia est postulante nescio quo. Si reliqua auctoritas senatus empta intercessione sublata est. 
  
 
  
@@ -816,7 +816,7 @@ De L. Domitio dicit:
  
 
  
-[&#167; 22] Dederas enim quam contemneres populares insanias iam ab adulescen tia documenta maxima. 
+[§ 22] Dederas enim quam contemneres populares insanias iam ab adulescen tia documenta maxima. 
  
 
  
@@ -824,7 +824,7 @@ Constantiam L. Domiti quam in quaestura praestitit significat. Nam eo tempore cu
  
 
  
-[&#167; 32] Itaque illud Cassianum indicium in his personis valeat. 
+[§ 32] Itaque illud Cassianum indicium in his personis valeat. 
  
 
  
@@ -836,7 +836,7 @@ Ob quam severitatem, quo tempore Sex.Peducaeus tribunus plebis criminatus est L.
  
 
  
-[&#167; 33] Et aspexit me illis quidem oculis quibus tunc solebat cum omnibus omnia minabatur. Movet me quippe lumen curiae! 
+[§ 33] Et aspexit me illis quidem oculis quibus tunc solebat cum omnibus omnia minabatur. Movet me quippe lumen curiae! 
  
 
  
@@ -844,7 +844,7 @@ Hic est Sex.Clodius quem in argumento huius orationis diximus corpus Clodi in cu
  
 
  
-[&#167; 37] Quando illius postea sica illa quam a Catilina acceperat conquievit? Haec intenta nobis est, huic ego obici vos pro me passus non sum, haec insidiata Pompeio est. 
+[§ 37] Quando illius postea sica illa quam a Catilina acceperat conquievit? Haec intenta nobis est, huic ego obici vos pro me passus non sum, haec insidiata Pompeio est. 
  
 
  
@@ -888,7 +888,7 @@ Quo die periculum hoc adierit, ut Clodius eum ad Regiam paene confecerit, nusqua
  
 
  
-[&#167; 38] Potuitne L. Caecili, iustissimi fortissimique praetoris, obpugnata domo? 
+[§ 38] Potuitne L. Caecili, iustissimi fortissimique praetoris, obpugnata domo? 
  
 
  
@@ -900,7 +900,7 @@ L. Caecilius Rufus de quo dicitur fuit praetor P. Lentulo Spinthere Q. Metello N
  
 
  
-[&#167; 45] At quo die? quo, ut ante dixi, fuit insanissima contio ab ipsius mercen nario tribuno plebis concitata. 
+[§ 45] At quo die? quo, ut ante dixi, fuit insanissima contio ab ipsius mercen nario tribuno plebis concitata. 
  
 
  
@@ -908,7 +908,7 @@ Hoc significat eo die quo Clodius occisus est contionatum esse mercennarium eius
  
 
  
-[&#167; 46] Dixit C. Causinius Schola Interamnanus, familiarissimus et idem comes Clodi, P. Clodium illo die in Albano mansurum fuisse. 
+[§ 46] Dixit C. Causinius Schola Interamnanus, familiarissimus et idem comes Clodi, P. Clodium illo die in Albano mansurum fuisse. 
  
 
  
@@ -920,7 +920,7 @@ Paulo post
  
 
  
-[&#167; 47] Scitis, iudices, fuisse qui in hac rogatione suadenda diceret Milonis manu caedem esse factam, consilio vero maioris alicuius. Me videlicet latronem et sicarium abiecti homines ac perditi describebant. 
+[§ 47] Scitis, iudices, fuisse qui in hac rogatione suadenda diceret Milonis manu caedem esse factam, consilio vero maioris alicuius. Me videlicet latronem et sicarium abiecti homines ac perditi describebant. 
  
 
  
@@ -928,7 +928,7 @@ Q. Pompeius Rufus et C. Sallustius tribuni fuerunt quos significat. Hi enim prim
  
 
  
-[&#167; 49] Atqui ut illi nocturnus adventus vitandus fuit, sic Miloni, cum insi diator esset, si illum ad urbem noctu accessurum sciebat, subsidendum et cetera. 
+[§ 49] Atqui ut illi nocturnus adventus vitandus fuit, sic Miloni, cum insi diator esset, si illum ad urbem noctu accessurum sciebat, subsidendum et cetera. 
  
 
  
@@ -936,7 +936,7 @@ Via Appia est prope urbem monumentum Basili qui locus latrociniis fuit perquam i
  
 
  
-[&#167; 55] Comites Graeculi quocumque ibat, etiam cum in castra Etrusca prope rabat. 
+[§ 55] Comites Graeculi quocumque ibat, etiam cum in castra Etrusca prope rabat. 
  
 
  
@@ -944,7 +944,7 @@ Saepe obiecit Clodio Cicero socium eum coniurationis Catilinae fuisse; quam rem 
  
 
  
-[&#167; 67] Non iam hoc Clodianum crimen timemus, sed tuas, Cn. Pompei te enim appello, et ea voce ut me exaudire possis tuas, inquam, suspiciones perhorrescimus. 
+[§ 67] Non iam hoc Clodianum crimen timemus, sed tuas, Cn. Pompei te enim appello, et ea voce ut me exaudire possis tuas, inquam, suspiciones perhorrescimus. 
  
 
  
@@ -964,7 +964,7 @@ In eadem contione idem dixerat habuit enim eam a. d. VIII Kal. Febr. cum Milo pr
  
 
  
-[&#167; 71] Quid enim minus illo dignum quam cogere ut vos eum condemnetis in quem animadvertere ipse et more maiorum et suo iure posset? sed praesidio esse et cetera. 
+[§ 71] Quid enim minus illo dignum quam cogere ut vos eum condemnetis in quem animadvertere ipse et more maiorum et suo iure posset? sed praesidio esse et cetera. 
  
 
  
@@ -972,7 +972,7 @@ Idem T.Munatius Plancus, ut saepe diximus, post audita et obsignata testium verb
  
 
  
-[&#167; 87] Incidebantur iam domi leges quae nos servis nostris addicerent. 
+[§ 87] Incidebantur iam domi leges quae nos servis nostris addicerent. 
  
 
  
@@ -980,7 +980,7 @@ Significasse iam puto nos fuisse inter leges P. Clodi quas ferre proposuerat eam
  
 
  
-[&#167; 88] Senatus, credo, praetorem eum circumscripsisset. Ne cum solebat quidem id facere, in privato eodem hoc aliquid profecerat. 
+[§ 88] Senatus, credo, praetorem eum circumscripsisset. Ne cum solebat quidem id facere, in privato eodem hoc aliquid profecerat. 
  
 
  
@@ -996,7 +996,7 @@ Quo loco inducit loquentem Milonem cum bonarum partium hominibus de meritis suis
  
 
  
-[&#167; 95] Plebem et infimam multitudinem, quae P. Clodio duce fortunis vestris imminebat, eam, quo tutior esset vestra vita, se fecisse commemorat ut non modo virtute flecteret, sed etiam tribus suis patrimoniis deleniret. 
+[§ 95] Plebem et infimam multitudinem, quae P. Clodio duce fortunis vestris imminebat, eam, quo tutior esset vestra vita, se fecisse commemorat ut non modo virtute flecteret, sed etiam tribus suis patrimoniis deleniret. 
  
 
  

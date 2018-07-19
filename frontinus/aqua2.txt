@@ -239,15 +239,15 @@ quattuordecim milium decem et octo, ita ut quinariae DCCLXXI, quae ex quibusdam
 aquis in adiutorium aliarum dantur et bis in speciem erogationis cadunt,
 semel in computationem veniant. Ex his dividuntur extra urbem quinariae
 quattuor milia sexaginta tres: ex quibus nomine Caesaris quinariae mille
-septingentae decem et octo, privatis quinariae &sect; &sect; CCCXXXXV.
+septingentae decem et octo, privatis quinariae § § CCCXXXXV.
 Reliquae intra urbem VIIII milia nongentae quinquaginta quinque distribuebantur
 in castella ducenta quadraginta septem: ex quibus erogabantur sub nomine
 Caesaris quinariae mille septingentae septem semis, privatis quinariae
 tria milia octingentae quadraginta septem, usibus publicis quinariae quattuor
 milia quadringentae una: ex eo castris ducentinarie quinariae ducentae
 septuaginta novem, operibus publicis septuaginta quinque quinariae 
-&sect; &sect; CCCI, muneribus triginta novem quinariae CCCLXXXVI,
-lacibus quingentis nonaginta uni quinariae &sect; trecentae
+§ § CCCI, muneribus triginta novem quinariae CCCLXXXVI,
+lacibus quingentis nonaginta uni quinariae § trecentae
 triginta quinque. Sed et haec ipsa dispensatio per nomina aquarum et regiones
 urbis partienda est.
  
@@ -314,10 +314,10 @@ septem, lacibus viginti octo quinariae sexaginta quinque.
 urbem quinariae ducentae. Reliquae quinariae duo milia trecentae quattuor
 intra urbem dividebantur per regiones septimam nonam quartamdecimam in
 castella decem et octo: ex quibus nomine Caesaris quinariae quingentae
-novem, privatis quinariae CCCXXXVIII, usibus publicis &sect; 
+novem, privatis quinariae CCCXXXVIII, usibus publicis § 
 centum sexaginta septem: ex eo muneribus II quinariae XXVI, lacibus viginti
 quinque quinariae quinquaginta una, operibus publicis sedecim quinariae 
-&sect; CCCLXXX, in quibus per se Euripo, cui ipsa nomen dedit, quinariae
+§ CCCLXXX, in quibus per se Euripo, cui ipsa nomen dedit, quinariae
 CCCCLX.
  
 
@@ -335,7 +335,7 @@ quinarias CCCCXXX novem; Anio Novus nomine Caesaris quinarias septingentas
 viginti octo. Reliquae utriusque quinariae tria milia quadringentae nonaginta
 octo intra urbem dividebantur per regiones urbis XIIII in castella nonaginta
 duo; ex quibus nomine Caesaris quinariae octingentae XV V, privatis quinariae 
-&sect; sexaginta septem, usibus publicis quinariae &sect; 
+§ sexaginta septem, usibus publicis quinariae § 
 XIV: ex eo castris novem quinariae centum quadraginta novem, operibus publicis
 decem et octo quinariae CCCLXXIIII, muneribus XII quinariae centum septem,
 lacibus CC viginti sex quinariae CCCCXXCII.
@@ -919,8 +919,8 @@ non negaverim dignos poena quae intenditur, sed neglegentia longi temporis
 deceptos leniter revocari oportuit. Itaque sedulo laboravimus ut quantum
 in nobis fuit, etiam ignorarentur qui erraverant. Eis vero qui admoniti
 ad indulgentiam imperatoris decucurrerunt, possumus videri causa impetrati
-beneficii fuisse. In reliquo&lt;m&gt; vero opto ne exsecutio legis necessaria
-sit, cum officii fidem etiam per offensas tueri praestit&lt;er&gt;it.
+beneficii fuisse. In reliquo<m> vero opto ne exsecutio legis necessaria
+sit, cum officii fidem etiam per offensas tueri praestit<er>it.
  
  
 	 

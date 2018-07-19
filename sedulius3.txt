@@ -188,12 +188,12 @@ In reliquum doctrina fluens decurreret aevum:
 Qualiter ex uno paradisi fonte leguntur 
 Quatuor ingentes procedere cursibus amnes, 
 Ex quibus in totum sparguntur flumina mundum.      175 
-&lt;Quisquis enim deitatis opus, quod non habet ex se 
+<Quisquis enim deitatis opus, quod non habet ex se 
 Sed Domino tradente gerit, sub nomine puro 
 Suscipiet, puro dispenset munere, possit 
 Ut dispensator non ut mercator haberi 
 Davidisque modis vitam cantare futuram:      180 
-Intrabo in Domini requiem, quia nescio mercem.&gt; 
+Intrabo in Domini requiem, quia nescio mercem.> 
   Exin conspicuam synagogae ingressus in aulam, 
 Aspicit invalidum, dimenso corpore mancum, 
 Seminecem membris, non totum vivere, cuius 

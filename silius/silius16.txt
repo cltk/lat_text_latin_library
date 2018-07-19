@@ -53,12 +53,12 @@ barbara, et indigenas serus raptabat Hiberos.
 non ars aut astus belli uel dextera deerat, 
 si non Scipiadae concurreret. omnia ductor 
 magna adeo Ausonius maiori mole premebat: 
-ut Phoebe stellas, ut fratri&lt;s> lumina Phoeben    
+ut Phoebe stellas, ut fratri<s> lumina Phoeben    
 35 
 exuperant montisque Atlas et flumina Nilus, 
 ut pater Oceanus Neptunia caerula uincit. 
 uallantem castra (obscuro nam uesper Olympo 
-fundere non aequam trepidanti coeperat umbra&lt;m>) 
+fundere non aequam trepidanti coeperat umbra<m>) 
 adgreditur Latius rector, subitoque tumultu    
 40 
 caeduntur passim coepti munimina ualli 
@@ -163,7 +163,7 @@ festinant gelidis restinguere fontibus ignis;
 at grandaeua deum praenoscens omina mater 
 'Sic, sic, caelicolae, portentaque uestra secundi    
 125 
-condite:' ait 'dure&lt;t> capiti per saecula lumen. 
+condite:' ait 'dure<t> capiti per saecula lumen. 
 ne uero, ne, nate, deum tam laeta pauesce 
 prodigia aut sacras metue inter tempora flammas. 
 hic tibi Dardaniae promittit foedera gentis, 
@@ -217,7 +217,7 @@ exin firmato sociali foedere regis
 uertendas agitat iam nunc Carthaginis arces. 
   Massylis regnator erat ditissimus oris    
 170 
-nec nudus uirtute Syphax, que&lt;m> iura petebant 
+nec nudus uirtute Syphax, que<m> iura petebant 
 innumerae gentes extremaque litore Tethys. 
 multa uiro terra ac sonipes et belua, terror 
 bellorum, nec non Marti delecta iuuentus. 
@@ -399,7 +399,7 @@ pronique ac similes certantibus ore secuntur
 320 
 quisque suos currus magnaque uolantibus idem 
 uoce locuntur equis. quatitur certamine circus 
-&lt;s>pectantum, ac nulli mentem non abstulit ardor: 
+<s>pectantum, ac nulli mentem non abstulit ardor: 
 instant praeceptis et equos clamore gubernant. 
 fuluus, harenosa surgens tellure, sub auras    
 325 
@@ -818,7 +818,7 @@ experta, et robur florentibus auximus annis.
 ne uero fabricate moras, sed currere sortem    
 670 
 hanc sinite ad ueterum delenda opprobria cladum 
-quam mihi serua&lt;ue>re dei. sat gloria cauto 
+quam mihi serua<ue>re dei. sat gloria cauto 
 non uinci pulchra est Fabio, peperitque sedendo 
 omnia Cunctator. nobis nec Mago nec Hannon 
 nec Gisgone satus nec Hamilcare terga dedisset,    

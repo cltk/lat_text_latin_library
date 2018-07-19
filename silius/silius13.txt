@@ -60,7 +60,7 @@ cessurum aut Ledae rediturum nomen Amyclas.
 quippe deis uisum, ne cui perrumpere detur    45 
  effigies ea quas umquam possederit urbes. 
 tum meus adiuncto monstratam euadit in arcem 
-Tydides Ithaco et dextra &lt;a&gt;molitus in ipso 
+Tydides Ithaco et dextra <a>molitus in ipso 
 custodes aditu templi caeleste reportat 
 Palladium ac nostris aperit mala Pergama fatis.    50 
  nam postquam Oenotris fundauit finibus urbem, 
@@ -151,7 +151,7 @@ exceptam laeto iuuenum certamine ductor    135
  mactat, diua, tibi (tibi enim haec gratissima sacra) 
 Fuluius atque 'Adsis,' orat 'Latonia, coeptis.' 
 inde alacer fidensque dea circumdata clausis 
-arma mouet, quaque obliquo curuantur in or&lt;b&gt;e&lt;m&gt; 
+arma mouet, quaque obliquo curuantur in or<b>e<m> 
 moenia flexa sinu, spissa uallata corona    140 
  alligat et telis in morem indaginis ambit. 
  Dum pauitant, spumantis equi fera corda fatigans 
@@ -160,13 +160,13 @@ bellator, cui Sidonius superare lacerto
 ductor et Autololas dabat et Maurusia tela.    145 
  is trepido ac lituum tinnitu stare neganti 
 imperitans uiolenter equo, postquam auribus hostis 
-uicinum sese uidet et clamare propincu&lt;m&gt;, 
+uicinum sese uidet et clamare propincu<m>, 
 'Claudius huic' inquit (praestabat Claudius arte 
 bellandi et merita mille inter proelia fama)    150 
  'huic' inquit 'solum, si qua est fiducia dextrae, 
 det sese campo atque ineat certamina mecum.' 
  Vna mora Aeneadae, postquam uox attigit auris, 
-dum daret auspicium &lt;i&gt;usque in certamina ductor: 
+dum daret auspicium <i>usque in certamina ductor: 
 praeuetitum namque et capital committere Martem    155 
  sponte uiris. erumpit ouans, ut Fuluius arma 
 imperio soluit, patulumque inuectus in aequor 
@@ -175,11 +175,11 @@ indignatus opem ammenti socioque iuuare
 expulsum nodo iaculum atque accersere uires    160 
  Taurea uibrabat nudis conatibus hastam: 
 inde ruens ira telum contorquet in auras. 
-at non idem animus Rutulo: spec&lt;u&gt;latur et omni 
+at non idem animus Rutulo: spec<u>latur et omni 
 corpore perlustrat qua sit certissima ferro 
 in uulnus uia, nunc uibrat, nunc comprimit hastam    165 
  mentiturque minas. mediam tunc transiit ictu 
-parmam, sed grato f&lt;r&gt;audata est sanguine cuspis. 
+parmam, sed grato f<r>audata est sanguine cuspis. 
 tum strictum propere uagina detegit ensem. 
 et iam ferrata rapiebat calce uolantem 
 Taurea cornipedem fugiens minitantia fata.    170 
@@ -416,7 +416,7 @@ noscere uenturos agitat mens protinus annos.
  Autonoe tripodas sacros antrumque tenebat, 
 fert gressus iuuenis consultaque pectoris aegri 
 pandit et aspectus orat contingere patrum. 
-nec cuncta&lt;ta&gt; diu uates 'Mactare repostis 
+nec cuncta<ta> diu uates 'Mactare repostis 
 mos umbris' inquit 'consueta piacula nigras    405 
  sub lucem pecudes reclusaeque abdere terrae 
 manantem iugulis spirantum caede cruorem. 
@@ -653,7 +653,7 @@ sola die caperem medio cum forte petitos
 ad requiem somnos, subitus mihi membra ligauit 
 amplexus, non ille meo ueniente marito 
 adsuetus facilisque mihi. tum luce corusca,    640 
- implebat quamquam languentia lumina somnu&lt;s&gt;, 
+ implebat quamquam languentia lumina somnu<s>, 
 uidi, crede, Iouem. nec me mutata fefellit 
 forma dei, quod squalentem conuersus in anguem 
 ingenti traxit curuata uolumina gyro. 
@@ -769,7 +769,7 @@ poscenti dederint populo primique petitas
 miscuerint Italis Piraeo litore leges. 
 laetatur spectatque uirum insatiabilis ora    755 
  Scipio et appellet cunctos, ni magna sacerdos 
-admoneat turbae innumera&lt;e&gt;: 'Quot milia toto 
+admoneat turbae innumera<e>: 'Quot milia toto 
 credis in orbe, puer, lustras dum singula uisu, 
 descendisse Erebo? nullo non tempore abundans 
 umbrarum huc agitur torrens, uectatque capaci    760 
@@ -810,7 +810,7 @@ hic caneret uates, quanto maiora futuros
 facta eadem intrarent hoc' inquit 'teste nepotes!    795 
  felix Aeacide, cui tali contigit ore 
 gentibus ostendi, creuit tua carmine uirtus.' 
- Sed, quae tanta adeo gras&lt;s&gt;antum turba, requirens, 
+ Sed, quae tanta adeo gras<s>antum turba, requirens, 
 heroum effigies maiorisque accipit umbras. 
 inuicto stupet Aeacide, stupet Hectore magno    800 
  Aiacisque gradum uenerandaque Nestoris ora 

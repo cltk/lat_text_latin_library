@@ -17,12 +17,12 @@ I
  
 
  
-Parue&#151;nec inuideo&#151;sine me, liber, ibis in urbem: 
+Parue—nec inuideo—sine me, liber, ibis in urbem: 
   ei mihi, quod domino non licet ire tuo! 
 uade, sed incultus, qualem decet exulis esse; 
   infelix habitum temporis huius habe. 
-nec te purpureo uelent uaccinia fuco&#151; 
-  non est conueniens luctibus ille color&#151; 
+nec te purpureo uelent uaccinia fuco— 
+  non est conueniens luctibus ille color— 
 nec titulus minio, nec cedro charta notetur, 
   candida nec nigra cornua fronte geras. 
 felices ornent haec instrumenta libellos: 
@@ -118,7 +118,7 @@ luce bona dominoque tuo felicior ipse
 namque ea uel nemo, uel qui mihi uulnera fecit 
   solus Achilleo tollere more potest. 
 tantum ne noceas, dum uis prodesse, uideto -- 
-  nam spes est animi nostra timore minor&#151; 
+  nam spes est animi nostra timore minor— 
 quaeque quiescebat, ne mota resaeuiat ira 
   et poenae tu sis altera causa, caue! 
 cum tamen in nostrum fueris penetrale receptus, 
@@ -155,7 +155,7 @@ II
  
 
  
-Di maris et caeli&#151;quid enim nisi uota supersunt?&#151; 
+Di maris et caeli—quid enim nisi uota supersunt?— 
   soluere quassatae parcite membra ratis, 
 neue, precor, magni subscribite Caesaris irae: 
   saepe premente deo fert deus alter opem. 
@@ -245,7 +245,7 @@ seu me diligitis, tantos conpescite fluctus,
   pronaque sint nostrae numina uestra rati; 
 seu magis odistis, iussae me aduertite terrae: 
   supplicii pars est in regione mei. 
-ferte&#151;quid hic facio?&#151;rapidi mea carbasa uenti! 
+ferte—quid hic facio?—rapidi mea carbasa uenti! 
   Ausonios fines cur mea uela uolunt? 
 noluit hoc Caesar: quid, quem fugat ille, tenetis? 
   aspiciat uultus Pontica terra meos. 
@@ -258,7 +258,7 @@ immo ita, si scitis, si me meus abstulit error,
 quod licet et minimis, domui si fauimus illi, 
   si satis Augusti publica iussa mihi, 
 hoc duce si dixi felicia saecula, proque 
-  Caesare tura pius Caesaribusque dedi,&#151; 
+  Caesare tura pius Caesaribusque dedi,— 
 si fuit hic animus nobis, ita parcite diui! 
   si minus, alta cadens obruat unda caput! 
 fallor, an incipiunt grauidae uanescere nubes, 
@@ -693,7 +693,7 @@ saeua neque admiror metuunt si fulmina, quorum
   ignibus adflari proxima quaeque solent. 
 sed tamen in duris remanentem rebus amicum 
   quamlibet inuiso Caesar in hoste probat, 
-nec solet irasci&#151;neque enim moderatior alter&#151; 
+nec solet irasci—neque enim moderatior alter— 
   cum quis in aduersis, siquid amauit, amat. 
 de comite Argolici postquam cognouit Orestae, 
   narratur Pyladen ipse probasse Thoas. 

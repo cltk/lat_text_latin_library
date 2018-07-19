@@ -170,8 +170,8 @@ Idem te moriens heredem ex asse reliquit:    5
 
  
 Si tua Thais nec lusca est, Quinte, puella, 
-  cur in te factum distichon esse putas? &#139; 
-Sed simile est aliquid. &#139; Pro Laide Thaida dixi? 
+  cur in te factum distichon esse putas? ‹ 
+Sed simile est aliquid. ‹ Pro Laide Thaida dixi? 
   Dic mihi, quid simile est Thais et Hermione? 
 Tu tamen es Quintus: mutemus nomen amantis:    5 
   si non uolt Quintus, Thaida Sextus amet.
@@ -399,7 +399,7 @@ Praedia solus habes et solus, Candide, nummos,
   aurea solus habes, murrina solus habes, 
 Massica solus habes et Opimi Caecuba solus, 
   et cor solus habes, solus et ingenium. 
-Omnia solus habes &#139; nec me puta uelle negare &#139;    5 
+Omnia solus habes ‹ nec me puta uelle negare ‹    5 
   uxorem sed habes, Candide, cum populo.
  
 
@@ -557,8 +557,8 @@ Quae te causa trahit uel quae fiducia Romam,
   Sexte? Quid aut speras aut petis inde? Refer. 
 "Causas" inquis "agam Cicerone disertior ipso 
   atque erit in triplici par mihi nemo foro." 
-Egit Atestinus causas et Ciuis &#139; utrumque    5 
-  noras &#139;; sed neutri pensio tota fuit. 
+Egit Atestinus causas et Ciuis ‹ utrumque    5 
+  noras ‹; sed neutri pensio tota fuit. 
 "Si nihil hinc ueniet, pangentur carmina nobis: 
   audieris, dices esse Maronis opus." 
 Insanis: omnes gelidis quicumque lacernis 
@@ -1344,8 +1344,8 @@ Stulte, quid egisti? Nihil hic tibi perdidit uxor,
  
 Ne legeres partem lasciui, casta, libelli, 
   praedixi et monui: tu tamen, ecce, legis. 
-Sed si Panniculum spectas et, casta, Latinum, &#139; 
-  non sunt haec mimis inprobiora, &#139; lege.
+Sed si Panniculum spectas et, casta, Latinum, ‹ 
+  non sunt haec mimis inprobiora, ‹ lege.
  
 
  

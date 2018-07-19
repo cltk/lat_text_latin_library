@@ -231,7 +231,7 @@ Sidonius Desiderato suo salutem.
  
 
  
-1. Maestissimus haec tibi nuntio. decessit nudius tertius non absque iustitio matrona Filimatia, morigera coniunx domina clemens, utilis mater pia filia, cui debuerit domi forisque persona minor obsequium, maior officium, aequalis affectum. haec cum esset unica iam diu matris amissae &lt;filia&gt;, facile diversis blandimentorum generibus effecerat, ne patri adhuc iuveni soboles sexus alterius desideraretur. nunc autem per subita suprema virium caelibatu, patrem orbitate confodit. his additur, quod quinque liberorum parens immaturo exitu reddidit infortunatam fecunditatem. qui parvuli si matre sospite perdidissent iam diu debilem patrem, minus pupilli existimarentur.
+1. Maestissimus haec tibi nuntio. decessit nudius tertius non absque iustitio matrona Filimatia, morigera coniunx domina clemens, utilis mater pia filia, cui debuerit domi forisque persona minor obsequium, maior officium, aequalis affectum. haec cum esset unica iam diu matris amissae <filia>, facile diversis blandimentorum generibus effecerat, ne patri adhuc iuveni soboles sexus alterius desideraretur. nunc autem per subita suprema virium caelibatu, patrem orbitate confodit. his additur, quod quinque liberorum parens immaturo exitu reddidit infortunatam fecunditatem. qui parvuli si matre sospite perdidissent iam diu debilem patrem, minus pupilli existimarentur.
  
 
  

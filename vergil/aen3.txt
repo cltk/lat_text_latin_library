@@ -382,7 +382,7 @@ Pergamaque Iliacamque iugis hanc addidit arcem.
 sed tibi qui cursum uenti, quae fata dedere? 
 aut quisnam ignarum nostris deus appulit oris? 
 quid puer Ascanius? superatne et uescitur aura? 
-quem tibi iam Troia&#151;             340 
+quem tibi iam Troia—             340 
 ecqua tamen puero est amissae cura parentis? 
 ecquid in antiquam uirtutem animosque uirilis 
 et pater Aeneas et auunculus excitat Hector?' 
@@ -696,7 +696,7 @@ uidi egomet duo de numero cum corpora nostro
 prensa manu magna medio resupinus in antro 
 frangeret ad saxum, sanieque aspersa natarent    625 
 limina; uidi atro cum membra fluentia tabo 
-manderet et tepidi tremerent sub dentibus artus&#151; 
+manderet et tepidi tremerent sub dentibus artus— 
 haud impune quidem, nec talia passus Vlixes 
 oblitusue sui est Ithacus discrimine tanto. 
 nam simul expletus dapibus uinoque sepultus    630 

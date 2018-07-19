@@ -745,7 +745,7 @@ esset cuius opus laborque felix.
 Risit, nam solet hoc, levique nutu 
 'Graece numquid' ait 'poeta nescis? 
 inscripta est basis indicatque nomen.'    5 
-Lus&igrave;ppou lego, Phidiae putavi. 
+Lusìppou lego, Phidiae putavi. 
 
  
 
@@ -1545,7 +1545,7 @@ nunc bis quina mihi da basia, fiat ut illud
 Santonica medicata dedit mihi pocula virga: 
   os hominis mulsum me rogat Hippocrates. 
 tam stupidus numquam nec tu, puto, Glauce, fuisti, 
-  x&#163;lkea donanti xr&uacute;sea qui dederas. 
+  x£lkea donanti xrúsea qui dederas. 
 dulce aliquis munus pro munere poscit amaro?    5 
   accipiat, sed si potat in elleboro. 
 

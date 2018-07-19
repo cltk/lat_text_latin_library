@@ -370,7 +370,7 @@ TRAIANUS PLINIO
  
 
  
- 1 Secundum mandata mea fecit Sempronius Caelianus mittendo ad te eos, de quibus cognosci oportebit, an capitale supplicium meruisse videantur. Refert autem, voluntarii se obtulerint an lecti sint vel etiam vicarii dati. 2 Lecti &lt;si&gt; sunt, inquisitio peccavit; si vicarii dati, penes eos culpa est qui dederunt; si ipsi, cum haberent condicionis suae conscientiam, venerunt, animadvertendum in illos erit. Neque enim multum interest, quod nondum per numeros distributi sunt. Ille enim dies, quo primum probati sunt, veritatem ab iis originis suae exegit.
+ 1 Secundum mandata mea fecit Sempronius Caelianus mittendo ad te eos, de quibus cognosci oportebit, an capitale supplicium meruisse videantur. Refert autem, voluntarii se obtulerint an lecti sint vel etiam vicarii dati. 2 Lecti <si> sunt, inquisitio peccavit; si vicarii dati, penes eos culpa est qui dederunt; si ipsi, cum haberent condicionis suae conscientiam, venerunt, animadvertendum in illos erit. Neque enim multum interest, quod nondum per numeros distributi sunt. Ille enim dies, quo primum probati sunt, veritatem ab iis originis suae exegit.
  
 
  
@@ -654,7 +654,7 @@ C. PLINIUS TRAIANO IMPERATORI
  
 
  
- 1 Summas, domine, gratias ago, quod inter maximas occupationes &lt;in&gt; iis, de quibus te consului, me quoque regere dignatus es; quod nunc quoque facias rogo. 2 Adiit enim me quidam indicavitque adversarios suos a Servilio Calvo, clarissimo viro, in triennium relegatos in provincia morari: illi contra ab eodem se restitutos affirmaverunt edictumque recitaverunt. Qua causa necessarium credidi rem integram ad te referre. 3 Nam, sicut mandatis tuis cautum est, ne restituam ab alio aut a me relegatos, ita de iis, quos alius et relegaverit et restituerit, nihil comprehensum est. Ideo tu, domine, consulendus fuisti, quid observare me velles, tam hercule quam de iis qui in perpetuum relegati nec restituti in provincia deprehenduntur. 4 Nam haec quoque species incidit in cognitionem meam. Est enim adductus ad me in perpetuum relegatus &lt;a&gt; Iulio Basso proconsule. Ego, quia sciebam acta Bassi rescissa datumque a senatu ius omnibus, de quibus ille aliquid constituisset, ex integro agendi, dumtaxat per biennium, interrogavi hunc, quem relegaverat, an adisset docuissetque proconsulem. &lt;Negavit.&gt; 5 Per quod effectum est, ut te consulerem, reddendum eum poenae suae an gravius aliquid et quid potissimum constituendum putares et in hunc et in eos, si qui forte in simili condicione invenirentur. Decretum Calvi et edictum, item decretum Bassi his litteris subieci.
+ 1 Summas, domine, gratias ago, quod inter maximas occupationes <in> iis, de quibus te consului, me quoque regere dignatus es; quod nunc quoque facias rogo. 2 Adiit enim me quidam indicavitque adversarios suos a Servilio Calvo, clarissimo viro, in triennium relegatos in provincia morari: illi contra ab eodem se restitutos affirmaverunt edictumque recitaverunt. Qua causa necessarium credidi rem integram ad te referre. 3 Nam, sicut mandatis tuis cautum est, ne restituam ab alio aut a me relegatos, ita de iis, quos alius et relegaverit et restituerit, nihil comprehensum est. Ideo tu, domine, consulendus fuisti, quid observare me velles, tam hercule quam de iis qui in perpetuum relegati nec restituti in provincia deprehenduntur. 4 Nam haec quoque species incidit in cognitionem meam. Est enim adductus ad me in perpetuum relegatus <a> Iulio Basso proconsule. Ego, quia sciebam acta Bassi rescissa datumque a senatu ius omnibus, de quibus ille aliquid constituisset, ex integro agendi, dumtaxat per biennium, interrogavi hunc, quem relegaverat, an adisset docuissetque proconsulem. <Negavit.> 5 Per quod effectum est, ut te consulerem, reddendum eum poenae suae an gravius aliquid et quid potissimum constituendum putares et in hunc et in eos, si qui forte in simili condicione invenirentur. Decretum Calvi et edictum, item decretum Bassi his litteris subieci.
  
 
  
@@ -684,7 +684,7 @@ C. PLINIUS TRAIANO IMPERATORI
  
 
  
- 5 Flavius Archippus philosophus impetravit a me, ut agrum ei ad c circa Prusiadam&Aring;, patriam suam, emi iuberem, cuius reditu suos alere posset. Quod ei praestari volo. Summam expensam liberalitati meae feres.
+ 5 Flavius Archippus philosophus impetravit a me, ut agrum ei ad c circa PrusiadamÅ, patriam suam, emi iuberem, cuius reditu suos alere posset. Quod ei praestari volo. Summam expensam liberalitati meae feres.
  
  EIUSDEM AD LAPPIUM MAXIMUM
  
@@ -696,7 +696,7 @@ C. PLINIUS TRAIANO IMPERATORI
  
 
  
- 7 Quaedam sine dubio, Quirites, ipsa felicitas temporum edicit, nec exspectandus est in iis bonus princeps, quibus illum intellegi satis est, cum hoc sibi civium meorum spondere possit vel non admonita persuasio, me securitatem omnium quieti meae praetulisse, ut et nova beneficia conferrem et ante me concessa servarem. 8 Ne tamen aliquam gaudiis publicis afferat haesitationem vel eorum qui impetraverunt diffidentia vel eius memoria qui praestitit, necessarium pariter credidi ac laetum obviam dubitantibus indulgentiam meam mittere. 9 Nolo existimet quisquam, quod alio principe vel privatim vel publice consecutus &lt;sit&gt; ideo saltem a me rescindi, ut potius mihi debeat. Sint rata et certa, nec gratulatio ullius instauratis egeat precibus, quem fortuna imperii vultu meliore respexit. le novis beneficiis vacare patiantur, et ea demum sciant roganda esse quae non habent.
+ 7 Quaedam sine dubio, Quirites, ipsa felicitas temporum edicit, nec exspectandus est in iis bonus princeps, quibus illum intellegi satis est, cum hoc sibi civium meorum spondere possit vel non admonita persuasio, me securitatem omnium quieti meae praetulisse, ut et nova beneficia conferrem et ante me concessa servarem. 8 Ne tamen aliquam gaudiis publicis afferat haesitationem vel eorum qui impetraverunt diffidentia vel eius memoria qui praestitit, necessarium pariter credidi ac laetum obviam dubitantibus indulgentiam meam mittere. 9 Nolo existimet quisquam, quod alio principe vel privatim vel publice consecutus <sit> ideo saltem a me rescindi, ut potius mihi debeat. Sint rata et certa, nec gratulatio ullius instauratis egeat precibus, quem fortuna imperii vultu meliore respexit. le novis beneficiis vacare patiantur, et ea demum sciant roganda esse quae non habent.
  
  EPISTULA EIUSDEM AD TULLIUM IUSTUM
  
@@ -725,7 +725,7 @@ TRAIANUS PLINIO
  
 
  
- 1 Potuit quidem ignorasse Domitianus, in quo statu esset Archippus, cum tam multa ad honorem eius pertinentia scriberet; sed meae naturae accommodatius est credere etiam statui eius subventum interventu principis, praesertim cum etiam statuarum ei honor totiens decretus sit ab iis, qui &lt;non&gt; ignorabant, quid de illo Paulus proconsul pronuntiasset. 2 Quae tamen, mi Secunde carissime, non eo pertinent, ut si quid illi novi criminis obicitur, minus de eo audiendum putes. Libellos Furiae Primae accusatricis, item ipsius Archippi, quos alteri epistulae tuae iunxeras, legi.
+ 1 Potuit quidem ignorasse Domitianus, in quo statu esset Archippus, cum tam multa ad honorem eius pertinentia scriberet; sed meae naturae accommodatius est credere etiam statui eius subventum interventu principis, praesertim cum etiam statuarum ei honor totiens decretus sit ab iis, qui <non> ignorabant, quid de illo Paulus proconsul pronuntiasset. 2 Quae tamen, mi Secunde carissime, non eo pertinent, ut si quid illi novi criminis obicitur, minus de eo audiendum putes. Libellos Furiae Primae accusatricis, item ipsius Archippi, quos alteri epistulae tuae iunxeras, legi.
  
 
  
@@ -757,7 +757,7 @@ TRAIANUS PLINIO
 
  
 C. PLINIUS TRAIANO IMPERATORI
- Scripsit mihi, domine, Lycormas libertus tuus ut, si qua legatio a Bosporo venisset urbem petitura, usque in adventum suum retineretur. Et legatio quidem, dumtaxat in eam civitatem, in qua ipse sum, nulla adhuc venit, sed venit tabellarius Sauromatae &lt;regis&gt;, quem ego usus opportunitate, quam mihi casus obtulerat, cum tabellario qui Lycormam ex itinere praecessit mittendum putavi, ut posses ex Lycormae et regis epistulis pariter cognoscere, quae fortasse pariter scire deberes.
+ Scripsit mihi, domine, Lycormas libertus tuus ut, si qua legatio a Bosporo venisset urbem petitura, usque in adventum suum retineretur. Et legatio quidem, dumtaxat in eam civitatem, in qua ipse sum, nulla adhuc venit, sed venit tabellarius Sauromatae <regis>, quem ego usus opportunitate, quam mihi casus obtulerat, cum tabellario qui Lycormam ex itinere praecessit mittendum putavi, ut posses ex Lycormae et regis epistulis pariter cognoscere, quae fortasse pariter scire deberes.
  
 
  
@@ -850,7 +850,7 @@ TRAIANUS PLINIO
 
  
 C. PLINIUS TRAIANO IMPERATORI
- Postulantibus quibusdam, ut de agnoscendis liberis restituendisque natalibus et secundum epistulam Domitiani scriptam Minicio Rufo et secundum exempla proconsulum ipse cognoscerem, respexi ad senatus consultum pertinens ad eadem genera causarum, quod de iis tantum provinciis loquitur, quibus proconsules praesunt; ideoque rem integram distuli, dum &lt;tu&gt;, domine, praeceperis, quid observare me velis.
+ Postulantibus quibusdam, ut de agnoscendis liberis restituendisque natalibus et secundum epistulam Domitiani scriptam Minicio Rufo et secundum exempla proconsulum ipse cognoscerem, respexi ad senatus consultum pertinens ad eadem genera causarum, quod de iis tantum provinciis loquitur, quibus proconsules praesunt; ideoque rem integram distuli, dum <tu>, domine, praeceperis, quid observare me velis.
  
 
  
@@ -918,7 +918,7 @@ TRAIANUS PLINIO
  
 
  
- 1 Ea condicio est civitatis Byzantiorum confluente undique in eam commeantium turba, ut secundum consuetudinem praecedentium temporum honoribus eius praesidio centurionis legionarii consulendum habuerimus. &lt;Si&gt; 2 Iuliopolitanis succurrendum eodem modo putaverimus, onerabimus nos exemplo; plures enim eo quanto infirmiores erunt idem petent. Fiduciam &lt;eam&gt; diligentiae &lt;tuae&gt; habeo, ut credam te omni ratione id acturum, ne sint obnoxii iniuriis. 3 Si qui autem se contra disciplinam meam gesserint, statim coerceantur; aut, si plus admiserint quam ut in re praesenti satis puniantur, si milites erunt, legatis eorum quod deprehenderis notum facies aut, si in urbem versus venturi erunt, mihi scribes.
+ 1 Ea condicio est civitatis Byzantiorum confluente undique in eam commeantium turba, ut secundum consuetudinem praecedentium temporum honoribus eius praesidio centurionis legionarii consulendum habuerimus. <Si> 2 Iuliopolitanis succurrendum eodem modo putaverimus, onerabimus nos exemplo; plures enim eo quanto infirmiores erunt idem petent. Fiduciam <eam> diligentiae <tuae> habeo, ut credam te omni ratione id acturum, ne sint obnoxii iniuriis. 3 Si qui autem se contra disciplinam meam gesserint, statim coerceantur; aut, si plus admiserint quam ut in re praesenti satis puniantur, si milites erunt, legatis eorum quod deprehenderis notum facies aut, si in urbem versus venturi erunt, mihi scribes.
  
 
  
@@ -953,7 +953,7 @@ C. PLINIUS TRAIANO IMPERATORI
  
 
  
- 1 Cum Prusae ad Olympum, domine, publicis negotiis intra hospitium eodem die exiturus vacarem, Asclepiades magistratus indicavit appellatum me a Claudio Eumolpo. Cum Cocceianus Dion in bule assignari civitati opus cuius curam egerat vellet, tum Eumolpus assistens Flavio Archippo dixit exigendam esse a Dione rationem operis, ante quam rei publicae traderetur, quod aliter fecisset ac debuisset. 2 Adiecit etiam esse in eodem positam tuam statuam et corpora sepultorum, uxoris Dionis et filii, postulavitque ut cognoscerem pro tribunali. 3 Quod cum ego me protinus facturum dilaturumque profectionem dixissem, ut longiorem diem ad struendam causam darem utque in alia civitate cognoscerem petiit. 4 Ego me auditurum Nicaeae respondi. Ubi cum consedissem cogniturus, idem Eumolpus tamquam si adhuc parum instructus dilationem petere coepit, contra Dion ut audiretur exigere. 5 Dicta sunt utrimque multa, etiam de causa. Ego cum dandam dilationem et &lt;te&gt; consulendum existimarem in re ad exemplum pertinenti, dixi utrique parti ut postulationum suarum libellos darent. Volebam enim te ipsorum potissimum verbis ea quae erant proposita cognoscere. 6 Et Dion quidem se daturum dixit. Eumolpus respondit complexurum se libello quae rei publicae peteret, ceterum quod ad sepultos pertineret non accusatorem se sed advocatum Flavi Archippi, cuius mandata pertulisset. Archippus, cui Eumolpus sicut Prusiade assistebat, dixit se libellum daturum. At nec Eumolpus nec Archippus quam&lt;quam&gt; plurimis diebus exspectati adhuc mihi libellos dederunt; Dion dedit, quem huic epistulae iunxi. 7 Ipse in re praesenti fui et vidi tuam quoque statuam in bibliotheca positam, id autem in quo dicuntur sepulti filius et uxor Dionis in area collocatum, quae porticibus includitur. 8 Te, domine, rogo ut me in hoc praecipue genere cognitionis regere digneris, cum alioqui magna sit exspectatio, ut necesse est in ea re quae et in confessum venit et exemplis defenditur.
+ 1 Cum Prusae ad Olympum, domine, publicis negotiis intra hospitium eodem die exiturus vacarem, Asclepiades magistratus indicavit appellatum me a Claudio Eumolpo. Cum Cocceianus Dion in bule assignari civitati opus cuius curam egerat vellet, tum Eumolpus assistens Flavio Archippo dixit exigendam esse a Dione rationem operis, ante quam rei publicae traderetur, quod aliter fecisset ac debuisset. 2 Adiecit etiam esse in eodem positam tuam statuam et corpora sepultorum, uxoris Dionis et filii, postulavitque ut cognoscerem pro tribunali. 3 Quod cum ego me protinus facturum dilaturumque profectionem dixissem, ut longiorem diem ad struendam causam darem utque in alia civitate cognoscerem petiit. 4 Ego me auditurum Nicaeae respondi. Ubi cum consedissem cogniturus, idem Eumolpus tamquam si adhuc parum instructus dilationem petere coepit, contra Dion ut audiretur exigere. 5 Dicta sunt utrimque multa, etiam de causa. Ego cum dandam dilationem et <te> consulendum existimarem in re ad exemplum pertinenti, dixi utrique parti ut postulationum suarum libellos darent. Volebam enim te ipsorum potissimum verbis ea quae erant proposita cognoscere. 6 Et Dion quidem se daturum dixit. Eumolpus respondit complexurum se libello quae rei publicae peteret, ceterum quod ad sepultos pertineret non accusatorem se sed advocatum Flavi Archippi, cuius mandata pertulisset. Archippus, cui Eumolpus sicut Prusiade assistebat, dixit se libellum daturum. At nec Eumolpus nec Archippus quam<quam> plurimis diebus exspectati adhuc mihi libellos dederunt; Dion dedit, quem huic epistulae iunxi. 7 Ipse in re praesenti fui et vidi tuam quoque statuam in bibliotheca positam, id autem in quo dicuntur sepulti filius et uxor Dionis in area collocatum, quae porticibus includitur. 8 Te, domine, rogo ut me in hoc praecipue genere cognitionis regere digneris, cum alioqui magna sit exspectatio, ut necesse est in ea re quae et in confessum venit et exemplis defenditur.
  
 
  
@@ -1014,7 +1014,7 @@ C. PLINIUS TRAIANO IMPERATORI
  86 B 
  
 
- &lt;C. PLINIUS TRAIANO IMPERATORI&gt;
+ <C. PLINIUS TRAIANO IMPERATORI>
  
 
  ... quam ea quae speret instructum commilitio tuo, cuius disciplinae debet, quod indulgentia tua dignus est. Apud me et milites et pagani, a quibus iustitia eius et humanitas penitus inspecta est, certatim ei qua privatim qua publice testimonium perhibuerunt. Quod in notitiam tuam perfero, ea fide quam tibi debeo.
@@ -1131,12 +1131,12 @@ C. PLINIUS TRAIANO IMPERATORI
  
 
  
- 1 Sollemne est mihi, domine, omnia de quibus dubito ad te referre. Quis enim potest melius vel cunctationem meam regere vel ignorantiam instruere? Cognitionibus de Christianis interfui numquam: ideo nescio quid et quatenus aut puniri soleat aut quaeri. 2 Nec mediocriter haesitavi, sitne aliquod discrimen aetatum, an quamlibet teneri nihil a robustioribus differant; detur paenitentiae venia, an ei, qui omnino Christianus fuit, desisse non prosit; nomen ipsum, si flagitiis careat, an flagitia cohaerentia nomini puniantur. Interim, &lt;in&gt; iis qui ad me tamquam Christiani deferebantur, hunc sum secutus modum. 3 Interrogavi ipsos an essent Christiani. Confitentes iterum ac tertio interrogavi supplicium minatus; perseverantes duci iussi. Neque enim dubitabam, qualecumque esset quod faterentur, pertinaciam certe et inflexibilem obstinationem debere puniri. 4 Fuerunt alii similis amentiae, quos, quia cives Romani erant, adnotavi in urbem remittendos.
- Mox ipso tractatu, ut fieri solet, diffundente se crimine plures species inciderunt. 5 Propositus est libellus sine auctore multorum nomina continens. Qui negabant esse se Christianos aut fuisse, cum praeeunte me deos appellarent et imagini tuae, quam propter hoc iusseram cum simulacris numinum afferri, ture ac vino supplicarent, praeterea male dicerent Christo, quorum nihil cogi posse dicuntur qui sunt re vera Christiani, dimittendos putavi. 6 Alii ab indice nominati esse se Christianos dixerunt et mox negaverunt; fuisse quidem sed desisse, quidam ante triennium, quidam ante plures annos, non nemo etiam ante viginti. &lt;Hi&gt; quoque omnes et imaginem tuam deorumque simulacra venerati sunt et Christo male dixerunt. 7 Affirmabant autem hanc fuisse summam vel culpae suae vel erroris, quod essent soliti stato die ante lucem convenire, carmenque Christo quasi deo dicere secum invicem seque sacramento non in scelus aliquod obstringere, sed ne furta ne latrocinia ne adulteria committerent, ne fidem fallerent, ne depositum appellati abnegarent. Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum meum, quo secundum mandata tua hetaerias esse vetueram. 8 Quo magis necessarium credidi ex duabus ancillis, quae ministrae dicebantur, quid esset veri, et per tormenta quaerere. Nihil aliud inveni quam superstitionem pravam et immodicam.
+ 1 Sollemne est mihi, domine, omnia de quibus dubito ad te referre. Quis enim potest melius vel cunctationem meam regere vel ignorantiam instruere? Cognitionibus de Christianis interfui numquam: ideo nescio quid et quatenus aut puniri soleat aut quaeri. 2 Nec mediocriter haesitavi, sitne aliquod discrimen aetatum, an quamlibet teneri nihil a robustioribus differant; detur paenitentiae venia, an ei, qui omnino Christianus fuit, desisse non prosit; nomen ipsum, si flagitiis careat, an flagitia cohaerentia nomini puniantur. Interim, <in> iis qui ad me tamquam Christiani deferebantur, hunc sum secutus modum. 3 Interrogavi ipsos an essent Christiani. Confitentes iterum ac tertio interrogavi supplicium minatus; perseverantes duci iussi. Neque enim dubitabam, qualecumque esset quod faterentur, pertinaciam certe et inflexibilem obstinationem debere puniri. 4 Fuerunt alii similis amentiae, quos, quia cives Romani erant, adnotavi in urbem remittendos.
+ Mox ipso tractatu, ut fieri solet, diffundente se crimine plures species inciderunt. 5 Propositus est libellus sine auctore multorum nomina continens. Qui negabant esse se Christianos aut fuisse, cum praeeunte me deos appellarent et imagini tuae, quam propter hoc iusseram cum simulacris numinum afferri, ture ac vino supplicarent, praeterea male dicerent Christo, quorum nihil cogi posse dicuntur qui sunt re vera Christiani, dimittendos putavi. 6 Alii ab indice nominati esse se Christianos dixerunt et mox negaverunt; fuisse quidem sed desisse, quidam ante triennium, quidam ante plures annos, non nemo etiam ante viginti. <Hi> quoque omnes et imaginem tuam deorumque simulacra venerati sunt et Christo male dixerunt. 7 Affirmabant autem hanc fuisse summam vel culpae suae vel erroris, quod essent soliti stato die ante lucem convenire, carmenque Christo quasi deo dicere secum invicem seque sacramento non in scelus aliquod obstringere, sed ne furta ne latrocinia ne adulteria committerent, ne fidem fallerent, ne depositum appellati abnegarent. Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum meum, quo secundum mandata tua hetaerias esse vetueram. 8 Quo magis necessarium credidi ex duabus ancillis, quae ministrae dicebantur, quid esset veri, et per tormenta quaerere. Nihil aliud inveni quam superstitionem pravam et immodicam.
  
 
  
- 9 Ideo dilata cognitione ad consulendum te decucurri. Visa est enim mihi res digna consultatione, maxime propter periclitantium numerum. Multi enim omnis aetatis, omnis ordinis, utriusque sexus etiam vocantur in periculum et vocabuntur. Neque civitates tantum, sed vicos etiam atque agros superstitionis istius contagio pervagata est; quae videtur sisti et corrigi posse. 10 Certe satis constat prope iam desolata templa coepisse celebrari, et sacra sollemnia diu intermissa repeti passimque venire &lt;carnem&gt; victimarum, cuius adhuc rarissimus emptor inveniebatur. Ex quo facile est opinari, quae turba hominum emendari possit, si sit paenitentiae locus.
+ 9 Ideo dilata cognitione ad consulendum te decucurri. Visa est enim mihi res digna consultatione, maxime propter periclitantium numerum. Multi enim omnis aetatis, omnis ordinis, utriusque sexus etiam vocantur in periculum et vocabuntur. Neque civitates tantum, sed vicos etiam atque agros superstitionis istius contagio pervagata est; quae videtur sisti et corrigi posse. 10 Certe satis constat prope iam desolata templa coepisse celebrari, et sacra sollemnia diu intermissa repeti passimque venire <carnem> victimarum, cuius adhuc rarissimus emptor inveniebatur. Ex quo facile est opinari, quae turba hominum emendari possit, si sit paenitentiae locus.
  
 
  
@@ -1148,7 +1148,7 @@ TRAIANUS PLINIO
  
 
  
- 1 Actum quem debuisti, mi Secunde, in excutiendis causis eorum, qui Christiani ad te delati fuerant, secutus es. Neque enim in universum aliquid, quod quasi certam formam habeat, constitui potest. 2 Conquirendi non sunt; si deferantur et arguantur, puniendi sunt, ita tamen ut, qui negaverit se Christianum esse idque re ipsa manifestum fecerit, id est supplicando dis nostris, quamvis suspectus in praeteritum, veniam ex paenitentia impetret. Sine auctore vero propositi libelli &lt;in&gt; nullo crimine locum habere debent. Nam et pessimi exempli nec nostri saeculi est.
+ 1 Actum quem debuisti, mi Secunde, in excutiendis causis eorum, qui Christiani ad te delati fuerant, secutus es. Neque enim in universum aliquid, quod quasi certam formam habeat, constitui potest. 2 Conquirendi non sunt; si deferantur et arguantur, puniendi sunt, ita tamen ut, qui negaverit se Christianum esse idque re ipsa manifestum fecerit, id est supplicando dis nostris, quamvis suspectus in praeteritum, veniam ex paenitentia impetret. Sine auctore vero propositi libelli <in> nullo crimine locum habere debent. Nam et pessimi exempli nec nostri saeculi est.
  
 
  
@@ -1351,7 +1351,7 @@ C. PLINIUS TRAIANO IMPERATORI
 TRAIANUS PLINIO
  
 
- Merito haesisti, Secunde carissime, quid a te rescribi oporteret censoribus consulentibus, an &lt;manere deberent&gt; in senatu aliarum civitatium, eiusdem tamen provinciae cives. Nam et legis auctoritas et longa consuetudo usurpata contra legem in diversum movere te potuit. Mihi hoc temperamentum eius placuit, ut ex praeterito nihil novaremus, sed manerent quamvis contra legem asciti quarumcumque civitatium cives, in futurum autem lex Pompeia observaretur; cuius vim si retro quoque velimus custodire, multa necesse est perturbari.
+ Merito haesisti, Secunde carissime, quid a te rescribi oporteret censoribus consulentibus, an <manere deberent> in senatu aliarum civitatium, eiusdem tamen provinciae cives. Nam et legis auctoritas et longa consuetudo usurpata contra legem in diversum movere te potuit. Mihi hoc temperamentum eius placuit, ut ex praeterito nihil novaremus, sed manerent quamvis contra legem asciti quarumcumque civitatium cives, in futurum autem lex Pompeia observaretur; cuius vim si retro quoque velimus custodire, multa necesse est perturbari.
  
 
  
@@ -1363,7 +1363,7 @@ C. PLINIUS TRAIANO IMPERATORI
  
 
  
- 1 Qui virilem togam sumunt vel nuptias faciunt vel ineunt magistratum vel opus publicum dedicant, solent totam bulen atque etiam e plebe non exiguum numerum vocare binosque denarios vel singulos dare. Quod an celebrandum et quatenus putes, rogo scribas. 2 Ipse enim, sicut arbitror, praesertim ex sollemnibus causis, concedendum ius istud invitationis, ita vereor ne ii qui mille homines, interdum etiam plures vocant, modum excedere et in speciem 'dianom&ecirc;s' incidere videantur.
+ 1 Qui virilem togam sumunt vel nuptias faciunt vel ineunt magistratum vel opus publicum dedicant, solent totam bulen atque etiam e plebe non exiguum numerum vocare binosque denarios vel singulos dare. Quod an celebrandum et quatenus putes, rogo scribas. 2 Ipse enim, sicut arbitror, praesertim ex sollemnibus causis, concedendum ius istud invitationis, ita vereor ne ii qui mille homines, interdum etiam plures vocant, modum excedere et in speciem 'dianomês' incidere videantur.
  
 
  
@@ -1374,7 +1374,7 @@ C. PLINIUS TRAIANO IMPERATORI
 TRAIANUS PLINIO
  
 
- Merito vereris, ne in speciem 'dianom&ecirc;s' incidat invitatio, quae et in numero modum excedit et quasi per corpora, non viritim singulos ex notitia ad sollemnes sportulas contrahit. Sed ego ideo prudentiam tuam elegi, ut formandis istius provinciae moribus ipse moderareris et ea constitueres, quae ad perpetuam eius provinciae quietem essent profutura.
+ Merito vereris, ne in speciem 'dianomês' incidat invitatio, quae et in numero modum excedit et quasi per corpora, non viritim singulos ex notitia ad sollemnes sportulas contrahit. Sed ego ideo prudentiam tuam elegi, ut formandis istius provinciae moribus ipse moderareris et ea constitueres, quae ad perpetuam eius provinciae quietem essent profutura.
  
 
  
@@ -1386,7 +1386,7 @@ C. PLINIUS TRAIANO IMPERATORI
  
 
  
- 1 Athletae, domine, ea quae pro iselasticis certaminibus constituisti, deberi sibi putant statim ex eo die, quo sunt coronati; nihil enim referre, quando sint patriam invecti, sed quando certamine vicerint, ex quo invehi possint. Ego contra scribo 'iselastici nomine': itaque &Aring;eorum vehementer addubitem an sit potius id tempus, quo 'eis&ecirc;lasan' intuendum. 2 Iidem obsonia petunt pro eo agone, qui a te iselasticus factus est, quamvis vicerint ante quam fieret. Aiunt enim congruens esse, sicut non detur sibi pro iis certaminibus, quae esse iselastica postquam vicerunt desierunt, ita pro iis dari quae esse coeperunt. 3 Hic quoque non mediocriter haereo, ne cuiusquam retro habeatur ratio dandumque, quod tunc cum vincerent non debebatur. Rogo ergo, ut dubitationem meam regere, id est beneficia tua interpretari ipse digneris.
+ 1 Athletae, domine, ea quae pro iselasticis certaminibus constituisti, deberi sibi putant statim ex eo die, quo sunt coronati; nihil enim referre, quando sint patriam invecti, sed quando certamine vicerint, ex quo invehi possint. Ego contra scribo 'iselastici nomine': itaque Åeorum vehementer addubitem an sit potius id tempus, quo 'eisêlasan' intuendum. 2 Iidem obsonia petunt pro eo agone, qui a te iselasticus factus est, quamvis vicerint ante quam fieret. Aiunt enim congruens esse, sicut non detur sibi pro iis certaminibus, quae esse iselastica postquam vicerunt desierunt, ita pro iis dari quae esse coeperunt. 3 Hic quoque non mediocriter haereo, ne cuiusquam retro habeatur ratio dandumque, quod tunc cum vincerent non debebatur. Rogo ergo, ut dubitationem meam regere, id est beneficia tua interpretari ipse digneris.
  
 
  
@@ -1397,7 +1397,7 @@ C. PLINIUS TRAIANO IMPERATORI
 TRAIANUS PLINIO
  
 
- Iselasticum tunc primum mihi videtur incipere deberi, cum quis in civitatem suam ipse 'eis&ecirc;lasen'. Obsonia eorum certaminum, quae iselastica esse placuit mihi, si ante iselastica non fuerunt, retro non debentur. Nec proficere pro desiderio athletarum potest, quod eorum, quae postea iselastica non esse constitui, quam vicerunt, accipere desierunt. Mutata enim condicione certaminum nihilo minus, quae ante perceperant, non revocantur.
+ Iselasticum tunc primum mihi videtur incipere deberi, cum quis in civitatem suam ipse 'eisêlasen'. Obsonia eorum certaminum, quae iselastica esse placuit mihi, si ante iselastica non fuerunt, retro non debentur. Nec proficere pro desiderio athletarum potest, quod eorum, quae postea iselastica non esse constitui, quam vicerunt, accipere desierunt. Mutata enim condicione certaminum nihilo minus, quae ante perceperant, non revocantur.
  
 
  

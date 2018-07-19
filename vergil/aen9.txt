@@ -68,7 +68,7 @@ Turnus, ut ante uolans tardum praecesserat agmen
 uiginti lectis equitum comitatus et urbi 
 improuisus adest, maculis quem Thracius albis 
 portat equus cristaque tegit galea aurea rubra,    50 
-'ecquis erit mecum, iuuenes, qui primus in hostem&#151;? 
+'ecquis erit mecum, iuuenes, qui primus in hostem—? 
 en,' ait et iaculum attorquens emittit in auras, 
 principium pugnae, et campo sese arduus infert. 
 clamorem excipiunt socii fremituque sequuntur 
@@ -374,7 +374,7 @@ sanguine singultantem; atro tepefacta cruore
 terra torique madent. nec non Lamyrumque Lamumque 
 et iuuenem Serranum, illa qui plurima nocte    335 
 luserat, insignis facie, multoque iacebat 
-membra deo uictus&#151;felix, si protinus illum 
+membra deo uictus—felix, si protinus illum 
 aequasset nocti ludum in lucemque tulisset: 
 impastus ceu plena leo per ouilia turbans 
 (suadet enim uesana fames) manditque trahitque    340 
@@ -613,7 +613,7 @@ isque ubi se Turni media inter milia uidit,
 hinc acies atque hinc acies astare Latinas,    550 
 ut fera, quae densa uenantum saepta corona 
 contra tela furit seseque haud nescia morti 
-inicit et saltu supra uenabula fertur&#151; 
+inicit et saltu supra uenabula fertur— 
 haud aliter iuuenis medios moriturus in hostis 
 inruit et qua tela uidet densissima tendit.    555 
 at pedibus longe melior Lycus inter et hostis 

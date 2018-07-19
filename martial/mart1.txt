@@ -231,7 +231,7 @@ Casta suo gladium cum traderet Arria Paeto,
 
  
 Delicias, Caesar, lususque iocosque leonum 
-  uidimus &#151; hoc etiam praestat harena tibi &#151; 
+  uidimus — hoc etiam praestat harena tibi — 
 cum prensus blando totiens a dente rediret 
   et per aperta uagus curreret ora lepus. 
 Vnde potest auidus captae leo parcere praedae?    5 
@@ -835,9 +835,9 @@ Desperanda tibi est ingentis gloria fati:    5
  
 
  
-Commendo tibi, Quintiane, nostros &#151; 
+Commendo tibi, Quintiane, nostros — 
 nostros dicere si tamen libellos 
-possum, quos recitat tuus poeta &#151;: 
+possum, quos recitat tuus poeta —: 
 si de seruitio graui queruntur, 
 adsertor uenias satisque praestes,    5 
 et, cum se dominum uocabit ille, 
@@ -874,8 +874,8 @@ stat contra dicitque tibi tua pagina 'Fur es.'
  
 
  
-Si quid, Fusce, uacas adhuc amari &#151; 
-nam sunt hinc tibi, sunt et hinc amici &#151; 
+Si quid, Fusce, uacas adhuc amari — 
+nam sunt hinc tibi, sunt et hinc amici — 
 unum, si superest, locum rogamus, 
 nec me, quod tibi sim nouus, recuses: 
 omnes hoc ueteres tui fuerunt.    5 
@@ -1740,7 +1740,7 @@ In steriles nolunt campos iuga ferre iuuenci:
  
 
  
-Est tibi &#151; sitque precor multos crescatque per annos &#151; 
+Est tibi — sitque precor multos crescatque per annos — 
   pulchra quidem, uerum Transtiberina domus: 
 at mea Vipsanas spectant cenacula laurus, 
   factus in hac ego sum iam regione senex. 
@@ -1857,7 +1857,7 @@ Ad Stygias aequum fuerat pater isset ut umbras:    5
  
 
  
-Quaedam me cupit,&#151; inuide, Procille!&#151; 
+Quaedam me cupit,— inuide, Procille!— 
 loto candidior puella cycno, 
 argento, niue, lilio, ligustro: 
 sed quandam uolo nocte nigriorem, 
@@ -1900,8 +1900,8 @@ Argi nempe soles subire Letum:
 contra Caesaris est forum taberna    10 
 scriptis postibus hinc et inde totis, 
 omnis ut cito perlegas poetas: 
-illinc me pete. +Nec+ roges Atrectum &#151; 
-hoc nomen dominus gerit tabernae &#151;; 
+illinc me pete. +Nec+ roges Atrectum — 
+hoc nomen dominus gerit tabernae —; 
 de primo dabit alteroue nido    15 
 rasum pumice purpuraque cultum 
 denaris tibi quinque Martialem. 

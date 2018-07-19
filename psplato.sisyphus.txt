@@ -29,15 +29,15 @@ Sisyphus sive De consultando Dialogus, qui nothus habetur
  Sis. Mihi quidem videtur.
  So. Quin hoc ne quaesisset quidem, ut, ubi esset ille, inveniret, si prius scisset: sed statim invenisset.
  Sis. Sane.
- So. Haec ergo, quae sciunt, non quaerunt homines, sed illa, quae nesciunt, ut apparet. Quod tibi Sisyphe ratio haec litigiosa videtur esse, nec propositae rei, sed disputationis causa dicis, debes considerare, an ea tibi ita, ut nunc dicitur, habere videatur. An nescis hoc in Geometria fieri solere, ut Geometrae lineam, quae di&aacute;metros dicitur, ignorent, non illi quidem, utrum di&aacute;metros sit necne (neque enim hoc ab illis quaeritur) sed quam longa sit, et quam proportionem habeat cum lateribus arearum, quas secet? nonne hoc est, quod de illa quaeritur?
+ So. Haec ergo, quae sciunt, non quaerunt homines, sed illa, quae nesciunt, ut apparet. Quod tibi Sisyphe ratio haec litigiosa videtur esse, nec propositae rei, sed disputationis causa dicis, debes considerare, an ea tibi ita, ut nunc dicitur, habere videatur. An nescis hoc in Geometria fieri solere, ut Geometrae lineam, quae diámetros dicitur, ignorent, non illi quidem, utrum diámetros sit necne (neque enim hoc ab illis quaeritur) sed quam longa sit, et quam proportionem habeat cum lateribus arearum, quas secet? nonne hoc est, quod de illa quaeritur?
  Sis. Mihi sane quidem videtur.
  So. Et quod ignoratur, nonne?
  Sis. Prorsus.
- So. Quid? quadrati illius, quod k&uacute;bos appellatur, duplum non nosti ob id a Geometris quaeri, ut quantum sit ratione inveniri possit: ab iisdem vero minime quaeri, cubus sit necne, quod id certo sciant?
+ So. Quid? quadrati illius, quod kúbos appellatur, duplum non nosti ob id a Geometris quaeri, ut quantum sit ratione inveniri possit: ab iisdem vero minime quaeri, cubus sit necne, quod id certo sciant?
  Sis. Novi.
- So. Non nosti quoque de a&euml;re. Anaxagoram, Empedoclemque, et alios omnes, qui sublimia sunt scrutati, quaesisse, utrum sit is infinitus, an finem habeat?
+ So. Non nosti quoque de aëre. Anaxagoram, Empedoclemque, et alios omnes, qui sublimia sunt scrutati, quaesisse, utrum sit is infinitus, an finem habeat?
  Sis. Novi hoc quoque.
- So. Sed illud non quaerebant illi, verum a&euml;r esset necne.
+ So. Sed illud non quaerebant illi, verum aër esset necne.
  Sis. Non certe.
  So. Iamne igitur mihi concederes, caetera omnia ita habere, ut nullius hominum sit, qui sciat, quaerere: sed ea potius, quae nesciat?
  Sis. Concederem sane.
@@ -81,11 +81,11 @@ Sisyphus sive De consultando Dialogus, qui nothus habetur
  Sis. Videtur quidem.
  So. Videturne igitur fieri posse, ut aliquis id, quod nusquam sit, vel bene, vel male consequatur?
  Sis. Qua ratione hoc dicis?
- So. Ego tibi exponam, quod volo dicere: tu diligentiam adhibe. Ex multis sagittariis quo pacto cognoscas, quis sit peritus, quisve contra imperitus? Atque hoc quidem haud difficile cognitu videtur esse. Fortasse enim iubeas illos skop&ograve;n sagittis petere: nonne?
+ So. Ego tibi exponam, quod volo dicere: tu diligentiam adhibe. Ex multis sagittariis quo pacto cognoscas, quis sit peritus, quisve contra imperitus? Atque hoc quidem haud difficile cognitu videtur esse. Fortasse enim iubeas illos skopòn sagittis petere: nonne?
  Sis. Sane quidem.
  So. Tu quidem igitur eum, qui saepius ita sagittas mittat, ut recte collineet, victorem decernas.
  Sis. Decernam profecto.
- So. Verum, si skop&ograve;s nullus sit propositus, in quem sagittas dirigant, sed unusquisque, quo velit, iaciat, quonam modo possis cognoscere, qui bene vel male iaculetur?
+ So. Verum, si skopòs nullus sit propositus, in quem sagittas dirigant, sed unusquisque, quo velit, iaciat, quonam modo possis cognoscere, qui bene vel male iaculetur?
  Sis. Nullo.
  So. Ita quoque deliberantes vel bene, vel male, si nesciant, de quo deliberent, discernere nescires.
  Sis. Verum.

@@ -88,7 +88,7 @@ Amplectimur etenim omnem illam legis veteris abolitionem, ut et
 ipsam de creatoris venientem dispositione, sicut saepe iam in isto 
 ordine tractavimus de praedicata novatione a prophetis dei nostri. 
 Quodsi creator quidem vetera cessura promisit, novis scilicet 
-orituris, Christus vero tempus distinx&lt;it decess&gt;ionis
+orituris, Christus vero tempus distinx<it decess>ionis
 istius (lex 
 et prophetae usque ad Ioannem), terminum in Ioanne statuens 
  inter utrumque ordinem desinentium exinde veterum et incipientium novorum, necessarie et apostolus in Christo post Ioannem 
@@ -841,7 +841,7 @@ Filios
 generavi, sed non adiecit Ex utero. Cur autem adiecit Ex utero 
 tam vane, quasi aliqui hominum ex utero natus dubitaretur, nisi 
 quia curiosius voluit intellegi in Christum: Ex utero generavi te, 
-id est ex solo utero, sine viri semine, carni deputans &lt;quod&gt; ex 
+id est ex solo utero, sine viri semine, carni deputans <quod> ex 
 utero, spiritui quod ex ipso. His accedit, Tu es sacerdos in
 aevum. 
 Nec sacerdos autem Ezechias, nec in aevum, etsi fuisset. Secundum ordinem, inquit, Melchisedec. [9] Quid
@@ -913,8 +913,8 @@ resurrectionem, quam per carnalia et corporalia exempla commendat? nonne etiam a
 exempla? Sic et resurrectio, inquit. [5] Quomodo?
 Sicut et granum, 
 corpus seritur corpus resurgit. Seminationem denique vocavit 
-dissolutionem corporis in terram, quia seritur in corruptela, &lt;in 
-dedecoratione, in infirmitate, resurgit autem in incorruptelam,&gt; 
+dissolutionem corporis in terram, quia seritur in corruptela, <in 
+dedecoratione, in infirmitate, resurgit autem in incorruptelam,> 
  in honestatem, in virtutem. Cuius ille ordo in dissolutione, eius 
 et hic in resurrectione corporis, scilicet sicut et granum. Ceterum 
 si auferas corpus resurrectioni quod dedisti dissolutioni, ubi consistet diversitas exitus? Proinde et si seritur animale, resurgit 
@@ -1153,8 +1153,8 @@ sententiae iudicem ostendit, et corporum omnium repraesentationem confirmavit. N
 est non corpore iudicari. Iniquus enim deus, si non per id punitur 
 quis aut iuvatur per quod operatus est. [6] Si qua ergo conditio nova 
 in Christo, vetera transierunt, ecce nova facta sunt omnia, impleta est Esaiae prophetia. Si etiam iubet ut mundemus nos ab 
-inquinamento carnis et sanguinis, non substantiam &lt;negat, sed 
-opera substantiae&gt; capere regnum dei. Si et virginem
+inquinamento carnis et sanguinis, non substantiam <negat, sed 
+opera substantiae> capere regnum dei. Si et virginem
 sanctam 
 destinat ecclesiam adsignare Christo, utique ut sponsam sponso, 
 non potest imago coniungi inimico veritatis rei ipsius. Si et 
@@ -1247,7 +1247,7 @@ delictum, et totum mundum deduxerat in reatum, et omne os
 obstruxerat, ne qui gloriaretur per illam, ut gratia servaretur in 
 gloriam Christi, non creatoris, sed Marcionis?  [12] Possum et
 hic de 
-substantia Christi praestruere ex prospectu quaestionis subsecuturae. Mortuos enim nos inquit legi &lt;per corpus Christi&gt;.
+substantia Christi praestruere ex prospectu quaestionis subsecuturae. Mortuos enim nos inquit legi <per corpus Christi>.
 Ergo 
 corpus Christi, et potest corpus contendi, non statim caro. Sed 
 et quaecunque substantia sit, cum eius nominat corpus quem 
@@ -1256,7 +1256,7 @@ quam carnis, in quam lex mortis est dicta. [13] Ecce autem et testimonium perhib
 dicemus? quia lex peccatum? absit. Erubesce, Marcion. Absit. 
 Abominatur apostolus criminationem legis. Sed ego delictum 
 non scio nisi per legem. [14] O summum ex hoc praeconium legis, per 
-quam &lt;non&gt; licuit delictum latere! Non ergo lex seduxit,
+quam <non> licuit delictum latere! Non ergo lex seduxit,
 sed 
 peccatum per praecepti occasionem. Quid deo imputas legis quod 
 legi eius apostolus imputare non audet? Atquin et accumulat: 
@@ -1373,7 +1373,7 @@ eiusdem. dei Christus et prophetae. [3] Quam autem sanctitatem
 nostram voluntatem dei dicat, ex contrariis quae prohibet agnosceres. Abstinere enim, inquit, a stupro, non a matrimonio: scire 
 unumquemque suum vas in honore tractare. Quomodo? dum 
 non in libidinc, qua gentes. Libido autem nec apud gentes matrimonio adscribitur, sed extraordinariis et non naturalibus et 
-portentuosis luxuriae . . . &lt;Sanctitas&gt; est turpitudini
+portentuosis luxuriae . . . <Sanctitas> est turpitudini
 quoque et 
 immunditiae contraria, quae non matrimonium excludat sed libidinem, quae vas nostrum in honore matrimonii tractet. Hunc 
 autem locum salva alterius, id est plenioris, sanctitatis praelatione tractaverim, continentiam et virginitatem nuptiis anteponens, sed non prohibitis. Destructores enim dei nuptiarum, non 
@@ -1440,7 +1440,7 @@ antichristi spiritus, negantes Christum in carne venisse, et solventes Iesum, sc
 nescio ne sit Christus creatoris. Nondum venit apud illum. Quisquis est autem ex duobus, quaero cur veniat in omni virtute et 
 signis et ostentis mendacii? [5] Propterea, inquit, quod dilectionem 
 veritatis non susceperint ut salvi essent, et propter hoc erit eis 
-&lt;in&gt; instinctum fallaciae, ut iudicentur omnes qui non
+<in> instinctum fallaciae, ut iudicentur omnes qui non
 crediderunt veritati sed consenserunt iniquitati. Igitur si antichristus, et 
 secundum creatorem, deus erit creator qui eum mittit ad impingendos eos in errorem qui non crediderunt veritati ut salvi fierent, 
 eiusdem erit veritas et salus qui eas summissu erroris
@@ -1759,7 +1759,7 @@ Christi, quid tibi videtur, Marcion? De lege iam non retractamus,
 nisi quod et hic quemadmodum exclusa sit edocet, dum scilicet 
 de umbra transfertur in corpus, id est de figuris ad veritatem, quod 
 est Christus. Ergo et umbra eius cuius et corpus, id est et lex eius 
-&lt;cuius&gt; et Christus. Segrega alii deo legem, et alii deo
+<cuius> et Christus. Segrega alii deo legem, et alii deo
 Christum, 
 si potes aliquam umbram ab eo corpore cuius umbra est separare. 
 Manifeste legis est Christus, si corpus est umbrae. [10] Si autem et 

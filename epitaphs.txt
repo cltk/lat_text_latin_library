@@ -108,7 +108,7 @@ B 204
 
  
 Si pro virtute et animo fortunam habuissem, 
-magnificum monumentum hic aedifica&lt;vi&gt;ssem tibi. 
+magnificum monumentum hic aedifica<vi>ssem tibi. 
 Nunc, quoniam omnes mortui idem sapimus, satis est.
  
 
@@ -695,7 +695,7 @@ Credo certe ne cras.
  
 Scita hic sit[a est. 
 Papilio volita(n)s texto religatu[s] aranist. 
-  illi praeda rep&lt;e&gt;ns, huic data mors subitast.
+  illi praeda rep<e>ns, huic data mors subitast.
 
  
 

@@ -34,7 +34,7 @@ mansuram rudibus vocem signare figuris.
  
 
  
-[6] Hinc est quod et Phoeniceo colore librorurn capita scribuntur, quia ab ipsis litterae initium habuerunt. Cadmus Agenoris filius Graecas litteras a Phoenice in Graeciam decem et septem primus attulit; A. B. &Gamma;. &Delta;. E. Z. I. K. &Lambda;. M. N. O. &Pi;. &Rho;. C. T. &Phi;. His Palamedes Troiano bello tres adiecit H. X. &Omega;. Post quem Simonides Melicus tres alias adiecit &Psi;. &Xi;. &Theta;. [7] &Upsilon; litteram Pythagoras Samius ad exemplum vitae humanae primus formavit; cuius virgula subterior primam aetatem significat, incertam quippe et quae adhuc se nec vitiis nec virtutibus dedit. Bivium autem, quod superest, ab adolescentia incipit: cuius dextra pars ardua est, sed ad beatam vitam tendens: sinistra facilior, sed ad labem interitumque deducens. De qua sic Persius ait (3,56):
+[6] Hinc est quod et Phoeniceo colore librorurn capita scribuntur, quia ab ipsis litterae initium habuerunt. Cadmus Agenoris filius Graecas litteras a Phoenice in Graeciam decem et septem primus attulit; A. B. Γ. Δ. E. Z. I. K. Λ. M. N. O. Π. Ρ. C. T. Φ. His Palamedes Troiano bello tres adiecit H. X. Ω. Post quem Simonides Melicus tres alias adiecit Ψ. Ξ. Θ. [7] Υ litteram Pythagoras Samius ad exemplum vitae humanae primus formavit; cuius virgula subterior primam aetatem significat, incertam quippe et quae adhuc se nec vitiis nec virtutibus dedit. Bivium autem, quod superest, ab adolescentia incipit: cuius dextra pars ardua est, sed ad beatam vitam tendens: sinistra facilior, sed ad labem interitumque deducens. De qua sic Persius ait (3,56):
  
 
  
@@ -43,7 +43,7 @@ surgentem dextro monstravit limite callem.
  
 
  
-[8] Quinque autem esse apud Graecos mysticas litteras. Prima &Upsilon;, quae humanam vitam significat, de qua nunc diximus. Secunda &Theta;, quae mortem [significat]. Nam iudices eandem litteram &Theta; adponebant ad eorum nomina, quos supplicio afficiebant. Et dicitur Theta APO TOU THANATON, id est a morte. Vnde et habet per medium telum, id est mortis signum. De qua quidam:
+[8] Quinque autem esse apud Graecos mysticas litteras. Prima Υ, quae humanam vitam significat, de qua nunc diximus. Secunda Θ, quae mortem [significat]. Nam iudices eandem litteram Θ adponebant ad eorum nomina, quos supplicio afficiebant. Et dicitur Theta APO TOU THANATON, id est a morte. Vnde et habet per medium telum, id est mortis signum. De qua quidam:
  
 
  
@@ -51,7 +51,7 @@ O multum ante alias infelix littera theta.
  
 
  
-[9] Tertia &Tau; figuram demonstrans Dominicae crucis, unde et Hebraice signum interpretatur. De qua dictum est in Ezechielo angelo (9,4): "Transi per medium Ierusalem, et signa thau in frontes virorum gementium et dolentium" Reliquas vero duas summam et ultimam sibi vindicat Christus. Ipse enim principium, ipse finis, dicens "Ego sum &Alpha; et &Omega;" Concurrentibus enim in se invicem &Alpha; ad &Omega; usque devolvitur, et rursus &Omega; ad &Alpha; replicatur, ut ostenderet in se Dominus et initii decursuni ad finem et finis decursum ad initium. [10] Omnes autem litterae apud Graecos et verba conponunt et numeros faciunt. Nam Alpha littera apud eos vocatur in numeris unum. Vbi autem scribunt Beta, vocatur duo; ubi scribunt Gamma, vocatur in numeris ipsorum tres; ubi scribunt Delta, vocatur in numeris ipsorum quattuor; et sic omnes litterae apud eos numeros habent. [11] Latini autem numeros ad litteras non conputant, sed sola verba componunt, excepto I et X littera, quae et figura crucem significat et in numero decem demonstrat.
+[9] Tertia Τ figuram demonstrans Dominicae crucis, unde et Hebraice signum interpretatur. De qua dictum est in Ezechielo angelo (9,4): "Transi per medium Ierusalem, et signa thau in frontes virorum gementium et dolentium" Reliquas vero duas summam et ultimam sibi vindicat Christus. Ipse enim principium, ipse finis, dicens "Ego sum Α et Ω" Concurrentibus enim in se invicem Α ad Ω usque devolvitur, et rursus Ω ad Α replicatur, ut ostenderet in se Dominus et initii decursuni ad finem et finis decursum ad initium. [10] Omnes autem litterae apud Graecos et verba conponunt et numeros faciunt. Nam Alpha littera apud eos vocatur in numeris unum. Vbi autem scribunt Beta, vocatur duo; ubi scribunt Gamma, vocatur in numeris ipsorum tres; ubi scribunt Delta, vocatur in numeris ipsorum quattuor; et sic omnes litterae apud eos numeros habent. [11] Latini autem numeros ad litteras non conputant, sed sola verba componunt, excepto I et X littera, quae et figura crucem significat et in numero decem demonstrat.
  
 
  
@@ -115,16 +115,16 @@ XVII. DE PEDIBVS. [1] Pedes sunt, qui certis syllabarum temporibus insistunt, ne
  
 
  
-Spondeum, &ndash; &ndash; 
-Pyrrhichium, &or; &or; 
-Dactylum, &ndash; | &or; &or; 
-Anapaestum, &or; &or; |&ndash; 
-Dispondeum, &ndash; &ndash; | &ndash; &ndash; 
-Proceleumaticum, &or; &or; | &or; &or; 
-Diiambum, &ndash; | &ndash; 
-Ditrochaeum, &ndash; &or; | &ndash; &or; 
-Antispastum, &or; &ndash; | &ndash; &or; 
-Choriambum, &ndash; &or; | &or; &ndash;
+Spondeum, – – 
+Pyrrhichium, ∨ ∨ 
+Dactylum, – | ∨ ∨ 
+Anapaestum, ∨ ∨ |– 
+Dispondeum, – – | – – 
+Proceleumaticum, ∨ ∨ | ∨ ∨ 
+Diiambum, – | – 
+Ditrochaeum, – ∨ | – ∨ 
+Antispastum, ∨ – | – ∨ 
+Choriambum, – ∨ | ∨ –
  
 
  
@@ -132,20 +132,20 @@ Choriambum, &ndash; &or; | &or; &ndash;
  
 
  
-Trochaeum, &ndash; | &or; 
-Iambum, &or; | &ndash; 
-Molossum, &ndash; | &ndash; &ndash; 
-Tribrachym, &or; | &or; &or; 
-Ionicum maiorem, &ndash; &ndash; | &or; &or; 
-Ionicum minorem, &or; &or; | &ndash; &ndash;
+Trochaeum, – | ∨ 
+Iambum, ∨ | – 
+Molossum, – | – – 
+Tribrachym, ∨ | ∨ ∨ 
+Ionicum maiorem, – – | ∨ ∨ 
+Ionicum minorem, ∨ ∨ | – –
  
 
  
-[25] [&or;nus &or;ero est tantum qui tripla partitione di&or;iditur, quae est maxima atque ideo minimis metris adest.]
+[25] [∨nus ∨ero est tantum qui tripla partitione di∨iditur, quae est maxima atque ideo minimis metris adest.]
  
 
  
-Amphibrachys, &or; | &ndash; &or;
+Amphibrachys, ∨ | – ∨
  
 
  
@@ -153,24 +153,24 @@ Amphibrachys, &or; | &ndash; &or;
  
 
  
-Amphimacrus, &ndash; | &or; &ndash; 
-Bacchius, &or; &ndash; | &ndash; 
-Antibacchius, &ndash; | &ndash; &or; 
-Paeon primus, &ndash; | &or; &or; &or; 
-Paeon secundus, &or; &ndash; | &or; &or; 
-Paeon tertius, &or; &or; | &ndash; &or; 
-Paeon quartus, &or; &or; &or; | &ndash;
+Amphimacrus, – | ∨ – 
+Bacchius, ∨ – | – 
+Antibacchius, – | – ∨ 
+Paeon primus, – | ∨ ∨ ∨ 
+Paeon secundus, ∨ – | ∨ ∨ 
+Paeon tertius, ∨ ∨ | – ∨ 
+Paeon quartus, ∨ ∨ ∨ | –
  
 
  
-[27] Restant, quos epitrita partitione di&or;idimus:
+[27] Restant, quos epitrita partitione di∨idimus:
  
 
  
-Epitritus primus, &or; &ndash; | &ndash; &ndash; 
-Epitritus secundus, &ndash; &or; | &ndash; &ndash; 
-Epitritus tertius, &ndash; &ndash; | &or; &ndash; 
-Epitritus quartus, &ndash; &ndash; | &ndash; &or;
+Epitritus primus, ∨ – | – – 
+Epitritus secundus, – ∨ | – – 
+Epitritus tertius, – – | ∨ – 
+Epitritus quartus, – – | – ∨
  
 
  
@@ -182,7 +182,7 @@ Sectaque intexunt abiete costas.
  
 
  
-"Abieteí nunc resolutio est spondei in proceleumatico, in qua resolutione semper synaloepham sequitur Vergilius. [29] Ex una autem longa duae breves fiunt: ex duabus autem brevibus longa numquam fit. Findi enim solida possunt, solidari scissa non possunt. Figura est, cuius nota syllabae agnoscuntur. Vbi enim circuli partem inferiorem bis positam aspicis, pyrrhichius est, V V; ubi I geminam iacentem, spondeus, &ndash; &ndash;. Nam nota brevis inferior semicirculus est; nota longa I iacens est. [30] Metra in pedibus accidunt, ut a trochaeo trochaicum, a dactylo dactylicum, a iambo iambicum, de quibus paulo post dicendum est.
+"Abieteí nunc resolutio est spondei in proceleumatico, in qua resolutione semper synaloepham sequitur Vergilius. [29] Ex una autem longa duae breves fiunt: ex duabus autem brevibus longa numquam fit. Findi enim solida possunt, solidari scissa non possunt. Figura est, cuius nota syllabae agnoscuntur. Vbi enim circuli partem inferiorem bis positam aspicis, pyrrhichius est, V V; ubi I geminam iacentem, spondeus, – –. Nam nota brevis inferior semicirculus est; nota longa I iacens est. [30] Metra in pedibus accidunt, ut a trochaeo trochaicum, a dactylo dactylicum, a iambo iambicum, de quibus paulo post dicendum est.
  
 
  
@@ -400,7 +400,7 @@ Maneant in relligione nepotes,
  
 
  
-pro "religione" ["relliquias" pro "reliquias" "induperator" pro "inperator". [3] Paragoge adpositio in finem, ut ["admittier" pro "admitti" "magis" pro "mageí et "potestur" pro "potest". Aphaeresis abscisio de principio, ut "temno" pro "contemno" Syncope abscisio de medio, ut "forsan" pro "forsitan" Apocope abscisio de fine, ut "sat" pro "satis" [4] Ectasis, productio contra naturam, ut (Virg. Aen. 1,499): "exercet Diana choros". (Virg. Aen. 1,2): "Italiam fato" quum "Italiamí correpte dici debeat. Systole correptio contra naturam, ut (Virg. Aen. 6,773): "urbemque Fidenam" cum prima syllaba produci debet. Vt quum dicimus "Orioní correpte, dum producte dici oportet.] Diaeresis discissio syllabae in duas, ut (Virg. Aen. 9,26): "dives pictai vestis" pro "pictae" (Enn. Ann. 33): "Albai longai" pro "Albae longae". [5] Episynaloephe conglutinatio duarum [syllabarum] in unam, ut "Phaethon" pro "Pha&euml;thon" "Neri" pro "Nere&iuml;" "aeripedem" pro "a&euml;ripedem". Synaloephe conlisio vocalium adiuncta vocalibus, ut (Virg. Aen. 9,1):
+pro "religione" ["relliquias" pro "reliquias" "induperator" pro "inperator". [3] Paragoge adpositio in finem, ut ["admittier" pro "admitti" "magis" pro "mageí et "potestur" pro "potest". Aphaeresis abscisio de principio, ut "temno" pro "contemno" Syncope abscisio de medio, ut "forsan" pro "forsitan" Apocope abscisio de fine, ut "sat" pro "satis" [4] Ectasis, productio contra naturam, ut (Virg. Aen. 1,499): "exercet Diana choros". (Virg. Aen. 1,2): "Italiam fato" quum "Italiamí correpte dici debeat. Systole correptio contra naturam, ut (Virg. Aen. 6,773): "urbemque Fidenam" cum prima syllaba produci debet. Vt quum dicimus "Orioní correpte, dum producte dici oportet.] Diaeresis discissio syllabae in duas, ut (Virg. Aen. 9,26): "dives pictai vestis" pro "pictae" (Enn. Ann. 33): "Albai longai" pro "Albae longae". [5] Episynaloephe conglutinatio duarum [syllabarum] in unam, ut "Phaethon" pro "Phaëthon" "Neri" pro "Nereï" "aeripedem" pro "aëripedem". Synaloephe conlisio vocalium adiuncta vocalibus, ut (Virg. Aen. 9,1):
  
 
  

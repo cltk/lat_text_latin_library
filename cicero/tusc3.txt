@@ -37,7 +37,7 @@ Cicero: Tusculan Disputations III
  
 
  
- III . [ 5 ] At et morbi perniciosiores pluresque sunt animi quam corporis&#151;hi enim ipsi odiosi sunt, quod ad animum pertinent eumque sollicitant&#151;, 'animusque aeger', ut ait Ennius, 'semper errat neque pati neque perpeti potest, cupere numquam desinit.' Quibus duobus morbis, ut omittam alios, aegritudine et cupiditate, qui tandem possunt in corpore esse graviores? Qui vero probari potest ut sibi mederi animus non possit, cum ipsam medicinam corporis animus invenerit, cumque ad corporurn sanationem multum ipsa corpora et natura valeat nec omnes, qui curari se passi sint, continuo etiam convalescant, animi autem, qui se sanari voluerint praeceptisque sapientium paruerint, sine ulla dubitatione sanentur?
+ III . [ 5 ] At et morbi perniciosiores pluresque sunt animi quam corporis—hi enim ipsi odiosi sunt, quod ad animum pertinent eumque sollicitant—, 'animusque aeger', ut ait Ennius, 'semper errat neque pati neque perpeti potest, cupere numquam desinit.' Quibus duobus morbis, ut omittam alios, aegritudine et cupiditate, qui tandem possunt in corpore esse graviores? Qui vero probari potest ut sibi mederi animus non possit, cum ipsam medicinam corporis animus invenerit, cumque ad corporurn sanationem multum ipsa corpora et natura valeat nec omnes, qui curari se passi sint, continuo etiam convalescant, animi autem, qui se sanari voluerint praeceptisque sapientium paruerint, sine ulla dubitatione sanentur?
  
 
  
@@ -61,16 +61,16 @@ Cicero: Tusculan Disputations III
  
 
  
- V . [ 10 ] Nec minus illud acute, quod animi adfectionem lumine mentis carentem nominaverunt amentiam eandemque dementiam. Ex quo intellegendum est eos qui haec rebus nomina posuerunt sensisse hoc idem, quod a Socrate acceptum diligenter Stoici retinuerunt, omnis insipientes esse non sanos. Qui est enim animus in aliquo morbo&#151;morbos autem hos perturbatos motus, ut modo dixi, philosophi appellant&#151;, non magis est sanus quam id corpus quod in morbo est. Ita fit ut sapientia sanitas sit animi, insipientia autem quasi insanitas quaedam, quae est insania eademque dementia; multoque melius haec notata sunt verbis Latinis quam Graecis.
+ V . [ 10 ] Nec minus illud acute, quod animi adfectionem lumine mentis carentem nominaverunt amentiam eandemque dementiam. Ex quo intellegendum est eos qui haec rebus nomina posuerunt sensisse hoc idem, quod a Socrate acceptum diligenter Stoici retinuerunt, omnis insipientes esse non sanos. Qui est enim animus in aliquo morbo—morbos autem hos perturbatos motus, ut modo dixi, philosophi appellant—, non magis est sanus quam id corpus quod in morbo est. Ita fit ut sapientia sanitas sit animi, insipientia autem quasi insanitas quaedam, quae est insania eademque dementia; multoque melius haec notata sunt verbis Latinis quam Graecis.
  
 
  
-[ 11 ] Quod aliis quoque multis locis reperietur; sed id alias, nunc, quod instat. Totum igitur id quod quaerimus quid et quale sit, verbi vis ipsa declarat. Eos enim sanos quoniam intellegi necesse est, quorum mens motu quasi morbo perturbata nullo sit, qui contra adfecti sint, hos insanos appellari necesse est. Itaque nihil melius, quam quod est in consuetudine sermonis Latini, cum exisse ex potestate dicimus eos, qui ecfrenati feruntur aut libidine aut iracundia&#151;quamquam ipsa iracundia libidinis est pars; sic enim definitur: iracundia ulciscendi libido-; qui igitur exisse ex potestate dicuntur, idcirco dicuntur, quia non sint in potestate mentis, cui regnum totius animi a natura tributum est. Graeci autem mani/an unde appellent, non facile dixerim; eam tamen ipsam distinguimus nos melius quam illi. Hanc enim insaniam, quae iuncta stultitiae patet latius a furore disiungimus. Graeci volunt illi quidem, sed parum valent verbo: quem nos furorem, melagxoli/an illi vocant; quasi vero atra bili solum mens ac non saepe vel iracundia graviore vel timore vel dolore moveatur; quo genere Athamantem, Alcmaeonem, Aiacem, Orestem furere dicimus. Qui ita sit adfectus, eum dominum esse rerum suarum vetant duodecim tabulae; itaque non est scriptum 'si insanus', sed 'si furiosus escit'. Stultitiam enim censuerunt, constantia id est sanitate vacantem, posse tamen tueri mediocritatem officiorum et vitae communem cultum atque usitatum; furorem autem esse rati sunt mentis ad omnia caecitatem. Quod cum maius esse videatur quam insania, tamen eius modi est, ut furor in sapientem cadere possit, non possit insania. Sed haec alia quaestio est; nos ad propositum revertamur.
+[ 11 ] Quod aliis quoque multis locis reperietur; sed id alias, nunc, quod instat. Totum igitur id quod quaerimus quid et quale sit, verbi vis ipsa declarat. Eos enim sanos quoniam intellegi necesse est, quorum mens motu quasi morbo perturbata nullo sit, qui contra adfecti sint, hos insanos appellari necesse est. Itaque nihil melius, quam quod est in consuetudine sermonis Latini, cum exisse ex potestate dicimus eos, qui ecfrenati feruntur aut libidine aut iracundia—quamquam ipsa iracundia libidinis est pars; sic enim definitur: iracundia ulciscendi libido-; qui igitur exisse ex potestate dicuntur, idcirco dicuntur, quia non sint in potestate mentis, cui regnum totius animi a natura tributum est. Graeci autem mani/an unde appellent, non facile dixerim; eam tamen ipsam distinguimus nos melius quam illi. Hanc enim insaniam, quae iuncta stultitiae patet latius a furore disiungimus. Graeci volunt illi quidem, sed parum valent verbo: quem nos furorem, melagxoli/an illi vocant; quasi vero atra bili solum mens ac non saepe vel iracundia graviore vel timore vel dolore moveatur; quo genere Athamantem, Alcmaeonem, Aiacem, Orestem furere dicimus. Qui ita sit adfectus, eum dominum esse rerum suarum vetant duodecim tabulae; itaque non est scriptum 'si insanus', sed 'si furiosus escit'. Stultitiam enim censuerunt, constantia id est sanitate vacantem, posse tamen tueri mediocritatem officiorum et vitae communem cultum atque usitatum; furorem autem esse rati sunt mentis ad omnia caecitatem. Quod cum maius esse videatur quam insania, tamen eius modi est, ut furor in sapientem cadere possit, non possit insania. Sed haec alia quaestio est; nos ad propositum revertamur.
  
 
  
  VI . [ 12 ] -Cadere, opinor, in sapientem aegritudinem tibi dixisti videri.    -Et vero ita existimo.    -Humanum
- id quidem, quod ita existumas. Non enim e silice nati sumus, sed est natura in animis tenerum quiddam atque molle, quod aegritudine quasi tempestate quatiatur, nec absurde Crantor ille, qui &lt;in&gt;
+ id quidem, quod ita existumas. Non enim e silice nati sumus, sed est natura in animis tenerum quiddam atque molle, quod aegritudine quasi tempestate quatiatur, nec absurde Crantor ille, qui <in>
  nostra Academia vel in rimis fuit nobilis, 'minime' inquit 'adsentior is qui istam nescio quam indolentiam magno opere laudant, quae nec potest ulla esse nec debet. Ne aegrotus sim; si' inquit 'fuero, sensus adsit, sive secetur quid sive avellatur a corpore. Nam istuc nihil dolere non sine magna mercede contingit inmanitatis in animo, stuporis in corpore.'
  
 
@@ -87,7 +87,7 @@ Cicero: Tusculan Disputations III
  
 
  
- VIII . [ 16 ] Veri etiam simile illud est, qui sit temperans- quem Graeci sw/frona appellant eamque virtutem swfrosu/nhn vocant, quam soleo equidem tum temperantiam, tum moderationem appellare, non numquam etiam modestiam; sed haud scio an recte ea virtus frugalitas appellari possit, quod angustius apud Graccos valet qui frugi homines xrhsi/mouj appellant, id est tantum modo utilis; at illud est latius; omnis enim abstinentia, omnis innocentia (quae apud Graecos usitatum nomen nullum habet, sed habere potest a)bla/beian ; nam est innocentia adfectio talis animi quae noceat nemini)&#151;reliquas etiam virtutes frugalitas continet. Quae nisi tanta esset, et si is angustiis, quibus plerique putant teneretur, numquam esset L. Pisonis cognomen tanto opere laudatum.
+ VIII . [ 16 ] Veri etiam simile illud est, qui sit temperans- quem Graeci sw/frona appellant eamque virtutem swfrosu/nhn vocant, quam soleo equidem tum temperantiam, tum moderationem appellare, non numquam etiam modestiam; sed haud scio an recte ea virtus frugalitas appellari possit, quod angustius apud Graccos valet qui frugi homines xrhsi/mouj appellant, id est tantum modo utilis; at illud est latius; omnis enim abstinentia, omnis innocentia (quae apud Graecos usitatum nomen nullum habet, sed habere potest a)bla/beian ; nam est innocentia adfectio talis animi quae noceat nemini)—reliquas etiam virtutes frugalitas continet. Quae nisi tanta esset, et si is angustiis, quibus plerique putant teneretur, numquam esset L. Pisonis cognomen tanto opere laudatum.
  
 
  
@@ -95,7 +95,7 @@ Cicero: Tusculan Disputations III
  
 
  
-[ 18 ] Frugalitas, ut opinor, a fruge, qua nihil melius e terra, nequitia ab eo (etsi erit hoc fortasse durius, sed temptemus: lusisse putemur, si nihil sit) ab eo, quod nequicquam est in tali homine, ex quo idem 'nihili' dicitur.&#151;Qui sit frugi igitur vel, si mavis, moderatus et temperans, eum necesse est esse constantem; qui autem constans, quietum; qui quietus, perturbatione omni vacuum, ergo etiam aegritudine. Et sunt illa sapientis: aberit igitur a sapiente aegritudo.
+[ 18 ] Frugalitas, ut opinor, a fruge, qua nihil melius e terra, nequitia ab eo (etsi erit hoc fortasse durius, sed temptemus: lusisse putemur, si nihil sit) ab eo, quod nequicquam est in tali homine, ex quo idem 'nihili' dicitur.—Qui sit frugi igitur vel, si mavis, moderatus et temperans, eum necesse est esse constantem; qui autem constans, quietum; qui quietus, perturbatione omni vacuum, ergo etiam aegritudine. Et sunt illa sapientis: aberit igitur a sapiente aegritudo.
  
 
  
@@ -141,7 +141,7 @@ Male Latine videtur, sed praeclare Accius; ut enim 'videre', sic 'invidere flore
  
 
  
-[ 25 ]&#151;ergo haec duo genera, voluptas gestiens et libido, bonorum opinione turbantur, ut duo reliqua, metus et aegritudo, malorum. Nam et m e t u s opinio magni mali inpendentis et aegritudo est opinio magni mali praesentis, et quidem recens opinio talis mali, ut in eo rectum videatur esse angi, id autem est, ut is qui doleat oportere opinetur se dolere. His autem perturbationibus, quas in vitam hominum stultitia quasi quasdam Furias inmittit atque incitat, omnibus viribus atque opibus repugnandum est, si volumus hoc, quod datum est vitae, tranquille placideque traducere. Sed cetera alias; nunc aegritudinem, si possumus, depellamus. Id enim sit propositum, quandoquidem eam tu videri tibi in sapientem cadere dixisti, quod ego nullo modo existimo; taetra enim res est, misera, detestabilis, omni contentione, velis, ut ita dicam, remisque fugienda.
+[ 25 ]—ergo haec duo genera, voluptas gestiens et libido, bonorum opinione turbantur, ut duo reliqua, metus et aegritudo, malorum. Nam et m e t u s opinio magni mali inpendentis et aegritudo est opinio magni mali praesentis, et quidem recens opinio talis mali, ut in eo rectum videatur esse angi, id autem est, ut is qui doleat oportere opinetur se dolere. His autem perturbationibus, quas in vitam hominum stultitia quasi quasdam Furias inmittit atque incitat, omnibus viribus atque opibus repugnandum est, si volumus hoc, quod datum est vitae, tranquille placideque traducere. Sed cetera alias; nunc aegritudinem, si possumus, depellamus. Id enim sit propositum, quandoquidem eam tu videri tibi in sapientem cadere dixisti, quod ego nullo modo existimo; taetra enim res est, misera, detestabilis, omni contentione, velis, ut ita dicam, remisque fugienda.
  
 
  
@@ -239,7 +239,7 @@ Haec mala, o stultissime Aceta, ipse tibi addidisti; non inerant in is quae tibi
  
 
  
-[ 35 ] Nam revocatio illa, quam adfert, cum a contuendis nos malis avocat, nulla est. Non est enim in nostra potestate fodicantibus eis rebus, quas malas esse opinemur, dissimulatio vel oblivio: lacerant, vexant, stimulos admovent, ignis adhibent, respirare non sinunt. Et tu oblivisci iubes, quod contra naturam est, qui, &lt;quod&gt; a natura datum est, auxilium extorqueas inveterati doloris? Est enim tarda illa quidem medicina, sed tamen magna, quam adfert longinquitas et dies. Iubes me bona cogitare, oblivisci malorum. Diceres aliquid, et magno quidem philosopho dignum, si ea bona esse sentires, quae essent homine dignissima.
+[ 35 ] Nam revocatio illa, quam adfert, cum a contuendis nos malis avocat, nulla est. Non est enim in nostra potestate fodicantibus eis rebus, quas malas esse opinemur, dissimulatio vel oblivio: lacerant, vexant, stimulos admovent, ignis adhibent, respirare non sinunt. Et tu oblivisci iubes, quod contra naturam est, qui, <quod> a natura datum est, auxilium extorqueas inveterati doloris? Est enim tarda illa quidem medicina, sed tamen magna, quam adfert longinquitas et dies. Iubes me bona cogitare, oblivisci malorum. Diceres aliquid, et magno quidem philosopho dignum, si ea bona esse sentires, quae essent homine dignissima.
  
 
  
@@ -251,7 +251,7 @@ Haec mala, o stultissime Aceta, ipse tibi addidisti; non inerant in is quae tibi
  
 
  
-[ 38 ] Hoc dicit, et hoc ille acriculus me audiente Athenis senex Zeno, istorum acutissimus, contendere et magna voce dicere solebat: eum esse beatum, qui praesentibus voluptatibus frueretur confideretque se fruiturum aut in omni aut in magna parte vitali dolore non interveniente, aut si interveniret, si summus foret, futurum brevem, sin productior, plus habiturum iucundi quam mali; haec cogitantem fore beatum, praesertim cum et ante perceptis bonis contentus esset &lt;et&gt; nec mortem nec deos extimesceret. Habes formam Epicuri vitae beatae verbis Zenonis expressam, nihil ut possit negari.
+[ 38 ] Hoc dicit, et hoc ille acriculus me audiente Athenis senex Zeno, istorum acutissimus, contendere et magna voce dicere solebat: eum esse beatum, qui praesentibus voluptatibus frueretur confideretque se fruiturum aut in omni aut in magna parte vitali dolore non interveniente, aut si interveniret, si summus foret, futurum brevem, sin productior, plus habiturum iucundi quam mali; haec cogitantem fore beatum, praesertim cum et ante perceptis bonis contentus esset <et> nec mortem nec deos extimesceret. Habes formam Epicuri vitae beatae verbis Zenonis expressam, nihil ut possit negari.
  
 
  
@@ -265,11 +265,11 @@ Haec mala, o stultissime Aceta, ipse tibi addidisti; non inerant in is quae tibi
 
  
 
-[ 40 ] Quodsi cui, ut ait idem, 'simul animus cum re concidit', a gravibus illis antiquis philosophis petenda medicina est, non ab his voluptariis. Quam enim isti bonorum copiam dicunt? Fac sane esse summum bonum non dolere &#151;quamquam id non vocatur voluptas, sed non necesse est nunc omnia-: idne est, quo traducti luctum levemus? Sit sane summum malum dolere: in eo igitur qui non est, si malo careat, continuone fruitur summo bono?
+[ 40 ] Quodsi cui, ut ait idem, 'simul animus cum re concidit', a gravibus illis antiquis philosophis petenda medicina est, non ab his voluptariis. Quam enim isti bonorum copiam dicunt? Fac sane esse summum bonum non dolere —quamquam id non vocatur voluptas, sed non necesse est nunc omnia-: idne est, quo traducti luctum levemus? Sit sane summum malum dolere: in eo igitur qui non est, si malo careat, continuone fruitur summo bono?
  
 
  
-[ 41 ] Quid tergiversamur, Epicure, nec fatemur eam nos dicere voluptatem, quam tu idem. cum os perfricuisti, soles dicere? Sunt haec tua verba necne? In eo quidem libro, qui continet omnem disciplinam tuam, fungar enim iam interpretis munere, ne quis me putet fingere&#151;dicis haec: 'Nec equidem habeo, quod intellegam bonum illud, detrahens eas voluptates quae sapore percipiuntur, detrahens eas quae rebus percipiuntur veneriis, detrahens eas quae auditu e cantibus, detrahens eas etiam quae ex formis percipiuntur oculis suavis motiones, sive quae aliae voluptates in toto homine gignuntur quolibet sensu. Nec vero ita dici potest, mentis laetitiam solam esse in bonis. Laetantem enim mentem ita novi: spe eorum omnium, quae supra dixi, fore ut natura iis potiens dolore careat.'
+[ 41 ] Quid tergiversamur, Epicure, nec fatemur eam nos dicere voluptatem, quam tu idem. cum os perfricuisti, soles dicere? Sunt haec tua verba necne? In eo quidem libro, qui continet omnem disciplinam tuam, fungar enim iam interpretis munere, ne quis me putet fingere—dicis haec: 'Nec equidem habeo, quod intellegam bonum illud, detrahens eas voluptates quae sapore percipiuntur, detrahens eas quae rebus percipiuntur veneriis, detrahens eas quae auditu e cantibus, detrahens eas etiam quae ex formis percipiuntur oculis suavis motiones, sive quae aliae voluptates in toto homine gignuntur quolibet sensu. Nec vero ita dici potest, mentis laetitiam solam esse in bonis. Laetantem enim mentem ita novi: spe eorum omnium, quae supra dixi, fore ut natura iis potiens dolore careat.'
  
 
  
@@ -277,7 +277,7 @@ Haec mala, o stultissime Aceta, ipse tibi addidisti; non inerant in is quae tibi
  
 
  
-[ 43 ] Ad hancine igitur vitam Telamonem illum revocabis, ut leves aegritudinem, et si quem tuorum adflictum maerore videris, huic acipenserem potius quam aliquem Socraticum libellum dabis? hydrauli hortabere ut audiat voces potius quam Platonis? expones, quae spectet, florida et varia? fasciculum ad naris admovebis? incendes odores et sertis redimiri iubebis et rosa? si vero aliquid etiam&#151;, tum plane luctum omnem absterseris.
+[ 43 ] Ad hancine igitur vitam Telamonem illum revocabis, ut leves aegritudinem, et si quem tuorum adflictum maerore videris, huic acipenserem potius quam aliquem Socraticum libellum dabis? hydrauli hortabere ut audiat voces potius quam Platonis? expones, quae spectet, florida et varia? fasciculum ad naris admovebis? incendes odores et sertis redimiri iubebis et rosa? si vero aliquid etiam—, tum plane luctum omnem absterseris.
  
 
  
@@ -350,7 +350,7 @@ Scitis quae sequantur, et illa in primis:
  
 
  
- XXI . [ 50 ] Et queruntur quidam Epicurei, viri optimi&#151;nam nullum genus est minus malitiosum&#151;, me studiose dicere contra Epicurum. Ita credo, de honore aut de dignitate contendimus. Mihi summum in animo bonum videtur, illi autem in corpore, mihi in virtute, illi in voluptate. Et illi pugnant, et quidem vicinorum fidem implorant&#151;multi autem sunt, qui statim convolent -; ego sum is qui dicam me non laborare, actum habiturum, quod egerint.
+ XXI . [ 50 ] Et queruntur quidam Epicurei, viri optimi—nam nullum genus est minus malitiosum—, me studiose dicere contra Epicurum. Ita credo, de honore aut de dignitate contendimus. Mihi summum in animo bonum videtur, illi autem in corpore, mihi in virtute, illi in voluptate. Et illi pugnant, et quidem vicinorum fidem implorant—multi autem sunt, qui statim convolent -; ego sum is qui dicam me non laborare, actum habiturum, quod egerint.
  
 
  
@@ -581,7 +581,7 @@ Sed plures sunt causae suscipiendi doloris:
  
 
  
- XXX . Sed de hoc alias; nunc illud satis est, non attribuere ad amissionem amicorum miseriam nostram, ne illos plus quam ipsi velint, si sentiant, plus certe quam nosmet ipsos diligamus. Nam quod aiunt plerosque consolationibus nihil levari adiunguntque consolatores ipsos confiteri se miseros, cum ad eos impetum suum fortuna converterit, utrumque dissolvitur. Sunt enim ista non naturae vitia, sed culpae. Stultitiam. autem accusare quamvis copiose licet. Nam et qui non levantur, &lt;se&gt; ipsi &lt;se&gt; ad miseriam invitant, et qui suos casus aliter ferunt atque ut auctores aliis ipsi fuerunt, non sunt vitiosiores quam fere plerique, qui avari avaros, gloriae cupidos gloriosi reprehendunt. Est enim proprium stultitiae aliorum vitia cernere, oblivisci suorum.
+ XXX . Sed de hoc alias; nunc illud satis est, non attribuere ad amissionem amicorum miseriam nostram, ne illos plus quam ipsi velint, si sentiant, plus certe quam nosmet ipsos diligamus. Nam quod aiunt plerosque consolationibus nihil levari adiunguntque consolatores ipsos confiteri se miseros, cum ad eos impetum suum fortuna converterit, utrumque dissolvitur. Sunt enim ista non naturae vitia, sed culpae. Stultitiam. autem accusare quamvis copiose licet. Nam et qui non levantur, <se> ipsi <se> ad miseriam invitant, et qui suos casus aliter ferunt atque ut auctores aliis ipsi fuerunt, non sunt vitiosiores quam fere plerique, qui avari avaros, gloriae cupidos gloriosi reprehendunt. Est enim proprium stultitiae aliorum vitia cernere, oblivisci suorum.
  
 
  
@@ -598,8 +598,8 @@ Sed plures sunt causae suscipiendi doloris:
 
  
 [ 76 ] Sunt qui unum officium consolantis putent malum illud omnino non esse, ut Cleanthi placet; sunt qui non magnum malum, ut Peripatetici; sunt qui abducant a malis ad bona, ut Epicurus; sunt qui satis putent estendere nihil inopinati accidisse,
-&lt; ut cyrenaici&gt; [nihil mali]. Chrysippus aut caput esse censet in consolando detrahere illam opinionem maerenti,
- se officio fungi putet iusto atque debito. Sunt etiam qui haec omnia genera consolando colligant&#151;alius enim alio modo movetur&#151;, ut fere nos in Consolatione omnia in consolationem unam coniecimus; erat enim in tumore animus, et omnis in eo temptabatur curatio. Sed sumendum tempus est non minus in animorum morbis quam in corporum; ut Prometheus ille Aeschyli, cui cum dœctum esset:
+< ut cyrenaici> [nihil mali]. Chrysippus aut caput esse censet in consolando detrahere illam opinionem maerenti,
+ se officio fungi putet iusto atque debito. Sunt etiam qui haec omnia genera consolando colligant—alius enim alio modo movetur—, ut fere nos in Consolatione omnia in consolationem unam coniecimus; erat enim in tumore animus, et omnis in eo temptabatur curatio. Sed sumendum tempus est non minus in animorum morbis quam in corporum; ut Prometheus ille Aeschyli, cui cum dœctum esset:
 
  
 
@@ -621,7 +621,7 @@ respondit:
  
 
  XXXII . [ 77 ] Erit igitur in consolationibus prima medicina docere aut nullum malum esse aut admodum parvum, altera et de communi condicione vitae et proprie, si quid sit de ipsius qui maereat disputandum, tertia summam esse stultitiam frustra confici maerore, cum intellegas nihil posse profici. Nam Cleanthes quidem sapientem consolatur, qui consolatione non eget. Nihil enim esse malum, quod turpe non sit, si lugenti persuaseris, non tu illi luctum, sed stultitiam detraxeris; alienum autem tempus docendi. Et tamen non satis mihi videtur vidisse hoc Cleanthes, suscipi aliquando aegritudinem posse ex eo ipso, quod esse summum malum Cleanthes ipse fateatur. Quid enim dicemus, cum Socrates Alcibiadi persuasisset, ut accepimus, eum nihil hominis esse nec quicquam inter Alcibiadem summo loco
-natum et quemvis baiolum interesse, cum se Alcibiades adflictaret lacrimansque Socrati supplex esset, ut sibi virtutem traderet turpitudinemque depelleret,&#151;quid dicemus, Cleanthe? num in illa re, quae aegritudine Alcibiadem adficiebat, mali nihil fuisse?
+natum et quemvis baiolum interesse, cum se Alcibiades adflictaret lacrimansque Socrati supplex esset, ut sibi virtutem traderet turpitudinemque depelleret,—quid dicemus, Cleanthe? num in illa re, quae aegritudine Alcibiadem adficiebat, mali nihil fuisse?
  
 
  
@@ -629,7 +629,7 @@ natum et quemvis baiolum interesse, cum se Alcibiades adflictaret lacrimansque S
  
 
  
- XXXIII . [ 79 ] Ne illa quidem firmissima consolatio est, quamquam et usitata est et saepe prodest: 'non tibi hoc soli.' Prodest haec quidem, ut dixi, sed nec semper nec omnibus; sunt enim qui respuant; sed refert, quo modo adhibeatur. Ut enim tulerit quisque eorum qui sapienter tulerunt, non quo quisque incommodo adfectus sit, praedicandum est. Chrysippi ad veritatem firmissima est, ad tempus aegritudinis difficilis. Magnum opus est probare maerenti illum suo iudicio et, quod se ita putet oportere facere, maerere. Nimirum igitur, ut in causis non semper utimur eodem statu&#151;sic enim appellamus controversiarum genera-, sed ad tempus, ad controversiae naturam, ad personam accomodamus, sic in aegritudine lenienda, quam quisque curationem recipere possit, videndum est.
+ XXXIII . [ 79 ] Ne illa quidem firmissima consolatio est, quamquam et usitata est et saepe prodest: 'non tibi hoc soli.' Prodest haec quidem, ut dixi, sed nec semper nec omnibus; sunt enim qui respuant; sed refert, quo modo adhibeatur. Ut enim tulerit quisque eorum qui sapienter tulerunt, non quo quisque incommodo adfectus sit, praedicandum est. Chrysippi ad veritatem firmissima est, ad tempus aegritudinis difficilis. Magnum opus est probare maerenti illum suo iudicio et, quod se ita putet oportere facere, maerere. Nimirum igitur, ut in causis non semper utimur eodem statu—sic enim appellamus controversiarum genera-, sed ad tempus, ad controversiae naturam, ad personam accomodamus, sic in aegritudine lenienda, quam quisque curationem recipere possit, videndum est.
  
 
  
@@ -645,7 +645,7 @@ natum et quemvis baiolum interesse, cum se Alcibiades adflictaret lacrimansque S
  
 
  
-[ 82 ] et tamen, ut medici toto corpore curando minimae etiam parti, si condoluit, medentur, sic philosophia cum universam aegritudinem sustulit, &lt;sustulit&gt; etiam, si quis error alicunde, extitit, si paupertas momordit, si ignominia pupugit, si quid tenebrarum obfudit exilium, aut eorum quae modo dixi si quid extitit. Etsi singularum rerum sunt propriae consolationes, de quibus audies tu quidem, cum voles. Sed ad eundem fontem revertendum est, aegritudine procul abesse a sapiente, quod inanis sit, quod frustra suscipiatur, quod non natura exoriatur, sed iudicio, sed opinione, sed quadam invitatione ad dolendum, cum id decreverimus ita fieri oportere.
+[ 82 ] et tamen, ut medici toto corpore curando minimae etiam parti, si condoluit, medentur, sic philosophia cum universam aegritudinem sustulit, <sustulit> etiam, si quis error alicunde, extitit, si paupertas momordit, si ignominia pupugit, si quid tenebrarum obfudit exilium, aut eorum quae modo dixi si quid extitit. Etsi singularum rerum sunt propriae consolationes, de quibus audies tu quidem, cum voles. Sed ad eundem fontem revertendum est, aegritudine procul abesse a sapiente, quod inanis sit, quod frustra suscipiatur, quod non natura exoriatur, sed iudicio, sed opinione, sed quadam invitatione ad dolendum, cum id decreverimus ita fieri oportere.
  
 
  

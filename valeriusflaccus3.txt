@@ -59,7 +59,7 @@ signa tubae vox et mediis emissa tenebris:
 'hostis habet portus, soliti rediere Pelasgi!'      45 
 rupta quies, deus ancipitem lymphaverat urbem 
 Mygdoniae Pan iussa ferens saevissima Matris, 
-Pan nemorum belli&lt;que&gt; potens, quem lucis ab horis 
+Pan nemorum belli<que> potens, quem lucis ab horis 
 antra tenent, patet ad medias per devia noctes 
 saetigerum latus et torvae coma sibila frontis.      50 
 vox omnes super una tubas, qua conus et enses, 
@@ -153,7 +153,7 @@ sternit et elatae propius succedere dextrae
 Telecoonta sinit librataque ora securi      140 
 disiecit cervice tenus. simul aspera victor 
 cingula sublustri vibrantia detrahit umbra. 
-'has, precor, exuvias &lt;et&gt; opima cadavera' Nestor 
+'has, precor, exuvias <et> opima cadavera' Nestor 
 'linquite!' ait. 'ferro potius mihi dextera, ferro 
 navet opus!' prensumque manu detruncat Amastrum      145 
 diversasque simul socios invadere turmas 
@@ -214,7 +214,7 @@ qua stomachi secreta, ferit laetusque profatur:      200
 'di, precor, hunc regem aut aeque delegerit alta 
 fors mihi gente satum magnusque et flebilis urbi 
 conciderit.' super addit Aren fratremque Melanthum 
-Phoceaque Oleniden, &lt;Le&gt;legum qui pulsus ab oris 
+Phoceaque Oleniden, <Le>legum qui pulsus ab oris 
 regis amicitiam et famuli propioris honores      205 
 (qua patiens non arte?) tulit. nox alta cadentum 
 ingentes resonat sonitus augetque ruinas. 
@@ -307,7 +307,7 @@ exstinguine mea (fatis id defuit unum)
 speravi te posse manu talisve reliqui      295 
 has ego, amice, domos? quod si iam bella manebant 
 et placitum hoc superis, nonne haec mea iustius essent 
-funera meque tuus &lt;potius&gt; nunc plangeret error 
+funera meque tuus <potius> nunc plangeret error 
 nec Clarii nunc antra dei quercusque Tonantis 
 arguerem? talesne acies, talesne triumphos      300 
 sorte dabant? tantumque nefas mens conscia vatum 
@@ -412,7 +412,7 @@ est procul ad Stygiae devexa silentia noctis
 Cimmerium domus et superis incognita tellus 
 caeruleo tenebrosa situ, quo flammea numquam      400 
 Sol iuga sidereos nec mittit Iuppiter annos. 
-stant &lt;ta&gt;citae frondes immotaque silva comanti 
+stant <ta>citae frondes immotaque silva comanti 
 horret Averna iugo. specus umbrarumque meatus 
 subter et Oceani praeceps fragor arvaque nigro 
 vasta metu et subitae post longa silentia voces.      405 
@@ -472,7 +472,7 @@ umbrarum famuli, linguis rapuere coruscis.
   Continuo puppem petere et considere transtris 
 imperat Ampycides nec visum vertere terrae:      460 
 exciderint quae gesta manu, quae debita fatis. 
-illi alacres pars arma locant, pars ardua &lt;summis&gt; 
+illi alacres pars arma locant, pars ardua <summis> 
 insternunt tabulata toris oriturque trementum 
 remorum sonus et laetae concordia vocis. 
 Iuppiter urgentem ceu summa Ceraunia nubem      465 
@@ -528,7 +528,7 @@ vidimus: en ego nunc regum soror++et mihi gentis
 ullus honos? iam tum indecores iussaeque dolorum      515 
 primitiae et tenero superati protinus angues. 
 debueram nullos iuveni iam quaerere casus 
-victa nec &lt;ad&gt; tales forsan descendere pugnas. 
+victa nec <ad> tales forsan descendere pugnas. 
 verum animis insiste tuis ~actumque movebo~ 
 tende, pudor; mox et Furias Ditemque movebo.'      520 
 haec ait et pariter laevi iuga pinea montis 
@@ -676,7 +676,7 @@ tu comitem Alciden ad Phasidis amplius arva
 adfore, tu socias ultra tibi rere pharetras? 
 non ea fax odiis oblitave numine fesso 
 Iuno sui. nova Tartareo fors semine monstra      665 
-at&lt;que&gt; iterum Inachiis iam nuntius urget ab Argis. 
+at<que> iterum Inachiis iam nuntius urget ab Argis. 
 non datur haec magni proles Iovis, at tibi Pollux 
 stirpe pares Castorque manent, at cetera divum 
 progenies nec parva mihi fiducia gentis. 

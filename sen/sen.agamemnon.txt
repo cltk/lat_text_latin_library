@@ -23,7 +23,7 @@ hoc est uetustum Pelopiae limen domus;
 hinc auspicari regium capiti decus 
 mos est Pelasgis, hoc sedent alti toro 
 quibus superba sceptra gestantur manu,      10 
-locus hic habendae curiae&#151;hic epulis locus. 
+locus hic habendae curiae—hic epulis locus. 
   Libet reuerti. nonne uel tristes lacus 
 incolere satius? nonne custodem Stygis 
 trigemina nigris colla iactantem iubis 
@@ -49,18 +49,18 @@ ergo ut per omnis liberos irem parens,
 coacta fatis gnata fert utero graui 
 me patre dignum. uersa natura est retro: 
 auo parentem, pro nefas, patri uirum,      35 
-gnatis nepotes miscui&#151;nocti diem. 
+gnatis nepotes miscui—nocti diem. 
   Sed sera tandem respicit fessos malis 
 post fata demum sortis incertae fides: 
 rex ille regum, ductor Agamemnon ducum, 
 cuius secutae mille uexillum rates      40 
 Iliaca uelis maria texerunt suis, 
 post decima Phoebi lustra deuicto Ilio 
-adest&#151;daturus coniugi iugulum suae. 
+adest—daturus coniugi iugulum suae. 
 Iam iam natabit sanguine alterno domus: 
 enses secures tela, diuisum graui      45 
 ictu bipennis regium uideo caput; 
-iam scelera prope sunt, iam dolus caedes cruor&#151; 
+iam scelera prope sunt, iam dolus caedes cruor— 
 parantur epulae. causa natalis tui, 
 Aegisthe, uenit. quid pudor uultus grauat? 
 quid dextra dubio trepida consilio labat?      50 
@@ -137,7 +137,7 @@ quod ulla coniunx perfida atque impos sui
 amore caeco, quod nouercales manus 
 ausae, quod ardens impia uirgo face 
 Phasiaca fugiens regna Thessalica trabe:      120 
-ferrum, uenena&#151;uel Mycenaeas domos 
+ferrum, uenena—uel Mycenaeas domos 
 coniuncta socio profuge furtiua rate. 
 Quid timida loqueris furta et exilium et fugas? 
 soror ista fecit: te decet maius nefas. 
@@ -203,7 +203,7 @@ sine hoste uictus marcet ac Veneri uacat
 reparatque amores; neue desertus foret 
 a paelice umquam barbara caelebs torus,      185 
 ablatam Achilli diligit Lyrnesida 
-nec rapere puduit e sinu auulsam uiri&#151; 
+nec rapere puduit e sinu auulsam uiri— 
 en Paridis hostem! nunc nouum uulnus gerens 
 amore Phrygiae uatis incensus furit, 
 et post tropaea Troica ac uersum Ilium      190 
@@ -240,7 +240,7 @@ Vltrix inultum Graecia hoc facinus feret?      220
 equos et arma classibusque horrens fretum 
 propone et alto sanguine exundans solum 
 et tota captae fata Dardaniae domus 
-regesta Danais&#151;comprime adfectus truces 
+regesta Danais—comprime adfectus truces 
 mentemque tibimet ipsa pacifica tuam.      225 
   [Aegisthvs] Quod tempus animo semper ac mente horrui 
 adest profecto, rebus extremum meis. 
@@ -583,7 +583,7 @@ uicisse caelum Palladem fulmen mare.
 non me fugauit bellici terror dei, 
 [et Hectorem una solus et Martem tuli] 
 Phoebea nec me tela pepulerunt gradu: 
-cum Phrygibus istos uicimus&#151;tene horream      550 
+cum Phrygibus istos uicimus—tene horream      550 
 aliena inerti tela iaculantem manu? 
 quid si ipse mittat?' plura cum auderet furens, 
 tridente rupem subruit pulsam pater 
@@ -762,7 +762,7 @@ quid mentis inopem, sacra Parnasi iuga,
 rapitis? recede, Phoebe, iam non sum tua, 
 extingue flammas pectori infixas meo. 
 cui nunc uagor uesana? cui bacchor furens? 
-iam Troia cecidit&#151;falsa quid uates agor?      725 
+iam Troia cecidit—falsa quid uates agor?      725 
   Vbi sum? fugit lux alma et obscurat genas 
 nox alta et aether abditus tenebris latet. 
 sed ecce gemino sole praefulget dies 
@@ -816,7 +816,7 @@ pater decoros Dardanus.
  [Cho.] Iam peruagatus ipse se fregit furor,      775 
 caditque flexo qualis ante aras genu 
 ceruice taurus uulnus incertum gerens. 
-releuemus artus.&#151;En deos tandem suos 
+releuemus artus.—En deos tandem suos 
 uictrice lauru cinctus Agamemnon adit, 
 et festa coniunx obuios illi tulit      780 
 gressus reditque iuncta concordi gradu. 
@@ -924,7 +924,7 @@ et ipse picta ueste sublimis iacet,
 Priami superbas corpore exuuias gerens.      880 
   Detrahere cultus uxor hostiles iubet, 
 induere potius coniugis fidae manu 
-textos amictus&#151;horreo atque animo tremo: 
+textos amictus—horreo atque animo tremo: 
 regemne perimet exul et adulter uirum? 
 uenere fata. sanguinem extremae dapes      885 
 domini uidebunt et cruor Baccho incidet. 
@@ -993,12 +993,12 @@ hostes et ultro uulneri opponam caput.
 et signa caedis ueste maculata gerit. 
 manus recenti sanguine etiamnunc madent 
 uultusque prae se scelera truculenti ferunt.      950 
-concedam ad aras.&#151;Patere me uittis tuis, 
+concedam ad aras.—Patere me uittis tuis, 
 Cassandra, iungi paria metuentem tibi. 
   [Clytemestra] Hostis parentis, impium atque audax caput, 
 quo more coetus publicos uirgo petis? 
  [El.] Adulterorum uirgo deserui domum.      955 
- [Cl.] Quis esse credat uirginem&#151; [El.] Gnatam tuam? 
+ [Cl.] Quis esse credat uirginem— [El.] Gnatam tuam? 
  [Cl.] Modestius cum matre. [El.] Pietatem doces? 
  [Cl.] Animos uiriles corde tumefacto geris; 
 sed agere domita feminam disces malo. 
@@ -1038,7 +1038,7 @@ uidua ante thalamos, exul, inuisa omnibus
 aethere negato sero subcumbet malis. 
  [El.] Concede mortem. [Ae.] Si recusares, darem: 
 rudis est tyrannus morte qui poenam exigit.      995 
- [El.] Mortem aliquid ultra est? [Ae.] Vita, si cupias mori.&#151; 
+ [El.] Mortem aliquid ultra est? [Ae.] Vita, si cupias mori.— 
 Abripite, famuli, monstrum et auectam procul 
 ultra Mycenas ultimo in regni angulo 
 uincite saeptam nocte tenebrosi specus, 

@@ -69,8 +69,8 @@ Se Langobardum natu civemque fuisse
 Ingenuum Bari, patriis respondit at esse 
 Finibus extorrem Graeca feritate coactum. 
 Exilio cuius dum Galli compaterentur, 
-&#171; Quam facilem reditum, si vos velletis, haberem, 
-Nos aliquot vestra de gente iuvantibus &#187; inquit. 
+« Quam facilem reditum, si vos velletis, haberem, 
+Nos aliquot vestra de gente iuvantibus » inquit. 
 Testabatur enim cito Graecos esse fugandos 
 Auxiliis horum, facili comitante labore. 
 Illi donandum patriae munimine gentis 
@@ -119,7 +119,7 @@ Agmina Graecorum propere direxit in hostes.
 Non etenim per se certamina prima paravit, 
 Sed per legatum, cognomen cui Pacianus 
 Et Leo nomen erat, qui iuxta fluminis undam 
-Nomine Fertorii&#151;locus est et Arenula dictus&#151; 
+Nomine Fertorii—locus est et Arenula dictus— 
 Deduxit secum multos ad bella Pelasgos. 
 Maii mensis erant aptissima tempora Marti: 
 Hoc ad bella solent procedere tempore reges. 
@@ -163,8 +163,8 @@ Viribus et validis circumstans plurimus hostis;
 Quare nullus eis tutus locus esse videtur, 
 Montibus interdum, nunc vallibus inde remotis. 
 Sed cum iam nullum sperarent posse parari 
-Auxilium&#151;victis incommoda quippe videntur 
-Omnia, victores fors creditur ipsa iuvare&#151; 
+Auxilium—victis incommoda quippe videntur 
+Omnia, victores fors creditur ipsa iuvare— 
 Cumque vagi, instabiles, iam per loca multa vagantes, 
 Nullis sede locis possent insistere certa, 
 Consilium tandem dat rixa propinqua morandi. 
@@ -407,7 +407,7 @@ Dicitur hunc victor genuisse Basilius ille,
 Qui duce sub Melo Gallos dare terga coegit. 
 Inde redit Siculas Michael Dochianus ad oras. 
 Exaugustus eos, quorum sibi tradita cura est, 
-Taliter alloquitur: &#171; Prudentia vestra virili 
+Taliter alloquitur: « Prudentia vestra virili 
 Condicione vigens, non vos permittat habere 
 Cor muliebre, viri. Quae vos ignavia semper 
 Cogit inire fugam? Memores estote priorum, 
@@ -428,7 +428,7 @@ Hosti adimit vires, qui stare viriliter audet.
 Procurate sequi vestigia prima parentum, 
 Iam fuga displiceat; totus vos sentiat orbis 
 Fortes esse viros. Non est ad bella timendus 
-Francorum populus, numeroque et viribus impar &#187;. 
+Francorum populus, numeroque et viribus impar ». 
 His dictis animos Graecorum accendit, et omnes 
 Praecipit Argolicos montana relinquere, campi 
 Quaerere planiciem; campis et castra locavit. 
@@ -492,15 +492,15 @@ Cuius eis placidus fuerat pater. Ipse precantem
 Exaudit populum; nocturno tempore secum 
 Deducit Barum natu sensuque priores, 
 Quos sancti ductos Apollinaris ad aedem 
-Taliter affatur: &#171; Pretii cum nulla facultas 
+Taliter affatur: « Pretii cum nulla facultas 
 Sit mihi, quo possim populum donare potentem, 
 Cur populus vester me vult sibi praefore, miror. 
 Vos etenim novi diversis rebus egere; 
-Quas cum non dedero, me non dare posse dolebo &#187;. 
-Illi respondent: &#171; Nostrum te principe nullus 
+Quas cum non dedero, me non dare posse dolebo ». 
+Illi respondent: « Nostrum te principe nullus 
 Pauper erit vel egens, duce te fortuna favebit, 
 Consiliique vias, duce quas genitore solebat 
-Pandere, te nobis effecto principe pandet &#187;. 
+Pandere, te nobis effecto principe pandet ». 
 Hoc ubi dixerunt, sublimant protinus illum 
 Omnes unanimes. Communi fit prece princeps. 
 Interea magno Danaum comitante paratu, 
@@ -782,13 +782,13 @@ Corpora derident Normanica, quae breviora
 Esse videbantur, nec eorum nuntia curant, 
 Utpote nec numero populi nec viribus aequi. 
 Conveniunt papam verbis animoque superbi: 
-&#171; Praecipe Normannis Italas dimittere terras 
+« Praecipe Normannis Italas dimittere terras 
 Abiectis armis, patriosque revisere fines. 
 Quod si noluerint, nec foedera pacis ab ipsis 
 Suscipias volumus, nec eorum nuntia cures. 
 Nondum sunt gladios experti Teutonicorum. 
 Intereant gladiis, aut compellantur abire, 
-Invitique solum, quod nolunt sponte, relinquant &#187;. 
+Invitique solum, quod nolunt sponte, relinquant ». 
 Papa licet tumidis varia ratione renitens, 
 Non animos gentis potuit sedare superbae. 
 Spem dabat his Italae fex indignissima gentis, 
@@ -855,7 +855,7 @@ Germani comites praesunt Trasmundus et Atto,
 Et Burrellina generosa propagine proles. 
 Hi simul ad bellum properant, Campique Marini 
 Accola Malfredus, Molinensisque Rodulfi 
-Rofredus socer &#151; huius castrum Gardia nomen &#151; 
+Rofredus socer — huius castrum Gardia nomen — 
 Et plures alii, quorum non nomina novi. 
 Huc quoque Romani, Samnites et Capuani 
 Auxilium mittunt, nec opes Ancona negavit. 
@@ -940,9 +940,9 @@ Patrata rediens ingenti caede Ricardus
 Ausoniae gentis, cuius pars altera fugit, 
 Altera pars gladiis et cuspide caesa remansit, 
 Dum sic Teutonicos sociis obstare videret, 
-Proh dolor &#187; exclamat, &#171; quam credebamus adesse 
+Proh dolor » exclamat, « quam credebamus adesse 
 Finito bello, nondum victoria finem 
-Obtinet! &#187;; et medios ruit incunctanter in hostes. 
+Obtinet! »; et medios ruit incunctanter in hostes. 
 Hi, quia spes iam nulla fugae, spes nulla salutis, 
 Acnus obsistunt; sed nil obsistere prodest, 
 Tot circumveniunt. Acies praeclara Ricardi 
@@ -1355,7 +1355,7 @@ Horum prospectu desistant laedere Graecos.
  
 
  
-Invitam&#151;profugis collecta pecunia servis&#151; 
+Invitam—profugis collecta pecunia servis— 
 Insomnem Danu coguntur ducere noctem. 
 Adveniente die venit innumerabilis ille
  
@@ -1396,8 +1396,8 @@ Egregio, iuxta Persarum rege sedente.
  
 Rex percunctatur, si forte fuisset ab illo 
 Captus, quid faceret? Romanus retulit illi: 
-&#171; Si mihi sive meis ita subiicerere, iuberem 
-Vel truncare caput, vel te suspendere furcis &#187;.
+« Si mihi sive meis ita subiicerere, iuberem 
+Vel truncare caput, vel te suspendere furcis ».
  
 
  
@@ -1637,7 +1637,7 @@ Diffisos equites, coeptis insistere poscit.
  
 
  
-&#171; Virtus vestra, viri, varios experta labores, 
+« Virtus vestra, viri, varios experta labores, 
 Vel modo laudis, ait, vel erit modo digna repulsae. 
 Urbs inimica Deo, divini nescia cultus, 
 Subdita daemonibus, veteri spoliata vigore, 
@@ -1648,7 +1648,7 @@ Acrius obstabit. Dum tempus adesse videtis,
 Currite! dura capi, Christo miserante, patebit. 
 Difficilem quemvis facilem facit ipse laborem. 
 Hoc duce confisi, bellis imponite finem, 
-Atque invadendam cuncti properemus ad urbem &#187;. 
+Atque invadendam cuncti properemus ad urbem ». 
 His animat dictis Robertus corda suorum. 
 Ascensis scalis properant conscendere muros, 
 Seque voluntati promtos ducis affore spondent. 
@@ -1830,7 +1830,7 @@ Huic dabat ille cibos, et postquam sufficienti
 Pasta cibo fuerat, circa praecordia quosdam 
 Apposito sacco panes inferre solebat, 
 Quorum commoditas vitae foret apta diurnae. 
-Hos celeri cursu rediens&#151;mirabile dictu&#151; 
+Hos celeri cursu rediens—mirabile dictu— 
 Et nusquam remorans canis ad sua tecta ferebat; 
 Sic alimenta sagax dominoque sibique parabat. 
 Esuriem tantam quidam non ferre valentes, 
@@ -1967,7 +1967,7 @@ Affuit obsessae simul Argiricius urbi
 Cum populo Bari, Trani pariterque Choreti. 
 Andrenses etiam cum Buxiliensibus assunt. 
 Gens Iuvenacensis non obsidione vel armis 
-Territa stat fortis; defendere moenia &#171; at, 
+Territa stat fortis; defendere moenia « at, 
 Et ponit vigiles, obsistit et acriter illis, 
 Qui foris insistunt. Hi pugnant, illa repugnat. 
 Impugnata licet terra marique fuisset, 
@@ -1975,9 +1975,9 @@ Arte capi nulla valuit. Legatus ab urbe
 Forte Betontina fictos deferre iubetur 
 Rumores; caute Guilerrnus adinvenit illos 
 Filius Ivonis, cui dux concesserat urbem. 
-&#171; Ecce Rogerus adest Roberti filius &#187;, inquit 
-Nuncius, &#171; et multas equitum peditumque catervas 
-Dux sibi ducendas dedit &#187;. Hunc properasse putantes, 
+« Ecce Rogerus adest Roberti filius », inquit 
+Nuncius, « et multas equitum peditumque catervas 
+Dux sibi ducendas dedit ». Hunc properasse putantes, 
 Diffugiunt cuncti quos urbis ad obsidionem 
 Duxerat, ut captam sibi subdere possit, Amicus. 
 Dux licet audierit tot convenisse rebelles, 
@@ -2032,23 +2032,23 @@ Pignoribus caris quia praeposuere tenorem
 
  
 Promissae fidei. Tunc omnibus oscula praebens, 
-&#171; Ne timeatis, ait; non deformabit Amicus
+« Ne timeatis, ait; non deformabit Amicus
  
 
  
 Quemlibet ex pueris, omni quia postulat arte 
-Ut mea reddatur sibi gratia &#187;. Taliter illi
+Ut mea reddatur sibi gratia ». Taliter illi
  
 
  
-Respondet populus: &#171; Tua nos praecepta paratos 
+Respondet populus: « Tua nos praecepta paratos 
 Crede sequi, totam domino committere curam
  
 
  
 Natorum; quia nullus amor removere valebit 
 Nos ab amore tuo. Tantum servator amoris 
-Sis petimus nostri dominator et esto benignus &#187;. 
+Sis petimus nostri dominator et esto benignus ». 
 Auditis populi precibus favet ille precantis. 
 Annis tota sui tribus est solvenda tributi 
 Pactio, dimidii concessa perenniter illis.
@@ -2085,8 +2085,8 @@ Hoc infra tempus Iuvenacum mittere quosdam
 Dus equites lectos procurans, praeciplt illis 
 Non tantum prodesse suis, sed obesse laborent 
 Hostibus, hosque modo poterunt quocunque molestent. 
-Hii postquam longo&#151;nec enim fas pergere recto 
-His erat&#151;adveniunt Iuvenacum tramite ducti 
+Hii postquam longo—nec enim fas pergere recto 
+His erat—adveniunt Iuvenacum tramite ducti 
 Callibus obliquis, aderat quia plutimus hostis, 
 Infestare ducis coepere viriliter hostes; 
 Quique prius soliti fuerant inferre rapinas, 
@@ -2456,9 +2456,9 @@ Et plectris, qui se Michaelem finxerat esse,
 More coronatus deducitur imperiali, 
 Circumvallatus cantantibus undique turbis. 
 Unanimi cives, hunc ut videre, cachinno 
-Visum derident dicentes: &#171; Iste solebat 
+Visum derident dicentes: « Iste solebat 
 Crateras mensis plenos deferre Lieo, 
-Et de pincernis erat inferioribus unus &#187;.
+Et de pincernis erat inferioribus unus ».
  
 
  
@@ -2797,7 +2797,7 @@ Obstat congrediens paulisper Alexius illis,
 Sed non instantes sufferre diutius illos 
 Evaluit, petiitque fugam victusque recessit. 
 Urbem Thessaliae superatus Marte secundo 
-Appetit egregiam&#151;vulgus vocat hanc Salonichin&#151; 
+Appetit egregiam—vulgus vocat hanc Salonichin— 
 Et quia bellorum varios non ambigit esse 
 Eventus, conatur adhuc ad bella redire. 
 Gaudens audaci magis agmine quam numeroso, 
@@ -3089,7 +3089,7 @@ Coniuge, discissis flens vestibus, acceleratis
 Cursibus accessit; quae defecisse maritum 
 Extremosque videns casus instare propinquos, 
 Ungue genas lanians, impexos scissa capillos, 
-&#171; Proh dolor! exclamat, quid inibo miserrima, vel quo 
+« Proh dolor! exclamat, quid inibo miserrima, vel quo 
 Infelix potero discedere? Nonne Pelasgi 
 Audita me morte tui natumque tuumque 
 Invadent populum, quorum tu gloria solus, 
@@ -3110,7 +3110,7 @@ Parce precor; precibus quae cumdescendere nescis,
 Expecta saltim dum nos ad nostra reducat, 
 Ut locus excipiat nos post sua funera tutus. 
 Ah! Miseram! frustra precor hanc, ingrata precanti 
-Cum semper fuerit nullique peperceritt umquam &#187;. 
+Cum semper fuerit nullique peperceritt umquam ». 
 Nec minus et flenti flens cum genitrice Rogerus, 
 Magnos cum gemitu clamores tollit ad astra, 
 Se prius orbatum lacrimas patre, quam vel habendi 
@@ -3142,11 +3142,11 @@ Sitque coadiutor transgressibus aequoris illis
 Unanimes rogitant. Populo favet ille roganti. 
 Se tamen expectet, dum Cephalonia petatur 
 Insula, qua socios dimiserat, obsecrat omnes; 
-Et &#171; Nullius, ait, fidei me iure vocare 
+Et « Nullius, ait, fidei me iure vocare 
 Deberet populus dimissus in obsidione, 
 Abscedens eius si castra revisere nollem, 
 Et patris intentum, quem vobis notificavi, 
-Discessumque meum non illis notificarem &#187;. 
+Discessumque meum non illis notificarem ». 
 His dictis ad castra suae redit obsidionis, 
 Defunctumque patrem, se velle recedere pandit. 
 Acturos referunt se quisque quod egerit ille, 

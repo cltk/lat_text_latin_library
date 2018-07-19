@@ -20,7 +20,7 @@ Tertullian: De Fuga in Persecutione
  suo iam nomine iniunxerat. Quanto enim frequentiores 
  imminent persecutiones, tanto examinatio procuranda est, 
  quomodo eas excipere fides debeat. Procuranda autem examinatio 
- penes [s]vos, &lt;qui&gt; si forte Paraclitum non recipiendo, 
+ penes [s]vos, <qui> si forte Paraclitum non recipiendo, 
  deductorem omnis veritatis, merito adhuc etiam aliis quaestionibus 
  obnixi estis. [2] Igitur
  consultationi tuae ordinem quoque 
@@ -141,7 +141,7 @@ provocanti ut in superioribus aut ex causa reprobationis traditur
  ei peccator quasi carnifici in poenam ut Saul ---- Et abscessit, inquit, spiritus domini a Saule et concutiebat eum 
 spiritus nequam a domino et suffocabat eum ---- aut ex causa 
 cohibitionis, ut apostolus refert datum sibi sudem angelum 
-satanae, ut colaphizaretur, ne &lt;ignoremus&gt; hanc speciem 
+satanae, ut colaphizaretur, ne <ignoremus> hanc speciem 
  permitti diabolo in sanctos humiliandos per carnis vexationem, 
 simul ut et virtus, tolerantiae scilicet, in infirmitate perfici 
 possit. [9] Nam et ipse apostolus Phygelum et Hermogenem 
@@ -165,7 +165,7 @@ argentum. Cum enim exurimur persecutionis ardore, tunc
 probamur de fidei tenore. Haec erunt 'ignea iacula' diaboli, per quae fidei ustio et conflatio administratur, ex dei tamen 
 voluntate. [4] De isto quis dubitare possit, ignoro, nisi plane 
 frivola et frigida fides, deprehendens eos, qui timide conveniunt 
- in ecclesiam. Dicitis enim [inquit]: 'Quoniam' &lt;inquit&gt; 
+ in ecclesiam. Dicitis enim [inquit]: 'Quoniam' <inquit> 
 'incondite convenimus et simul convenimus et complures 
 concurrimus in ecclesiam, quaerimur a nationibus et timemus, 
 ne turbentur nationes hae.' Non scitis, quod deus sit omnium 
@@ -198,7 +198,7 @@ optima res pudicitia et veritas et iustitia, quae a multorum
 sensu displicent; numquid ideo status sensui addicitur? 
  [3] Ita et persecutio statu bona est, quia divina et rationalis 
 dispositio, sensui eorum vero, quorum malo venit, displicet. 
-Sed qui &lt;vi&gt;de[s]t etiam illud malum rationale apud deum 
+Sed qui <vi>de[s]t etiam illud malum rationale apud deum 
 haberi, cum quis in persecutione evertitur de salute, sicut et 
 bonum illud ratione contingere, cum quis ex persecutione proficit 
  in salute ---- nisi si inrationaliter quis aut perit apud dominum 
@@ -208,7 +208,7 @@ administratur. [4] Ita si bonum persecutio quoquo modo, quia de
 statu constat, merito definimus, quod bonum est, vitari non 
 oportere, quia delictum sit, quod bonum est, recusare, eo 
 amplius, quod deo visum est, iam vero nec posse vitari, quia a 
-deo evenit, cuius voluntas non vitari poterit. &lt;Ad&gt;eo [ad]igitur qui putant fugiendum, aut malum exprobrant deo, si 
+deo evenit, cuius voluntas non vitari poterit. <Ad>eo [ad]igitur qui putant fugiendum, aut malum exprobrant deo, si 
 persecutionem uti malum fugiunt ---- bonum enim nemo devitat 
 ----, aut fortiores se deo existimant, qui putant se evadere 
 posse, si deus tale aliquid voluerit evenire.
@@ -226,7 +226,7 @@ praesumis et salvum magis fieri, quominus fugias, sicut
  negaturum te praesumis, ut fugias? Iam nunc aut in nobis est 
 utrumque aut totum in deo; si in nobis aut confiteri aut negare, 
 cur non id praesumimus, quod est melius, id est confessuros 
-nos? ---- nisi si &lt;non&gt; vis confiteri, &lt;ne&gt; patiaris; nolle autem 
+nos? ---- nisi si <non> vis confiteri, <ne> patiaris; nolle autem 
 confiteri negare est ----; [3] si vero in deo totum est, cur non 
 totum relinquimus arbitrio eius, agnoscentes virtutem et 
 potestatem, quod possit nos sicut fugientes educere in medium, 
@@ -265,7 +265,7 @@ excepta est, quo per totum orbem praedicamus; sed nec cura
 gentibus praedicare debemus; [4] etiam si apprehendamur, non
 in concilia eorum perducemur nec in synagogis eorum flagellabimur, 
  sed Romanis utique potestatibus et tribunalibus 
- obiciemur. [5] Si&lt;c&gt; igitur et fugae praeceptum apostolorum 
+ obiciemur. [5] Si<c> igitur et fugae praeceptum apostolorum 
 condicio desiderabat, quoniam primum praedicandum erat 
  ad oves perditas domus Israelis. Ut ergo perciperetur praedicatio, 
  apud quos priores eam perfici oportebat, uti panem 
@@ -325,7 +325,7 @@ pati, quomodo fugere? Iam vero quanta inaequalitas sententiarum
 contraria[m] fugae! [quae]. [2] Qui confessus fuerit me, et ego 
 confitebor illum coram patre meo: quomodo confitebitur fugiens? 
 quomodo fugiet confitens? Qui mei confusus fuerit, et ego confundar 
- eius coram patre meo: devito passionem, confundo&lt;r&gt; 
+ eius coram patre meo: devito passionem, confundo<r> 
 confessionem. Felices, qui persecutionem passi fuerint causa 
 nominis mei: infelices ergo, qui fugiendo ex praecepto non 
  erunt passi. Qui sustinuerit in finem, iste salvabitur: quid ergo 
@@ -392,7 +392,7 @@ Paulus, utique enim non fugientes; quomodo enim sustinebantur
 infirmitatem fidei suae offenderint; sic et pusillanimes consolari, 
  non tamen in fugam mitti.
  
- Sed &lt;et&gt; cum admonet, ne locum malo demus, non fugae 
+ Sed <et> cum admonet, ne locum malo demus, non fugae 
 suggerit consilium, sed iracundiae docet temperamentum, et 
 si redimendum tempus dicit, quia dies nequam sunt, non per 
 fugam, sed per sapientiam conversationis lucrari nos vult 
@@ -428,7 +428,7 @@ magis Graecum versiculum saecularis sententiae sibi adhibent:
 'Qui fugiebat, rursus sibi proeliabitur'. Ut et rursus forsitan 
 fugiat? Et quando vincet, qui, cum fugerit, victus est? Bonum 
 militem Christo imperatori suo praestat, qui tam plene ab 
-apostolo armatus, ut tubam perseoutionis audit, a&lt;d&gt; diem 
+apostolo armatus, ut tubam perseoutionis audit, a<d> diem 
 deserit persecutionis! [2] Respondebo et ego de saeculo 
 aliquid: ' Usque adeone mori miserum est ?' Moriatur quoquo 
 modo, aut victus aut victor; nam etsi negando ceciderit, cum 
@@ -446,7 +446,7 @@ Depretiasti Christum, qui in te est, fugitivum cum diabolo te
 sui[s] vanitatem consilii: fugerat et quidam animosus prophetes 
  dominum, traiecerat ab Ioppen Tarsum, quasi et a deo 
 transfretaret; sed illum, non dico in mari et in terra, verum 
-in uterum etiam bestiae invenit, in quo nec mori per triduum potuit nec vel sic deum evadere. [5] Quanto melius &lt;dei&gt; 
+in uterum etiam bestiae invenit, in quo nec mori per triduum potuit nec vel sic deum evadere. [5] Quanto melius <dei> 
 servus, qui sive iniqu itatis do min um timens non fugit eum, 
 sed potius contemnit, confidens scilicet de tutela domini, sive 
 deum reformidat, quanto magis sub oculis eius astitit, dicens: 
@@ -485,7 +485,7 @@ gregi praesunt, fugere, cum lupi irruunt, nec decet, immo nec
 licet ---- qui enim talem pastorem malum pronuntiavit, utique 
 damnavit; omne autem quod damnatur, illicitum factum est 
 sine dubio ----, ideo praepositos ecclesiae in persecutione fugere 
-non oportebit. Ceterum si grex fugere deberet, non debere&lt;t&gt; 
+non oportebit. Ceterum si grex fugere deberet, non debere<t> 
 praepositos gregis stare, sine causa staturos ad tutelam gregis, 
 quam grex non desiderat, scilicet ex licentia fugae.
  
@@ -493,7 +493,7 @@ quam grex non desiderat, scilicet ex licentia fugae.
  XII.  [1] Quod pertineat, frater, ad tuum problema, 
 habes sententiae nostrae responsionem et exhortationem. 
 Porro si quis quaerit, an persecutio fugienda sit, sequentem 
-quoque &lt;quaestionem&gt; iam prospiciat necesse est, an, si 
+quoque <quaestionem> iam prospiciat necesse est, an, si 
 fugienda non est, redimenda certe sit. Ultro igitur et de hoc tibi suggeram, definiens persecutionem, quam constat non 
 esse fugiendam, proinde nec redimendam. [2] Pretium interest; 
 ceterum sicut fuga redemptio gratuita est, ita redemptio 
@@ -529,14 +529,14 @@ quanto, ut diximus, domino constitit, sanguine suo scilicet?
 pecuniam apostolis obtulit pro spiritu Christi. Audiet ergo 
 et iste, qui se redimens Christi spiritum redemit: Pecunia tua 
  tecum sit in interitum, quoniam gratiam dei pretio consequendam 
-putasti.  [7] Quis talem &lt;non ut&gt; abnegatorem spernat? Quid 
+putasti.  [7] Quis talem <non ut> abnegatorem spernat? Quid 
 enim dicit ille concussor? 'Da mihi pecuniam.' Certe ne eum 
 tradat, siquidem non aliud venditat, quam quod praestaturus 
 est praemio tuo. Cum das, utique ne tradaris voluisti; non 
 traditus autem traduci habebas? Ergo dum nolendo tradi 
-non vis traduci, nolendo negasti te esse, &lt;quod&gt; traduci 
+non vis traduci, nolendo negasti te esse, <quod> traduci 
 noluisti. 'Immo', inquis, 'dum nolo traduci quod sum, confessus 
- id esse, quod nolo traduci, id est Christianum'. Potes itaque te martyrem vindicare, &lt;si&gt; constanter ostendis[se] Christum; 
+ id esse, quod nolo traduci, id est Christianum'. Potes itaque te martyrem vindicare, <si> constanter ostendis[se] Christum; 
  redimens non ostendit. Apud unum si forte confessus es, 
 ergo et apud plures nolendo confiteri negasti. Ipsa salus iudicabit 
 hominem excidisse, dum evadit; excidit ergo, qui maluit evasisse. 
@@ -563,7 +563,7 @@ voluntas dei. Quae ista voluntas? utique ut pateretur pro
  nomine domini, non ut redimeretur. Oportet enim, quomodo 
 Christus animam suam posuit pro nobis, ita fieri pro eo et a 
 nobis nec tantum pro ipso, immo etiam pro fratribus propter 
-ipsum. Quod &lt;et&gt; Iohannes docens non [et] pro fratribus 
+ipsum. Quod <et> Iohannes docens non [et] pro fratribus 
 numerandum, sed moriendum potius pronuntiavit. Nihil interest, 
 si quem Christianum redimere non debeas alium an te.  [11] Et 
  adeo voluntas dei sic est: aspice regnorum et imperiorum 
@@ -606,7 +606,7 @@ extorquet; non elimosinam expectat, qui non miserandus, sed
 meae nomine, ubi, qui accepit, deum honorat et benedictionem 
 mihi reddit, non ubi amplius et benefactum praestitisse se 
 credit et praedam suam aspiciens dicit: 'De reatu'. [2] Tascam 
-et inimicum!' Sed &lt;etsi&gt; inimicitiae et alios habent titulos, non 
+et inimicum!' Sed <etsi> inimicitiae et alios habent titulos, non 
  tamen dixit traditorem aut persecutorem aut concussorem; nam huic quanto magis carbones acervabo super caput, si non 
 me redemero! 'Proinde', inquit, 'qui tibi tunicam sustulerit, 
 vel etiam pallium concede.' Ad eum pertinet, qui rem, non qui 
@@ -652,10 +652,10 @@ multo magis militem. Esto sapientia, non praemio cautus!
 Neque enim statim et a populo eris tutus, si officia militaria 
 redemeris. Una ergo tibi fides et sapientia ad tutelam opus 
 est, quibus non adhibitis et redemptionem tuam potest perdere, 
- adhibitis autem redemptionem &lt;nec&gt; desiderare. [2] Postremo 
+ adhibitis autem redemptionem <nec> desiderare. [2] Postremo 
  si colligere interdiu non potest, habes noctem, luce 
 Christi luminos i adversus eam. Non potes discurrere per 
-singulos? si&lt;t&gt; tibi e[s]t in tribus ecclesia; melius, turbas tuas 
+singulos? si<t> tibi e[s]t in tribus ecclesia; melius, turbas tuas 
 aliquando non videas, quam addicas. Serva Christo virginem 
 sponsam; nemo quaestum de ea faciat. 
  

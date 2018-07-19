@@ -325,7 +325,7 @@ mox subita in toto lucent incendia monte,
 fit sonitus, fugere ferae, fugere uolucres, 
 atque ima longe trepidant in ualle iuuencae.      310 
   At Mago, ut uertisse globos primumque laborem, 
-qui solus genti est, cas&lt;s&gt;um uidet, arma suorum 
+qui solus genti est, cas<s>um uidet, arma suorum 
 ac patrium in pugnas equitem uocat. undique nudi 
 adsiliunt frenis infrenatique manipli. 
 nunc Itali in tergum uersis referuntur habenis,      315 
@@ -361,7 +361,7 @@ Collinum gelida, uiridi quem Fucinus antro
 nutrierat dederatque lacum tramittere nando.      345 
 fit socius leti coniecta Massicus hasta, 
 uitiferi sacro generatus uertice montis 
-et Liris nutritus aquis, qui f&lt;r&gt;onte quieta 
+et Liris nutritus aquis, qui f<r>onte quieta 
 dissimulat cursum ac nullo mutabilis imbri 
 perstringit tacitas gemmanti gurgite ripas.      350 
 [exoritur rabies caedum, ac uix tela furori 
@@ -370,7 +370,7 @@ pesque pedem premit, et nutantes casside cristae
 hostilem tremulo pulsant conamine frontem.] 
   Tergemini primam ante aciem fera proelia fratres      355 
 miscebant, quos Ledaeo Sidonia Barce 
-Xant&lt;h&gt;ippo felix uteri inter bella crearat. 
+Xant<h>ippo felix uteri inter bella crearat. 
 res Graiae ductorque parens ac nobile Amyclae 
 nomen et iniectus Spartanis colla catenis 
 Regulus inflabant ueteri praecordia fama.      360 
@@ -392,12 +392,12 @@ omnis in occultas rupis atque auia pernix      375
 Maurus saxa fugit, coniunxque Libyssa profuso 
 uagitum cohibens suspendit ab ubere natos; 
 illi dira fremunt, perfractaque in ore cruento 
-ossa sonant, pugnantque feri&lt;s&gt; sub dentibus artus) 
+ossa sonant, pugnantque feri<s> sub dentibus artus) 
 haud secus Egeriae pubes, hinc Virbius acer,      380 
 hinc Capys, adsiliunt paribusque Albanus in armis. 
 subsidens paulum perfossa proruit aluo 
 Albanum Critias: ast illi cuncta repente 
-implerunt clipeum miserando uis&lt;c&gt;era lapsu. 
+implerunt clipeum miserando uis<c>era lapsu. 
 Eumachus inde Capyn++sed tota mole tenebat      385 
 ceu fixum membris tegimen; tamen improbus ensis 
 adnexam parmae decidit uulnere laeuam, 
@@ -611,7 +611,7 @@ enabat tandem medio uix gurgite pulcher
 Irpinus sociumque manus clamore uocabat,      595 
 cum rapidis inlatus aquis et uulnere multo 
 impulit asper equus fessumque sub aequora mersit. 
-  Accumula&lt;t&gt; clades subito conspecta per undas 
+  Accumula<t> clades subito conspecta per undas 
 uis elephantorum turrito concita dorso. 
 namque uadis rapitur praeceps, ceu proruta cautes      600 
 auulsi montis, Trebiamque insueta timentem 
@@ -732,7 +732,7 @@ uentorum tenet ipse uicem cunctisque procellis      715
 dat iactare ratem: fertur uaga gurgite puppis 
 ipsius in scopulos dextra impellente magistri++ 
 ergo agitur raptis praeceps exercitus armis 
-Lydorum &lt;in&gt; populos sedemque ab origine prisci 
+Lydorum <in> populos sedemque ab origine prisci 
 sacratam Corythi iunctosque a sanguine auorum      720 
 Maeonios Italis permixta stirpe colonos. 
   Nec regem Afrorum noscenda ad coepta moratur 

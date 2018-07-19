@@ -38,9 +38,9 @@ In mea captivis castra revectus equis.
 Tutus et e media Phrygiae Tritonidis arce 
 Fatalis palmae pignora capta tuli. 
 Nec timui commissus equo, male sedula quamvis 
-Clamabat vates: &#171;Urite, Troes, equum; 
+Clamabat vates: «Urite, Troes, equum; 
 Urite: mendaci celantur robore Achivi, 
-Et Phrygas in miseros ultima bella ferunt.&#187; 
+Et Phrygas in miseros ultima bella ferunt.» 
 Perdiderat tumuli supremum munus Achilles, 
 Sed Thetidi est humeris redditus ille meis. 
 Nec laudem Danai tanto renuere labori: 
@@ -138,10 +138,10 @@ Herculeam Sparten, Nestoreamque Pylon.
 Ingrata est pietas, cui tanta pericula subsunt; 
 Nam male commissus fluctibus ipse fuit. 
 SED labor in fine est. Occursum in litore vates 
-Dixit: &#171;In amplexus, care, ferere tuos. 
+Dixit: «In amplexus, care, ferere tuos. 
 Noscendus soli veniam tibi: tu preme solers 
 Laetitiam, et tacito gaudia conde sinu. 
-Non vi certandum, nec aperta in bella ruendum.&#187; 
+Non vi certandum, nec aperta in bella ruendum.» 
 Sic cecinit laurus ille monere suas. 
 Forsitan ante dapes, interque vacantia vina, 
 Ultoris pharetris utile tempus erit, 

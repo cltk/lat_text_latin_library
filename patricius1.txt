@@ -92,7 +92,7 @@ prosequamur, et propositorum probabiones exordiamur.
 ergo distinguenda. Corpora igitur alia sui natura lucida sunt, Sol, stellae,
 ignis, Alia sua natura sunt opaca, Luna, terra, nubes. Alia neque lucem
 habent, neque opacitatem, utramque tamen in se recipiunt, neutram vero
-retinent. Aether, aer, &lt;aqua. Haec Greci diaphana, Latini perspicua,
+retinent. Aether, aer, <aqua. Haec Greci diaphana, Latini perspicua,
 et transpicua appellavere. Lucida, luce plena sua, alienis tenebris sunt
 impervia. Opaca, tenebris plena suis, alieno lumini, non sunt pervia. Diaphana
 propriis et lumine, et tenebra carentia, alienis, et lumine, et tenebra
@@ -144,9 +144,9 @@ non est eis visa, cadere posse. Cadere autem posse in accidentia, et precipue
 in qualitatem, quae magis recipiat, et minus. Sed utrumque errore maximo.
 Nam accidentia reapse, et adesse subjecto, et ab eo abesse, eo servato,
 possunt. At lux, a lucido natura, a Sole, ab astris, ab ignibus, nec naturae
-vi, nec vi &lt;humanae cogitationis potest abesse. Neque enim Sol, si non
+vi, nec vi <humanae cogitationis potest abesse. Neque enim Sol, si non
 luceat, Sol remaneat. Neque sidera, ablata luce, sidera iam essent. Neque
-ignis &lt;poterit esse ignis perseverare et non lucere. Id si nequit fieri,
+ignis <poterit esse ignis perseverare et non lucere. Id si nequit fieri,
 lux neque accidens est ullum, neque est in Sole, in astris, in igne, ut
 qualitas. Sed est ipsis pars essentialis. At Sol, et astra, et ignis, corpora
 sunt, substantiae sunt. Ergo et lux, ad corpora eorum constituenda pertinet,

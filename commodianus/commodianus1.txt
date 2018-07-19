@@ -26,7 +26,7 @@ Sed gratias Domino (nec sufficit uox mea tantum
 Reddere) qui misero uacillanti tandem adluxit! 
 Adgressusque fui traditus in codice legis 
 Quid ibi rescirem; statim mihi lampada fulsit. 
-Tunc uero agnoui Deum &lt;dominum&gt; summum in altis, 
+Tunc uero agnoui Deum <dominum> summum in altis, 
 Et ideo tales hortor ab errore recedant. 
 Quis melior medicus nisi passus uulneris auctus? 
 Multi quidem bruti et ignoti, corde sopiti, 
@@ -34,7 +34,7 @@ Nihil sibi praeponunt cognoscere; more ferino
 Quaerunt, quod rapiant aut quorum sanguine uiuant. 
 Dummodo laetentur saginati uiuere porci, 
 Ingerunt ut tumulum se pulchrum, dum plaudent diuitiis. 
-&lt;Diuites&gt; mutabuntur &lt;a&gt; paupera ueste fastidiis. 
+<Diuites> mutabuntur <a> paupera ueste fastidiis. 
 Sufficeret illis utique, quod promptius edunt. 
 Si pinguis est opibus, sibi sit, si Caesari dignus: 
 Quid sua praeponunt? fragilis nec respicit ullum. 
@@ -66,7 +66,7 @@ Ipse dedit legem populo Pharaone necato,
 Et quis esset, Dominus ipse se praedixit ab illo. 
 Nec una contentus prophetica uoce se promit, 
 Sed multos adhibuit testes, qui de illo clamant. 
-Hunc ergo, cum legitis multorum praeconia &lt;uatum&gt;, 
+Hunc ergo, cum legitis multorum praeconia <uatum>, 
 Inuenietis eum carnem inuenisse pro nobis. 
 Unde nunc erratur, ordinasse talia Summum, 
 Et quasi subsannant, nec sciunt, quod ab ipso ridentur 
@@ -79,7 +79,7 @@ Sed pando praedicta uatum oberrantibus austris.
 Ergo mei similes, quos raptim aura deportat, 
 Quaerite iam portum, ubi sunt pericula nulla. 
 Agricola doctus tempestiua longe dinoscit 
-Et, priusquam ueniant, recolligit se&lt;se&gt; sub antra. 
+Et, priusquam ueniant, recolligit se<se> sub antra. 
 Estote prudentes, quod imminet ante uidete 
 Et, priusquam ueniant clades, prouidete saluti. 
 Ignauia pueris opus est, non certe robustis: 
@@ -90,12 +90,12 @@ Nemo petram subigit nisi solus ignis ad escam:
 Saxei sic homines mollescunt sero gehennae. 
 Clamamus in uacuum surdis referenda procellis 
 Et lumen offerimus caecis sine causa praebentes. 
-Stat miles ad missa&lt;m&gt;: unus audit, et excutit alter 
+Stat miles ad missa<m>: unus audit, et excutit alter 
 Nec accipit corde monita, sed perditus errat. 
 Quis modo relinquit (iudices estote de istis!), 
 Qui monet aut ille, qui non uult dicto parere? 
 Spero, reus non est, qui Caesaris dictos obaudit, 
-Contrarius autem perdit sua&lt;m&gt; uita&lt;m&gt; superbus. 
+Contrarius autem perdit sua<m> uita<m> superbus. 
 Interdum quod meum est, qui prius erraui, demonstro 
 Rectum iter uobis, qui adhuc erratis inanes. 
 Uos tamen eligite, arbitrio uestro placentes, 
@@ -125,7 +125,7 @@ Hoc Deus est lucis aeternae, hoc spiritus aeui.
 In primitiua sua qualis sit, a nullo uidetur, 
 Detransfiguratur, sicut uult ostendere sese. 
 Praebet se uisibilem angelis iuxta formam eorum 
-Et homini fit homo, ceterum Deus urbo probat&lt;ur&gt;. 
+Et homini fit homo, ceterum Deus urbo probat<ur>. 
 Idcirco nec poterit tanti Dei forma dinosci; 
 Quidquid est, unum est, immenso lumine solus; 
 Ubi facies aut oculi aut os aut membra notantur, 
@@ -136,7 +136,7 @@ Sunt quibus in ignem apparuit uoce locutus;
 Sumptus est in carnem, quem regio nulla capebat. 
 Hic Deus omnipotens, Dominus suae conditionis, 
 Cum sit inuisibilis, facit se uideri quibusdam. 
-Qui formatur modo, &lt;modo&gt; se diffundit in auras, 
+Qui formatur modo, <modo> se diffundit in auras, 
 Cuius nec initium nec finem quaerere fas est. 
 Hic sine initio semper est Deus et sine fine, 
 Qui, prius quam faceret caelum, ferebatur in aeuum; 
@@ -147,7 +147,7 @@ Ut exaltaretur sola sempiterna maiestas.
 Nam, quod erat ante, referre nunc ardua res est; 
 Sit licet descriptum, non sit nobis cura de illis. 
 Cum haec, quae uidemus, non possumus tangere tota, 
-Quis poterit scire, quid sit trans Oceani fine&lt;m&gt;? 
+Quis poterit scire, quid sit trans Oceani fine<m>? 
 Et caelum uidemus, sed illic quid intus agatur, 
 Nullo datur scire, donec fiat exitus aeui. 
 Sufficiat tantum de futuro nosse promissa; 
@@ -177,7 +177,7 @@ Deicere proposuit uniuersa paene creata.
 Deicitur et legitur Noe liberatus ab aqua, 
 Ceteri diluuio perierunt ira caelesti. 
 Hinc, sicut initio, paulatim terra repletur. 
-Cessit prius facinus, sed alter&lt;a&gt; clades adhaesit. 
+Cessit prius facinus, sed alter<a> clades adhaesit. 
 Adgressi sunt stulti turrem fabricare sub astris 
 Ut quasi per illam possent ascendere caelos. 
 Quod Deus ut uidit fieri sub una loquella 
@@ -206,7 +206,7 @@ Duos enim populos distinxerat ex se Rebecca:
 Hic prior est factus, alter ut succederet illi. 
 In Aegypto primum in Israhel concreuit alumnus; 
 Inde Deus illos eiecit duce Moyse, 
-Per quem dedit illis &lt;ipse&gt; legem in monte Sina, 
+Per quem dedit illis <ipse> legem in monte Sina, 
 Ut nostra posteritas Dominum cognosceret unum. 
 Deinde prophetas ex ipsis dicere iussit, 
 Quod Deus in hominem depretiatur ab illis. 
@@ -215,21 +215,21 @@ Ut ibi sub lege uiuerent, donec ipse ueniret.
 Gens ingrata bonis noluit iugum ferre praeceptis, 
 Sed magis in scelere prisco reuoluta florebat; 
 Nec umquam desinuit: hodie quoque talis habetur; 
-Praetermisso Deo luxuria&lt;s&gt; saeculi mauult. 
+Praetermisso Deo luxuria<s> saeculi mauult. 
 Quod maxime Dominus cogit euitare dilectos; 
 Abscisos in totum a saeculo praemonet esse. 
 Si filios dixit, in illius sancta moremur; 
-Quid foris egredimur adulteri pompa&lt;s&gt; sequentes? 
+Quid foris egredimur adulteri pompa<s> sequentes? 
 Seductor antiquus per talia decipit omnes: 
 Immittit luxurias, per quas perdat filios Alti 
-Agonia mitti, spe&lt;cta&gt;culis ire cruentis 
+Agonia mitti, spe<cta>culis ire cruentis 
 Aut nimis obscenis, impudica nosse pudicis. 
 Si fuerat castus, incestus proficit inde 
 Et placens adridens, quem tunc mala gaudia temptant. 
 In istis luxuriis populus primitiuus agebat 
 Et a lege Dei semper recedebat inermis. 
 Ad quos emundandos saepe Deus misit alumnos 
-Ut illos corrig&lt;er&gt;ent deprauatos denuo Summo. 
+Ut illos corrig<er>ent deprauatos denuo Summo. 
 Excipere numquam uoluerunt dicta diuina 
 Sed uoluntate sua saeuierunt semper inepti. 
 Mactabant iustos redarguentes illos inique 
@@ -243,18 +243,18 @@ Dixerat hunc Daniel nouissimum esse prophetis.
 Is erat, quem propter uates de tuba canebant, 
 In sua uenturum propria, quem sui negarent. 
 Improuidi semper et dura ceruice recalces, 
-Dum respuunt forma&lt;m&gt;, sacramenta legis amittunt. 
+Dum respuunt forma<m>, sacramenta legis amittunt. 
 Non illos iustitia, humilis non caro nata refregit, 
 Nec bonitas tanta aut aegrorum cura de uerbo. 
 O pia religio, o tam ueneranda maiestas, 
 Cuius medicina taliter in terra profecit! 
 Non ullum de ferro secuit, non emplastro curauit, 
 Sed sine tormento statim suo dicto sanauit. 
-Talia uidentes turbabant&lt;ur&gt; mente Iudaei, 
+Talia uidentes turbabant<ur> mente Iudaei, 
 Qui magis inuidia ducti sunt in zelo liuoris, 
 Non respicientes prophetarum dicta sepulti, 
 Quod ueniret homo talis, qui dispergeret illos. 
-Quousque ueniret Dominus, prophetae caneba&lt;n&gt;t: 
+Quousque ueniret Dominus, prophetae caneba<n>t: 
 Ex eo, quo uenit, tacuit prophetia Iudaeis. 
 Post quem in exilium deuenerunt corde durato 
 Nec modo dinoscunt, quapropter sint talia passi. 
@@ -265,7 +265,7 @@ Penderet in ligno, fieret deserta deinde.
 Desubito qualis obfulsit gloria genti, 
 Ut fieret populus, populus qui non erat ante! 
 Non fuit adtonitus Esau dilectus a patre, 
-Iunior quod frater primitiua toll&lt;er&gt;et ille? 
+Iunior quod frater primitiua toll<er>et ille? 
 Sic nec sinagoga potuit cognoscere tempus, 
 Quando et quo duce caderet de suo priuato; 
 Sicut erat scriptum, quod auis sua tempora norunt, 
@@ -294,15 +294,15 @@ Hic pater in filio uenit, Deus unus ubique:
 Nec pater est dictus, nisi factus filius esset. 
 Nec enim reliquit caelum, ut in terra pareret, 
 Sed, sicut disposuit, uisa est in terra maiestas 
-De uirtute sua carna&lt;liter na&gt;sci &lt;se fecit&gt; 
+De uirtute sua carna<liter na>sci <se fecit> 
 ............................................. 
 ........... licet facere fimbriam unam. 
-Iam caro &lt;Deu&gt;s erat, in qua Dei uirtus agebat. 
+Iam caro <Deu>s erat, in qua Dei uirtus agebat. 
 Quid, quod prophetae canunt, inuisibilem esse uidendum, 
 Ut claritas tanta fieret homo quoque pro nobis. 
 Nec populus noster prosilisset in noua lege, 
 Si non Omnipotens ordinasset ante de nobis. 
-Hic erat Omnipotens, cuius &lt;in&gt; nomine gentes 
+Hic erat Omnipotens, cuius <in> nomine gentes 
 Credere omnino, quod propheta dixit Esaias: 
 Exurget in Israel homo de radice Iesse 
 In illum sperabunt gentes, cuius signo tuentur. 
@@ -317,7 +317,7 @@ In cuius nomine crediderunt gentes ubique.
 Non ita suademur credere pro tempore passo 
 Sed propter futurum tempus in aeterno uiuentes. 
 Haec speranda nobis spes est sempiterno frunisci 
-Non ista, quae fragili&lt;s&gt; cito mutat gaudia nostra. 
+Non ista, quae fragili<s> cito mutat gaudia nostra. 
 Sint licet diuitiae prae oculis laute fruendae 
 Excluderis illis substituta morte caduca; 
 Aut si perseuera[ue]ris, horrescis ipse uiuendo 
@@ -408,7 +408,7 @@ Quos nec exulatus fregit necessitas ipsa?
 Si magus adfuerat, cur ergo prophetae canebant 
 Uenturum e caelo, ut esset spes gentium ipse? 
 Si false de ipsis pronuntiant perdere terram, 
-Quod prouenit de eis, sic eri&lt;n&gt;t et falsa de illo. 
+Quod prouenit de eis, sic eri<n>t et falsa de illo. 
 Sed quia sunt spreti semper quod cruenti fuerunt, 
 Contra suum Dominum rebellant dicere magum. 
 Nec uolunt audire, quae dixerunt uates in illos, 
@@ -424,7 +424,7 @@ Concipiet uirgo et pariet terra caelestem;
 Emmanuel autem uocetur, iusserat illos; 
 Quod lingua Latina 'Deus nobiscum' euoluit. 
 Audite, quod ipse nutriretur melle, buturo, 
-Et uerbum: Samari&lt;m&gt; caperet priusquam loqueretur. 
+Et uerbum: Samari<m> caperet priusquam loqueretur. 
 Sed haec est historia clausa, de qua docti reuoluunt, 
 Ut paruulus lactans sine pugna praedas iniret; 
 Passio cuius praedicta est taliter ante, 
@@ -439,14 +439,14 @@ Fuerunt et tenebrae factae tribus horis a sexta
 Festinauitque dies inducere sidera noctis. 
 Praedictum hoc fuerat fieri per prophetam Amos, 
 Ut tegeret subito sese per sollemnia sancta. 
-O mala progenies, &lt;o popule&gt; subdola fronte! 
+O mala progenies, <o popule> subdola fronte! 
 Generaui suboles, dixit Deus, qui me negarent. 
 Et dixit: Audite uocem tubae. Nolumus, aiunt. 
 Hoc dicit Ezechiel: Audient ergo gentes a longe. 
 Uno uolo titulo tangere librum Deuteronomium: 
 In caput eritis, gentes; nam increduli retro. 
 Si respuunt certe omnia supra dicta rebelles 
-S&lt;c&gt;ite quid opponunt, cum res tam aperte dicatur? 
+S<c>ite quid opponunt, cum res tam aperte dicatur? 
 Uidete iam ergo, dubii qui nunc usque natati 
 Quod gentes in Domino fuerint scriptura priores. 
 Nunc ergo fas est credere, quem libri designant, 
@@ -464,7 +464,7 @@ Auxilio Domini surrexi, nihil mali passus.
 Et iterum dicit: In infernum non derelinques 
 Nec dabis sanctum tuum interitum quoque uidere. 
 Hic personans ait: Fili prophetae, ascendo, 
-Ut Dominum dicam passum per miseria&lt;m&gt; summum. 
+Ut Dominum dicam passum per miseria<m> summum. 
 Et in libro psalmorum de Domini morte clamatur, 
 Non ut illi putant Dauid de ipso referre. 
 Aut si putant illud, congruit uniuersa, quae dixit? 
@@ -538,9 +538,9 @@ Sic Dominus ipse cum uenisset, ista secutus:
 Oportet me, inquit, reprobari uoce Moysi. 
 At ego non tota, sed summa fastigia carpo, 
 Quo possint facilius ignorantes discere uera. 
-Hi autem iniqui, &lt;qui&gt; subdole uiuere quaerunt, 
+Hi autem iniqui, <qui> subdole uiuere quaerunt, 
 Iam semel cruenti perseuerant fingere uana. 
-Infatuan&lt;t&gt; stultos maius euanescere dictis, 
+Infatuan<t> stultos maius euanescere dictis, 
 Quod crucifixus, cum sic oporteret eundem. 
 Sic enim disposuit propter primitiui ruinam; 
 Non solum pro illo, et pro nobis uenit e caelo. 
@@ -549,7 +549,7 @@ Iuxta prophetias compleuit omnia Christus.
 Ecce noua facio, Esaias clamat in ipso, 
 Et nemo priora reputet nec antiqua sequatur. 
 Haec noua sunt hodie sub nostra lege profecta, 
-gentes in Christo credi&lt;di&gt;mus dicto Moysi. 
+gentes in Christo credi<di>mus dicto Moysi. 
 Ille duos populos praedixerat esse futuros, 
 Et quidem minorem populum praecellere dixit. 
 Sed isti nequitiae pleni iam desperato furore: 
@@ -560,7 +560,7 @@ Nec illud respiciunt ceruicosi, setis rectis
 Quid? semper innocuos cruciarunt lege uitata. 
 Sic Deo fecerunt, quod erant consueti, crudeles, 
 Et filios sese audent adhuc dicere Summi. 
-Iam qualiter &lt;dominus&gt; resurrexit, supra notaui, 
+Iam qualiter <dominus> resurrexit, supra notaui, 
 Non de uoce mea, sed dicta prophetica dixi. 
 Praedixerat autem discipulis cuncta de sese, 
 Qualiter a populo pateretur Petro negante; 
@@ -580,9 +580,9 @@ Non ego sum umbra, mortuorum qualis habetur:
 Uestigium umbra non facit; considera uulnus. 
 Extendit palmas; at ille tangere coepit 
 Et manum in latere, fuerat quod lancea fixa, 
-Misit et exinde prostrauit se&lt;se&gt; precando: 
+Misit et exinde prostrauit se<se> precando: 
 Tu Deus et Dominus uere meus! Contra quem 
-Haec quia uidisti, credidis&lt;ti&gt;, sed illi felices 
+Haec quia uidisti, credidis<ti>, sed illi felices 
 Posteri, qui credunt audito nomine tantum. 
 Quadraginta dies cum illis ex ordine fecit, 
 Edocuit illis multa, quae saeculo uenirent. 
@@ -608,12 +608,12 @@ Si fuerit sapiens; si ceterum, uituperatur.
 Illi legunt iura et discunt proloquia mira, 
 Sed superant miseros, pro quibus loquuntur, agendo. 
 Infelix est ille, qui uenerit illis in ore; 
-Illi ferunt laudes et ille uictoria&lt;m&gt; damnis. 
+Illi ferunt laudes et ille uictoria<m> damnis. 
 Stat miser in medio mutus, cui plus dolet intus; 
 Illi tonant ore et ille silentio nummis. 
 Obstrepit interea uox adornata diurnum 
 Et saepe fit causa melior mala pluscula dando. 
-Hinc pretium quae&lt;rit&gt; sapiens, hinc uincere gaudet, 
+Hinc pretium quae<rit> sapiens, hinc uincere gaudet, 
 Etsi praue gerat, dum sit modo uictor, aegrotat. 
 Nil sua de causa tractat, cum lucra conatur; 
 Spem subit alterius et sua posterga remittit. 
@@ -653,12 +653,12 @@ Solus nequam populus centriam erexit ad illum:
 'Absit, ut sic Dominus uenerit in tali figura!' 
 Hic sicut in terra super fluctus maris inibat 
 Et uentis imperat, placidum ut redderet aequor. 
-si Hic lege&lt;m&gt; tartaream derupit uerbo praesenti 
+si Hic lege<m> tartaream derupit uerbo praesenti 
 Et leuat de tumulis Lazarum die quarta fetentem. 
 Nam qui ferebatur, cum fuisset obuius illi: 
-Surge, inquit, iuuenis! Et &lt;re&gt;surrexit ille de ferculo. 
+Surge, inquit, iuuenis! Et <re>surrexit ille de ferculo. 
 Archisinagogae filiam deprecatus a patre 
-Iam exanimata&lt;m&gt; plangentibus suscitat illam. 
+Iam exanimata<m> plangentibus suscitat illam. 
 Mutum loqui fecit et surdum audire praesertim 
 Et caecum ex utero natum, ut uideret in auras. 
 Post XXXVIII annis paralyticum surgere iussit, 
@@ -715,12 +715,12 @@ Nec enim te findes, ut possis ire per ambas;
 Sed tamen ex ipsis opportunam quaerere debes; 
 Nec cadas in fauces latronum, cautior esto. 
 Unum quaere Dominum, qui quaerit hostia nulla, 
-Ut possis abolitus &lt;re&gt;surgere saeclo nouato. 
+Ut possis abolitus <re>surgere saeclo nouato. 
 Quid malos attendis et iudicas sanctos iniquos, 
-Qui tibi nullum uerbum de lege demonstra&lt;n&gt;t? 
+Qui tibi nullum uerbum de lege demonstra<n>t? 
 De uirtute Dei refertur, quam fecit in illos; 
 ** N_m dc qs_ f_at_ qaclcp_t_ diacpc nolsnt 
- Sbmmbo homi`id^b pbmmbo m^nibrpqrb &lt;`&gt;orbntip, 
+ Sbmmbo homi`id^b pbmmbo m^nibrpqrb <`>orbntip, 
  Qsoq Dominsq nsmqs_m notsit dom_pc moncndo. 
  Ssffiacpct illiq ncp ign_si_m t_nt_ fcaiqqc 
  Et di`bob: S`oimtrm pi` bo^t, modo `obdbob f^p bpt. 
@@ -772,8 +772,8 @@ Dum uiuimus. hoc est'. et incumbunt more suillo;
 'Nulla sit luxuria, quae nos pertranseat aeuo; 
 Dum tempus est uitae, perfruamur omnia saecli.' 
 Indisciplinati clementiam Dei refugant 
-Strenia&lt;s&gt; sectantes, quasi sola uita sit ipsa. 
-Sic re&lt;ce&gt;dunt a Deo, qui promittit uiuere semper: 
+Strenia<s> sectantes, quasi sola uita sit ipsa. 
+Sic re<ce>dunt a Deo, qui promittit uiuere semper: 
 Contra bonum pugnant, cum sit repugnandum iniquo. 
 Errauimus omnes manifesto, saeculo suasi, 
 Sed gratia Domini prouocamur credere legi. 
@@ -788,14 +788,14 @@ Non satis intenti mysterio Dei secretum.
 Inuidia diaboli mors introiuit in orbem, 
 Quam Deus occulte destruxit uirgine natus. 
 Qua natiuitate excordantur caeci Iudaei, 
-Infatuant stulto&lt;s&gt; scelere commisso cruenti. 
+Infatuant stulto<s> scelere commisso cruenti. 
 Nemo potest ullum excusamen dicere postquam, 
 Cum modo sit nobis facultas data credendi. 
 Non uenit in uano Deus in terris e caelo, 
 Sed uenit, ut faceret populum suo nomine dictum. 
 Quem si quis confessus non erit in ista natura, 
-Perdit et quod uixit, et in poena&lt;s&gt; sero declamat; 
-Aut certe dum sperat &lt;ex&gt;pectans credere canus, 
+Perdit et quod uixit, et in poena<s> sero declamat; 
+Aut certe dum sperat <ex>pectans credere canus, 
 Excluditur diuius ab aeterna uita defunctus. 
 Ergo iam ad illum citius recordari debemus, 
 Qui nobis post obitum pollicetur reddere uitam. 
@@ -807,10 +807,10 @@ Tunc homo resurget solis in agone reductus
 Et gaudet in Deo reminiscens, quid fuit ante; 
 Qui, sicut audiuit fragilis in pristina carne, 
 Cum sit incorruptus, recognoscit ante promissa. 
-Quam gloria&lt;m&gt; mirans homini prouenisse sic inquit: 
+Quam gloria<m> mirans homini prouenisse sic inquit: 
 Qualiter audiui prius, sic singula cerno. 
 Haec pariter omnes clamant ab inferno leuati: 
-Quemadmodu&lt;m&gt; ante audiuimus, ecce uidemus! 
+Quemadmodu<m> ante audiuimus, ecce uidemus! 
 Cedet dolor omnis a corpore, cedet et ulcus, 
 Nec erit anxietas ulla nisi gaudia semper. 
 Quisque tribus credit et sentit unum adesse, 
@@ -819,7 +819,7 @@ Sed quidam hoc aiunt: Quando haec uentura putamus?
 Accipite paucis, quibus actis illa sequantur. 
 Multa quidem signa fient tantae termini pesti, 
 Sed erit initium septima persecutio nostra. 
-Ecce &lt;iam&gt; ianua&lt;m&gt; pulsat et cogitur esse, 
+Ecce <iam> ianua<m> pulsat et cogitur esse, 
 Quae cito traiciet Gothis irrumpentibus amne. 
 Rex Apollion erit cum ipsis, nomine dirus, 
 Qui persecutionem dissipet sanctorum in armis. 
@@ -841,7 +841,7 @@ Dicimus hunc autem Neronem esse uetustum,
 Qui Petrum et Paulum prius puniuit in urbem. 
 Ipse redit iterum sub ipso saeculi fine[m] 
 Ex locis apocryphis, qui fuit reseruatus in ista. 
-Hunc ipse &lt;se&gt;natus inuisum esse mirantur; 
+Hunc ipse <se>natus inuisum esse mirantur; 
 Qui cum apparuerit, quasi deum esse putabunt. 
 Sed priusquam ille ueniat, prophetabit Helias 
 Tempore partito, medio ebdomadis axe[m]. 
@@ -850,7 +850,7 @@ Quem et Iudaei simul tunc cum Romanis adorant.
 Quamquam erit alius, quem expectent ab oriente, 
 In nostra caede tamen saeuient cum rege Nerone. 
 Ergo cum Helias in Iudaea terra prophetat 
-Et &lt;signo&gt; signat populum in nomine Christi; 
+Et <signo> signat populum in nomine Christi; 
 De quibus quam multi quoniam illi credere nolunt, 
 Supplicat iratus Altissimum, ne pluat inde: 
 Clausum erit caelum ex eo nec rore madescet, 
@@ -873,7 +873,7 @@ Sub quorum martyrio decima pars corruit urbis
 Et pereunt ibi homines septem milia plena. 
 Illos autem Dominus quarto die tollit in auras, 
 Quos illi uetuerant sepulturae condi iacentes 
-Suscita&lt;n&gt;turque solo immortales facti de morte, 
+Suscita<n>turque solo immortales facti de morte, 
 Quos inimici sui suspiciunt ire per auras. 
 Territi nec sic sunt, sed magis intra crudescunt 
 Ad populum Christi execrantes odio toto. 
@@ -881,7 +881,7 @@ Indurauit enim Altissimus corda nefanda,
 Sicut Pharaoni prius indurauerat aures. 
 Hic ergo rex durus et iniquus, Nero fugatus, 
 Pelli iubet populum Christianum ipsa de urbe, 
-Participes autem duo&lt;s&gt; sibi Caesares addit, 
+Participes autem duo<s> sibi Caesares addit, 
 Cum quibus hunc populum persequatur diro furore. 
 Mittunt et edicta per iudices omnes ubique, 
 Ut genus hoc hominum faciant sine nomine Christi. 
@@ -902,7 +902,7 @@ Ut urbis et populus ille cum ipso tradatur,
 Tollatur imperium, quod fuit inique repletum, 
 Quod per tributa mala diu macerabat omnes. 
 Exurgit iterum in istius clade Neronis 
-Rex ad oriente&lt;m&gt; cum quattuor gentibus inde, 
+Rex ad oriente<m> cum quattuor gentibus inde, 
 Inuitatque sibi quam multas gentes ad urbem, 
 Qui ferant auxilium, licet sit fortissimus ipse, 
 Implebitque mare nauibus cum milia multa, 
@@ -918,19 +918,19 @@ Et facula currens, nuntiet ut gentibus ignem.
 Siccatur fluuius Euphrates denique totus, 
 Ut uia paretur regi cum gentibus illis. 
 Persae, Medi simul Caldaei, Babyloni uenibunt, 
-Immites et agiles, qui nesciant ulli dolore&lt;m&gt; 
+Immites et agiles, qui nesciant ulli dolore<m> 
 Hic ergo exoriens cum coeperit inde uenire, 
 Turbaturque Nero et senatus proxime uisum. 
 Et ibunt illi tres Caesares resistere contra; 
 Quos ille mactatos uolucribus donat in escam. 
 Exercitus quorum necesse est uictorem adorent 
 Cumque redeuntes in urbe mente mutata 
-Spolian&lt;t&gt; templa et quidquid est intus in urbe, 
+Spolian<t> templa et quidquid est intus in urbe, 
 Diripiunt mactantque uiros ingenti cruore; 
-Nouissime nudam adigunt incendio facta&lt;m&gt;, 
+Nouissime nudam adigunt incendio facta<m>, 
 Ut neque uestigium eius appareat ultra. 
 Cuius in exitio tabescunt corda potentium 
-Nec se adinueniunt, in quo sin&lt;t&gt; tempore, bruti. 
+Nec se adinueniunt, in quo sin<t> tempore, bruti. 
 Haec quidem gaudebat, sed tota terra gemebat; 
 Uix tamen adinuenit illi retributio digna. 
 Luget in aeternum, quae se iactabat aeterna, 
@@ -938,7 +938,7 @@ Cuius et tyranni iam tunc iudicantur a Summo.
 Stat tempus in finem fumante Roma maturum, 
 Et merces aduenient meritis partita locorum. 
 Inde tamen pergit uictor in terra Iudaea, 
-Quem ipsi Iudaei expectant uincere Roma&lt;m&gt; 
+Quem ipsi Iudaei expectant uincere Roma<m> 
 Multa signa facit, ut illi credere possint, 
 Ad seducendos eos quoniam est missus iniquus; 
 Quem tamen e caelo increpat uox reddita Summi. 
@@ -955,7 +955,7 @@ Producet populum celatum tempore multo.
 Sunt autem Iudaei trans Persida flumine clausi, 
 Quos usque in finem uoluit Deus ibi morari. 
 Captiuitas illos ibidem redegit ut essent; 
-Ex duodena tribu noue&lt;m&gt; semis ibi morantur. 
+Ex duodena tribu noue<m> semis ibi morantur. 
 Mendacium ibi non est, sed nec est odium ullum; 
 Idcirco nec moritur filius suus ante parentes; 
 Nec mortuos plangunt nec lugunt more de nostro, 
@@ -991,27 +991,27 @@ Et sic honestati hymnos pariterque decantant.
 Mox autem properant sanctae ciuitati paternae, 
 Expauescit enim terribilis ille tyrannus 
 Et fugit ad reges Boreae cum concitu magno, 
-Unde rapit populum, ut stet quasi contra &lt;re&gt;pugna&lt;n&gt;s. 
+Unde rapit populum, ut stet quasi contra <re>pugna<n>s. 
 Cum properant autem exercitu Dei rebelles 
 Sternunturque solo ab angelis proelio facto 
-&lt;Et prensus ad&gt;ulter ipsius et pseudopropheta 
-Mittunt&lt;ur in stagnum sub i&gt;gnea p&lt;o&gt;ena uiuentes. 
-Quorumque pri&lt;m&gt;ores, praeposit&lt;i&gt; siue legati, 
-In loco seruorum rediguntur sancti&lt;s&gt; iniqui. 
+<Et prensus ad>ulter ipsius et pseudopropheta 
+Mittunt<ur in stagnum sub i>gnea p<o>ena uiuentes. 
+Quorumque pri<m>ores, praeposit<i> siue legati, 
+In loco seruorum rediguntur sancti<s> iniqui. 
 Interea sancti intrant in colonia sancta 
 Qui Dei promissa capiant sine fine laetantes. 
 Exorant Deum pro mortuis uti resurgant, 
 Quod ipse promisit olim de anastasi prima. 
 Incipiet Deus iam tunc inimicis irasci, 
-Statu&lt;tu&gt;sque dies quoniam aduenit iniquis. 
+Statu<tu>sque dies quoniam aduenit iniquis. 
 Cum coeperit autem mundum iudicare per ignem, 
 Deuitatque pios et cadit super impios ignis. 
 Uix remanent pauci, qui referant talia facta, 
 Et qui reseruantur, ut seruiant iustis, euadunt. 
-Post persecutione&lt;m&gt; sanctorum et funera tanta 
+Post persecutione<m> sanctorum et funera tanta 
 Imminet ut ueniat dies detestabilis, ardens. 
 Ecce canit caelo rauca, sed ubique resultans, 
-Quae pauida&lt;t&gt; totum orbem in ruina cadentem. 
+Quae pauida<t> totum orbem in ruina cadentem. 
 Sol fugit incaute, subito fit noctis imago, 
 Et Deus exclamat: Quamdiu me ferre putasti? 
 Cuius signo dato pestis ruit aethere toto, 
@@ -1035,39 +1035,39 @@ Aer ipse mundi, qui placebat ante, crematur.
 Quod strepitus caeli ingruentes fulmine dicam, 
 Cum ira tot annis collecta funditur omnis? 
 Hinc ignis, hinc tonitrua, hinc turbines, tot mala, feruunt, 
-Raptaturque polus subi&lt;ta&gt; ui mortis in umbram. 
-Partim terra tremens laxat fu&lt;ndamenta...&gt; 
-&lt;Par&gt;tim tonitrua disrumpunt moenia firma; 
-&lt;Atque disturbantur m&gt;uri sicut puluis in auras; 
-Saxa uolant, uen&lt;tis tremescunt&gt; tecta domorum. 
+Raptaturque polus subi<ta> ui mortis in umbram. 
+Partim terra tremens laxat fu<ndamenta...> 
+<Par>tim tonitrua disrumpunt moenia firma; 
+<Atque disturbantur m>uri sicut puluis in auras; 
+Saxa uolant, uen<tis tremescunt> tecta domorum. 
 Uastantur patriae, prosternitur ciuitas omnis 
 .......t ........os caelum uestigio tradat. 
-Tot crepitus, tantos fragores t&lt;otque&gt; ruinas 
-Quis po&lt;te&gt;rit ferre aut na&lt;u&gt;fragia tanta &lt;fugire&gt;? 
+Tot crepitus, tantos fragores t<otque> ruinas 
+Quis po<te>rit ferre aut na<u>fragia tanta <fugire>? 
 Quid misera mater faciet tunc paruolo dulci? 
 At si pater natum piet, quid proficit illi? 
-Uae refugis Domini, uae et sine Christo n&lt;e&gt;fa&lt;n&gt;dis, 
-Quorum et laeta&lt;n&gt;tes iudicantur pie flentes! 
-Pla&lt;ngit in&gt;terea mugitibus tota natura 
-Donec cesset furia &lt;tandem comp&gt;leta caelestis. 
+Uae refugis Domini, uae et sine Christo n<e>fa<n>dis, 
+Quorum et laeta<n>tes iudicantur pie flentes! 
+Pla<ngit in>terea mugitibus tota natura 
+Donec cesset furia <tandem comp>leta caelestis. 
 Tunc mensibus septem remundabitur terra per ignem 
-Et qui f&lt;uit&gt; humilis ueniens de caelo uidetur. 
+Et qui f<uit> humilis ueniens de caelo uidetur. 
 Cum illo descendunt angeli claritatis aeternae, 
-Rumpun&lt;tur&gt; et tumuli, exurgunt corpora iusta; 
-Quae rapiunt nubes et portant &lt;obui&gt;a&lt;m Ch&gt;risto 
-In a&lt;e&gt;ra, Dominum excipiunt sancti uiuentes. 
-Suscitat e&lt;t&gt; illos, ut uideant gloriam eius, 
+Rumpun<tur> et tumuli, exurgunt corpora iusta; 
+Quae rapiunt nubes et portant <obui>a<m Ch>risto 
+In a<e>ra, Dominum excipiunt sancti uiuentes. 
+Suscitat e<t> illos, ut uideant gloriam eius, 
 Quem cruce fixerunt; sed denuo reddet in imis. 
-Uae miser&lt;is&gt; illis! Testis est necatus ab illis. 
+Uae miser<is> illis! Testis est necatus ab illis. 
 Quod poenis ipsorum prouidi dolo t..mus istic 
 Haec non de inuidia canimus, sed fixa uidemus. 
-Cum iusti laetantur, &lt;il&gt;li in inferno cremantur; 
-Dau&lt;id&gt; illis dixit: Domine, redde ill&lt;is&gt; iniqua! 
+Cum iusti laetantur, <il>li in inferno cremantur; 
+Dau<id> illis dixit: Domine, redde ill<is> iniqua! 
 Et si non crediderint, in umbra mortis habebunt. 
-&lt;H&gt;ic utique poterat plebi suae laeta precari 
-Cur &lt;magis op&gt;tauit: Discendant uiu&lt;i&gt; deorsum 
-Ceteri qui fuera&lt;n&gt;t in aduentum Christi de sanctis? 
-De duobus populis fugit i&lt;..&gt;gia Su&lt;mmi&gt; 
+<H>ic utique poterat plebi suae laeta precari 
+Cur <magis op>tauit: Discendant uiu<i> deorsum 
+Ceteri qui fuera<n>t in aduentum Christi de sanctis? 
+De duobus populis fugit i<..>gia Su<mmi> 
 ... haec maior faciet immutentur ei cito. amen.
  
 

@@ -67,7 +67,7 @@ Plautus: Cistellaria
  quae vos arbitrabor velle, ea ut expetessam.
  LENA Quod ille dixit, qui secundo vento vectus est tranquillo
 mari,
- ventum gaudeo&#151;ecastor ad ted, ita hodie hic acceptae sumus   15 
+ ventum gaudeo—ecastor ad ted, ita hodie hic acceptae sumus   15 
  suavibus modis,
  nec nisi disciplina apud te fuit quicquam ibi quin mihi placeret.
  SEL. Quid ita, amabo? LENA. Raro nimium dabat quod biberem,
@@ -125,7 +125,7 @@ penitissimo.
 cor?  65 
   commemora obsecro;
  quod neque ego habeo neque quisquam alia mulier, ut perhibent viri.
- SEL. Siquid est quod doleat, dolet; si autem non est&#151;tamen
+ SEL. Siquid est quod doleat, dolet; si autem non est—tamen
 hoc hic dolet.
  GYMN. Amat haec mulier. SEL. Eho an amare occipere amarum
 est, obsecro?
@@ -168,7 +168,7 @@ dari,
  nam eum pater eius subegit. nunc mea mater iratast mihi,
  quia non redierim domum ad se, postquam hanc rem resciverim,
  eum uxorem ducturum esse aliam. LENA. Nihil amori iniuriumst.
- SEL. Nunc te amabo ut hanc hic &lt;unum> triduom hoc solum sinas
+ SEL. Nunc te amabo ut hanc hic <unum> triduom hoc solum sinas
  esse et hic servare apud me. nam ad matrem accersita sum.  105 
  LENA. Quamquam istud mihi erit molestum triduom, et damnum dabis,
  faciam. SEL. Facis benigne et amice. sed tu, Gymnasium mea,
@@ -235,7 +235,7 @@ Vt valeas. GYMN. Vale.
  fuere Sicyoni iam diu Dionysia.
  mercator venit huc ad ludos Lemnius,
  isque hic compressit virginem, adulescentulus,
- &lt;vi>, vinulentus multa nocte in via.
+ <vi>, vinulentus multa nocte in via.
  is ubi malam rem scit se meruisse, ilico  160 
  pedibus perfugium peperit, in Lemnum aufugit,
  ubi habitabat tum. illa quam compresserat
@@ -244,7 +244,7 @@ Vt valeas. GYMN. Vale.
  paternum servom sui participat consili,  165 
  dat eam puellam ei servo exponendam ad necem.
  is eam proiecit. haec puellam sustulit.
- ille clam observavit servos &lt;qui eam proiecerat>
+ ille clam observavit servos <qui eam proiecerat>
  quo aut quas in aedis haec puellam deferat.
  ut eampse vos audistis confiterier,   170 
  dat eam puellam meretrici Melaenidi,
@@ -252,7 +252,7 @@ Vt valeas. GYMN. Vale.
  bene ac pudice. tum illic autem Lemnius
  propinquam uxorem duxit, cognatam suam.
  ea diem suom obiit, facta morigera est viro.  175 
- post&lt;quam&gt; ille uxori iusta fecit, ilico
+ post<quam> ille uxori iusta fecit, ilico
  huc commigravit; duxit uxorem hic sibi
  eandem quam olim virginem hic compresserat,
  et eam cognoscit esse, quam compresserat;
@@ -303,7 +303,7 @@ commentum.
  ita me Amor lassum animi ludificat,  214-215 
  fugat, agit, appetit, raptat, retinet,  216 
  lactat, largitur: quod dat non dat; deludit:
- modo quod suasit, &lt;id> dissuadet,
+ modo quod suasit, <id> dissuadet,
  quod dissuasit, id ostentat.  219-220 
  maritumis moribus mecum experitur  221 
  ita meum frangit amantem animum;
@@ -337,7 +337,7 @@ Do, non facturum esse me.
  sum nihili. SERV. Nihili hercle vero es. ALC. Quam ego
 amarem perdite,
  quae me amaret contra. SERV. Dignus hercle es infortunio.
- ALC. Ei me &lt;tot tam> acerba facere in corde. SERV. 
+ ALC. Ei me <tot tam> acerba facere in corde. SERV. 
 Frugi nunquam eris.  240 
  ALC. Praesertim quae coniurasset mecum et firmasset fidem,
  SERV. Neque deos neque homines aequom est facere tibi posthac
@@ -355,8 +355,8 @@ Dicam tibi:
  SERV. Quid tu ergo *** te manuleo
    ***
  (ALC.) Quid si amo? *** (T.) *** est amor  273 
- *** atque illam quam &lt;te> amare intellego
- *** si conclusos vos &lt;me> habere in carcere
+ *** atque illam quam <te> amare intellego
+ *** si conclusos vos <me> habere in carcere
  *** amoris noctesque et dies
  ni emortuos ***
  mihi nunquam quisquam ***
@@ -370,7 +370,7 @@ Dicam tibi:
  ALC. I, curre, equom adfer. SERV. Hercle hic insanit
 miser.
  ALC. Abi atque hastatos multos, multos velites,
- multos cum multis&#151;nil moror precario.
+ multos cum multis—nil moror precario.
  ubi sunt quae iussi? SERV. Sanus hic non est satis.
  T. Ab anu esse credo nocitum, cum illaec sic facit.  290 
  SERV. Vtrum deliras, quaeso, an astans somnias,
@@ -401,9 +401,9 @@ quidem.
  adhinnire equolam possum ego hanc, si detur sola soli.
  GYMNASIVM Nimis opportune mi evenit rediisse Alcesimarchum;
  nam sola nulla invitior solet esse. SEN. Me vocato,   310 
- ne sola sis: ego tecum &lt;ero, volo> ego agere, ut tu agas aliquid.
+ ne sola sis: ego tecum <ero, volo> ego agere, ut tu agas aliquid.
  GYMN. Nimis lepide exconcinnavit hasce aedis Alcesimarchus.
- SEN. Vt quo&lt;m Ven>us adgreditur, &lt;place>t; lepidumst amare
+ SEN. Vt quo<m Ven>us adgreditur, <place>t; lepidumst amare
 semper.
  GYMN. Venerem meram haec aedes olent, quia amator expolivit.
  SEN. Non modo ipsa lepidast, commode quoque hercle fabulatur.   315 
@@ -421,12 +421,12 @@ semper.
         ***
  GYMN. quid vis.  362 
  SEN. Volo ex te scire quidquid est ***
- quid ego usquam male feci tibi &lt;aut meu>s quisquam, id edisserta,
- quam ob rem me meumque filium quom &lt;matr>e remque nostram  365 
+ quid ego usquam male feci tibi <aut meu>s quisquam, id edisserta,
+ quam ob rem me meumque filium quom <matr>e remque nostram  365 
  habes perditui et praedatui? GYMN. Miser errat, ut ego dixi.
  lepidast materies, ludam ego hunc, nam occasio videtur.
- potin operam inique equidem malam &lt;ut ne> des innocenti?
- SEN. Sed &lt;obsecro> te, nullusnest tibi amator alius
+ potin operam inique equidem malam <ut ne> des innocenti?
+ SEN. Sed <obsecro> te, nullusnest tibi amator alius
 quisquam,
  nisi meus modo unus filius? GYMN. Quem quidem ego amem, alius
 nemo est.  370 
@@ -485,7 +485,7 @@ similes.
  cum extritis talis, cum todillis crusculis
    ***
  SEL. Molestus es.  449 
- ALC. Meae issula sua &lt;aede>s egent. ad me &lt;sine ducam>.
+ ALC. Meae issula sua <aede>s egent. ad me <sine ducam>.
  SEL. 
 Aufer manum.
  ALC. Germana mea sororcula. SEL. Repudio te fraterculum.
@@ -513,7 +513,7 @@ nomen mihi,  465
         ***
  quia sine omni *** ALC. Dabo
  ius iurandum. ***    470 
- MEL. At ego nunc &lt;ab> illo mihi &lt;caveo> iure iurando tuo;
+ MEL. At ego nunc <ab> illo mihi <caveo> iure iurando tuo;
  similest ius iurandum amantum quasi ius confusicium.
  ALC. Nescia ***
  *** (MEL.) nugas agis.
@@ -531,7 +531,7 @@ nomen mihi,  465
  nunc hoc si tibi commodumst, quae ***
  ALC. Instruxi illi aurum atque vestem. (MEL.) ***
  siquidem amabas, *** illi instrui.
- sed sino. iam hoc mihi responde quod &lt;ego> te rogavero:
+ sed sino. iam hoc mihi responde quod <ego> te rogavero:
  instruxisti ***  490 
  tibi ita ut voluisti *** (ALC.) quod volo.
  MEL. Eo facetu's quia tibi aliast sponsa locuples Lemnia.
@@ -539,7 +539,7 @@ nomen mihi,  465
  neque opes nostrae tam sunt validae quam tuae; verum tamen
  hau metuo ne ius iurandum nostrum quisquam culpitet:   495 
  tu iam, si quid tibi dolebit, scies qua doleat gratia.
- ALC. Di me perdant&#151; MEL. Quodcumque optes, tibi velim
+ ALC. Di me perdant— MEL. Quodcumque optes, tibi velim
 contingere.
  ALC. Si illam uxorem duxero umquam, mihi quam despondit pater.
  MEL. Et me, si umquam tibi uxorem filiam dedero meam.
@@ -557,23 +557,23 @@ tibi.
  ALC. Non remittes? MEL. Scis iam dudum omnem meam sententiam.
  ALC. Satin istuc tibi in corde certumst? MEL. Quin ego
 commentor quidem.
- ALC. Non edepol &lt;ego> istaec tua dicta nunc in auris recipio.  510 
+ ALC. Non edepol <ego> istaec tua dicta nunc in auris recipio.  510 
  MEL. Non? hem, quid agis igitur? animum advorte iam, ut quid
 agas scias.
  ALC. At ita me di deaeque, superi atque inferi et medioxumi,
  itaque me Iuno regina et Iovis supremi filia
- itaque me Saturnus eius patruos&#151; MEL. Ecastor pater.
- ALC. Itaque me Ops opulenta illius avia&#151; MEL. Immo
+ itaque me Saturnus eius patruos— MEL. Ecastor pater.
+ ALC. Itaque me Ops opulenta illius avia— MEL. Immo
 mater quidem.  515 
- ALC. Iuno filia et Saturnus patruos et summus Iuppiter&#151;
+ ALC. Iuno filia et Saturnus patruos et summus Iuppiter—
  tu me delenis, propter te haec pecco. MEL. Perge dicere.
  ALC. Anne etiam, ut quid consultura sis sciam, pergis eloqui?
  MEL. Non remittam. definitumst. ALC. Enim vero ita me
 Iuppiter
- itaque me Iuno itaque Ianus ita&#151;quid dicam nescio.    520 
+ itaque me Iuno itaque Ianus ita—quid dicam nescio.    520 
  iam scio. immo, mulier, audi, meam ut scias sententiam.
  di me omnes, magni minuti, et etiam patellarii
- faxint, ne ego &lt;dem vivae> vivos savium Selenio,
+ faxint, ne ego <dem vivae> vivos savium Selenio,
  nisi ego teque tuamque ~ filiam meque hodie obtruncavero,
  poste autem cum primo luci cras nisi ambo occidero,    525 
  et equidem hercle nisi pedatu tertio ~ omnis efflixero,
@@ -591,7 +591,7 @@ Iuppiter
  II.ii 
  LAMPADIO Anum sectatus sum clamore per vias,
  miserrumam habui. ut illaec hodie quot modis
- moderatrix &lt;linguae> fuit atque immemorabilis.
+ moderatrix <linguae> fuit atque immemorabilis.
  quot illi blanditias, quid illi promisi boni,
  quot admoenivi fabricas, quot fallacias   540 
  in quaestione. vix exculpsi ut diceret,
@@ -615,10 +615,10 @@ prius
  PHAN. Age perge, quaeso. animus audire expetit
  ut gesta res sit. MEL. Vtinam audire non queas.  555 
         ***    555a 
- LAMP. Pergo illa&lt;m onerare> dictis: "illaec ted anus
- fortu&lt;nis ex secundis ad mi>seras vocat.
+ LAMP. Pergo illa<m onerare> dictis: "illaec ted anus
+ fortu<nis ex secundis ad mi>seras vocat.
  nam illaec tibi nutrix est, ne matrem censeas.
- ego te reduco et revoco ad &lt;summas> ditias,
+ ego te reduco et revoco ad <summas> ditias,
  ubi tu locere in luculentam familiam,   560 
  unde tibi talenta magna viginti pater
  det dotis; non enim hic, ubi ex Tusco modo
@@ -635,12 +635,12 @@ prius
  PHAN. Servate di med obsecro. MEL. At me perditis.
  PHAN. Quoi illam dedisset exquisisse oportuit.
  LAMP. Quaesivi, et dixit meretrici Melaenidi.  575 
- MEL. Meum elocutust nomen, interii &lt;oppido>.
+ MEL. Meum elocutust nomen, interii <oppido>.
  LAMP. Vbi elocuta est "duc ac demonstra mihi."
  "avecta est" inquit "peregre hinc habitatum." MEL. Obsipat
  aculam. LAMP. 'Quo avecta est, eo sequemur. sicine   580 
  agis nugas? periisti hercle, ni ***"
- *** &lt;non> hoc longe destiti
+ *** <non> hoc longe destiti
  instare, usque adeo donec se adiurat anus
  iam mihi monstrare. PHAN. At non missam oportuit.
  LAMP. Servatur. sed illaec se quandam aibat mulierem  585 
@@ -654,7 +654,7 @@ animo bono es.  591
  ne in quaestione mihi sit, si quid eum velim.
  ego ad anum recurro rursum. PHAN. Lampadio, obsecro,
  cura. LAMP. Perfectum ego hoc dabo negotium.   595 
- PHAN. Deos teque spero.&#151; LAMP. Eosdem ego, uti abeas
+ PHAN. Deos teque spero.— LAMP. Eosdem ego, uti abeas
 domum.
  MEL. Adulescens, asta atque audi. LAMP. Men, mulier,
 vocas?
@@ -704,7 +704,7 @@ vocas?
  MELAENIS Rem elocuta sum tibi omnem; sequere hac me, Selenium,
  ut eorum quoiam esse oportet te sis potius quam mea.
  quamquam invita te carebo, animum ego inducam tamen
- ut illud quem &lt;ad modum> tuam in rem bene conducat consulam.
+ ut illud quem <ad modum> tuam in rem bene conducat consulam.
  nam hic crepundia insunt, quibuscum te illa olim ad me detulit,  635 
  quae mihi dedit, parentes te ut cognoscant facilius.
  accipe hanc cistellam, Halisca. agedum pulta illas fores.
@@ -747,7 +747,7 @@ numnam hinc ab nobis
  nam hinc ab ostio iacentem sustuli. PHAN. Quid nuntias
  super anu? LAMP. Scelestiorem in terra nullam esse alteram.  660 
  omnia infitiatur ea quae dudum confessa est mihi.
- nam hercle ego &lt;quam> illam anum inridere me ut sinam, satiust mihi
+ nam hercle ego <quam> illam anum inridere me ut sinam, satiust mihi
  quovis exitio interire. PHAN. Di, obsecro vostram fidem.
  LA. Quid deos obsecras? PH. Servate nos. LA. Quid
 est? PH. Crepundia
@@ -767,7 +767,7 @@ haec gentium?
 expetam habeo.
  itaque ~ petulantia mea me animi miseram habet.
  quae in tergum meum ne veniant, male formido,
- si era mea &lt;me> sciat tam socordem esse quam sum.
+ si era mea <me> sciat tam socordem esse quam sum.
  quamne in manibus tenui atque accepi hic ante aedis  675 
  cistellam, ubi ea sit nescio, nisi ut opinor
  loca haec circiter excidit mihi.
@@ -802,7 +802,7 @@ Quis est? LAM.  695
  ad duos attinet, liquidumst. attat,
  singulum video vestigium.   701a 
  sed is hac abiit. contemplabor. hinc huc iit, hinc nusquam abiit.
- actam rem ago. quod periit, periit: meum corium &lt;cum> cistella.
+ actam rem ago. quod periit, periit: meum corium <cum> cistella.
  redeo intro. PHAN. Mulier, mane. sunt qui volunt te conventam.
  HAL. Quis me revocat? LAMP. Bona femina et malus masculus
 volunt te.   705 
@@ -811,8 +811,8 @@ volunt te.   705
  [ecquem vidisti ~ quaerere hic, amabo, in hac regione
  cistellam cum crepundiis, quam ego hic amisi misera?
  nam dudum ut accucurrimus ad Alcesimarchum, ne se  710 
- vita interemeret, tum &lt;eam mihi op>inor excidisse.
- LAMP. Cistellam haec mulier &lt;perdidit. tace>amus, era, parumper.
+ vita interemeret, tum <eam mihi op>inor excidisse.
+ LAMP. Cistellam haec mulier <perdidit. tace>amus, era, parumper.
  HAL. Disperii misera. quid ego erae dicam? quae me opere tanto
  servare iussit, qui suos Selenium parentes
  facilius posset noscere, quae erae [meae] supposita est parva,  715 
@@ -847,7 +847,7 @@ ait se scire ubi sit.  735
  LAMP. At sibi ille quidam volt dari mercedem. HAL. At
 pol illa quaedam,
  quae illam cistellam perdidit, quoidam negat esse quod det.
- LAMP. At enim ille quidam o&lt;peram bonum magis> expetit
+ LAMP. At enim ille quidam o<peram bonum magis> expetit
 quam argentum.
  HAL. At pol illi quoidam mulieri nulla opera gratuita est.  740 
  PHAN. Commodule quaedam. tu tibi nunc prodes. confitemur
@@ -869,11 +869,11 @@ perge dicere.
         ***         753a 
  PHAN. Ne obloquere rusus. perge porro dicere.  753b 
  quot annos nata dicitur? HAL. Septemdecim.  755 
- PHAN. Mea est. LAMP. East: u&lt;t numer>us annorum attulit.
- HAL. Quid qua &lt;tibi causa haec dixi?> iam quaero meam.
- LAMP. At po&lt;l ego> sunt, quaero tertiam.
+ PHAN. Mea est. LAMP. East: u<t numer>us annorum attulit.
+ HAL. Quid qua <tibi causa haec dixi?> iam quaero meam.
+ LAMP. At po<l ego> sunt, quaero tertiam.
  PHAN. Quod quaeritabam, filiam inveni meam.
- HAL. Aequom est &lt;reponi> per fidem quod creditum est,  760 
+ HAL. Aequom est <reponi> per fidem quod creditum est,  760 
  ne bene merenti sit malo benignitas.
  nostra haec alumna est, tua profecto filia:
         ***         762a 
@@ -887,7 +887,7 @@ tuom.
  PHAN. At me huius miseret. LAMP. Sic faciundum censeo:
  da isti cistellam et intro abi cum istac semul.  770 
  PHAN. Tibi auscultabo. tene tu cistellam tibi,
- abeamus intro. sed quid &lt;est&GT; nomen tuae
+ abeamus intro. sed quid <est> nomen tuae
  dominae? HAL. Melaenis. PHAN. I prae, iam ego te sequar.
  
 

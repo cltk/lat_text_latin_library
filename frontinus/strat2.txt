@@ -147,7 +147,7 @@ C. Caesar adversus Pharnacem Mithridatis filium dimicaturus in colle instruxit a
 
  
 
-Lucullus adversus Mithridatem et Tigranem in Armenia maiore apud Tigranocertam dimicaturus, collis proximi planum verticem raptim cum parte copiarum adeptus, in subiectos hostes decucurrit et equitatum eorum a latere invasit: aversumque et eorundem pariter pedites proturbantem insecutus clarissimam victoriam re&lt;t&gt;tulit. 
+Lucullus adversus Mithridatem et Tigranem in Armenia maiore apud Tigranocertam dimicaturus, collis proximi planum verticem raptim cum parte copiarum adeptus, in subiectos hostes decucurrit et equitatum eorum a latere invasit: aversumque et eorundem pariter pedites proturbantem insecutus clarissimam victoriam re<t>tulit. 
  
 
  
@@ -231,7 +231,7 @@ Metellus in Hispania, eo proelio quo Hirtuleium devicit, cum comperisset cohorte
 
  
 
-Artaxerxes adversus Graecos, qui Persida intraverant, cum multitudine superaret, latius quam hostes acie instructa in fronte &lt;peditem&gt;, equitem levemque armaturam in cornibus collocavit: atque ita ex industria lentius procedente media acie copias hostium cinxit ceciditque. 
+Artaxerxes adversus Graecos, qui Persida intraverant, cum multitudine superaret, latius quam hostes acie instructa in fronte <peditem>, equitem levemque armaturam in cornibus collocavit: atque ita ex industria lentius procedente media acie copias hostium cinxit ceciditque. 
  
 
  
@@ -256,7 +256,7 @@ Xanthippus Lacedaemonius in Africa adversus M. Atilium Regulum levem armaturam i
 
  
 
-Sertorius idem in Hispania adversus Pompeium fecit. Cleandri&lt;d&gt;as Lacedaemonius adversus Lucanos densam instruxit aciem, ut longe minoris exercitus speciem praeberet: securis deinde hostibus in ipso certamine diduxit ordines et a lateribus circumventos eos fudit. 
+Sertorius idem in Hispania adversus Pompeium fecit. Cleandri<d>as Lacedaemonius adversus Lucanos densam instruxit aciem, ut longe minoris exercitus speciem praeberet: securis deinde hostibus in ipso certamine diduxit ordines et a lateribus circumventos eos fudit. 
  
 
  
@@ -266,7 +266,7 @@ Gastron[ius] Lacedaemonius, cum [in] auxilio Aegyptiis adversus Persas venisset 
 
  
 
-Cn. Pompeius in Albania, quia hostes et numero et equitatu praevalebant,iuxta collem in angustiis &lt;subsidere pedites et scutis&gt; protegere galeas, ne fulgore earum conspicui fierent, iussit, equites deinde in aequum procedere ac velut praetendere peditibus, praecepitque eis, ut ad primum impetum hostium refugerent et, simul ad pedites ventum esset, in latera discederent: quod ubi explicitum est, patefacto loco subita peditum consurrexitacies invectosque temere hostes inopinato interfusa proelio cecidit. 
+Cn. Pompeius in Albania, quia hostes et numero et equitatu praevalebant,iuxta collem in angustiis <subsidere pedites et scutis> protegere galeas, ne fulgore earum conspicui fierent, iussit, equites deinde in aequum procedere ac velut praetendere peditibus, praecepitque eis, ut ad primum impetum hostium refugerent et, simul ad pedites ventum esset, in latera discederent: quod ubi explicitum est, patefacto loco subita peditum consurrexitacies invectosque temere hostes inopinato interfusa proelio cecidit. 
  
 
  
@@ -291,7 +291,7 @@ Archelaus adversus L. Sullam in fronte ad perturbandum hostem falcatasquadrigas 
 
  
 
-Contra haec Sulla fossas amplae latitudinis utroque latere duxit et capitibus earum castella communiit: qua ratione, ne circuiretur ab hoste et peditum numero et maxime equitatu superante, consecutus est. Triplicem deinde peditum aciem ordinavit relictis intervallis, per &lt;quae&gt; levem armaturamet equitem, quem in novissimo collocaverat, [ut] cum res exegisset, emitteret. Tum postsignanis qui in secunda acie erant imperavit, ut densos numerososque palos firme in terram defigerent, intraque eos appropinquantibusquadrigis antesignanorum aciem recepit: tum demum sublato universorum clamore velites et levem armaturam ingerere tela iussit. Quibus factis quadrigae hostium aut implicitae palis aut exterritae clamore telisque in suos conversae sunt turbaveruntque Macedonum structuram: qua cedente,cum Sulla &lt;in&gt;staret et Archelaus equitem opposuisset, Romani equitem subito emissi averterunt eos consummaveruntque victoriam. 
+Contra haec Sulla fossas amplae latitudinis utroque latere duxit et capitibus earum castella communiit: qua ratione, ne circuiretur ab hoste et peditum numero et maxime equitatu superante, consecutus est. Triplicem deinde peditum aciem ordinavit relictis intervallis, per <quae> levem armaturamet equitem, quem in novissimo collocaverat, [ut] cum res exegisset, emitteret. Tum postsignanis qui in secunda acie erant imperavit, ut densos numerososque palos firme in terram defigerent, intraque eos appropinquantibusquadrigis antesignanorum aciem recepit: tum demum sublato universorum clamore velites et levem armaturam ingerere tela iussit. Quibus factis quadrigae hostium aut implicitae palis aut exterritae clamore telisque in suos conversae sunt turbaveruntque Macedonum structuram: qua cedente,cum Sulla <in>staret et Archelaus equitem opposuisset, Romani equitem subito emissi averterunt eos consummaveruntque victoriam. 
  
 
  
@@ -340,7 +340,7 @@ C. Duellius, cum videret graves suas naves mobilitate Punicae classis eludi irri
  
 
  
-Papirius Cursor filius consul, cum aequo Marte adversus obstinatos Samnites concurreret, ignorantibus suis praecepit Spurio Nautio, ut pauci alares et agasones mulis insidentes ramosque per terram trahentes a colle transverso magno tumultu decurrerent. Quibus prospectis proclamavit victoremadesse collegam, occuparent ipsi praesentis proelii gloriam: quo facto et Romani fiducia concitati pro&lt;ruere et hostes&gt; pulvere perculsi terga verterunt. 
+Papirius Cursor filius consul, cum aequo Marte adversus obstinatos Samnites concurreret, ignorantibus suis praecepit Spurio Nautio, ut pauci alares et agasones mulis insidentes ramosque per terram trahentes a colle transverso magno tumultu decurrerent. Quibus prospectis proclamavit victoremadesse collegam, occuparent ipsi praesentis proelii gloriam: quo facto et Romani fiducia concitati pro<ruere et hostes> pulvere perculsi terga verterunt. 
  
 
  
@@ -350,12 +350,12 @@ Fabius Rutilius Maximus quarto consulatu in Samnio, omni modo frustra conatus ac
 
  
 
-Minucius Rufus imperator, cum a Scordiscis Dacisque premeretur, quibus impar erat numero, praemisit fratrem et paucos una equites cum aeneatoribus praecepitque, ut, cum vidisset contractum proelium, subitus ex diverso se ostenderet iuberetque concinere aeneatores: &lt;re&gt;sonantibus montium iugis species ingentis multitudinis offusa est hostibus, qua perterritidedere terga. 
+Minucius Rufus imperator, cum a Scordiscis Dacisque premeretur, quibus impar erat numero, praemisit fratrem et paucos una equites cum aeneatoribus praecepitque, ut, cum vidisset contractum proelium, subitus ex diverso se ostenderet iuberetque concinere aeneatores: <re>sonantibus montium iugis species ingentis multitudinis offusa est hostibus, qua perterritidedere terga. 
  
 
  
 
-Acilius Glabrio consul adversus Antiochi regis aciem, quam is in Achaia pro angustiis Thermopylarum direxerat, iniquitatibus loci non irritus tantum, sed cum iactura quoque repulsus esset, nisi circummissus ab eo Porcius Cato, qui tum, iam consularis, tribunus militum a populo factus in exercitu erat, deiectis iugis Callidromi montis Aetolis, qui praesidio &lt;ea&gt; tenebant, super imminentem castris regiis collem a tergo subitus apparuisset: quo facto perturbatis Antiochi copiis utrimque irrupere Romani et fusis fugatisque castra ceperunt. 
+Acilius Glabrio consul adversus Antiochi regis aciem, quam is in Achaia pro angustiis Thermopylarum direxerat, iniquitatibus loci non irritus tantum, sed cum iactura quoque repulsus esset, nisi circummissus ab eo Porcius Cato, qui tum, iam consularis, tribunus militum a populo factus in exercitu erat, deiectis iugis Callidromi montis Aetolis, qui praesidio <ea> tenebant, super imminentem castris regiis collem a tergo subitus apparuisset: quo facto perturbatis Antiochi copiis utrimque irrupere Romani et fusis fugatisque castra ceperunt. 
  
 
  
@@ -400,7 +400,7 @@ Croesus praevalido hostium equitatui camelorum gregem opposuit, quorum novitate 
 
  
 
-Pyrrhus, Epirotarum rex, pro Tarentinis adversus Romanos eodem modo elephantis ad perturbandam aciem usus est. Poeni quoque adversus Romanos frequenter idem fecerunt. Volscorum castra cum prope &lt;a&gt; virgultis silvaque posita essent, Camillusea omnia, quae conceptum ignem usque in vallum perferre poterant, incendit et sic adversarios exuit castris. 
+Pyrrhus, Epirotarum rex, pro Tarentinis adversus Romanos eodem modo elephantis ad perturbandam aciem usus est. Poeni quoque adversus Romanos frequenter idem fecerunt. Volscorum castra cum prope <a> virgultis silvaque posita essent, Camillusea omnia, quae conceptum ignem usque in vallum perferre poterant, incendit et sic adversarios exuit castris. 
  
 
  
@@ -499,7 +499,7 @@ Ti. Gracchus in Hispania, certior factus hostem inopem commercio laborare, instr
 
  
 
-&lt;C&gt;hi&lt;i&gt;, qui adversus Erythraeos bellum gerebant, speculatorem eorum in loco edito deprehensum occiderunt et vestem eius suo militi dederunt, qui ex eodem iugo Erythraeos signo dato in insidias evocavit. 
+<C>hi<i>, qui adversus Erythraeos bellum gerebant, speculatorem eorum in loco edito deprehensum occiderunt et vestem eius suo militi dederunt, qui ex eodem iugo Erythraeos signo dato in insidias evocavit. 
  
 
  
@@ -509,7 +509,7 @@ Arabes, cum esset nota consuetudo eorum, qua de adventu hostium interdiu fumo, n
 
  
 
-Alexander Macedo, cum hostis in saltu editiore castra communisset, subducta parte copiarum praecepit his, quos relinquebat, ut ex more ignes &lt;ex&gt;citarent speciemque praeberent totius exercitus: ipse per avias regiones circumducta manu hostem superiore aggressus loco depulit. 
+Alexander Macedo, cum hostis in saltu editiore castra communisset, subducta parte copiarum praecepit his, quos relinquebat, ut ex more ignes <ex>citarent speciemque praeberent totius exercitus: ipse per avias regiones circumducta manu hostem superiore aggressus loco depulit. 
  
 
  
@@ -544,17 +544,17 @@ Idem Hannibal, cum ad Trebiam in conspectu haberet Semproni Longi consulis castr
 
  
 
-Idem ad Trasumennum, cum arta quaedam via in&lt;ter lacum et&gt; radicesmontis in campos patentes duceret, simulata fuga per angustias ad patentia evasit ibique castra posuit ac nocte dispositis militibus et per collem, qui imminebat, et in lateribus angustiarum prima luce, nebula quoqueadiutus, aciem direxit: Flaminius velut fugientem insequens, cum angustias esset ingressus, non ante providit insidias, quam simul a fronte, lateribus, tergo circumfusus ad internicionem cum exercitu caederetur. 
+Idem ad Trasumennum, cum arta quaedam via in<ter lacum et> radicesmontis in campos patentes duceret, simulata fuga per angustias ad patentia evasit ibique castra posuit ac nocte dispositis militibus et per collem, qui imminebat, et in lateribus angustiarum prima luce, nebula quoqueadiutus, aciem direxit: Flaminius velut fugientem insequens, cum angustias esset ingressus, non ante providit insidias, quam simul a fronte, lateribus, tergo circumfusus ad internicionem cum exercitu caederetur. 
  
 
  
 
-Idem Hannibal adversus Iunium dictatorem nocte intempesta DC equitibusimperavit, ut in plures turmas segregati per vices sine intermissione circa castra hostium se ostentarent: ita tota nocte Romanis in vallo statione ac pluvia, quae forte continua fuerat, inquietatis confectisque, cum receptui signum man&lt;e&gt; Iunius dedisset, Hannibal suos requietos eduxit et castra eius invasit. 
+Idem Hannibal adversus Iunium dictatorem nocte intempesta DC equitibusimperavit, ut in plures turmas segregati per vices sine intermissione circa castra hostium se ostentarent: ita tota nocte Romanis in vallo statione ac pluvia, quae forte continua fuerat, inquietatis confectisque, cum receptui signum man<e> Iunius dedisset, Hannibal suos requietos eduxit et castra eius invasit. 
  
 
  
 
-Epaminondas Thebanus in eundem modum, cum Lacedaemonii a&lt;d&gt; &lt;Is&gt;thmon vallo ducto Peloponeson tuerentur, paucorum opera levis armaturae tota nocte inquietavit hostem. Ac deinde prima luce &lt;re&gt;vocatis suis, cum Lacedaemonii se recepissent, subito universum exercitum,quem quietum habuerat, admovit et per ipsa munimenta destituta propugnatoribus irrupit. 
+Epaminondas Thebanus in eundem modum, cum Lacedaemonii a<d> <Is>thmon vallo ducto Peloponeson tuerentur, paucorum opera levis armaturae tota nocte inquietavit hostem. Ac deinde prima luce <re>vocatis suis, cum Lacedaemonii se recepissent, subito universum exercitum,quem quietum habuerat, admovit et per ipsa munimenta destituta propugnatoribus irrupit. 
  
 
  
@@ -564,7 +564,7 @@ Hannibal directa acie ad Cannas DC equites Numidas transfugere iussit, qui ad fi
 
  
 
-Iapydes P. Licinio proconsuli pag&lt;an&gt;os quoque sub specie deditionis obtulerunt, qui recepti et in postrema acie collocati terga Romanorum ceciderunt. 
+Iapydes P. Licinio proconsuli pag<an>os quoque sub specie deditionis obtulerunt, qui recepti et in postrema acie collocati terga Romanorum ceciderunt. 
  
 
  
@@ -599,7 +599,7 @@ Crassus bello fugitivorum apud Cantennam bina castra comminus cum hostium castri
 
  
 
-C. Cassius in Syria adversus Parthos ducemque &lt;O&gt;sacen equitem ostendita fronte, cum a tergo peditem in confragoso loco occultasset: dein cedente equitatu et per nota se recipiente, in praeparatas insidias perduxit exercitum Parthorum et cecidit. 
+C. Cassius in Syria adversus Parthos ducemque <O>sacen equitem ostendita fronte, cum a tergo peditem in confragoso loco occultasset: dein cedente equitatu et per nota se recipiente, in praeparatas insidias perduxit exercitum Parthorum et cecidit. 
  
 
  
@@ -688,7 +688,7 @@ Antigonus, rex Macedonum, Aetolis, qui in obsidionem ab eo compulsifame urgueban
 
  
 
-Cn. Manlius consul, cum ex acie reversus capta ab Etruscis Romanorum castra invenisset, omnibus portis statione circumdatis inclusos hostes in eam rabiem efferavit, ut ipse in proelio caderet: quod &lt;ut&gt; animadverterunt legati eius, ab una porta remota statione exitum Etruscis dederunt et effusos persecuti, occurrente altero consule Fabio, ceciderunt. 
+Cn. Manlius consul, cum ex acie reversus capta ab Etruscis Romanorum castra invenisset, omnibus portis statione circumdatis inclusos hostes in eam rabiem efferavit, ut ipse in proelio caderet: quod <ut> animadverterunt legati eius, ab una porta remota statione exitum Etruscis dederunt et effusos persecuti, occurrente altero consule Fabio, ceciderunt. 
  
 
  
@@ -703,7 +703,7 @@ Pyrrhus, Epirotarum rex, cum quandam civitatem cepisset clausisque portis ex ult
 
  
 
-Idem inter praecepta imperatoria memoriae tradidit, non esse pertinaciterinstandum hosti fugienti, ne non solum &lt;e&gt;a re fortius ex necessitate resisteret, sed ut postea quoque facilius acie cederet, cum sciret non usque ad perniciem fugientibus instaturos victores. 
+Idem inter praecepta imperatoria memoriae tradidit, non esse pertinaciterinstandum hosti fugienti, ne non solum <e>a re fortius ex necessitate resisteret, sed ut postea quoque facilius acie cederet, cum sciret non usque ad perniciem fugientibus instaturos victores. 
  
 
  
@@ -727,7 +727,7 @@ Idem, cum auxiliares eius missi ab ipso circumventi ab hostibus et interfectiess
 
  
 
-Scipio, cum Syphacis legati nuntiarent ei regis sui nomine, ne fiducia societatis eius ex Sicilia in Africam transiret, veritus, ne confunderentur animi suorum abscisa &lt;spe&gt; peregrinae societatis, dimisit pro&lt;pe&gt;re legatos et famam diffudit, tamquam ultro a Syphace accerseretur. 
+Scipio, cum Syphacis legati nuntiarent ei regis sui nomine, ne fiducia societatis eius ex Sicilia in Africam transiret, veritus, ne confunderentur animi suorum abscisa <spe> peregrinae societatis, dimisit pro<pe>re legatos et famam diffudit, tamquam ultro a Syphace accerseretur. 
  
 
  
@@ -737,7 +737,7 @@ Q. Sertorius, cum acie decertaret, barbarum, qui ei nuntiaverat Hirtuleium peris
 
  
 
-Alcibiades Atheniensis, cum &lt;ab&gt; Abydenis proelio urgueretur subitoquemagno cursu tristem adventare animadvertisset tabellarium, prohibuit palam dicere, quid afferret. Dehinc secreto sciscitatus, a Pharnabazo regio praefecto classem suam oppugnari, celatis et hostibus et militibus proelium finit ac protinus ad eripiendam classem ducto exercitu opem tulit suis. 
+Alcibiades Atheniensis, cum <ab> Abydenis proelio urgueretur subitoquemagno cursu tristem adventare animadvertisset tabellarium, prohibuit palam dicere, quid afferret. Dehinc secreto sciscitatus, a Pharnabazo regio praefecto classem suam oppugnari, celatis et hostibus et militibus proelium finit ac protinus ad eripiendam classem ducto exercitu opem tulit suis. 
  
 
  
@@ -757,7 +757,7 @@ Datames, dux Persarum, adversum Autophradaten in Cappadocia, cum partem equitum 
 
  
 
-T. Quintius Capitolinus consul cedentibus Romanis ementitus est in altero cornu hostes fugatos et ita confirmatis suis victoriam re&lt;t&gt;tulit. Cn. Man[i]lius adversus Etruscos, vulnerato collega M. Fabio, qui sinistrumcornu ducebat, et ob id ea parte cedente, quod etiam occisum crederent consulem, cum turmis equitum occurrit, clamitans et collegam vivere et se dextro cornu vicisse: qua constantia redintegratis animis suorum vicit. 
+T. Quintius Capitolinus consul cedentibus Romanis ementitus est in altero cornu hostes fugatos et ita confirmatis suis victoriam re<t>tulit. Cn. Man[i]lius adversus Etruscos, vulnerato collega M. Fabio, qui sinistrumcornu ducebat, et ob id ea parte cedente, quod etiam occisum crederent consulem, cum turmis equitum occurrit, clamitans et collegam vivere et se dextro cornu vicisse: qua constantia redintegratis animis suorum vicit. 
  
 
  
@@ -767,7 +767,7 @@ Marius adversus Cimbros et Teutonos, cum metatores eius per imprudentiamita cast
 
  
 
-T. Labienus post Pharsalicam pugnam, cum victis partibus Dyrrhachiumrefugisset, miscuit vera falsis et, non celato exitu pugnae, aequatampartium fortunam gravi vulnere Caesaris finxit: et hac assimulatione reliqui&lt;i&gt;s Pompeianarum partium fiduciam fecit. 
+T. Labienus post Pharsalicam pugnam, cum victis partibus Dyrrhachiumrefugisset, miscuit vera falsis et, non celato exitu pugnae, aequatampartium fortunam gravi vulnere Caesaris finxit: et hac assimulatione reliqui<i>s Pompeianarum partium fiduciam fecit. 
  
 
  
@@ -781,7 +781,7 @@ M. Cato, cum Ambraciam eo tempore, quo sociae naves ab Aetolis oppugnabantur, im
  
 
  
-Servius Tullius adulescens proelio, quo rex Tarquinius adversus Sabinos conflixit, signiferis segnius dimicantibus raptum signum in hostem misit: cuius recuperandi gratia Romani ita ardenter pugnaverunt, ut et signum et victoriam re&lt;t&gt;tulerint. 
+Servius Tullius adulescens proelio, quo rex Tarquinius adversus Sabinos conflixit, signiferis segnius dimicantibus raptum signum in hostem misit: cuius recuperandi gratia Romani ita ardenter pugnaverunt, ut et signum et victoriam re<t>tulerint. 
  
 
  
@@ -880,7 +880,7 @@ Hermocrates Syracusanus superatis acie Carthaginiensibus veritus, ne captivi, qu
 
  
 
-Idem, rebus prospere gestis et ob id resolutis suis in nimiam securitatem somnoque et mero pressis, in castra &lt;hostium&gt; transfugam misit, qui praemoneretde fuga: dispositas enim ubique a Syracusanis insidias. Quarum metu illi continuerunt se intra castra: Hermocrates detentos eos postero die habilioribus iam suis tradidit bellumque confecit. 
+Idem, rebus prospere gestis et ob id resolutis suis in nimiam securitatem somnoque et mero pressis, in castra <hostium> transfugam misit, qui praemoneretde fuga: dispositas enim ubique a Syracusanis insidias. Quarum metu illi continuerunt se intra castra: Hermocrates detentos eos postero die habilioribus iam suis tradidit bellumque confecit. 
  
 
  
@@ -938,7 +938,7 @@ Antipater, conspecto Peloponesiorum exercitu, qui audita morte Alexandri ad infe
 
  
 
-Scipio Africanus in Hispania, cum inter captivas eximiae formae virgo &lt;nubilis&gt; [alias et nobilis] ad eum perducta esset omniumque oculos in se converteret, summa custodia habitam sponso nomine Alicio reddidit insuperqueaurum, quod parentes eius redempturi captivam donum Scipioni attulerant, eidem sponso pro nuptiali munere dedit: qua multiplici magnificentiauniversa gens victa imperio populi Romani accessit. 
+Scipio Africanus in Hispania, cum inter captivas eximiae formae virgo <nubilis> [alias et nobilis] ad eum perducta esset omniumque oculos in se converteret, summa custodia habitam sponso nomine Alicio reddidit insuperqueaurum, quod parentes eius redempturi captivam donum Scipioni attulerant, eidem sponso pro nuptiali munere dedit: qua multiplici magnificentiauniversa gens victa imperio populi Romani accessit. 
  
 
  
@@ -957,7 +957,7 @@ Imperator Caesar Augustus Germanicus eo bello, quo victis hostibus cognomen Germ
  
 
  
-T. Quintius consul, cum Volsci castra eius aggress&lt;ur&gt;i forent, cohortem tantummodo in statione detinuit, reliquum exercitum ad quiescendumdimisit. Aeneatoribus praecepit, ut vallum insidentes equis circumirentconcinerentque: qua facie et simulatione cum et propulsasset et detinuisset per totam noctem hostes, ad lucis exortum fessos vigilia repente facta eruptione facile superavit. 
+T. Quintius consul, cum Volsci castra eius aggress<ur>i forent, cohortem tantummodo in statione detinuit, reliquum exercitum ad quiescendumdimisit. Aeneatoribus praecepit, ut vallum insidentes equis circumirentconcinerentque: qua facie et simulatione cum et propulsasset et detinuisset per totam noctem hostes, ad lucis exortum fessos vigilia repente facta eruptione facile superavit. 
  
 
  
@@ -967,12 +967,12 @@ Q. Sertorius in Hispania hostium equitatui maxime impar, qui usque ad ipsas muni
 
  
 
-Chares, dux Atheniensium, cum exspectaret auxilia et vereretur, ne interea contemptu praesentis paucitatis hostes castra eius oppugnarent, compluresex eis quos habebat per aversam partem nocte &lt;e&gt;missos iussit, qua praecipue conspicui forent hostibus, redire in castra et accedentium novarum virium speciem praebere: atque ita simulatis auxiliis tutus est, donec instruereturexspectatis. 
+Chares, dux Atheniensium, cum exspectaret auxilia et vereretur, ne interea contemptu praesentis paucitatis hostes castra eius oppugnarent, compluresex eis quos habebat per aversam partem nocte <e>missos iussit, qua praecipue conspicui forent hostibus, redire in castra et accedentium novarum virium speciem praebere: atque ita simulatis auxiliis tutus est, donec instruereturexspectatis. 
  
 
  
 
-Iphicrates Atheniensis, cum campestribus locis castra haberet explorassetqueThracas ex collibus, per quos unus erat descensus, nocte ad diripiendacastra venturos, clam &lt;e&gt;duxit exercitum et in utraque viae latera, per quam transituri Thraces erant, distributum collocavit: hostemque decurrentemin castra, in quibus multi ignes per paucorum curam instituti speciem manentis ibi multitudinis servabant, a lateribus adortus oppressit. 
+Iphicrates Atheniensis, cum campestribus locis castra haberet explorassetqueThracas ex collibus, per quos unus erat descensus, nocte ad diripiendacastra venturos, clam <e>duxit exercitum et in utraque viae latera, per quam transituri Thraces erant, distributum collocavit: hostemque decurrentemin castra, in quibus multi ignes per paucorum curam instituti speciem manentis ibi multitudinis servabant, a lateribus adortus oppressit. 
  
 
  
@@ -981,12 +981,12 @@ Iphicrates Atheniensis, cum campestribus locis castra haberet explorassetqueThra
  
 
  
-Galli pugnaturi cum Attalo aurum omne et argentum certis custodibus tradiderunt, &lt;a&gt; quibus, si acie fusi essent, spargeretur, quo facilius colligendapraeda hostem impeditum effugerent. 
+Galli pugnaturi cum Attalo aurum omne et argentum certis custodibus tradiderunt, <a> quibus, si acie fusi essent, spargeretur, quo facilius colligendapraeda hostem impeditum effugerent. 
  
 
  
 
-Tryphon Syriae rex victus per totum iter fugiens pecuniam sparsit et sectanda e&lt;a&gt; Antiochi equites moratus effugit. 
+Tryphon Syriae rex victus per totum iter fugiens pecuniam sparsit et sectanda e<a> Antiochi equites moratus effugit. 
  
 
  

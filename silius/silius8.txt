@@ -63,7 +63,7 @@ regnisque Aeneadum germana colatur Elissae.
 sed pressis stringam reuocatam ab origine famam 
 narrandi metis breuiterque antiqua reuoluam. 
  Iliaco postquam deserta est hospite Dido    50 
-et spes abruptae, media&lt;m&gt; in penetralibus atram 
+et spes abruptae, media<m> in penetralibus atram 
 festinat furibunda pyram. tum corripit ensem 
 certa necis, profugi donum exitiale mariti. 
 despectus taedae regnis se imponit Iarbas, 
@@ -117,7 +117,7 @@ eliciunt spondentque nouis medicamina curis,
 quod uidi decepta nefas! congessit in atram 
 cuncta tui monumenta pyram et non prospera dona.' 
  Tunc sic Aeneas dulci repetitus amore: 
-'Tellurem hanc iuro, uota inter nostra frequente&lt;r&gt;    105 
+'Tellurem hanc iuro, uota inter nostra frequente<r>    105 
 auditam uobis, iuro caput, Anna, tibique 
 germanaeque tuae dilectum mitis Iuli, 
 respiciens aegerque animi tum regna reliqui 
@@ -156,7 +156,7 @@ in portus amens rorantia lumina flexit:
 mors instans maiora facit, precor," inquit "adeste 
 et placidi uictos ardore admittite manis. 
 Aeneae coniunx, Veneris nurus, ulta maritum, 
-&lt;uidi constructas nostrae Carthaginis arces. 
+<uidi constructas nostrae Carthaginis arces. 
 nunc ad uos magni descendet corporis umbra.    145 
 me quoque fors dulci quondam uir notus amore 
 expectat, curas cupiens aequare priores." 
@@ -236,7 +236,7 @@ me tibi, ne dubites, summi matrona Tonantis
 misit. ego Oenotris aeternum numen in oris    220 
 concelebror uestri generata e sanguine Beli. 
 haud mora sit: rapido belli rape fulmina cursu. 
-celsus Iapygios ubi se Garganus in agros&gt; 
+celsus Iapygios ubi se Garganus in agros> 
 explicat (haud longe tellus), huc derige signa. 
 [haec, ut Roma cadat, sat erit uictoria Poenis.']    224a 
 dixit et in nubes umentia sustulit ora. 
@@ -246,7 +246,7 @@ numen' ait 'nobis, felix oblata secundes.
 ast ego te compos pugnae Carthaginis arce 
 marmoreis sistam templis iuxtaque dicabo    230 
 aequatam gemino simulacri munere Dido.' 
-haec fatus socios stimulat tum&lt;e&gt;factus ouantis: 
+haec fatus socios stimulat tum<e>factus ouantis: 
 'Pone grauis curas tormentaque lenta sedendi, 
 fatalis Latio miles. placauimus iras 
 caelicolum, redeunt diui: finita maligno    235 
@@ -280,7 +280,7 @@ ad dextrae decus atque e rostris bella ciebat.
 ergo alacer Fabiumque morae increpitare professus 
 ad uulgum in patres petulantia uerba ferebat: 
 'Vos, quorum imperium est, consul praecepta modumque    265 
-bellandi posco. sedeone au&lt;t&gt; montibus erro, 
+bellandi posco. sedeone au<t> montibus erro, 
 dum mecum Garamas et adustus corpora Maurus 
 diuidit Italiam? an ferro, quo cingitis, utor? 
 exaudi, bone dictator, quid Martia plebes 
@@ -310,16 +310,16 @@ hinc inerat metus et durae reuerentia plebis.
 sed genus admotum superis summumque per altos 
 attingebat auos caelum: numerare parentem 
 Assaracum retro praestabat Amulius auctor    295 
-Assaracusque Iouem, ne&lt;c&gt;, qui spectasset in armis, 
+Assaracusque Iouem, ne<c>, qui spectasset in armis, 
 abnueret genus. huic Fabius iam castra petenti: 
 'Si tibi cum Tyrio credis fore maxima bella 
 ductore (inuitus uocem hanc e pectore rumpam) 
-frustraris, Paule. Ausoni&lt;d&gt;um te proelia dira    300 
+frustraris, Paule. Ausoni<d>um te proelia dira    300 
 teque hostis castris grauior manet, aut ego multo 
 nequiquam didici casus praenoscere Marte. 
 spondentem audiui (piget heu taedetque senectae, 
 si quas prospicio restat passura ruinas!) 
-cum duce tam fausti Martis, qua uiderit &lt;h&gt;ora,    305 
+cum duce tam fausti Martis, qua uiderit <h>ora,    305 
 sumpturum pugnam. quantum nunc, Paule, supremo 
 absumus exitio, uocem hanc si consulis ardens 
 audiuit Poenus! iam latis obuia credo 
@@ -401,7 +401,7 @@ ducit auis pollens nec dextra indignus auorum
 Scaeuola, cui dirae caelatur laudis honora 
 effigie clipeus: flagrant altaribus ignes,    385 
 Tyrrhenum ualli medio stat Mucius ira 
-in semet uersa, saeuitque &lt;in&gt; imagine uirtus. 
+in semet uersa, saeuitque <in> imagine uirtus. 
 ~tunc icta species iniere ac bella magistro 
 cernitur effugiens ardentem Porsena dextram. 
  Quis Circaea iuga et scopulosi uerticis Anxur    390 
@@ -412,7 +412,7 @@ ducebat simul excitis, Soraeque iuuentus
 addita fulgebat telis. hic Scaptia pubes,    395 
 hic Fabrateriae uulgus, nec monte niuoso 
 descendens Atina aberat detritaque bellis 
-S&lt;u&gt;essa atque a duro Frusino haud imbellis aratro. 
+S<u>essa atque a duro Frusino haud imbellis aratro. 
 at, qui Fibreno miscentem flumina Lirim 
 sulphureum tacitisque uadis ad litora lapsum    400 
 accolit, Arpinas, accita pube Venafro 
@@ -453,7 +453,7 @@ agmina sanguinea uibrant in nubila luce.    435
 stat fucare colus nec Sidone uilior Ancon 
 murice nec Libyco, statque umectata Vomano 
 Hadria et inclemens hirsuti signifer Ascli. 
-ho&lt;c&gt; Picus quondam nomen memorabile ab alto 
+ho<c> Picus quondam nomen memorabile ab alto 
 Saturno statuit genitor, quem carmine Circe    440 
 exutum formae uolitare per aethera iussit 
 et sparsit croceum plumis fugientis honorem. 
@@ -472,9 +472,9 @@ sed pater ingenti medios inlabitur amne
 Albula et admota perstringit moenia ripa.    455 
 his urbes Arna et laetis Meuania pratis, 
 Hispellum et duro monti per saxa recumbens 
-&lt;N&gt;arnia et infestum nebulis umentibus olim 
+<N>arnia et infestum nebulis umentibus olim 
 Iguuium patuloque iacens sine moenibus aruo 
-Fulgin&lt;i&gt;a, his populi fortes: Amerinus et armis    460 
+Fulgin<i>a, his populi fortes: Amerinus et armis    460 
 uel rastris laudande Camers, his Sassina, diues 
 lactis, et haud parci Martem coluisse Tudertes. 
 ductor Piso uiros spernaces mortis agebat, 
@@ -486,10 +486,10 @@ Arsacidum ut fuluo micat ignea gemma monili.
 rectorem magno spectabat nomine Galbam. 
 huic genus orditur Minos inclusaque tauro    470 
 Pasiphae, clarique dehinc stant ordine patres. 
-lectos Caere uiros, lectos Cor&lt;t&gt;ona, superbi 
+lectos Caere uiros, lectos Cor<t>ona, superbi 
 Tarchonis domus, et ueteres misere Grauiscae. 
 necnon Argolico dilectum litus Haleso 
-A&lt;l&gt;sium et obsessae campo squalente Fregenae.    475 
+A<l>sium et obsessae campo squalente Fregenae.    475 
 adfuit et sacris interpres fulminis alis 
 Faesula et antiquus Romanis moenibus horror 
 Clusinum uulgus, cum, Porsena magne, iubebas 
@@ -512,7 +512,7 @@ sat cautum: Lycios damnant hastilibus arcus.
  Hae bellare acies norant. at Marsica pubes    495 
 et bellare manu et chelydris cantare soporem 
 uipereumque herbis hebetare et carmine dentem. 
-Ae&lt;e&gt;tae prolem Angitiam mala gramina primam 
+Ae<e>tae prolem Angitiam mala gramina primam 
 monstrauisse ferunt tactuque domare uenena 
 et lunam excussisse polo, stridoribus amnes    500 
 frenantem, ac siluis montes nudasse uocatis. 
@@ -534,17 +534,17 @@ Corfini populos magnumque Teate trahebat.    520
 omnibus in pugnam fertur sparus, omnibus alto 
 adsuetae uolucrem caelo demittere fundae. 
 pectora pellis obit caesi uenatibus ursi. 
- &lt;Nec Sidicina cohors defit. Viriasius armat    523a 
+ <Nec Sidicina cohors defit. Viriasius armat    523a 
 mille uiros, nulli uictus uel ponere castra    523b 
 uel iunxisse ratem duroque resoluere muros    523c 
-ariete et in turrim subitos immittere pontis.&gt;    523d 
+ariete et in turrim subitos immittere pontis.>    523d 
  Nec cedit studio Sidicinus sanguine miles,    511 
 quem genuere Cales. non paruus conditor urbi, 
 ut fama est, Calais, Boreae quem rapta per auras 
 Orithyia uago Geticis nutriuit in antris. 
  Iam uero, quos diues opum, quos diues auorum    524 
 e toto dabat ad bellum Campania tractu, 
-ductorum aduentu&lt;m&gt; uicinis sedibus Osci 
+ductorum aduentu<m> uicinis sedibus Osci 
 seruabant: Sinuessa tepens fluctuque sonorum 
 Vulturnum, quasque euertere silentia Amyclae 
 Fundique et regnata Lamo Caieta domusque 
@@ -596,7 +596,7 @@ necnon Brundisium, quo desinit Itala tellus.
 parebat legio audaci permissa Cethego,    575 
 cui socias uires atque indiscreta maniplis 
 arma recensebant: nunc sese ostendere miles 
-Leucosiae e &lt;s&gt;copulis, nunc, quem Picentia Paesto 
+Leucosiae e <s>copulis, nunc, quem Picentia Paesto 
 misit et exhaustae mox Poeno Marte Cerillae, 
 nunc Silarus quos nutrit aquis, quo gurgite tradunt    580 
 duritiem lapidum mersis inolescere ramis. 

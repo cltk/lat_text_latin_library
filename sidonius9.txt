@@ -210,7 +210,7 @@ Sidonius domino papae Principio salutem.
  
 
  
-2. et quia, domine papa, modo vivimus &lt;animis&gt; iunctis abiunctisque regionibus conspectibusque mutuis frui dissociatae situ habitationis inhibemur, orate, ut optabili religiosoque decessu vitae praesentis angoribus atque onere perfuncti, cum iudicii dies sanctus offulserit cum resurrectione, agminibus vestris famulaturi vel sub Gabaoniticae servitutis occasione iungamur; quia secundum promissa caelestia, quae spoponderunt filios dei de nationibus congregandos, si nos reos venia soletur, dum vos beatos gloria manet, etsi per actionum differentiam, non tamen per locorum distantiam dividemur. memor nostri esse dignare, domine papa.
+2. et quia, domine papa, modo vivimus <animis> iunctis abiunctisque regionibus conspectibusque mutuis frui dissociatae situ habitationis inhibemur, orate, ut optabili religiosoque decessu vitae praesentis angoribus atque onere perfuncti, cum iudicii dies sanctus offulserit cum resurrectione, agminibus vestris famulaturi vel sub Gabaoniticae servitutis occasione iungamur; quia secundum promissa caelestia, quae spoponderunt filios dei de nationibus congregandos, si nos reos venia soletur, dum vos beatos gloria manet, etsi per actionum differentiam, non tamen per locorum distantiam dividemur. memor nostri esse dignare, domine papa.
  
 
  
@@ -320,7 +320,7 @@ Sidonius domino papae Lupo salutem.
  
 
  
-2. nam cum mihi rigor censurae tuae in litteris aeque ut &lt;in&gt; moribus sit ambifariam contremescendus, fateor tamen in voluminis ipsius operisque reseratu illam mihi fuisse plus oneri quam praetenditis caritatem. nec citra iustum ista conicio, quandoquidem mortalium mentibus vis haec naturalitus inest, ut, si quid perperam fiat, minus indulgeant plus amici.
+2. nam cum mihi rigor censurae tuae in litteris aeque ut <in> moribus sit ambifariam contremescendus, fateor tamen in voluminis ipsius operisque reseratu illam mihi fuisse plus oneri quam praetenditis caritatem. nec citra iustum ista conicio, quandoquidem mortalium mentibus vis haec naturalitus inest, ut, si quid perperam fiat, minus indulgeant plus amici.
  
 
  

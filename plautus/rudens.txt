@@ -109,8 +109,8 @@ dicit, potesse ibi eum fieri divitem.    55
 Persuadet. navis clanculum conducitur, 
 quidquid erat noctu in navem comportat domo 
 leno; adulescenti qui puellam ab eo emerat 
-ait sese Veneri velle votum solvere&#151;    60 
-id hic est Veneris fanum&#151; et eo ad prandium 
+ait sese Veneri velle votum solvere—    60 
+id hic est Veneris fanum— et eo ad prandium 
 vocavit adulescentem huc. ipse hinc ilico 
 conscendit navem, avehit meretriculas. 
 adulescenti alii narrant ut res gesta sit, 
@@ -131,7 +131,7 @@ cuius deturbavit ventus tectum et tegulas;
 et servos illic est eius, qui egreditur foras. 
 adulescens huc iam adveniet, quem videbitis,  80 
 qui illam mercatust de lenone virginem. 
-valete, ut hostes vestri diffidant sibi.&#151;
+valete, ut hostes vestri diffidant sibi.—
  
 
  
@@ -144,7 +144,7 @@ valete, ut hostes vestri diffidant sibi.&#151;
  I.i 
  SCEPARNIO Pro di immortales, tempestatem cuius modi 
 Neptunus nobis nocte hac misit proxima. 
-detexit ventus villam &#151; quid verbis opust?   85 
+detexit ventus villam — quid verbis opust?   85 
 non ventus fuit, verum Alcumena Euripidi, 
 ita omnis de tecto deturbavit tegulas; 
 inlustrioris fecit fenestrasque indidit.
@@ -190,7 +190,7 @@ volo ego ex te. DAEM. Dabitur opera, atque in negotio.
 qui pertegamus villam, dum sudumst? DAEM. Tace. 
 tu si quid opus est dice. PLES. Dic quod te rogo, 
 ecquem tu hic hominem crispum, incanum videris,  125 
-malum, periurum, palpatorem&#151; DAEM. Plurimos, 
+malum, periurum, palpatorem— DAEM. Plurimos, 
 nam ego propter eius modi viros vivo miser. 
  PLES. Hic dico, in fanum Veneris qui mulierculas 
 duas secum adduxit, quique adornaret sibi 
@@ -199,7 +199,7 @@ ut rem divinam faciat, aut hodie aut heri.      130
 quemquam istic vidi sacruficare, neque potest 
 clam me esse si qui sacruficat: semper petunt 
 aquam hinc aut ignem aut vascula aut cultrum aut veru 
-aut aulam extarem, aut aliquid&#151;quid verbis opust?  135 
+aut aulam extarem, aut aliquid—quid verbis opust?  135 
 Veneri paravi vasa et puteum, non mihi. 
 nunc intervallum iam hos dies multos fuit. 
  PLES. Vt verba praehibes, me periisse praedicas. 
@@ -219,20 +219,20 @@ propter viam illi sunt vocati ad prandium.     150
  DAEM. Confracta navis in mari est illis. SCEP. Ita est. 
 at hercle nobis villa in terra et tegulae. DAEM. Hui, 
 homunculi quanti estis. eiecti ut natant.      154-155 
- PLES. Vbi sunt i homines, obsecro? DAEM. Hac ad dexteram&#151; 156 
-viden?&#151; secundum litus. PLES. Video. sequimini. 
+ PLES. Vbi sunt i homines, obsecro? DAEM. Hac ad dexteram— 156 
+viden?— secundum litus. PLES. Video. sequimini. 
 utinam is sit quem ego quaero, vir sacerrimus. 
-valete.&#151; SCEP. Si non moneas, nosmet meminimus. 
+valete.— SCEP. Si non moneas, nosmet meminimus. 
 sed, o Palaemon, sancte Neptuni comes,      160 
 qui Herculis socius esse diceris,~ 
 quod facinus video. DAEM. Quid vides? SCEP. Mulierculas 
 video sedentis in scapha solas duas. 
 ut adflictantur miserae. euge euge, perbene, 
 ab saxo avortit fluctus ad litus scapham,   165 
-neque gubernator umquam potuit &lt;rectius>. 
+neque gubernator umquam potuit <rectius>. 
 non vidisse undas me maioris censeo. 
 salvae sunt, si illos fluctus devitaverint. 
-nunc, nunc periclumst. &lt;unda> eiecit alteram. 
+nunc, nunc periclumst. <unda> eiecit alteram. 
 at in vadost, iam facile enabit. eugepae,   170 
 [viden alteram illam ut fluctus eiecit foras?] 
 surrexit, horsum se capessit. salva res. 
@@ -246,9 +246,9 @@ errationis fecerit compendium.        179-180
  DAEM. Si tu de illarum cenaturus vesperi es,  181 
 illis curandum censeo, Sceparnio, 
 si apud me essurus, mihi dari operam volo. 
- SCEP. Bonum aequomque oras. DAEM. Sequere me hac ergo.&#151;
+ SCEP. Bonum aequomque oras. DAEM. Sequere me hac ergo.—
  SCEP. 
-Sequor.&#151;
+Sequor.—
  
 
  
@@ -257,7 +257,7 @@ Sequor.&#151;
 *** experiundo iis datur acerbum. 
 *** hoc deo complacitumst, me hoc ornatu ornatam in incertas 
 regiones timidam eiectam. 
-hancine ego ad rem natam &lt;esse me> miseram memorabo? 
+hancine ego ad rem natam <esse me> miseram memorabo? 
 hancine ego partem capio ob pietatem praecipuam?  190 
 nam hoc mi haud laborist, laborem hunc potiri, 
 si erga parentem aut deos me impiavi; 
@@ -265,7 +265,7 @@ sed id si parate curavi ut caverem,
 tum hoc mi indecore, inique, inmodeste 
 datis, di; nam quid habebunt sibi signi impii posthac, 195 
 si ad hunc modum est innoxiis honor apud vos? 
-nam me si sciam &lt;in vos> fecisse aut parentis 
+nam me si sciam <in vos> fecisse aut parentis 
 sceleste, minus me miserer;        197a 
 sed erile scelus me sollicitat, eius me impietas male habet. 
 is navem atque omnia perdidit in mari: 
@@ -337,7 +337,7 @@ fanum [videsne] hoc? AMP. Vbi est? PAL. Ad dexteram.
  AMP. Video decorum dis locum viderier.       255 
  PAL. Haud longe abesse oportet homines hinc, ita hic lepidust
 locus. 
-&lt;quisquis> est deus, veneror ut nos ex hac aerumna eximat, 
+<quisquis> est deus, veneror ut nos ex hac aerumna eximat, 
 miseras inopis aerumnosas ut aliquo auxilio adiuvet.
  
 
@@ -367,13 +367,13 @@ neque hoc amplius, [quam] quod vides, nobis quicquamst.
  PTOL. Manus mihi date, exurgite a genibus ambae.  280 
 misericordior nulla me est feminarum. 
 sed haec pauperes res sunt inopesque, puellae: 
-egomet &lt;meam> vix vitam colo; Veneri cibo meo servio. 
+egomet <meam> vix vitam colo; Veneri cibo meo servio. 
  AMP. Veneris fanum, obsecro, hoc est? 
  PTOL. Fateor. ego huius fani sacerdos clueo.  285 
 verum, quidquid est, comiter fiet a me, 
 quo nunc copia valebit. 
 ite hac mecum. PAL. Amice benigneque honorem, 
-mater, nostrum habes.&#151; PTOL. Oportet.&#151;
+mater, nostrum habes.— PTOL. Oportet.—
  
 
  
@@ -414,7 +414,7 @@ famelica hominum natio. quid agitis? ut peritis?
  TRACH. ecquem adulescentem 
 huc, dum hic astatis, strenua facie rubicundum fortem, 
 qui tres secum homines duceret chlamydatos cum machaeris,  315 
-vidistis &lt;vos> venire * ? *               315a 
+vidistis <vos> venire * ? *               315a 
  PISC. Nullum istac facie ut praedicas venisse huc scimus. TRACH. 
 Ecquem 
 recalvom ac Silanum senem, statutum, ventriosum, 
@@ -425,7 +425,7 @@ qui duceret mulierculas duas secum satis venustas?      320
 eum quidem ad carnificem est aequius quam ad Venerem commeare. 
  TRACH. At si vidistis, dicite. PISC. Huc profecto nullus
 venit. 
-vale.&#151; TRACH. Valete. credidi: factum est quod suspicabar, 
+vale.— TRACH. Valete. credidi: factum est quod suspicabar, 
 data verba ero sunt, leno abit scelestus exulatum,      325 
 in navem ascendit, mulieres avexit: hariolus sum. 
 is huc erum etiam ad prandium vocavit, sceleris semen. 
@@ -484,7 +484,7 @@ Neptunus magnis poculis hac nocte eum invitavit.
 te, 
 mea Ampelisca, ut dulcis es, ut mulsa dicta dicis. 
 sed tu et Palaestra quomodo salvae estis? AMP. Scibis faxo. 365 
-&lt;de> navi timidae ambae in scapham insiluimus, quia videmus 
+<de> navi timidae ambae in scapham insiluimus, quia videmus 
 ad saxa navem ferrier; properans exsolvi restim, 
 dum illi timent; nos cum scapha tempestas dextrovorsum 
 differt ab illis. itaque nos ventisque fluctibusque 
@@ -526,7 +526,7 @@ ut eam intro consolerque eam, ne sic se excruciet animi;
 nam multa praeter spem scio multis bona evenisse.   400 
  AMP. At ego etiam, qui speraverint spem decepisse multos. 
  TRACH. Ergo animus aequos optimum est aerumnae condimentum. 
-ego eo intro, nisi quid vis.&#151; AMP. Eas. ego quod mihi imperavit 
+ego eo intro, nisi quid vis.— AMP. Eas. ego quod mihi imperavit 
 sacerdos, id faciam atque aquam hinc de proximo rogabo; 
 nam extemplo, si verbis suis peterem, daturos dixit.   405 
 neque digniorem censeo vidisse anum me quemquam, 
@@ -534,7 +534,7 @@ cui deos atque homines censeam bene facere magis decere.
 ut lepide, ut liberaliter, ut honeste atque haud gravate 
 timidas egentes uvidas eiectas exanimatas 
 accepit ad sese, haud secus quam si ex se simus natae;  410 
-ut eapse &lt;sic> succincta aquam calefactat, ut lavemus. 
+ut eapse <sic> succincta aquam calefactat, ut lavemus. 
 nunc ne morae illi sim, petam hinc aquam, unde mi imperavit. 
 heus ecquis in villast? ecquis hoc recludit? ecquis prodit?
  
@@ -553,7 +553,7 @@ sed quid ais, mea lepida, hilara? AMP. Aha, nimium familiariter
 me attrectas. SCEP. Pro di immortales, Veneris effigia haec
 quidem est. 420 
 ut in ocellis hilaritudo est, heia, corpus cuius modi, 
-subvolturium&#151;illud quidem, subaquilum volui dicere. 
+subvolturium—illud quidem, subaquilum volui dicere. 
 vel papillae cuius modi, tum quae indoles in saviost. 
  AMP. Non ego sum pollucta pago. potin ut me abstineas manum? 
  SCEP. Non licet saltem sic placide bellam belle tangere?    425 
@@ -574,7 +574,7 @@ nisi multis blanditiis a me gutta non ferri potest.
 dabitur tibi aqua, ne nequiquam me ames. cedo mi urnam. AMP. 
 Cape. 
 propera, amabo, efferre. SCEP. Manta, iam hic ero, voluptas
-mea.&#151; 
+mea.— 
  AMP. Quid sacerdoti me dicam hic demoratam tam diu?    440 
 ut etiam nunc misera timeo, ubi oculis intueor mare. 
 sed quid ego misera video procul in litore?        442-450 
@@ -607,7 +607,7 @@ sed autem, quid si hanc hinc abstulerit quispiam,
 sacram urnam Veneris? mi exhibeat negotium. 
 metuo hercle ne illa mulier mi insidias locet, 
 ut comprehendar cum sacra urna Veneria.   475 
-nempe optimo &lt;me> iure in vinclis enicet 
+nempe optimo <me> iure in vinclis enicet 
 magistratus si quis me hanc habere viderit. 
 nam haec litteratast, eapse cantat cuia sit. 
 iam hercle evocabo hinc hanc sacerdotem foras, 
@@ -615,7 +615,7 @@ ut hanc accipiat urnam. accedam huc ad fores.  480
 heus exi, Ptolemocratia, cape hanc urnam tibi: 
 muliercula hanc nescio quae huc ad me detulit. 
 intro ferundast. repperi negotium, 
-siquidem his mihi ultro adgerunda etiam est aqua.&#151;
+siquidem his mihi ultro adgerunda etiam est aqua.—
  
 
  
@@ -632,7 +632,7 @@ nam equidem te nequeo consequi tam strenue.
  LABR. Vtinam te prius quam oculis vidissem meis, 
 malo cruciatu in Sicilia perbiteres,       495 
 quem propter hoc mihi optigit misero mali. 
- CHARM. Vtinam, quom in aedis me ad te adduxisti &lt;tuas>, 
+ CHARM. Vtinam, quom in aedis me ad te adduxisti <tuas>, 
 in carcere illo potius cubuissem die. 
 deosque immortales quaeso, dum vivas uti 
 omnes tui similes hospites habeas tibi.  500 
@@ -673,7 +673,7 @@ ut quom exiissem ex aqua, arerem tamen.
  LABR. Quid si aliquo ad ludos me pro manduco locem?  535 
  CHARM. Quapropter? LABR. Quia pol clare crepito dentibus. 
  CHARM. Iure optumo me elavisse arbitror. 
- L. Qui? CH. Qui &lt;un>a auderem tecum in navem ascendere, 
+ L. Qui? CH. Qui <un>a auderem tecum in navem ascendere, 
 qui a fundamento mi usque movisti mare. 
  LABR. Tibi auscultavi, tu promittebas mihi    540 
 illi esse quaestum maximum meretricibus, 
@@ -715,7 +715,7 @@ vel ego amare utramvis possum, si probe adpotus siem.
 si lubet. 
  LABR. Meas oportet intus esse hic mulieres, mi Charmides. 
  CHARM. Iuppiter te perdat, et si sunt, et si non sunt tamen. 
- LABR. Intro rumpam iam huc in Veneris fanum.&#151; CHARM. 
+ LABR. Intro rumpam iam huc in Veneris fanum.— CHARM. 
 In barathrum 570 
  mavelim. 
 opsecro, hospes, da mihi aliquid ubi condormiscam loci. 
@@ -730,7 +730,7 @@ in mari quod elavi, ni hic in terra iterum eluam?
  SCEP. Eluas tu an exunguare, ciccum non interduim.   580 
 tibi ego numquam quicquam credam, nisi si accepto pignore. 
 tu vel suda vel peri algu, vel tu aegrota vel vale. 
-barbarum hospitem mi in aedis nil moror. sat litiumst.&#151; 
+barbarum hospitem mi in aedis nil moror. sat litiumst.— 
  CHARM. Iamne abis? venalis illic ductitavit, quisquis est; 
 non est misericors. sed quid ego hic asto infelix uvidus?  585 
 quin abeo huc in Veneris fanum, ut edormiscam hanc crapulam, 
@@ -739,7 +739,7 @@ quasi vinis Graecis Neptunus nobis suffudit mare,
 itaque alvom prodi speravit nobis salsis poculis; 
 quid opust verbis? si invitare nos paulisper pergeret,  590 
 ibidem obdormissemus: nunc vix vivos amisit domum. 
-nunc lenonem quid agat intus visam, convivam meum.&#151;
+nunc lenonem quid agat intus visam, convivam meum.—
  
 
  
@@ -773,7 +773,7 @@ concludo in vincla bestiam nequissimam.   610
 nunc quam ad rem dicam hoc attinere somnium, 
 numquam hodie quivi ad coniecturam evadere. 
 sed quid hic in Veneris fano meae viciniae 
-clamoris oritur? animus mirat&lt;ur meus.>
+clamoris oritur? animus mirat<ur meus.>
  
 
  
@@ -792,9 +792,9 @@ more antiquo in custodelam suom commiserunt caput,  625
 praetorquete iniuriae prius collum quam ad vos pervenat. 
  DA. Quid istuc est negoti? TR. Per ego haec genua te
 optestor, senex, 
-quisquis es &#151; DAEM. Quin tu ergo omitte genua et quid sit mi
+quisquis es — DAEM. Quin tu ergo omitte genua et quid sit mi
 expedi 
-&lt;quod tu>multues. TRACH. Teque oro et quaeso, si speras tibi 
+<quod tu>multues. TRACH. Teque oro et quaeso, si speras tibi 
 hoc anno multum futurum sirpe et laserpicium     630 
 eamque eventuram exagogam Capuam salvam et sospitem, 
 atque ab lippitudine usque siccitas ut sit tibi, 
@@ -816,10 +816,10 @@ facta est fitque in Veneris fano; tum sacerdos Veneria
 indigne adflictatur. DAEM. Quis homo est tanta confidentia,   645 
 qui sacerdotem violare audet? sed eae mulieres 
 quae sunt? aut quid is iniqui fit? TRACH. Si das operam, eloquar. 
-Veneris signum sunt amplexae. nunc &lt;homo audacissimus> 
-eas deripere volt. eas ambas esse oportet &lt;liberas>. 
- DAEM. Quis istic est qui deos tam parvi pendit? &lt;paucis expedi>. 650 
- TRACH. Fraudis sceleris parricidi periuri plenis&lt;simus>, 
+Veneris signum sunt amplexae. nunc <homo audacissimus> 
+eas deripere volt. eas ambas esse oportet <liberas>. 
+ DAEM. Quis istic est qui deos tam parvi pendit? <paucis expedi>. 650 
+ TRACH. Fraudis sceleris parricidi periuri plenis<simus>, 
 legirupa impudens impurus inverecundissimus, 
 uno verbo absolvam, lenost: quid illum porro praedicem? 
  DAEM. Edepol infortunio hominem praedicas donabilem. 
@@ -829,7 +829,7 @@ Turbalio, Sparax. ubi estis? TRACH. I obsecro intro, subveni
 illis. DAEM. Iterum haud imperabo. sequimini hac. TRACH. 
 Age nunciam, 
 iube oculos elidere, itidem ut sepiis faciunt coqui. 
- DAEM. Proripite hominem pedibus huc itidem quasi occisam suem.&#151; 660 
+ DAEM. Proripite hominem pedibus huc itidem quasi occisam suem.— 660 
  TRACH. Audio tumultum. opinor, leno pugnis pectitur. 
 nimis velim improbissimo homini malas edentaverint. 
 sed eccas ipsae huc egrediuntur timidae e fano mulieres.
@@ -839,11 +839,11 @@ sed eccas ipsae huc egrediuntur timidae e fano mulieres.
  III.iii 
  PALAESTRA Nunc id est cum omnium copiarum atque opum, 
 auxili, praesidi viduitas nos tenet.       665 
-&lt;nulla nunc> speculast quae salutem afferat, 
-&lt;nec quam in> partem ingredi persequamur 
-&lt;scimus: tanto> in metu nunc sumus ambae, 
-&lt;tanta> importunitas tantaque iniuria 
-&lt;facta in> nos est modo hic intus ab nostro ero,  670 
+<nulla nunc> speculast quae salutem afferat, 
+<nec quam in> partem ingredi persequamur 
+<scimus: tanto> in metu nunc sumus ambae, 
+<tanta> importunitas tantaque iniuria 
+<facta in> nos est modo hic intus ab nostro ero,  670 
 qui scelestus sacerdotem anum praecipes 
 reppulit propulit perquam indignis modis 
 nosque ab signo intimo vi deripuit sua. 
@@ -859,15 +859,15 @@ quae vis vim mi afferam ipsa adigit. TR. Ah, desine, nimis inepta
 es. 
  PAL. Desiste dictis nunciam miseram me consolari; 
 nisi quid re praesidium apparas, Trachalio, acta haec res est. 
- AMP. Certumst moriri quam hunc pati &lt;saevire> lenonem in
+ AMP. Certumst moriri quam hunc pati <saevire> lenonem in
 me. 
-sed muliebri animo sum tamen: miserae &lt;quom venit> in mentem  685 
+sed muliebri animo sum tamen: miserae <quom venit> in mentem  685 
 mihi mortis, metus membra occupat. edepol * hunc acerbum. 
- T. Bonum animum habete. P. Nam, obsecro, unde &lt;ani>mus
+ T. Bonum animum habete. P. Nam, obsecro, unde <ani>mus
 mi invenitur? 
  TRACH. Ne, inquam, timete; adsidite hic in ara. AMP. 
 Quid istaec ara 
-prodesse nobis &lt;plus> potest quam signum in fano hic intus 
+prodesse nobis <plus> potest quam signum in fano hic intus 
 Veneris, quod amplexae modo, unde abreptae per vim miserae?  690 
  TRACH. Sedete hic modo, ego hinc vos tamen tutabor. aram habete
 hanc 
@@ -879,7 +879,7 @@ in custodelam nos tuam ut recipias et tutere;
 illos scelestos, qui tuom fecerunt fanum parvi, 
 fac ut ulciscare nosque ut hanc tua pace aram obsidere 
 patiare: elautae ambae sumus opera Neptuni noctu, 
-ne &lt;invisas> habeas neve idcirco nobis vitio vortas,     700 
+ne <invisas> habeas neve idcirco nobis vitio vortas,     700 
 si quippiamst, minus quod bene esse lautum tu arbitrare. 
  TRACH. Venus, aequom has petere intellego: decet abs te id impetrari; 
 ignoscere his te convenit: metus has id ut faciant subigit. 
@@ -896,10 +896,10 @@ tun legirupionem hic nobis cum dis facere postulas?
 pugnum in os impinge. LABR. Iniqua haec patior cum pretio tuo.  710 
  DAEM. At etiam minitatur audax? LABR. Ius meum ereptum
 est mihi, 
-meas mihi ancillas invito me eripis. TRACH. Cedo &lt;iudicem> 
+meas mihi ancillas invito me eripis. TRACH. Cedo <iudicem> 
 de senatu Cyrenensi quemvis opulentum virum, 
 si tuas esse oportet nive eas esse oportet liberas 
-nive in carcerem compingi &lt;te> est aequom aetatemque ibi   715 
+nive in carcerem compingi <te> est aequom aetatemque ibi   715 
 te usque habitare, donec totum carcerem contriveris. 
  LABR. Non hodie isti rei auspicavi, ut cum furcifero fabuler. 
 te ego appello. DAEM. Cum istoc primum, qui te novit, disputa. 
@@ -911,9 +911,9 @@ minimo modo. 720
 pugilatorium 
 faciam et pendentem incursabo pugnis, periurissime. 
  LABR. Mihi non liceat meas ancillas Veneris de ara abducere? 
- DAEM. Non licet: est lex apud nos&#151; LABR. Mihi cum vestris
+ DAEM. Non licet: est lex apud nos— LABR. Mihi cum vestris
 legibus 
-&lt;nil quicquamst> commerci. equidem istas iam ambas educam foras.  725 
+<nil quicquamst> commerci. equidem istas iam ambas educam foras.  725 
 tu, senex, si istas amas, huc arido argentost opus; 
 si autem Veneri complacuerunt, habeat, si argentum dabit. 
  DAEM. Det tibi argentum? nunc adeo meam ut scias sententiam, 
@@ -943,7 +943,7 @@ tune hic, feles virginalis, liberos parentibus
 sublectos habebis atque indigno quaestu conteres? 
 nam huic alterae quae patria sit profecto nescio,    750 
 nisi scio probiorem hanc esse, quam te, impuratissime. 
- LA. ~Tuae istae sunt. TR. Contende ergo, uter sit tergo&#151;verior: 
+ LA. ~Tuae istae sunt. TR. Contende ergo, uter sit tergo—verior: 
 ni offerumentas habebis pluris in tergo tuo, 
 quam ulla navis longa clavos, tum ego ero mendacissimus: 
 postea aspicito meum, quando ego tuom inspectavero:   755 
@@ -972,7 +972,7 @@ quom coniecturam egomet mecum facio, haec illast simia,
 quae has hirundines ex nido volt eripere ingratiis, 
 quod ego in somnis somniavi. TRACH. Scin quid tecum oro, senex? 
 ut illas serves, vim defendas, dum ego erum adduco meum. 
- D. Quaere erum atque adduce. T. At hic ne&#151; D. 
+ D. Quaere erum atque adduce. T. At hic ne— D. 
 Maximo malo suo,  775 
 si attigerit sive occeptassit. TRACH. Cura. DAEM. Curatumst,
 abi. 
@@ -1003,7 +1003,7 @@ si illas attigeris, dabitur tibi magnum malum.
  LABR. Minacias ego flocci non faciam tuas,     795 
 equidem has te invito iam ambas rapiam. DAEM. Tange dum. 
  LABR. Tangam hercle vero. DAEM. Tanges, at scin quo modo? 
-i dum, Turbalio, curriculo, adfert&lt;o domo> 
+i dum, Turbalio, curriculo, adfert<o domo> 
 duas clavas. LABR. Clavas? DAEM. Sed probas. propera
 cito. 
 ego te hodie faxo recte acceptum, ut dignus es. 800 
@@ -1025,7 +1025,7 @@ extemplo amplectitote crura fustibus.
  LABR. Etiam me abire hinc non sinent? DAEM. Dixi satis. 
 et ubi ille servos cum ero huc advenerit, 
 qui erum accersivit, itote extemplo domum. 
-curate haec sultis magna diligentia.&#151;    820 
+curate haec sultis magna diligentia.—    820 
  LABR. Heu hercle, ne istic fana mutantur cito: 
 iam hoc Herculi est, Veneris fanum quod fuit, 
 ita duo destituit signa hic cum clavis senex. 
@@ -1077,7 +1077,7 @@ quin arrabonem a me accepisti ob mulierem
 et eam hinc abduxti? LABR. Non avexi. PLES. Cur negas? 
  LABR. Quia pol provexi: avehere non quivi miser. 
 equidem tibi me dixeram praesto fore 
-apud Veneris fanum: &lt;num>quid muto? sumne ibi?    865 
+apud Veneris fanum: <num>quid muto? sumne ibi?    865 
  PLES. In iure causam dicito, hic verbum sat est: 
 sequere. LABR. Obsecro te, subveni mi, Charmides. 
 rapior optorto collo. CHARMIDES Quis me nominat? 
@@ -1099,16 +1099,16 @@ ut ad nos abeant potius, dum recipis. PLES. Placet,     880
 bene facitis. LABR. Fures mi estis. LOR. Quid, fures?
 rape. 
  LABR. Oro obsecro, Palaestra. PLES. Sequere, carnufex. 
- LABR. Hospes&#151; CHARM. Non sum hospes, repudio hospitium
+ LABR. Hospes— CHARM. Non sum hospes, repudio hospitium
 tuom. 
  LABR. Sicine me spernis? CHARM. Sic ago: semel bibo. 
- LABR. Di te infelicent.&#151; CHARM. Isti capiti dicito.    885 
+ LABR. Di te infelicent.— CHARM. Isti capiti dicito.    885 
 credo alium in aliam beluam hominem vortier: 
 illic in columbum, credo, leno vortitur, 
 nam in collumbari collus haud multo post erit; 
 in nervom ille hodie nidamenta congeret. 
 verum tamen ibo, ei advocatus ut siem,    890 
-si qui mea opera citius addici potest.&#151;
+si qui mea opera citius addici potest.—
  
 
  
@@ -1132,7 +1132,7 @@ ut tempestas est nunc atque ut noctu fuit.
 in digitis hodie percoquam quod ceperit, 
 ita fluctuare video vehementer mare. 
 sed ad prandium uxor me vocat. redeo domum. 
-iam meas opplebit aures ~ sua vaniloquentia.&#151;   905
+iam meas opplebit aures ~ sua vaniloquentia.—   905
  
 
  
@@ -1160,7 +1160,7 @@ repperi ut piger, si velim, siem:          925
 hoc ego in mari [quidquid inest] repperi.      925a 
 quidquid inest, grave quidem inest; aurum hic ego inesse reor; 
 nec mihi consciust ullus homo.          926a 
-nunc haec tibi occasio, Gripe optigit, ut liber s&lt;it 
+nunc haec tibi occasio, Gripe optigit, ut liber s<it 
 nemo> ex populo praeter te.           927a 
 nunc sic faciam, sic consilium est: ad erum veniam docte atque astute. 
 pauxillatim pollicitabor pro capite argentum, ut sim liber. 
@@ -1284,7 +1284,7 @@ mitte rudentem, sceleste. TRACH. Mittam: omitte vidulum.    1015
  GRIP. Numquam hercle hinc hodie ramenta fies fortunatior. 
  TRACH. Non probare pernegando mihi potes, nisi pars datur 
 aut ad arbitrum reditur aut sequestro ponitur. 
- GRIP. Quemne ego excepi in mari&#151; TRACH. At ego inspectavi
+ GRIP. Quemne ego excepi in mari— TRACH. At ego inspectavi
 e litore. 
  GRIP. Mea opera, labore et rete et horia? TRACH. Numqui
 minus,  1020 
@@ -1325,7 +1325,7 @@ etsist ignotus, notus: si non, notus ignotissimust.
 
  
  IV.iv 
- DAEMONES Serio edepol, quamquam vobis &lt;volo> quae voltis,
+ DAEMONES Serio edepol, quamquam vobis <volo> quae voltis,
 mulieres, 1045 
 metuo, propter vos ne uxor mea med extrudat aedibus, 
 quae me paelices adduxe dicet ante oculos suos. 
@@ -1356,8 +1356,8 @@ sis pudicus, hinc facessas. DAEM. Gripe, animum advorte ac tace.
  GR. Vtin istic prius dicat? DA. Audi. loquere tu. GR. 
 Alienon prius 
 quam tuo dabis orationem? TRACH. Vt nequitur comprimi. 
-ita ut occepi dicere, illum quem dudum &lt;e fano foras>   1065 
-lenonem extrusisti, hic eius vidulum eccillum &lt;tenet>. 
+ita ut occepi dicere, illum quem dudum <e fano foras>   1065 
+lenonem extrusisti, hic eius vidulum eccillum <tenet>. 
  GR. Non habeo. TR. Negas quod oculis video? GR. 
 At ne videas velim. 
 habeo, non habeo: quid tu me curas quid rerum geram? 
@@ -1404,7 +1404,7 @@ ut tute es, item omnis censes esse, periuri caput?
  TRACH. Dixi equidem, sed si parum intellexti, dicam denuo. 
 hasce ambas, ut dudum dixi, ita esse oportet liberas: 
 haec Athenis parva fuit virgo surpta. GRIP. Dic mihi,    1105 
-quid id ad vidulum [pertinet], servae sint istae an &lt;fuerint> liberae? 
+quid id ad vidulum [pertinet], servae sint istae an <fuerint> liberae? 
  TRACH. Omnia iterum vis memorari, scelus, ut defiat dies. 
  DAEM. Apstine maledictis et mihi quod rogavi dilue. 
  TRACH. Cistellam isti inesse oportet caudeam in isto vidulo, 
@@ -1412,13 +1412,13 @@ ubi sunt signa qui parentes noscere haec possit suos,     1110
 quibuscum periit parva Athenis, sicuti dixi prius. 
  GRIP. Iuppiter te dique perdant. quid ais, vir venefice? 
 quid, istae mutae sunt, quae pro se fabulari non queant? 
- TRACH. Eo tacent, quia tacitast &lt;melior> mulier semper quam
+ TRACH. Eo tacent, quia tacitast <melior> mulier semper quam
 loquens. 
  GRIP. Tum pol tu pro portione nec vir nec mulier mihi es.   1115 
  T. Quidum? G. Quia enim neque loquens es neque tacens
 umquam bonus. 
 quaeso, enumquam hodie licebit mihi loqui? DAEM. Si praeterhac 
-&lt;unum> verbum faxis hodie, ego tibi comminuam caput. 
+<unum> verbum faxis hodie, ego tibi comminuam caput. 
  TRACH. Vt id occepi dicere, senex, eam te quaeso cistulam 
 ut iubeas hunc reddere illis; ob eam si quid postulat      1120 
 sibi mercedis, dabitur: aliud quidquid ibi est habeat sibi. 
@@ -1437,7 +1437,7 @@ estne hic vidulus ubi cistellam tuam inesse aiebas? PAL. Is
 est.  1130 
  GRIP. Perii hercle ego miser, uti, prius quam plane aspexit,
 ilico 
-eum esse dixit. PAL. Faciam ego hanc rem &lt;ex procliva pla>nam
+eum esse dixit. PAL. Faciam ego hanc rem <ex procliva pla>nam
 tibi. 
 cistellam isti inesse oportet caudeam in isto vidulo. 
 ibi ego dicam quidquid inerit nominatim: tu mihi 
@@ -1445,7 +1445,7 @@ nullum ostenderis; si falsa dicam, frustra dixero,    1135
 vos tamen istaec, quidquid istic inerit, vobis habebitis; 
 sed si erunt vera, tum opsecro te, ut mea mi reddantur. DAEM. 
 Placet. 
-ius merum oras meo quidem animo. GRIP. At meo hercle &lt;iniuriam>. 
+ius merum oras meo quidem animo. GRIP. At meo hercle <iniuriam>. 
 quid si ista aut superstitiosa aut hariolast atque omnia, 
 quidquid insit, vera dicet? anne habebit hariola?    1140 
  DAEM. Non feret, nisi vera dicet: nequiquam hariolabitur. 
@@ -1498,17 +1498,17 @@ libens. 1175
  TRACH. Ecce Gripi scelera. cum istaec res male evenit tibi, 
 Gripe, gratulor. DAEM. Age eamus, mea gnata, ad matrem tuam, 
 quae ex te poterit argumentis hanc rem magis exquirere,     1180 
-quae te magis tractavit magisque signa pernovit tua.&#151; 
- TRACH. Eamus intro omnes, quando operam promiscam damus.&#151; 
- P. Sequere me, Ampelisca.&#151; A. Cum te di amant, voluptati
-est mihi.&#151; 
+quae te magis tractavit magisque signa pernovit tua.— 
+ TRACH. Eamus intro omnes, quando operam promiscam damus.— 
+ P. Sequere me, Ampelisca.— A. Cum te di amant, voluptati
+est mihi.— 
  GRIP. Sumne ego scelestus, qui illunc hodie excepi vidulum? 
 aut cum excepi, qui non alicubi in solo abstrusi loco?      1185 
 credebam edepol turbulentam praedam eventuram mihi, 
 quia illa mihi tam turbulenta tempestate evenerat. 
 credo edepol ego illic inesse argenti et auri largiter. 
 quid meliust, quam ut hinc intro abeam et me suspendam clanculum, 
-saltem tantisper dum abscedat haec a me aegrimonia?&#151;     1190
+saltem tantisper dum abscedat haec a me aegrimonia?—     1190
  
 
  
@@ -1517,7 +1517,7 @@ saltem tantisper dum abscedat haec a me aegrimonia?&#151;     1190
 qui ex improviso filiam inveni meam? 
 satin si cui homini dei esse bene factum volunt, 
 aliquo illud pacto optingit optatum piis? 
-ego hodie neque speravi neque &lt;illud> credidi:   1195 
+ego hodie neque speravi neque <illud> credidi:   1195 
 is improviso filiam inveni tamen; 
 et eam de genere summo adulescenti dabo 
 ingenuo, Atheniensi et cognato meo. 
@@ -1549,7 +1549,7 @@ cena ut curetur. T. Licet.   1215
  DAEM. Omnian licet? TRACH. Licet. sed scin quid est quod
 te volo? 
 quod promisisti ut memineris, hodie ut liber sim. DAEM. Licet. 
- TRACH. Fac ut exores Plesidippum, ut me &lt;manu> emittat. DAEM. 
+ TRACH. Fac ut exores Plesidippum, ut me <manu> emittat. DAEM. 
 Licet. 
  TRACH. Et tua filia facito oret: facile exorabit. DAEM. 
 Licet. 
@@ -1561,7 +1561,7 @@ Licet.
 gratiam. 
 sed propera ire in urbem actutum et recipe te huc rursum. T. 
 Licet. 
-iam hic ero. tu interibi adorna ceterum quod opust.&#151; DAEM. 
+iam hic ero. tu interibi adorna ceterum quod opust.— DAEM. 
 Licet. 
 Hercules istum infelicet cum sua licentia;          1225 
 ita meas replevit auris, quidquid memorabam, licet.
@@ -1599,14 +1599,14 @@ nullus erat illo pacto ut illi iusserant.
  DAEM. Abi intro, ne molestu's, linguae tempera. 
 ego tibi daturus nil sum, ne tu frustra sis.      1255 
  GRIP. At ego deos quaeso, ut quidquid in illo vidulost, 
-si aurum si argentum est, omne id ut fiat cinis.&#151; 
+si aurum si argentum est, omne id ut fiat cinis.— 
  DAEM. Illuc est quod nos nequam servis utimur. 
 nam illic cum ~ servo si quo congressus foret, 
 et ipsum sese et illum furti adstringeret;     1260 
 dum praedam habere se censeret, interim 
 praeda ipsus esset, praeda praedam duceret. 
 nunc hinc intro ibo et sacrificabo, postibi 
-iubebo nobis cenam continuo coqui.&#151;
+iubebo nobis cenam continuo coqui.—
  
 
  
@@ -1637,8 +1637,8 @@ etiamne adveniens complectar eius patrem? TRACH. Non censeo.
  P. Quid matrem? T. Non censeo. P. Quid eampse
 illam? T. Non censeo. 
  PLES. Perii, dilectum dimisit. nunc non censet, cum volo. 
- T. Sanus non es. sequere.&#151; P. Duc me, mi patrone, quo
-libet.&#151;   1280
+ T. Sanus non es. sequere.— P. Duc me, mi patrone, quo
+libet.—   1280
  
 
  
@@ -1732,22 +1732,22 @@ Quod iubebo.
  LABR. Praei verbis quidvis. id quod domi est, numquam ulli supplicabo. 1335 
  G. Tene aram hanc. L. Teneo. C. Deiera te mi argentum
 daturum 
-eodem die, &lt;tui> viduli ubi sis potitus. LABR. Fiat. 
+eodem die, <tui> viduli ubi sis potitus. LABR. Fiat. 
  GRIP. Venus Cyrenensis, testem te testor mihi, 
 si vidulum illum, quem ego in navi perdidi, 
 cum auro atque argento salvom investigavero     1340 
 isque in potestatem meam pervenerit, 
-tum ego huic Gripo, inquito, et me tangito&#151; 
- LABR. Tum ego huic Gripo&#151; dico, Venus, ut tu audias&#151; 
+tum ego huic Gripo, inquito, et me tangito— 
+ LABR. Tum ego huic Gripo— dico, Venus, ut tu audias— 
 talentum argenti magnum continuo dabo. 
- GRIP. Si &lt;quid> fraudassis, dic ut te in quaestu tuo  1345 
+ GRIP. Si <quid> fraudassis, dic ut te in quaestu tuo  1345 
 Venus eradicet, caput atque aetatem tuam. 
 tecum hoc habeto tamen, ubi iuraveris. 
  LABR. Illaec advorsum si quid peccasso, Venus, 
 veneror te ut omnes miseri lenones sient. 
  GRIP. Tamen fiet, etsi tu fidem servaveris.  1350 
 tu hic opperire, iam ego faxo exibit senex; 
-eum tu continuo vidulum reposcito.&#151; 
+eum tu continuo vidulum reposcito.— 
  LABR. Si maxime mi illum reddiderit vidulum, 
 non ego illi hodie debeo triobolum. 
 meus arbitratust, lingua quod iuret mea.   1355 
@@ -1791,21 +1791,21 @@ dare. LABR. Libet iurare. tun meo pontifex peiurio es?
 vidulum 
 hunc redegissem in potestatem eius, iuratust dare 
 mihi talentum magnum argenti. LABR. Cedo quicum habeam iudicem,  1380 
-ni dolo malo instipulatus sis nive etiamdum &lt;haud> siem 
+ni dolo malo instipulatus sis nive etiamdum <haud> siem 
 quinque et viginti annos natus. G. Habe cum hoc. L. Aliost
 opus. 
- DAEM. Iam ab isto auferre haud &lt;potis> sim, si istunc condemnavero. 
+ DAEM. Iam ab isto auferre haud <potis> sim, si istunc condemnavero. 
 promisistin huic argentum? LABR. Fateor. DAEM. Quod servo
-&lt;meo> 
+<meo> 
 promisisti, meum esse oportet, ne tu, leno, postules        1385 
 te hic fide lenonia uti: non potes. GRIP. Iam te ratu's 
 nactum hominem quem defraudares? dandum huc argentum est probum: 
 id ego continuo huic dabo adeo, me ut hic emittat manu. 
- DAEM. Quando ergo erga te benignus &lt;ego> fui atque opera
+ DAEM. Quando ergo erga te benignus <ego> fui atque opera
 mea 
-haec tibi sunt servata&#151; GRIP. Immo hercle mea, ne tu dicas
+haec tibi sunt servata— GRIP. Immo hercle mea, ne tu dicas
 tua.   1390 
- DAEM. Si sapies, tacebis&#151; tum te mihi benigne itidem addecet 
+ DAEM. Si sapies, tacebis— tum te mihi benigne itidem addecet 
 bene merenti bene referre gratiam. LABR. Nempe pro meo 
 iure oras? DAEM. Mirum quin tuom ius meo periclo aps te expetam. 
  GRIP. Salvos sum, leno labascit, libertas portenditur. 

@@ -123,7 +123,7 @@ idoneaª. Nec mirum est, si terrae omnis generis et uaria euaporatio est, cum in
  
 
  
-[1,10] nam si hoc fuisset, etiam defuissent; nulla enim nox est, qua non plurimae ire et in diuersum uideantur abduci. Atqui quo solet quaeque inuenitur loto, &lt;et&gt; magnitudo sua singulis constat: sequitur ergo, ut infra illas ista nascantur et cito intercidant, quia sine fundamento et sede certa sunt. 
+[1,10] nam si hoc fuisset, etiam defuissent; nulla enim nox est, qua non plurimae ire et in diuersum uideantur abduci. Atqui quo solet quaeque inuenitur loto, <et> magnitudo sua singulis constat: sequitur ergo, ut infra illas ista nascantur et cito intercidant, quia sine fundamento et sede certa sunt. 
  
 
  
@@ -205,7 +205,7 @@ Sic enim formam arcus discoloris efficiunt: quia aliae partes in nubibus tumidio
  
 
  
-[3,4] Hoc ita esse quidam negant. Poterat enim uerum uideri, si arcus duos tantum haberet colores, si ex lumine umbraque constaret: sed nunc, &lt;ut ait poeta,&gt; "diuersi niteant cum mille colores, transitus ipse tamen spectantia lumina fallit:
+[3,4] Hoc ita esse quidam negant. Poterat enim uerum uideri, si arcus duos tantum haberet colores, si ex lumine umbraque constaret: sed nunc, <ut ait poeta,> "diuersi niteant cum mille colores, transitus ipse tamen spectantia lumina fallit:
 
 usque adeo quod tangit idem est, tamen ultima distant'. Videmus in eo aliquid flammei aliquid lutei aliquid caerulei et alia in picturae modum subtilibus lineis ducta, [ut ait poeta,] an dissimiles colores sint, scire non possis, nisi cum primis extrema contuleris: nam commissura decipit, usque eo mira arte naturae; quod a simillimo coepit, in dissimillimo desinit. Quid ergo istic duo colores faciunt lucis atque umbrae, cum innumerabilium ratio reddenda sit?
  
@@ -265,7 +265,7 @@ et leniore.
  
 
  
-[4,4] idem, inquit, euenit, cum rotundam et cauam nubem intuemur &lt;intimo&gt; a latere, ut solis imago a nube discedat propiorque nobis sit et in nos magis conuersa. Color illi igneus a sole est, caeruleus a nube, ceteri utriusque mixturae.
+[4,4] idem, inquit, euenit, cum rotundam et cauam nubem intuemur <intimo> a latere, ut solis imago a nube discedat propiorque nobis sit et in nos magis conuersa. Color illi igneus a sole est, caeruleus a nube, ceteri utriusque mixturae.
  
 
  
@@ -275,7 +275,7 @@ quomodo uideamus quodcumque uidemus;
  
 
  
-[5,6] sed, quae modo &lt;est&gt; imago, similis reddi debet e speculo. Quid autem est tam dissimile quam sol et arcus, in quo neque figura solis neque color neque magnitudo apparet? Arcus longe amplior est longeque ea parte, qua fulget, rubicundior quam sol, ceteris uero coloribus diuersus.
+[5,6] sed, quae modo <est> imago, similis reddi debet e speculo. Quid autem est tam dissimile quam sol et arcus, in quo neque figura solis neque color neque magnitudo apparet? Arcus longe amplior est longeque ea parte, qua fulget, rubicundior quam sol, ceteris uero coloribus diuersus.
  
 
  
@@ -445,7 +445,7 @@ Nihil ergo prohibet illas parhelia uocari.
  
 
  
-[13,2] Debent autem hae nubes, quae hoc praestant, densae esse, leues, splendidae, planae, naturae solidae. Ob hoc omnia eiusmodi simulacra candida sunt, et similia lunaribus circulis, quia ex percussu oblique accepto sole resplendent: nam si infra solem nubes fuerit et propior, ab eo dissipatur; longe autem posita radios non remittet nec imaginem effciet. &lt;quare?&gt; Quia apud nos quoque specula, cum procul a nobis abducta sunt, faciem non reddunt, quia acies nostra non habet usque ad nos recursum.
+[13,2] Debent autem hae nubes, quae hoc praestant, densae esse, leues, splendidae, planae, naturae solidae. Ob hoc omnia eiusmodi simulacra candida sunt, et similia lunaribus circulis, quia ex percussu oblique accepto sole resplendent: nam si infra solem nubes fuerit et propior, ab eo dissipatur; longe autem posita radios non remittet nec imaginem effciet. <quare?> Quia apud nos quoque specula, cum procul a nobis abducta sunt, faciem non reddunt, quia acies nostra non habet usque ad nos recursum.
  
 
  
@@ -486,7 +486,7 @@ appellent?' Multis, ut aiunt, modis: potest illos uentorum uis edere, potest sup
  
 
  
-[15,3] Horum aliqua non patiuntur moram sed transcurrunt aut extinguntur subinde, qua reluxerant: haec fulgura dicuntur, quia breuis illorum facies et caduca est nec sine iniuria decidens; saepe enim fulminum noxas ediderunt. Ab his tacta nos dicimus &lt;fulgurita, id est fulgure&gt; icta sine fulmine, quae G-asteroplekta Graeci uocant. 
+[15,3] Horum aliqua non patiuntur moram sed transcurrunt aut extinguntur subinde, qua reluxerant: haec fulgura dicuntur, quia breuis illorum facies et caduca est nec sine iniuria decidens; saepe enim fulminum noxas ediderunt. Ab his tacta nos dicimus <fulgurita, id est fulgure> icta sine fulmine, quae G-asteroplekta Graeci uocant. 
  
 
  
@@ -496,7 +496,7 @@ aut etiam proprios cursus agunt, cometas nostri putant, de quibus dictum est. Ho
  
 
  
-[15,5] Inter haec licet ponas et quod frequenter in historiis legimus caelum ardere uisum, cuius nonnumquam tam sublimis ardor est, ut inter sidera ipsa uideatur, nonnumquam tam humilis, ut speciem longinqui incendii praebeat. Sub Tiberio Caesare cohortes in auxilium Ostiensis coloniae cucurrerunt tamquam conflagrantis, cum caeli ardor fuisset per magnam partem noctis parum lucidus, &lt;ut&gt; crassi fumidique ignis.
+[15,5] Inter haec licet ponas et quod frequenter in historiis legimus caelum ardere uisum, cuius nonnumquam tam sublimis ardor est, ut inter sidera ipsa uideatur, nonnumquam tam humilis, ut speciem longinqui incendii praebeat. Sub Tiberio Caesare cohortes in auxilium Ostiensis coloniae cucurrerunt tamquam conflagrantis, cum caeli ardor fuisset per magnam partem noctis parum lucidus, <ut> crassi fumidique ignis.
  
 
  
@@ -524,7 +524,7 @@ fuit Quadra, obscenitatis in scaenam usque productae. Hunc diuitem auarum, seste
  
 
  
-[16,3] In omnibus quidem balneis agebat ille dilectum et aperta mensura legebat uiros, sed nihilominus mendaciis quoque insatiabile malum oblectabat. I nunc et dic speculum munditiarum causa repertum. Foeda dictu sunt, quae portentum illud ore suo lancinandum dixerit feceritque, cum illi specula ab omni parte opponerentur, ut ipse flagitiorum suorum spectator esset et, quae secreta quoque conscientiam premunt quaeque &lt;qui facit&gt; sibi quisque fecisse se negat, non in os tantum sed in oculos suos ingereret.
+[16,3] In omnibus quidem balneis agebat ille dilectum et aperta mensura legebat uiros, sed nihilominus mendaciis quoque insatiabile malum oblectabat. I nunc et dic speculum munditiarum causa repertum. Foeda dictu sunt, quae portentum illud ore suo lancinandum dixerit feceritque, cum illi specula ab omni parte opponerentur, ut ipse flagitiorum suorum spectator esset et, quae secreta quoque conscientiam premunt quaeque <qui facit> sibi quisque fecisse se negat, non in os tantum sed in oculos suos ingereret.
  
 
  
@@ -577,7 +577,7 @@ fuit Quadra, obscenitatis in scaenam usque productae. Hunc diuitem auarum, seste
  
 
  
-[17,7] Tunc quoque, cum antiqui illi uiri incondite uiuerent, satis nitidi, si squalorem opere collectum aduerso flumine eluerant, cura comere capillum fuit ac prominentem barbam depectere, sed in hac re sibi quisque, non alteri in uicem, operam dabat. &lt;ne&gt; coniugum quidem manu crinis ille, quem effundere olim mos uiris fuit, attrectabatur, sed illum sibi ipsi sine ullo artifice formosi quatiebant, non aliter quam iubam generosa animalia. 
+[17,7] Tunc quoque, cum antiqui illi uiri incondite uiuerent, satis nitidi, si squalorem opere collectum aduerso flumine eluerant, cura comere capillum fuit ac prominentem barbam depectere, sed in hac re sibi quisque, non alteri in uicem, operam dabat. <ne> coniugum quidem manu crinis ille, quem effundere olim mos uiris fuit, attrectabatur, sed illum sibi ipsi sine ullo artifice formosi quatiebant, non aliter quam iubam generosa animalia. 
  
 
  
@@ -585,7 +585,7 @@ fuit Quadra, obscenitatis in scaenam usque productae. Hunc diuitem auarum, seste
  
 
  
-[17,9] O felix paupertas, quae tanto titulo locum fecit! Non dedisset illis dotem, si habuissent. At quisquis ille erat, cui soceri loco senatus fuit, intellexit accepisse se dotem, quam fas non esset reddere. Iam libertinorum uirgunculis in unum speculum non sufficit illa dos, quam dedit p&lt;opulus&gt; Ro&lt;manus&gt; animose.
+[17,9] O felix paupertas, quae tanto titulo locum fecit! Non dedisset illis dotem, si habuissent. At quisquis ille erat, cui soceri loco senatus fuit, intellexit accepisse se dotem, quam fas non esset reddere. Iam libertinorum uirgunculis in unum speculum non sufficit illa dos, quam dedit p<opulus> Ro<manus> animose.
  
 
  

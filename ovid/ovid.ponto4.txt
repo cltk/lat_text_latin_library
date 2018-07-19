@@ -102,7 +102,7 @@ LIBER QVARTVS
   otia materia subripiamque diem?      40 
  Nam quia nec uinum nec me tenet alea fallax 
   per quae clam tacitum tempus abire solet 
- nec me&#151;quod cuperem, si per fera bella liceret&#151; 
+ nec me—quod cuperem, si per fera bella liceret— 
   oblectat cultu terra nouata suo, 
  quid nisi Pierides, solacia frigida, restant,      45 
   non bene de nobis quae meruere deae? 
@@ -221,7 +221,7 @@ LIBER QVARTVS
  Hos ubi facundo tua uox hilarauerit ore, 
   utque solet, tulerit prospera uerba dies 
  egeris et meritas superis cum Caesare grates 
-  &#151;qui causam, facias cur ita saepe, dabit!&#151;,      40 
+  —qui causam, facias cur ita saepe, dabit!—,      40 
  inde domum repetes toto comitante senatu 
   officium populi uix capiente domo. 
  Me miserum, turba quod non ego cernar in illa 
@@ -302,8 +302,8 @@ LIBER QVARTVS
   opponit nostris insidiosa pedem. 
  Certus eras pro me, Fabiae laus, Maxime, gentis, 
   numen ad Augustum supplice uoce loqui.      10 
- Occidis ante preces causamque ego, Maxime, mortis&#151; 
-  nec fuero tanti!&#151;me reor esse tuae. 
+ Occidis ante preces causamque ego, Maxime, mortis— 
+  nec fuero tanti!—me reor esse tuae. 
  Iam timeo nostram cuiquam mandare salutem; 
   ipsum morte tua concidit auxilium. 
  Coeperat Augustus deceptae ignoscere culpae,      15 
@@ -759,7 +759,7 @@ LIBER QVARTVS
   dum dolor in cursu est et petit aeger opem. 
  At cum longa dies sedauit uulnera mentis, 
   intempestiue qui mouet illa nouat.      20 
- Adde, quod&#151;atque utinam uerum mihi uenerit omen!&#151; 
+ Adde, quod—atque utinam uerum mihi uenerit omen!— 
   coniugio felix iam potes esse nouo. 
  
 
@@ -845,7 +845,7 @@ LIBER QVARTVS
   carmina quae faciam paene poeta Getes. 
  A! pudet et Getico scripsi sermone libellum 
   structaque sunt nostris barbara uerba modis:      20 
- et placui&#151;gratare mihi!&#151;coepique poetae 
+ et placui—gratare mihi!—coepique poetae 
   inter inhumanos nomen habere Getas. 
  Materiam quaeris? Laudes: de Caesare dixi! 
   Adiuta est nouitas numine nostra dei. 
@@ -868,11 +868,11 @@ LIBER QVARTVS
  Carmina nil prosunt, nocuerunt carmina quondam 
   primaque tam miserae causa fuere fugae. 
  At tu, per studii communia foedera sacri, 
-  per non uile tibi nomen amicitiae,&#151; 
+  per non uile tibi nomen amicitiae,— 
  sic capto Latiis Germanicus hoste catenis      45 
   materiam uestris adferat ingeniis, 
  sic ualeant pueri, uotum commune deorum, 
-  quos laus formandos est tibi magna datos!&#151; 
+  quos laus formandos est tibi magna datos!— 
  quanta potes, praebe nostrae momenta saluti 
   quae nisi mutato nulla futura loco est. 
  

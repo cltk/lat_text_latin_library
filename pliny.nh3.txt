@@ -51,7 +51,7 @@ Pliny the Elder: Natural History, Book III
  
 
  
- [9] Baetis, in Tarraconensis provinciae non, ut aliqui dixere, Mentesa oppido, sed Tugiensi exoriens saltu &#151; iuxta quem Tader fluvius, qui Carthaginiensem agrum rigat &#151; Ilorci refugit Scipionis rogum versusque in occasum oceanum Atlanticum, provinciam adoptans, petit, modicus primo, sed multorum fluminum capax, quibus ipse famam aquasque aufert. Baeticae primum ab Ossigitania infusus, amoeno blandus alveo, crebris dextra laevaque accolitur oppidis.
+ [9] Baetis, in Tarraconensis provinciae non, ut aliqui dixere, Mentesa oppido, sed Tugiensi exoriens saltu — iuxta quem Tader fluvius, qui Carthaginiensem agrum rigat — Ilorci refugit Scipionis rogum versusque in occasum oceanum Atlanticum, provinciam adoptans, petit, modicus primo, sed multorum fluminum capax, quibus ipse famam aquasque aufert. Baeticae primum ab Ossigitania infusus, amoeno blandus alveo, crebris dextra laevaque accolitur oppidis.
  
 
  
@@ -199,7 +199,7 @@ Pliny the Elder: Natural History, Book III
  
 
  
- [46] Nunc ambitum eius urbesque enumerabimus, qua in re praefari necessarium est auctorem nos Divum Augustum secuturos discriptionemque ab eo factam Italiae totius in regiones XI, sed ordine eo, qui litorum tractu fiet; urbium quidem vicinitates oratione utique praepropera servari non posse, itaque inferiore parte digestionem in litteras eiusdem nos secuturos, coloniarum mentione signata, quas ille in eo prodidit numero. nec situs originesque persequi facile est, Ingaunis Liguribus &#151; ut ceteri omittantur &#151; agro tricies dato.
+ [46] Nunc ambitum eius urbesque enumerabimus, qua in re praefari necessarium est auctorem nos Divum Augustum secuturos discriptionemque ab eo factam Italiae totius in regiones XI, sed ordine eo, qui litorum tractu fiet; urbium quidem vicinitates oratione utique praepropera servari non posse, itaque inferiore parte digestionem in litteras eiusdem nos secuturos, coloniarum mentione signata, quas ille in eo prodidit numero. nec situs originesque persequi facile est, Ingaunis Liguribus — ut ceteri omittantur — agro tricies dato.
  
 
  
@@ -239,11 +239,11 @@ Pliny the Elder: Natural History, Book III
  
 
  
- [56] Latium antiquum a Tiberi Cerceios servatum est m. p. L longitudine: tam tenues primordio imperi fuere radices. colonis saepe mutatis tenuere alii aliis temporibus, Aborigenes, Pelasgi, Arcades, Siculi, Aurunci, Rutuli et ultra Cerceios Volsci, Osci, Ausones, unde nomen Lati processit ad Lirim amnem. in principio est Ostia colonia ab Romano rege deducta, oppidum Laurentum, lucus Iovis Indigetis, amnis Numicius, Ardea a Dana&euml; Persei matre condita.
+ [56] Latium antiquum a Tiberi Cerceios servatum est m. p. L longitudine: tam tenues primordio imperi fuere radices. colonis saepe mutatis tenuere alii aliis temporibus, Aborigenes, Pelasgi, Arcades, Siculi, Aurunci, Rutuli et ultra Cerceios Volsci, Osci, Ausones, unde nomen Lati processit ad Lirim amnem. in principio est Ostia colonia ab Romano rege deducta, oppidum Laurentum, lucus Iovis Indigetis, amnis Numicius, Ardea a Danaë Persei matre condita.
  
 
  
- [57] dein quondam Aphrodisium, Antium colonia, Astura flumen et insula, fluvius Nymphaeus, Clostra Romana, Cercei, quondam insula inmenso quidem mari circumdata, ut creditur Homero, et nunc planitie. mirum est quod hac de re tradere hominum notitiae possumus. Theophrastus, qui primus externorum aliqua de Romanis diligentius scripsit &#151; nam Theopompus, ante quem nemo mentionem habuit, urbem dumtaxat a Gallis captam dixit, Clitarchus, ab eo proximus, legationem tantum ad Alexandrum missam &#151;
+ [57] dein quondam Aphrodisium, Antium colonia, Astura flumen et insula, fluvius Nymphaeus, Clostra Romana, Cercei, quondam insula inmenso quidem mari circumdata, ut creditur Homero, et nunc planitie. mirum est quod hac de re tradere hominum notitiae possumus. Theophrastus, qui primus externorum aliqua de Romanis diligentius scripsit — nam Theopompus, ante quem nemo mentionem habuit, urbem dumtaxat a Gallis captam dixit, Clitarchus, ab eo proximus, legationem tantum ad Alexandrum missam —
  
 
  
@@ -411,7 +411,7 @@ Pliny the Elder: Natural History, Book III
  
 
  
- [99] Conectitur secunda regio amplexa Hirpinos, Calabriam, Apuliam, Sallentinos,CCL sinu qui Tarentinus appellatur ab oppido Laconum &#151; in recessu hoc intimo situm, contributa eo maritima colonia, quae ibi fuerat, abest CXXXVI a Lacinio promunturio &#151;, adversam ei Calabriam in paeninsulam emittens. Graeci Messapiam a duce appellavere et ante Peucetiam a Peucetio Oenotri fratre in Sallentino agro. inter promunturia C intersunt. latitudo paeninsulae a Tarento Brundisium terreno itinere XXXXV patet multoque brevius a portu Sasine.
+ [99] Conectitur secunda regio amplexa Hirpinos, Calabriam, Apuliam, Sallentinos,CCL sinu qui Tarentinus appellatur ab oppido Laconum — in recessu hoc intimo situm, contributa eo maritima colonia, quae ibi fuerat, abest CXXXVI a Lacinio promunturio —, adversam ei Calabriam in paeninsulam emittens. Graeci Messapiam a duce appellavere et ante Peucetiam a Peucetio Oenotri fratre in Sallentino agro. inter promunturia C intersunt. latitudo paeninsulae a Tarento Brundisium terreno itinere XXXXV patet multoque brevius a portu Sasine.
  
 
  
@@ -435,15 +435,15 @@ Pliny the Elder: Natural History, Book III
  
 
  
- [105] cetera intus in secunda regione Hirpinorum colonia una Beneventum auspicatius mutato nomine, quae quondam appellata Maleventum, Aeculani, Aquiloni, Abellinates cognomine Protropi, Compsani, Caudini, Ligures qui cognominantur Corneliani et qui Baebiani, Vescellani. Ausculani,Aletrini, Abellinates cognominati Marsi, Atrani, Aecani, Alfellani, Atinates, Arpani, Borcani, Collatini, Corinenses et nobiles clade Romana Cannenses, Dirini, Forentani, Genusini, Herdonienses, Irini, Larinates cognomine Frentani, Metinates ex Gargano, Mateolani, Neretini, Natini, Rubustini, Silvini, Strapellini, Turnantini, Vibinates, Venusini, Ulurtini. &#151; Calabrorum mediterranei Aezetini, Apamestini, Argetini, Butuntinenses, Deciani, Grumbestini, Norbanenses, Palionenses, Stulnini, Tutini. &#151; Sallentinorum Aletini, Basterbini, Neretini, Uzentini, Veretini.
+ [105] cetera intus in secunda regione Hirpinorum colonia una Beneventum auspicatius mutato nomine, quae quondam appellata Maleventum, Aeculani, Aquiloni, Abellinates cognomine Protropi, Compsani, Caudini, Ligures qui cognominantur Corneliani et qui Baebiani, Vescellani. Ausculani,Aletrini, Abellinates cognominati Marsi, Atrani, Aecani, Alfellani, Atinates, Arpani, Borcani, Collatini, Corinenses et nobiles clade Romana Cannenses, Dirini, Forentani, Genusini, Herdonienses, Irini, Larinates cognomine Frentani, Metinates ex Gargano, Mateolani, Neretini, Natini, Rubustini, Silvini, Strapellini, Turnantini, Vibinates, Venusini, Ulurtini. — Calabrorum mediterranei Aezetini, Apamestini, Argetini, Butuntinenses, Deciani, Grumbestini, Norbanenses, Palionenses, Stulnini, Tutini. — Sallentinorum Aletini, Basterbini, Neretini, Uzentini, Veretini.
  
 
  
- [106] Sequitur regio quarta gentium vel fortissimarum Italiae. in ora Frentanorum a Tiferno flumen Trinium portuosum, oppida Histonium, Buca, Hortona, Aternus amnis. intus Anxani cognomine Frentani, Carecini Supernates et Infernates, Iuanenses. &#151; Marrucinorum Teatini. &#151; Paelignorum Corfinienses, Superaequani, Sulmonenses. &#151; Marsorum Anxiatini, Antinates, Fucentes, Lucenses, Marruvini. &#151; Albensium Alba ad Fucinum lacum. &#151; Aequiculanorum Cliternini, Carseolani. &#151;
+ [106] Sequitur regio quarta gentium vel fortissimarum Italiae. in ora Frentanorum a Tiferno flumen Trinium portuosum, oppida Histonium, Buca, Hortona, Aternus amnis. intus Anxani cognomine Frentani, Carecini Supernates et Infernates, Iuanenses. — Marrucinorum Teatini. — Paelignorum Corfinienses, Superaequani, Sulmonenses. — Marsorum Anxiatini, Antinates, Fucentes, Lucenses, Marruvini. — Albensium Alba ad Fucinum lacum. — Aequiculanorum Cliternini, Carseolani. —
  
 
  
- [107] Vestinorum Angulani, Pennienses, Peltuinates, quibus iunguntur Aufinates Cismontani. &#151; Samnitium, quos Sabellos et Graeci Saunitas dixere, coloniae Bovianum Vetus et alterum cognomine Undecumanorum, Aufidenates, Aesernini, Fagifulani, Ficolenses, Saepinates, Tereventinates. &#151; Sabinorum Amiternini, Curenses, Forum Deci, Forum Novum, Fidenates, Interamnates, Nursini, Nomentani, Reatini, Trebulani qui cognominantur Mutuesci et qui Suffenates, Tiburtes, Tarinates.
+ [107] Vestinorum Angulani, Pennienses, Peltuinates, quibus iunguntur Aufinates Cismontani. — Samnitium, quos Sabellos et Graeci Saunitas dixere, coloniae Bovianum Vetus et alterum cognomine Undecumanorum, Aufidenates, Aesernini, Fagifulani, Ficolenses, Saepinates, Tereventinates. — Sabinorum Amiternini, Curenses, Forum Deci, Forum Novum, Fidenates, Interamnates, Nursini, Nomentani, Reatini, Trebulani qui cognominantur Mutuesci et qui Suffenates, Tiburtes, Tarinates.
  
 
  
@@ -507,7 +507,7 @@ Pliny the Elder: Natural History, Book III
  
 
  
- [123] Transpadana appellatur ab eo regio undecima, tota in mediterraneo, cui marina cuncta fructuoso alveo inportat. oppida Vibi Forum, Segusio, coloniae ab Alpium radicibus Augusta Taurinorum &#151; inde navigabili Pado &#151; antiqua Ligurum stirpe, dein Salassorum Augusta Praetoria iuxta geminas Alpium fores, Graias atque Poeninas &#151; his Poenos, Grais Herculem transisse memorant &#151;, oppidum Eporedia Sibyllinis a populo Romano conditum iussis. eporedias Galli bonos equorum domitores vocant.
+ [123] Transpadana appellatur ab eo regio undecima, tota in mediterraneo, cui marina cuncta fructuoso alveo inportat. oppida Vibi Forum, Segusio, coloniae ab Alpium radicibus Augusta Taurinorum — inde navigabili Pado — antiqua Ligurum stirpe, dein Salassorum Augusta Praetoria iuxta geminas Alpium fores, Graias atque Poeninas — his Poenos, Grais Herculem transisse memorant —, oppidum Eporedia Sibyllinis a populo Romano conditum iussis. eporedias Galli bonos equorum domitores vocant.
  
 
  
@@ -531,7 +531,7 @@ Pliny the Elder: Natural History, Book III
  
 
  
- [129] Histria ut paeninsula excurrit. latitudinem eius XL, circuitum CXXV prodidere quidam, item adhaerentis Libruniae et Flanatici sinus, alii CCXXV, alii Liburniae CLXXX. nonnulli in Flanaticum sinum Iapudiam promovere a tergo Histriae CXXX, dein Libruniam CL fecere. Tuditanus, qui domuit Histros, in statua sua ibi inscripsit: AN AQVILEIA AD TITIVM FLVMEN STADIA MM. oppida Histriae civium Romanorum Agida, Parentium, colonia Pola, quae nunc Pietas Iulia, quondam a Colchis condita; abest a Tergeste CV. mox oppidum Nesactium et &#151; nunc finis Italiae &#151; fluvius Arsia. ad Polam ab Ancona traiectus CXX p. est.
+ [129] Histria ut paeninsula excurrit. latitudinem eius XL, circuitum CXXV prodidere quidam, item adhaerentis Libruniae et Flanatici sinus, alii CCXXV, alii Liburniae CLXXX. nonnulli in Flanaticum sinum Iapudiam promovere a tergo Histriae CXXX, dein Libruniam CL fecere. Tuditanus, qui domuit Histros, in statua sua ibi inscripsit: AN AQVILEIA AD TITIVM FLVMEN STADIA MM. oppida Histriae civium Romanorum Agida, Parentium, colonia Pola, quae nunc Pietas Iulia, quondam a Colchis condita; abest a Tergeste CV. mox oppidum Nesactium et — nunc finis Italiae — fluvius Arsia. ad Polam ab Ancona traiectus CXX p. est.
  
 
  

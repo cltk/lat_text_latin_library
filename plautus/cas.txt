@@ -86,8 +86,8 @@ Hanc graece scripsit, postid rursum denuo
 Latine Plautus cum latranti nomine. 
 Senex hic maritus habitat: eist filius: 
 Is ima cum patre in illisce habitat aedibus. 
-Est ei quidam seruos, qui in morbo cubat &#151; 
-Immo hercle uero in lecto, nequid mentiar &#151;: 
+Est ei quidam seruos, qui in morbo cubat — 
+Immo hercle uero in lecto, nequid mentiar —: 
 Is seruos, sed abhinc annos factumst sedecim, 
 Quom conspicatust primulo crepusculo 
 Puellam exponi. adit extemplo ad mulierem, 
@@ -116,7 +116,7 @@ Ille autem postquam filium sensit suom
 Eandem illam amare et esse impedimento sibi, 
 Hinc adulescentem peregre ablegauit pater. 
 Sciens ei mater dat operam absenti tamen. 
-Is&#151;ne exspectetis&#151;hodie in hac comoedia 
+Is—ne exspectetis—hodie in hac comoedia 
 In urbem non redibit: Plautus noluit: 
 Pontem interrupit, qui erat ei in itinere. 
 Sunt hic, inter se quos nunc credo dicere: 
@@ -284,8 +284,8 @@ Nec qua in plura sint mihi quae ego uelim.
  MY. Amo te, 
 atque istuc expeto scire quid sit. 
  CLE. Vir Pessumis me modis despicatur domi. 
- MY. Hem. CLE. Quid est? MY. Dic idem hoc&#151;nam pol hau satis meo 
-Corde accepi querellls tuas&#151; opsecro. 
+ MY. Hem. CLE. Quid est? MY. Dic idem hoc—nam pol hau satis meo 
+Corde accepi querellls tuas— opsecro. 
  CLE. Vir me habet pessumis despicatam modis 
 Nec mihi ius meum optinendi optiost. 
  MY. Mira sunt, uera si praedicas: nam uiri 
@@ -406,7 +406,7 @@ SENEX  SERVOS
  
 
  
- LY. Qui Illum di omnes deaeque perdant. CHA. Te&#151;uxor aiebat tua 
+ LY. Qui Illum di omnes deaeque perdant. CHA. Te—uxor aiebat tua 
 Me uocare. LY. Ego enim uocari iussi. CHA. Eloquere quid uelis?
  
 
@@ -519,13 +519,13 @@ Fodico corculum: adsudascis iam ex metu, mastigia.
  LY. Adpone hic sitellam, sortis cedo mihi: animum aduortite. 
 Atqui ego censui aps te posse hoc me[cum] impetrare, uxor mea, 
 Casina ut uxor mihi daretur, et nunc etiam censeo. 
- CLE. Tibi daretur illa? LY. Mihi enim &#151; ah &#151; non id uolui dicere: 
-Dum mihi uolui, huic dixi atque adeo mihi dum cupio &#151; perperam
+ CLE. Tibi daretur illa? LY. Mihi enim — ah — non id uolui dicere: 
+Dum mihi uolui, huic dixi atque adeo mihi dum cupio — perperam
  
 
  
 Iam dudum hercle fabulor. CLE. Pol tu quidem, atque etiam facis. 
- LY. Huic&#151; immo hercle mlhi &#151; uah, tandem redii uix ueram in uiam. 
+ LY. Huic— immo hercle mlhi — uah, tandem redii uix ueram in uiam. 
  CLE. Per pol saepe peccas. LY. Ita fit, ubi quid tanto opere expetas. 
 Sed te uterque tuo pro iure ego atque hic oramus. CLE. Quid est? 
  LY. Dicam enim, mea mulsa: de istac Casina huic nostro uilico 
@@ -548,8 +548,8 @@ Sed mane dum: num ista aut populna sors aut abiegnast tua?
  LY. Auge caue. conicite sortis nunciam am[a]bo huc. eccere: 
 Vxor, aequa. OL. Noli uxori credere. LY. Habe animum bonum. 
  OL. Credo hercle, hodie deuotabit sortis, si attigerit. LY. Tace. 
- OL. Taceo: deos quaeso&#151; CHA. Vt quidem tu hodie canem et furcam feras. 
- OL. Mihi ut sortito eueniat,&#151; CHA. Vt quidem hercle pedibus pendeas. 
+ OL. Taceo: deos quaeso— CHA. Vt quidem tu hodie canem et furcam feras. 
+ OL. Mihi ut sortito eueniat,— CHA. Vt quidem hercle pedibus pendeas. 
  OL. At tu ut oculos emungare ex capite per nasum tuos. 
  CHA. Quid times? paratum oportet esse iam laqueum tibi. 
  OL. Periisti. LY. Animum aduortite am[a]bo. OL. Taceo. LY. Nunc tu, Cleostrata, 
@@ -681,7 +681,7 @@ Abi atque obsona, propera: sed lepide uolo,
  
 Molliculas escas, ut ipsa molliculast. OL. Licet. 
  LY. Emito sepiolas, lopadas, loligunculas, 
-Hordeias, &#151; CHA. Immo triticeias, si sapis. 
+Hordeias, — CHA. Immo triticeias, si sapis. 
  LY. Soleas. CHA. Qui, quaeso, potius quam sculponeas, 
 Quibus battuatur tibi os, senex nequissume? 
  OL. Vin lingulacas? LY. Quid opust, quando uxor domist? 
@@ -848,8 +848,8 @@ Eam non missurum. AL. Quin eapse ultro mihi
 Negauit eius operam se morarier. 
  LY. Quin eapse me adlegauit qui istam arcesserem. 
 AL. Quin nili facio. LY. Quin me perdis. AL. Quin benest. 
- LY. Quin etiam diu morabor. AL. Quin cupio tibi&#151; 
- LY. Quin &#151; AL. aliquid aegre facere. LY. Quin faciam lubens. 
+ LY. Quin etiam diu morabor. AL. Quin cupio tibi— 
+ LY. Quin — AL. aliquid aegre facere. LY. Quin faciam lubens. 
 Numquam tibi hodie quin erit plus quam mihi. 
 AL. Quin hercle di te perdant postremo quidem. 
  LY. Quid nunc? missurun es ad me uxorem tuam? 
@@ -884,7 +884,7 @@ Nequid in te mali faxit ira percita.
 Eripite isti gladium, quae suist impos animi. 
  LY. Nam quid est, quod haec huc timida atque exanimata exslluit? 
 Pardalisca. PAR. Perii: unde meae usurpant aures sonitum? 
- LY. Respice modo ad me. PAR. O ere mi&#151; LY. Quid tibist? quid timidas? PAR. Perii. 
+ LY. Respice modo ad me. PAR. O ere mi— LY. Quid tibist? quid timidas? PAR. Perii. 
  LY. Quid, peristi? PAR. Perii: et tu peristi. LY. Ah, perii? quid ita? 
  PAR. Vae tibi. LY. Immo uae tibi sit. PAR. Ne cadam, amabo, tene me. 
  LY. Quicquid est eloquere mihi cito. PAR. Contine pectus:
@@ -908,11 +908,11 @@ Quod haud Atticam condecet disciplinam.
  LY. Quid est id? PAR. Timor praepedit dicta linguae. 
  LY. Possum scire ego istuc ex te? quid negotist? PAR. Dicam. 
 Tua ancilla, quam tu tuo uilico uis 
-Dare uxorem, ea intus&#151; LY. Quid intus? quid est? 
+Dare uxorem, ea intus— LY. Quid intus? quid est? 
  PAR. Imitatur malarum malam discipinam, 
 Viro quae suo interminatur uitam. 
  LY. Quid ergo? PAR. Ah. LY. Quid est? PAR. Interemere ait uelle uitam. 
-Gladium&#151; LY. Hem. PAR. Gladium&#151; LY. Quid eum gladium? 
+Gladium— LY. Hem. PAR. Gladium— LY. Quid eum gladium? 
  PAR. Habet. LY. Ei misero mihi. cur eum habet?
  
 
@@ -941,7 +941,7 @@ Adaeque miser. PAR. Ludo ego hinc facete:
 Nam quae facta dixi, omnia huic falsa dixi. 
 Era atque haec dolum ex proxumo hunc protulerunt: 
 Ego huc missa sum ludere. LY. Heus, Pardalisca. 
- PAR. Quid est? LY. Est&#151; PAR. Quid? LY. Est, quod uolo exquirere ex te. 
+ PAR. Quid est? LY. Est— PAR. Quid? LY. Est, quod uolo exquirere ex te. 
  PAR. Moram offers mihi. LY. At tu mihi offers maerorem. 
 Sed etiamne habet nunc Casina gladium? 
  PAR. nabet, sed duos. LY. Quid, duos? PAR. Altero te 
@@ -954,7 +954,7 @@ Negat ponere alio modo filio profecto,
 Nisi se sciat uilico non datum iri. 
  LY. Atqui ingratiis quoi non uolt nubet hodie: 
 Nam cur non ego id perpetrem quod coepi, 
-Vt nubat mihi &#151;Illud quidem dicere uolebam: 
+Vt nubat mihi —Illud quidem dicere uolebam: 
 Nostro uilico. PAR. Saepiuscule, peccas. 
  LY. Timor praepedit uerba. uerum, obsecro te, 
 Dic me uxorem orare, ut exoret illam: 
@@ -1072,7 +1072,7 @@ SENEX ANCILLA
  LY. Si sapitis, uxor, uos tamen cenabitis, 
 Cena ubi erit cocta: ego ruri cenauero. 
 Nam nouom maritum et nouam nuptam uolo 
-Rus prosequi&#151;noui hominum mores maleficos&#151; 
+Rus prosequi—noui hominum mores maleficos— 
 Nequis eam abripiat. facite uostro animo uolup. 
 Sed properate istum atque istam actutum emittere, 
 Tandem ut ueniamus luci: ego cras hic ero: 
@@ -1139,7 +1139,7 @@ Tuaque ut potior pollentia sit, uincasque uirum uictrixque sies.
 Tua uox superet tuomque imperium: uir te uestiat, tu uirum despolies. 
 Noctuque et diu ut uiro subdola sis, 
      Opsecro memento. 
- OL. Malo maxumo suo hercle ilico, ubi tantillum peccassit&#151;
+ OL. Malo maxumo suo hercle ilico, ubi tantillum peccassit—
  
 
  
@@ -1161,7 +1161,7 @@ Meast haec. LY. Scio: sed meus fructus est prior.
      Venus multipotens, bona multa mihi 
 Dedisti, huius quom copiam mihi dedisti. o, 
      Corplisculum malacum. 
-      OL. Mea uxorcula &#151; quae res? 
+      OL. Mea uxorcula — quae res? 
       LY. Quid est? OL. institit planta 
      [ LY. ] Quasi luca bos. LY. Tace sis. 
 Nebula haud est mollis aeque atque huius est pectus.
@@ -1370,9 +1370,9 @@ Quid fecisti scipione[m] aut quod habuisti pallium?
  PAR. In adulterio, dum moechissat Casinam, credo perdidit 
  LY. Occidi. CHA. Etiamne imus cubitum? Casina sum. LY. in malam crucem. 
  CHA. Non amas me? CLE. Quin responde: tuo quid faetumst pallio? 
- LY. Baeehae hercle, uxor&#151; CLE. Bacchae? LY. Bacchae hercle, uxor&#151; MY. Nugatur seiens. 
+ LY. Baeehae hercle, uxor— CLE. Bacchae? LY. Bacchae hercle, uxor— MY. Nugatur seiens. 
 Nam ecastor nunc Bacchae nullae ludunt. LY. Oblitus fui. 
-Sed tamen Bacchae&#151; CLE. Quid Bachae? LY. Sin id fieri non potest &#151; 
+Sed tamen Bacchae— CLE. Quid Bachae? LY. Sin id fieri non potest — 
  CLE. Times eeastor. LY. Egone? mentire her CLE. 
  CLE. Nam palles male. 
 N * * * quid me * * * * us * * am me rogas?

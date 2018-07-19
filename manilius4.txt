@@ -41,7 +41,7 @@ aut lupa proiectos nutrisset Martia fratres,
 Roma casis enata foret, pecudumque magistri 
 in Capitolinos duxissent fulmina montes, 
 includive sua potuisset Iuppiter arce, 
-captus et &lt;a&gt; captis orbis foret: igne sepulto     30 
+captus et <a> captis orbis foret: igne sepulto     30 
 vulneribus victor repetisset Mucius urbem, 
 solus et oppositis clausisset Horatius armis 
 pontem urbemque simul, rupisset foedera virgo, 
@@ -59,7 +59,7 @@ exitium generis furtiva morte luisse?
 adde etiam Latias acies Romamque suismet 
 pugnantem membris, adice et civilia bella 
 et Cimbrum in Mario Mariumque in carcere victum.     45 
-quod, consul totiens, exul, quod &lt;de&gt; exule consul 
+quod, consul totiens, exul, quod <de> exule consul 
 adiacuit Libycis compar iactura ruinis 
 eque crepidinibus cepit Carthaginis urbem, 
 hoc, nisi fata darent, numquam fortuna tulisset. 
@@ -284,7 +284,7 @@ et peregrinantis domibus suspendere rivos.     265
 mille sub hoc habitant artes, quas temperat unda. 
 quippe etiam mundi faciem sedesque movebit 
 sidereas caelumque novum versabit in orbem. 
-&lt;tempore non ullo subolem taedebit Aquari,&gt;     268a 
+<tempore non ullo subolem taedebit Aquari,>     268a 
 quae per aquas veniunt, operum, fontesque sequuntur. 
 mite genus dulcesque fluunt a sidere partus, 
 pectora nec sordent; faciles in damna feruntur; 
@@ -429,7 +429,7 @@ nec satis est signis dominantia discere signa
 per denos numeros et quae sint insita cuique;     410 
 sed proprias partes ipsas spectare memento 
 vel glacie rigidas vel quas exusserit ignis, 
-et sterilis &lt;sine&gt; utroque tamen, quas largior umor 
+et sterilis <sine> utroque tamen, quas largior umor 
 quasve minor iusto vitiat. namque omnia mixtis 
 viribus et vario consurgunt sidera textu.     415 
 est aequale nihil. terrenos aspice tractus 
@@ -450,7 +450,7 @@ hae mihi signandae proprio sunt carmine partes.     430
 sed quis tot numeros totiens sub lege referre, 
 tot partes iterare queat, tot dicere summas, 
 perque paris causas faciem mutare loquendi? 
-&lt;dum canimus verum, non aspera ponere, ut illis&gt;     433a 
+<dum canimus verum, non aspera ponere, ut illis>     433a 
 incidimus, sic verba piget; sed gratia derit, 
 in vanumque labor cedit quem despicit auris. 
 sed mihi per carmen fatalia iura ferenti 
@@ -519,8 +519,8 @@ accipiens ultra summas metuenda feretur.
   Hae partes sterilem ducunt et frigore et igni 
 aera vel sicco vel quod superaverit umor, 
 si rapidus Mavors ignes iaculatur in illum     500 
-Saturnusve suam glaciem &lt;Phoebeve propinquis 
-quem trahit a terris rorem&gt; Phoebusve calores.     501a 
+Saturnusve suam glaciem <Phoebeve propinquis 
+quem trahit a terris rorem> Phoebusve calores.     501a 
   Nec te perceptis signorum cura relinquat 
 partibus: in tempus quaedam mutantur, et ortu 
 accipiunt proprias vires ultraque remittunt. 
@@ -625,7 +625,7 @@ laeva freti caedunt Hispanas aequora gentes
 teque in vicinis haerentem, Gallia, terris 
 Italiaeque urbes dextram sinuantis in undam 
 usque canes ad, Scylla, tuos avidamque Charybdin.     605 
-hac ubi se primum porta mare fudit, &lt;aperto&gt; 
+hac ubi se primum porta mare fudit, <aperto> 
 enatat Ionio laxasque vagatur in undas 
 et, prius ut, laeva se fundens circuit omnem 
 Italiam, Hadriaco mutatum nomina ponto, 
@@ -655,7 +655,7 @@ Trinacria Italia tantum praecisa recessit,
 adversa Euboicos miratur Graecia montes, 
 Aegaeis Crete civem sortita Tonantem 
 Aegyptique Cypros pulsatur fluctibus amnis.     635 
-&lt;has praeter terras, celebrat quas maxima fama,&gt;     635a 
+<has praeter terras, celebrat quas maxima fama,>     635a 
 totque minore solo tamen emergentia ponto 
 litora, inaequalis Cycladas Delonque Rhodonque 
 Aulidaque et Tenedon vicinaque Corsica terris 
@@ -768,8 +768,8 @@ quot partes orbis, totidem sub partibus orbes,
 ut certis discripta nitent regionibus astra 
 perfunduntque suo subiectas aere gentes. 
   Laniger in medio sortitus sidera mundo, 
-&lt;lance ubi sol aequa pensat noctemque diemque&gt;     744a 
-Cancrum inter gelidumque &lt;Caprum&gt; per tempora veris, 
+<lance ubi sol aequa pensat noctemque diemque>     744a 
+Cancrum inter gelidumque <Caprum> per tempora veris, 
 asserit in vires pontum quem vicerat ipse, 
 virgine delapsa cum fratrem ad litora vexit 
 et minui deflevit onus dorsumque levari. 
@@ -822,14 +822,14 @@ teque feris dignam tantum, Germania, matrem
 asserit ambiguum sidus terraeque marisque     795 
 aestibus assiduis pontum terrasque sequentem. 
 sed Iuvenis nudos formatus mollior artus 
-Aegyptum ad tepidam Tyriasque recedit &lt;in arces&gt; 
+Aegyptum ad tepidam Tyriasque recedit <in arces> 
 et Cilicum gentes vicinaque Caribus arva. 
-Piscibus Euphrates datus est, ubi &lt;ab&gt; his ope sumpta     800 
+Piscibus Euphrates datus est, ubi <ab> his ope sumpta     800 
 cum fugeret Typhona Venus subsedit in undis, 
 et Tigris et rubri radiantia litora ponti.     806 
 magna iacet tellus magnis circumdata ripis     802 
-Parthis et &lt;a&gt; Parthis domitae per saecula gentes, 
-Bactraque &lt;et&gt; Aethiopes, Babylon et Susa Ninosque, 
+Parthis et <a> Parthis domitae per saecula gentes, 
+Bactraque <et> Aethiopes, Babylon et Susa Ninosque, 
 nominaque innumeris vix complectenda figuris.     805 
   Sic divisa manet tellus per sidera cuncta,     807 
 e quibus in proprias partes sunt iura trahenda; 
@@ -901,7 +901,7 @@ quid iuvat in semet sua per convicia ferri
 et fraudare bonis, quae nec deus invidet ipse, 
 quosque dedit natura oculos deponere mentis?     875 
 perspicimus caelum, cur non et munera caeli? 
-&lt;mens humana potest propria discedere sede&gt;     876a 
+<mens humana potest propria discedere sede>     876a 
 inque ipsos penitus mundi descendere census 
 seminibusque suis tantam componere molem 
 et partum caeli sua per nutricia ferre 
@@ -924,10 +924,10 @@ exemplumque dei quisque est in imagine parva?     895
 an cuiquam genitos, nisi caelo, credere fas est 
 esse homines? proiecta iacent animalia cuncta 
 in terra vel mersa vadis, vel in aere pendent, 
-omnibus una quies venter&lt;que Venusque voluptas, 
-mole valens sola corpus&gt; censumque per artus,     899a 
+omnibus una quies venter<que Venusque voluptas, 
+mole valens sola corpus> censumque per artus,     899a 
 et, quia consilium non est, et lingua remissa. 
-unus &lt;in&gt; inspectus rerum viresque loquendi 
+unus <in> inspectus rerum viresque loquendi 
 ingeniumque capax variasque educitur artes 
 hic partus, qui cuncta regit: secessit in urbes, 
 edomuit terram ad fruges, animalia cepit 

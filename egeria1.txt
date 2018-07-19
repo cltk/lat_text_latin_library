@@ -26,8 +26,8 @@ trans vallem apparebat mons sanctus Dei Sina. Hic autem locus, ubi se montes
 aperiebant, iunctus est cum eo loco, quo sunt memoriae concupiscentiae.
 2. In eo ergo loco cum venitur, ut
 tamen commonuerunt deductores sancti illi, qui nobiscum erant, dicentes:
-&laquo;consuetudo est, ut fiat hic oratio ab his, qui veniunt, quando de
-eo loco primitus videtur mons Dei&raquo;: sicut et nos fecimus. Habebat
+«consuetudo est, ut fiat hic oratio ab his, qui veniunt, quando de
+eo loco primitus videtur mons Dei»: sicut et nos fecimus. Habebat
 autem de eo loco ad montem Dei forsitan quattuor milia totum per valle
 illa, quam dixi ingens.
  
@@ -52,7 +52,7 @@ cum pasceret pecora soceri sui, iterum locutus est ei Deus de rubo in igne.
 
  
 3. Et quoniam nobis ita erat iter,
-ut prius montem Dei ascenderemus, qui hinc paret, &lt;quia> unde veniebamus,
+ut prius montem Dei ascenderemus, qui hinc paret, <quia> unde veniebamus,
 melior ascensus erat, et illinc denuo ad illud caput vallis descenderemus,
 id est ubi rubus erat, quia melior descensus montis Dei erat inde: itaque
 ergo hoc placuit, ut visis omnibus, quae desiderabamus, descendentes a
@@ -242,8 +242,8 @@ abundantem, in quo horto ipse rubus est.
 
  
 8. Locus etiam ostenditur ibi iuxta,
-ubi stetit sanctus Moyses, quando ei dixit Deus: &laquo;solve corrigiam
-calciamenti tui&raquo; et cetera. Et in eo ergo loco cum pervenissemus,
+ubi stetit sanctus Moyses, quando ei dixit Deus: «solve corrigiam
+calciamenti tui» et cetera. Et in eo ergo loco cum pervenissemus,
 hora decima erat iam, et ideo, quia iam sera erat, oblationem facere non
 potuimus. Sed facta est oratio in ecclesia nec non etiam et in horto ad
 rubum; lectus est etiam locus ipse de libro Moysi iuxta consuetudinem: et sic,
@@ -264,8 +264,8 @@ venimus per ipsam totam vallem, semper nobis sancti illi loca demonstrabant.
 2. Nam in primo capite ipsius vallis,
 ubi manseramus et videramus rubum illum, de quo locutus est Deus sancto
 Moysi in igne, videramus etiam et illum locum, in quo steterat ante rubum
-sanctus Moyses, quando ei dixit Deus: &laquo;solve corrigiam calciamenti
-tui; locus enim, in quo stas, terra sancta est.&raquo;
+sanctus Moyses, quando ei dixit Deus: «solve corrigiam calciamenti
+tui; locus enim, in quo stas, terra sancta est.»
  
 
  
@@ -290,7 +290,7 @@ iratus fregit tabulas, quas afferebat.
 per ipsam vallem unusquisque eorum habitationes habuerant, de quibus habitationibus
 usque in hodie adhuc fundamenta parent, quemadmodum fuerunt lapide girata.
 Ostenderunt etiam locum, ubi filios Israhel iussit currere sanctus Moyses
-&laquo;de porta in porta&raquo;, regressus a monte.
+«de porta in porta», regressus a monte.
  
 
  
@@ -321,11 +321,11 @@ pervidet, quae ibi facta sunt.
  
 9. Haec est ergo vallis, ubi celebrata
 est pascha completo anno profectionis filiorum Israhel de terra Aegypti,
-quoniam in ipsa valle &lt;filii> Israhel commorati sunt aliquandiu, id
+quoniam in ipsa valle <filii> Israhel commorati sunt aliquandiu, id
 est donec sanctus Moyses ascenderet in montem Dei et descenderet primum
 et iterato; et denuo tandiu ibi inmorati sunt, donec fieret tabernaculum
 et singula, quae ostensa sunt in montem Dei. Nam ostensus est nobis et
-ille locus, in quo confixum &lt;a> Moyse est primitus tabernaculum et perfecta
+ille locus, in quo confixum <a> Moyse est primitus tabernaculum et perfecta
 sunt singula, quae iusserat Deus in montem Moysi, ut fierent.
  
 
@@ -474,9 +474,9 @@ quaedam fluminis Nili ibi currit.
  
 9. Ac sic ergo exeuntes de Hero
 pervenimus ad civitatem, quae appellatur Arabia, quae est civitas in terra
-Iesse, unde scriptum est dixisse Pharaonem ad Ioseph: &laquo;in meliori
+Iesse, unde scriptum est dixisse Pharaonem ad Ioseph: «in meliori
 terra Aegypti colloca patrem tuum et fratres in terra Iessen, in terra
-Arabiae&raquo;.
+Arabiae».
  
 
  
@@ -505,7 +505,7 @@ fuerit, vadent ibi et tollent surculos, et prode illis est.
  
 4. Hoc autem referente sancto episcopo
 de Arabia cognovimus; nam ipse nobis dixit nomen ipsius arboris, quemadmodum
-appellant eam Graece, id est DENDROS AL&AElig;THIAS , quod nos dicimus
+appellant eam Graece, id est DENDROS ALÆTHIAS , quod nos dicimus
 arbor veritatis. Qui tamen sanctus episcopus nobis Ramessen occurrere dignatus
 est; nam est iam senior vir, vere satis religiosus ex monacho et affabilis,
 suscipiens peregrinos valde bene; nam et in scripturis Dei valde eruditus
@@ -582,9 +582,9 @@ mansiones aliquod per Palaestina regressa sum in Aelia, id est in Ierusolimam.
 X. 1. Item transacto aliquanto
 tempore et iubente Deo fuit denuo voluntas accedendi usque ad Arabiam,
 id est ad montem Nabau, in eo loco, in quo iussit Deus ascendere Moysen
-dicens ad eum: &laquo;ascende in montem Arabot, montem Nabau, qui est in
+dicens ad eum: «ascende in montem Arabot, montem Nabau, qui est in
 terra Moab contra faciem Iericho, et vide terram Chanaan, quam ego do filiis
-Israhel in possessionem, et morere in monte ipso, in quem ascenderis&raquo;.
+Israhel in possessionem, et morere in monte ipso, in quem ascenderis».
  
 
  
@@ -610,8 +610,8 @@ ad civitatem, qui appellatur Libiada, quae est in eo campo, in quo tunc
 filii Israhel castra fixerant. Nam et fundamenta de castris filiorum Israhel
 et habitationibus ipsorum, ubi commorati sunt, in eo loco in hodie parent.
 Campus enim ipse est infinitus subter montes Arabiae super Iordanem. Nam
-hic est locus, de quo scriptum est: &laquo;et ploraverunt filii Israhel
-Moysen in Arabot Moab et Iordane contra Iericho quadraginta diebus&raquo;.
+hic est locus, de quo scriptum est: «et ploraverunt filii Israhel
+Moysen in Arabot Moab et Iordane contra Iericho quadraginta diebus».
  
 
  
@@ -646,10 +646,10 @@ desiderata potuimus pervenire.
 perficeretur, coepimus festinare, ut perveniremus ad montem Nabau. Euntibus
 nobis commonuit presbyter loci ipsius, id est de Libiade, quem ipsum nobiscum
 rogantes moveramus de mansione, quia melius ipsa loca noverat; dicit ergo
-nobis ipse presbyter: &laquo;si vultis videre aquam, quae fluit de petra,
+nobis ipse presbyter: «si vultis videre aquam, quae fluit de petra,
 id est quam dedit Moyses filiis Israhel sitientibus, potestis videre, si
 tamen volueritis laborem vobis imponere, ut de via camsemus forsitan miliario
-sexto&raquo;.
+sexto».
  
 
  
@@ -673,7 +673,7 @@ quos humane suscipiunt.
 in medio fluit de petra, aqua ingens, pulchra, valde et limpida, saporis
 optimi. Tunc interrogavimus nos etiam et illos sanctos monachos, qui ibi
 manebant, quae esset haec aqua talis et tanti saporis. Tunc illi dixerunt:
-&laquo;haec est aqua, quam dedit sanctus Moyses filiis Israhel in hac eremo&raquo;.
+«haec est aqua, quam dedit sanctus Moyses filiis Israhel in hac eremo».
  
 
  
@@ -702,12 +702,12 @@ quasi altiorem tantum hispatii habentem, quantum memoriae solent habere.
 
  
 2. Tunc ergo interrogavi illos sanctos,
-quidnam esset hoc; qui responderunt: &laquo;hic positus est sanctus Moyses
+quidnam esset hoc; qui responderunt: «hic positus est sanctus Moyses
 ab angelis, quoniam, sicut scriptum est, sepulturam illius nullus hominum
 scit, quoniam certum est eum ab angelis fuisse sepultum. Nam memoria illius,
 ubi positus sit, in hodie non ostenditur; sicut enim nobis a maioribus,
 qui hic manserunt, ubi ostensum est, ita et nos vobis monstramus: qui et
-ipsi tamen maiores ita sibi traditum a maioribus suis esse dicebant&raquo;.
+ipsi tamen maiores ita sibi traditum a maioribus suis esse dicebant».
  
 
  
@@ -715,10 +715,10 @@ ipsi tamen maiores ita sibi traditum a maioribus suis esse dicebant&raquo;.
 et omnia, quae in singulis locis sanctis per ordinem consueveramus facere,
 etiam et hic facta sunt: et sic coepimus egredere de ecclesia. Tunc autem
 qui erant loci notores, id est presbyteri vel monachi sancti, dixerunt
-nobis: &laquo;si vultis videre loca, quae scripta sunt in libris Moysi,
+nobis: «si vultis videre loca, quae scripta sunt in libris Moysi,
 accedite foras [h]ostium ecclesiae et de summitate ipsa, ex parte tamen
 ut posuunt hinc parere, attendite et videte, et dicimus vobis singula,
-quae sunt loca haec, quae parent&raquo;.
+quae sunt loca haec, quae parent».
  
 
  
@@ -748,11 +748,11 @@ Loth, ostensus est nobis, qui locus etiam in scripturis legitur.
  
 7. Sed mihi credite, dominae venerabiles,
 quia columna ipsa iam non paret, locus autem ipse tantum ostenditur: columna
-autem ipsa dicitur mari mortuo fuisse cooperta. Certe locum &lt;cum> videremus,
+autem ipsa dicitur mari mortuo fuisse cooperta. Certe locum <cum> videremus,
 columnam nullam vidimus, et ideo fallere vos super hanc rem non possum.
 Nam episcopus loci ipsius, id est de Segor, dixit nobis, quoniam iam aliquot
 anni essent, a quo non pareret columna illa. Nam de Segor forsitan sexto
-miliario ipse locus &lt;est>, ubi stetit columna illa, quod nunc totum
+miliario ipse locus <est>, ubi stetit columna illa, quod nunc totum
 cooperit aqua.
  
 
@@ -773,9 +773,9 @@ ibi fixa habuissent: nam et signa ibi parebant castrorum.
  
 
  
-10. Sane &lt;de> illa parte montis,
+10. Sane <de> illa parte montis,
 quam dixi sinistra, quae erat super mare mortuum, ostensus est nobis mons
-praecisus valde, qui dictus est ante &laquo;Agri specula&raquo;. Hic est
+praecisus valde, qui dictus est ante «Agri specula». Hic est
 mons, in quo posuit Balac, filius Beor, Balaam divinum ad maledicendos
 filios Israhel et noluit Deus ita permittere, sicut scriptum est.
  
@@ -819,12 +819,12 @@ in ipso vico turbae aliquantae commanent.
  
 4. Ego autem cum viderem locum tam
 gratum, requisivi, quisnam locus esset ille tam amoenus. Tunc dictum est
-mihi: &laquo;haec est civitas regis Melchisedech, quae dicta est ante Salem,
+mihi: «haec est civitas regis Melchisedech, quae dicta est ante Salem,
 unde nunc corrupto sermone Sedima appellatur ipse vicus. Nam in isto colliculo,
 qui est medio vico positus, in summitatem ipsius fabricam quam vides ecclesia
 est, quae ecclesia nunc appellatur Graeco sermone +OPU+ Melchisedech. Nam
 hic est locus, ubi optulit Melchisedech hostias Deo puras, id est panes
-et vinum, sicut scriptum est eum fecisse&raquo;.
+et vinum, sicut scriptum est eum fecisse».
  
 
  
@@ -844,7 +844,7 @@ quantum postmodum cognovimus, vitae ipsius testimonium grande ferebant,
 nam hoc de ipso dicebant, dignus qui praesit in hoc loco, ubi sanctus Melchisedech
 advenientem sanctum Abraham hostias Deo puras primus optulit: cum ergo
 descendissemus, ut superius dixi, de ecclesia deorsum, ait nobis ipse sanctus
-presbyter: &laquo;ecce ista fundamenta in giro colliculo isto, quae videtis,
+presbyter: «ecce ista fundamenta in giro colliculo isto, quae videtis,
 hae sunt de palatio regis Melchisedech. Nam inde adhuc sic si quis subito
 iuxta sibi vult facere domum et fundamenta inde continget, aliquotiens
 et de argento et aeramento modica frustella ibi invenit.
@@ -854,16 +854,16 @@ et de argento et aeramento modica frustella ibi invenit.
 3. Nam ecce ista via, quam videtis
 transire inter fluvium Iordanem et vicum istum, haec est qua via regressus
 est sanctus Abraham de caede Codollagomor, regis gentium, revertens in
-Sodomis, qua ei occurrit sanctus Melchisedech, rex Salem&raquo;.
+Sodomis, qua ei occurrit sanctus Melchisedech, rex Salem».
  
 
  
 XV.1. Tunc ergo quia retinebam
 scriptum esse baptizasse sanctum Iohannem in Enon iuxta Salim, requisivi
-de eo, quam longe esset ipse locus. Tunc ait ille sanctus presbyter: &laquo;ecce
+de eo, quam longe esset ipse locus. Tunc ait ille sanctus presbyter: «ecce
 hic est in ducentis passibus. Nam si vis, ecce modo pedibus duco vos ibi.
 Nam haec aqua tam grandis et tam pura, quam videtis in isto vico, de ipso
-fonte venit&raquo;.
+fonte venit».
  
 
  
@@ -878,9 +878,9 @@ Iohannem baptistam.
 
  
 3. Tunc dixit nobis ipse sanctus
-presbyter: &laquo;in hodie hic hortus aliter non appellatur Graeco sermone
+presbyter: «in hodie hic hortus aliter non appellatur Graeco sermone
 nisi khpou tou agiou Iohanni, id est quod vos dicitis Latine hortus
-sancti Iohannis&raquo;. Nam et multi fratres sancti monachi de diversis
+sancti Iohannis». Nam et multi fratres sancti monachi de diversis
 locis venientes tendunt se, ut laventur in eo loco.
  
 
@@ -929,11 +929,11 @@ vidimus monasterium cuiusdam fratris nunc, id est monachi.
 3. Tunc ego, ut sum satis curiosa,
 requirere coepi, quae esset haec vallis, ubi sanctus monachus nunc monasterium
 sibi fecisset; non enim putabam hoc sine causa esse. Tunc dixerunt nobis
-sancti, qui nobiscum iter faciebant, id est loci notores: &laquo;haec est
+sancti, qui nobiscum iter faciebant, id est loci notores: «haec est
 vallis Corra, ubi sedit sanctus Helias Thesbites temporibus Achab regis,
 qua famis fuit, et iusso Dei corvus ei escam portabat, et de eo torrente
 aquam bibebat. Nam hic torrens, quem vides de ipsa valle percurrentem in
-Iordanem, hic est Corra &raquo;.
+Iordanem, hic est Corra ».
  
 
  
@@ -1024,7 +1024,7 @@ inde non longe erant fines Mesopotamiae.
  
 2. Itaque ergo proficiscens de Hierapolim
 in quintodecimo miliario in nomine Dei perveni ad fluvium Euphraten, de
-quo satis bene scriptum est esse &laquo;flumen magnum Euphraten&raquo;
+quo satis bene scriptum est esse «flumen magnum Euphraten»
 et ingens, et quasi terribilis est; ita enim decurrit habens impetum, sicut
 habet fluvius Rhodanus, nisi quod adhuc maior est Euphrates.
  
@@ -1069,10 +1069,10 @@ alios longius de civitate in secretioribus locis habentes monasteria.
  
 5. Et quoniam sanctus episcopus
 ipsius civitatis, vir vere religiosus et monachus et confessor, suscipiens
-me libenter ait mihi: &laquo;quoniam video te, filia, gratia religionis
+me libenter ait mihi: «quoniam video te, filia, gratia religionis
 tam magnum laborem tibi imposuisse, ut de extremis porro terris venires
 ad haec loca, itaque ergo, si libenter habes, quaecumque loca sunt hic
-grata ad videndum Christianis, ostendimus tibi&raquo;. Tunc ergo gratias
+grata ad videndum Christianis, ostendimus tibi». Tunc ergo gratias
 agens Deo primum et sic ipsum rogavi plurimum, ut dignaretur facere, quod
 dicebat.
  
@@ -1082,8 +1082,8 @@ dicebat.
 palatium Aggari regis et ibi ostendit mihi archiotypam ipsius ingens, simillimam,
 ut ipsi dicebant, marmoream, tanti nitoris ac si de margarita esset; in
 cuius Aggari vultu parebat de contra vere fuisse hunc virum satis sapientem
-et honoratum. Tunc ait mihi sanctus episcopus: &laquo;ecce rex Aggarus,
-qui antequam videret Dominum, credidit ei, quia esset vere filius Dei&raquo;.
+et honoratum. Tunc ait mihi sanctus episcopus: «ecce rex Aggarus,
+qui antequam videret Dominum, credidit ei, quia esset vere filius Dei».
 Nam erat et iuxta archiotypa similiter de tali marmore facta, quam dixit
 filii ipsius esse Magni, similiter et ipsa habens aliquid gratiae in vultu.
  
@@ -1098,7 +1098,7 @@ exit, quae est ac si fluvius ingens argenteus.
 
  
 8. Et tunc retulit mihi de ipsa
-aqua sic sanctus episcopus dicens: &laquo;quodam tempore, posteaquam scripserat
+aqua sic sanctus episcopus dicens: «quodam tempore, posteaquam scripserat
 Aggarus rex ad Dominum et Dominus rescripserat Aggaro per Ananiam cursorem,
 sicut scriptum est in ipsa epistola: transacto ergo aliquanto tempore superveniunt
 Persi et girant civitatem istam.
@@ -1107,8 +1107,8 @@ Persi et girant civitatem istam.
  
 9. Sed statim Aggarus epistolam
 Domini ferens ad portam cum omni exercitu suo publice oravit. Et post dixit:
-&laquo;Domine Iesu, tu promiseras nobis, ne aliquis [h]ostium ingrederetur
-civitatem istam, et ecce nunc Persae inpugnant nos&raquo;. Quod cum dixisset
+«Domine Iesu, tu promiseras nobis, ne aliquis [h]ostium ingrederetur
+civitatem istam, et ecce nunc Persae inpugnant nos». Quod cum dixisset
 tenens manibus levatis epistolam ipsam apertam rex, ad subito tantae tenebrae
 factae sunt, foras civitatem tamen ante oculos Persarum, cum iam prope
 plicarent civitati, ita ut usque tertium miliarium de civitate essent:
@@ -1147,12 +1147,12 @@ qualiscumque humor ibi apparuit usque in hodie.
 promiserat futurum, necesse fuit eos statim reverti ad sua, id est in Persida.
 Nam et postmodum quotienscumque voluerunt venire et expugnare hanc civitatem
 hostes, haec epistola prolata est et lecta est in porta, et statim nutu
-Dei expulsi sunt omnes hostes&raquo;.
+Dei expulsi sunt omnes hostes».
  
 
  
 14. Illud etiam retulit sanctus
-episcopus: &laquo;eo quod hii fontes ubi eruperunt, ante sic fuerit campus
+episcopus: «eo quod hii fontes ubi eruperunt, ante sic fuerit campus
 intra civitatem subiacens palatio Aggari. Quod palatium Aggari quasi in
 editiori loco positum erat, sicut et nunc paret, ut vides. Nam consuetudo
 talis erat in illo tempore, ut pabtia, quotiensque fabricabantur, semper
@@ -1163,13 +1163,13 @@ in editioribus locis fierent.
 15. Sed postmodum quam hii fontes
 in eo loco eruperunt, tunc ipse Aggarus filio suo Magno, id est isti, cuius
 archiotypa vides iuxta patre posita, hoc palatium fecit in eo loco, ita
-tamen, ut hii fontes intra palatium includerentur&raquo;.
+tamen, ut hii fontes intra palatium includerentur».
  
 
  
 16. Postea ergo quam haec omnia
-retulit sanctus episcopus, ait ad me: &laquo;eamus nunc ad portam, per
-quam ingressus est Ananias cursor cum illa epistola, quam dixeram&raquo;.
+retulit sanctus episcopus, ait ad me: «eamus nunc ad portam, per
+quam ingressus est Ananias cursor cum illa epistola, quam dixeram».
 Cum ergo venissemus ad portam ipsam, stans episcopus fecit orationem et
 legit nobis ibi ipsas epistolas et denuo benedicens nos facta est iterato
 oratio.
@@ -1177,10 +1177,10 @@ oratio.
 
  
 17. Illud etiam retulit nobis sanctus
-ipse dicens: &laquo;eo quod ex ea die, qua Ananias cursor per ipsam portam
+ipse dicens: «eo quod ex ea die, qua Ananias cursor per ipsam portam
 ingressus est cum epistolam Domini, usque in praesentem diem custodiatur,
 ne quis immundus, ne quis lugubris per ipsam portam transeat, sed nec corpus
-alicuius mortui eiciatur per ipsam portam&raquo;.
+alicuius mortui eiciatur per ipsam portam».
  
 
  
@@ -1206,8 +1206,8 @@ meae.
 XX. 1. Ac sic ergo facto ibi triduano
 necesse me fuit adhuc in ante accedere usque ad Charris, quia modo sic
 dicitur. Nam in scripturis sanctis dicta est Charra, ubi moratus est sanctus
-Abraham, sicut scriptum est in Genesi, dicente Domino ad Abraham: &laquo;exi
-de terra tua et de domo patris tui et vade in Charram&raquo; et reliqua.
+Abraham, sicut scriptum est in Genesi, dicente Domino ad Abraham: «exi
+de terra tua et de domo patris tui et vade in Charram» et reliqua.
  
 
  
@@ -1230,8 +1230,8 @@ nos episcopus egressi sumus foras.
  
 4. Item dignatus est nos ducere
 ad puteum illum, unde portabat aquam sancta Rebecca. Et ait nobis sanctus
-episcopus: &laquo;ecce puteus, unde potavit sancta Rebecca camelos pueri
-sancti Abrahae, id est Eleazari&raquo;; et singula ita nobis dignabatur
+episcopus: «ecce puteus, unde potavit sancta Rebecca camelos pueri
+sancti Abrahae, id est Eleazari»; et singula ita nobis dignabatur
 ostendere.
  
 
@@ -1240,7 +1240,7 @@ ostendere.
 civitatem, dominae sorores venerabiles, ubi fuit primitus domus Abrahae,
 nunc et martyrium ibi positum est, id est sancti cuiusdam monachi nomine
 Helpidi. Hoc autem nobis satis gratum evenit, ut pridie martyrium die ibi
-veniremus, id est sancti ipsius Helpidii, nono K&lt;al>. Maias, ad quam
+veniremus, id est sancti ipsius Helpidii, nono K<al>. Maias, ad quam
 diem necesse fuit undique et de omnibus Mesopotamiae finibus omnes monachos
 in Charra descendere, etiam et illos maiores, qui in solitudine sedebant,
 quos ascites vocant, per diem ipsum, qui ibi satis granditer attenditur,
@@ -1281,45 +1281,45 @@ et Bathuhelis.
 
  
 9. Et quoniam episcopus illius civitatis
-valde instructus est de scripturis, requisivi ab eo dicens: &laquo;rogo
-te, domine, ut dicas mihi, quod desidero audire.&raquo; et ille ait: &laquo;dic,
-filia, quod vis, et dicam tibi, si scio.&raquo; tunc ego dixi: &laquo;sanctum
+valde instructus est de scripturis, requisivi ab eo dicens: «rogo
+te, domine, ut dicas mihi, quod desidero audire.» et ille ait: «dic,
+filia, quod vis, et dicam tibi, si scio.» tunc ego dixi: «sanctum
 Abraham cum patre Thara et Sarrah uxore et Loth fratris filio scio per
 scripturas in eo loco venisse; Nachor autem vel Bathuhelem non legi, quando
 in isto loco transierint, nisi quod hoc solum scio, quia postmodum puer
 Abrahae, ut peteret Rebeccam, filiam Bathuhelis, filii Nachor, filio domini
-sui Abrahae, id est Isaac, in Charra venerit&raquo;.
+sui Abrahae, id est Isaac, in Charra venerit».
  
 
  
 10. Tunc ait mihi sanctus episcopus:
-&laquo;vere, filia, scriptum est, sicut dicis, in Genesi sanctum Abraham
+«vere, filia, scriptum est, sicut dicis, in Genesi sanctum Abraham
 hic transisse cum suis; Nachor autem cum suis vel Bathuhelem non dicit
 scriptura canonis, quo tempore transierint. Sed manifeste postmodum hic
 transierunt et ipsi; denique et memoriae illorum hic sunt forte ad mille
 passus de civitate. Nam vere scriptura hoc testatur, quoniam ad accipiendam
 sanctam Rebeccam huc venerit puer sancti Abrahae et denuo sanctus Iacob
-hic venerit, quando accepit filias Laban Syri&raquo;.
+hic venerit, quando accepit filias Laban Syri».
  
 
  
 11. Tunc ego requisivi, ubi esset
 puteus ille, ubi sanctus Iacob potasset pecora, quae pascebat Rachel, filia
-Laban Syri. Et ait mihi episcopus: &laquo;in sexto miliario est hinc locus
+Laban Syri. Et ait mihi episcopus: «in sexto miliario est hinc locus
 ipse iuxta vicum, qui fuit tunc villa Laban Syri, sed cum volueris ire,
 imus tecum et ostendimus tibi, nam et multi monachi ibi sunt valde sancti
-et ascites et sancta ecclesia est ibi&raquo;.
+et ascites et sancta ecclesia est ibi».
  
 
  
 12. Illud etiam requisivi a sancto
 episcopo, ubinam esset locus ille Chaldaeorum, ubi habitaverant primo Thara
-cum suis. Tunc ait mihi ipse sanctus episcopus: &laquo;locus ille, filia,
+cum suis. Tunc ait mihi ipse sanctus episcopus: «locus ille, filia,
 quem requiris, decima mansione est hinc intus in Persida. Nam hinc usque
 ad Nisibin mansiones sunt quinque, et inde usque ad Hur, quae fuit civitas
 Chaldaeorum, aliae mansiones sunt quinque; sed modo ibi accessus Romanorum
 non est, totum enim illud Persae tenent. Haec autem pars specialiter orientalis
-appellatur, quae est in confinium Romanorum et Persarum vel Chaldaeorum.&raquo;
+appellatur, quae est in confinium Romanorum et Persarum vel Chaldaeorum.»
  
 
  

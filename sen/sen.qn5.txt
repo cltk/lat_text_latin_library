@@ -123,7 +123,7 @@ spatium maius desiderat, uentus existit.
  
 [5,1] Quid ergo? Hanc solam esse causam uenti existimo, 
 aquarum terrarumque euaporationes; ex his grauitatem aeris 
-fieri, deinde solui &lt;solus&gt; impetu, cum quae densa steterant, ut 
+fieri, deinde solui <solus> impetu, cum quae densa steterant, ut 
 est necesse, extenuata nituntur in ampliorem locum? Ego uero 
 et hanc iudico. Ceterum illa est longe ualentior ueriorque, habere 
 aera naturalem uim mouendi se nec aliunde concipere sed 
@@ -210,7 +210,7 @@ solis remanet diurnus calor et magna noctis parte perdurat;
 qui euocat exeuntia ac uehementius trahit quicquid ex his 
 sponte reddi solet, deinde non tantum habet uirium ut quod 
 euocauit absumat: ob hoc diutius corpuscula emanare solita et 
-efflari &lt;e&gt; terra, &lt;aera&gt; ex se atque umorem mittunt.
+efflari <e> terra, <aera> ex se atque umorem mittunt.
  
 
  
@@ -375,7 +375,7 @@ est, inuicem spiritus leniter fluens aer.
 [14,1] Repetam nunc quod in primo dixeram: edi e specu 
 uentos recessuque interiore terrarum. Non tota solido contextu 
 terra in imum usque fundatur, sed multis partibus caua et caecis 
-suspensa latebris, &lt;aliubi abundat aquas,&gt; aliubi habet inania 
+suspensa latebris, <aliubi abundat aquas,> aliubi habet inania 
 sine umore.
  
 
@@ -431,7 +431,7 @@ spe ducti montes ceciderunt et supra lucrum sub ruina steterunt.
  
 
  
-[15,3] ante Philippum Macedonum&lt;que&gt; reges fuere qui 
+[15,3] ante Philippum Macedonum<que> reges fuere qui 
 pecuniam in altissimis usque latebris sequerentur et recto spiritu 
 liberoque in illos se demitterent specus, in quos nullum noctium 
 perueniret dierumque discrimen. A tergo lucem relinquere 

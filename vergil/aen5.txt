@@ -231,7 +231,7 @@ delegi comites; nunc illas promite uiris,
 nunc animos, quibus in Gaetulis Syrtibus usi 
 Ionioque mari Maleaeque sequacibus undis. 
 non iam prima peto Mnestheus neque uincere certo 
-(quamquam o!&#151;sed superent quibus hoc, Neptune, dedisti);    195 
+(quamquam o!—sed superent quibus hoc, Neptune, dedisti);    195 
 extremos pudeat rediisse: hoc uincite, ciues, 
 et prohibete nefas.' olli certamine summo 
 procumbunt: uastis tremit ictibus aerea puppis 
@@ -742,7 +742,7 @@ castra, nec exanimes possunt retinere magistri.
 'quis furor iste nouus? quo nunc, quo tenditis' inquit    670 
 'heu miserae ciues? non hostem inimicaque castra 
 Argiuum, uestras spes uritis. en, ego uester 
-Ascanius!'&#151;galeam ante pedes proiecit inanem, 
+Ascanius!'—galeam ante pedes proiecit inanem, 
 qua ludo indutus belli simulacra ciebat. 
 accelerat simul Aeneas, simul agmina Teucrum.    675 
 ast illae diuersa metu per litora passim 
@@ -780,7 +780,7 @@ nunc huc ingentis, nunc illuc pectore curas
 mutabat uersans, Siculisne resideret aruis 
 oblitus fatorum, Italasne capesseret oras. 
 tum senior Nautes, unum Tritonia Pallas 
-quem docuit multaque insignem reddidit arte&#151;    705 
+quem docuit multaque insignem reddidit arte—    705 
 haec responsa dabat, uel quae portenderet ira 
 magna deum uel quae fatorum posceret ordo; 
 isque his Aenean solatus uocibus infit: 

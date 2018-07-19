@@ -63,7 +63,7 @@ Claudianus Sidonio papae salutem.
  
 
  
-4. nulla igitur cuiusquam praepedimenti occasio praetendi vel falso potest, cur egomet specialis atque intumus &lt;tuus&gt; nihil ab speciali meo fructi feram, a quo ignoti quoque multum capiant plurimi. sed, uti ego autumo, iuxta formam euangelici largitoris quod non das amico esurienti dabis improbo pulsatori. porro si etiamnum solito obdurueris, faxim egomet quod tete paenitebit, quoniam, si peccabis ultra reticendo, ego protinus ulciscar scribendo. porro enim ambiguo caret tam te puniendum scripto meo, quam punior egomet silentio tuo. vale.
+4. nulla igitur cuiusquam praepedimenti occasio praetendi vel falso potest, cur egomet specialis atque intumus <tuus> nihil ab speciali meo fructi feram, a quo ignoti quoque multum capiant plurimi. sed, uti ego autumo, iuxta formam euangelici largitoris quod non das amico esurienti dabis improbo pulsatori. porro si etiamnum solito obdurueris, faxim egomet quod tete paenitebit, quoniam, si peccabis ultra reticendo, ego protinus ulciscar scribendo. porro enim ambiguo caret tam te puniendum scripto meo, quam punior egomet silentio tuo. vale.
  
 
  
@@ -171,7 +171,7 @@ Sidonius Apollinari suo salutem.
  
 
  
-2. 'quorsum istaec?' ais. fateor me nimis veritum, ne tempore timoris publici non timeres et solidae domus ad hoc aevi inconcussa securitas ad tempestuosos hostium incursus pro intempestiva devotione trepidaret inchoaretque apud animorum matronalium teneritudinem sollemnitas expetita &lt;valescere, itineris difficultas despecta&gt; vilescere: quamquam in pectoribus earundem ita sibi sit genuina sanctitas peculiare metata domicilium, ut, si quid secus viantibus accidisset, laetaturae fuerint quoddam se pro martyre tolerasse martyrium. ast ego, cui maiorem diffidentiam minor innocentia facit, super hoc ambiguo sententiae cautiori libentius adhaeresco nec difficulter applicor etiam tuta metuentibus.
+2. 'quorsum istaec?' ais. fateor me nimis veritum, ne tempore timoris publici non timeres et solidae domus ad hoc aevi inconcussa securitas ad tempestuosos hostium incursus pro intempestiva devotione trepidaret inchoaretque apud animorum matronalium teneritudinem sollemnitas expetita <valescere, itineris difficultas despecta> vilescere: quamquam in pectoribus earundem ita sibi sit genuina sanctitas peculiare metata domicilium, ut, si quid secus viantibus accidisset, laetaturae fuerint quoddam se pro martyre tolerasse martyrium. ast ego, cui maiorem diffidentiam minor innocentia facit, super hoc ambiguo sententiae cautiori libentius adhaeresco nec difficulter applicor etiam tuta metuentibus.
  
 
  
@@ -316,7 +316,7 @@ Sidonius Petreio suo salutem.
  
 
  
-2. deus bone, quid erat illud, quotiens ad eum [sola] consultationis gratia conveniebamus! quam ille omnibus statum totum non dubitans, non fastidiens aperiebat, voluptuosissimum reputans, si forte oborta quarumpiam quaestionum insolubilitate labyrinthica scientiae suae thesauri eventilarentur. iam si frequentes consederamus, officium audiendi omnibus &lt;iniungebat&gt;, uni solum quem forsitan elegissemus deputans ius loquendi, viritim vicissimque, non tumultuatim nec sine schematis cuiuspiam gestu artificioso doctrinae suae opes erogaturus.
+2. deus bone, quid erat illud, quotiens ad eum [sola] consultationis gratia conveniebamus! quam ille omnibus statum totum non dubitans, non fastidiens aperiebat, voluptuosissimum reputans, si forte oborta quarumpiam quaestionum insolubilitate labyrinthica scientiae suae thesauri eventilarentur. iam si frequentes consederamus, officium audiendi omnibus <iniungebat>, uni solum quem forsitan elegissemus deputans ius loquendi, viritim vicissimque, non tumultuatim nec sine schematis cuiuspiam gestu artificioso doctrinae suae opes erogaturus.
  
 
  
@@ -482,7 +482,7 @@ Sidonius Ruricio suo salutem.
  
 
  
-2. ego vero quicquid impositum est fraudis mihi, utpote absenti, libens audio principalique pro munere amplector, quod quodammodo damnum indemne toleravi. neque enim quod tuo accessit usui, decessit hoc nostrae proprietati aut ad incrementa scientiae vestrae per detrimenta venistis alienae. quin potius &lt;is&gt; ipse iure abhinc uberi praeconio non carebit, qui magis igneo ingenio naturam decenter ignis imitatus es, de quo si quid demere velis, remanet totus totusque transfertur. unde iam parce trepidare deque moribus amici plusculum recto secus credere. namque in hoc facto nos magis vulnus polluit culpae, si feriat ictus invidiae. vale.
+2. ego vero quicquid impositum est fraudis mihi, utpote absenti, libens audio principalique pro munere amplector, quod quodammodo damnum indemne toleravi. neque enim quod tuo accessit usui, decessit hoc nostrae proprietati aut ad incrementa scientiae vestrae per detrimenta venistis alienae. quin potius <is> ipse iure abhinc uberi praeconio non carebit, qui magis igneo ingenio naturam decenter ignis imitatus es, de quo si quid demere velis, remanet totus totusque transfertur. unde iam parce trepidare deque moribus amici plusculum recto secus credere. namque in hoc facto nos magis vulnus polluit culpae, si feriat ictus invidiae. vale.
  
 
  

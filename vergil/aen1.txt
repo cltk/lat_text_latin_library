@@ -46,7 +46,7 @@ audierat, Tyrias olim quae verteret arces;    20
 hinc populum late regem belloque superbum 
 venturum excidio Libyae: sic volvere Parcas. 
 Id metuens, veterisque memor Saturnia belli, 
-prima quod ad Troiam pro caris gesserat Argis&#151; 
+prima quod ad Troiam pro caris gesserat Argis— 
 necdum etiam causae irarum saevique dolores    25 
 exciderant animo: manet alta mente repostum 
 iudicium Paridis spretaeque iniuria formae, 
@@ -151,8 +151,8 @@ Franguntur remi; tum prora avertit, et undis
 dat latus; insequitur cumulo praeruptus aquae mons.    105 
 Hi summo in fluctu pendent; his unda dehiscens 
 terram inter fluctus aperit; furit aestus harenis. 
-Tris Notus abreptas in saxa latentia torquet&#151; 
-saxa vocant Itali mediis quae in fluctibus aras&#151; 
+Tris Notus abreptas in saxa latentia torquet— 
+saxa vocant Itali mediis quae in fluctibus aras— 
 dorsum immane mari summo; tris Eurus ab alto    110 
 in brevia et Syrtis urget, miserabile visu, 
 inliditque vadis atque aggere cingit harenae. 
@@ -184,7 +184,7 @@ Eurum ad se Zephyrumque vocat, dehinc talia fatur:
 'Tantane vos generis tenuit fiducia vestri? 
 Iam caelum terramque meo sine numine, venti, 
 miscere, et tantas audetis tollere moles? 
-Quos ego&#151;sed motos praestat componere fluctus.    135 
+Quos ego—sed motos praestat componere fluctus.    135 
 Post mihi non simili poena commissa luetis. 
 Maturate fugam, regique haec dicite vestro: 
 non illi imperium pelagi saevumque tridentem, 
@@ -202,10 +202,10 @@ et vastas aperit syrtis, et temperat aequor,
 atque rotis summas levibus perlabitur undas. 
 Ac veluti magno in populo cum saepe coorta est 
 seditio, saevitque animis ignobile volgus, 
-iamque faces et saxa volant&#151;furor arma ministrat;    150 
+iamque faces et saxa volant—furor arma ministrat;    150 
 tum, pietate gravem ac meritis si forte virum quem 
 conspexere, silent, arrectisque auribus adstant; 
-ille regit dictis animos, et pectora mulcet,&#151; 
+ille regit dictis animos, et pectora mulcet,— 
 sic cunctus pelagi cecidit fragor, aequora postquam 
 prospiciens genitor caeloque invectus aperto    155 
 flectit equos, curruque volans dat lora secundo.
@@ -259,7 +259,7 @@ dividit, et dictis maerentia pectora mulcet:
  
 
  
-'O socii&#151;neque enim ignari sumus ante malorum&#151; 
+'O socii—neque enim ignari sumus ante malorum— 
 O passi graviora, dabit deus his quoque finem. 
 Vos et Scyllaeam rabiem penitusque sonantis    200 
 accestis scopulos, vos et Cyclopea saxa 
@@ -338,7 +338,7 @@ contundet, moresque viris et moenia ponet,
 tertia dum Latio regnantem viderit aestas,    265 
 ternaque transierint Rutulis hiberna subactis. 
 At puer Ascanius, cui nunc cognomen Iulo 
-additur,&#151;Ilus erat, dum res stetit Ilia regno,&#151; 
+additur,—Ilus erat, dum res stetit Ilia regno,— 
 triginta magnos volvendis mensibus orbis 
 imperio explebit, regnumque ab sede Lavini    270 
 transferet, et longam multa vi muniet Albam. 
@@ -357,7 +357,7 @@ sic placitum. Veniet lustris labentibus aetas,
 cum domus Assaraci Phthiam clarasque Mycenas 
 servitio premet, ac victis dominabitur Argis.    285 
 Nascetur pulchra Troianus origine Caesar, 
-imperium oceano, famam qui terminet astris,&#151; 
+imperium oceano, famam qui terminet astris,— 
 Iulius, a magno demissum nomen Iulo. 
 Hunc tu olim caelo, spoliis Orientis onustum, 
 accipies secura; vocabitur hic quoque votis.    290 
@@ -408,10 +408,10 @@ aut spumantis apri cursum clamore prementem.'
 
  
 Sic Venus; et Veneris contra sic filius orsus:    325 
-'Nulla tuarum audita mihi neque visa sororum&#151; 
+'Nulla tuarum audita mihi neque visa sororum— 
 O quam te memorem, virgo? Namque haud tibi voltus 
-mortalis, nec vox hominem sonat: O, dea certe&#151; 
-an Phoebi soror? an nympharum sanguinis una?&#151; 
+mortalis, nec vox hominem sonat: O, dea certe— 
+an Phoebi soror? an nympharum sanguinis una?— 
 sis felix, nostrumque leves, quaecumque, laborem,    330 
 et, quo sub caelo tandem, quibus orbis in oris 
 iactemur, doceas. Ignari hominumque locorumque 

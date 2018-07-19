@@ -18,7 +18,7 @@ Nulla de hinc facies quam Gratia novit, imago
  Nulla venustatis, nulla leporis erat. 
 Cuncta vetusta situ steterunt cooperta recenti, 
  Obducta est scissae barbara palla togae; 
-Mimi nil veriti verba invert&ecirc;re Maronis, 
+Mimi nil veriti verba invertêre Maronis, 
  Urbanae scabiem Tityrus unxit ovis: 
 Circumstant miserae turpi pallore puellae; 
  Improba quadriviis Lesbia plorat anus. 
@@ -466,7 +466,7 @@ Et ire tantum per meas iussit manus.
 
  QUIS TURPIOR 
 Rege Borussorum quis turpior? Ecce Borussos 
- Ipsos! perfidiam non renu&ecirc;re pati. 
+ Ipsos! perfidiam non renuêre pati. 
 Vis alios digito monstrem tibi? Respice Gallos, 
  Omnia quos pariter, praeter honesta, iuvant. 
 Ecce peregrino qui succubuere tyranno 

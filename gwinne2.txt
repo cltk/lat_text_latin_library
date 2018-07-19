@@ -12,7 +12,7 @@ parum est tyrannos vix Iove minores mori,  635
 nisi puniantur? adeo puniri parum est 
 nisi sempiternus Sisypho immineat lapis? 
 nisi devoretur indies crescens iecur? 
-nisi poena &THORN;at, qui velit poenam pati? 
+nisi poena Þat, qui velit poenam pati? 
 nisi cui placerent inferi, superi accidant?  640 
 nempe inter umbras turba crudelis patrum, 
 equitumque, flagiis terga dilaniat mea, 
@@ -38,7 +38,7 @@ verum Neronem deiicit: nec dum sat est:
 epulae parantur Atrei mensae pares. 
 redit ad venena natus in caedem Nero. 
 sed cui parantur? o manum retine impiam, 
-vene&THORN;ce. redeo Caesar; arcebo nefas:  665 
+veneÞce. redeo Caesar; arcebo nefas:  665 
 in ora vertam: fata sed verti negant: 
 o dira fata: nec scelus fati est: ego, 
 ego te peremi, nate, qui fratrem dedi. 
@@ -46,7 +46,7 @@ fuge, fuge, nate, scelere inundantem domum.
 vel per venena sequere, qua praeiit pater.  670 
 te te innocentem melior expectat locus. 
 me lucis odium Styga revisendam monet. 
-male&THORN;cus abeo iam pater, coniux, socer: 
+maleÞcus abeo iam pater, coniux, socer: 
 mala passus abeo iam socer, coniux, pater. 
  
  
@@ -129,7 +129,7 @@ unco trahamus, divus ubi fungos edat,
 cibos deorum: funus Augustum apparo. 
 nunc quia deorum gratia, voto meo, 
 virtute matris, militum assensu omnium,  730 
-&THORN;lius, et haeres Claudii, imperium gero, 
+Þlius, et haeres Claudii, imperium gero, 
 authoritatem postulo vestram, patres, 
 summam, auspicatam, liberam, unanimem, gravem. 
 unam esse lunam, luceant stellae licet, 
@@ -166,7 +166,7 @@ Italia lectos consules tota audeat,
 provinciaeque pareant: illi patres  765 
 vocent: gerenda bella mandantur mihi. 
 pace moderabor milites, bello instruam. 
-sic Caesar astrum, sic &THORN;t Augustus deus. 
+sic Caesar astrum, sic Þt Augustus deus. 
  
 L. ANTIST. o nos sub isto principe beatos patres. 
 perpetua deus haec servet Aeneadis bona.  770 
@@ -184,7 +184,7 @@ L. ANTIST. iurandum in acta Caesarisnostis, patres.  775
 NERO collega, noli vel patris patriae mihi 
 induere nomen, quod mihi iuventus neget: 
 vel tute in acta nostra iurare: haud decet 
-esse bene&THORN;ciis imparem, of&THORN;ciis parem. 
+esse beneÞciis imparem, ofÞciis parem. 
 tu, Seneca, iuris verba iurandi doce.  780 
  
  
@@ -261,8 +261,8 @@ AGRIP. mihi me relinque, Caesar. ubi visum sequar.
  
 GRIP. discessit? abiit? itane? discessitNero? 
 abiit Domitius, vix prius matrem intuens, 
-vix allocutus? &igrave;alius Armenios erit 
-locus audiendi?&icirc; scilicet, ne sit mihi  820 
+vix allocutus? ìalius Armenios erit 
+locus audiendi?î scilicet, ne sit mihi  820 
 locus in senatu: scilicet, per quam tibi 
 locus in senatu, summus in terris locus. 
 ingrate Domiti, merita sic pensas mea? 

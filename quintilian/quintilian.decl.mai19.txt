@@ -45,7 +45,7 @@ Possum iam, mater infelix, coram liberis ac parentibus, possum audientibus diis 
  
 
  
-[5] Malae tractationis accusat. adeone, uxor, tibi parum videor dedisse poenarum post parricidium, ut labores, ne lucrifaciat pater, quod occidit filium suum? non pudet ergo, si&lt;c&gt; irasceris parricidae? quid tibi cum lege, quam propter alios minores accepistis adfectus? querelas habet ista, non gemitus, et matre seposita solam conplorat uxorem.
+[5] Malae tractationis accusat. adeone, uxor, tibi parum videor dedisse poenarum post parricidium, ut labores, ne lucrifaciat pater, quod occidit filium suum? non pudet ergo, si<c> irasceris parricidae? quid tibi cum lege, quam propter alios minores accepistis adfectus? querelas habet ista, non gemitus, et matre seposita solam conplorat uxorem.
  
 
  
@@ -53,7 +53,7 @@ Rursus ad populum vocas miserum pudorem, materiam novi rumoris accendis; perdidi
  
 
  
-Novum, iudices, uxoris in marito crimen audite: silentium est, de quo queritur. solebat indignatio vestra convicia nostra ferre non posse, et matronalis indignatio dicere videbatur: 'non parcis erga me, marite, verbis, nullam habet nostri tuus sermo reverentiam; facile prorumpis in opprobria, facile quodlibet obicis, exclamas, et, dum nimium libertati vocis indulges, potest populus aliquem de me facere rumorem.' tu, mulier, obicis mihi rem, quae nulli umquam crimini fuit, solam in nostris moribus innocentiam, voce&lt;m&gt; repressam [taciturnitas]. vide, cur manus, cur verba peccare videantur: illis infamamus, his torquemus, occidimus. vis scire, quam non possis queri de silentio meo? felicissima fueras, si idem fecissemus omnes.
+Novum, iudices, uxoris in marito crimen audite: silentium est, de quo queritur. solebat indignatio vestra convicia nostra ferre non posse, et matronalis indignatio dicere videbatur: 'non parcis erga me, marite, verbis, nullam habet nostri tuus sermo reverentiam; facile prorumpis in opprobria, facile quodlibet obicis, exclamas, et, dum nimium libertati vocis indulges, potest populus aliquem de me facere rumorem.' tu, mulier, obicis mihi rem, quae nulli umquam crimini fuit, solam in nostris moribus innocentiam, voce<m> repressam [taciturnitas]. vide, cur manus, cur verba peccare videantur: illis infamamus, his torquemus, occidimus. vis scire, quam non possis queri de silentio meo? felicissima fueras, si idem fecissemus omnes.
  
 
  
@@ -61,7 +61,7 @@ Finge me paulisper sepositis silentii causis hoc tantum respondere: non prodo se
  
 
  
-Vides, mulier, quibus in&lt;ter&gt;pretationibus praestes tuum dolorem? diceris ideo me interrogare, quia scias omnia me potius pati malle quam loqui. quis enim in hac civitate non novit taciturnitatis meae rigorem, quis ignorat, qua cuncta soleam ferre patientia? ne occisurus quidem suspiria gemitusque praemisi, nihil feci, unde erupturum quandoque per orbitatem patris animum aut tu praescio timore sentires aut ipse periturus. hanc nunc me iactare constantiam putas, quod nihil in publico, nihil in ullo mihi permisi proclamare conventu? ego vero non sum questus de iuvene nec tibi, nec captavi, ut illum mecum et mater odisset. frustra te putas extorquere accusatione posse, quod mihi non ipsae calamitates, non dolor, non meditatio orbitatis expressit. Uras licet, durabo, perferam. passus sum iam, quod erat difficilius: occidi.
+Vides, mulier, quibus in<ter>pretationibus praestes tuum dolorem? diceris ideo me interrogare, quia scias omnia me potius pati malle quam loqui. quis enim in hac civitate non novit taciturnitatis meae rigorem, quis ignorat, qua cuncta soleam ferre patientia? ne occisurus quidem suspiria gemitusque praemisi, nihil feci, unde erupturum quandoque per orbitatem patris animum aut tu praescio timore sentires aut ipse periturus. hanc nunc me iactare constantiam putas, quod nihil in publico, nihil in ullo mihi permisi proclamare conventu? ego vero non sum questus de iuvene nec tibi, nec captavi, ut illum mecum et mater odisset. frustra te putas extorquere accusatione posse, quod mihi non ipsae calamitates, non dolor, non meditatio orbitatis expressit. Uras licet, durabo, perferam. passus sum iam, quod erat difficilius: occidi.
  
 
  
@@ -81,7 +81,7 @@ Filium igitur totius civitatis existimatione damnatum, quem adhuc vivere miraban
  
 
  
-Non est igitur, mulier, quod mihi facias duplicatae questionis invidiam, id est, quod torsi et occidi. sola est huius necessitatis ratio de morte. illud est parricidium, filium torquere victurum. putas iuvenem vivere potuisse, cui iam non poterat nisi morte succurri? quem contra ma&lt;li&gt;gnos sermones adserere coeperam, non reddidi rursus infamiae, neque in oculos et ora vulgi de secreto patris emisi. providentia[m] mea[m] tibi quoque, mater, ne in hunc interrogetur, eripui. ille vero non fuit post tormenta laturus vitae pudorem, ut interrogaretur a singulis, ut negaret. verum, mulier, adfectibus tuis renuntiandum est: ad totius domus nostrae pertinere innocentiam credidi, ne se ipse potius occideret.
+Non est igitur, mulier, quod mihi facias duplicatae questionis invidiam, id est, quod torsi et occidi. sola est huius necessitatis ratio de morte. illud est parricidium, filium torquere victurum. putas iuvenem vivere potuisse, cui iam non poterat nisi morte succurri? quem contra ma<li>gnos sermones adserere coeperam, non reddidi rursus infamiae, neque in oculos et ora vulgi de secreto patris emisi. providentia[m] mea[m] tibi quoque, mater, ne in hunc interrogetur, eripui. ille vero non fuit post tormenta laturus vitae pudorem, ut interrogaretur a singulis, ut negaret. verum, mulier, adfectibus tuis renuntiandum est: ad totius domus nostrae pertinere innocentiam credidi, ne se ipse potius occideret.
  
 
  
@@ -97,7 +97,7 @@ Perseveras, cogis, instas? invicem te, mulier, interrogo, cur, si tanto opere vo
  
 
  
-Instas tamen et miseri senis ora diducis? puta me hoc solum dicere: ex maximi facinoris colluctatione veniens, quid audierim, nondum scio; totus adhuc sum in parricidio meo, et post mortem unici omnia, quibus laceratus, occisus est, in animum meum tormenta redierunt. est quidem difficile, ut aliquem pati pudorem parricida videatur, verumtamen stupore&lt;m&gt;, amentia&lt;m&gt;; et in silentium orbitate defeci: ablata est mihi omnium verborum fides, omnis sermonis auctoritas, nec habet causam loquendi, cui non potest credi. [12] desine, mulier, interrogare; filium, quem occidit pater, nec absolvere nec accusare iam debet.
+Instas tamen et miseri senis ora diducis? puta me hoc solum dicere: ex maximi facinoris colluctatione veniens, quid audierim, nondum scio; totus adhuc sum in parricidio meo, et post mortem unici omnia, quibus laceratus, occisus est, in animum meum tormenta redierunt. est quidem difficile, ut aliquem pati pudorem parricida videatur, verumtamen stupore<m>, amentia<m>; et in silentium orbitate defeci: ablata est mihi omnium verborum fides, omnis sermonis auctoritas, nec habet causam loquendi, cui non potest credi. [12] desine, mulier, interrogare; filium, quem occidit pater, nec absolvere nec accusare iam debet.
  
 
  
@@ -105,7 +105,7 @@ Instas tamen et miseri senis ora diducis? puta me hoc solum dicere: ex maximi fa
  
 
  
-Accipe, mulier, brevem veramque rationem, cur in quaestione iuvenis occisus est: torquebam nec interrogabam. si qua ad aures tuas ab illa quamvis remota domus parte perlata vox est, meus gemitus fuit, meorum viscerum dolor. quaeris, cur nihil dixerit? quia non habuit. quod scire vellem, quod audire deberem. nihil aliud quaestio illa captavit quam silentium, quod praestare vita non poterat. quisquis in tormentis occiditur, ideo tortus est, ut occideretur. an tu quaestionem illam fuisse credis, qualis vernilibus corporibus adhibetur? ideo enim eculeos movebam artifex senex, ten&lt;d&gt;ebam fidiculas ratione saevitiae, ut leviter sedibus suis remota compago per singulos artus membra laxaret. consumptus est spiritus silentio sui, et verbera ignesque animum pariter vocemque cluserunt. videbatur mihi premere gemitus, tenere suspiria, et sic nihil dixit, tamquam torqueretur ab homine, qui sciret. [13] miraris hanc in filio contumaciam, in iuvene patientiam? patri torquenti non potest aliter responderi, quam ut mori malit quam confiteri.
+Accipe, mulier, brevem veramque rationem, cur in quaestione iuvenis occisus est: torquebam nec interrogabam. si qua ad aures tuas ab illa quamvis remota domus parte perlata vox est, meus gemitus fuit, meorum viscerum dolor. quaeris, cur nihil dixerit? quia non habuit. quod scire vellem, quod audire deberem. nihil aliud quaestio illa captavit quam silentium, quod praestare vita non poterat. quisquis in tormentis occiditur, ideo tortus est, ut occideretur. an tu quaestionem illam fuisse credis, qualis vernilibus corporibus adhibetur? ideo enim eculeos movebam artifex senex, ten<d>ebam fidiculas ratione saevitiae, ut leviter sedibus suis remota compago per singulos artus membra laxaret. consumptus est spiritus silentio sui, et verbera ignesque animum pariter vocemque cluserunt. videbatur mihi premere gemitus, tenere suspiria, et sic nihil dixit, tamquam torqueretur ab homine, qui sciret. [13] miraris hanc in filio contumaciam, in iuvene patientiam? patri torquenti non potest aliter responderi, quam ut mori malit quam confiteri.
  
 
  
@@ -121,7 +121,7 @@ Finge iuvenem dixisse nescioquid; ego audire nihil potui. non enim potestatis al
  
 
  
-'In meam,' inquit, 'infamiam taces.' ita nunc primum laboras, misera, de fama, et post unici mortem pertinere ad te coepit, quid loquantur homines? scilicet filius inpensus est, ut erubesceres, ut male audires. adeone hoc captanti non erat satis rem totam commisisse rumori? [14] ego vero me famae tuae, mulier, opposui, et inter matrem filiumque medius parricidium feci, unicum occidi, ne quid aliud loquerentur homines. alioquin si hoc capto, quod putas, quousque taceo, in quod tempus differo illam, quam me putas premere, vocem? ecce reatus, iudicium, pronunti&lt;ati&gt;o: ego tamen scire me nego. egregiam rationem malignitatis: locuturus adversus uxorem feci, ne mihi crederetur!
+'In meam,' inquit, 'infamiam taces.' ita nunc primum laboras, misera, de fama, et post unici mortem pertinere ad te coepit, quid loquantur homines? scilicet filius inpensus est, ut erubesceres, ut male audires. adeone hoc captanti non erat satis rem totam commisisse rumori? [14] ego vero me famae tuae, mulier, opposui, et inter matrem filiumque medius parricidium feci, unicum occidi, ne quid aliud loquerentur homines. alioquin si hoc capto, quod putas, quousque taceo, in quod tempus differo illam, quam me putas premere, vocem? ecce reatus, iudicium, pronunti<ati>o: ego tamen scire me nego. egregiam rationem malignitatis: locuturus adversus uxorem feci, ne mihi crederetur!
  
 
  

@@ -50,7 +50,7 @@ oneratum
  depretiantibus carnem paulatim ad alterius divinitatis temperant 
  sensum ex ipsa spei concussione et demutatione. [10] Deiectus enim unusquisque vel motus de gradu eius spei quam susceperat apud creatorem, facile iam declinatur ad alterius spei auctorem etiam ultro suspicandum: per diversitatem enim promissionum diversitas insinuatur deorum.
 Sic multos inretitos videmus, dum 
-ante de resurrectione carnis eliduntur quam de unione divinitatis elidunt. [11] Igitur quantum ad haereticos demonstravimus quo cuneo &lt;oc&gt;currendum sit a nobis.
+ante de resurrectione carnis eliduntur quam de unione divinitatis elidunt. [11] Igitur quantum ad haereticos demonstravimus quo cuneo <oc>currendum sit a nobis.
 Et occursum est iam suo quoque titulo: de deo quidem unico et Christo eius adversus Marcionem: de carne vero domini adversus quattuor haereses ad hanc maxime
 quaestionem 
  praestruendam: uti nunc de sola carnis resurrectione ita et digerendum sit tanquam penes nos quoque incerta, id est penes creatorem----nam et multi rudes, et plerique sua fide dubii, et simplices plures, quos instrui dirigi muniri oportebit----quia ex hoc latere unio divinitatis defenditur: sicut enim negata carnis
@@ -91,7 +91,7 @@ resurrectionem confiteri quam tu ab illo diffiteri: quia si et a
 
  
  IV.  [1] Itaque haeretici inde statim incipiunt et inde praestruunt, dehinc et interstruunt, unde sciunt facile capi mentes de communione favorabili sensuum.
- [2] An aliud prius vel magis audias &lt;tam&gt; ab haeretico quam ab ethnico, et non protenus et non ubique
+ [2] An aliud prius vel magis audias <tam> ab haeretico quam ab ethnico, et non protenus et non ubique
 convicium 
  carnis, in originem in materiam in casum, in omnem exitum eius, immundae a primordio ex faecibus terrae, immundioris deinceps ex seminis sui limo, frivolae infirmae criminosae molestae onerosae, et post totum ignobilitatis elogium caducae in originem terrae et cadaveris nomen, et de isto quoque nomine periturae in 
  nullum inde iam nomen, in omnis iam vocabuli mortem?  [3] 'Hancne ergo, vir sapiens, et visui et contactui et recordatui tuo ereptam persuadere vis quod se receptura quandoque sit in
@@ -103,7 +103,7 @@ paralyticus
  revertantur, ut redisse non libeat, ad pristinum: an integri, ut iterum talia pati timeant?
  [5] Quid tum de consequentiis carnis? rursusne omnia necessaria illi, et imprimis pabula atque potacula? Et pulmonibus natandum et intestinis aestuandum et pudendis non pudendum et omnibus membris laborandum?
  [6] Rursus ulcera et vulnera et febris et podagra et mors redoptanda? nimirum haec erunt vota carnis recuperandae, iterum cupere de ea evadere.'
- [7] Et nos quidem haec aliquanto honestius pro stili pudore: ceterum quantum etiam spurciloquio liceat, illorum &lt;est&gt; in congressibus experiri tam ethnicorum quam haereticorum.
+ [7] Et nos quidem haec aliquanto honestius pro stili pudore: ceterum quantum etiam spurciloquio liceat, illorum <est> in congressibus experiri tam ethnicorum quam haereticorum.
  
 
   
@@ -378,7 +378,7 @@ At enim non magis sola decedit quam sola decucurrit illud unde decedit, vitam ha
  [3] Adeo autem non sola anima 
 transigit vitam ut nec cogitatus, licet solos, licet non ad effectum per carnem deductos, auferamus a collegio carnis, siquidem in carne et 
  cum carne et per carnem agitur ab anima quod agitur in corde.  [4] Hanc denique carnis speciem, arcem animae, etiam dominus in suggillatione cogitatuum taxat: Quid cogitatis in cordibus vestris nequam? et, Qui conspexerit ad concupiscendum iam adulteravit in corde: adeo et sine opere et sine effectu cogitatus carnis est actus. 
- [5] Sed etsi in cerebro vel in medio superciliorum discrimine vel ubiubi philosophis placet principalitas sensuum consecrata est, quod h(gemoniko&amp;n 
+ [5] Sed etsi in cerebro vel in medio superciliorum discrimine vel ubiubi philosophis placet principalitas sensuum consecrata est, quod h(gemoniko&n 
 appellatur, caro erit omne animae cogitatorium. Nunquam anima sine carne est quamdiu in carne est: nihil non cum illa agit sine qua non est.
  [6] Quaere adhuc an cogitatus quoque per 
 carnem administrantur qui per carnem dinoscuntur extrinsecus: volutet aliquid anima, vultus operatur indicium; facies
@@ -432,7 +432,7 @@ Ita et ministerium
  
  XVII.  [1] Simplicior quisque fautor sententiae nostrae putabit carnem etiam idcirco repraesentandam esse iudicio quia aliter anima non capiat passionem tormenti seu refrigerii, utpote incorporalis: hoc enim vulgus existimat.
  [2] Nos autem animam corporalem et hic 
- profitemur et in suo volumine probavimus, habentem proprium genus substantiae &lt;ac&gt; soliditatis per quam quid et sentire et pati possit: nam et nunc animas torqueri foverique penes inferos, licet nudas, licet adhuc exules carnis, probabit Lazari exemplum.
+ profitemur et in suo volumine probavimus, habentem proprium genus substantiae <ac> soliditatis per quam quid et sentire et pati possit: nam et nunc animas torqueri foverique penes inferos, licet nudas, licet adhuc exules carnis, probabit Lazari exemplum.
  [3] Dedi igitur adversario dicere, 'Ergo, quae habet corpulentiam propriam, 
 de suo sufficiet ad facultatem passionis et sensus, ut non egeat repraesentatione carnis'.
 Immo et eatenus egebit, non qua sentire quid sine carne non possit sed qua necesse est illam etiam cum carne sentire:
@@ -646,7 +646,7 @@ et resurrexerit, sic et deus eos qui dormierunt per Iesum adducet cum ipso: [4] 
 praeveniemus 
  eos qui dormierunt: [5] quoniam ipse dominus in iussu et in voce archangeli et in tuba dei descendet de caelo, et mortui in 
 Christo primi resurgent: [6] deinde nos qui vivimus, qui 
- &lt;reliriquimur,&gt; simul cum illis tollemur in nubibus obviam domino Christo in aerem, et ita semper cum domino erimus.
+ <reliriquimur,> simul cum illis tollemur in nubibus obviam domino Christo in aerem, et ita semper cum domino erimus.
  [7] Quae vox archangeli, quae tuba dei audita iam, nisi forte in cubiculis haereticorum? nam etsi tuba dei evangelicus sermo dici potest qui illos iam vocarit, 
 sed aut mortui erunt iam corporaliter ut resurrexerint, et 
 quomodo vivunt? aut in nubibus erepti, et quomodo hic sunt?  [8] Miserrimi revera, ut apostolus pronuntiavit, qui in ista tantum vita sperantes habebuntur, excludendo, dum praeripiunt, quod post illam repromittitur, frustrati circa veritatem non minus quam 
@@ -681,8 +681,8 @@ repromittitur,
  et vacat quod hic iam ab haereticis vindicatur, aut, si et agnitio sacramenti resurrectio est, salva utique illa creditur quae in ultimo praedicatur:
  [4] et sequitur ut eo ipso quod haec spiritalis 
  vindicetur, illa corporalis praeiudicetur: quia, si nulla tunc adnuntiaretur, 
- merito sola haec et tantummodo spiritalis vindicaretur: cum vero et in ultimum tempus edicitur corporalis agnoscitur, quia non et tunc spiritalis &lt;adnuntiatur.
- [5] Cur enim iterum&gt; adnuntiaretur resurrectio eiusdem condicionis, id est spiritalis, cum 
+ merito sola haec et tantummodo spiritalis vindicaretur: cum vero et in ultimum tempus edicitur corporalis agnoscitur, quia non et tunc spiritalis <adnuntiatur.
+ [5] Cur enim iterum> adnuntiaretur resurrectio eiusdem condicionis, id est spiritalis, cum 
  aut nunc eam deceret expungi sine ulla differentia temporum aut tunc sub omni clausula temporum?
  [6] Ita nobis magis competit etiam spiritalem defendere resurrectionem ab ingressu fidei qui plenitudinem eius agnoscimus in exitu saeculi.
  
@@ -881,7 +881,7 @@ excludere.
  XXXIII.  [1] Satis haec de prophetico instrumento.
 Ad evangelicum nunc provoco, hic quoque occursurus prius eidem astutiae eorum qui proinde et dominum omnia in parabolis pronuntiasse contendunt quia scriptum sit, Haec omnia locutus est Iesus in parabolis et sine parabola non loquebatur ad illos, scilicet ad Iudaeos:
  [2] nam et discipuli, Quare aiunt in parabolis loqueris illis?, et dominus, Propterea in parabolis loquor ad eos ut videntes non videant et audientes non audiant, secundum Esaiam.
- [3] Quodsi ad Iudaeos in parabolis, iam non ad omnes: si &lt;non&gt; ad omnes in parabolis, iam 
+ [3] Quodsi ad Iudaeos in parabolis, iam non ad omnes: si <non> ad omnes in parabolis, iam 
 non semper nec omnia parabolae, sed quaedam cum ad quosdam, ad quosdam autem dum ad Iudaeos: nonnunquam plane et ad
 discipulos. [4] Sed quomodo referat scriptura considera: Dicebat autem et parabolam ad eos.
 Ergo et non parabolam dicebat: quia non notaretur cum parabolam loquebatur si ita semper loquebatur. 
@@ -910,7 +910,7 @@ domino significari in omni resurrectionis mentione, salva animali quam et ipsam 
 Hominem sine dubio. Totumne an ex parte? Utique totum, siquidem transgressio, quae perditionis humanae causa est, tam animae instinctu ex concupiscentia quam et carnis actu ex degustatione commissa, totum hominem elogio transgressionis inscripsit atque exinde merito perditionis implevit.  [2] Totus itaque salvus fiet qui periit totus delinquendo, nisi si et ovis illa sine corpore amittitur et sine corpore revocatur.
 Nam si caro quoque eius cum anima, quod pecus totum est, humeris boni 
 pastoris advehitur, ex utraque utique substantia restituendi hominis exemplum est.
- [3] Aut quam indignum deo dimidium hominem redigere in salutem, paene minus facere &lt;quam faciat homo&gt;, cum etiam saecularium principum plena semper indulgentia vindicetur. Diabolus validior in hominis iniuriam intellegetur totum eum 
+ [3] Aut quam indignum deo dimidium hominem redigere in salutem, paene minus facere <quam faciat homo>, cum etiam saecularium principum plena semper indulgentia vindicetur. Diabolus validior in hominis iniuriam intellegetur totum eum 
 elidens, deus infirmior renuntiabitur non totum eum relevans? Atquin et apostolus suggerit, ubi delictum abundaverit illic gratiam superabundasse.
  [4] Quomodo denique salvus habebitur qui poterit et perditus dici? carne scilicet perditus, anima vero salvus, nisi quod iam et anima in perdito constituatur necesse est ut salva effici possit: 
 id enim salvum effici oportebit quod perditum fuerit. [5] Porro aut recipimus animae immortalitatem, ut perdita non in interitum credatur sed in supplicium, id est in gehennam: et si ita est, iam non animam spectabit salus, salvam scilicet suapte natura per immortalitatem, sed carnem potius quam interibilem constat apud 
@@ -1159,7 +1159,7 @@ crates adhuc vivunt: diximus iam de isto alibi. [8] Sed et proxime in ista civit
 sacrilega collocarentur, quingentorum fere annorum ossa adhuc 
 succida et capillos olentes populus exhorruit. Constat non tantum ossa durare verum et dentes incorruptos perennare, quae ut semina retinentur fructificaturi corporis in resurrectione.
  [9] Postremo etsi tunc devoratum invenietur mortale in omnibus mortuis, certe a morte, certe ab aevo, certe per aetatem, numquid a vita, numquid 
-a superindumento, numquid ab immortalitatis ingestu? [10] Porro qui &lt;ab&gt; his ait devoratum iri mortale, ab aliis negavit: et utique hoc a divinis viribus, non a naturalibus legibus perfici praestarique conveniet.
+a superindumento, numquid ab immortalitatis ingestu? [10] Porro qui <ab> his ait devoratum iri mortale, ab aliis negavit: et utique hoc a divinis viribus, non a naturalibus legibus perfici praestarique conveniet.
  [11] Ergo cum a vita habeat devorari quod mortale est, id exhiberi omnifariam necesse est ut devoretur, et devorari ut 
 demutetur: si ignem dicas accendi oportere, non potes id per quod accenditur alibi necessarium adfirmare alibi non.
  [12] Sic et cum infulcit, Siquidem exuti non inveniemur nudi, de eis scilicet qui non in vita nec in carne deprehendentur a die domini, non alias negavit nudos quos praedixit exutos nisi quia et revestitos voluit 
@@ -1262,13 +1262,13 @@ damnantem ut carnem damnare videatur, sed ne ita quis existimet ex aliorum vel c
  [2] Nam et dicens eos qui in carne sunt deo placere non posse, statim de pravo intellectu ad integrum revocat adiciens, Vos autem non estis in carne sed in spiritu.
  [3] Eos enim quos in carne esse constabat negando in carne esse, in operibus carnis non esse monstrabat, atque ita illos demum deo placere non posse, non qui in carne essent sed qui carnaliter viverent, placere autem illos deo qui in carne positi 
 secundum spiritum incederent. [4] Et rursus corpus quidem ait mortuum, sed propter delinquentiam, sicut spiritum vitam propter iustitiam: vitam autem morti opponens in carne constitutae, sine dubio illic et vitam repromisit ex iustitia ubi mortem determinavit ex delinquentia.
- [5] Ceterum frustra opposuit vitam morti &lt;si&gt; non est 
+ [5] Ceterum frustra opposuit vitam morti <si> non est 
 illic ubi est ipsa cui eam opposuit, excludendae utique de corpore. Porro si vita mortem de corpore excludit, non potest id perficere nisi illud penetret ubi est quod excludit.
  [6] Et quid ego nodosius, cum apostolus absolutius? Si enim, inquit, spiritus eius qui suscitavit 
 Iesum habitat in vobis, qui suscitavit Iesum a mortuis suscitabit et 
 mortalia corpora vestra propter inhabitantem spiritum eius in vobis: [7] ut et si animam quis corpus mortale praesumpserit, cum hoc et carnem negare non possit carnis quoque resuscitationem cogatur agnoscere secundum eiusdem status communionem.
  [8] Ex sequentibus adhuc discas opera carnis damnari, non ipsam: Itaque, 
-fratres, ait, debitores sumus non carni ad vivendum &lt;secundum carnem&gt;: si enim secundum carnem vixeritis futurum est ut
+fratres, ait, debitores sumus non carni ad vivendum <secundum carnem>: si enim secundum carnem vixeritis futurum est ut
 moriamini, 
  si vero spiritu carnis actus mortificaveritis vivetis. [9] Porro, ut ad singula quaeque respondeam, si in carne constitutis secundum spiritum tamen degentibus salus repromittitur, iam non caro 
 adversatur saluti sed operatio carnis: operatione autem carnis exclusa, quae causa est mortis, salva iam caro ostenditur, causa carens mortis.
@@ -1357,7 +1357,7 @@ Ordo enim meritorum dispositorum nomine
 disponetur. Merita autem cum corpori quoque adscribantur, ordo 
 quoque corporum disponatur necesse est, ut possit esse meritorum.  [11] Si autem et baptizantur quidam pro mortuis, videbimus an ratione. Certe illa praesumptione hoc eos instituisse portendit qua alii etiam carni ut vicarium baptisma profuturum existimarent ad spem
 resurrectionis, quae nisi corporalis non alias in baptismate corporali 
-obligaretur. Quid et ipsos baptizari ait &lt;si mortui non resurgunt&gt;, id est si non quae baptizantur corpora resurgent: anima enim non lavatione sed responsione sancitur.
+obligaretur. Quid et ipsos baptizari ait <si mortui non resurgunt>, id est si non quae baptizantur corpora resurgent: anima enim non lavatione sed responsione sancitur.
  [12] Quid et nos, inquit, omni hora periclitamur?----utique per carnem. Cotidie morior----utique
 periculis 
  carnis, per quam et depugnavit ad bestias Ephesi, illas scilicet 
@@ -1377,7 +1377,7 @@ definiri resurrectionem, cum de qualitate corporum quaeritur.
   
 
  
- XLIX.  [1] Ventum est nunc ad carnem et sanguinem, &lt;cardinem&gt; revera totius quaestionis: quas substantias quali condicione exheredaverit apostolus a dei regno aeque de antecedentibus discere est.
+ XLIX.  [1] Ventum est nunc ad carnem et sanguinem, <cardinem> revera totius quaestionis: quas substantias quali condicione exheredaverit apostolus a dei regno aeque de antecedentibus discere est.
  [2] Primus, inquit, homo de terra choicus----id est limaceus, id est Adam: Secundus homo de caelo----id est sermo dei, id est Christus, non alias tamen homo, licet de caelo, nisi quia et ipse caro atque anima, quod homo, quod Adam.
  [3] Nam et supra novissimus Adam dictus, de consortio substantiae commercium nominis traxit, quia nec Adam ex semine caro, quod et Christus.
  [4] Qualis ergo choicus tales et choici, et qualis caelestis tales et caelestes. Substantia tales? An primo disciplina, dehinc et dignitate quam disciplina captavit? atquin substantia nullo modo separabuntur choici atque caelestes, semel ab apostolo homines dicti.
@@ -1780,7 +1780,7 @@ Est adhuc feminis intus quo semina congerantur:
 quorum volunt et qualiter volunt officia membrorum ludibriose de industria suffundendae resurrectionis oblatrant, non recogitantes ipsas prius causas necessitatis tunc vacaturas, cibi famem et potus sitim et concubitus genituram et operationis victum.
 Sublata enim morte neque victus fulcimenta ad subsidia vitae neque generis 
 subparatura gravis erit membris. [5] Ceterum et hodie vacare intestinis et pudendis licebit: quadraginta diebus Moyses et Helias ieiunio functi solo deo alebantur: iam tunc enim dedicabatur, Non in pane
-vivet homo sed in dei verbo. ecce virtutis futurae liniamenta. [6] Nos quoque, ut possumus, os &lt;a&gt; cibo excusamus, etiam sexum a 
+vivet homo sed in dei verbo. ecce virtutis futurae liniamenta. [6] Nos quoque, ut possumus, os <a> cibo excusamus, etiam sexum a 
 congressione subducimus. Quot spadones voluntarii, quot virgines Christi maritae, quot steriles utriusque naturae infructuosis
 genitalibus 
  structi! [7] Nam si et hic iam vacare est et officia et emolumenta membrorum temporali vacatione, ut in temporali dispositione, nec homo tamen minus salvus est, proinde homine salvo, et

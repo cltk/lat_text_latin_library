@@ -74,7 +74,7 @@ qui Fabia gente incolumi deforme putabat
 publica bella geri, pariter cecidere deorum    60 
 inuidia, subitis circumuenientibus armis. 
 nec tamen occisos est cur laetere. supersunt 
-quot tibi si&lt;n&gt;t Libyaeque satis: certauerit unus 
+quot tibi si<n>t Libyaeque satis: certauerit unus 
 ter centum dextris. tam uiuida membra laborque 
 prouidus et cauta sollertia tecta quiete.    65 
 nec uero, calidi, nunc tu, cui sanguinis aetas, 
@@ -221,7 +221,7 @@ ungula dispersit rores Phaethontia Phoebo,
 uuiferis late florebat Massicus aruis 
 miratus nemora et lucentis sole racemos. 
 it monti decus, atque ex illo tempore diues 
-Tmolus &lt;et&gt; ambrosiis Ariusia pocula sucis    210 
+Tmolus <et> ambrosiis Ariusia pocula sucis    210 
 ac Methymna ferox lacibus cessere Falernis. 
  Haec tum uasta dabat terrisque infestus agebat 
 Hannibal, et sicci stimulabant sanguinis enses, 
@@ -306,7 +306,7 @@ fert gressus uicina citos. nec degener ille
 belligeri ritus taurino membra iacebat 
 effultus tergo et mulcebat tristia somno. 
 haud procul hasta uiri terrae defixa propinquae, 
-et dir&lt;a&gt; e summa pendebat cuspide cassis;    295 
+et dir<a> e summa pendebat cuspide cassis;    295 
 at clipeus circa loricaque et ensis et arcus 
 et telum Baliare simul tellure quiescunt. 
 iuxta lecta manus, iuuenes in Marte probati, 
@@ -320,7 +320,7 @@ cum Libyae ductor: 'Fabius me noctibus aegris,    305
 in curas Fabius nos excitat, illa senectus 
 heu fatis quae sola meis currentibus obstat! 
 cernis ut armata circumfundare corona, 
-et uallet clausos collectus miles in orbe&lt;m&gt;. 
+et uallet clausos collectus miles in orbe<m>. 
 uerum, age, nunc quando res artae, percipe porro    310 
 quae meditata mihi. latos correpta per agros 
 armenta adsueto belli de more secuntur. 
@@ -359,7 +359,7 @@ ferro detergent et dant mucronibus iras.
 quid fortuna loci poscat, quid tempus, et ipsi    345 
 quaenam agitent, pandunt et coeptis ire ministrum 
 haud segnem hortantur. discurrit tessera castris, 
-intentiquo docent, quae sint properanda, mone&lt;n&gt;tque 
+intentiquo docent, quae sint properanda, mone<n>tque 
 quisque suos: instat trepidis stimulatque ruentis 
 nauus abire timor, dum caeca silentia dumque    350 
 maiores umbrae. rapida iam subdita peste 
@@ -379,7 +379,7 @@ astra uidet, quam multa uidet, feruoribus atris
 cum Calabros urunt ad pinguia pabula saltus,    365 
 uertice Gargani residens incendia pastor. 
  At facie subita uolitantum montibus altis 
-flammarum, quis tunc ce&lt;ci&gt;dit custodia sorti, 
+flammarum, quis tunc ce<ci>dit custodia sorti, 
 horrere atque ipsos nullo spargente uagari 
 credere et indomitos pasci sub collibus ignes.    370 
 caelone exciderint, et magna fulmina dextra 
@@ -411,8 +411,8 @@ nil mouisse salus rebus. sit gloria multis
 et placeat, quippe egregium, prosternere ferro 
 hostem, sed Fabio sit uos seruasse triumphus. 
 plena tibi castra atque intactus uulnere miles 
-creditur: hos nobis (erit haec ti&lt;bi&gt; gloria) redde.    400 
-iam cernes Libycum hu&lt;i&gt;c uallo adsultare leonem, 
+creditur: hos nobis (erit haec ti<bi> gloria) redde.    400 
+iam cernes Libycum hu<i>c uallo adsultare leonem, 
 iam praedas offerre tibi, iam uertere terga, 
 respectantem adeo atque iras cum fraude coquentem. 
 claude, oro, castra et cunctas spes eripe pugnae. 
@@ -429,7 +429,7 @@ aequoreae pelago simul emersere sorores
 ac possessa uident infestis litora proris.    415 
 tum magno perculsa metu Nereia turba 
 attonitae propere refluunt ad limina nota, 
-Telebou&lt;m&gt; medio surgunt qua regna profundo 
+Telebou<m> medio surgunt qua regna profundo 
 pumiceaeque procul sedes. immanis in antro 
 conditur abrupto Proteus ac spumea late    420 
 cautibus obiectis reiectat caerula uates. 
@@ -654,7 +654,7 @@ qualis ubi Oceani renouatus Lucifer unda
 laudatur Veneri et certat maioribus astris.    640 
 ostro ipse ac sonipes ostro totumque per agmen 
 purpura Agenoreis saturata micabat aenis. 
-hic auidum pugnae &lt;et&gt; tam clarum excidere nomen 
+hic auidum pugnae <et> tam clarum excidere nomen 
 Brutum exoptantem, uarie nunc laeuus in orbem, 
 nunc dexter leuibus flexo per deuia gyris    645 
 ludificatus equo, uolucrem post terga sagittam 
@@ -736,7 +736,7 @@ iam sibimet metuens, spirantem dentibus imis
 reiectat praedam et uacuo fugit aeger hiatu. 
 ~tum demum, Tyriis quas circumfuderat atra 
 tempestas, Stygiae tandem fugere tenebrae. 
-torpebant dextra&lt;e&gt;, et sese meruisse negabant    725 
+torpebant dextra<e>, et sese meruisse negabant    725 
 seruari, subitisque bonis mens aegra natabat: 
 ut, qui conlapsa pressi iacuere ruina, 
 eruta cum subito membra et nox atra recessit, 

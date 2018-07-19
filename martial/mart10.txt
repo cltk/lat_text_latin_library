@@ -170,7 +170,7 @@ Nubere Paula cupit nobis, ego ducere Paulam
 Undenis pedibusque syllabisque 
 Et multo sale nec tamen protervo 
 Notus gentibus ille Martialis 
-Et notus populis &#151; quid invidetis? &#151; 
+Et notus populis — quid invidetis? — 
 Non sum Andraemone notior caballo.
  
 
@@ -186,7 +186,7 @@ Cum tu, laurigeris annum qui fascibus intras,
 Hic ego quid faciam? quid nobis, Paule, relinquis, 
   Qui de plebe Numae densaque turba sumus? 
 Qui me respiciet, dominum regemque vocabo?        5 
-  Hoc tu &#151; sed quanto blandius! &#151; ipse facis. 
+  Hoc tu — sed quanto blandius! — ipse facis. 
 Lecticam sellamve sequar? nec ferre recusas, 
   Per medium pugnas et prior ire lutum. 
 Saepius adsurgam recitanti carmina? tu stas 
@@ -225,7 +225,7 @@ Ne vivam, nisi te, Domiti, dimitto libenter,
   Grata licet sine te sit mihi nulla dies: 
 Sed desiderium tanti est, ut messe vel una        5 
   Urbano releves colla perusta iugo. 
-I precor et totos avida cute combibe soles, &#151; 
+I precor et totos avida cute combibe soles, — 
   O quam formosus, dum peregrinus eris! 
 Et venies albis non cognoscendus amicis 
   Livebitque tuis pallida turba genis.        10 
@@ -614,9 +614,9 @@ Hunc servare modum nostri novere libelli,
 Di tibi dent quidquid, Caesar Traiane, mereris 
   Et rata perpetuo quae tribuere velint: 
 Qui sua restituis spoliato iura patrono 
-  &#151; Libertis exul non erit ille suis &#151; , 
+  — Libertis exul non erit ille suis — , 
 Dignus es, ut possis totum servare clientem:        5 
-  Ut &#151; liceat tantum vera probare &#151; potes.
+  Ut — liceat tantum vera probare — potes.
  
 
  
@@ -676,7 +676,7 @@ Non venias quare tam longo tempore Romam,
 Iuris et aequarum cultor sanctissime legum, 
   Veridico Latium qui regis ore forum, 
 Municipi, Materne, tuo veterique sodali 
-  Callaicum mandas siquid ad Oceanum &#151; . 
+  Callaicum mandas siquid ad Oceanum — . 
 An Laurentino turpis in litore ranas        5 
   Et satius tenues ducere credis acus, 
 Ad sua captivum quam saxa remittere mullum, 
@@ -688,11 +688,11 @@ Ostrea Baianis quam non liventia testis,
 Hic olidam clamosus ages in retia volpem 
   Mordebitque tuos sordida praeda canes: 
 Illic piscoso modo vix educta profundo        15 
-  Inpedient lepores umida lina meos. &#151; 
+  Inpedient lepores umida lina meos. — 
 Dum loquor, ecce redit sporta piscator inani, 
   Venator capta maele superbus adest: 
 Omnis ab urbano venit ad mare cena macello. 
-  Callaicum mandas siquid ad Oceanum &#151; .
+  Callaicum mandas siquid ad Oceanum — .
  
 
  
@@ -799,7 +799,7 @@ Ergo Numae colles et Nomentana relinquis
   Otia, nec retinet rusque focusque senem? 
 Gaudia tu differs, at non et stamina differt        5 
   Atropos, atque omnis scribitur hora tibi. 
-Praestiteris caro &#151; quis non hoc laudet? &#151; amico, 
+Praestiteris caro — quis non hoc laudet? — amico, 
   Ut potior vita sit tibi sancta fides; 
 Sed reddare tuis tandem mansure Sabinis 
   Teque tuas numeres inter amicitias.
@@ -1206,8 +1206,8 @@ Cum tibi non Ephesos nec sit Rhodos aut Mitylene,
   Sed domus in vico, Laelia, patricio, 
 Deque coloratis numquam lita mater Etruscis, 
   Durus Aricina de regione pater; 
-K&Ecirc;ri&#154; mou, m&#154;li mou, cux&AElig; mou congeris usque,        5 
-  &#151; Pro pudor! &#151; Hersiliae civis et Egeriae. 
+KÊriš mou, mšli mou, cuxÆ mou congeris usque,        5 
+  — Pro pudor! — Hersiliae civis et Egeriae. 
 Lectulus has voces, nec lectulus audiat omnis, 
   Sed quem lascivo stravit amica viro. 
 Scire cupis quo casta modo matrona loquaris? 
@@ -1322,7 +1322,7 @@ Centum merebor plumbeos die toto,
 Cum Scorpus una quindecim graves hora        5 
 Ferventis auri victor auferat saccos? 
 Non ego meorum praemium libellorum 
- &#151; Quid enim merentur? &#151; Apulos velim campos: 
+ — Quid enim merentur? — Apulos velim campos: 
 Non Hybla, non me spicifer capit Nilus, 
 Nec quae paludes delicata Pomptinas        10 
 Ex arce clivi spectat uva Setini. 
@@ -1598,7 +1598,7 @@ Iunonem, Polyclite, suam nisi frater amaret,        5
 Quid vellis vetulum, Ligeia, cunnum? 
 Quid busti cineres tui lacessis? 
 Tales munditiae decent puellas 
- &#151; Nam tu iam nec anus potes videri &#151; ; 
+ — Nam tu iam nec anus potes videri — ; 
 Istud, crede mihi, Ligeia, belle        5 
 Non mater facit Hectoris, sed uxor. 
 Erras, si tibi cunnus hic videtur, 

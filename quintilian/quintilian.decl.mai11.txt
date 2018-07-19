@@ -33,7 +33,7 @@ Habet hoc mali, iudices, principum innocentia, quod inimicos esse nobis, nisi po
  
 
  
-Non puto, iudices, adhuc quaeri, unde illae falsarum sollicitudinum fabulae repente proruperint, quis primus trepidae civitatis aures rumore complev&lt;er&gt;it, cum videatis, quis sic egerit, ut crederetis. vidit hanc inter metus vestros occasionem, et, quia semper apud sollicitos in deterius prona persuasio est, abusus est hoc, quod poterat videri timere vobiscum. igitur homo, qui nullum conscium meum, nullum mihi crimen obiecit, de mendacii magnitudine fidem veritatis aptavit. civitas deinde, cui accusator proditam se esse persuaserat, fecit quicquid hic de me facere potuit: liberos meos, quos inimicus tota sua contione monstraverat, occidit genere quo pereunt innocentes. feretis me, iudices, liberius aliqua dicentem? rem pessimi exempli passus eram, etiam si prodidissem.
+Non puto, iudices, adhuc quaeri, unde illae falsarum sollicitudinum fabulae repente proruperint, quis primus trepidae civitatis aures rumore complev<er>it, cum videatis, quis sic egerit, ut crederetis. vidit hanc inter metus vestros occasionem, et, quia semper apud sollicitos in deterius prona persuasio est, abusus est hoc, quod poterat videri timere vobiscum. igitur homo, qui nullum conscium meum, nullum mihi crimen obiecit, de mendacii magnitudine fidem veritatis aptavit. civitas deinde, cui accusator proditam se esse persuaserat, fecit quicquid hic de me facere potuit: liberos meos, quos inimicus tota sua contione monstraverat, occidit genere quo pereunt innocentes. feretis me, iudices, liberius aliqua dicentem? rem pessimi exempli passus eram, etiam si prodidissem.
  
 
  
@@ -49,7 +49,7 @@ Scio vos, iudices, hoc loco mirari innocentiam meam. ut primum enim mihi calamit
  
 
  
-Quid, quod hoc solum est poenae genus, in quo non debeat nocens nisi de se queri, et tanto minus debeat esse miserabilis, in quantu&lt;m&gt; maior&lt;e&gt; est quod patitur, invidia? quid aequius excogitari, quid iustius potest? grassatus aliquis est ferro; praebeat et ipse cervices, miscuit noxium virus; refundatur in suum facinus auctorem. oculos rapuit, effodit; reddat de sua caecitate solacium. in nullo mortalium perferre possum sceleris sui impatientiam. verissima est iustitia vindictae, cum facinus mensura poenae est, et, si naturam ultionis aspicias, optime vindicatur quisque quo modo miser est.
+Quid, quod hoc solum est poenae genus, in quo non debeat nocens nisi de se queri, et tanto minus debeat esse miserabilis, in quantu<m> maior<e> est quod patitur, invidia? quid aequius excogitari, quid iustius potest? grassatus aliquis est ferro; praebeat et ipse cervices, miscuit noxium virus; refundatur in suum facinus auctorem. oculos rapuit, effodit; reddat de sua caecitate solacium. in nullo mortalium perferre possum sceleris sui impatientiam. verissima est iustitia vindictae, cum facinus mensura poenae est, et, si naturam ultionis aspicias, optime vindicatur quisque quo modo miser est.
  
 
  
@@ -57,7 +57,7 @@ Fidem vestram, iudices, ne ideo tantum putetis iustum, quod exigit reus, quia eg
  
 
  
-[6] Quid, quod ex omnium scelerum comparatione nihil est detestabilius hominibus, qui leges ipsas faciunt nocentes? vestro mehercules nomine calumniantibus debetis irasci, quorum nefas non potest nisi per iudicum facinus inponere. actum est de rebus humanis, si de criminibus nostris tantundem mendaciis licet, nec ullus innocens hucusque felix est, ut diligentiae fingentium par sit. quemquamne mortalium in re, quam finxerit, quam conposuerit, &lt;non&gt; invenire aliquid, quod potest probationem vocare et facinus explicare facilitate verborum? magis oderis mendacium, cum simile vero est. quotiens manifestum est aliquem perisse sine causa, calumniantibus irasci debeas, ut possis illis ignoscere, qui crediderunt.
+[6] Quid, quod ex omnium scelerum comparatione nihil est detestabilius hominibus, qui leges ipsas faciunt nocentes? vestro mehercules nomine calumniantibus debetis irasci, quorum nefas non potest nisi per iudicum facinus inponere. actum est de rebus humanis, si de criminibus nostris tantundem mendaciis licet, nec ullus innocens hucusque felix est, ut diligentiae fingentium par sit. quemquamne mortalium in re, quam finxerit, quam conposuerit, <non> invenire aliquid, quod potest probationem vocare et facinus explicare facilitate verborum? magis oderis mendacium, cum simile vero est. quotiens manifestum est aliquem perisse sine causa, calumniantibus irasci debeas, ut possis illis ignoscere, qui crediderunt.
  
 
  

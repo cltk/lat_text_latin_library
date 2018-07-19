@@ -75,7 +75,7 @@ diabolo temperauit. [13] Aut quod crimen ante istud inpatientiae admissum homini
 si prima deliquit, consequens est ut, quia prima, idcirco et sola sit matrix in omne delictum, defundens de suo fonte uarias criminum uenas.
  [19] De homicidio quidem dictum est. Sed ira editum a primordio, etiam quascumque postmodum causas sibi inuenit ad inpatientiam, ut ad originem sui, confert: siue enim quis inimicitiis siue praedae gratia id scelus conficit, prius est ut aut odii aut auaritiae fiat inpatiens.
  [20] Quidquid compellit, sine inpatientia sui non est ut perfici possit: quis adulterium sine libidinis inpatientia subiit? Quod et si pretio in feminis cogitur, uenditio illa pudicitiae utique inpatientia contemnendi lucri ordinatur.
- [21] Haec ut principalia penes dominum delicta. Iam uero, ut compendio dictum sit, omne peccatum inpatientiae adscribendum. Malum inpatientia est boni. Nemo inpudicus non inpatiens pudicitiae et inprobus probitatis et impius pietatis et inquietus quietis, ut malus unusquisque fiat, &lt; si &gt; bonus perseuerare non poterit!
+ [21] Haec ut principalia penes dominum delicta. Iam uero, ut compendio dictum sit, omne peccatum inpatientiae adscribendum. Malum inpatientia est boni. Nemo inpudicus non inpatiens pudicitiae et inprobus probitatis et impius pietatis et inquietus quietis, ut malus unusquisque fiat, < si > bonus perseuerare non poterit!
  [22] Talis igitur excetra delictorum cur non dominum offendat inprobatorem malorum? An non ipsum quoque Israel per inpatientiam semper in Deum deliquisse manifestum est?
  [23] Exinde cum, oblitus brachii caelestis quo Aegyptiis adflictationibus fuerat extractus, de Aaron deos sibi duces postulat, cum in idolum auri sui conlationes defundit: tam necessarias enim Moysei cum domino congredientis inpatienter exceperat moras!
  [24] Post mannae escatilem pluuiam, post petrae aquatilem sequellam desperant de domino, tridui sitim non sustinendo; nam haec quoque illis inpatientia a domino exprobratur.
@@ -86,7 +86,7 @@ si prima deliquit, consequens est ut, quia prima, idcirco et sola sit matrix in 
  [2] Ceterum Deus quem iustitiae deputasset sciebat: tam graue praeceptum, quod nec domino perfici placebat, patienter et audiuit et, si Deus uoluisset, implesset. Merito ergo benedictus quia et fidelis, merito fidelis quia et patiens!
  [3] Ita fides patientia inluminata, cum in nationes seminaretur per semen Abrahae, quod est Christus, et gratiam legi superduceret, ampliandae adimplendaeque legi adiutricem suam patientiam praefecit, quod ea sola ad iustitiae doctrinam retro defuisset.
  [4] Nam olim et oculum pro oculo et dentem pro dente repetebant et malum malo fenerabant: nondum enim patientia in terris, quia nec fides scilicet. Interim inpatientia occasionibus legis fruebatur: facile erat, absente domino patientiae et magistro.
- [5] Qui postquam superuenit et gratiam fidei patientia composuit, iam nec uerbo quidem lacessere, nec &laquo;fatue&raquo; quidem dicere sine iudicii periculo licet; prohibita ira, restricti animi, compressa petulantia manus, exemptum linguae uenenum.
+ [5] Qui postquam superuenit et gratiam fidei patientia composuit, iam nec uerbo quidem lacessere, nec «fatue» quidem dicere sine iudicii periculo licet; prohibita ira, restricti animi, compressa petulantia manus, exemptum linguae uenenum.
  [6] Plus lex quam amisit inuenit, dicente Christo: Diligite inimicos uestros et maledicentibus benedicite et orate pro persecutoribus uestris ut filii sitis patris uestri caelestis. Vides quem nobis patrem patientia adquirat!
  
  
@@ -128,7 +128,7 @@ patientia temperandum: cur enim inmoderate feras abisse quem mox subsequeris? [4
  [3] Nulla in maleficio ordinis ratio est nec locus secefnit quod similitudo coniungit. Absolute itaque praecipitur malum malo non
 rependendum: par factum par habet meritum. [4] Quomodo id obseruabimus, si [fastidientes] in fastidio ultionis non erimus? quem autem honorem litabimus domino Deo, si nobis arbitrium defensionis arrogauerimus?
  [5] Nos putres, uasa fictilia, seruulis nostris adsumentibus sibi de conseruis ultionem grauiter offendimur eosque qui nobis patientiam obtulerint suam ut memores humilitatis seruitutis, ius dominici honoris diligentes, non probamus modo, sed ampliorem quam ipsi sibi praesumpsissent satisfactionem facimus: id nobis in domino tam iusto ad aestimandum, tam potenti ad perficiendum periclitatur?
- [6] Quid ergo credimus iudicem illum, si non et ultorem? Hoc se nobis repromittit dicens: Vindictam mihi et ego uindicabo, id est: &laquo;patientiam mihi et ego patientiam remunerabo&raquo;.
+ [6] Quid ergo credimus iudicem illum, si non et ultorem? Hoc se nobis repromittit dicens: Vindictam mihi et ego uindicabo, id est: «patientiam mihi et ego patientiam remunerabo».
  [7] Cum enim dicit: Nolite iudicare ne iudicemini, nonne patientiam flagitat? Quis enim non iudicabit alium, nisi qui patiens erit non defendi? Quis idcirco iudicat ut ignoscat? Ac si ignoscet, tamen iudicantis inpatientiam non cauit et honorem unici iudicis, id est Dei, abstulit!
  [8] Quantos uero casus huiusmodi inpatientia incursare consueuerat, quotiens paenituit defensionem, quotiens instantia eius deterior inuenta est causis suis, quoniam nihil inpatientia susceptum sine impetu transigi nouit, nihil
 impetu actum non aut offendit aut corruit aut praeceps abiit! [9] Iam si leuius defendaris, insanies; si uberius, oneraberis. Quid mihi cum ultione, cuius modum regere non possum per inpatientiam doloris? Quodsi patientiae incubabo, non dolebo; si non dolebo, ulcisci non desiderabo.
@@ -148,7 +148,7 @@ impetu actum non aut offendit aut corruit aut praeceps abiit! [9] Iam si leuius 
  id utique non exultationis inpatientiae pollicetur, quia nemo in aduersis exultabit, nisi ante contempserit ea, nemo contemnet, nisi patientiam gesserit.
  
  
- XII.  [1] Quod &lt; ad &gt; pacis gratissimae Deo adtinet disciplinam, quis omnino inpatientiae natus uel semel ignoscet fratri suo, non dicam septies e t septuagies septies?
+ XII.  [1] Quod < ad > pacis gratissimae Deo adtinet disciplinam, quis omnino inpatientiae natus uel semel ignoscet fratri suo, non dicam septies e t septuagies septies?
  [2] Quis ad iudicem cum aduersario suo dirigens negotium conuenientia soluet, nisi prius i r am dol o re m duritiam amaritudinem, uenena scilicet inpatientiae, amputar i t?
  [3] Quomodo remittes et remittetur tibi, si tenax iniuriae per absentiam patientiae fueris? Nemo conuulsus animum in fratrem suum munus apud altare perficiet, nisi prius reconciliando fratri reuersus ad patientiam fuerit.
  [4] Sol super iram nostram si occiderit, periclitamur: non licet nobis lina die sine patientia manere.
@@ -183,7 +183,7 @@ urgeat, incommoda fugae caro militat; si et carcer praeueniat, caro in uinculis,
  XIV.  [1] His patientiae uiribus secatur Esaias et de domino non tacet, lapidatur Stephanus et ueniam hostibus suis postulat.
  [2] O felicissimum illum quoque, qui omnem patientiae speciem aduersus omnem diaboli uim expunxit, quem non abacti greges, non illae in pecore diuitiae, non filii uno ruinae impetu adempti, non ipsius denique corporis in uulnere cruciatus a patientiae fide domino de b ita exclusit, quem diabolus totis uiribus frustra cecidit!
  [3] Neque enim a respectu Dei tot doloribus auocatus ille est, sed constitit nobis in exemplum et testimonium tam spiritu quam carae, tam animo quam corpore patientiae perpetrandae, ut neque damnis saecularium nec amissionibus carissimorum nec corporis quidem conflictationibus succidamus.
- [4] Quale in illo uiro feretrum Deus de diabolo extruxit, quale uexillum de inimico gloriae suae extulit, cum ille homo ad omnem acerbum nuntium nihil ex ore promeret nisi &laquo; Deo gratias &raquo;, cum uxorem iam malis delassatam et ad praua remedia suadentem execraretur!
+ [4] Quale in illo uiro feretrum Deus de diabolo extruxit, quale uexillum de inimico gloriae suae extulit, cum ille homo ad omnem acerbum nuntium nihil ex ore promeret nisi « Deo gratias », cum uxorem iam malis delassatam et ad praua remedia suadentem execraretur!
  [5] Quid? ridebat Deus, quid? dissecabatur malus, cum Iob inmundam ulceris sui redundantiam magna aequanimitate destringeret, cum erumpentes bestiolas inde in eosdem specus et pastus refossae carnis ludendo reuocaret!
  [6] Itaque operarius ille uictoriae Dei, retusis omnibus iaculis temptationum lorica clipeoque patientiae, et integritatem mox corporis a Deo recuperauit et quae amiserat co nd uplicata possedit.
  [7] Et si filios quoque restitui uoluisset, pater iterum uocaretur. Sed maluit in illo die reddi sibi: tantum gaudii securus [sit] de domino distulit, sustinuit e am uoluntariam orbitatem, ne sine aliqua patientia uiueret!

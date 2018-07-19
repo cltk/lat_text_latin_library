@@ -101,7 +101,7 @@ potius quam istorum obscuram diligentiam.
 de(h)inc ut quiescant porro moneo et desinant 
 male dicere, malefacta ne noscant sua. 
 favete, adeste aequo animo et rem cognoscite, 
-ut pernoscatis ecquid &lt;spei> sit relicuom,   
+ut pernoscatis ecquid <spei> sit relicuom,   
 25 
 posthac quas faciet de integro comoedias, 
 spectandae an exigendae sint vobis prius.
@@ -133,7 +133,7 @@ quod habui summum pretium persolvi tibi.
  SO. in memoria habeo. SI. haud muto factum. SO. 
 gaudeo  40 
 si tibi quid feci aut facio quod placeat, Simo, 
-et id gratum &lt;fui>sse advorsum te habeo gratiam. 
+et id gratum <fui>sse advorsum te habeo gratiam. 
 sed hoc mihi molestumst; nam istaec commemoratio 
 quasi exprobratiost inmemoris benefici. 
 quin tu uno verbo dic quid est quod me velis.   
@@ -141,10 +141,10 @@ quin tu uno verbo dic quid est quod me velis.
  SI. ita faciam. hoc primum in hac re praedico tibi: 
 quas credis esse has non sunt verae nuptiae. 
  SO. quor simulas igitur? SI. rem omnem a principio audies: 
-&lt;eo> pacto et gnati vitam et consilium meum 
+<eo> pacto et gnati vitam et consilium meum 
 cognosces et quid facere in hac re te velim.   
 50 
-nam is postquam excessit ex ephebis, Sosia, &lt;et> 
+nam is postquam excessit ex ephebis, Sosia, <et> 
 ~liberius vivendi fuit potestas~ (nam antea 
 qui scire posses aut ingenium noscere, 
 dum aetas metus magister prohibebant? SO. itast.) 
@@ -159,7 +159,7 @@ gaudebam. SO. non iniuria; nam id arbitror
 adprime in vita esse utile, ut nequid nimis. 
  SI. sic vita erat: facile omnis perferre ac pati; 
 cum quibus erat quomque una is sese dedere, 
-&lt;eo>rum obsequi studiis, adversus nemini, 
+<eo>rum obsequi studiis, adversus nemini, 
 numquam praeponens se illis; ita ut facillume  
 65 
 sine invidia laudem invenias et amicos pares. 
@@ -196,7 +196,7 @@ quicquam attinere. enimvero spectatum satis
 putabam et magnum exemplum continentiae; 
 nam qui cum ingeniis conflictatur ei(u)s modi 
 neque commovetur animus in ea re tamen, 
-scias posse habere iam ipsum &lt;suae> vitae modum. 95 
+scias posse habere iam ipsum <suae> vitae modum. 95 
 quom id mihi placebat tum uno ore omnes omnia 
 bona dicere et laudare fortunas meas, 
 qui gnatum haberem tali ingenio praeditum. 
@@ -209,7 +209,7 @@ placuit: despondi. hic nuptiis dictust dies.
 ferme in diebu' paucis quibus haec acta sunt 
 Chrysis vicina haec moritur. SO. o factum bene! 
 105 
-beasti; &lt;ei> metui a Chryside. SI. ibi tum filius 
+beasti; <ei> metui a Chryside. SI. ibi tum filius 
 cum illis qui amabant Chrysidem una aderat frequens; 
 curabat una funu'; tristis interim, 
 nonnumquam conlacrumabat. placuit tum id mihi. 
@@ -317,13 +317,13 @@ quid hic volt?
   SI. quid ais? DA. qua de re?
  SI. 
 rogas? 
-&lt;meu>m gnatum rumor est amare. DA. id populu' curat scilicet.   
+<meu>m gnatum rumor est amare. DA. id populu' curat scilicet.   
 185 
  SI. hoccin agis an non? DA. ego vero istuc. SI. 
 sed nunc ea me exquirere 
 iniqui patris est; nam quod ant(e)hac fecit nil ad me attinet. 
 dum tempus ad eam rem tulit, sivi animum ut expleret suom; 
-nunc hic d&lt;ie>s aliam vitam defert, alios mores postulat: 
+nunc hic d<ie>s aliam vitam defert, alios mores postulat: 
 de(h)inc postulo sive aequomst te oro, Dave, ut redeat iam in viam. 
 190 
 hoc quid sit? omnes qui amant graviter sibi dari uxorem ferunt. 
@@ -336,7 +336,7 @@ Davo' sum, non Oedipus.
 sane quidem. 195 
  SI. si sensero hodie quicquam in his te nuptiis 
 fallaciae conari quo fiant minus, 
-aut velle in &lt;ea> re ostendi quam sis callidus, 
+aut velle in <ea> re ostendi quam sis callidus, 
 verberibu' caesum te in pistrinum, Dave, dedam usque ad necem, 
 ea lege atque omine ut, si te inde exemerim, ego pro te molam.   
 200 
@@ -368,7 +368,7 @@ quo iure quaque iniuria praecipitem [me] in pistrinum dabit.
 ad haec mala hoc mi accedit etiam: haec Andria,    
 215 
 si[ve] ista uxor sive amicast, gravida e Pamphilost. 
-audireque &lt;eo>rumst operae pretium audaciam 
+audireque <eo>rumst operae pretium audaciam 
 (nam inceptiost amentium, haud amantium): 
 quidquid peperisset decreverunt tollere. 
 et fingunt quandam inter se nunc fallaciam   
@@ -407,7 +407,7 @@ opperiar, ut sciam num quid nam haec turba tristitiae adferat.
  
  PA. Hoccinest humanum factu aut inceptu? hoccin[est] officium
 patris? 
- MY. quid illud est? PA. pro d&lt;eu>m fidem quid est,
+ MY. quid illud est? PA. pro d<eu>m fidem quid est,
 si haec non 
   contumeliast? 
 uxorem decrerat dare sese mi hodie: nonne oportuit 
@@ -415,7 +415,7 @@ praescisse me ante? nonne priu' communicatum oportuit?
  MY. miseram me, quod verbum audio!        
 240 
  PA. quid? Chremes, qui denegarat se commissurum mihi 
-gnatam &lt;sua>m uxorem, id mutavit quia me inmutatum videt? 
+gnatam <sua>m uxorem, id mutavit quia me inmutatum videt? 
 itane obstinate operam dat ut me a Glycerio miserum abstrahat? 
 quod si fit pereo funditus. 
 adeon hominem esse invenustum aut infelicem quemquam ut ego sum! 
@@ -440,7 +440,7 @@ tot me inpediunt curae, quae meum animum divorsae trahunt:
 260 
 amor, misericordia huiu', nuptiarum sollicitatio, 
 tum patri' pudor, qui me tam leni passus est animo usque adhuc 
-quae m&lt;eo> quomque animo lubitumst facere. &lt;ei>ne ego ut advorser?
+quae m<eo> quomque animo lubitumst facere. <ei>ne ego ut advorser?
 ei 
  mihi! 
 incertumst quid agam. MY. misera timeo "incertum" hoc quorsus
@@ -546,7 +546,7 @@ quid est?
  BY. sponsam hic tuam amat. PA. ne iste haud mecum sentit.
 eho dum dic 
  mihi: 
-num quid nam ampliu' tibi cum illa f&lt;ui>t, Charine? CH. ah[a],
+num quid nam ampliu' tibi cum illa f<ui>t, Charine? CH. ah[a],
 Pamphile, 325 
 nil. PA. quam vellem! CH. nunc te per amicitiam et per
 amorem obsecro, 
@@ -604,7 +604,7 @@ me vide.   350
 em 
 libero: uxorem tibi non dat iam Chremes. PA. qui scis? DA. 
 scio. 
-tuo' pater modo me prehendit: &lt;ai>t tibi uxorem dare 
+tuo' pater modo me prehendit: <ai>t tibi uxorem dare 
 hodie, item alia multa quae nunc non est narrandi locus. 
 continuo ad te properans percurro ad forum ut dicam haec tibi.  
 355 
@@ -645,7 +645,7 @@ ibo, etsi hercle saepe iam me spes haec frustratast. vale.
 dicam tibi. 375 
 si id suscenseat nunc quia non det tibi uxorem Chremes, 
 ipsu' sibi esse iniuriu' videatur, neque id iniuria, 
-priu' quam &lt;tuo>m ut sese habeat animum ad nuptias perspexerit: 
+priu' quam <tuo>m ut sese habeat animum ad nuptias perspexerit: 
 sed si tu negaris ducere, ibi culpam in te transferet: 
 tum illae turbae fient. PA. quidvis patiar. DA. pater
 est, Pamphile: 380 
@@ -659,7 +659,7 @@ hem. DA.
  PA. egon dicam? DA. quor non? PA. numquam faciam.
  DA. 
 ne nega. 
- PA. suadere noli. DA. ex &lt;ea> re quid fiat vide.    
+ PA. suadere noli. DA. ex <ea> re quid fiat vide.    
 385 
  PA. ut ab illa excludar, hoc concludar. DA. non itast. 
 nempe hoc sic esse opinor: dicturum patrem 
@@ -668,8 +668,8 @@ cedo quid iurgabit tecum? hic reddes omnia.
 quae nunc sunt certa [ei] consilia, incerta ut sient   
 390 
 sine omni periclo. nam hoc haud dubiumst quin Chremes 
-tibi non det gnatam; nec tu &lt;ea> causa minueris 
-haec quae facis, ne is mutet s&lt;ua>m sententiam. 
+tibi non det gnatam; nec tu <ea> causa minueris 
+haec quae facis, ne is mutet s<ua>m sententiam. 
 patri dic velle, ut, quom velit, tibi iure irasci non queat. 
 nam quod tu speres "propulsabo facile uxorem his moribus; 
 395 
@@ -766,17 +766,17 @@ nunc uxore opus est: animum ad uxorem adpulit.
  DA. 
 nil. SI. quin 
   dic, quid est? 
- DA. &lt;ai>t nimium parce facere sumptum. SI. mene? DA. 
+ DA. <ai>t nimium parce facere sumptum. SI. mene? DA. 
 te. 450 
 "vix" inquit "drachumis est opsonatum decem: 
 non filio videtur uxorem dare. 
-quem" inquit "vocabo ad cenam m&lt;eo>rum aequalium 
+quem" inquit "vocabo ad cenam m<eo>rum aequalium 
 potissumum nunc?" et, quod dicendum hic siet, 
 tu quoque perparce nimium: non laudo. SI. tace. 
 455 
  DA. commovi. SI. ego istaec recte ut fiant videro. 
 quidnam hoc est rei? quid hic volt veterator sibi? 
-nam si hic malist quicquam, em illic est huic r&lt;ei> caput.
+nam si hic malist quicquam, em illic est huic r<ei> caput.
  
 
  
@@ -825,12 +825,12 @@ nunc hui(u)s periclo fit, ego in portu navigo.
  
  LE. Adhuc, Archylis, quae adsolent quaeque oportent 
 signa esse ad salutem, omnia huic esse video. 
-nunc primum fac istaec [ut] lavet; post&lt;e> deinde, 
+nunc primum fac istaec [ut] lavet; post<e> deinde, 
 quod iussi dari bibere et quantum imperavi, 
 date; mox ego huc revortor.      
 485 
 per ecastor scitu' puer est natu' Pamphilo. 
-d&lt;eo>s quaeso ut sit superstes, quandoquidem ipsest ingenio bono, 
+d<eo>s quaeso ut sit superstes, quandoquidem ipsest ingenio bono, 
 quomque huic est veritus optumae adulescenti facere iniuriam.-- 
  SI. vel hoc quis [non] credat, qui te norit, abs te esse ortum?
  DA. 
@@ -863,7 +863,7 @@ muttire audeo. 505
 sed nilo setius referetur mox huc puer ante ostium. 
 id ego iam nunc tibi, ere, renuntio futurum, ut sis sciens, 
 ne tu hoc [mihi] posteriu' dicas Davi factum consilio aut dolis. 
-prorsus a me opinionem hanc t&lt;ua>m esse ego amotam volo. 
+prorsus a me opinionem hanc t<ua>m esse ego amotam volo. 
 510 
  SI. unde id scis? DA. audivi et credo: multa concurrunt
 simul 
@@ -892,7 +892,7 @@ conveniam, orabo gnato uxorem: si impetro,
 quid alias malim quam hodie has fieri nuptias? 
 nam gnatu' quod pollicitust, haud dubiumst mihi, id 
 530 
-si nolit, quin &lt;eu>m merito possim cogere. 
+si nolit, quin <eu>m merito possim cogere. 
 atque adeo in ipso tempore eccum ipsum obviam.
  
 
@@ -904,13 +904,13 @@ atque adeo in ipso tempore eccum ipsum obviam.
  SI. Iubeo Chremetem . . CH. o te ipsum quaerebam. SI. 
 et ego te. CH. 
   optato advenis. 
-aliquot me adierunt, ex te auditum qui &lt;ai>bant hodie filiam 
+aliquot me adierunt, ex te auditum qui <ai>bant hodie filiam 
 meam nubere tuo gnato; id viso tune an illi insaniant.    
 535 
  SI. ausculta pauca: et quid ego te velim et tu quod quaeris
 scies. 
  CH. ausculto: loquere quid velis. 
- SI. per te d&lt;eo>s oro et nostram amicitiam, Chreme, 
+ SI. per te d<eo>s oro et nostram amicitiam, Chreme, 
 quae incepta a parvis cum aetate adcrevit simul, 
 perque unicam gnatam tuam et gnatum meum,  
 540 
@@ -956,7 +956,7 @@ nolo tibi ullum commodum in me claudier.
  SI. merito te semper maxumi feci, Chreme. 
  CH. sed quid ais? SI. quid? CH. qui scis eos nunc
 discordare inter se? 575 
- SI. ipsu' mihi Davo', qui intumust &lt;eo>rum consiliis, dixit; 
+ SI. ipsu' mihi Davo', qui intumust <eo>rum consiliis, dixit; 
 et is mihi persuadet nuptias quantum queam ut maturem. 
 num censes faceret, filium nisi sciret eadem haec velle? 
 tute adeo iam eius audies verba. [heus] evocate huc Davom. 
@@ -1000,7 +1000,7 @@ nullast mora.
 inritatus est. 
  DA. quiescas. SI. age igitur, ubi nunc est ipsu'? DA. 
 mirum ni domist. 
- SI. ibo ad eum atque &lt;ea>dem haec quae tibi dixi dicam idem
+ SI. ibo ad eum atque <ea>dem haec quae tibi dixi dicam idem
 illi.-- DA. 
   nullu' sum. 
 quid causaest quin hinc in pistrinum recta proficiscar via? 
@@ -1087,7 +1087,7 @@ nil opust, ibi verentur.
 638a 
 sed quid agam? adeon ad eum et cum eo iniuriam hanc expostulem? 
 ingeram mala multa? atque aliqui' dicat "nil promoveris": 
-multum: molestu' certe &lt;ei> fuero atque animo morem gessero. 
+multum: molestu' certe <ei> fuero atque animo morem gessero. 
  PA. Charine, et me et te inprudens, nisi quid di respiciunt,
 perdidi. 
  CH. itane "inprudens"? tandem inventast causa: solvisti fidem. 
@@ -1100,7 +1100,7 @@ heu me miserum qui tuom animum ex animo spectavi meo!
 gaudium, 
 nisi me lactasses amantem et falsa spe produceres? 
 habeas. PA. habeam? ah nescis quantis in malis vorser miser 
-quantasque hic s&lt;ui>s consiliis mihi conflavit sollicitudines  
+quantasque hic s<ui>s consiliis mihi conflavit sollicitudines  
 650 
 meu' carnufex. CH. quid istuc tam mirumst de te si exemplum
 capit? 
@@ -1121,7 +1121,7 @@ suadere orare usque adeo donec perpulit.
  PA. 
 interturbat. CH. 
  quam ob rem? PA. nescio; 
-nisi mihi d&lt;eo>s sati' scio fuisse iratos qui auscultaverim. 
+nisi mihi d<eo>s sati' scio fuisse iratos qui auscultaverim. 
  CH. factum hoc est, Dave? DA. factum. CH. hem
 quid ais? scelus! 665 
 at tibi di dignum factis exitium duint! 
@@ -1158,11 +1158,11 @@ at iam hoc tibi
 
  
  MY. Iam ubi ubi erit, inventum tibi curabo et mecum adductum 
-t&lt;uo>m Pamphilum: modo tu, anime mi, noli te macerare.  
+t<uo>m Pamphilum: modo tu, anime mi, noli te macerare.  
 685 
- PA. Mysis. MY. quis est? &lt;e>hem Pamphile, optume mihi
+ PA. Mysis. MY. quis est? <e>hem Pamphile, optume mihi
 te offers. PA. 
-  quid &lt;id> est? 
+  quid <id> est? 
  MY. orare iussit, si se ames, era, iam ut ad sese venias: 
 videre te ait cupere. PA. vah perii: hoc malum integrascit. 
 sicin me atque illam opera tua nunc miseros sollicitari[er]! 
@@ -1172,7 +1172,7 @@ nam idcirco accersor nuptias quod mi adparari sensit.
  DA. age, si hic non insanit satis sua sponte, instiga. MY. 
 atque edepol 
 ea res est, proptereaque nunc misera in maerorest. PA. Mysis, 
-per omnis tibi adiuro deos numquam &lt;ea>m me deserturum, 
+per omnis tibi adiuro deos numquam <ea>m me deserturum, 
 non si capiundos mihi sciam esse inimicos omnis homines. 
 695 
 hanc mi expetivi: contigit; conveniunt mores: valeant 
@@ -1226,7 +1226,7 @@ iam inquam hic adero. 715
  MY. Nilne esse proprium quoiquam! di vostram fidem! 
 summum bonum esse erae putabam hunc Pamphilum, 
 amicum, amatorem, virum in quovis loco 
-paratum; verum ex &lt;eo> nunc misera quem capit 
+paratum; verum ex <eo> nunc misera quem capit 
 laborem! facile hic plus malist quam illic boni.  
 720 
 sed Davos exit. mi homo, quid istuc obsecrost? 
@@ -1236,7 +1236,7 @@ mihi ad hanc rem exprompta memoria atque astutia.
 atque ante nostram ianuam adpone. MY. obsecro,  
 725 
 humine? DA. ex ara hinc sume verbenas tibi 
-atque &lt;ea>s substerne. MY. quam ob rem id tute non facis? 
+atque <ea>s substerne. MY. quam ob rem id tute non facis? 
  DA. quia, si forte opu' sit ad erum iurandum mihi 
 non adposisse, ut liquido possim. MY. intellego: 
 nova nunc religio in te istaec incessit. cedo!  
@@ -1305,7 +1305,7 @@ suffarcinatam. MY. dis pol habeo gratiam
 quom in pariundo aliquot adfuerunt liberae. 
  DA. ne illa illum haud novit quoiu' causa haec incipit: 
 "Chremes si positum puerum ante aedis viderit, 
-s&lt;ua>m gnatam non dabit": tanto hercle mage dabit. 
+s<ua>m gnatam non dabit": tanto hercle mage dabit. 
  CH. non hercle faciet. DA. nunc adeo, ut tu sis sciens, 
 775 
 nisi puerum tolli' iam ego hunc in mediam viam 
@@ -1317,7 +1317,7 @@ civem Atticam esse hanc. CH. hem. DA. "coactus legibus
 eam uxorem ducet." MY. au obsecro, an non civis est? 
  CH. iocularium in malum insciens paene incidi. 
  DA. quis hic loquitur? o Chreme, per tempus advenis: 
-ausculta. CH. audivi iam omnia. DA. an&lt;ne> haec tu
+ausculta. CH. audivi iam omnia. DA. an<ne> haec tu
 omnia? 
  CH. audivi, inquam, a principio. DA. audistin, obsecro?
 hem 785 
@@ -1354,7 +1354,7 @@ is est. CR. o Mysis, salve! MY. salvo' sis, Crito.
 sic 
 ut quimus, aiunt, quando ut volumu' non licet.    
 805 
- CR. quid Glycerium? iam hic s&lt;uo>s parentis repperit? 
+ CR. quid Glycerium? iam hic s<uo>s parentis repperit? 
  MY. utinam! CR. an nondum etiam? haud auspicato huc me
 appuli; 
 nam pol, si id scissem, numquam huc tetulissem pedem. 
@@ -1363,7 +1363,7 @@ quae illi(u)s fuere possidet: nunc me hospitem
 810 
 litis sequi quam id mihi sit facile atque utile 
 aliorum exempla commonent. simul arbitror 
-iam aliquem esse amicum et defensorem &lt;ei>; nam fere 
+iam aliquem esse amicum et defensorem <ei>; nam fere 
 grandi[us]cula iam profectast illinc: clamitent 
 me sycophantam, hereditatem persequi     
 815 
@@ -1404,7 +1404,7 @@ filiam ut darem in seditionem atque in incertas nuptias,
 eiu' labore atque eiu' dolore gnato ut medicarer tuo. 
 impetrasti: incepi, dum res tetulit. nunc non fert: feras. 
 illam hinc civem esse aiunt; puer est natu': nos missos face. 
- SI. per ego te d&lt;eo>s oro, ut ne illis animum inducas credere, 
+ SI. per ego te d<eo>s oro, ut ne illis animum inducas credere, 
 quibus id maxume utilest illum esse quam deterrumum.  
 835 
 nuptiarum gratia haec sunt ficta atque incepta omnia. 
@@ -1414,7 +1414,7 @@ scio. CH. at
 vero voltu, quom ibi me adesse neuter tum praesenserant. 
  SI. credo et id facturas Davo' dudum praedixit mihi; et  
 840 
-nescio qui &lt;i>d tibi sum oblitus hodie, ac volui, dicere.
+nescio qui <i>d tibi sum oblitus hodie, ac volui, dicere.
  
 
  
@@ -1441,7 +1441,7 @@ etiam tu hoc respondes quid istic tibi negotist? DA. mihin?
 ita. 
  DA. mihin? SI. tibi ergo. DA. modo introii. SI. 
 quasi ego quam dudum rogem. 850 
- DA. cum t&lt;uo> gnato una. SI. anne est intu' Pamphilu'?
+ DA. cum t<uo> gnato una. SI. anne est intu' Pamphilu'?
 crucior miser! 
 eho non tu dixti esse inter eos inimicitias, carnufex? 
  DA. sunt. SI. quor igitur hic est? CH. quid illum
@@ -1489,19 +1489,19 @@ age Pamphile, exi Pamphile: ecquid te pudet?
 . . ? CH. ah 
 rem potius ipsam dic ac mitte male loqui. 
  SI. quasi quicquam in hunc iam graviu' dici possiet. 
-&lt;ai>n tandem, civi' Glyceriumst? PA. ita praedicant. 
+<ai>n tandem, civi' Glyceriumst? PA. ita praedicant. 
 875 
  SI. "ita praedicant"? o ingentem confidentiam! 
 num cogitat quid dicat? num facti piget? 
 vide num ei(u)s color pudori' signum usquam indicat. 
 adeo[n] inpotenti esse animo ut praeter civium 
-morem atque legem et s&lt;ui> voluntatem patris   
+morem atque legem et s<ui> voluntatem patris   
 880 
 tamen hanc habere studeat cum summo probro! 
  PA. me miserum! SI. hem modone id demum sensti, Pamphile? 
 olim istuc, olim quom ita animum induxti tuom, 
 quod cuperes aliquo pacto efficiundum tibi, 
-&lt;eo>dem die istuc verbum vere in te accidit.   
+<eo>dem die istuc verbum vere in te accidit.   
 885 
 sed quid ego? quor me excrucio? quor me macero? 
 quor meam senectutem huius sollicito amentia? 
@@ -1551,7 +1551,7 @@ qua re? SI. rogas?
 tune inpune haec facias? tune hic homines adulescentulos    
 910 
 inperitos rerum, eductos libere, in fraudem inlicis? 
-sollicitando et pollicitando &lt;eo>rum animos lactas? CR. sanun
+sollicitando et pollicitando <eo>rum animos lactas? CR. sanun
 es? 
  SI. ac meretricios amores nuptiis conglutinas? 
  PA. perii, metuo ut substet hospes. CH. si, Simo, hunc
@@ -1566,7 +1566,7 @@ mitte. CR. videat
   qui siet. 
 si mihi perget quae volt dicere, ea quae non volt audiet.    
 920 
-ego istaec moveo aut curo? non tu t&lt;uo>m malum aequo animo feras! 
+ego istaec moveo aut curo? non tu t<uo>m malum aequo animo feras! 
 nam ego quae dico vera an falsa audierim iam sciri potest. 
 Atticus quidam olim navi fracta ad Andrum eiectus est 
 et istaec una parva virgo. tum ille egens forte adplicat 
@@ -1574,10 +1574,10 @@ primum ad Chrysidis patrem se. SI. fabulam inceptat. CH.
 sine. 925 
  CR. itane vero obturbat? CH. perge. CR. Tu --
 is mihi cognatus fuit 
-qui &lt;eu>m recepit. ibi ego audivi ex illo sese esse Atticum. 
+qui <eu>m recepit. ibi ego audivi ex illo sese esse Atticum. 
 is ibi mortuost. CH. ei(u)s nomen? CR. nomen tam cito?
 Phania? hem 
-perii! verum hercle opinor f&lt;ui>sse Phaniam; hoc certo scio, 
+perii! verum hercle opinor f<ui>sse Phaniam; hoc certo scio, 
 Rhamnusium se aiebat esse. CH. o Iuppiter! CR. eadem
 haec, Chreme, 930 
 multi alii in Andro tum audi[ve]re. CH. utinam id sit quod spero!
@@ -1596,11 +1596,11 @@ tum illam relinquere hic est veritus.~ postilla nunc primum audio
 quid illo sit factum. PA. vix sum apud me: ita animu' commotust
 metu 
 spe gaudio, mirando tanto tam repentino hoc bono. 
- SI. ne istam multimodis t&lt;ua>m inveniri gaudeo. PA. 
+ SI. ne istam multimodis t<ua>m inveniri gaudeo. PA. 
 credo, pater. 
  CH. at mi unu' scrupulus etiam restat qui me male habet. PA. 
 dignus es  940 
-cum t&lt;ua> religione, odium: nodum in scirpo quaeri'. CR. 
+cum t<ua> religione, odium: nodum in scirpo quaeri'. CR. 
 quid istuc est? 
  CH. nomen non convenit. CR. fuit hercle huic aliud parvae.
  CH. 
@@ -1608,7 +1608,7 @@ quod, Crito?
 numquid meministi? CR. id quaero. PA. egon huiu' memoriam
 patiar meae 
 voluptati obstare, quom ego possim in hac re medicari mihi? 
-heus, Chreme, quod quaeri', Pasibulast. CH. ipsa &lt;ea>st.
+heus, Chreme, quod quaeri', Pasibulast. CH. ipsa <ea>st.
  CR. 
 east. 945 
  PA. ex ipsa miliens audivi. SI. omnis nos gaudere hoc,
@@ -1644,8 +1644,8 @@ o faustum et felicem diem!
  CH. Proviso quid agat Pamphilus. atque eccum. PA. aliquis
 fors[itan] me putet 
 non putare hoc verum, at mihi nunc sic esse hoc verum lubet. 
-ego d&lt;eo>rum vitam propterea sempiternam esse arbitror 
-quod voluptates &lt;eo>rum propriae sunt; nam mi inmortalitas 
+ego d<eo>rum vitam propterea sempiternam esse arbitror 
+quod voluptates <eo>rum propriae sunt; nam mi inmortalitas 
 960 
 partast, si nulla aegritudo huic gaudio intercesserit. 
 sed quem ego mihi potissumum optem, nunc quoi haec narrem, dari? 
@@ -1660,7 +1660,7 @@ obtigerit scio.
  PA. et quidem ego. DA. more hominum evenit ut quod sim
 nanctus mali 
 priu' rescisceres tu quam ego illud quod tibi evenit boni. 
- PA. Glycerium mea s&lt;uo>s parentis repperit. DA. factum
+ PA. Glycerium mea s<uo>s parentis repperit. DA. factum
 bene. CH. hem. 
  PA. pater amicu' summu' nobis. DA. quis? PA. Chremes.
  DA. 
@@ -1673,7 +1673,7 @@ solus est quem diligant di. CH. salvo' sum si haec vera sunt.
 conloquar. PA. quis homost? [o] Charine, in tempore ipso mi
 advenis. 
  CH. bene factum. PA. audisti[n]? CH. omnia. age,
-me in t&lt;ui>s  975 
+me in t<ui>s  975 
   secundis respice. 
 tuos est nunc Chremes: facturum quae voles scio esse omnia. 
  PA. memini: atque adeo longumst illum me exspectare dum exeat. 
@@ -1690,7 +1690,7 @@ intu' transigetur siquid est quod restet. CANTOR. plaudite!
  
 
  
- PA. memini adq&lt;ue adeo ut uolui commodum huc senex exit foras>. 
+ PA. memini adq<ue adeo ut uolui commodum huc senex exit foras>. 
 977a 
  CH. m o    
 978a 
@@ -1709,7 +1709,7 @@ operam dedi ne me esse oblitum dicas tuae gnatae alterae.
 981a 
 tibi me opinor inuenisse dignum te atque illa uirum. CHA. Ah, 
 982a 
-perii, Daue, de meo amore ac uita &lt;nunc> sors tollitur.     
+perii, Daue, de meo amore ac uita <nunc> sors tollitur.     
 983a 
  CHR. non noua istaec mihi condicio est, si uoluissem, Pamphile.
 984a 
@@ -1731,9 +1731,9 @@ detur. PA. bene factum. DA. adi atque age homini gratias.
   salue, Chremes, 
 amicorum meorum omnium mihi ~agissime.         
 991a 
-quod mihi non minus est gaudio quam id &lt;quod volo>     
+quod mihi non minus est gaudio quam id <quod volo>     
 992a 
-quod &lt;abs te expecto et summo studio> abs te expeto:     
+quod <abs te expecto et summo studio> abs te expeto:     
 993a 
 me repperisse ut habitus antehac fui tibi.           
 994a 

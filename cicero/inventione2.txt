@@ -361,7 +361,7 @@ Cicero: de Inventione II
  
 
  
-[ 86 ] Ab defensore, in eius, quem ultus sit, audaciam &lt;cum&gt; sui conquestione; rem non ex nomine ipsius negotii, sed ex consilio eius, qui fecerit, et causa et tempore considerari oportere; quid mali futurum sit aut ex iniuria aut scelere alicuius, nisi tanta et tam perspicua audacia ab eo, ad cuius famam aut ad parentes aut ad liberos pertineret aut ad aliquam rem, quam caram esse omnibus aut necesse est aut oportet esse, vindicata.Remotio criminis est, cum eius intentio facti, quod ab adversario infertur, in alium aut in aliud demovetur. Id fit bipertito; nam tum causa, tum res ipsa removetur.
+[ 86 ] Ab defensore, in eius, quem ultus sit, audaciam <cum> sui conquestione; rem non ex nomine ipsius negotii, sed ex consilio eius, qui fecerit, et causa et tempore considerari oportere; quid mali futurum sit aut ex iniuria aut scelere alicuius, nisi tanta et tam perspicua audacia ab eo, ad cuius famam aut ad parentes aut ad liberos pertineret aut ad aliquam rem, quam caram esse omnibus aut necesse est aut oportet esse, vindicata.Remotio criminis est, cum eius intentio facti, quod ab adversario infertur, in alium aut in aliud demovetur. Id fit bipertito; nam tum causa, tum res ipsa removetur.
  
 
  
@@ -585,7 +585,7 @@ Cicero: de Inventione II
  
 
  
-[ 147 ] deinde operam dare, ut sua lex ipso scripto videatur niti, contraria autem aut per ambiguum aut per ratiocinationem aut per definitionem induci, &lt;cum&gt; sanctius et firmius id videatur esse, quod apertius scriptum sit; deinde suae legis ad scriptum ipsum sententiam quoque adiungere, contrariam legem item ad aliam sententiam transducere, ut, si fieri poterit, ne discrepare quidem videantur inter se; postremo facere, si causa facultatem dabit, ut nostra ratione utraque lex conservari videatur, adversariorum ratione altera sit necessario neglegenda.Locos autem communes et, quos ipsa causa det, videre oportebit et ex utilitatis et ex honestatis amplissimis partibus sumere demonstrantem per amplificationem, ad utram potius legem accedere oporteat.
+[ 147 ] deinde operam dare, ut sua lex ipso scripto videatur niti, contraria autem aut per ambiguum aut per ratiocinationem aut per definitionem induci, <cum> sanctius et firmius id videatur esse, quod apertius scriptum sit; deinde suae legis ad scriptum ipsum sententiam quoque adiungere, contrariam legem item ad aliam sententiam transducere, ut, si fieri poterit, ne discrepare quidem videantur inter se; postremo facere, si causa facultatem dabit, ut nostra ratione utraque lex conservari videatur, adversariorum ratione altera sit necessario neglegenda.Locos autem communes et, quos ipsa causa det, videre oportebit et ex utilitatis et ex honestatis amplissimis partibus sumere demonstrantem per amplificationem, ad utram potius legem accedere oporteat.
  
 
  
@@ -617,7 +617,7 @@ Cicero: de Inventione II
  
 
  
-[ 157 ] Rerum expetendarum tria genera sunt; par autem numerus vitandarum ex contraria parte. Nam est quiddam, quod sua vi nos adliciat ad sese, non emolumento captans aliquo, sed trahens sua dignitate, quod genus virtus, scientia, veritas. Est aliud autem non propter suam vim et naturam, sed propter fructum atque utilitatem petendum; quod &lt;genus&gt; pecunia est. Est porro quiddam ex horum partibus iunctum, quod et sua vi et dignitate nos inlectos ducit et prae se quandam gerit utilitatem, quo magis expetatur, ut amicitia, bona existimatio. Atque ex his horum contraria facile tacentibus nobis intellegentur.
+[ 157 ] Rerum expetendarum tria genera sunt; par autem numerus vitandarum ex contraria parte. Nam est quiddam, quod sua vi nos adliciat ad sese, non emolumento captans aliquo, sed trahens sua dignitate, quod genus virtus, scientia, veritas. Est aliud autem non propter suam vim et naturam, sed propter fructum atque utilitatem petendum; quod <genus> pecunia est. Est porro quiddam ex horum partibus iunctum, quod et sua vi et dignitate nos inlectos ducit et prae se quandam gerit utilitatem, quo magis expetatur, ut amicitia, bona existimatio. Atque ex his horum contraria facile tacentibus nobis intellegentur.
  
 
  

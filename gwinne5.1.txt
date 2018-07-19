@@ -119,8 +119,8 @@ an parricidam video et homicidam sui?
 
 sic est, et ipse in Oedipo dices tuo, 
 
- yane&eth;n s&Eacute;
-&ecirc;nvge s&Ecirc;ggamow, mht&AElig;r, pat&AElig;r. 
+ yaneðn sÉ
+ênvge sÊggamow, mhtÆr, patÆr. 
  
 
  
@@ -144,7 +144,7 @@ ignis pererrat: ignis, en ignis furit,   3180
 
 populatur, ingrassatur hac, illac. 
 
- Intrat 2. ad Austrum 1 &lt;et&gt;3 
+ Intrat 2. ad Austrum 1 <et>3 
 
  CIV. 2 ubi?
 
@@ -402,12 +402,12 @@ quam pulchra flamma est! plaudo fortunae meae.
 
 pulchre videre videor incensum Ilium: 
 
-et canere &euml;lvsin Ilii, ut par
+et canere ëlvsin Ilii, ut par
 est, iuvat.  
 
  CIV. 1 in matre canitur filia, et Roma Ilio.  3265 
 
- CANTIO NERONIS, &euml;lvsiw
+ CANTIO NERONIS, ëlvsiw
  
 
  musae Pierides, dicite,
@@ -509,11 +509,11 @@ nobis minatur, quod Sibyllinis libris
 
 olim illa cecinit.  3308a 
 
- tr&ETH;w d&#162;
-trihkos&#164;vn peritellom&#176;nvn &#167;niaut&#171;n  3308b 
+ trÐw d¢
+trihkos¤vn peritellom°nvn §niaut«n  3308b 
 
- &Ntilde;Rvma&#164;ouw
-&#182;mfulow &Ugrave;le&eth; st&atilde;siw. 
+ ÑRvma¤ouw
+¶mfulow Ùleð stãsiw. 
 
 hoc movet, terret, tenet.
   3310 
@@ -524,9 +524,9 @@ non invenitur carmen adductum.
 
  CIV. 4  sed hoc, 
 
- &#182;sxatow
-A&THORN;nead&#171;n mhtrokt&Ograve;now
-&aelig;gemone&Ecirc;sei. 
+ ¶sxatow
+AÞnead«n mhtroktÒnow
+ægemoneÊsei. 
 
  NERO bona verba, cives, facta si exigitis bona. 
 
@@ -1252,7 +1252,7 @@ Antoniamque Claudii comitem volo.
 ite, ite fortes; ite faelices.  
  
 
- Exit Piso cum Laterano &lt;et&gt; caeteri. 
+ Exit Piso cum Laterano <et> caeteri. 
 
  SCEV. vale 
 

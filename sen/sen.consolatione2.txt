@@ -227,8 +227,8 @@ ostendit ex amisso nepotes.
 
  
 1. Tuum illic, Marcia, negotium actum, tibi Areus adsedit; muta personam
-&#151; te consolatus est. Sed puta, Marcia, ereptum tibi amplius quam ulla
-umquam mater amiserit &#151; non permulceo te nec extenuo calamitatem tuam:
+— te consolatus est. Sed puta, Marcia, ereptum tibi amplius quam ulla
+umquam mater amiserit — non permulceo te nec extenuo calamitatem tuam:
 si fletibus fata uincuntur, conferamus; 2. eat omnis inter luctus dies,
 noctem sine somno tristitia consumat; ingerantur lacerato pectori manus
 et in ipsam faciem impetus fiat atque omni se genere saeuitiae profecturus
@@ -344,7 +344,7 @@ nos posse prouidimus. Aufert uim praesentibus malis qui futura prospexit.
  
 1. Quidquid est hoc, Marcia, quod circa nos ex aduenticio fulget, liberi
 honores opes, ampla atria et exclusorum clientium turba referta uestibula,
-clarum &lt;nomen&gt;, nobilis aut formosa coniux ceteraque ex incerta et mobili
+clarum <nomen>, nobilis aut formosa coniux ceteraque ex incerta et mobili
 sorte pendentia alieni commodatique apparatus sunt; nihil horum dono datur.
 Conlaticiis et ad dominos redituris instrumentis scaena adornatur; alia
 ex his primo die, alia secundo referentur, pauca usque ad finem perseuerabunt.
@@ -358,20 +358,20 @@ tamquam nihil nobis de perpetuitate, immo nihil de diuturnitate eorum promissum
 sit. Saepe admonendus est animus, amet ut recessura, immo tamquam recedentia:
 quidquid a fortuna datum est, tamquam exempto auctore possideas. 4. Rapite
 ex liberis uoluptates, fruendos uos in uicem liberis date et sine dilatione
-omne gaudium haurite: nihil de hodierna nocte promittitur &#151; nimis magnam
-aduocationem dedi &#151; nihil de hac hora. Festinandum est, instatur a tergo:
+omne gaudium haurite: nihil de hodierna nocte promittitur — nimis magnam
+aduocationem dedi — nihil de hac hora. Festinandum est, instatur a tergo:
 iam disicietur iste comitatus, iam contubernia ista sublato clamore soluentur.
 Rapina rerum omnium est: miseri nescitis in fuga uiuere.
  
 
  
 5. Si mortuum tibi filium doles, eius temporis quo natus est crimen
-est; mors enim illi denuntiata nascenti est; in hanc legem genitus &lt;est&gt;,
+est; mors enim illi denuntiata nascenti est; in hanc legem genitus <est>,
 hoc illum fatum ab utero statim prosequebatur. 6. In regnum fortunae et
 quidem durum atque inuictum peruenimus, illius arbitrio digna atque indigna
 passuri. Corporibus nostris inpotenter contumeliose crudeliter abutetur:
 alios ignibus peruret uel in poenam admotis uel in remedium; alios uinciet
-&#151; id nunc hosti licebit, nunc ciui; alios per incerta nudos maria iactabit
+— id nunc hosti licebit, nunc ciui; alios per incerta nudos maria iactabit
 et luctatos cum fluctibus ne in harenam quidem aut litus explodet, sed
 in alicuius inmensae uentrem beluae decondet; alios morborum uariis generibus
 emaceratos diu inter uitam mortemque medios detinebit. Vt uaria et libidinosa
@@ -387,15 +387,15 @@ mancipiorumque suorum neglegens domina et poenis et muneribus errabit.
  
 1. Quid opus est partes deflere? tota flebilis uita est: urgebunt noua
 incommoda, priusquam ueteribus satis feceris. Moderandum est itaque uobis
-maxime, quae inmoderate fertis, et in multos dolores humani pectoris &lt;uis&gt;
+maxime, quae inmoderate fertis, et in multos dolores humani pectoris <uis>
 dispensanda. Quae deinde ista suae publicaeque condicionis obliuio est?
 Mortalis nata es mortalesque peperisti: putre ipsa fluidumque corpus et
 causis [morbos] repetita sperasti tam inbecilla materia solida et aeterna
 gestasse? 2. Decessit filius tuus, id est decucurrit ad hunc finem ad quem
 quae feliciora partu tuo putas properant. Hoc omnis ista quae in foro litigat,
-in theatris &lt;plaudit&gt;, in templis precatur turba dispari gradu uadit:
+in theatris <plaudit>, in templis precatur turba dispari gradu uadit:
 et quae diligis, ueneraris et quae despicis unus exaequabit cinis. 3. Hoc
-uidelicet * * * illa Pythicis oraculis adscripta &lt;uox&gt;: nosce
+uidelicet * * * illa Pythicis oraculis adscripta <uox>: nosce
 te. Quid est homo? quolibet quassu uas et quolibet fragile iactatu. Non
 tempestate magna ut dissiperis opus est: ubicumque arietaueris, solueris.
 Quid est homo? inbecillum corpus et fragile, nudum, suapte natura inerme,
@@ -403,7 +403,7 @@ alienae opis indigens, ad omnis fortunae contumelias proiectum, cum bene
 lacertos exercuit, cuiuslibet ferae pabulum, cuiuslibet uictima; ex infirmis
 fluidisque contextum et lineamentis exterioribus nitidum, frigoris aestus
 laboris inpatiens, ipso rursus situ et otio iturum in tabem, alimenta metuens
-sua, quorum modo inopia &lt;deficit, modo copia&gt; rumpitur; anxiae sollicitaeque
+sua, quorum modo inopia <deficit, modo copia> rumpitur; anxiae sollicitaeque
 tutelae, precarii spiritus et male haerentis, quod pauor repentinus aut
 auditus ex inprouiso sonus auribus grauis excutit, sollicitudinis semper
 sibi nutrimentum, uitiosum et inutile. 4. Miramur in hoc mortem, quae unius
@@ -416,7 +416,7 @@ fletu uitam auspicatum, cum interim quantos tumultus hoc tam contemptum
 animal mouet, in quantas cogitationes oblitum condicionis suae uenit! 5.
 Inmortalia, aeterna uolutat animo et in nepotes pronepotesque disponit,
 cum interim longa conantem eum mors opprimit et hoc quod senectus uocatur
-paucissimorum &lt;est&gt; circumitus annorum.
+paucissimorum <est> circumitus annorum.
 
  
 
@@ -448,7 +448,7 @@ cito prudens, cito pius, cito maritus, cito pater, cito omnis officii curiosus,
 cito sacerdos, omnia tamquam properans? Nulli fere et magna bona et diuturna
 contingunt, non durat nec ad ultimum exit nisi lenta felicitas: filium
 tibi di inmortales non diu daturi statim talem dederunt qualis diu effici
-&lt;uix&gt; potest.
+<uix> potest.
  
 
  
@@ -457,11 +457,11 @@ filio: circumfer per omnem notorum, ignotorum frequentiam oculos, occurrent
 tibi passi ubique maiora. Senserunt ista magni duces, senserunt principes;
 ne deos quidem fabulae immunes reliquerunt, puto, ut nostrorum funerum
 leuamentum esset etiam diuina concidere. Circumspice, inquam, omnis: nullam
-&lt;tam&gt; miseram nominabis domum quae non inueniat in miseriore solacium.
+<tam> miseram nominabis domum quae non inueniat in miseriore solacium.
 5. Non mehercules tam male de moribus tuis sentio ut putem posse te leuius
 pati casum tuum, si tibi ingentem lugentium numerum produxero: maliuolum
 solacii genus est turba miserorum. Quosdam tamen referam, non ut scias
-hoc solere hominibus accidere &#151; ridiculum est enim mortalitatis exempla
+hoc solere hominibus accidere — ridiculum est enim mortalitatis exempla
 colligere - sed ut scias fuisse multos qui lenirent aspera placide ferendo.
  
 
@@ -471,7 +471,7 @@ eius et acerrimam uirtutem in hostes ciuesque contudit aut effecit ut cognomen
 illud usurpasse falso uideretur, quod amisso filio adsumpsit nec odia hominum
 ueritus, quorum malo illae nimis secundae res constabant, nec inuidiam
 deorum, quorum illud crimen erat, Sulla tam felix. Sed istud inter res
-nondum iudicatas abeat, qualis Sulla fuerit &#151; etiam inimici fatebuntur
+nondum iudicatas abeat, qualis Sulla fuerit — etiam inimici fatebuntur
 bene illum arma sumpsisse, bene posuisse: hoc de quo agitur constabit,
 non esse maximum malum quod etiam ad felicissimos peruenit.
 
@@ -499,7 +499,7 @@ ad Capitolinum illum redit uultum.
 
  
 3. Paulus circa illos nobilissimi triumphi dies quo uinctum ante currum
-egit Persen [incliti regis nomen] duos filios in adoptionem dedit, &lt;duos&gt;
+egit Persen [incliti regis nomen] duos filios in adoptionem dedit, <duos>
 quos sibi seruauerat extulit. Quales retentos putas, cum inter commodatos
 Scipio fuisset? Non sine motu uacuum Pauli currum populus Romanus aspexit.
 Contionatus est tamen et egit dis gratias quod compos uoti factus esset;
@@ -525,7 +525,7 @@ cita, Lucium si uis Bibulum et C. Caesarem: uidebis inter collegas inimicissimos
 concordem fortunam. 2. L. Bibuli, melioris quam fortioris uiri, duo simul
 filii interfecti sunt, Aegyptio quidem militi ludibrio habiti, ut non minus
 ipsa orbitate auctor eius digna res lacrimis esset. Bibulus tamen, qui
-toto honoris sui anno &lt;in&gt; inuidiam collegae domi latuerat, postero
+toto honoris sui anno <in> inuidiam collegae domi latuerat, postero
 die quam geminum funus renuntiatum est processit ad solita imperatoris
 officia. Quis minus potest quam unum diem duobus filiis dare? Tam cito
 liberorum luctum finiuit qui consulatum anno luxerat. 3. C. Caesar cum
@@ -575,7 +575,7 @@ nulli contigit inpune nasci.
 1. Scio quid dicas: 'oblitus es feminam te consolari, uirorum refers
 exempla.' Quis autem dixit naturam maligne cum mulierum ingeniis egisse
 et uirtutes illarum in artum retraxisse? par illis, mihi crede, uigor,
-par ad honesta, libeat &lt;modo&gt;, facultas est; dolorem laboremque ex aequo,
+par ad honesta, libeat <modo>, facultas est; dolorem laboremque ex aequo,
 si consueuere, patiuntur. 2. In qua istud urbe, di boni, loquimur? in qua
 regem Romanis capitibus Lucretia et Brutus deiecerunt: Bruto libertatem
 debemus, Lucretiae Brutum; in qua Cloeliam contempto et hoste et flumine
@@ -610,7 +610,7 @@ habes ex illo duas filias, si male fers, magna onera, si bene, magna solacia.
 In hoc te perduc ut illas cum uideris admonearis filii, non doloris. 7.
 Agricola euersis arboribus quas aut uentus radicitus auolsit aut contortus
 repentino impetu turbo praefregit sobolem ex illis residuam fouet et in
-&lt;locum&gt; amissarum semina statim plantasque disponit; et momento (nam
+<locum> amissarum semina statim plantasque disponit; et momento (nam
 ut ad damna, ita ad incrementa rapidum ueloxque tempus est) adolescunt
 amissis laetiora. 8. Has nunc Metili tui filias in eius uicem substitue
 et uacantem locum exple et unum dolorem geminato solacio leua. Est quidem
@@ -695,7 +695,7 @@ si liberos tollis, omni deos inuidia liberas, qui tibi nihil certi spoponderunt.
  
 
  
-18. &lt;Ad&gt; hanc imaginem agedum totius uitae introitum refer. An Syracusas
+18. <Ad> hanc imaginem agedum totius uitae introitum refer. An Syracusas
 uiseres deliberanti tibi quidquid delectare poterat, quidquid offendere
 exposui: puta nascenti me tibi uenire in consilium. 2. 'Intraturus es urbem
 dis hominibus communem, omnia complexam, certis legibus aeternisque deuinctam,
@@ -750,7 +750,7 @@ nostri, qui, cum condicionem uitae nossent, in hanc nos sustulerunt.
 1. Sed ut ad solacia ueniam, uideamus primum quid curandum sit, deinde
 quemadmodum. Mouet lugentem desiderium eius quem dilexit. Id per se tolerabile
 esse apparet; absentis enim afuturosque dum uiuent non flemus, quamuis
-omnis usus nobis illorum &lt;cum&gt; conspectu ereptus sit; opinio est ergo
+omnis usus nobis illorum <cum> conspectu ereptus sit; opinio est ergo
 quae nos cruciat, et tanti quodque malum est quanti illud taxauimus. In
 nostra potestate remedium habemus: iudicemus illos abesse et nosmet ipsi
 fallamus; dimisimus illos, immo consecuturi praemisimus. 2. Mouet et illud
@@ -825,7 +825,7 @@ nocuerit. Si Gnaeum Pompeium, decus istud firmamentumque imperii, Neapoli
 ualetudo abstulisset, indubitatus populi Romani princeps excesserat: at
 nunc exigui temporis adiectio fastigio illum suo depulit. Vidit legiones
 in conspectu suo caesas et ex illo proelio in quo prima acies senatus fuit
-&#151; quam infelices reliquiae sunt! &#151; ipsum imperatorem superfuisse; uidit
+— quam infelices reliquiae sunt! — ipsum imperatorem superfuisse; uidit
 Aegyptium carnificem et sacrosanctum uictoribus corpus satelliti praestitit,
 etiam si incolumis fuisset paenitentiam salutis acturus; quid enim erat
 turpius quam Pompeium uiuere beneficio regis? 5. M. Cicero si illo tempore
@@ -855,7 +855,7 @@ patientiam.
 
  
 1. 'Nimis tamen cito perit et inmaturus.' Primum puta illi superfuisse
-&#151; comprende quantum plurimum procedere homini licet: quantum est? Ad breuissimum
+— comprende quantum plurimum procedere homini licet: quantum est? Ad breuissimum
 tempus editi, cito cessuri loco uenienti inpactum hoc prospicimus hospitium.
 De nostris aetatibus loquor, quas incredibili celeritate ~conuoluit~? Computa
 urbium saecula: uidebis quam non diu steterint etiam quae uetustate gloriantur.
@@ -957,7 +957,7 @@ lumen omne praecludi et se in tenebras condidit. 7. Cognito consilio eius
 publica uoluptas erat, quod e faucibus auidissimorum luporum educeretur
 praeda. Accusatores auctore Seiano adeunt consulum tribunalia, queruntur
 mori Cordum, ut interpellarent quod coegerant: adeo illis Cordus uidebatur
-effugere. Magna res erat in quaestione, an mortis &lt;ius&gt; rei perderent;
+effugere. Magna res erat in quaestione, an mortis <ius> rei perderent;
 dum deliberatur, dum accusatores iterum adeunt, ille se absoluerat. 8.
 Videsne, Marcia, quantae iniquorum temporum uices ex inopinato ingruant?
 Fles, quod alicui tuorum mori necesse fuit? Paene non licuit!
@@ -1048,8 +1048,8 @@ relinquens sui fugit et totus excessit; paulumque supra nos commoratus,
 dum expurgatur et inhaerentia uitia situmque omnem mortalis aeui excutit,
 deinde ad excelsa sublatus inter felices currit animas. Excepit illum coetus
 sacer, Scipiones Catonesque, interque contemptores uitae et ueneficio liberos
-parens tuus, Marcia. 2. Ille nepotem suum &#151; quamquam illic omnibus omne
-cognatum est &#151; applicat sibi noua luce gaudentem et uicinorum siderum
+parens tuus, Marcia. 2. Ille nepotem suum — quamquam illic omnibus omne
+cognatum est — applicat sibi noua luce gaudentem et uicinorum siderum
 meatus docet, nec ex coniectura sed omnium ex uero peritus in arcana naturae
 libens ducit; utque ignotarum urbium monstrator hospiti gratus est, ita
 sciscitanti caelestium causas domesticus interpres. Et in profunda terrarum

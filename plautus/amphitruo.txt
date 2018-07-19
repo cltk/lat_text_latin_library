@@ -78,14 +78,14 @@ In faciem versus Amphitruonis Iuppiter,
 Vt vos in vostris voltis mercimoniis emundis vendundisque me laetum lucris
  adficere atque adiuvare in rebus omnibus
  et ut res rationesque vostrorum omnium
- bene &lt;me> expedire voltis peregrique et domi   5 
+ bene <me> expedire voltis peregrique et domi   5 
  bonoque atque amplo auctare perpetuo lucro
  quasque incepistis res quasque inceptabitis,
  et uti bonis vos vostrosque omnis nuntiis
  me adficere voltis, ea adferam, ea uti nuntiem
- quae maxime in rem vostram communem sient&#151;  10 
+ quae maxime in rem vostram communem sient—  10 
  nam vos quidem id iam scitis concessum et datum
- mi esse ab dis aliis, nuntiis praesim et lucro&#151;:
+ mi esse ab dis aliis, nuntiis praesim et lucro—:
  haec ut me voltis adprobare adnitier,
  [lucrum ut perenne vobis semper suppetat]
  ita huic facietis fabulae silentium    15 
@@ -115,10 +115,10 @@ Vt vos in vostris voltis mercimoniis emundis vendundisque me laetum lucris
  nunc iam huc animum omnes quae loquar advortite.
  debetis velle quae velimus: meruimus
  et ego et pater de vobis et re publica;  40 
- nam quid ego memorem,&#151;ut alios in tragoediis
+ nam quid ego memorem,—ut alios in tragoediis
  vidi, Neptunum Virtutem Victoriam
  Martem Bellonam, commemorare quae bona
- vobis fecissent,&#151; quis bene factis meus pater,
+ vobis fecissent,— quis bene factis meus pater,
  deorum regnator *** architectus omnibus?  45 
  sed mos numquam illi fuit patri meo,~
  ut exprobraret quod bonis faceret boni;
@@ -133,7 +133,7 @@ Vt vos in vostris voltis mercimoniis emundis vendundisque me laetum lucris
  utrum sit an non voltis? sed ego stultior,
  quasi nesciam vos velle, qui divos siem.
  teneo quid animi vostri super hac re siet:
- faciam ut commixta sit: &lt;sit> tragicomoedia.
+ faciam ut commixta sit: <sit> tragicomoedia.
  nam me perpetuo facere ut sit comoedia,  60 
  reges quo veniant et di, non par arbitror.
  quid igitur? quoniam hic servos quoque partes habet,
@@ -155,7 +155,7 @@ Vt vos in vostris voltis mercimoniis emundis vendundisque me laetum lucris
  virtute ambire oportet, non favitoribus.
  sat habet favitorum semper qui recte facit,
  si illis fides est quibus est ea res in manu.  80 
- hoc quoque etiam mihi &lt;pater> in mandatis dedit,
+ hoc quoque etiam mihi <pater> in mandatis dedit,
  ut conquaestores fierent histrionibus:
  qui sibi mandasset delegati ut plauderent
  quive quo placeret alter fecisset minus,
@@ -169,7 +169,7 @@ Vt vos in vostris voltis mercimoniis emundis vendundisque me laetum lucris
  Iovem invocarunt, venit, auxilio is fuit.
  [praeterea certo prodit in tragoedia.]
  hanc fabulam, inquam, hic Iuppiter hodie ipse aget,
- et ego una cum illo. nunc &lt;vos> animum advortite,  95 
+ et ego una cum illo. nunc <vos> animum advortite,  95 
  dum huius argumentum eloquar comoediae.
   Haec urbs est Thebae. in illisce habitat aedibus
  Amphitruo, natus Argis ex Argo patre,
@@ -188,7 +188,7 @@ Vt vos in vostris voltis mercimoniis emundis vendundisque me laetum lucris
  utrimque est gravida, et ex viro et ex summo Iove.
  et meus pater nunc intus hic cum illa cubat,
  et haec ob eam rem nox est facta longior,
- dum &lt;cum> illa quacum volt voluptatem capit;
+ dum <cum> illa quacum volt voluptatem capit;
  sed ita adsimulavit se, quasi Amphitruo siet.  115 
  nunc ne hunc ornatum vos meum admiremini,
  quod ego huc processi sic cum servili schema:
@@ -242,7 +242,7 @@ Vt vos in vostris voltis mercimoniis emundis vendundisque me laetum lucris
  quid faciam nunc, si tres viri me in carcerem compegerint?  155 
  inde cras quasi e promptaria cella depromar ad flagrum,
  nec causam liceat dicere mihi, neque in ero quicquam auxili
- nec quisquam sit quin me &lt;malo> omnes esse dignum deputent.
+ nec quisquam sit quin me <malo> omnes esse dignum deputent.
  ita quasi incudem me miserum homines octo validi caedant:  159-160 
  ita peregre adveniens hospitio publicitus accipiar.   161-162 
  haec eri immodestia    163 
@@ -299,7 +299,7 @@ tetigimus,
  Amphitruo, magnanimi viri freti virtute et viribus
  superbe nimis ferociter legatos nostros increpant,
  respondent bello se et suos tutari posse, proinde uti
- propere &lt;irent>, de suis finibus exercitus deducerent.  215 
+ propere <irent>, de suis finibus exercitus deducerent.  215 
  haec ubi legati pertulere, Amphitruo castris ilico
  producit omnem exercitum. Teloboae contra ex oppido
  legiones educunt suas nimis pulcris armis praeditas.
@@ -314,8 +314,8 @@ tetigimus,
  postquam id actum est, tubae contra utrimque occanunt,
  consonat terra, clamorem utrimque efferunt.
  imperator utrimque, hinc et illinc, Iovi
- vota suscipere, &lt;utrimque> hortari exercitum.  230 
- &lt;tum> pro se quisque id quod quisque potest et valet
+ vota suscipere, <utrimque> hortari exercitum.  230 
+ <tum> pro se quisque id quod quisque potest et valet
  edit, ferro ferit, tela frangunt, boat
  caelum fremitu virum, ex spiritu atque anhelitu
  nebula constat, cadunt volnerum vi viri.
@@ -337,8 +337,8 @@ tetigimus,
  SOS. Perduelles penetrant se in fugam; ibi nostris animus additust:  250 
  vortentibus Telobois telis complebantur corpora,
  ipsusque Amphitruo regem Pterelam sua obtruncavit manu.
- haec illic est pugnata pugna usque a mani ad vesperum&#151;
- hoc adeo hoc commemini magis, quia illo die inpransus fui&#151;
+ haec illic est pugnata pugna usque a mani ad vesperum—
+ hoc adeo hoc commemini magis, quia illo die inpransus fui—
  sed proelium id tandem diremit nox interventu suo.   255 
  postridie in castra ex urbe ad nos veniunt flentes principes:
  velatis manibus orant ignoscamus peccatum suom,
@@ -387,7 +387,7 @@ pruriunt; 295
  credo misericors est: nunc propterea quod me meus erus
  fecit ut vigilarem, hic pugnis faciet hodie ut dormiam.
  oppido interii. obsecro hercle, quantus et quam validus est.
- MERC. Clare advorsum fabulabor, &lt;ut> hic auscultet quae loquar;  300 
+ MERC. Clare advorsum fabulabor, <ut> hic auscultet quae loquar;  300 
  igitur magis demum maiorem in sese concipiet metum.
  agite, pugni, iam diu est quom ventri victum non datis:
  iam pridem videtur factum, heri quod homines quattuor
@@ -439,7 +439,7 @@ sum, non me videt:
  qui possim videri huic fortis, a me ut abstineat manum.   340 
  MERC. Quo ambulas tu, qui Volcanum in cornu conclusum geris?
  SOS. Quid id exquiris tu, qui pugnis os exossas hominibus?
- MERC. Servosne &lt;es> an liber? SOS. Vtcumque animo
+ MERC. Servosne <es> an liber? SOS. Vtcumque animo
 conlibitum est meo.
  MERC. Ain vero? SOS. Aio enim vero. M. Verbero.
  S. 
@@ -447,7 +447,7 @@ Mentiris nunc.
  MERC. At iam faciam ut verum dicas dicere. SOS. Quid
 eo est opus?  345 
  MERC. Possum scire, quo profectus, cuius sis aut quid veneris?
- SOS. Huc eo, eri &lt;iussu, eius> sum servos. numquid nunc es
+ SOS. Huc eo, eri <iussu, eius> sum servos. numquid nunc es
 certior?
  M. Ego tibi istam hodie, sceleste, comprimam linguam. S. 
 Haud potes:
@@ -519,11 +519,11 @@ siet.
  M. Hic homo sanus non est. S. Quod mihi praedicas vitium,
 id tibi est.
  quid, malum, non sum ego servos Amphitruonis Sosia?
- nonne hac noctu nostra navis &lt;huc> ex portu Persico
+ nonne hac noctu nostra navis <huc> ex portu Persico
  venit, quae me advexit? nonne me huc erus misit meus?  405 
  nonne ego nunc sto ante aedes nostras? non mi est lanterna in manu?
  non loquor, non vigilo? nonne hic homo modo me pugnis contudit?
- fecit hercle, nam etiam misero nunc &lt;mihi> malae dolent.
+ fecit hercle, nam etiam misero nunc <mihi> malae dolent.
  quid igitur ego dubito, aut cur non intro eo in nostram domum?
  M. Quid, domum vostram? S. Ita enim vero. M. Quin
 quae dixisti modo 410 
@@ -534,9 +534,9 @@ quae dixisti modo 410
  et ipsus Amphitruo optruncavit regem Pterelam in proelio.  415 
  SOS. Egomet mihi non credo, cum illaec autumare illum audio;
  hic quidem certe quae illic sunt res gestae memorat memoriter.
- sed quid ais? quid Amphitruoni &lt;doni> a Telobois datum est?
+ sed quid ais? quid Amphitruoni <doni> a Telobois datum est?
  MERC. Pterela rex qui potitare solitus est patera aurea.
- SOS. Elocutus est. ubi patera nunc est? MERC. &lt;Est>
+ SOS. Elocutus est. ubi patera nunc est? MERC. <Est>
 in cistula; 420 
  Amphitruonis obsignata signo est. SOS. Signi dic quid est?
  MERC. Cum quadrigis Sol exoriens. quid me captas, carnufex?
@@ -561,7 +561,7 @@ egomet siem?
  MERC. Vbi ego Sosia nolim esse, tu esto sane Sosia;
  nunc, quando ego sum, vapulabis, ni hinc abis, ignobilis.  440 
  SOS. Certe edepol, quom illum contemplo et formam cognosco meam,
- quem ad modum ego sum&#151;saepe in speculum inspexi&#151;nimis similest
+ quem ad modum ego sum—saepe in speculum inspexi—nimis similest
 mei;
  itidem habet petasum ac vestitum: tam consimilest atque ego;
  sura, pes, statura, tonsus, oculi, nasum vel labra,
@@ -583,7 +583,7 @@ inscendas Iovis  450
  vivo fit quod numquam quisquam mortuo faciet mihi.
  ibo ad portum atque haec uti sunt facta ero dicam meo;  460 
  nisi etiam is quoque me ignorabit: quod ille faxit Iuppiter,
- ut ego hodie raso capite calvos capiam pilleum.&#151;
+ ut ego hodie raso capite calvos capiam pilleum.—
 
  
 
@@ -639,7 +639,7 @@ domo
  sed ubi summus imperator non adest ad exercitum,
  citius quod non facto est usus fit quam quod facto est opus.  505 
  MERC. Nimis hic scitust sycophanta, qui quidem meus sit pater.
- observatote &lt;eum>, quam blande mulieri palpabitur.
+ observatote <eum>, quam blande mulieri palpabitur.
  ALC. Ecastor te experior quanti facias uxorem tuam.
  IVPP. Satin habes, si feminarum nulla est quam aeque diligam?
  MERC. Edepol ne illa si istis rebus te sciat operam dare,   510 
@@ -652,12 +652,12 @@ domo
  sic ecflictim amare, proinde ut hic te ecflictim deperit.
  IVPP. Carnufex, non ego te novi? abin e conspectu meo?
  quid tibi hanc curatio est rem, verbero, aut muttitio?
- quoii ego iam hoc scipione&#151; ALC. Ah noli. IVPP. Muttito
+ quoii ego iam hoc scipione— ALC. Ah noli. IVPP. Muttito
 modo. 520 
  MERC. Nequiter paene expedivit prima parasitatio.
  IVPP. Verum quod tu dicis, mea uxor, non te mi irasci decet.
  clanculum abii a legione: operam hanc subrupui tibi,
- ex me primo &lt;ut> prima scires, rem ut gessissem publicam.
+ ex me primo <ut> prima scires, rem ut gessissem publicam.
  ea tibi omnia enarravi. nisi te amarem plurimum,    525 
  non facerem. MERC. Facitne ut dixi? timidam palpo percutit.
  IVPP. Nunc, ne legio persentiscat, clam illuc redeundum est
@@ -669,7 +669,7 @@ Tace,
  IVPP. Non ego te hic lubens relinquo neque abeo abs te. ALC. 
 Sentio,
  nam qua nocte ad me venisti, eadem abis. IVPP. Cur me tenes?
- tempus &lt;est>: exire ex urbe prius quam lucescat volo.
+ tempus <est>: exire ex urbe prius quam lucescat volo.
  nunc tibi hanc pateram, quae dono mi illi ob virtutem data est,
  Pterela rex qui potitavit, quem ego mea occidi manu,   535 
  Alcumena, tibi condono. ALC. Facis ut alias res soles.
@@ -686,12 +686,12 @@ Sosia,
  iam ego sequar. numquid vis? A. Etiam: ut actutum advenias.
  I. 
 Licet,
- prius tua opinione hic adero: bonum animum habe.&#151;   545 
+ prius tua opinione hic adero: bonum animum habe.—   545 
  nunc te, nox, quae me mansisti, mitto uti cedas die,
  ut mortalis inlucescat luce clara et candida.
  atque quanto, nox, fuisti longior hac proxuma,
  tanto brevior dies ut fiat faciam, ut aeque disparet.
- sed dies e nocte accedat. ibo et Mercurium sequar.&#151;  550 
+ sed dies e nocte accedat. ibo et Mercurium sequar.—  550 
  
 
  
@@ -707,7 +707,7 @@ te.
  AMPH. Scelestissimum te arbitror. SOS. Nam quam ob rem?
  AMPH. Quia id quod neque est neque fuit neque futurum est
  mihi praedicas. SOS. Eccere, iam tuatim
- facis &lt;tu>, ut tuis nulla apud te fides sit.    555 
+ facis <tu>, ut tuis nulla apud te fides sit.    555 
  AMPH. Quid est? quo modo? iam quidem hercle ego tibi istam
  scelestam, scelus, linguam abscidam. SOS. Tuos sum,
  proinde ut commodumst et lubet quidque facias;
@@ -751,9 +751,9 @@ te.
  quoius ego hodie in tergum faxo ista expetant mendacia.
  SOS. Amphitruo, miserrima istaec miseria est servo bono,  590 
  apud erum qui vera loquitur, si id vi verum vincitur.
- AMPH. Quo id, malum, pacto potest nam&#151;mecum argumentis puta
-&#151;
- fieri, nunc uti tu &lt;et> hic sis et domi? id dici volo.
+ AMPH. Quo id, malum, pacto potest nam—mecum argumentis puta
+—
+ fieri, nunc uti tu <et> hic sis et domi? id dici volo.
  SOS. Sum profecto et hic et illic. hoc cuivis mirari licet,
  neque tibi istuc mirum *** magis videtur quam mihi.  595 
  AMPH. Quo modo? S. Nihilo, inquam, mirum magis tibi istuc
@@ -763,7 +763,7 @@ quam mihi;
  ordine omne, uti quicque actum est, dum apud hostis sedimus,
  edissertavit. tum formam una abstulit cum nomine.   600 
  neque lac lactis magis est simile quam ille ego similest mei.
- nam ut dudum ante lucem a portu me praemisisti domum&#151;
+ nam ut dudum ante lucem a portu me praemisisti domum—
  A. Quid igitur? S. Prius multo ante aedis stabam quam
 illo adveneram.
  AMPH. Quas, malum, nugas? satin tu sanus es? SOS. Sic
@@ -789,9 +789,9 @@ te prohibuit?
 dicendum est tibi?
  AMPH. Sed quid ais? num obdormivisti dudum? SOS. Nusquam
 gentium. 620 
- AMPH. Ibi forte istum si vidisses quendam in somnis Sosiam&#151;
+ AMPH. Ibi forte istum si vidisses quendam in somnis Sosiam—
  SOS. Non soleo ego somniculose eri imperia persequi.
- vigilans vidi, vigilans nunc &lt;te> video, vigilans fabulor,
+ vigilans vidi, vigilans nunc <te> video, vigilans fabulor,
  vigilantem ille me iam dudum vigilans pugnis contudit.
  AMPH. Quis homo? SOS. Sosia, inquam, ego ille. quaeso,
 nonne intellegis? 625 
@@ -863,7 +863,7 @@ cepero,
  numquam edepol tu mihi divini creduis post hunc diem,
  ni ego illi puteo, si occepso, animam omnem intertraxero.
  AMPH. Sequere hac me modo; alium ego isti rei allegabo, ne time.
- AL. Magis nunc &lt;me> meum officium facere, si huic eam advorsum,
+ AL. Magis nunc <me> meum officium facere, si huic eam advorsum,
 arbitror. 675 
  AMPH. Amphitruo uxorem salutat laetus speratam suam,
  quam omnium Thebis vir unam esse optimam diiudicat,
@@ -948,7 +948,7 @@ modo?
  SOS. Recte dicit, ut commeminit: somnium narrat tibi.
  sed, mulier, postquam experrecta es, te prodigiali Iovi
  aut mola salsa hodie aut ture comprecatam oportuit.   740 
- ALC. Vae capiti tuo. SOS. Tua istuc refert&#151;si curaveris.
+ ALC. Vae capiti tuo. SOS. Tua istuc refert—si curaveris.
  ALC. Iterum iam hic in me inclementer dicit, atque id sine malo.
  AMPH. Tace tu. tu dic: egone abs te abii hinc hodie cum diluculo?
  ALC. Quis igitur nisi vos narravit mi, illi ut fuerit proelium?
@@ -988,7 +988,7 @@ hinc negas?
  SOS. Neque edepol ego dixi neque istam vidi nisi tecum simul.
  AM. Quid hoc sit hominis? AL. Vin proferri pateram? AM. 
 Proferri volo.
- ALC. Fiat. &lt;heus> tu, Thessala, intus pateram proferto foras,    770 
+ ALC. Fiat. <heus> tu, Thessala, intus pateram proferto foras,    770 
  qua hodie meus vir donavit me. AMPH. Secede huc tu, Sosia,
  enim vero illud praeter alia mira miror maxime,
  si haec habet pateram illam. SOS. An etiam credis id, quae in
@@ -1097,14 +1097,14 @@ mihi,
  numquid causam dicis, quin te hoc multem matrimonio?
  ALC. Si deliqui, nulla causa est. AMPH. Convenit. tu,
 Sosia,
- duc hos intro. ego huc ab navi mecum adducam Naucratem.&#151;
+ duc hos intro. ego huc ab navi mecum adducam Naucratem.—
  SOS. Nunc quidem praeter nos nemo est. dic mihi verum serio:  855 
  ecquis alius Sosia intust, qui mei similis siet?
  ALC. Abin hinc a me dignus domino servos? SOS. Abeo,
-si iubes.&#151;
+si iubes.—
  ALC. Nimis ecastor facinus mirum est, qui illi conlibitum siet
  meo viro sic me insimulare falso facinus tam malum.
- quidquid est, iam ex Naucrate cognato id cognoscam meo.&#151;  860 
+ quidquid est, iam ex Naucrate cognato id cognoscam meo.—  860 
  
 
  
@@ -1221,7 +1221,7 @@ si iubes.&#151;
  
  III.iii 
  SOSIA Amphitruo, assum. si quid opus est, impera, imperium exequar.
- IVPP. &lt;Sosia>, optume advenis. SOS. Iam pax est inter
+ IVPP. <Sosia>, optume advenis. SOS. Iam pax est inter
 vos duos?
  nam quia vos tranquillos video, gaudeo et volup est mihi.
  atque ita servom par videtur frugi sese instituere:
@@ -1236,17 +1236,17 @@ est.  965
 Censeo.
  IVPP. Tu gubernatorem a navi huc evoca verbis meis
  Blepharonem, qui re divina facta mecum prandeat.
- SOS. Iam hic ero, cum illic censebis esse me.&#151; IVPP. 
+ SOS. Iam hic ero, cum illic censebis esse me.— IVPP. 
 Actutum huc redi.
  ALC. Numquid vis, quin abeam iam intro, ut apparentur quibus
 opust?  970 
  IVPP. I sane, et quantum potest parata fac sint omnia.
- ALC. Quin venis quando vis intro? faxo haud quicquam sit morae.&#151;
+ ALC. Quin venis quando vis intro? faxo haud quicquam sit morae.—
  IVPP. Recte loquere et proinde diligentem ut uxorem decet.
  iam hisce ambo, et servos et era, frustra sunt duo,
  qui me Amphitruonem rentur esse: errant probe.  975 
- nunc tu divine huc fac adsis Sosia&#151;
- audis quae dico, tam etsi praesens non ades&#151;
+ nunc tu divine huc fac adsis Sosia—
+ audis quae dico, tam etsi praesens non ades—
  fac Amphitruonem advenientem ab aedibus
  ut abigas; quovis pacto fac commentus sis.
  volo deludi illunc, dum cum hac usuraria   980 
@@ -1343,7 +1343,7 @@ te macto infortunio.
 
  
  Non. 354M 
- (MERC.) Erus Amphitruo&lt;st> occupatus.  1034b 
+ (MERC.) Erus Amphitruo<st> occupatus.  1034b 
 
  
 
@@ -1405,7 +1405,7 @@ te macto infortunio.
 
  
  Prisc. GL 2.168K, 2.321K 
- (AMPH.) Ibi scrobes ecfodito &lt;tu> plus sexagenos in die.  1034n 
+ (AMPH.) Ibi scrobes ecfodito <tu> plus sexagenos in die.  1034n 
 
  
 
@@ -1458,11 +1458,11 @@ te macto infortunio.
  neque ego umquam usquam tanta mira me vidisse censeo.
  AMPH. Blepharo, quaeso ut advocatus mi adsis neve abeas. BLEPH. 
 Vale.
- quid opust me advocato, qui utri sim advocatus nescio?&#151;
- IVPP. Intro ego hinc eo. Alcumena parturit.&#151; AMPH. Perii
+ quid opust me advocato, qui utri sim advocatus nescio?—
+ IVPP. Intro ego hinc eo. Alcumena parturit.— AMPH. Perii
 miser.
 
- quid ego &lt;faciam>, quem advocati iam atque amici deserunt?    1040 
+ quid ego <faciam>, quem advocati iam atque amici deserunt?    1040 
  numquam edepol me inultus istic ludificabit, quisquis est;
  nam iam ad regem recta me ducam resque ut facta est eloquar.~
  ego pol illum ulciscar hodie Thessalum veneficum,
@@ -1508,7 +1508,7 @@ tonuit!
  sed quid hoc? quis hic est senex, qui ante aedis nostras sic iacet?
  numnam hunc percussit Iuppiter?
  credo edepol, nam, pro Iuppiter, sepultust quasi sit mortuos.
- ibo et cognoscam, quisquis est. Amphitruo hic quidem &lt;est> erus
+ ibo et cognoscam, quisquis est. Amphitruo hic quidem <est> erus
 meus.  1075 
  Amphitruo. A. Perii. B. Surge. A. Interii. B. 
 Cedo manum. A. Quis me tenet?
@@ -1562,7 +1562,7 @@ accipe.
  AMPH. Mira memoras, nimis formidolosum facinus praedicas;
  nam mihi horror membra misero percipit dictis tuis.
  quid fit deinde? porro loquere. BROM. Puer ambo angues enicat.
- dum haec aguntur, voce clara exclamat uxorem tuam&#151;    1120 
+ dum haec aguntur, voce clara exclamat uxorem tuam—    1120 
  A. Quis homo? B. Summus imperator divom atque hominum
 Iuppiter.
  is se dixit cum Alcumena clam consuetum cubitibus,
@@ -1590,7 +1590,7 @@ Iuppiter.
  suis factis te immortali adficiet gloria.       1140 
  tu cum Alcumena uxore antiquam in gratiam
  redi: haud promeruit quam ob rem vitio vorteres;
- mea vi subactast facere. ego in caelum migro.&#151;
+ mea vi subactast facere. ego in caelum migro.—
 
  
 

@@ -92,7 +92,7 @@ saepe comam pulchro collectam flore ligabat,
 ornans ambrosios divino pectine crines. 
 Dum ludos sic blanda Venus, dum gaudia miscet 
 et dum suspenso solatia quaerit amori,       75 
-&lt;et> dum flet quod sera venit sibi grata voluptas, 
+<et> dum flet quod sera venit sibi grata voluptas, 
 ecce furens post bella deus, post proelia victor 
 victus amore venit. Cur gestas ferrea tela? 
 Ne metuat Cypris, comptum decet ire rosetis. 
@@ -144,7 +144,7 @@ Non omnis resupina iacet, sed corpore flexo
 molliter et laterum qua se confinia iungant; 
 Martem respiciens, deponit lumina somno,     125 
 sed gratiosa, decens... Pro lucis forte Cupido 
-Martis tela regens; quae postquam singula &lt;lustrat> 
+Martis tela regens; quae postquam singula <lustrat> 
 loricam clipeum gladium galeaeque minaces 
 cristas flore ligat: tunc hastae pondera temptat 
 miraturque suis tantum licuisse sagittis.      130 

@@ -134,8 +134,8 @@ per hos omnium generum nomina pronomina participia declinantur hoc modo:
  magister nomen appellatiuum generis masculini numeri singularis
 figurae simplicis casus nominatiui et uocatiui, quod declinabitur sic:
 nominatiuo hic magister , genetiuo huius magistri , datiuo
- huic magistro , accusatiuo hunc magistrum , &lt;uocatiuo
- o magister &gt;, ablatiuo ab hoc magistro ; et pluraliter
+ huic magistro , accusatiuo hunc magistrum , <uocatiuo
+ o magister >, ablatiuo ab hoc magistro ; et pluraliter
 nominatiuo hi magistri , genetiuo horum magistrorum ,
 datiuo his magistris , accusatiuo hos magistros , uocatiuo
  o magistri , ablatiuo ab his magistris . Musa 
@@ -276,33 +276,33 @@ ut ille .
 pronomina inflectuntur hoc modo. ego pronomen finitum
 generis omnis numeri singularis figurae simplicis personae primae
 casus nominatiui, quod declinabitur sic: ego mei uel mis
-mihi me &lt;o ego&gt; a me , et pluraliter nos nostrum uel 
-nostri nobis nos o &lt;nos&gt; a nobis : personae secundae generis omnis
-numeri singularis tu tui uel tis tibi te o &lt;tu&gt; a te ,
-et pluraliter uos uestrum uel uestri uobis uos o &lt;uos&gt; a uobis :
+mihi me <o ego> a me , et pluraliter nos nostrum uel 
+nostri nobis nos o <nos> a nobis : personae secundae generis omnis
+numeri singularis tu tui uel tis tibi te o <tu> a te ,
+et pluraliter uos uestrum uel uestri uobis uos o <uos> a uobis :
 personae tertiae generis masculini numeri singularis ille illius illi
 illum ab illo , et pluraliter illi illorum illis illos ab illis ;
 generis feminini numeri singularis illa illius illi illam ab illa ,
 et pluraliter illae illarum illis illas ab illis ; generis neutri
 numeri singularis illud illius illi illud ab illo , et pluraliter
  illa illorum illis illa ab illis . minus quam finita generis
-masculini numeri singularis ipse ipsius ipsi ipsum &lt;o ipse&gt; ab
-ipso , et pluraliter ipsi ipsorum ipsis ipsos &lt;o ipsi&gt; ab ipsis ;
-generis feminini numeri singularis ipsa ipsius ipsi ipsam &lt;o ipsa&gt;
-ab ipsa , et pluraliter ipsae ipsarum ipsis ipsas &lt;o ipsae&gt; ab
+masculini numeri singularis ipse ipsius ipsi ipsum <o ipse> ab
+ipso , et pluraliter ipsi ipsorum ipsis ipsos <o ipsi> ab ipsis ;
+generis feminini numeri singularis ipsa ipsius ipsi ipsam <o ipsa>
+ab ipsa , et pluraliter ipsae ipsarum ipsis ipsas <o ipsae> ab
 ipsis ; generis neutri numeri singularis ipsum ipsius ipsi ipsum
-&lt;o ipsum&gt; ab ipso , et pluraliter ipsa ipsorum ipsis ipsa 
+<o ipsum> ab ipso , et pluraliter ipsa ipsorum ipsis ipsa 
 ab ipsis . item minus quam finita generis masculini numeri singularis
  iste istius isti istum ab isto , et pluraliter isti istorum
 istis istos ab istis ; generis feminini numeri singularis ista
 istius isti istam ab ista , et pluraliter istae istarum istis ista
 ab istis . item articulare praepositiuum uel demonstratiuum generis
-masculini numeri singularis hic huius huic hunc o &lt;hic&gt; ab hoc ,
-et pluraliter hi horum his hos o &lt;hi&gt; ab his ; generis feminini
-numeri singularis haec huius huic hanc o &lt;haec&gt; ab hac , et
-pluraliter hae harum his has o &lt;hae&gt; ab his ; generis neutri numeri
-singularis hoc huius huic hoc o &lt;hoc&gt; ab hoc , et pluraliter 
-haec horum his haec o &lt;haec&gt; ab his . item subiunctiuum uel relatiuum
+masculini numeri singularis hic huius huic hunc o <hic> ab hoc ,
+et pluraliter hi horum his hos o <hi> ab his ; generis feminini
+numeri singularis haec huius huic hanc o <haec> ab hac , et
+pluraliter hae harum his has o <hae> ab his ; generis neutri numeri
+singularis hoc huius huic hoc o <hoc> ab hoc , et pluraliter 
+haec horum his haec o <haec> ab his . item subiunctiuum uel relatiuum
 generis masculini numeri singularis is eius ei eum ab eo , et
 pluraliter ei eorum eis eos ab eis ; generis feminini numeri
 singularis ea eius ei eam ab ea , et pluraliter eae earum
@@ -317,11 +317,11 @@ generis neutri numeri singularis quod cuius cui quod a quo uel
  a qui , et pluraliter quae quorum quis uel quibus
 quae a quis uel a quibus . item possessiua finita ad aliquid
 dicta ex utraque parte singularia generis masculini meus mei meo
-meum o &lt;mi&gt; a meo , et pluraliter ex altera parte mei meorum meis
-meos o &lt;mei&gt; a meis ; generis feminini numeri singularis mea meae
-meae meam o &lt;mea&gt; a mea , et pluraliter meae mearum meis meas
-o &lt;meae&gt; a meis ; generis neutri numeri singularis meum mei meo
-meum o &lt;meum&gt; a meo , et pluraliter mea meorum meis mea o 
+meum o <mi> a meo , et pluraliter ex altera parte mei meorum meis
+meos o <mei> a meis ; generis feminini numeri singularis mea meae
+meae meam o <mea> a mea , et pluraliter meae mearum meis meas
+o <meae> a meis ; generis neutri numeri singularis meum mei meo
+meum o <meum> a meo , et pluraliter mea meorum meis mea o 
 a meis : personae secundae generis masculini numeri singularis 
 tuus tui tuo tuum a tuo et pluraliter tui tuorum tuis tuos a
 tuis ; generis feminini numeri singularis tua tuae tuae tuam
@@ -334,13 +334,13 @@ sua suae suae suam a sua , et pluraliter suae suarum suis suas a
 suis ; generis neutri numeri singularis suum sui suo suum a suo ,
 et pluraliter sua suorum suis sua a suis . item possessiua finita
 ad aliquid dicta ex altera parte pluralia generis masculini noster
-nostri nostro nostrum o &lt;noster&gt; a nostro , et pluraliter ex utraque
-parte nostri nostrorum nostris nostros o &lt;nostri&gt; a nostris ;
+nostri nostro nostrum o <noster> a nostro , et pluraliter ex utraque
+parte nostri nostrorum nostris nostros o <nostri> a nostris ;
 generis feminini numeri singularis nostra nostrae nostrae nostram
-o &lt;nostra&gt; a nostra , et pluraliter nostrae nostrarum nostris
-nostras o &lt;nostrae&gt; a nostris ; generis neutri numeri singularis 
-nostrum nostri nostro nostrum o &lt;nostrum&gt; a nostro , et pluraliter
- nostra nostrorum nostris nostra o &lt;nostra&gt; a nostris : personae
+o <nostra> a nostra , et pluraliter nostrae nostrarum nostris
+nostras o <nostrae> a nostris ; generis neutri numeri singularis 
+nostrum nostri nostro nostrum o <nostrum> a nostro , et pluraliter
+ nostra nostrorum nostris nostra o <nostra> a nostris : personae
 secundae generis masculini numeri singularis uester uestri uestro
 uestrum a uestro , et pluraliter uestri uestrorum uestris uestros a
 uestris generis feminini numeri singularis uestra uestrae uestrae

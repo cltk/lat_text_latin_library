@@ -96,9 +96,9 @@ III. [De fatuo, qui sapienciam acquirit.]
 Dum cupit atque parum petit addiscenda morarum 
 Haec documenta sibi, doctoris ab ore periti 
 Sumit, ut hec cordi studeat sex uerba reponi: 
-&quot;Istud et illud agas; huc, illuc quandoque uadas; 
+"Istud et illud agas; huc, illuc quandoque uadas; 
 Inferius, sursum, uaria uice, dirige cursum; 
-In quibus ad plenum latet alta sciencia rerum&quot;. 
+In quibus ad plenum latet alta sciencia rerum". 
 Hac breuitate more confisus in artis amore, 
 Instat ad hoc solum, labiis memor ut sit eorum, 
 Non ut rimetur, quod in his, quid agatur, habetur, 
@@ -179,11 +179,11 @@ Quos id conari dum sensit et ista minari,
 Clam monuit talem per fraudem collateralem, 
 Querat ut hic alte, tot opes qua repperit arte; 
 Hisque requisitus, dedit haec responsa peritus: 
-&quot;More iuuentutis comes olim furta secutis, 
+"More iuuentutis comes olim furta secutis, 
 Per radium lunae tute, quasi tramite fune 
 Qualibet a rima tecti ducebar ad ima; 
 Quo radio sursum referebam denuo cursum, 
-Diues et intactus tales plerumque per actus&quot;. 
+Diues et intactus tales plerumque per actus". 
 Huius ouans dictis, temerarius unus in istis 
 Tecta domus scandit, radioque foramina paadit, 
 Cuique manu nisus, pronus ruit intus, relisus, 
@@ -242,10 +242,10 @@ Proicie[n]s extra cuneum, femur angit et exta,
 Liquerat inmissum quem truncum sector in ipsum. 
 Cuius opus stultum rediens ne linquat inultum, 
 Verbere cum uerbis super hanc his instat acerbis: 
-&quot;Dic, age: qua causa sic sunt tua uiscera clausa? 
-Non est naturae, tibi sint ut talia curae&quot;. 
-Tristis ad hec infit: &quot;Mea me demencia strinxit, 
-Tale per inuentum dum facta relinquo parentum&quot;. 
+"Dic, age: qua causa sic sunt tua uiscera clausa? 
+Non est naturae, tibi sint ut talia curae". 
+Tristis ad hec infit: "Mea me demencia strinxit, 
+Tale per inuentum dum facta relinquo parentum". 
 
 Prouidus accuret sibi lector, ut ista figuret 
 Officiumque sequi naturae, iuris et aequi; 
@@ -266,10 +266,10 @@ GRATOS esse parum coram se rege ferarum
 Sunt duo conquesti nimis ursi, mutuo mesti. 
 Cui sint ut cari, ceperunt talia fari, 
 Maior, ut est moris, factus suadela minoris: 
-&quot;Cur non eniti uolumus famulamine miti, 
-Simus ut huic grati, iubet ad quaecumque, parati?&quot; 
+"Cur non eniti uolumus famulamine miti, 
+Simus ut huic grati, iubet ad quaecumque, parati?" 
 Quem minor hortatur, ne quid sibi tale loquatur: 
-&quot;Propria sectemur magis huic quam sic famulemur&quot;. 
+"Propria sectemur magis huic quam sic famulemur". 
 Maior, ut ignauus, nequiquam talia suasus 
 Instat, ut e cunctis, fuerant tunc que sibi, iunctis 
 Equalis, librae sub pondere, pars sit utrique. 
@@ -281,21 +281,21 @@ Plus aliis factus sibi consiliarius aptus.
 Ob quam rem miram gregis istius unus, in iram 
 Actus, torquetur, quod sic nouus ursus ametur; 
 Quem nimis astutum perhibent sic esse locutum: 
-&quot;Proximus est, o rex, homini magis austure sorex; 
+"Proximus est, o rex, homini magis austure sorex; 
 Hunc tamen inuentum studet ocius esse peremptum. 
 Accipitrem blando moderamine nutrit ouando 
-Atque manu missum reuocat cito nutibus ipsum&quot;. 
+Atque manu missum reuocat cito nutibus ipsum". 
 Ceperat interea bos hac mugire platea. 
 Qua nouitate soni prius hac regione leoni 
 Prorsus inaudita, pelli timet arce potita. 
 Ne formidandum sit ob hec sibi uel dubitandum, 
 Admonet ursus herum tali sub ymagine rerum: 
-&quot;Vis metuenda parum, uox est ubi tanta minarum. 
+"Vis metuenda parum, uox est ubi tanta minarum. 
 Arbore suspensus uter olim, flamine tensus, 
 Vt terreret aues, crepitus iactabat inanes. 
 Hic quoque fit terror uulpi, dum nescit, et error; 
 Quem pede dum tangit sollers et dentibus angit, 
-Intus inanescit, uis illa tumoris ut exit&quot;. 
+Intus inanescit, uis illa tumoris ut exit". 
 Cui non credenti regnoque sibique timenti, 
 Vrso dante fidem, bos supplex ducitur idem. 
 Cui tam sincere studuit per cuncta placere, 
@@ -330,14 +330,14 @@ Censeat ut gnarus, quid largo distet auarus,
 Inter eos ortum, quod adhuc contingere portum 
 Non poterat tutum, fuerat nec ante solutum. 
 Hec raesponsa catus mus reddidit ille rogatus: 
-&quot;Horrea cuiusdam cum muribus ipse quibusdam 
+"Horrea cuiusdam cum muribus ipse quibusdam 
 Ingrediens quondam, uas plenum semine quoddam 
 Cum sociis scandi, nec erat locus hic penetrandi; 
 Pars igitur nostrum solito magis undique rostrum 
 Inprimit et mandit multoque foramine pandit. 
 Vas quoniam largi fuerat sine tegmine spargi, 
 Non fuit his menti, sed ali de uase fluenti. 
-Sic manet intactum prius in nichilumque redactum&quot;. 
+Sic manet intactum prius in nichilumque redactum". 
 
 Quorum capreolus, fugiendo per auia solus, 
 Foedus init, subitusque sinit, mox rete subiuit; 
@@ -373,7 +373,7 @@ Ante suum regem peciit super his sibi legem.
 Mox percontatur rex, qualiter hos tueatur, 
 Presidio Martis uel spe cuiuslibet artis. 
 Vnus ad hoc fatur, qui doctior esse putatur: 
-&quot;Hinc assentemur, quo non licet, ut minitemur. 
+"Hinc assentemur, quo non licet, ut minitemur. 
 Palma datur quando magis assentaminine blando; 
 Nam, si luctemur, superari posse ueremur. 
 Est in luctando fatum uariabile quando, 
@@ -381,13 +381,13 @@ Et gladius nunc hinc, aliquando seuit et illinc.
 Sepe fit, ut nostis, quod transfuga preda sit hostis. 
 Si facimus pactum, nostrum decus est male fractum; 
 Blandimenta precum uertunt in candida tetrum. 
-His reor ulcisci facti discrimina prisci&quot;. 
+His reor ulcisci facti discrimina prisci". 
 Ipse dehinc coruus, leso quasi corpore prorsus, 
 Squalidus et tristis, bubonibus incipit istis, 
  Prostratus terrae, sua quaeque pudenda referre: 
- &quot;En miserandus ego, maciae confectus et aeuo! 
+ "En miserandus ego, maciae confectus et aeuo! 
 Quo michi pergendum dubito, uel quid sit agendum. 
-Quis michi tecta dabit, defectaque membra iuuabit?&quot; 
+Quis michi tecta dabit, defectaque membra iuuabit?" 
 Cuius molliti bubones famine miti, 
 Hunc secretorum socium fecere suorum, 
 Crebroque ducebant, ubi nidificare uolebant. 
@@ -396,10 +396,10 @@ Ante uideretur, uinci tamen arte docetur.
 Quod queat ut credi, facit hic, qui presidet edi, 
 Pandit et id totum, soli quod erat sibi notum, 
 Hocque docet signo, quid agatur ab hoste maligno: 
-&quot;Si fruticum fragmen uolucrum deduxerit agmen 
+"Si fruticum fragmen uolucrum deduxerit agmen 
 Vnguibus aut rostris, solus patet hic ubi postis, 
 Moxque datis lignis aliis si subditur ignis, 
-Hac cadet arte doli domus ista suique coloni.&quot; 
+Hac cadet arte doli domus ista suique coloni." 
 Credulus hic ales rediens docet ista sodales. 
 Coruorum coetus, satis hoc hortamine letus, 
 Ore ferens stramen caueae breuis ante foramen. 
@@ -434,7 +434,7 @@ Arte salutari sic se cito posse iuuari.
 Facta dehinc tristis conchis terroribus istis, 
 Sedulitate precum rogat hanc deducere secum. 
 Quam sic hortatur, hac fraudis et arte precatur: 
-&quot;O mi fida comes dulcisque per omnia fomes, 
+"O mi fida comes dulcisque per omnia fomes, 
 Munere cuius ego iam longo tempore dego, 
 Actenus his largis quas ficubus arbore spargis, 
 Atque tuis micis tecum refouebar amicis! 
@@ -442,17 +442,17 @@ Haec iam sicca negat fructus, quos ferre solebat,
 Nullaque spes uitae regione sub hac fit utrique. 
 Ad loca nostra ueni, uictus ubi dantur ameni. 
 Si uenies ergo, nostro gestabere tergo, 
-Tutaque prorsus eris, dum sic suspensa ueheris&quot;. 
+Tutaque prorsus eris, dum sic suspensa ueheris". 
 Credula promissis supra mare fertur ab ipsis; 
 Cui procul a ripa loquitur testudo perita: 
-&quot;Vxor, amica, uetus multis iacet egra diebus; 
+"Vxor, amica, uetus multis iacet egra diebus; 
 Cuius erit pesti cor, ut asserit, utile uestri: 
-Quod si mittatur, languor procul inde fugatur&quot;. 
+Quod si mittatur, languor procul inde fugatur". 
 Huic tantae fraudi quid prouida dixerit, audi: 
-&quot;Non erat id mecum, dum sic eo per mare tecum; 
+"Non erat id mecum, dum sic eo per mare tecum; 
 Alta super fici quod nuper ut inscia liqui; 
 Tucius huc aeque si me reuehatis utraeque, 
-Vos sequar absque mora, repetet cor ut interiora&quot;. 
+Vos sequar absque mora, repetet cor ut interiora". 
 Sic redit illa dolis, remanentibus his ibi solis. 
 Quae percontantes, cur non comitetur amantes, 
 Ceu condixerunt, delusas se doluerunt.
@@ -467,8 +467,8 @@ Quem pro laude soni uesci dedit illa leoni;
 Qui sit ut illusus, referam lectoris ad usus. 
 Nam cum sensisset, famis hic quod mole perisset, 
 More suo ludens, retulit sibi talia prudens: 
-&quot;Si sine corde feram nec habentem lumina dedam, 
-Dic, si uesceris, qua me cito dante frueris?&quot; 
+"Si sine corde feram nec habentem lumina dedam, 
+Dic, si uesceris, qua me cito dante frueris?" 
 Cui cum dixisset se mandere, quaeque dedisset, 
 Protinus inpelli cor ad hoc male suasit aselli, 
 Ipsius ut blanda prece currat ad oscula danda; 
@@ -477,9 +477,9 @@ Mox leo, consumpto iam pene cadauere cuncto,
 Dum cor habere nequit, aures et lumina querit, 
 Subdola iam pridem uulpes que dempsit eidem. 
 Talia querenti, nec se reperisse dolenti: 
-&quot;Non aliquem culpes&quot;, respondet subdola uulpes, 
-&quot;Non sic deceptus, nec tam foret ultro prouectus, 
-Si supradictorum frueretur quolibet horum&quot;. 
+"Non aliquem culpes", respondet subdola uulpes, 
+"Non sic deceptus, nec tam foret ultro prouectus, 
+Si supradictorum frueretur quolibet horum". 
 
 Nouerit ille sibi solummodo talia scribi, 
 Mente quidem captum quem constat ad utile factum; 
@@ -500,24 +500,24 @@ Quo terrore ferae metuentes prorsus egere
 Perpetuoque pati uictus sibi dampna negati, 
 Quaque die dandam statuunt sibi mutuo quandam 
 Tocius esse gregis pro tanti numine regis. 
-Forte die quadam uulpes ait: &quot;En ego uadam; 
+Forte die quadam uulpes ait: "En ego uadam; 
 Idque licet nolim, quoniam sors obtulit olim, 
-Protinus inpendam me morsibus eius edendam&quot;. 
+Protinus inpendam me morsibus eius edendam". 
 Que dum sic iret, quo pacto fallere quiret, 
 Hunc meditatur herum solita uertigine rerum, 
 Huicque propinquando fert talia famine blando: 
-&quot;Huc ego mittebar, ueluti pro sorte uidebar 
+"Huc ego mittebar, ueluti pro sorte uidebar 
 Iussa, ferens mecum censum, dare quem fuit aequum, 
 Scilicet agnellum pinguem satis atque tenellum; 
 Quem leo, predo ferox, rapuit michi, maximus heros, 
 Meque renitentem, sibi nec parere uolentem 
 Non sine tormento laniauit dente cruento; 
 Sed uulpina caro gustu quia fetet amaro, 
-Hanc post uindictam me deserit utpote uictam&quot;. 
+Hanc post uindictam me deserit utpote uictam". 
 Quod ratus ulcisci leo dedecus, haec ait ipsi: 
-&quot;Dic, rogo, si nosti, locus est ubi cercior hosti&quot;. 
-&quot;Ecce lacuna uetus&quot;, uulpes ait, &quot;est ubi suetus, 
-Hunc ubi predonem poteris punire leonem&quot;. 
+"Dic, rogo, si nosti, locus est ubi cercior hosti". 
+"Ecce lacuna uetus", uulpes ait, "est ubi suetus, 
+Hunc ubi predonem poteris punire leonem". 
 Cumque propinquaret lacui, quo dicta probaret, 
 Hunc putat introrsum, sua dum nat ymago deorsum. 
 Inde nec impune petit impiger ima lacunae, 
@@ -542,7 +542,7 @@ Qui tantum uiuum metuens contingere diuum,
 Menbra iacentis heri lingebat acumine leni. 
 Gaudia tanta pulex fore maxima commoda ducens, 
 Postulat, temporum socius sit ut ipse bonorum. 
-&quot;Condicione pari potes&quot;, hec ait, &quot;ipse morari.&quot; 
+"Condicione pari potes", hec ait, "ipse morari." 
 Qua sibi lege data, fruitur stacione rogata. 
 Intrat nocte thorum posthac rex nescius horum; 
 Lenis ut inprimis uenis sopor influit imis, 
@@ -576,7 +576,7 @@ Vel dum dormiret, aliter si forte nequiret.
 Cuius uir quidam tantam compescuit iram, 
 Dum presensisset, temptare quod id uoluisset; 
 Sicque dehortatur, ne tale quid aggrediatur: 
-&quot;Quod reputas, durum nimis est et inane futurum, 
+"Quod reputas, durum nimis est et inane futurum, 
 Ne paciaris idem, quod auis temeraria pridem, 
 Cuius ad exemplum sibi precipit esse cauendum. 
 
@@ -587,14 +587,14 @@ Continuos pisces, ut alatur, fallere gliscens,
 His, sicut antique licet, insidiatur unique. 
 Vt malefactorum se poenituisse priorum 
 Proderet, astutus sic est ex more locutus: 
-&quot;Tempus adest dici, quod uobis prosit, amici. 
+"Tempus adest dici, quod uobis prosit, amici. 
 Cras piscatores per cunctas has regiones, 
 Se uos capturos minitantes, constat ituros; 
 Nec uestrum rimis sic quisque latebit in imis, 
 Vt piscatorum laqueos euadat eorum. 
 Vt tuti sitis mecumque uenire uelitis, 
 In terram tutam facili uos tramite ducam; 
-Vosque meo collo duo nunc, simul et duo, tollo.&quot; 
+Vosque meo collo duo nunc, simul et duo, tollo." 
 Quos ita ducendo, sic semper et hos comedendo, 
 Deliciis magnis hac uixit fraude tot annis. 
 Tum uolucrum quedam sectari nescia predam, 
@@ -614,7 +614,7 @@ Quo punire modo ualeas tua pignora, prodo:
 Quemlibet ornatum uideas, ubicumque paratum, 
 Qui tamen ore geri bene possit et usque uideri, 
 Prouidus assumens planumque per aera ducens, 
-Ad loca iactabis serpentis et inde uolabis&quot;. 
+Ad loca iactabis serpentis et inde uolabis". 
 Quod cum fecisset, post hunc speculator et isset, 
 Hoc ornamento sumpto, redit, angue perempto, 
 Suauiter antiquum coruum sic ultus amicum. 
@@ -633,37 +633,37 @@ XVII. [De uiro et uase olei.]
 VXOR ab antiquo fnit infoecunda marito. 
 Mesticiam cuius cupiens lenire uir huius, 
 His blandimentis solatur tristia mentis: 
-&quot;Cur sic tristaris lamentis, uxor, amaris? 
-Pulchrae prolis eris satis amodo munere felix&quot;. 
+"Cur sic tristaris lamentis, uxor, amaris? 
+Pulchrae prolis eris satis amodo munere felix". 
 Pro nichulo ducens hec coniux talia prudens, 
 His uerbis plane, quod ait uir, monstrat inane: 
 
-&quot;Rebus inops quidam, fatuumque plus tibi dicam, 
+"Rebus inops quidam, fatuumque plus tibi dicam, 
 Vas olei plenum, quod longum retro per euum 
 Legerat orando, loca per diuersa uagando, 
 Fune ligans arto, tecti suspendit in alto, 
 Dum prestolatur tempus, quo pluris ematur, 
 Quo locupletari se sperat et arte beari. 
 Talia dum captat, hec stultus inania iactat: 
-&quot;Ecce potens factus, fuero dum talia nactus! 
+"Ecce potens factus, fuero dum talia nactus! 
 Vinciar uxori, quantum queo, nobiliori; 
 Tunc sobolem gignam, se meque per omnia dignam, 
 Cuius opus morum genus omne preibit auorum. 
 Cui nisi tot uitae fuerint insignia rite, 
-Fustis hic absque mora feriet caput eius et ora&quot;. 
+Fustis hic absque mora feriet caput eius et ora". 
 Quod dum narraret, dextramque minando leuaret, 
 Vt percussisset puerum, quasi presto fuisset, 
 Vas in predictum manus inscia dirigit ictum, 
 Seruatumque sibi uas ilico fregit oliui, 
 Sic inopinatum deflens miserabile fatum: 
-&quot;Heu! quid inops egi? quo memet opesque redegi? 
+"Heu! quid inops egi? quo memet opesque redegi? 
 Quos male tractaui, dum nescius ista putaui, 
-Stulticiaeque minae sunt huius causa ruinae&quot;. 
+Stulticiaeque minae sunt huius causa ruinae". 
 
 Quod uir ut audiuit, surrexit et obuius iuit, 
 Verberet ut sponsam fari sibi taliter ausam. 
 Que mox hunc digne percussit uerbere linguae: 
-&quot;Haec tua te multum monstrat presumpcio stultum. 
+"Haec tua te multum monstrat presumpcio stultum. 
 Ante cecidisti, qui me tam uulnere tristi, 
  Quam uestigares, quod in hoc tibi, stulte, notares. 
  En pacior, muri domini quod tempore duri 
@@ -708,11 +708,11 @@ Eius ad interitum iuxta concurrere ritum,
 Supplex implorat, ueniens ut recia rodat: 
 Si foret exclusus, fieret sibi maximus usus. 
 Famine quem blando permulcet talia fando: 
-&quot;Que nocitura times, ut, amice, pericula uites? 
+"Que nocitura times, ut, amice, pericula uites? 
 Ore meo ducam te leniter, utpote ludam, 
 Nec paciare mali quicquam gestamine tali. 
 Id nam spectantes, raptores te prope stantes, 
-Vt iam desperent, dum sic portabere, cedent&quot;. 
+Vt iam desperent, dum sic portabere, cedent". 
 Quod mus dum credit, laqueos ex more peredit, 
 Liber et exiuit mox gattus, ut ante petiuit, 
 Impaciensque more murem complectitur ore. 
@@ -720,12 +720,12 @@ Qui cum clamaret, grauiter quia se cruciaret,
 Respondit gattus, id agat quod amore coactus 
  Iuxta promissum; se ledere denegat ipsum, 
  Excusans tali sese racione sodali: 
-&quot;Quid me causaris? de dentibus ipse queraris, 
+"Quid me causaris? de dentibus ipse queraris, 
 A quibus artari te constat et excruciari. 
 Numquid habent dentes aures oculosque patentes? 
 Aure trahant questus, quos iactas pectore mestus. 
 Dentibus ecce feris iam protinus excrucieris 
-Inque meum uentrem duceris, dente carentem!&quot; 
+Inque meum uentrem duceris, dente carentem!" 
 Talia dicendo, miserum suffocat edendo. 
 Arte doli tanti perit hic confisus amanti. 
 
@@ -803,8 +803,8 @@ Qui minor est horum, nituit spectamine morum;
 Alter ad omne scelus fraudis fore fertur anhelus. 
 Hic reputans secum, collegam fallat at aequum. 
 Vota sui cordis tegit hoc sub tegmine fraudis: 
-&quot;Infodiamus humi noti sub cespite dumi, 
-Quicquid fortuna tribuente recepimus una&quot;. 
+"Infodiamus humi noti sub cespite dumi, 
+Quicquid fortuna tribuente recepimus una". 
 Mox id ut utrisque placuit, redit in sua quisque. 
 Callidus, huc docte ueniens ea tollere nocte, 
 Gesserat ex toto, socio procul inde remoto. 
@@ -822,11 +822,11 @@ Leniter audiri, scelus hoc et utrimque requiri,
 Maior eum natu, proprio cogente reatu, 
 Arguit indigne sceleris fraudisque malignae. 
 Cui sic respondit, mox talia censor ut audit: 
-&quot;Dic michi, si testis sit quislibet his male gestis&quot;. 
+"Dic michi, si testis sit quislibet his male gestis". 
 Ille uir haud aequus aurique cupidine cecus: 
-&quot;Haec&quot; ait, &quot;arbor erit testis, qui talia querit, 
+"Haec" ait, "arbor erit testis, qui talia querit, 
 Tegmine sub cuius uas auri teximus huius. 
-Huc proficiscamur, si uis, ut id experiamur&quot;. 
+Huc proficiscamur, si uis, ut id experiamur". 
 Huius enim rixae fuerat quia prescius ipse, 
 Arbor et introrsum summo tenus usque deorsum 
 Tota putrescebat medioque foramen habebat, 
@@ -837,14 +837,14 @@ Hac ope munitus, hac semper et arte potitus,
 Perfidus ut primum uenit arboris huius ad imum, 
 Dissimulando rogat, scelus arbor ut hoc sibi prodat. 
 His puer inclusus perhibetur uocibus usus: 
-&quot;Aeris hic inuenti socius tibi nocte silenti 
-Improbus huc uenit, clam prorsus et illud ademit&quot;. 
+"Aeris hic inuenti socius tibi nocte silenti 
+Improbus huc uenit, clam prorsus et illud ademit". 
 His ait auditis mentis uir ad omnia mitis: 
-&quot;Crimen ut hoc fraudis pateat, quod taliter audis, 
+"Crimen ut hoc fraudis pateat, quod taliter audis, 
 Arbiter, obiectum michi fac, quod cogito, rectum: 
-Hoc sit ut arbustum flammis ultricibus ustum&quot;. 
+Hoc sit ut arbustum flammis ultricibus ustum". 
 Quod cum iussisset flammas circumque tulisset: 
-&quot;Quis&quot; ait, &quot;iste furor? pater, huc ades! intus aduror&quot;. 
+"Quis" ait, "iste furor? pater, huc ades! intus aduror". 
 Mox pater et natus, censore iubente, crematus 
 Iure dat has penas, statuit quia sic alienas. 
 
@@ -875,7 +875,7 @@ Et licet hoc pardus sit tempore corpore tardus,
 Calliditate uiget nec mentis acumine friget. 
 Vt ueniunt, cuncta referunt, lis unde sit orta. 
 Quos hic affatur, dum sic censere rogatur: 
-&quot;Querite censorem, quem constat ad hoc meliorem; 
+"Querite censorem, quem constat ad hoc meliorem; 
 Namque per etatem quemquam non iudico fratrem; 
 Factus et antique monachus pro crimine uitae, 
 Carnes detestor, foliis et gramine uescor; 
@@ -885,20 +885,20 @@ Ac michi dicendi datur hora modusque tacendi.
 Luminis effectus minuit michi longa senectus, 
 Cui solet appendi uictus sub tempus edendi; 
 Meque potestatis propriae non esse sciatis, 
-Sed dominantis heri sub iure iugoque teneri&quot;. 
-Tunc lepus et gattus: &quot;Quia sic&quot;, ait, &quot;est tuus actus, 
-Venimus huc ad te, liti modus hinc sit ut apte&quot;. 
+Sed dominantis heri sub iure iugoque teneri". 
+Tunc lepus et gattus: "Quia sic", ait, "est tuus actus, 
+Venimus huc ad te, liti modus hinc sit ut apte". 
 Ille suis tegnis non quemquam fallere segnis, 
 Indoluisse datur super his, pius ut uideatur, 
 Instat et incautis uerbis ad talia comptis; 
 Intus enim pungunt cum uerba, forinsecus ungunt: 
-&quot;Cernitis, ut dixi, iam iam mea menbra fatisci; 
+"Cernitis, ut dixi, iam iam mea menbra fatisci; 
 Huius et, ut scitis, nimis impar sum modo litis. 
 To[r]tus et obtusus stat nostri corporis usus; 
 Sensibus utatur qui talibus, ille petatur: 
 Demus in amplexus uestros tamen ante recessus, 
 Nosque salutemus et ad oscula danda paremus. 
-Sicque ualedicto, me protinus ite relicto!&quot; 
+Sicque ualedicto, me protinus ite relicto!" 
 Mox amplexantes semet, sed et oscula dantes, 
 Pacis in hoc signo perierunt dente maligno, 
 Stulticiaeque ferunt penas, quas tunc meruerunt. 
@@ -936,12 +936,12 @@ Hoc ineunt foedus, fallatur ut iste camelus;
 Hoc qui fecisset, iurant dare, quaeque petisset. 
 Coruus, ut est moris fore gutturis improbioris, 
 Sic parat ac tutum pecus hoc deludere brutum: 
-&quot;En iacet egrotus paruo leo tempore notus, 
+"En iacet egrotus paruo leo tempore notus, 
 Cuius, ut ipse uides, desunt ad forcia uires! 
 Pulcher es et gnarus, menbris et origine clarus: 
 Dignus es et fortis caput huius habere cohortis. 
 Quo duce cognoscit mox, qualiter hic fore possit. 
-En&quot; ait, &quot;audisti, domino quid contigit isti, 
+En" ait, "audisti, domino quid contigit isti, 
 Utque sit ad regni moderamina corpore segni, 
 Viribus effetis sibi prorsus ad omnia suetis. 
 Huc indefessus confestim dirige gressus; 
@@ -949,7 +949,7 @@ Post quem regnabis, si fortiter hunc superabis.
 Talia uelle pati tecum sumus ire parati, 
 Teque iuuaturi super hec prius et ruituri, 
 Si demum nostri dominaberis, utpote nosti, 
-Collaque tam lenis domini subdemus habenis&quot;. 
+Collaque tam lenis domini subdemus habenis". 
 Credulus huic fraudi reputat sibi quod fore laudi, 
 In spem regnandi ductus tam crimine grandi. 
 Eius ab ore perit, quem sic male perdere querit, 
@@ -981,9 +981,9 @@ Cogitat, obsisti ualeat quibus artibus isti.
 Hisque simul mixtis, casus formidine tristis, 
 Dum dubitaretur, super hoc quid ab his ageretur, 
 Talia uerba refert aries, qui se magis effert: 
-&quot;Cura sit incidi tutoris cornua fidi, 
+"Cura sit incidi tutoris cornua fidi, 
 Me quoque pelle canis, procul hinc qui fetet inanis, 
-Circumquaque tegi: uice sic fruar inde catelli&quot;. 
+Circumquaque tegi: uice sic fruar inde catelli". 
 Quo sic impleto, rediit lupus ordine sueto 
 Temptat et illesus, quid ut hinc sibi tollat ad esus. 
 Cuius conatus cohibens canis hic simulatus, 
@@ -998,13 +998,13 @@ Se male depectunt, iter alterutmumque reflectunt.
 Sic canis inbellis spoliatur tegmine pellis. 
 Dedecus illatum, longe famis et cruciatum 
 Vindicat iratus lupus, est cui talia fatus: 
-&quot;Cur tociens tristi formidine me repulisti?&quot; 
-&quot;Non ob terrorem, sed ludi propter amorem 
-Hoc&quot; ait, &quot;est factum, quod te sic reris abactum&quot;. 
- &quot;Esse fugam foedam ter&quot; ait, &quot;ludibria credam; 
+"Cur tociens tristi formidine me repulisti?" 
+"Non ob terrorem, sed ludi propter amorem 
+Hoc" ait, "est factum, quod te sic reris abactum". 
+ "Esse fugam foedam ter" ait, "ludibria credam; 
 Amodo ne fallas, tua memet ut hoc modo Pallas, 
 Quemquam maiorem, parilem uelut inferiorem, 
-Carnem tam uescam dabis esurientis in escam&quot;. 
+Carnem tam uescam dabis esurientis in escam". 
  
 Sic simulatores uariant cum tempore mores. 
 Menti sincerae nequeunt eo usque nocere, 
@@ -1020,16 +1020,16 @@ XXIV. [De uulpe et lupo.]
  QVANDO per ima freti solito uulpecula reti 
 Aucta solebat ali captu sepissime tali. 
 Quam lupus affatur, dum piscibus his epulatur: 
-&quot;Pars sit ieiuno de tot michi, pisce uel uno, 
-Dulcis amica, precor, quos sic piscare per aequor&quot;. 
-&quot;Dedecus hoc absit&quot;, uulpes ait, &quot;ut tibi pars sit, 
+"Pars sit ieiuno de tot michi, pisce uel uno, 
+Dulcis amica, precor, quos sic piscare per aequor". 
+"Dedecus hoc absit", uulpes ait, "ut tibi pars sit, 
 Piscibus exesis, ac his iam caumate lesis, 
 Cum potes arte pari, tibi me monstrante, lucrari. 
 Hoc modo maiores capies satis ac meliores, 
 Si consulta uelis tibi credere iure fidelis: 
 Alueolum caudae tibi, si placet, hic sine fraude 
 Hac uice subnectam, qua constat me modo uectam; 
-Ad libitum pisces capies, si talia disces&quot;. 
+Ad libitum pisces capies, si talia disces". 
 Quod cum fecisset, sic nexus ouansque preisset, 
 Vas id paulatim saxis replet emula statim, 
 Sicque tegit limo, prope iam maris ut sit in imo. 
@@ -1047,23 +1047,23 @@ Inuentisque dolis sub egri tecta leonis,
 Quem febrium pestis dolor excruciabat in extis, 
 Vimque sui morbi cuncto patefecerat orbi, 
 Indicat huic crebro, quid prosit et ocius egro: 
-&quot;Tergone si uulpis corpus circumdare uultis, 
-Viribus ablatis redigi sic posse sciatis&quot;. 
+"Tergone si uulpis corpus circumdare uultis, 
+Viribus ablatis redigi sic posse sciatis". 
 Dum sic audiret rata uulpes, hoc ut adiret, 
 Sorde uolutabri se puluere sparsit et agri: 
-&quot;Audio me queri, dicor quia pelle mederi; 
+"Audio me queri, dicor quia pelle mederi; 
 Foetida sed pellis; hanc si fortasse reuellis, 
 Fomes erit pestis foris et dolor acrior extis. 
 At si pelle lupi, qui subiacet huic modo rupi, 
 Cauda priuati, medicaminis arte probati, 
 Vndique menbra teges, mox sano corpore deges; 
 Cui caput atque pedes cum pelle relinquere debes 
-Et uires priscas reparandas sic fore discas&quot;. 
+Et uires priscas reparandas sic fore discas". 
 Quod uulpes monstrum dum sic uidet ire deorsum: 
-&quot;Sic cyrothecatus&quot; ait, &quot;ambulet et pileatus! 
+"Sic cyrothecatus" ait, "ambulet et pileatus! 
 Ad poenam talem uult cogere quisque sodalem. 
 Sic eat et mestus per frigora, nudus, et estus, 
-Vermibus esca datus sic semper ad hos cruciatus&quot;. 
+Vermibus esca datus sic semper ad hos cruciatus". 
 
 
  
@@ -1116,18 +1116,18 @@ Mox ut id ignaro domino patet eius auaro,
 Plus dedit huic uictus, sit ut acrior hostis in ictus. 
 Quem lupus ut cernit, quod sic sua numina spernit, 
 Ac tam uelocem, solito magis atque ferocem, 
-Conuenit hunc blande: &quot;Quid id est, dic, frater amande, 
+Conuenit hunc blande: "Quid id est, dic, frater amande, 
 Quod sic pinguescis, certamen et ultra capescis? 
 Quod uideare satur, fateor, per me quod agatur. 
 Nunc mea, non ut hebes, benefacta rependere debes: 
-Quodlibet ergo pecus michi fer, retributor ut aequus&quot;. 
-&quot;Nil&quot; ait, &quot;expectes me ferre, quod hinc modo uectes, 
+Quodlibet ergo pecus michi fer, retributor ut aequus". 
+"Nil" ait, "expectes me ferre, quod hinc modo uectes, 
 Cum dape non uili, studio saciatus herili, 
 Peruigili cura seruem pecus ipsaque rura. 
 Sed ne factorum puter inmemor esse tuorum, 
 Presidio celeri scio me tibi posse mederi: 
 Hic prope namque penum quoddam patet, undique plenum, 
-Huc proficiscaris, dapibus celer his ut alaris&quot;. 
+Huc proficiscaris, dapibus celer his ut alaris". 
 Quo lupus inuectus et salsa carne refectus, 
 Quicquid inest, ambit, telluris et humida lambit. 
 Dumque, quid hauriret siciens, ibi nil reperiret, 
@@ -1156,16 +1156,16 @@ XXVII. [De uiro, coniuge et mediatrice.]
  
  UIR, ratus uxorem quondam temerasse pudorem, 
 Alloquitur plane uocis simulamine uanae: 
-&quot;Caenam sumpturus, procul hinc satis, uxor, iturus, 
-Non mea tecta petam, nec in hac te nocte quietam&quot;. 
+"Caenam sumpturus, procul hinc satis, uxor, iturus, 
+Non mea tecta petam, nec in hac te nocte quietam". 
 Vocibus his extra respondet talia mesta: 
-&quot;Qua requie fungar, solita uice ni tibi iungar?&quot; 
+"Qua requie fungar, solita uice ni tibi iungar?" 
 Quam uir adhortatur, comes ut sibi fida petatur, 
 Per quam secura pociatur nocte futura. 
 Mox mediatrici precepit, ut eius amici 
 Ianua pulsetur, preparare nec ipse moretur. 
-Adueniensque cito, metuens ait: &quot;Ipsa preito; 
-Cerne, quod introrsum sursumque sit atque deorsum&quot;. 
+Adueniensque cito, metuens ait: "Ipsa preito; 
+Cerne, quod introrsum sursumque sit atque deorsum". 
 Intrat ut hec tectum, nexam uidet hanc prope lectum 
 Coniugis, herentem, flagris grauiterque dolentem. 
 His stupefacta flagris rogat hec, quod sit mediatrix, 
@@ -1226,25 +1226,25 @@ XXVIII. [De uulpe et gatto.]
 
  
  [C]olloquio pacto uulpes ait obuia gatto: 
-&quot;Qualibus utaris, precor, artibus, ut fatearis&quot;. 
-&quot;Artem saltantum de cunctis calleo tantum; 
-Hac&quot; ait, &quot;antique&quot; gattus, &quot;sustentor ubique&quot;. 
-Cui uulpes inquit: &quot;Quem sic natura relinquit 
+"Qualibus utaris, precor, artibus, ut fatearis". 
+"Artem saltantum de cunctis calleo tantum; 
+Hac" ait, "antique" gattus, "sustentor ubique". 
+Cui uulpes inquit: "Quem sic natura relinquit 
 Viribus expertem, uelut ipse fateris, inertem, 
-Cuilibet est signum non uita credere dignum&quot;. 
+Cuilibet est signum non uita credere dignum". 
 Annuit hac gattus uulpis racione coactus. 
 Quam tamen instigat precibusque referre fatigat, 
 Artes quot nosset, quibus aeuum ducere posset. 
-&quot;Qualibus? ex centum didici, quas more parentum 
-Me bene munitam constat producere uitam&quot;. 
-&quot;Dignior es uita, tanta, soror, arte potita; 
+"Qualibus? ex centum didici, quas more parentum 
+Me bene munitam constat producere uitam". 
+"Dignior es uita, tanta, soror, arte potita; 
 Me sed, ad omne fere cui cor sit inutile vere, 
 Turba canum uillae, properans uenator et ille 
-Non modicum terrent, dum sic utrique pererrent&quot;. 
-&quot;Digne terreris, quia nullius artis haberis, 
+Non modicum terrent, dum sic utrique pererrent". 
+"Digne terreris, quia nullius artis haberis, 
 In pede, gatte, putem cum te posuisse salutem, 
 Pectore prudenti, quod gesto, timore carenti, 
-Mille uiis pergens et memet in omnia uergens&quot;. 
+Mille uiis pergens et memet in omnia uergens". 
 Dum sic se iactat, socium dum sic male tractat, 
 Forte canes idem, uenando per hec loca pridem, 
 Sic altercantes dirimunt, super hos inhiantes. 
@@ -1253,10 +1253,10 @@ Hic, magis argutus, subit ilicis ardua tutus,
 Illa pererrando, solito deserta meando, 
 Cum sibi iam fessae uitae spem credat abesse. 
 Gattus hic illudens, sibi fatur ab ilice prudens: 
-&quot;Artibus, ut reris, de tot, quibus apta uideris, 
+"Artibus, ut reris, de tot, quibus apta uideris, 
 Ad te tutandam saltem nunc exhibe quandam. 
 Sed solis uerbis iactantibus atque superbis 
-Consulitur frustra, mors est ubi debita iuxta&quot;. 
+Consulitur frustra, mors est ubi debita iuxta". 
 
 Uiribus in uestris qui sic confidere suestis, 
 Amodo discatis, ne sic quandoque ruatis: 
@@ -1280,19 +1280,19 @@ Interius spectat, quae cornua cruraque gestat,
 Quanti terroris prolixaque barba sit oris. 
  Qua caper innisus fallacis ymagine uisus 
  Ac nimis elatus, perhibetur talia fatus: 
-&quot;Amodo cuiusquam formidine terrear usquam? 
+"Amodo cuiusquam formidine terrear usquam? 
 Terga uel obstanti dabo cuique uel insidianti, 
-Cornibus his comptus crurumque uolumine promptus&quot;. 
+Cornibus his comptus crurumque uolumine promptus". 
 Talia iactantem, sic seque preesse putantem 
 Dum lupus audisset, tolerare magisque nequisset, 
 Occupat incautum, falsis uirtutibus auctum, 
  Hunc ut terreret, dum non procul inde iaceret. 
  Cuius premorso letali uulnere dorso: 
-&quot;Cur&quot; ait ille fremens, &quot;iactas tot inania demens?&quot; 
-&quot;Desine mirari, lupe, me tibi talia fari. 
+"Cur" ait ille fremens, "iactas tot inania demens?" 
+"Desine mirari, lupe, me tibi talia fari. 
 Denique uulgari solet id sermone probari: 
-&#145;Yrcus quando bibit, quae non sunt debita, dicit; 
-Cum bene potatur, quae non sibi debita, fatur&#146;.&quot; 
+‘Yrcus quando bibit, quae non sunt debita, dicit; 
+Cum bene potatur, quae non sibi debita, fatur’." 
 Non tamen, oblato necis huius tempore grato, 
 Huic fore parcendum ratus est lupus, hunc sed edendum. 
 
@@ -1312,10 +1312,10 @@ NACTA secus uallum quedam uulpecula gallum,
 Callida rimatur, quibus artibus hic capiatur. 
 Multa reuoluenti sedet hec sentencia menti: 
 Fallat adulando, quem ui nequid, hec sibi fando: 
-&quot;Ante per has horas quas uoces quamque sonoras 
+"Ante per has horas quas uoces quamque sonoras 
 Nocte dieque pater dederat tuus, o bone frater! 
 Fac igitur signum, rear hoc ut te patre dignum, 
-Vt similis patri uideatur uox fore nati&quot;. 
+Vt similis patri uideatur uox fore nati". 
 Gallus adhortantis prece uictus et hoc simulantis, 
  Non metuenda ratus patris, iacit oris hyatus, 
  Lumina claudendo, ueluti solet ipse canendo. 
@@ -1324,15 +1324,15 @@ Sustulit ignarum, gestans per opaca uiarum.
 Dedecus illud agi uidet omnis ut incola pagi, 
 Vulpis in occursum dedit ocius undique cursum, 
 Seque sui galli dolet hoc gestamine falli. 
-Cuius post dorsum clamatur: &quot;Dic, age, quorsum 
-Nostra feratur auis uocis modulamine suauis?&quot; 
+Cuius post dorsum clamatur: "Dic, age, quorsum 
+Nostra feratur auis uocis modulamine suauis?" 
 Cumque nemus iuxta uulpes sic iret onusta 
 Nec per uirtutem putet ales habere salutem, 
  Extrahat ut prorsus, quos fixerat in cute, morsus, 
  Arte relaxari reputat molimine tali: 
-&quot;Non&quot; ait, &quot;audisti, referant quid inaniter isti: 
+"Non" ait, "audisti, referant quid inaniter isti: 
 Plebis hic est nostre gallus, sic raptus a hoste? 
-Esse tuum certe decet hunc; fatearis aperte&quot;. 
+Esse tuum certe decet hunc; fatearis aperte". 
 Talia credentis, cadit ales ab ore loquentis, 
 Arboris inuentae conscendens alta repente
  
@@ -1359,7 +1359,7 @@ Cumque uagaretur mus intus, ut egrederetur,
 Ora quiescentis contingit acumine dentis. 
 Ille, ferox rictu, factusque ferocior ictu, 
 Vnguibus affixit miserum, cui talia dixit: 
-&quot;Que tibi sunt uires, me sic ut ineptus adires?&quot; 
+"Que tibi sunt uires, me sic ut ineptus adires?" 
 Cui retulisse ferunt, huc se quod fata tulerunt 
 Sponte nec inmissum, sociis sed agentibus ipsum. 
 Quem uenia dignum, proprio nec uelle malignum, 
@@ -1395,11 +1395,11 @@ Ampla lagena foris, spiramine stricta sed oris
 Vulpi plena datur, qua sufficienter alatur. 
  Os sed ut admouit, se tandem perfida nouit 
 Digne delusam, prius hac dape fraudis abusam. 
- Que mox yronice sic fari cepit: &quot;Amice, 
+ Que mox yronice sic fari cepit: "Amice, 
 Ecce recepisti bona, quae largita fuisti. 
 Si placet, utaris; michi parcere ne uerearis; 
 Si dedignaris, ne(c) cuilibet inde queraris, 
- Cum non sit clam te, quod talia feceris ante&quot;. 
+ Cum non sit clam te, quod talia feceris ante". 
  
 Auribus hec cordis quicumque capaciter audis, 
  In te quicquid odis fieri molimine quouis, 
@@ -1415,14 +1415,14 @@ Ceruus, oberrando per rura, furebat ouando.
 Cuius terror equum, ueritum concurrere secum, 
 Subdere uenanti se faecit amore iuuandi. 
 Cui prece deuota miser indicat hec sua uota: 
-&quot;Sic inpune sines per nostros amodo fines 
+"Sic inpune sines per nostros amodo fines 
 Hoc errare ferox animal? Tibi dedecus, heros! 
 Ille quidem captus, quantis foret usibus aptus! 
 Quale tibi cesum iecur ipsius esset ad aesum, 
  Quotque parare uales epulas hinc atque sodales! 
  Sed prius ostendi placet hec uia, que sit agendi: 
 Me super inuectus, iaculo sibi transfige pectus, 
-Postque, labore meo sumpto, reuehere tropheo&quot;. 
+Postque, labore meo sumpto, reuehere tropheo". 
 Ille per amfractus subsellia talia nactus, 
 Vt capiat ceruum, non cessat flectere seruum. 
 Sed uenatoris non inmemor ille furoris, 
@@ -1430,15 +1430,15 @@ Insiluisse datur frutices, ut se tueatur,
 Sospes et intactus siluae munimine factus. 
 Viribus effetus nec tanto pondere suetus, 
 Alloquitur tandem sonipes se sic equitantem: 
-&quot;Pene tuis uictus cum sim calcaribus ictus 
+"Pene tuis uictus cum sim calcaribus ictus 
 Speque simus predae delusi, iam michi cede, 
-Descendensque cito, me uicto turpiter, ito&quot;. 
+Descendensque cito, me uicto turpiter, ito". 
 Sensit ut ille dolum metuensque relinquere solum 
 Munus id oblatum, quia fit uariabile fatum, 
 Increpuisse pecus sic dicitur, arbiter aequus: 
-&quot;Vlterius poenis nec habebere liber habenis, 
+"Vlterius poenis nec habebere liber habenis, 
 Nec sessoris eris inmunis, vt amodo reris, 
-Sumpseris istud (h)onus cum gratis, ad omnia pronus&quot;. 
+Sumpseris istud (h)onus cum gratis, ad omnia pronus". 
 
 Sic obsistentes plerique, nocere uolentes 
 Sunt magis inde sibi peruersa mente nociui, 
@@ -1453,9 +1453,9 @@ XXXIV. [De mulo, uulpe et lupo.]
 DVM mulus quidam prope siluam pascitur Idam, 
 Nomen ei quod sit, uulpes audire poposcit. 
 Respondisse datur, quod bestia uulgo uocatur. 
-&quot;Non&quot; ait, &quot;id quero te, sed de nomine uero; 
-Quale sit, ignare michi deprecor vt fateare&quot;. 
- &quot;Nomen id inscriptum speciale, quod est michi dictum 
+"Non" ait, "id quero te, sed de nomine uero; 
+Quale sit, ignare michi deprecor vt fateare". 
+ "Nomen id inscriptum speciale, quod est michi dictum 
  Tempore primeuo, latet hoc michi sub pede leuo. 
 Hoc ibi nactus erit, quisquis sibi di[s]cere querit; 
 Curque sit hoc gestum, non sit tibi nosse molestum: 
@@ -1463,7 +1463,7 @@ Matris in occasu, patris egri denique suasu
 Constat id inuentum, ne mox post fata parentum 
 Tempus deleret proprium quod nomen inheret; 
 Paruus enim pullus fueram sensusque nec ullus, 
-Hoc stet ut in mente, priuatus utroque parente&quot;. 
+Hoc stet ut in mente, priuatus utroque parente". 
 Illa dolum talem sibi sentit ut exicialem, 
 Ingrediens uicum, uidet haud procul hinc inimicum 
 Forte iacere lupum quendam secus inuida lutum, 
@@ -1472,14 +1472,14 @@ Quem nunc ulcisci cum posse locusque sit ipsi
 Illius ad raptum, predae dulcedine captum 
 Nititur urgeri sub amoris ymagine ueri; 
  Quam dignus pastu sit et illius ammonet astu: 
- &quot;Erige te sursum, celer huc et dirige cursum, 
+ "Erige te sursum, celer huc et dirige cursum, 
 Hic quia prospexi, quod pinguis et optima uesci, 
-Digna tuo uictu, sit belua miraque dictu&quot;. 
+Digna tuo uictu, sit belua miraque dictu". 
 Surgit, ut audiuit, lupus huc et protinus iuit, 
 Moxque, quod ignorat, sibi nomen ut indicet, orat. 
 Hoc super, ut dixi, respondit prouidus ipsi: 
-&quot;Subscriptum leuo pede, primo quod sit ab aeuo, 
-Hoc ibi querendum sit semper et inueniendum&quot;. 
+"Subscriptum leuo pede, primo quod sit ab aeuo, 
+Hoc ibi querendum sit semper et inueniendum". 
 Nescius hic fraudis tantae, quam quisque subaudis, 
 Intima dum spectat, si nomen id ungula gestat, 
 Verbere frons crebro fuso crepat icta cerebro. 
@@ -1506,14 +1506,14 @@ Munere ditari ratus hoc, cor ut optat auari,
 Hunc prius obnixe strictum, ceu iusserat ipse, 
 Inpositum redae patria cito sistit in ede. 
 Quo sic aduecto, fore ius ait ordine recto, 
-Qu&#281;que spopondisset, resolutus ut ipse dedisset. 
+Quęque spopondisset, resolutus ut ipse dedisset. 
 Anguis ab antiquo uicio consuetus iniquo, 
 Semper et infestus mortalibus, est ita questus: 
-&quot;Quid tibi mercedis me posse rependere credis, 
-Vinxeris absque modo quem stricto tam male nodo?&quot; 
-&quot;Sic te iussisti, cum perfidus ista petisti; 
+"Quid tibi mercedis me posse rependere credis, 
+Vinxeris absque modo quem stricto tam male nodo?" 
+"Sic te iussisti, cum perfidus ista petisti; 
 Nec lamenteris nec sic, ingrate, mineris. 
-Hisne tuis mendis mea tot benefacta rependis?&quot; 
+Hisne tuis mendis mea tot benefacta rependis?" 
 Cui tantae liti uulpes conata reniti, 
 Fertur quesisse, strictus sit qualiter ipse. 
 Quem mox artauit, dignum uir ut ipse putauit. 

@@ -49,7 +49,7 @@ Pliny the Elder: Natural History, Book I
 [35] ostentum caeli semel notatum 
 [36] de discursu stellarum 
 [37] de stellis quae Castore vocantur 
-[38] de a&euml;re 
+[38] de aëre 
 [39-41] de statis tempestatibus 
 [40] de caniculae ortu 
 [41] vis temporum anni stata 
@@ -3050,7 +3050,7 @@ naturae lapidum.
 [36] Phrygius 
 [37] haematites. med. ex eo V. schistos. med. ex eo VII 
 [38] androdamas. med. ex eo II. Arabicus. milites sive hepatites. anthracites 
-[39] a&euml;tites. Taphiusius. callimus 
+[39] aëtites. Taphiusius. callimus 
 [40] Samius. med. ex eo VIII 
 [41] Arabus. med. ex eo II 
 [42] de pumice. med. ex eo VIIII 
@@ -3172,7 +3172,7 @@ Theophrasto. Pasitele. Iuba rege. Nicandro. Sotaco. Sudine. Alexandro polyhistor
 [69] Veneris crines. Veientana 
 [70] Zathene. zamilampis. zoraniscaea 
 [71] hepatitis. steatitis. Adadu nephros. Adadu ophthalmos. Adadu dactylos. triophthalmos 
-[72] carcinias. echitis. scorpitis. scaritis. triglitis. aegophthalmos. hypophthalmos. geranitis. a&euml;titis. myrmecitis. cantharias. lycophthalmos. taos. timictonia 
+[72] carcinias. echitis. scorpitis. scaritis. triglitis. aegophthalmos. hypophthalmos. geranitis. aëtitis. myrmecitis. cantharias. lycophthalmos. taos. timictonia 
 [73] ammochrysos. cenchritis. dryitis. cissitis. narcissitis. cyamias. pyren. phoenicitis. chalazias. pyritis. polyzonos. astrapaea. phlogitis. anthracitis. enygros. polythrix. leontios. pardalios. drosolithos. melichrus. melichloros. crocias. polias. spartopolia. rhoditis. melitis. chalcitis. sycitis. bostrychitis. chernitis. anancitis. synochitis. dendritis 
 [74] chochlides 
 [75] de figura gemmarum 
