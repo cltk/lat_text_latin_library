@@ -1,18 +1,18 @@
-Ovid: Metamorposes XIII
-		 
+Ovid: Metamorphoses XIII
 
-		 
-		 
-	 
-	
- 
+
+
+
+
+
+
 
  P. OVIDI NASONIS METAMORPHOSEN LIBER TERTIVS DECIMVS
- 
 
- 
 
- 
+
+
+
  Consedere duces et vulgi stante corona
 surgit ad hos clipei dominus septemplicis Aiax,
 utque erat inpatiens irae, Sigeia torvo
@@ -33,7 +33,7 @@ aemulus: Aiaci non est tenuisse superbum,
 sit licet hoc ingens, quicquid speravit Ulixes;
 iste tulit pretium iam nunc temptaminis huius,
 quod, cum victus erit, mecum certasse feretur.              20
-     'Atque ego, si virtus in me dubitabilis esset,
+'Atque ego, si virtus in me dubitabilis esset,
 nobilitate potens essem, Telamone creatus,
 moenia qui forti Troiana sub Hercule cepit
 litoraque intravit Pagasaea Colcha carina;
@@ -46,7 +46,7 @@ si mihi cum magno non est communis Achille:              30
 frater erat, fraterna peto! quid sanguine cretus
 Sisyphio furtisque et fraude simillimus illi
 inseris Aeacidis alienae nomina gentis?
-     'An quod in arma prior nulloque sub indice veni,
+'An quod in arma prior nulloque sub indice veni,
 arma neganda mihi, potiorque videbitur ille,              35
 ultima qui cepit detractavitque furore
 militiam ficto, donec sollertior isto
@@ -55,7 +55,7 @@ Naupliades animi vitataque traxit ad arma?
 optima num sumat, quia sumere noluit ulla:              40
 nos inhonorati et donis patruelibus orbi,
 obtulimus quia nos ad prima pericula, simus?
-     'Atque utinam aut verus furor ille, aut creditus esset,
+'Atque utinam aut verus furor ille, aut creditus esset,
 nec comes hic Phrygias umquam venisset ad arces
 hortator scelerum! non te, Poeantia proles,              45
 expositum Lemnos nostro cum crimine haberet!
@@ -75,7 +75,7 @@ prodere rem Danaam finxit fictumque probavit
 crimen et ostendit, quod iam praefoderat, aurum.              60
 ergo aut exilio vires subduxit Achivis,
 aut nece: sic pugnat, sic est metuendus Ulixes!
-     'Qui licet eloquio fidum quoque Nestora vincat,
+'Qui licet eloquio fidum quoque Nestora vincat,
 haut tamen efficiet, desertum ut Nestora crimen
 esse rear nullum; qui cum inploraret Ulixem              65
 vulnere tardus equi fessusque senilibus annis,
@@ -94,7 +94,7 @@ redde hostem vulnusque tuum solitumque timorem
 post clipeumque late et mecum contende sub illo!
 at postquam eripui, cui standi vulnera vires              80
 non dederant, nullo tardatus vulnere fugit.
-     'Hector adest secumque deos in proelia ducit,
+'Hector adest secumque deos in proelia ducit,
 quaque ruit, non tu tantum terreris, Ulixe,
 sed fortes etiam: tantum trahit ille timoris.
 hunc ego sanguineae successu caedis ovantem              85
@@ -107,7 +107,7 @@ ecce ferunt Troes ferrumque ignesque Iovemque
 in Danaas classes: ubi nunc facundus Ulixes?
 nempe ego mille meo protexi pectore puppes,
 spem vestri reditus: date pro tot navibus arma.
-     'Quodsi vera licet mihi dicere, quaeritur istis              95
+'Quodsi vera licet mihi dicere, quaeritur istis              95
 quam mihi maior honos, coniunctaque gloria nostra est,
 atque Aiax armis, non Aiaci arma petuntur.
 conferat his Ithacus Rhesum inbellemque Dolona
@@ -115,7 +115,7 @@ Priamidenque Helenum rapta cum Pallade captum:
 luce nihil gestum, nihil est Diomede remoto;              100
 si semel ista datis meritis tam vilibus arma,
 dividite, et pars sit maior Diomedis in illis.
-     'Quo tamen haec Ithaco, qui clam, qui semper inermis
+'Quo tamen haec Ithaco, qui clam, qui semper inermis
 rem gerit et furtis incautum decipit hostem?
 ipse nitor galeae claro radiantis ab auro              105
 insidias prodet manifestabitque latentem;
@@ -132,15 +132,15 @@ tarda futura tibi est gestamina tanta trahenti?
 adde quod iste tuus, tam raro proelia passus,
 integer est clipeus; nostro, qui tela ferendo
 mille patet plagis, novus est successor habendus.
-     'Denique (quid verbis opus est?) spectemur agendo!              120
+'Denique (quid verbis opus est?) spectemur agendo!              120
 arma viri fortis medios mittantur in hostes:
 inde iubete peti et referentem ornate relatis.'
-     Finierat Telamone satus, vulgique secutum
+Finierat Telamone satus, vulgique secutum
 ultima murmur erat, donec Laertius heros
 adstitit atque oculos paulum tellure moratos              125
 sustulit ad proceres exspectatoque resolvit
 ora sono, neque abest facundis gratia dictis.
-     'Si mea cum vestris valuissent vota, Pelasgi,
+'Si mea cum vestris valuissent vota, Pelasgi,
 non foret ambiguus tanti certaminis heres,
 tuque tuis armis, nos te poteremur, Achille,              130
 quem quoniam non aequa mihi vobisque negarunt
@@ -152,7 +152,7 @@ neve mihi noceat, quod vobis semper, Achivi,
 profuit ingenium, meaque haec facundia, siqua est,
 quae nunc pro domino, pro vobis saepe locuta est,
 invidia careat, bona nec sua quisque recuset.
-     'Nam genus et proavos et quae non fecimus ipsi,              140
+'Nam genus et proavos et quae non fecimus ipsi,              140
 vix ea nostra voco, sed enim, quia rettulit Aiax
 esse Iovis pronepos, nostri quoque sanguinis auctor
 Iuppiter est, totidemque gradus distamus ab illo:
@@ -174,7 +174,7 @@ num petit ille tamen? num, si petat, auferat illa?
 ergo, operum quoniam nudum certamen habetur,
 plura quidem feci, quam quae conprendere dictis              160
 in promptu mihi sit, rerum tamen ordine ducar.
-     'Praescia venturi genetrix Nereia leti
+'Praescia venturi genetrix Nereia leti
 dissimulat cultu natum, et deceperat omnes,
 in quibus Aiacem, sumptae fallacia vestis:
 arma ego femineis animum motura virilem               165
@@ -193,7 +193,7 @@ utque alios taceam, qui saevum perdere posset
 Hectora, nempe dedi: per me iacet inclitus Hector!
 illis haec armis, quibus est inventus Achilles,
 arma peto: vivo dederam, post fata reposco.              180
-     'Ut dolor unius Danaos pervenit ad omnes,
+'Ut dolor unius Danaos pervenit ad omnes,
 Aulidaque Euboicam conplerunt mille carinae,
 exspectata diu, nulla aut contraria classi
 flamina erant, duraeque iubent Agamemnona sortes
@@ -208,7 +208,7 @@ summa movet sceptri, laudem ut cum sanguine penset;
 mittor et ad matrem, quae non hortanda, sed astu
 decipienda fuit, quo si Telamonius isset,
 orba suis essent etiam nunc lintea ventis.              195
-     'Mittor et Iliacas audax orator ad arces,
+'Mittor et Iliacas audax orator ad arces,
 visaque et intrata est altae mihi curia Troiae,
 plenaque adhuc erat illa viris; interritus egi
 quam mihi mandarat communem Graecia causam
@@ -217,7 +217,7 @@ et moveo Priamum Priamoque Antenora iunctum;
 at Paris et fratres et qui rapuere sub illo,
 vix tenuere manus (scis hoc, Menelae) nefandas,
 primaque lux nostri tecum fuit illa pericli.
-     'Longa referre mora est, quae consilioque manuque              205
+'Longa referre mora est, quae consilioque manuque              205
 utiliter feci spatiosi tempore belli.
 post acies primas urbis se moenibus hostes
 continuere diu, nec aperti copia Martis
@@ -228,7 +228,7 @@ hostibus insidior, fossa munimina cingo,
 consolor socios, ut longi taedia belli
 mente ferant placida, doceo, quo simus alendi
 armandique modo, mittor, quo postulat usus.              215
-     'Ecce Iovis monitu deceptus imagine somni
+'Ecce Iovis monitu deceptus imagine somni
 rex iubet incepti curam dimittere belli;
 ille potest auctore suam defendere vocem:
 non sinat hoc Aiax delendaque Pergama poscat,
@@ -250,7 +250,7 @@ erigor et trepidos cives exhortor in hostem
 amissamque mea virtutem voce repono.              235
 tempore ab hoc, quodcumque potest fecisse videri
 fortiter iste, meum est, qui dantem terga retraxi.
-     'Denique de Danais quis te laudatve petitve?
+'Denique de Danais quis te laudatve petitve?
 at sua Tydides mecum communicat acta,
 me probat et socio semper confidit Ulixe.              240
 est aliquid, de tot Graiorum milibus unum
@@ -280,7 +280,7 @@ aspicite! en' vestemque manu diduxit et 'haec sunt
 pectora semper' ait 'vestris exercita rebus!              265
 at nihil inpendit per tot Telamonius annos
 sanguinis in socios et habet sine vulnere corpus!
-     'Quid tamen hoc refert, si se pro classe Pelasga
+'Quid tamen hoc refert, si se pro classe Pelasga
 arma tulisse refert contra Troasque Iovemque?
 confiteorque, tulit (neque enim benefacta maligne              270
 detractare meum est), sed ne communia solus
@@ -292,7 +292,7 @@ se putat, oblitus regisque ducumque meique,
 nonus in officio et praelatus munere sortis.
 sed tamen eventus vestrae, fortissime, pugnae
 quis fuit? Hector abit violatus vulnere nullo!
-     'Me miserum, quanto cogor meminisse dolore              280
+'Me miserum, quanto cogor meminisse dolore              280
 temporis illius, quo, Graium murus, Achilles
 procubuit! nec me lacrimae luctusque timorque
 tardarunt, quin corpus humo sublime referrem:
@@ -308,7 +308,7 @@ Oceanum et terras cumque alto sidera caelo
 Pleiadasque Hyadasque inmunemque aequoris Arcton
 diversosque orbes nitidumque Orionis ensem.
 [postulat, ut capiat, quae non intellegit, arma!]              295
-     'Quid, quod me duri fugientem munera belli
+'Quid, quod me duri fugientem munera belli
 arguit incepto serum accessisse labori
 nec se magnanimo maledicere sentit Achilli?
 si simulasse vocas crimen, simulavimus ambo;
@@ -318,14 +318,14 @@ primaque sunt illis data tempora, cetera vobis:
 haut timeo, si iam nequeam defendere, crimen
 cum tanto commune viro: deprensus Ulixis
 ingenio tamen ille, at non Aiacis Ulixes.              305
-     'Neve in me stolidae convicia fundere linguae
+'Neve in me stolidae convicia fundere linguae
 admiremur eum, vobis quoque digna pudore
 obicit. an falso Palameden crimine turpe
 accusasse mihi, vobis damnasse decorum est?
 sed neque Naupliades facinus defendere tantum              310
 tamque patens valuit, nec vos audistis in illo
 crimina: vidistis, pretioque obiecta patebant.
-     'Nec, Poeantiaden quod habet Vulcania Lemnos,
+'Nec, Poeantiaden quod habet Vulcania Lemnos,
 esse reus merui (factum defendite vestrum!
 consensistis enim), nec me suasisse negabo,              315
 ut se subtraheret bellique viaeque labori
@@ -362,7 +362,7 @@ quae nisi fecissem, frustra Telamone creatus
 gestasset laeva taurorum tergora septem.
 illa nocte mihi Troiae victoria parta est:
 Pergama tunc vici, cum vinci posse coegi.
-     'Desine Tydiden vultuque et murmure nobis              350
+'Desine Tydiden vultuque et murmure nobis              350
 ostentare meum: pars est sua laudis in illo!
 nec tu, cum socia clipeum pro classe tenebas,
 solus eras: tibi turba comes, mihi contigit unus.
@@ -382,7 +382,7 @@ nos animo; quantoque ratem qui temperat, anteit
 remigis officium, quanto dux milite maior,
 tantum ego te supero. nec non in corpore nostro
 pectora sunt potiora manu: vigor omnis in illis.
-     'At vos, o proceres, vigili date praemia vestro,              370
+'At vos, o proceres, vigili date praemia vestro,              370
 proque tot annorum cura, quibus anxius egi,
 hunc titulum meritis pensandum reddite nostris:
 iam labor in fine est; obstantia fata removi
@@ -394,7 +394,7 @@ siquid adhuc audax ex praecipitique petendum est,
 [si Troiae fatis aliquid restare putatis,]
 este mei memores! aut si mihi non datis arma,              380
 huic date!' et ostendit signum fatale Minervae.
-     Mota manus procerum est, et quid facundia posset,
+Mota manus procerum est, et quid facundia posset,
 re patuit, fortisque viri tulit arma disertus.
 Hectora qui solus, qui ferrum ignesque Iovemque
 sustinuit totiens, unam non sustinet iram,              385
@@ -411,7 +411,7 @@ purpureum viridi genuit de caespite florem,              395
 qui prius Oebalio fuerat de vulnere natus;
 littera communis mediis pueroque viroque
 inscripta est foliis, haec nominis, illa querellae.
-     Victor ad Hypsipyles patriam clarique Thoantis
+Victor ad Hypsipyles patriam clarique Thoantis
 et veterum terras infames caede virorum              400
 vela dat, ut referat Tirynthia tela, sagittas;
 quae postquam ad Graios domino comitante revexit,
@@ -441,7 +441,7 @@ Dulichiae traxere manus, tamen unius hausit              425
 inque sinu cineres secum tulit Hectoris haustos;
 Hectoris in tumulo canum de vertice crinem,
 inferias inopes, crinem lacrimasque reliquit,
-     Est, ubi Troia fuit, Phrygiae contraria tellus
+Est, ubi Troia fuit, Phrygiae contraria tellus
 Bistoniis habitata viris: Polymestoris illic              430
 regia dives erat, cui te commisit alendum
 clam, Polydore, pater Phrygiisque removit ab armis,
@@ -451,7 +451,7 @@ ut cecidit fortuna Phrygum, capit inpius ensem              435
 rex Thracum iuguloque sui demisit alumni
 et, tamquam tolli cum corpore crimina possent,
 exanimem scopulo subiectas misit in undas.
-     Litore Threicio classem religarat Atrides,
+Litore Threicio classem religarat Atrides,
 dum mare pacatum, dum ventus amicior esset:               440
 hic subito, quantus, cum viveret, esse solebat,
 exit humo late rupta similisque minanti
@@ -493,7 +493,7 @@ illa super terram defecto poplite labens
 pertulit intrepidos ad fata novissima vultus;
 tunc quoque cura fuit partes velare tegendas,
 cum caderet, castique decus servare pudoris.              480
-     Troades excipiunt deploratosque recensent
+Troades excipiunt deploratosque recensent
 Priamidas et quot dederit domus una cruores,
 teque gemunt, virgo, teque, o modo regia coniunx,
 regia dicta parens, Asiae florentis imago,
@@ -545,7 +545,7 @@ nunc solus, quondam minimus de stirpe virili,
 has datus Ismario regi Polydorus in oras.              530
 quid moror interea crudelia vulnera lymphis
 abluere et sparsos inmiti sanguine vultus?'
-     Dixit et ad litus passu processit anili,
+Dixit et ad litus passu processit anili,
 albentes lacerata comas. 'date, Troades, urnam!'
 dixerat infelix, liquidas hauriret ut undas:              535
 adspicit eiectum Polydori in litore corpus
@@ -588,7 +588,7 @@ illius Troasque suos hostesque Pelasgos,
 illius fortuna deos quoque moverat omnes,
 sic omnes, ut et ipsa Iovis coniunxque sororque
 eventus Hecaben meruisse negaverit illos.              575
-     Non vacat Aurorae, quamquam isdem faverat armis,
+Non vacat Aurorae, quamquam isdem faverat armis,
 cladibus et casu Troiaeque Hecabesque moveri.
 cura deam propior luctusque domesticus angit
 Memnonis amissi, Phrygiis quem lutea campis
@@ -635,7 +635,7 @@ signa, parentali moriturae more rebellant.
 ergo aliis latrasse Dymantida flebile visum est;              620
 luctibus est Aurora suis intenta piasque
 nunc quoque dat lacrimas et toto rorat in orbe.
-     Non tamen eversam Troiae cum moenibus esse
+Non tamen eversam Troiae cum moenibus esse
 spem quoque fata sinunt: sacra et, sacra altera, patrem
 fert umeris, venerabile onus, Cythereius heros.              625
 de tantis opibus praedam pius eligit illam
@@ -687,7 +687,7 @@ ferre vocatur opem, nec qua ratione figuram
 perdiderint, potui scire aut nunc dicere possum;
 summa mali nota est: pennas sumpsere tuaeque
 coniugis in volucres, niveas abiere columbas.'
-     Talibus atque aliis postquam convivia dictis              675
+Talibus atque aliis postquam convivia dictis              675
 inplerunt, mensa somnum petiere remota
 cumque die surgunt adeuntque oracula Phoebi,
 qui petere antiquam matrem cognataque iussit
@@ -717,7 +717,7 @@ summus inaurato crater erat asper acantho.
 nec leviora datis Troiani dona remittunt
 dantque sacerdoti custodem turis acerram,
 dant pateram claramque auro gemmisque coronam.
-     Inde recordati Teucros a sanguine Teucri              705
+Inde recordati Teucros a sanguine Teucri              705
 ducere principium Creten tenuere locique
 ferre diu nequiere Iovem centumque relictis
 urbibus Ausonios optant contingere portus,
@@ -731,7 +731,7 @@ iudicis, Actiaco quae nunc ab Apolline nota est,              715
 vocalemque sua terram Dodonida quercu
 Chaoniosque sinus, ubi nati rege Molosso
 inpia subiectis fugere incendia pennis.
-     Proxima Phaeacum felicibus obsita pomis
+Proxima Phaeacum felicibus obsita pomis
 rura petunt, Epiros ab his regnataque vati              720
 Buthrotos Phrygio simulataque Troia tenetur;
 inde futurorum certi, quae cuncta fideli
@@ -801,7 +801,7 @@ senserunt toti pastoria sibila montes,              785
 senserunt undae; latitans ego rupe meique
 Acidis in gremio residens procul auribus hausi
 talia dicta meis auditaque mente notavi:
-     '"Candidior folio nivei Galatea ligustri,
+'"Candidior folio nivei Galatea ligustri,
 floridior pratis, longa procerior alno,              790
 splendidior vitro, tenero lascivior haedo,
 levior adsiduo detritis aequore conchis,
@@ -810,7 +810,7 @@ mobilior damma, platano conspectior alta,
 lucidior glacie, matura dulcior uva,              795
 mollior et cycni plumis et lacta coacto,
 et, si non fugias, riguo formosior horto;
-     '"Saevior indomitis eadem Galatea iuvencis,
+'"Saevior indomitis eadem Galatea iuvencis,
 durior annosa quercu, fallacior undis,
 lentior et salicis virgis et vitibus albis,              800
 his inmobilior scopulis, violentior amne,
@@ -833,7 +833,7 @@ prunaque non solum nigro liventia suco,
 verum etiam generosa novasque imitantia ceras.
 nec tibi castaneae me coniuge, nec tibi deerunt
 arbutei fetus: omnis tibi serviet arbor.              820
-     '"Hoc pecus omne meum est, multae quoque vallibus errant,
+'"Hoc pecus omne meum est, multae quoque vallibus errant,
 multas silva tegit, multae stabulantur in antris,
 nec, si forte roges, possim tibi dicere, quot sint:
 pauperis est numerare pecus; de laudibus harum
@@ -843,14 +843,14 @@ sunt, fetura minor, tepidis in ovilibus agni.
 sunt quoque, par aetas, aliis in ovilibus haedi.
 lac mihi semper adest niveum: pars inde bibenda
 servatur, partem liquefacta coagula durant.              830
-     '"Nec tibi deliciae faciles vulgataque tantum
+'"Nec tibi deliciae faciles vulgataque tantum
 munera contingent, dammae leporesque caperque,
 parve columbarum demptusve cacumine nidus:
 inveni geminos, qui tecum ludere possint,
 inter se similes, vix ut dignoscere possis,              835
 villosae catulos in summis montibus ursae:
 inveni et dixi 'dominae servabimus istos.'
-     '"Iam modo caeruleo nitidum caput exere ponto,
+'"Iam modo caeruleo nitidum caput exere ponto,
 iam, Galatea, veni, nec munera despice nostra!
 certe ego me novi liquidaeque in imagine vidi              840
 nuper aquae, placuitque mihi mea forma videnti.
@@ -866,7 +866,7 @@ barba viros hirtaeque decent in corpore saetae.              850
 unum est in media lumen mihi fronte, sed instar
 ingentis clipei. quid? non haec omnia magnus
 Sol videt e caelo? Soli tamen unicus orbis.
-     '"Adde, quod in vestro genitor meus aequore regnat:
+'"Adde, quod in vestro genitor meus aequore regnat:
 hunc tibi do socerum; tantum miserere precesque              855
 supplicis exaudi! tibi enim succumbimus uni,
 quique Iovem et caelum sperno et penetrabile fulmen,
@@ -882,7 +882,7 @@ perque tuas spargam (sic se tibi misceat!) undas.
 uror enim, laesusque exaestuat acrius ignis,
 cumque suis videor translatam viribus Aetnam
 pectore ferre meo, nec tu, Galatea, moveris."
-     'Talia nequiquam questus (nam cuncta videbam)              870
+'Talia nequiquam questus (nam cuncta videbam)              870
 surgit et ut taurus vacca furibundus adempta
 stare nequit silvaque et notis saltibus errat,
 cum ferus ignaros nec quicquam tale timentes
@@ -910,7 +910,7 @@ incinctus iuvenis flexis nova cornua cannis,
 qui, nisi quod maior, quod toto caerulus ore,              895
 Acis erat, sed sic quoque erat tamen Acis, in amnem
 versus, et antiquum tenuerunt flumina nomen.'
-     Desierat Galatea loqui, coetuque soluto
+Desierat Galatea loqui, coetuque soluto
 discedunt placidisque natant Nereides undis.
 Scylla redit; neque enim medio se credere ponto              900
 audet, et aut bibula sine vestibus errat harena
@@ -980,10 +980,11 @@ quid tamen haec species, quid dis placuisse marinis,
 quid iuvat esse deum, si tu non tangeris istis?'              965
 talia dicentem, dicturum plura, reliquit
 Scylla deum; furit ille inritatusque repulsa
-prodigiosa petit Titanidos atria Circes. 
+prodigiosa petit Titanidos atria Circes.
 
- 
-	 
-		 Ovid 
-		 The Latin Library 
+
+
+
+		 Ovid
+		 The Latin Library
 		 The Classics Page
