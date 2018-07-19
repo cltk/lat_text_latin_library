@@ -1,4 +1,4 @@
-Ovid: Metamorposes IX
+Ovid: Metamorphoses IX
 		 
 
 		 
@@ -28,8 +28,8 @@ cum quibus ut soceri domus est intrata petiti,
 dixit et Alcides. alii cessere duobus. 
 ille Iovem socerum dare se, famamque laborum, 
 et superata suae referebat iussa novercae.    15 
-contra ego "turpe deum mortali cedere" dixi&#151; 
-nondum erat ille deus&#151;"dominum me cernis aquarum 
+contra ego "turpe deum mortali cedere" dixi -- 
+nondum erat ille deus -- "dominum me cernis aquarum 
 cursibus obliquis inter tua regna fluentum. 
 nec gener externis hospes tibi missus ab oris, 
 sed popularis ero et rerum pars una tuarum.    20 
@@ -65,10 +65,10 @@ nescia, quem maneat tanti victoria regni.
 ter sine profectu voluit nitentia contra    50 
 reicere Alcides a se mea pectora; quarto 
 excutit amplexus, adductaque bracchia solvit, 
-inpulsumque manu&#151;certum est mihi vera fateri&#151; 
+inpulsumque manu -- certum est mihi vera fateri --  
 protinus avertit, tergoque onerosus inhaesit. 
-siqua fides,&#151;neque enim ficta mihi gloria voce    55 
-quaeritur&#151;inposito pressus mihi monte videbar. 
+siqua fides, -- neque enim ficta mihi gloria voce    55 
+quaeritur -- inposito pressus mihi monte videbar. 
 vix tamen inserui sudore fluentia multo 
 bracchia, vix solvi duros a corpore nexus. 
 instat anhelanti, prohibetque resumere vires, 
@@ -125,8 +125,8 @@ Nessus adit, membrisque valens scitusque vadorum,
 haec,' ait 'Alcide. tu viribus utere nando!'    110 
 pallentemque metu, fluviumque ipsumque timentem 
 tradidit Aonius pavidam Calydonida Nesso. 
-mox, ut erat, pharetraque gravis spolioque leonis&#151; 
-nam clavam et curvos trans ripam miserat arcus&#151; 
+mox, ut erat, pharetraque gravis spolioque leonis --  
+nam clavam et curvos trans ripam miserat arcus --  
 'quandoquidem coepi, superentur flumina' dixit,    115 
 nec dubitat nec, qua sit clementissimus amnis, 
 quaerit, et obsequio deferri spernit aquarum. 
@@ -341,8 +341,8 @@ ingemuit. quam sic nurus est affata dolentem:    325
 'te tamen, o genetrix, alienae sanguine nostro 
 rapta movet facies. quid si tibi mira sororis 
 fata meae referam? quamquam lacrimaeque dolorque 
-impediunt, prohibentque loqui. fuit unica matri&#151; 
-me pater ex alia genuit&#151;notissima forma    330 
+impediunt, prohibentque loqui. fuit unica matri --  
+me pater ex alia genuit -- notissima forma    330 
 Oechalidum, Dryope. quam virginitate carentem 
 vimque dei passam Delphos Delonque tenentis 
 excipit Andraemon, et habetur coniuge felix. 
@@ -355,8 +355,8 @@ dulce ferebat onus tepidique ope lactis alebat.
 haut procul a stagno Tyrios imitata colores    340 
 in spem bacarum florebat aquatica lotos. 
 carpserat hinc Dryope, quos oblectamina nato 
-porrigeret, flores, et idem factura videbar&#151; 
-namque aderam&#151;vidi guttas e flore cruentas 
+porrigeret, flores, et idem factura videbar --  
+namque aderam -- vidi guttas e flore cruentas 
 decidere et tremulo ramos horrore moveri.    345 
 scilicet, ut referunt tardi nunc denique agrestes, 
 Lotis in hanc nymphe, fugiens obscena Priapi, 
@@ -690,8 +690,8 @@ vocibus his monuit, cum iam prope partus adesset.
 'quae voveam, duo sunt: minimo ut relevere dolore,    675 
 utque marem parias. onerosior altera sors est, 
 et vires fortuna negat. quod abominor, ergo 
-edita forte tuo fuerit si femina partu,&#151; 
-invitus mando; pietas, ignosce!&#151;necetur.' 
+edita forte tuo fuerit si femina partu, --  
+invitus mando; pietas, ignosce! -- necetur.' 
 dixerat, et lacrimis vultum lavere profusis,    680 
 tam qui mandabat, quam cui mandata dabantur. 
 sed tamen usque suum vanis Telethusa maritum 
@@ -772,7 +772,7 @@ dique mihi faciles, quicquid valuere, dederunt;
 quodque ego, vult genitor, vult ipsa, socerque futurus. 
 at non vult natura, potentior omnibus istis, 
 quae mihi sola nocet. venit ecce optabile tempus, 
-luxque iugalis adest, et iam mea fiet Ianthe&#151;    760 
+luxque iugalis adest, et iam mea fiet Ianthe --     760 
 nec mihi continget: mediis sitiemus in undis. 
 pronuba quid Iuno, quid ad haec, Hymenaee, venitis 
 sacra, quibus qui ducat abest, ubi nubimus ambae?' 

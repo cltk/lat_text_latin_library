@@ -1,4 +1,4 @@
-Ovid: Metamorposes VI
+Ovid: Metamorphoses VI
 		 
 
 		 
@@ -213,7 +213,7 @@ excessere metum mea iam bona. fingite demi
 huic aliquid populo natorum posse meorum: 
 non tamen ad numerum redigar spoliata duorum, 
 Latonae turbam, qua quantum distat ab orba?    200 
-ite&#151;satis pro re sacri&#151;laurumque capillis 
+ite -- satis pro re sacri -- laurumque capillis 
 ponite!' deponunt et sacra infecta relinquunt, 
 quodque licet, tacito venerantur murmure numen. 
   Indignata dea est summoque in vertice Cynthi 

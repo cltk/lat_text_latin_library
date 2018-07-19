@@ -1,4 +1,4 @@
-Ovid: Metamorposes VIII
+Ovid: Metamorphoses VIII
 		 
 
 		 
@@ -68,7 +68,7 @@ Cnosiaci possem castris insistere regis
 fassaque me flammasque meas, qua dote, rogarem, 
 vellet emi, tantum patrias ne posceret arces! 
 nam pereant potius sperata cubilia, quam sim    55 
-proditione potens!&#151;quamvis saepe utile vinci 
+proditione potens! -- quamvis saepe utile vinci 
 victoris placidi fecit clementia multis. 
 iusta gerit certe pro nato bella perempto: 
 et causaque valet causamque tuentibus armis. 
@@ -875,11 +875,11 @@ praebebatque avido non iusta alimenta parenti.
 vis tamen illa mali postquam consumpserat omnem    875 
 materiam derantque gravi nova pabula morbo, 
 ipse suos artus lacerans divellere morsu 
-coepit et infelix minuendo corpus alebat.&#151; 
+coepit et infelix minuendo corpus alebat. --  
   'Quid moror externis? etiam mihi nempe novandi est 
 corporis, o iuvenis, numero finita, potestas.    880 
 nam modo, qui nunc sum, videor, modo flector in anguem, 
-armenti modo dux vires in cornua sumo,&#151; 
+armenti modo dux vires in cornua sumo, --  
 cornua, dum potui. nunc pars caret altera telo 
 frontis, ut ipse vides.' gemitus sunt verba secuti.
  

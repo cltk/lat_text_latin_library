@@ -1,4 +1,4 @@
-Ovid: Metamorposes II
+Ovid: Metamorphoses II
 		 
 
 		 
@@ -96,7 +96,7 @@ Scorpion atque aliter curvantem bracchia Cancrum.
 nec tibi quadripedes animosos ignibus illis, 
 quos in pectore habent, quos ore et naribus efflant,    85 
 in promptu regere est: vix me patiuntur, ubi acres 
-incaluere animi cervixque repugnat habenis.&#151; 
+incaluere animi cervixque repugnat habenis. --  
 at tu, funesti ne sim tibi muneris auctor, 
 nate, cave, dum resque sinit tua corrige vota! 
 scilicet ut nostro genitum te sanguine credas,    90 
@@ -139,7 +139,7 @@ nec tibi derectos placeat via quinque per arcus!
 sectus in obliquum est lato curvamine limes,    130 
 zonarumque trium contentus fine polumque 
 effugit australem iunctamque aquilonibus arcton: 
-hac sit iter&#151;manifesta rotae vestigia cernes&#151; 
+hac sit iter -- manifesta rotae vestigia cernes --  
 utque ferant aequos et caelum et terra calores, 
 nec preme nec summum molire per aethera currum!    135 
 altius egressus caelestia tecta cremabis, 
@@ -358,7 +358,7 @@ et teneros manibus ramos abrumpit, at inde
 sanguineae manant tamquam de vulnere guttae.    360 
 'parce, precor, mater,' quaecumque est saucia, clamat, 
 'parce, precor: nostrum laceratur in arbore corpus 
-iamque vale'&#151;cortex in verba novissima venit. 
+iamque vale' -- cortex in verba novissima venit. 
 inde fluunt lacrimae, stillataque sole rigescunt 
 de ramis electra novis, quae lucidus amnis    365 
 excipit et nuribus mittit gestanda Latinis.  Adfuit huic monstro proles Stheneleia Cycnus, 
@@ -551,7 +551,7 @@ redditur, ut dicar tutela pulsa Minervae
 et ponar post noctis avem! mea poena volucres 
 admonuisse potest, ne voce pericula quaerant.    565 
 at, puto, non ultro nequiquam tale rogantem 
-me petiit!&#151;ipsa licet hoc a Pallade quaeras: 
+me petiit! -- ipsa licet hoc a Pallade quaeras: 
 quamvis irata est, non hoc irata negabit. 
 nam me Phocaica clarus tellure Coroneus 
 (nota loquor) genuit, fueramque ego regia virgo    570 

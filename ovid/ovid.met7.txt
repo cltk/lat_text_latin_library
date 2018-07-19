@@ -1,4 +1,4 @@
-Ovid: Metamorposes VII
+Ovid: Metamorphoses VII
 		 
 
 		 
@@ -50,7 +50,7 @@ cur non et specto pereuntem oculosque videndo
 conscelero? cur non tauros exhortor in illum    35 
 terrigenasque feros insopitumque draconem? 
 di meliora velint! quamquam non ista precanda, 
-sed facienda mihi.&#151;prodamne ego regna parentis, 
+sed facienda mihi. -- prodamne ego regna parentis, 
 atque ope nescio quis servabitur advena nostra, 
 ut per me sospes sine me det lintea ventis    40 
 virque sit alterius, poenae Medea relinquar? 
@@ -80,9 +80,9 @@ nunc sorbere fretum, nunc reddere, cinctaque saevis
 Scylla rapax canibus Siculo latrare profundo?    65 
 nempe tenens, quod amo, gremioque in Iasonis haerens 
 per freta longa ferar; nihil illum amplexa verebor 
-aut, siquid metuam, metuam de coniuge solo.&#151; 
+aut, siquid metuam, metuam de coniuge solo. --  
 coniugiumne putas speciosaque nomina culpae 
-inponis, Medea, tuae?&#151;quin adspice, quantum    70 
+inponis, Medea, tuae? -- quin adspice, quantum    70 
 adgrediare nefas, et, dum licet, effuge crimen!' 
 dixit, et ante oculos rectum pietasque pudorque 
 constiterant, et victa dabat iam terga Cupido. 

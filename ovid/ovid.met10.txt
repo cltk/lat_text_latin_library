@@ -1,4 +1,4 @@
-Ovid: Metamorposes X
+Ovid: Metamorphoses X
 		 
 
 		 
@@ -327,7 +327,7 @@ ipse negat nocuisse tibi sua tela Cupido,
 Myrrha, facesque suas a crimine vindicat isto; 
 stipite te Stygio tumidisque adflavit echidnis 
 e tribus una soror: scelus est odisse parentem, 
-hic amor est odio maius scelus.&#151;undique lecti    315 
+hic amor est odio maius scelus. -- undique lecti    315 
 te cupiunt proceres, totoque Oriente iuventus 
 ad thalami certamen adest: ex omnibus unum 
 elige, Myrrha, virum, dum ne sit in omnibus unus. 
@@ -347,9 +347,9 @@ invida iura negant. gentes tamen esse feruntur,
 in quibus et nato genetrix et nata parenti 
 iungitur, et pietas geminato crescit amore. 
 me miseram, quod non nasci mihi contigit illic, 
-fortunaque loci laedor!&#151;quid in ista revolvor?    335 
+fortunaque loci laedor! -- quid in ista revolvor?    335 
 spes interdictae, discedite! dignus amari 
-ille, sed ut pater, est.&#151;ergo, si filia magni 
+ille, sed ut pater, est. -- ergo, si filia magni 
 non essem Cinyrae, Cinyrae concumbere possem: 
 nunc, quia iam meus est, non est meus, ipsaque damno 
 est mihi proximitas: aliena potentior essem.    340 
@@ -367,7 +367,7 @@ noxia corda vident? at tu, dum corpore non es
 passa nefas, animo ne concipe neve potentis 
 concubitu vetito naturae pollue foedus! 
 velle puta: res ipsa vetat; pius ille memorque est 
-moris&#151;et o vellem similis furor esset in illo!"    355 
+moris -- et o vellem similis furor esset in illo!"    355 
   'Dixerat, at Cinyras, quem copia digna procorum, 
 quid faciat, dubitare facit, scitatur ab ipsa, 
 nominibus dictis, cuius velit esse mariti; 
@@ -441,7 +441,7 @@ vertice canities rigidis stetit hirta capillis,    425
 multaque, ut excuteret diros, si posset, amores, 
 addidit. at virgo scit se non falsa moneri; 
 certa mori tamen est, si non potiatur amore. 
-"vive," ait haec, "potiere tuo"&#151;et, non ausa "parente" 
+"vive," ait haec, "potiere tuo" -- et, non ausa "parente" 
 dicere, conticuit promissaque numine firmat.    430 
   'Festa piae Cereris celebrabant annua matres 
 illa, quibus nivea velatae corpora veste 
@@ -634,10 +634,10 @@ quid, quod amat tantique putat conubia nostra,
 ut pereat, si me fors illi dura negarit? 
 dum licet, hospes, abi thalamosque relinque cruentos.    620 
 coniugium crudele meum est, tibi nubere nulla 
-nolet, et optari potes a sapiente puella.&#151; 
+nolet, et optari potes a sapiente puella. -- 
 cur tamen est mihi cura tui tot iam ante peremptis? 
 viderit! intereat, quoniam tot caede procorum 
-admonitus non est agiturque in taedia vitae.&#151;    625 
+admonitus non est agiturque in taedia vitae. --    625 
 occidet hic igitur, voluit quia vivere mecum, 
 indignamque necem pretium patietur amoris? 
 non erit invidiae victoria nostra ferendae. 

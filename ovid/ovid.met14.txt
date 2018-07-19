@@ -1,4 +1,4 @@
-Ovid: Metamorposes XIV
+Ovid: Metamorphoses XIV
 		 
 
 		 
@@ -773,7 +773,7 @@ hoc quoque non potuit, paulatimque occupat artus,
 quod fuit in duro iam pridem pectore, saxum. 
 neve ea ficta putes, dominae sub imagine signum 
 servat adhuc Salamis, Veneris quoque nomine templum    760 
-Prospicientis habet.&#151;quorum memor, o mea, lentos 
+Prospicientis habet. quorum memor, o mea, lentos 
 pone, precor, fastus et amanti iungere, nymphe: 
 sic tibi nec vernum nascentia frigus adurat 
 poma, nec excutiant rapidi florentia venti!' 

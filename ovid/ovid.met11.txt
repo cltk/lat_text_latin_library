@@ -1,4 +1,4 @@
-Ovid: Metamorposes XI
+Ovid: Metamorphoses XI
 		 
 
 		 
@@ -305,7 +305,7 @@ et flebat: moveat tantos quae causa dolores,
 Peleusque comitesque rogant; quibus ille profatur:    290 
 'forsitan hanc volucrem, rapto quae vivit et omnes 
 terret aves, semper pennas habuisse putetis: 
-vir fuit (et&#151;tanta est animi constantia&#151;iam tum 
+vir fuit (et -- tanta est animi constantia -- iam tum 
 acer erat belloque ferox ad vimque paratus) 
 nomine Daedalion. illo genitore creatis,    295 
 qui vocat Auroram caeloque novissimus exit, 
@@ -678,7 +678,7 @@ occidimus! falso tibi me promittere noli!
 nubilus Aegaeo deprendit in aequore navem 
 auster et ingenti iactatam flamine solvit, 
 oraque nostra tuum frustra clamantia nomen    665 
-inplerunt fluctus.&#151;non haec tibi nuntiat auctor 
+inplerunt fluctus. non haec tibi nuntiat auctor 
 ambiguus, non ista vagis rumoribus audis: 
 ipse ego fata tibi praesens mea naufragus edo. 
 surge, age, da lacrimas lugubriaque indue nec me 

@@ -2026,7 +2026,7 @@ nec se contingi patiuntur lumine claro.
 ETSI me assiduo confectum cura dolore 
   seuocat a doctis, Ortale, uirginibus, 
 nec potis est dulcis Musarum expromere fetus 
-  mens animi, tantis fluctuat ipsa malis&#8212; 
+  mens animi, tantis fluctuat ipsa malis -- 
 namque mei nuper Lethaeo in gurgite fratris 
   pallidulum manans alluit unda pedem, 
 Troia Rhoeteo quem subter litore tellus 
