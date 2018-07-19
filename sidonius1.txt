@@ -29,7 +29,7 @@ Sidonius Constantio suo salutem.
  
 
  
-3. sed scilicet tibi parui tuaeque examinationi has &lt;litterulas&gt; non recensendas (hoc enim parum est) sed defaecandas, ut aiunt, limandasque commisi, sciens te immodicum esse fautorem non studiorum modo verum etiam studiosorum. quam ob rem nos nunc perquam haesitabundos in hoc deinceps famae pelagus impellis. 
+3. sed scilicet tibi parui tuaeque examinationi has <litterulas> non recensendas (hoc enim parum est) sed defaecandas, ut aiunt, limandasque commisi, sciens te immodicum esse fautorem non studiorum modo verum etiam studiosorum. quam ob rem nos nunc perquam haesitabundos in hoc deinceps famae pelagus impellis. 
  
 
  
@@ -51,7 +51,7 @@ Sidonius Agricolae suo salutem.
  
 
  
-2. si forma quaeratur: corpore exacto, longissimis brevior, procerior eminentiorque mediocribus. capitis apex rotundus, in quo paululum a planitie frontis in verticem caesaries refuga crispatur. cervix non &#60;toris tumet&#62; sed nervis. geminos orbes hispidus superciliorum coronat arcus; si vero cilia flectantur, ad malas medias palpebrarum margo prope pervenit. aurium ligulae, sicut mos gentis est, crinium superiacentium flagellis operiuntur. nasus venustissime incurvus. labra subtilia nec dilatatis oris angulis ampliata. pilis infra narium antra fruticantibus cotidiana succisio; barba concavis hirta temporibus, quam in subdita vultus parte surgentem stirpitus tonsor assiduus genis ut adhuc vesticipibus evellit. 
+2. si forma quaeratur: corpore exacto, longissimis brevior, procerior eminentiorque mediocribus. capitis apex rotundus, in quo paululum a planitie frontis in verticem caesaries refuga crispatur. cervix non <toris tumet> sed nervis. geminos orbes hispidus superciliorum coronat arcus; si vero cilia flectantur, ad malas medias palpebrarum margo prope pervenit. aurium ligulae, sicut mos gentis est, crinium superiacentium flagellis operiuntur. nasus venustissime incurvus. labra subtilia nec dilatatis oris angulis ampliata. pilis infra narium antra fruticantibus cotidiana succisio; barba concavis hirta temporibus, quam in subdita vultus parte surgentem stirpitus tonsor assiduus genis ut adhuc vesticipibus evellit. 
  
 
  
@@ -63,7 +63,7 @@ Sidonius Agricolae suo salutem.
  
 
  
-5. si venatione nuntiata procedit, arcum lateri innectere citra gravitatem regiam iudicat; quem tamen, si comminus avem feramque aut venanti aut vianti &#60;sors obtulerit&#62;, manui post tergum reflexae puer inserit nervo lorove fluitantibus; quem sicut puerile computat gestare thecatum, ita muliebre accipere iam tensum. igitur acceptum modo insinuatis e regione capitibus intendit, modo ad talum pendulum nodi parte conversa languentem chordae vagantis laqueum digito superlabente prosequitur; et mox spicula capit, implet, expellit; quidve cupias percuti, prior admonet; eligis quid feriat: quod elegeris ferit; et, si ab alterutro errandum est, rarius fallitur figentis ictus quam destinantis obtutus. 
+5. si venatione nuntiata procedit, arcum lateri innectere citra gravitatem regiam iudicat; quem tamen, si comminus avem feramque aut venanti aut vianti <sors obtulerit>, manui post tergum reflexae puer inserit nervo lorove fluitantibus; quem sicut puerile computat gestare thecatum, ita muliebre accipere iam tensum. igitur acceptum modo insinuatis e regione capitibus intendit, modo ad talum pendulum nodi parte conversa languentem chordae vagantis laqueum digito superlabente prosequitur; et mox spicula capit, implet, expellit; quidve cupias percuti, prior admonet; eligis quid feriat: quod elegeris ferit; et, si ab alterutro errandum est, rarius fallitur figentis ictus quam destinantis obtutus. 
  
 
  
@@ -79,7 +79,7 @@ Sidonius Agricolae suo salutem.
  
 
  
-9. circa nonam recrudescit moles illa regnandi. redeunt pulsantes, redeunt summoventes, ubique litigiosus fremit ambitus, qui tractus in vesperam cena regia interpellante rarescit et per aulicos deinceps pro patronorum varietate dispergitur, usque ad tempus concubiae noctis excubaturus. sane intromittuntur, quamquam raro, inter cenandum mimici sales, &#60;sed&#62; ita ut nullus conviva mordacis linguae felle feriatur; sic tamen, quod illic nec organa hydraulica sonant nec sub phonasco vocalium concentus meditatum acroama simul intonat; nullus ibi lyristes choraules mesochorus tympanistria psaltria canit, rege solum illis fidibus delenito, quibus non minus mulcet virtus animum quam cantus auditum.
+9. circa nonam recrudescit moles illa regnandi. redeunt pulsantes, redeunt summoventes, ubique litigiosus fremit ambitus, qui tractus in vesperam cena regia interpellante rarescit et per aulicos deinceps pro patronorum varietate dispergitur, usque ad tempus concubiae noctis excubaturus. sane intromittuntur, quamquam raro, inter cenandum mimici sales, <sed> ita ut nullus conviva mordacis linguae felle feriatur; sic tamen, quod illic nec organa hydraulica sonant nec sub phonasco vocalium concentus meditatum acroama simul intonat; nullus ibi lyristes choraules mesochorus tympanistria psaltria canit, rege solum illis fidibus delenito, quibus non minus mulcet virtus animum quam cantus auditum.
  
 
  
@@ -245,7 +245,7 @@ Sidonius Vincentio suo salutem.
  
 
  
-6. me et Auxanium, praestantissimum virum, tractatus iste non latuit, qui Arvandi amicitias quoquo genere incursas inter ipsius adversa vitare perfidum barbarum ignavum computabamus. deferimus igitur nil tale metuenti totam per&#60;niciter&#62; machinam, quam summo artificio acres et flammei viri occulere in tempus iudicii meditabantur, scilicet ut adversarium incautum et consiliis sodalium repudiatis sibi soli temere fidentem professione responsi praecipitis involverent. dicimus ergo, quid nobis, quid amicis secretioribus tutum putaretur. suademus nil quasi leve fatendum, si quid ab inimicis etiam pro levissimo flagitaretur; ipsam illam dissimulationem tribulosissimam fore, quo facilius exc&#60;uterent&#62; sciscitan&#60;do incautam persua&#62;sionis securitatem.
+6. me et Auxanium, praestantissimum virum, tractatus iste non latuit, qui Arvandi amicitias quoquo genere incursas inter ipsius adversa vitare perfidum barbarum ignavum computabamus. deferimus igitur nil tale metuenti totam per<niciter> machinam, quam summo artificio acres et flammei viri occulere in tempus iudicii meditabantur, scilicet ut adversarium incautum et consiliis sodalium repudiatis sibi soli temere fidentem professione responsi praecipitis involverent. dicimus ergo, quid nobis, quid amicis secretioribus tutum putaretur. suademus nil quasi leve fatendum, si quid ab inimicis etiam pro levissimo flagitaretur; ipsam illam dissimulationem tribulosissimam fore, quo facilius exc<uterent> sciscitan<do incautam persua>sionis securitatem.
  
 
  
@@ -261,7 +261,7 @@ Sidonius Vincentio suo salutem.
  
 
  
-10. dum haec, et qui procerum defuerant affuerunt: consurgunt partes legatique proponunt. epistula post provinciale mandatum, cuius supra mentio facta, profertur; atque, cum sensim recitaretur, Arvandus necdum interrogatus se dictasse proclamat. respondere legati quamquam &#60;fatenti&#62; nequiter &#60;sane&#62; constare, quod ipse dictasset. at ubi se furens ille quantumque caderet ignarus bis terque repetita confessione transfodit, acclamatur ab accusatoribus, conclamatur a iudicibus reum laesae maiestatis confitentem teneri. ad hoc et milibus formularum iuris id sancientum iugulabatur.
+10. dum haec, et qui procerum defuerant affuerunt: consurgunt partes legatique proponunt. epistula post provinciale mandatum, cuius supra mentio facta, profertur; atque, cum sensim recitaretur, Arvandus necdum interrogatus se dictasse proclamat. respondere legati quamquam <fatenti> nequiter <sane> constare, quod ipse dictasset. at ubi se furens ille quantumque caderet ignarus bis terque repetita confessione transfodit, acclamatur ab accusatoribus, conclamatur a iudicibus reum laesae maiestatis confitentem teneri. ad hoc et milibus formularum iuris id sancientum iugulabatur.
  
 
  
@@ -287,7 +287,7 @@ Sidonius Candidiano suo salutem.
  
 
  
-1. Morari me Romae congratularis; id tamen quasi facete et fatigationum salibus admixtis: ais enim gaudere te, quod aliquando necessarius tuus videam solem, quem utique perr&#60;aro&#62; Arari&#60;s potor&#62; inspexerim. nebulas ergo mihi meorum Lugdunensium exprobras et diem quereris nobis matutina caligine obstructum vix meridiano fervore reserari.
+1. Morari me Romae congratularis; id tamen quasi facete et fatigationum salibus admixtis: ais enim gaudere te, quod aliquando necessarius tuus videam solem, quem utique perr<aro> Arari<s potor> inspexerim. nebulas ergo mihi meorum Lugdunensium exprobras et diem quereris nobis matutina caligine obstructum vix meridiano fervore reserari.
  
 
  
@@ -329,7 +329,7 @@ Sidonius Heronio suo salutem.
  
 
  
-6. tunc patronus: 'heia', inquit, 'Solli meus, &#60;agedum&#62;, quamquam suscepti officii onere pressaris, exeras volo in obsequium novi consulis veterem Musam votivum quippiam vel tumultuariis fidibus carminantem. praebebo admittendo aditum recitaturoque solacium recitantique suffragium. si quid experto credis, multa tibi seria hoc ludo promovebuntur.' parui ego praeceptis; favorem ille non subtraxit iniunctis et impositae devotionis adstipulator invictus egit cum consule meo, ut me praefectum faceret senatui suo.
+6. tunc patronus: 'heia', inquit, 'Solli meus, <agedum>, quamquam suscepti officii onere pressaris, exeras volo in obsequium novi consulis veterem Musam votivum quippiam vel tumultuariis fidibus carminantem. praebebo admittendo aditum recitaturoque solacium recitantique suffragium. si quid experto credis, multa tibi seria hoc ludo promovebuntur.' parui ego praeceptis; favorem ille non subtraxit iniunctis et impositae devotionis adstipulator invictus egit cum consule meo, ut me praefectum faceret senatui suo.
  
 
  

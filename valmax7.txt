@@ -29,7 +29,7 @@ Valerius Maximus VII
  
 
  
-7.2.1 App. Claudium crebro solitum dicere accepimus negotium populo Romano melius quam otium conmitti, non quod igno&lt;ra&gt;ret quam iucundus tranquillitatis status esset, sed quod animaduerteret praepotentia imperia agitatione rerum ad uirtutem capessendam excitari, nimia quiete in desidiam resolui. et sane negotium nomine horridum ciuitatis nostrae mores in suo statu continuit, blandae appellationis quies plurimis uitiis respersit.
+7.2.1 App. Claudium crebro solitum dicere accepimus negotium populo Romano melius quam otium conmitti, non quod igno<ra>ret quam iucundus tranquillitatis status esset, sed quod animaduerteret praepotentia imperia agitatione rerum ad uirtutem capessendam excitari, nimia quiete in desidiam resolui. et sane negotium nomine horridum ciuitatis nostrae mores in suo statu continuit, blandae appellationis quies plurimis uitiis respersit.
  
 
  
@@ -37,7 +37,7 @@ Valerius Maximus VII
  
 
  
-7.2.3 Q. quoque Metelli cum grauis tum etiam alta in senatu sententia, qui deuicta Karthagine &lt;ne&gt;scire se illa uictoria bonine plus an mali rei publicae adtulisset adseuerauit, quoniam ut pacem restituendo profuisset, ita Hannibalem summouendo nonnihil nocuisset: eius enim transitu in Italiam dormientem iam populi Romani uirtutem excitatam, metuique debere ne acri aemulo liberata in eundem somnum reuolueretur. in aequo igitur malorum posuit uri tecta, uastari, agros, exhauriri aerarium et prisci roboris neruos hebetari.
+7.2.3 Q. quoque Metelli cum grauis tum etiam alta in senatu sententia, qui deuicta Karthagine <ne>scire se illa uictoria bonine plus an mali rei publicae adtulisset adseuerauit, quoniam ut pacem restituendo profuisset, ita Hannibalem summouendo nonnihil nocuisset: eius enim transitu in Italiam dormientem iam populi Romani uirtutem excitatam, metuique debere ne acri aemulo liberata in eundem somnum reuolueretur. in aequo igitur malorum posuit uri tecta, uastari, agros, exhauriri aerarium et prisci roboris neruos hebetari.
  
 
  
@@ -77,15 +77,15 @@ Idem ab adulescentulo quodam consultus utrum uxorem duceret an se omni matrimoni
  
 
  
-7.2.ext 2 Age quam prudenter Solo &lt;nemi&gt;nem, dum adhuc uiueret, beatum dici debere arbitrabatur, quod ad ultimum usque fati diem ancipiti fortunae subiecti essemus. felicitatis igitur humanae appellationem rogus consummat, qui se incursui malorum obicit.
+7.2.ext 2 Age quam prudenter Solo <nemi>nem, dum adhuc uiueret, beatum dici debere arbitrabatur, quod ad ultimum usque fati diem ancipiti fortunae subiecti essemus. felicitatis igitur humanae appellationem rogus consummat, qui se incursui malorum obicit.
  
 
  
-Idem, cum ex amicis quendam grauiter maerentem uideret, in arcem perduxit hortatusque est ut per omnes subiectorum aedificiorum partes oculos circumferret. quod ut factum animaduertit, 'cogita nunc tecum' inquit 'quam multi luctus sub his tectis et olim fuerint et hodieque uersentur &lt;et&gt; insequentibus saeculis sint habitaturi ac mitte mortalium incommoda tamquam propria deflere'. qua consolatione demonstrauit urbes esse humanarum cladium consaepta miseranda. idem aiebat, si in unum locum cuncti mala sua contulissent, futurum ut propria deportare domum quam ex communi miseriarum aceruo portionem suam ferre mallent. quo colligebat non oportere nos quae fortuito patiamur praecipuae et intolerabilis amaritudinis iudicare.
+Idem, cum ex amicis quendam grauiter maerentem uideret, in arcem perduxit hortatusque est ut per omnes subiectorum aedificiorum partes oculos circumferret. quod ut factum animaduertit, 'cogita nunc tecum' inquit 'quam multi luctus sub his tectis et olim fuerint et hodieque uersentur <et> insequentibus saeculis sint habitaturi ac mitte mortalium incommoda tamquam propria deflere'. qua consolatione demonstrauit urbes esse humanarum cladium consaepta miseranda. idem aiebat, si in unum locum cuncti mala sua contulissent, futurum ut propria deportare domum quam ex communi miseriarum aceruo portionem suam ferre mallent. quo colligebat non oportere nos quae fortuito patiamur praecipuae et intolerabilis amaritudinis iudicare.
  
 
  
-7.2.ext.3 Bias autem, cum patriam eius Prienen hostes inuasissent, omnibus, quos modo saeuitia belli incolumes abire passa fuerat, pretiosarum rerum pondere onustis fugientibus interrogatus quid ita nihil ex bonis suis secum ferret 'ego uero' inquit 'bona &lt;omnia&gt; mea mecum porto': pectore enim illa gestabat, non humeris, nec oculis uisenda, sed aestimanda animo. quae domicilio mentis inclusa nec mortalium nec deorum manibus labefactari queunt, et ut manentibus praesto sunt, ita fugientes non deserunt.
+7.2.ext.3 Bias autem, cum patriam eius Prienen hostes inuasissent, omnibus, quos modo saeuitia belli incolumes abire passa fuerat, pretiosarum rerum pondere onustis fugientibus interrogatus quid ita nihil ex bonis suis secum ferret 'ego uero' inquit 'bona <omnia> mea mecum porto': pectore enim illa gestabat, non humeris, nec oculis uisenda, sed aestimanda animo. quae domicilio mentis inclusa nec mortalium nec deorum manibus labefactari queunt, et ut manentibus praesto sunt, ita fugientes non deserunt.
  
 
  
@@ -105,7 +105,7 @@ Idem, cum ex amicis quendam grauiter maerentem uideret, in arcem perduxit hortat
  
 
  
-7.2.ext.8 Mirifice etiam Thales: nam interrogatus an facta hominum deos fallerent 'ne cogitata &lt;quidem&gt;' inquit, ut non solum manus, sed etiam mentes puras habere uellemus, cum secretis cogitationibus nostris caeleste numen adesse credidissemus.
+7.2.ext.8 Mirifice etiam Thales: nam interrogatus an facta hominum deos fallerent 'ne cogitata <quidem>' inquit, ut non solum manus, sed etiam mentes puras habere uellemus, cum secretis cogitationibus nostris caeleste numen adesse credidissemus.
  
 
  
@@ -145,7 +145,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.2.ext.17 Ne Samnites quidem paruas poenas consimilis erroris pependerunt, quod Herenni Ponti salutare consilium neglexerant. qui auctoritate et prudentia ceteros praestans ab exercitu et duce eius filio suo consultus quidnam fieri de legionibus Romanis apud furcas Caudinas inclusis deberet, inuiolatas dimittendas respondit. postero die eadem de re interrogatus deleri eas oportere dixit, ut aut maximo beneficio gratia hostium emere&lt;re&gt;tur aut grauissima iactura uires confringerentur. sed inprouida temeritas uictorum, dum utramque partem spernit utilitatis, sub iugum missas in perniciem suam accendit.
+7.2.ext.17 Ne Samnites quidem paruas poenas consimilis erroris pependerunt, quod Herenni Ponti salutare consilium neglexerant. qui auctoritate et prudentia ceteros praestans ab exercitu et duce eius filio suo consultus quidnam fieri de legionibus Romanis apud furcas Caudinas inclusis deberet, inuiolatas dimittendas respondit. postero die eadem de re interrogatus deleri eas oportere dixit, ut aut maximo beneficio gratia hostium emere<re>tur aut grauissima iactura uires confringerentur. sed inprouida temeritas uictorum, dum utramque partem spernit utilitatis, sub iugum missas in perniciem suam accendit.
  
 
  
@@ -153,19 +153,19 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.3.init. Est aliud factorum dictorumque genus, a sapientia proximo deflexu ad uafri&lt;ti&gt;ae nomen progressum, quod, nisi fallacia uires adsumpsit, finem propositi non inuenit laudemque occulto magis tramite quam aperta uia petit.
+7.3.init. Est aliud factorum dictorumque genus, a sapientia proximo deflexu ad uafri<ti>ae nomen progressum, quod, nisi fallacia uires adsumpsit, finem propositi non inuenit laudemque occulto magis tramite quam aperta uia petit.
  
 
  
-7.3.1 Seruio Tullio regnante cuidam patri familiae in agro Sabino praecipuae magnitudinis et eximiae formae uacca nata est. quam oraculorum certissimi auctores in hoc a dis inmortalibus editam responderunt, ut quisquis eam Auentinensi Dianae immolas set, eius patria totius terrarum orbis imperium obtineret. laetus eo dominus bouem summa cum festinatione Romam actam in Auentino ante aram Dianae constituit, sacrificio Sabinis regimen humani generis daturus. de qua re antistes templi certior factus religionem hospiti intulit, ne prius uictimam caederet quam proximi am&lt;nis se a&gt;qua abluisset, eoque alueum Tiberis petente uaccam ipse immolauit et urbem nostram tot ciuitatium, tot gentium dominam pio sacrificii furto reddidit.
+7.3.1 Seruio Tullio regnante cuidam patri familiae in agro Sabino praecipuae magnitudinis et eximiae formae uacca nata est. quam oraculorum certissimi auctores in hoc a dis inmortalibus editam responderunt, ut quisquis eam Auentinensi Dianae immolas set, eius patria totius terrarum orbis imperium obtineret. laetus eo dominus bouem summa cum festinatione Romam actam in Auentino ante aram Dianae constituit, sacrificio Sabinis regimen humani generis daturus. de qua re antistes templi certior factus religionem hospiti intulit, ne prius uictimam caederet quam proximi am<nis se a>qua abluisset, eoque alueum Tiberis petente uaccam ipse immolauit et urbem nostram tot ciuitatium, tot gentium dominam pio sacrificii furto reddidit.
  
 
  
-7.3.2 Quo in genere acuminis in primis Iunius Brutus referendus est: nam cum a rege Tarquinio auunculo suo omnem nobilitatis indolem excerpi interque ceteros etiam fratrem suum, quod uegetioris ingenii erat, interfectum animaduerteret, obtunsi se cordis esse simulauit eaque fallacia maximas uirtutes suas texit. profectus etiam Delphos cum Tarquinii filiis, quos is ad Apollinem Pythium muneribus &lt;et&gt; sacrificiis honorandum miserat, aurum deo nomine doni clam cauato baculo inclusum tulit, quia timebat ne sibi caeleste numen aperta liberalitate uenerari tutum non esset. peractis deinde mandatis patris Apollinem iuuenes consuluerunt quisnam ex ipsis Romae regnaturus uideretur. at is penes eum summam urbis nostrae potestatem futuram respondit, qui ante omnes matri osculum dedisset. tum Brutus perinde atque casu prolapsus de industria se abiecit terramque communem omnium matrem existimans osculatus est. quod tam uafre Telluri inpressum osculum urbi libertatem, Bruto primum in fastis locum tribuit.
+7.3.2 Quo in genere acuminis in primis Iunius Brutus referendus est: nam cum a rege Tarquinio auunculo suo omnem nobilitatis indolem excerpi interque ceteros etiam fratrem suum, quod uegetioris ingenii erat, interfectum animaduerteret, obtunsi se cordis esse simulauit eaque fallacia maximas uirtutes suas texit. profectus etiam Delphos cum Tarquinii filiis, quos is ad Apollinem Pythium muneribus <et> sacrificiis honorandum miserat, aurum deo nomine doni clam cauato baculo inclusum tulit, quia timebat ne sibi caeleste numen aperta liberalitate uenerari tutum non esset. peractis deinde mandatis patris Apollinem iuuenes consuluerunt quisnam ex ipsis Romae regnaturus uideretur. at is penes eum summam urbis nostrae potestatem futuram respondit, qui ante omnes matri osculum dedisset. tum Brutus perinde atque casu prolapsus de industria se abiecit terramque communem omnium matrem existimans osculatus est. quod tam uafre Telluri inpressum osculum urbi libertatem, Bruto primum in fastis locum tribuit.
  
 
  
-7.3.3 Scipio quoque superior praesidium calliditatis amplexus est: ex Sicilia enim petens Africam, cum e fortissimis peditibus Romanis trecentorum equitum numerum conplere uellet neque tam subito eos posset instruere, quod temporis angustiae negabant sagacitate consilii adsecutus est: namque ex his iuuenibus, quos secum tota Sicilia nobilissimos et diuitissimos sed inermes habebat, trecentos speciosa arma et electos equos quam celerrime expedire iussit uelut eos continuo secum ad oppugnandam Karthaginem auecturus. qui cum imperio ut celeriter, ita longinqui et periculosi belli respectu sollicitis animis paruissent, remittere &lt;eis&gt; Scipio illam expeditionem, si arma et equos militibus suis tradere uoluissent, edixit. rapuit condicionem inbellis ac timida iuuentus instrumentoque suo cupidenostris cessit. ergo calliditas ducis prouidit ut ~ si quod protinus imperaretur, grato prius, deinde remisso militiae metu maximum beneficium fieret.
+7.3.3 Scipio quoque superior praesidium calliditatis amplexus est: ex Sicilia enim petens Africam, cum e fortissimis peditibus Romanis trecentorum equitum numerum conplere uellet neque tam subito eos posset instruere, quod temporis angustiae negabant sagacitate consilii adsecutus est: namque ex his iuuenibus, quos secum tota Sicilia nobilissimos et diuitissimos sed inermes habebat, trecentos speciosa arma et electos equos quam celerrime expedire iussit uelut eos continuo secum ad oppugnandam Karthaginem auecturus. qui cum imperio ut celeriter, ita longinqui et periculosi belli respectu sollicitis animis paruissent, remittere <eis> Scipio illam expeditionem, si arma et equos militibus suis tradere uoluissent, edixit. rapuit condicionem inbellis ac timida iuuentus instrumentoque suo cupidenostris cessit. ergo calliditas ducis prouidit ut ~ si quod protinus imperaretur, grato prius, deinde remisso militiae metu maximum beneficium fieret.
  
 
  
@@ -173,11 +173,11 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.3.5 Nam M. Antonio remittendum conuicium est, qui idcirco se aiebat nullam orationem scripsisse, ut, si quid superiore iudicio actum &lt;ei&gt;, quem postea defensurus esset, nociturum foret, non dictum a se adfirmare posset, quia facti uix pudentis causam tolerabilem habuit: pro periclitantium enim capite non solum eloquentia sua uti, sed etiam uerecundia abuti erat paratus.
+7.3.5 Nam M. Antonio remittendum conuicium est, qui idcirco se aiebat nullam orationem scripsisse, ut, si quid superiore iudicio actum <ei>, quem postea defensurus esset, nociturum foret, non dictum a se adfirmare posset, quia facti uix pudentis causam tolerabilem habuit: pro periclitantium enim capite non solum eloquentia sua uti, sed etiam uerecundia abuti erat paratus.
  
 
  
-7.3.6 Sertorius uero corporis robore atque animi consilio parem naturae indulgentiam expertus, proscriptione Sullana dux Lusitanorum fieri coactus, cum eos oratione flectere non posset ne cum Romanis uniuersa acie confligere uellent, uafro consilio ad suam sententiam perduxit: duos enim in conspectu eorum constituit equos, ualidissimum alterum, &lt;alterum&gt; infirmissimum, ac deinde ualidi caudam ab inbecillo sene paulatim carpi, infirmi a iuuene eximiarum uirium uniuersam conuelli iussit. obtemperatum imperio est. sed dum adulescentis dextera inrito se labore fatigat, senio confecta manus ministerium exsecuta est. tunc barbarae contioni quorsum ea res tenderet cognoscere cupienti subicit equi caudae consimilem esse nostrum exercitum, cuius partes aliquis adgrediens opprimere possit, uniuersum conatus prosternere celerius tradiderit uictoriam quam occupauerit. ita gens barbara, aspera et regi difficilis, in exitium suum ruens, quam utilitatem auribus respuerat, oculis peruidit.
+7.3.6 Sertorius uero corporis robore atque animi consilio parem naturae indulgentiam expertus, proscriptione Sullana dux Lusitanorum fieri coactus, cum eos oratione flectere non posset ne cum Romanis uniuersa acie confligere uellent, uafro consilio ad suam sententiam perduxit: duos enim in conspectu eorum constituit equos, ualidissimum alterum, <alterum> infirmissimum, ac deinde ualidi caudam ab inbecillo sene paulatim carpi, infirmi a iuuene eximiarum uirium uniuersam conuelli iussit. obtemperatum imperio est. sed dum adulescentis dextera inrito se labore fatigat, senio confecta manus ministerium exsecuta est. tunc barbarae contioni quorsum ea res tenderet cognoscere cupienti subicit equi caudae consimilem esse nostrum exercitum, cuius partes aliquis adgrediens opprimere possit, uniuersum conatus prosternere celerius tradiderit uictoriam quam occupauerit. ita gens barbara, aspera et regi difficilis, in exitium suum ruens, quam utilitatem auribus respuerat, oculis peruidit.
  
 
  
@@ -197,7 +197,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.3.ext.1 Cum Alexander Macedonum rex sorte monitus ut eum, qui sibi porta egresso primus occurrisset, interfici iuberet, asinarium forte &lt;ante&gt; omnis obuiam factum ad mortem abripi imperasset, eoque quaerente quidnam se immerentem capitali supplicio innocentemque addiceret, cum ad excusandum factum suum oraculi praeceptum retulisset, asinarius, 'si ita est' inquit, 'rex, alium sors huic morti destinauit: nam asellus, quem ego ante me agebam, prior tibi occurrit'. delectatus Alexander et illius tam callido dicto et quod ipse ab errore reuocatus erat, occasionem in aliquanto uiliore animali expiandae religionis rapuit. summa in hoc ~ mansuetudo, in alterius regis equisone calliditas.
+7.3.ext.1 Cum Alexander Macedonum rex sorte monitus ut eum, qui sibi porta egresso primus occurrisset, interfici iuberet, asinarium forte <ante> omnis obuiam factum ad mortem abripi imperasset, eoque quaerente quidnam se immerentem capitali supplicio innocentemque addiceret, cum ad excusandum factum suum oraculi praeceptum retulisset, asinarius, 'si ita est' inquit, 'rex, alium sors huic morti destinauit: nam asellus, quem ego ante me agebam, prior tibi occurrit'. delectatus Alexander et illius tam callido dicto et quod ipse ab errore reuocatus erat, occasionem in aliquanto uiliore animali expiandae religionis rapuit. summa in hoc ~ mansuetudo, in alterius regis equisone calliditas.
  
 
  
@@ -213,15 +213,15 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.3.ext.5 Demosthenis quoque astutia mirifice cuidam aniculae succursum est, quae pecuniam depositi nomine a duobus hospitibus acceperat ea condicione, ut illam simul utrisque redderet. quorum alter interiecto tempore tamquam mortuo socio squalore obsitus deceptae omnis nummos abstulit. superuenit deinde alter et depositum petere coepit. haerebat misera et in maxima pariter et pecuniae et defensionis penuria iam[que] de laqueo et suspendio cogitabat: sed opportune Demosthenes ei patronus adfulsit. qui, ut &lt;in&gt; aduocationem uenit, 'mulier' inquit 'parata est depositi se fide soluere, sed nisi socium adduxeris, id facere non potest, quoniam, ut ipse uociferaris, haec dicta est lex, ne pecunia alteri sine altero numeraretur'.
+7.3.ext.5 Demosthenis quoque astutia mirifice cuidam aniculae succursum est, quae pecuniam depositi nomine a duobus hospitibus acceperat ea condicione, ut illam simul utrisque redderet. quorum alter interiecto tempore tamquam mortuo socio squalore obsitus deceptae omnis nummos abstulit. superuenit deinde alter et depositum petere coepit. haerebat misera et in maxima pariter et pecuniae et defensionis penuria iam[que] de laqueo et suspendio cogitabat: sed opportune Demosthenes ei patronus adfulsit. qui, ut <in> aduocationem uenit, 'mulier' inquit 'parata est depositi se fide soluere, sed nisi socium adduxeris, id facere non potest, quoniam, ut ipse uociferaris, haec dicta est lex, ne pecunia alteri sine altero numeraretur'.
  
 
  
-7.3.ext.6 Ac ne illud quidem parum prudenter. qui&lt;dam&gt; Athenis uniuerso populo inuisus causam apud eum capitali crimine dicturus maximum honorem subito petere coepit, non quod speraret se illum consequi posse, sed ut haberent homines ubi procursum irae, qui acerrimus esse solet, effunderent. neque eum haec tam callida consilii ratio fefellit: comitiis enim clamore infesto et crebris totius contionis sibilis uexatus, nota etiam denegati honoris perstrictus, eiusdem plebis paulo post in discrimine uitae clementissima suffragia expertus est. quod si adhuc ei ultionem sitienti capitis sui periculum obiecisset, nullam partem defensionis odio obseratae aures reciperent.
+7.3.ext.6 Ac ne illud quidem parum prudenter. qui<dam> Athenis uniuerso populo inuisus causam apud eum capitali crimine dicturus maximum honorem subito petere coepit, non quod speraret se illum consequi posse, sed ut haberent homines ubi procursum irae, qui acerrimus esse solet, effunderent. neque eum haec tam callida consilii ratio fefellit: comitiis enim clamore infesto et crebris totius contionis sibilis uexatus, nota etiam denegati honoris perstrictus, eiusdem plebis paulo post in discrimine uitae clementissima suffragia expertus est. quod si adhuc ei ultionem sitienti capitis sui periculum obiecisset, nullam partem defensionis odio obseratae aures reciperent.
  
 
  
-7.3.ext.7 Huic uaframento consimilis illa calliditas [su periori]. Hannibal a Duilio consule nauali proelio uictus timensque classis amissae poenas dare, offensam astutia m&lt;ire&gt; auertit: nam ex illa infelici pugna prius quam cladis nuntius domum perueniret quendam ex amicis conpositum et formatum Karthaginem misit. qui, postquam ciuitatis eius curiam intrauit, 'consulit uos' inquit 'Hannibal, cum dux Romanorum magnas secum maritimas trahens copias aduenerit, an cum eo confligere debeat'. adclamauit uniuersus senatus non esse dubium quin oporteret. tum ille 'conflixit' inquit 'et superatus est'. ita liberum his non reliquit id factum damnare, quod ipsi fieri debuisse iudicauerant.
+7.3.ext.7 Huic uaframento consimilis illa calliditas [su periori]. Hannibal a Duilio consule nauali proelio uictus timensque classis amissae poenas dare, offensam astutia m<ire> auertit: nam ex illa infelici pugna prius quam cladis nuntius domum perueniret quendam ex amicis conpositum et formatum Karthaginem misit. qui, postquam ciuitatis eius curiam intrauit, 'consulit uos' inquit 'Hannibal, cum dux Romanorum magnas secum maritimas trahens copias aduenerit, an cum eo confligere debeat'. adclamauit uniuersus senatus non esse dubium quin oporteret. tum ille 'conflixit' inquit 'et superatus est'. ita liberum his non reliquit id factum damnare, quod ipsi fieri debuisse iudicauerant.
  
 
  
@@ -245,11 +245,11 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.4.2 Et ne continuo a nostris regibus recedam, Sextus Tarquinius Tarquini filius indigne ferens, quod patris uiribus expugnari Gabii nequirent, ualentiorem armis excogitauit rationem, qua interceptum illud oppidum Romano imperio adiceret: subito namque se ad Gabinos contulit tamquam parentis saeuitiam et uerbera, quae uoluntate sua perpessus erat, fugiens, ac paulatim unius cuiusque fictis et compositis blanditiis adliciendo beniuolentiam, ut apud omnes plurimum posset consecutus, familiarem suum ad patrem misit indicaturum quemadmodum cuncta in sua manu haberet et quaesiturum quidnam fieri uellet. iuuenili calliditati senilis astutia respondit, si quidem re eximie delectatus Tarquinius, fidei autem nuntii parum &lt;credens&gt; nihil respondit, sed seducto eo in hortum maxima et altissima papauerum capita baculo decussit. cognito adulescens silentio simul ac patris facto causam alterius, &lt;alterius&gt; argumentum peruidit nec ignorauit praecipi sibi ut excellentissimum quemque Gabinorum aut exilio summoueret aut morte consumeret. ergo spoliatam bonis propugnatoribus ciuitatem tantum non uinctis manibus ei tradidit.
+7.4.2 Et ne continuo a nostris regibus recedam, Sextus Tarquinius Tarquini filius indigne ferens, quod patris uiribus expugnari Gabii nequirent, ualentiorem armis excogitauit rationem, qua interceptum illud oppidum Romano imperio adiceret: subito namque se ad Gabinos contulit tamquam parentis saeuitiam et uerbera, quae uoluntate sua perpessus erat, fugiens, ac paulatim unius cuiusque fictis et compositis blanditiis adliciendo beniuolentiam, ut apud omnes plurimum posset consecutus, familiarem suum ad patrem misit indicaturum quemadmodum cuncta in sua manu haberet et quaesiturum quidnam fieri uellet. iuuenili calliditati senilis astutia respondit, si quidem re eximie delectatus Tarquinius, fidei autem nuntii parum <credens> nihil respondit, sed seducto eo in hortum maxima et altissima papauerum capita baculo decussit. cognito adulescens silentio simul ac patris facto causam alterius, <alterius> argumentum peruidit nec ignorauit praecipi sibi ut excellentissimum quemque Gabinorum aut exilio summoueret aut morte consumeret. ergo spoliatam bonis propugnatoribus ciuitatem tantum non uinctis manibus ei tradidit.
  
 
  
-7.4.3 Illud quoque maioribus et consilio prudenter et exitu feliciter prouisum: cum enim urbe capta Galli Capitolium obsiderent solamque potiendi eius spem in fame eorum repositam animaduerterent, perquam callido genere consilii &lt;Romani usi&gt; unico perseuerantiae inritamento uictores spoliauerunt: panes enim iacere conpluribus e locis coeperunt. quo spectaculo obstupefactos infinitamque frumenti abundantiam nostris superesse credentes ad pactionem omittendae obsidionis conpulerunt. misertus est tunc profecto Iuppiter Romanae uirtutis, praesidium ab astutia mutuantis, cum summa alimentorum inopia proici praesidia inopiae cerneret. igitur ut uafro, ita periculoso consilio salutarem exitum dedit.
+7.4.3 Illud quoque maioribus et consilio prudenter et exitu feliciter prouisum: cum enim urbe capta Galli Capitolium obsiderent solamque potiendi eius spem in fame eorum repositam animaduerterent, perquam callido genere consilii <Romani usi> unico perseuerantiae inritamento uictores spoliauerunt: panes enim iacere conpluribus e locis coeperunt. quo spectaculo obstupefactos infinitamque frumenti abundantiam nostris superesse credentes ad pactionem omittendae obsidionis conpulerunt. misertus est tunc profecto Iuppiter Romanae uirtutis, praesidium ab astutia mutuantis, cum summa alimentorum inopia proici praesidia inopiae cerneret. igitur ut uafro, ita periculoso consilio salutarem exitum dedit.
  
 
  
@@ -257,15 +257,15 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.4.5 Memorabilis etiam consilii Q. Metellus. qui, cum pro consule bellum in Hispania aduersus Celtiberos gereret urbemque &lt;Con&gt;trebiam caput eius gentis uiribus expugnare non posset, intra pectus suum multum ac diu consiliis agitatis uiam repperit, qua propositum ad exitum perduceret. itinera magno impetu ingrediebatur, deinde alias atque alias regiones petebat: hos obsidebat montes, paulo post ad illos transgrediebatur, cum interim tam suis omnibus quam ipsis hostibus ignota erat causa inopinatae eius ac subitae fluctuationis. interrogatus quoque a quodam amicissimo sibi quid ita sparsum et incertum militiae genus sequeretur, 'absiste' inquit 'istud quaerere: nam si huius consilii mei interiorem tunicam consciam esse sensero, continuo eam cremari iubebo'. quorsum igitur &lt;e&gt;a dissimulatio erupit aut quem finem habuit? postquam uero et exercitum suum ignorantia et totam Celtiberiam errore implicauit, cum alio cursum direxisset, subito ad &lt;Con&gt;trebiam reflexit eamque &lt;in&gt;opinatam et attonitam oppressit. ergo nisi mentem suam dolos scrutari coegisset, ad ultimam ei senectutem apud moenia &lt;Con&gt;trebiae armato sedendum foret.
+7.4.5 Memorabilis etiam consilii Q. Metellus. qui, cum pro consule bellum in Hispania aduersus Celtiberos gereret urbemque <Con>trebiam caput eius gentis uiribus expugnare non posset, intra pectus suum multum ac diu consiliis agitatis uiam repperit, qua propositum ad exitum perduceret. itinera magno impetu ingrediebatur, deinde alias atque alias regiones petebat: hos obsidebat montes, paulo post ad illos transgrediebatur, cum interim tam suis omnibus quam ipsis hostibus ignota erat causa inopinatae eius ac subitae fluctuationis. interrogatus quoque a quodam amicissimo sibi quid ita sparsum et incertum militiae genus sequeretur, 'absiste' inquit 'istud quaerere: nam si huius consilii mei interiorem tunicam consciam esse sensero, continuo eam cremari iubebo'. quorsum igitur <e>a dissimulatio erupit aut quem finem habuit? postquam uero et exercitum suum ignorantia et totam Celtiberiam errore implicauit, cum alio cursum direxisset, subito ad <Con>trebiam reflexit eamque <in>opinatam et attonitam oppressit. ergo nisi mentem suam dolos scrutari coegisset, ad ultimam ei senectutem apud moenia <Con>trebiae armato sedendum foret.
  
 
  
-7.4.ext.1 Agathocles autem Syracusarum rex audaciter callidus: cum enim urbem eius maiore ex parte Karthaginienses occupassent, exercitum suum in Africam traiecit, ut metum metu, uim ui discuteret, nec sine effectu: nam repentino eius aduentu perculsi Poeni libenter incolumitatem suam salute hostium redemerunt pactique sunt ut eodem tempore et Africa Siculis et Sicilia Punicis armis liberaretur. age &lt;si&gt; Syracusarum moenia tueri perseuerasset? &lt;Sic&gt;ilia belli malis urgueretur, bona pacis fruenda securae Karthagini reliquisset. nunc inferendo quae patiebatur, dum alienas potius lacessit opes quam suas tuetur, quo aequiore animo regnum deseruit, eo tutius recepit.
+7.4.ext.1 Agathocles autem Syracusarum rex audaciter callidus: cum enim urbem eius maiore ex parte Karthaginienses occupassent, exercitum suum in Africam traiecit, ut metum metu, uim ui discuteret, nec sine effectu: nam repentino eius aduentu perculsi Poeni libenter incolumitatem suam salute hostium redemerunt pactique sunt ut eodem tempore et Africa Siculis et Sicilia Punicis armis liberaretur. age <si> Syracusarum moenia tueri perseuerasset? <Sic>ilia belli malis urgueretur, bona pacis fruenda securae Karthagini reliquisset. nunc inferendo quae patiebatur, dum alienas potius lacessit opes quam suas tuetur, quo aequiore animo regnum deseruit, eo tutius recepit.
  
 
  
-7.4.ext.2 Quid, Hannibal Cannensem populi Romani aciem nonne prius quam ad dimicandum descenderet conpluribus astutiae copulatam laqueis ad tam miserabilem perduxit exitum? ante omnia enim prouidit ut et solem et puluerem, qui ibi uento multus ex&lt;ci&gt;tari solet, aduersum haberet. deinde partem copiarum suarum inter ipsum proelii tempus de industria fugere iussit, quam cum a reliquo exercitu abrupta legio Romana sequeretur, trucidandam eam ab his, quos &lt;in&gt; insidiis collocauerat, curauit. postremo cccc equites subornauit, qui simulata transitione petierunt consulem, a quo iussi more transfugarum depositis armis in ultimam pugnae partem secedere destrictis gladiis, quos inter tunicas et loricas abdiderant, poplites pugnantium Romanorum ce ciderunt. haec fuit Punica fortitudo, dolis et insidiis et fallacia instructa. quae nunc certissima circumuentae uirtutis nostrae excusatio est, quoniam decepti magis quam uicti sumus.
+7.4.ext.2 Quid, Hannibal Cannensem populi Romani aciem nonne prius quam ad dimicandum descenderet conpluribus astutiae copulatam laqueis ad tam miserabilem perduxit exitum? ante omnia enim prouidit ut et solem et puluerem, qui ibi uento multus ex<ci>tari solet, aduersum haberet. deinde partem copiarum suarum inter ipsum proelii tempus de industria fugere iussit, quam cum a reliquo exercitu abrupta legio Romana sequeretur, trucidandam eam ab his, quos <in> insidiis collocauerat, curauit. postremo cccc equites subornauit, qui simulata transitione petierunt consulem, a quo iussi more transfugarum depositis armis in ultimam pugnae partem secedere destrictis gladiis, quos inter tunicas et loricas abdiderant, poplites pugnantium Romanorum ce ciderunt. haec fuit Punica fortitudo, dolis et insidiis et fallacia instructa. quae nunc certissima circumuentae uirtutis nostrae excusatio est, quoniam decepti magis quam uicti sumus.
  
 
  
@@ -273,7 +273,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.5.1 Q. Aelius Tubero a Q. Fabio Maximo epulum populo nomine P. Africani patrui sui dante rogatus ut triclinium sterneret lectulos Punicanos pellibus haedinis strauit et pro argenteis uasis Samia exposuit. cuius rei deformitas sic homines offendit, ut, cum alioqui uir egregius habe&lt;re&gt;tur comitiisque praetoriis candidatus in campum L. Paulo auo et P. Africano auunculo nixus descendisset, repulsa inde abiret notatus: nam ut priuatim semper continentiam probabant, ita publice maxima cura splendoris habita est. quocirca urbs non unius conuiuii numerum, sed totam se in illis pelliculis iacuisse credens ruborem epuli suffragiis suis uindicauit.
+7.5.1 Q. Aelius Tubero a Q. Fabio Maximo epulum populo nomine P. Africani patrui sui dante rogatus ut triclinium sterneret lectulos Punicanos pellibus haedinis strauit et pro argenteis uasis Samia exposuit. cuius rei deformitas sic homines offendit, ut, cum alioqui uir egregius habe<re>tur comitiisque praetoriis candidatus in campum L. Paulo auo et P. Africano auunculo nixus descendisset, repulsa inde abiret notatus: nam ut priuatim semper continentiam probabant, ita publice maxima cura splendoris habita est. quocirca urbs non unius conuiuii numerum, sed totam se in illis pelliculis iacuisse credens ruborem epuli suffragiis suis uindicauit.
  
 
  
@@ -293,7 +293,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.5.6 Sed ut comitiorum maximum crimen referam, M. Porcius Cato, plus moribus suis praeturae decoris adiecturus quam praetexto eius splendoris ipse la&lt;tu&gt;rus, consequi illam a populo aliquando non potuit. proxima dementiae suffragia, quae quidem satis graues poenas erroris sui pependerunt, quoniam quem honorem Catoni negauerant Vatinio dare coacti sunt. ergo, si uere aestimare uolumus, non Catoni tunc praetura, sed praeturae Cato negatus est.
+7.5.6 Sed ut comitiorum maximum crimen referam, M. Porcius Cato, plus moribus suis praeturae decoris adiecturus quam praetexto eius splendoris ipse la<tu>rus, consequi illam a populo aliquando non potuit. proxima dementiae suffragia, quae quidem satis graues poenas erroris sui pependerunt, quoniam quem honorem Catoni negauerant Vatinio dare coacti sunt. ergo, si uere aestimare uolumus, non Catoni tunc praetura, sed praeturae Cato negatus est.
  
 
  
@@ -301,7 +301,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.6.1 Nam aliquot aduersis proeliis secundo Punico bello exhausta militari iuuentute Romana senatus auctore Ti. Graccho consule censuit uti publice serui ad usum propulsandorum hostium [impetum] emerentur, eaque de re per tribunos pl. apud populum lata rogatione tres creati sunt uiri, qui quattuor et uiginti milia seruorum conparauerunt adactosque iure iurando strenuam se fortemque operam daturos, quoad Poeni essent in Italia, laturos arma in castra miserunt. ex Apulia etiam et a Paediculis septuaginta atque cc ad supplementum equitatus sunt empti. quanta uiolentia est casus acerbi! quae ciuitas ad id tempus ingenuae quoque originis capite censos habere milites fastidierat, eadem cellis seruilibus extracta corpora et a pastoralibus casis collecta mancipia uelut praecipuum firmamentum exercitui suo adiecit. cedit ergo interdum generosus spiritus utilitati et fortunae uiribus succumbit, ubi, nisi tutiora consilia legeris, speciosa sequenti concidendum est. Cannensis autem clades adeo urbem nostram uehementer confudit, ut M. Iunio Pera dictatore rem publicam administrante spolia hostium adfixa templis deorum numini consecrata instrumento militiae futura conuellerentur, ac praetextati pueri arma induerent, addictorum etiam et capitali crimine damnatorum sex milia conscriberentur. quae, si per se aspiciantur, aliquid ruboris habeant, si autem admotis necessitatis uiribus ponderentur, saeuitiae temporis conuenientia praesidia uideantur. Propter eandem cladem senatus Otacilio, qui Siciliam, Cornelio Mammulae, qui Sardiniam pro praetoribus obtinebant, querentibus quod neque stipendium neque frumentum classibus eorum et exercitibus socii praeberent, adfirmantibus etiam ne habere quidem eos unde id praestare possent, rescripsit aerarium longinquis inpensis non sufficere: proinde quo pacto tantae inopiae succurrendum esset ipsi uiderent. his litteris quid aliud quam imperii sui gubernacula e manibus abiecit Siciliamque et Sardiniam, benignissimas urbis nostrae nutrices, gradus &lt;et&gt; stabilimenta bellorum, tam multo sudore et sanguine in potestatem redactas paucis uerbis, te scilicet Necessitate iubente, dimisit.
+7.6.1 Nam aliquot aduersis proeliis secundo Punico bello exhausta militari iuuentute Romana senatus auctore Ti. Graccho consule censuit uti publice serui ad usum propulsandorum hostium [impetum] emerentur, eaque de re per tribunos pl. apud populum lata rogatione tres creati sunt uiri, qui quattuor et uiginti milia seruorum conparauerunt adactosque iure iurando strenuam se fortemque operam daturos, quoad Poeni essent in Italia, laturos arma in castra miserunt. ex Apulia etiam et a Paediculis septuaginta atque cc ad supplementum equitatus sunt empti. quanta uiolentia est casus acerbi! quae ciuitas ad id tempus ingenuae quoque originis capite censos habere milites fastidierat, eadem cellis seruilibus extracta corpora et a pastoralibus casis collecta mancipia uelut praecipuum firmamentum exercitui suo adiecit. cedit ergo interdum generosus spiritus utilitati et fortunae uiribus succumbit, ubi, nisi tutiora consilia legeris, speciosa sequenti concidendum est. Cannensis autem clades adeo urbem nostram uehementer confudit, ut M. Iunio Pera dictatore rem publicam administrante spolia hostium adfixa templis deorum numini consecrata instrumento militiae futura conuellerentur, ac praetextati pueri arma induerent, addictorum etiam et capitali crimine damnatorum sex milia conscriberentur. quae, si per se aspiciantur, aliquid ruboris habeant, si autem admotis necessitatis uiribus ponderentur, saeuitiae temporis conuenientia praesidia uideantur. Propter eandem cladem senatus Otacilio, qui Siciliam, Cornelio Mammulae, qui Sardiniam pro praetoribus obtinebant, querentibus quod neque stipendium neque frumentum classibus eorum et exercitibus socii praeberent, adfirmantibus etiam ne habere quidem eos unde id praestare possent, rescripsit aerarium longinquis inpensis non sufficere: proinde quo pacto tantae inopiae succurrendum esset ipsi uiderent. his litteris quid aliud quam imperii sui gubernacula e manibus abiecit Siciliamque et Sardiniam, benignissimas urbis nostrae nutrices, gradus <et> stabilimenta bellorum, tam multo sudore et sanguine in potestatem redactas paucis uerbis, te scilicet Necessitate iubente, dimisit.
  
 
  
@@ -329,7 +329,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.6.ext.2 Numantini autem &lt;a&gt; Scipione uallo et aggere circumdati, cum omnia, quae famem eorum trahere poterant, consumpsissent, ad ultimum humanorum corporum dapibus usi sunt. quapropter capta iam urbe conplures inuenti sunt artus et membra trucidatorum corporum sinu suo gestantes. nulla est in his necessitatis excusatio: nam quibus mori licuit, sic uiuere necesse non fuit.
+7.6.ext.2 Numantini autem <a> Scipione uallo et aggere circumdati, cum omnia, quae famem eorum trahere poterant, consumpsissent, ad ultimum humanorum corporum dapibus usi sunt. quapropter capta iam urbe conplures inuenti sunt artus et membra trucidatorum corporum sinu suo gestantes. nulla est in his necessitatis excusatio: nam quibus mori licuit, sic uiuere necesse non fuit.
  
 
  
@@ -357,7 +357,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.7.5 Egregia C. quoque Calpurni Pisonis praetoris urbis constitutio: cum enim ad eum Terentius ex octo filiis, quos in adulescentiam perduxerat, ab uno in adoptionem dato exheredatum se querellam detulisset, bonorum adulescentis possessionem ei dedit heredesque lege agere passus non est. mouit profecto Pisonem patria maiestas, donum uitae, beneficium educationis, sed aliquid etiam flexit circumstantium liberorum numerus, qui&lt;a&gt; cum patre septem fratres impie exheredatos uidebat.
+7.7.5 Egregia C. quoque Calpurni Pisonis praetoris urbis constitutio: cum enim ad eum Terentius ex octo filiis, quos in adulescentiam perduxerat, ab uno in adoptionem dato exheredatum se querellam detulisset, bonorum adulescentis possessionem ei dedit heredesque lege agere passus non est. mouit profecto Pisonem patria maiestas, donum uitae, beneficium educationis, sed aliquid etiam flexit circumstantium liberorum numerus, qui<a> cum patre septem fratres impie exheredatos uidebat.
  
 
  
@@ -365,7 +365,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.7.7 Multo Q. Metellus praetorem urbanum seueriorem egit quam Orestes gesserat. qui Vecillo lenoni, bonorum Vibieni possessionem secundum tabulas testamenti &lt;petenti&gt;, non dedit, quia uir nobilissimus et grauissimus fori ac lupanaris separandam condicionem existimauit, nec aut factum illius conprobare uoluit, qui fortunas suas in stabulum contaminatum proiecerat, aut huic tamquam integro ciui iura reddere, qui se ab omni honesto uitae genere abruperat.
+7.7.7 Multo Q. Metellus praetorem urbanum seueriorem egit quam Orestes gesserat. qui Vecillo lenoni, bonorum Vibieni possessionem secundum tabulas testamenti <petenti>, non dedit, quia uir nobilissimus et grauissimus fori ac lupanaris separandam condicionem existimauit, nec aut factum illius conprobare uoluit, qui fortunas suas in stabulum contaminatum proiecerat, aut huic tamquam integro ciui iura reddere, qui se ab omni honesto uitae genere abruperat.
  
 
  
@@ -389,7 +389,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.8.5 Aeque felicis inpunitatis, sed nescio an taetrioris haec delicti testamenta. Q. Caecilius, L. Luculli promptissimo studio maximaque liberalitate et honestum dignitatis gradum et amplissimum patrimonium consecutus, cum prae se semper tulisset unum illum sibi esse heredem, moriens etiam anulos ei suos tradidisset, Pomponium Atticum testamento adoptauit omniumque bonorum &lt;heredem&gt; reliquit. sed fallacis et insidiosi cadauer populus Romanus ceruicibus reste circumdatum per uias traxit. itaque nefarius homo filium quidem et heredem habuit quem uoluit, funus autem et exequias quales meruit.
+7.8.5 Aeque felicis inpunitatis, sed nescio an taetrioris haec delicti testamenta. Q. Caecilius, L. Luculli promptissimo studio maximaque liberalitate et honestum dignitatis gradum et amplissimum patrimonium consecutus, cum prae se semper tulisset unum illum sibi esse heredem, moriens etiam anulos ei suos tradidisset, Pomponium Atticum testamento adoptauit omniumque bonorum <heredem> reliquit. sed fallacis et insidiosi cadauer populus Romanus ceruicibus reste circumdatum per uias traxit. itaque nefarius homo filium quidem et heredem habuit quem uoluit, funus autem et exequias quales meruit.
  
 
  
@@ -397,7 +397,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.8.7 L. autem Valerius, cui cognomen Heptachordo fuit, togatum hostem Cornelium Balbum expertus, utpote ope&lt;ra&gt; eius et consilio conpluribus priuatis litibus uexatus ad ultimumque subiecto accusatore capitali crimine accusatus, praeteritis aduocatis et patronis suis solum heredem reliquit. nimirum consternatio quae&lt;dam&gt; animum eius transuersum egit: amauit enim sordes suas et dilexit pericula et damnationem uotis expetiuit, auctorem harum rerum beniuolentia, propulsatores odio insecutus.
+7.8.7 L. autem Valerius, cui cognomen Heptachordo fuit, togatum hostem Cornelium Balbum expertus, utpote ope<ra> eius et consilio conpluribus priuatis litibus uexatus ad ultimumque subiecto accusatore capitali crimine accusatus, praeteritis aduocatis et patronis suis solum heredem reliquit. nimirum consternatio quae<dam> animum eius transuersum egit: amauit enim sordes suas et dilexit pericula et damnationem uotis expetiuit, auctorem harum rerum beniuolentia, propulsatores odio insecutus.
  
 
  
@@ -405,7 +405,7 @@ Idem Aristoteles de semet ipsos in neutram partem loqui debere praedicabat, quon
  
 
  
-7.8.9 M. uero Popilius senatori ordinis Oppium Gallum ab ineunte aetate familiarissimum sibi moriens pro uetusto iure amicitiae et uultu benigno respexit et uerbis magnum prae se amorem ferentibus prosecutus est, unum etiam de multis, qui adsidebant, ultimo conplexu et osculo dignum iudicauit &lt;in&gt;superque anulos quoque suos ei tradidit, uidelicet ne quid ex ea hereditate, quam non erat aditurus, amitteret. quos Oppius, uir diligens, sed morientis amici plenum contumeliae ludibrium, in locellum repositos et a praesentibus adsignatos diligentissime heredibus illius exheres ipse reddidit. quid hoc ioco inhonestius aut quid intempestiuius? senator populi Romani curia egressus, homo uitae fructibus continuo cariturus sanctissima iura familiaritatis morte pressis oculis et spiritu supremos anhelitus reddente scurrili lusu suggillanda sibi desumpsit.
+7.8.9 M. uero Popilius senatori ordinis Oppium Gallum ab ineunte aetate familiarissimum sibi moriens pro uetusto iure amicitiae et uultu benigno respexit et uerbis magnum prae se amorem ferentibus prosecutus est, unum etiam de multis, qui adsidebant, ultimo conplexu et osculo dignum iudicauit <in>superque anulos quoque suos ei tradidit, uidelicet ne quid ex ea hereditate, quam non erat aditurus, amitteret. quos Oppius, uir diligens, sed morientis amici plenum contumeliae ludibrium, in locellum repositos et a praesentibus adsignatos diligentissime heredibus illius exheres ipse reddidit. quid hoc ioco inhonestius aut quid intempestiuius? senator populi Romani curia egressus, homo uitae fructibus continuo cariturus sanctissima iura familiaritatis morte pressis oculis et spiritu supremos anhelitus reddente scurrili lusu suggillanda sibi desumpsit.
  
  
  

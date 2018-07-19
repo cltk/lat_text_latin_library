@@ -202,8 +202,8 @@ transfundere.
 
  Circa hanc uirtutem
 duo sunt uitanda. Vnum ne ignota pro cognitis habeamus hisque temere
-assentiamur. Hoc enim est presumptio; quod uitium effugere qui uolet &#151; omnes autem
-uelle debent &#151; adhibebit ad res considerandas tempus et meditationem. Alterum
+assentiamur. Hoc enim est presumptio; quod uitium effugere qui uolet — omnes autem
+uelle debent — adhibebit ad res considerandas tempus et meditationem. Alterum
 est magnum studium conferre in res obscuras, difficiles et non necesarias, quod
 uitium curiositas dicitur. Est enim curiositas non magne utilitati nimiam
 operam impendere, sicuti si relicta morali philosophia astrologiam uel abacum
@@ -528,7 +528,7 @@ partes. Reddit enim deo ius suum religio, pietas parentibus, innocentia
 minoribus, amicitia equalibus, reuerentia maioribus, concordia conciuibus,
 misericordia egenis. 
 
- I.B.2.b II .&#945;. De
+ I.B.2.b II .α. De
 religione 
 
  Religio est uirtus
@@ -611,7 +611,7 @@ peccuniam deposuerit, bellum inferat patrie, non reddas depositum; faceres enim
 contra rempublicam que tibi debet esse carissima. Sic multa que honesta
 uidentur natura, temporibus fiunt inhonesta. 
 
- I.B.2.b II .&#946;. De
+ I.B.2.b II .β. De
 pietate 
 
  Pietas est per quam
@@ -622,7 +622,7 @@ quod imus nos impelli. Quocirca plus cauendum est ne aliquam nostris moliamur
 iniuriam. Quem enim alienum tibi fidum inueneris, si tuis hostis fueris? Qui
 fallere audebit patrem, qualis erit in ceteros? 
 
- I.B.2.b II .&#947;. De
+ I.B.2.b II .γ. De
 innocentia 
 
  Innocentia est
@@ -645,7 +645,7 @@ uolet, omnia scelera sua, licet minima, estimet magna.
 
  permittas: adeo indulgent sibi latius omnes. 
 
- I.B.2.b II .&#948;. De
+ I.B.2.b II .δ. De
 amicitia 
 
  Huius officium
@@ -671,7 +671,7 @@ poete:
 
  Si autem uis amari, ama. 
 
- I.B.2.b II .&#949;. De
+ I.B.2.b II .ε. De
 reuerentia 
 
  Reuerentia est
@@ -683,7 +683,7 @@ uiuamus et omnia tamquam illo uidente faciamus. Magna enim peccatorum pars
 tollitur, si peccatis testis assistat. Ideo nullum locum putaueris esse sine
 teste. 
 
- I.B.2.b II .&#950;. De concordia 
+ I.B.2.b II .ζ. De concordia 
 
  Concordia est
 uirtus conciues et compatriotas in eodem iure et cohabitacione spontanee
@@ -698,7 +698,7 @@ de iure suo cedendo. Est enim non modo liberale sed interdum etiam fructuosum
 paulum de suo iure decedere. Nam concordia parue res crescunt, discordia maxime
 dilabuntur. 
 
- I.B.2.b II .&#951;. De misericordia 
+ I.B.2.b II .η. De misericordia 
 
  Misericordia est
 uirtus per quam animus super calamitate afflictorum mouetur. 

@@ -50,7 +50,7 @@ vades . . . subvades . . .
 
  
 
-&lt;Actor dicito:&gt; ex sponsione te mihi
+<Actor dicito:> ex sponsione te mihi
 . . . dare oportere aio. Quando tu negas, te praetor iudicem sive arbitrum
 postulo uti des.
  
@@ -83,7 +83,7 @@ qui eum vinctum habebit, libras faris endo dies dato. Si volet, plus dato.
  
 Tertiis nundinis partis secanto. Si
 plus minusve secuerunt, se fraude esto adversus hostem aeterna auctoritas
-&lt;esto>. 
+<esto>. 
 
  
  (Aulus Gellius, 20 I 46: Erat autem ius interea paciscendi
@@ -166,20 +166,20 @@ Qui malum carmen incantassit .
 . . 
 
  
-Si membrum rup&lt;s>it, ni cum eo pacit,
+Si membrum rup<s>it, ni cum eo pacit,
 talio esto. 
 
  
 Manu fustive si os fregit libero, CCC
-&lt;assium>, si servo, CL &lt;assium> poenam subito si iniuriam faxsit,
-viginti quinque poenae &lt;asses> sunto. 
+<assium>, si servo, CL <assium> poenam subito si iniuriam faxsit,
+viginti quinque poenae <asses> sunto. 
 
  
-. . . rup&lt;s&gt;it . . . sarcito. 
+. . . rup<s>it . . . sarcito. 
 
  
 Qui fruges excantassit . . . neve alienam
-segetem pellexeris . . . &lt;capite>. . . si nox furtum faxsit, si occisit,
+segetem pellexeris . . . <capite>. . . si nox furtum faxsit, si occisit,
 iure caesus esto. 
 
  
@@ -187,11 +187,11 @@ Luci . . . si se telo defendit, . .
 . endoque plorato. 
 
  
-Lance et licio &lt;ito>. 
+Lance et licio <ito>. 
 
  
 Si adorat furto, quod nec manifestum
-erit . . ., &lt;duplione damnum decidito&gt;. 
+erit . . ., <duplione damnum decidito>. 
 
  
 Patronus si clienti fraudem fecerit,
@@ -203,17 +203,17 @@ fuerit, ni testimonium fatiatur, inprobus intestabilisque esto.
 
  
 Si telum manu fugit magis quam iecit,
-&lt;arietem subicito&gt;. 
+<arietem subicito>. 
 
  
  TABULA IX 
  
 
  
-&lt;privilegia ne inroganto.> 
+<privilegia ne inroganto.> 
 
  
-&lt;de capite civis nisi per maximum
+<de capite civis nisi per maximum
 comitiatum . . . ne ferunto.> 
 
  
@@ -247,7 +247,7 @@ iuncti escunt. Ast in cum illo sepeliet uretve, se fraude esto.
  TABULA XI 
 
  
-&lt;conubia plebi cum patribus&gt; 
+<conubia plebi cum patribus> 
 
  
  (Cicero. De Republica, II 36-37: Qui [Xviri] cum X
@@ -265,7 +265,7 @@ haec illi ut ne plebei cum patribus essent, inhumanissima lege sanxerunt.)
  TABULA XII 
 
  
-Si servo furtum faxit noxiamve no&lt;x&gt;it. 
+Si servo furtum faxit noxiamve no<x>it. 
 
  
 Si vindiciam falsam tulit, si velit

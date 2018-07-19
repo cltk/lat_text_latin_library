@@ -413,7 +413,7 @@ omnia aboleri, quae vel effigiem ferant.
 emancipatus nunc pupillarem exuis, 
 tu servitutem, liber, et iuris tui. 
 matrem reverito nunc licet quicquid libet. 
-nunc a&Egrave;tokr&atilde;tvr imperas: non es puer,  2475 
+nunc aÈtokrãtvr imperas: non es puer,  2475 
 vir vix es: ut sis vir, mihi votum; at negat 
 Augusta: ne vir utique, magistri negant 
 hic, ille: ne sis Iupiter, Iuno negat. 
@@ -431,7 +431,7 @@ non potes? Othonem, si, Nero, linquis, sequar.
  
 NERO Poppaea, cupio, quod cupis, quam tu, magis 
 quod cupio, dum conficio, paulisper sine.  2490 
-Burrhe, viden&iacute; illam? quin meam dico? placet? 
+Burrhe, videní illam? quin meam dico? placet? 
 Venerem, Dianam, Pallada, sub una putes.
  
 laudes in una non vides omnes? quid est,
@@ -629,7 +629,7 @@ THRASEAS PAETUS, HELVIDIUS PRISCUS
  C. VIP. moderator orbis Caesar has ad vos,
 patres, 
 dedit exhibendas litteras: illas legam. 
-&igrave;dii me, daeque, quam pereo, peius velint
+ìdii me, daeque, quam pereo, peius velint
   
 perire, si quid, quo modo, scribam, scio.  2615 
 ut criminetur filius matrem, grave: 
@@ -665,7 +665,7 @@ statuite merita quod mea et matris ferent.
  
  THRA. rumore Seneca vix bono ferri potest,
  
-huic ordini qui talia&oacute;sed abeo silens. 
+huic ordini qui taliaósed abeo silens. 
  
 
  Exiturus. 
@@ -853,7 +853,7 @@ en saevientis cerno flagrantes notas.
 
  Nero cum Plauti capite in manibus. 
 
- NERO venistin&iacute; hem cognate, et
+ NERO venistiní hem cognate, et
 imperii aemule?  2775 
 salve imperator: quin Nero posito metu 
 coniugia maturare Poppaeae parat, 
@@ -937,9 +937,9 @@ SEN. utcunque caedas plurimos, illum tamen,
   2815 
 qui surrogandus, caedere priorem nequis. 
  
- NERO &igrave;utcunque caedas plurimos, illum
+ NERO ìutcunque caedas plurimos, illum
 tamen, 
-qui surrogandus, caedere priorem nequis?&icirc; 
+qui surrogandus, caedere priorem nequis?î 
 mentem efferatam frangis hoc dicto: nequit 
 successor interire, nisi strage omnium.
   2820 
@@ -1107,7 +1107,7 @@ agere in ministras, confitens asta reus.
  
  
 
- &lt;Actus IV, scena 6&gt;
+ <Actus IV, scena 6>
  
  
 
@@ -1336,14 +1336,14 @@ sed utrinque quid tabella proscriptum dedit.
 
  Tabella inscripta. 
 
- N&#176;rvn,
-&Eacute;Or&#176;sthw, &Eacute;Aklma&#164;vn mhtrokt&Ograve;noi.
+ N°rvn,
+ÉOr°sthw, ÉAklma¤vn mhtroktÒnoi.
  
 qui venit illis, veniet et nobis furor? 
 QUIS NEGET AENAEAE MAGNA DE STIRPE NERONEM?
  
 SUSTULIT HIC MATREM, SUSTULIT ILLE PATREM.   3005 
-ego morte, at humeris ille: placet &#182;irvn mihi 
+ego morte, at humeris ille: placet ¶irvn mihi 
 epigramma: veneat author: hanc laurum ferat. 
  
 
@@ -1442,10 +1442,10 @@ aulam cremarint ignibus.
  
 TIG. iacta alea.
   3075 
- &#167;mo&Euml;
-yan&Ograve;ntow ga&#155;a mixy&AElig;tv pur&#164;. 
+ §moË
+yanÒntow ga›a mixyÆtv pur¤. 
  
-NERO &#167;mo&Euml; d&#162; z&#171;ntow: unica haec clades mihi 
+NERO §moË d¢ z«ntow: unica haec clades mihi 
 quod clade nulla, nisi Britannorum procul, 
 mea claruerint tempora, ut nostri memor 
 aetas futura nos canat: at aderit dies,  3080 
@@ -1483,7 +1483,7 @@ Poppaea mihi dum luceat, coelum occidat.  3100
  
  
 
- Chorus &lt;4&gt;
+ Chorus <4>
  
 
  NEMESIS 

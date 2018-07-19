@@ -753,7 +753,7 @@ CAP. XI.
  
  
  
-Si nescitur, ubi sit clericus, tribus publicis edictis citabitur in ecclesia sua, et, si infra sex menses non revertatur, privabitur ecclesia sua. H. d. usque ad vers. Contra eos. &#151; (Contra eos etc.) Iste versiculus non summatur propter varietatem lecturarum, et quia secundum unum intellectum non facit ad rubricam.
+Si nescitur, ubi sit clericus, tribus publicis edictis citabitur in ecclesia sua, et, si infra sex menses non revertatur, privabitur ecclesia sua. H. d. usque ad vers. Contra eos. — (Contra eos etc.) Iste versiculus non summatur propter varietatem lecturarum, et quia secundum unum intellectum non facit ad rubricam.
  
  
  
@@ -2369,7 +2369,7 @@ CAP. VIII.
  
  
  
-Iurans non alienare bona ecclesiae, non potest alienare ea, quae sunt de mensa, vel ea, de quibus dubitatur, an sint de mensa. Hoc dicit, usque ad §. Possessiones. Abbas &#151; (Possessiones etc.:) Possessiones ecclesiae minus utiles pro utilioribus de consensu capituli potest episcopus permutare vel alienare. H. d.
+Iurans non alienare bona ecclesiae, non potest alienare ea, quae sunt de mensa, vel ea, de quibus dubitatur, an sint de mensa. Hoc dicit, usque ad §. Possessiones. Abbas — (Possessiones etc.:) Possessiones ecclesiae minus utiles pro utilioribus de consensu capituli potest episcopus permutare vel alienare. H. d.
  
  
  
@@ -2709,7 +2709,7 @@ CAP. III.
  
  
  
-Propter sterilitatem gravem, conductori sine culpa sua contingentem, remittitur pensio pro rata, nisi possit cum ubertate praecedentis vel sequentis temporis compensari. H. d. usque ad §. Verum. &#151; (Verum etc.:) Ponuntur hic quatuor casus, in quibus inquilinus potest ante tempus conductionis finitae licite expelli. Abbas. 
+Propter sterilitatem gravem, conductori sine culpa sua contingentem, remittitur pensio pro rata, nisi possit cum ubertate praecedentis vel sequentis temporis compensari. H. d. usque ad §. Verum. — (Verum etc.:) Ponuntur hic quatuor casus, in quibus inquilinus potest ante tempus conductionis finitae licite expelli. Abbas. 
  
  
  
@@ -3933,7 +3933,7 @@ CAP. VII.
  
  
  
-Mulier nupta libere potest sibi eligere sepulturam. &#151; (Utrum etc.:) Pater filios inpuberes, ubi voluerit, potest sepeliri facere, si hoc habet consuetudo loci. H. d. 
+Mulier nupta libere potest sibi eligere sepulturam. — (Utrum etc.:) Pater filios inpuberes, ubi voluerit, potest sepeliri facere, si hoc habet consuetudo loci. H. d. 
  
  
  
@@ -4533,7 +4533,7 @@ CAP. XXV.
  
  
  
-Imperialis concessio sub quacunque forma a solutione decimarum eximere non potest. &#151; (Nec occasione etc.:) Decimae novalium non pertinent ad laicum, qui decimas habet in feudum. H. d. 
+Imperialis concessio sub quacunque forma a solutione decimarum eximere non potest. — (Nec occasione etc.:) Decimae novalium non pertinent ad laicum, qui decimas habet in feudum. H. d. 
  
  
  
@@ -4589,7 +4589,7 @@ Idem Heliensi Episcopo.
  
  
  
-Pastoralis officii ( Et infra: [ cf. c. 28. de off. iud. del. I. 29.]) Explicari praeterea postulasti, utrum quis possit de molendinis et piscariis necessarias expensas deducere prius, quam solvat decimas ex eisdem, sicut est in negotiatione concessum. Ad quod sine praeiudicio melioris sententiae respondemus, quod, licet circa res acquisitas vel factas de pecunia decimata, quum ipsae venduntur, credamus deducendas expensas, et de residuo quasi de lucro decimas persolvendas, ut, si vendatur domus, ager, vinea, clibanus, molendinum, grex aut quaelibet merces, expensas tamen, quae fiunt pro fructibus percipiendis, ex illis, de quibus fructus proveniunt, non credimus deducendas, etiamsi fuerint decimatae, quoniam salva decima fructus efficiuntur eorum, qui faciunt ipsas expensas. Fructus autem ipsos alienari posse, non credimus, nisi cum onere decimarum. Nec pro restaurando detrimento quarumlibet rerum, ex quibus decimae persolvuntur, credimus deducendas expensas de proventibus decimandis, quia penes dominum res permanent restauratae, ut si pars aliqua moriatur armenti, deterioretur vinea, portio mercis depereat, vel totus clibanus destruatur. [ Quaesivisti etc. &#151; cf. c. 8. de fide instr. II. 22. &#151; Dat. Rom. ap. S. Petr. XIV. Kal. Ian. 1204.]
+Pastoralis officii ( Et infra: [ cf. c. 28. de off. iud. del. I. 29.]) Explicari praeterea postulasti, utrum quis possit de molendinis et piscariis necessarias expensas deducere prius, quam solvat decimas ex eisdem, sicut est in negotiatione concessum. Ad quod sine praeiudicio melioris sententiae respondemus, quod, licet circa res acquisitas vel factas de pecunia decimata, quum ipsae venduntur, credamus deducendas expensas, et de residuo quasi de lucro decimas persolvendas, ut, si vendatur domus, ager, vinea, clibanus, molendinum, grex aut quaelibet merces, expensas tamen, quae fiunt pro fructibus percipiendis, ex illis, de quibus fructus proveniunt, non credimus deducendas, etiamsi fuerint decimatae, quoniam salva decima fructus efficiuntur eorum, qui faciunt ipsas expensas. Fructus autem ipsos alienari posse, non credimus, nisi cum onere decimarum. Nec pro restaurando detrimento quarumlibet rerum, ex quibus decimae persolvuntur, credimus deducendas expensas de proventibus decimandis, quia penes dominum res permanent restauratae, ut si pars aliqua moriatur armenti, deterioretur vinea, portio mercis depereat, vel totus clibanus destruatur. [ Quaesivisti etc. — cf. c. 8. de fide instr. II. 22. — Dat. Rom. ap. S. Petr. XIV. Kal. Ian. 1204.]
  
  
  
@@ -4621,7 +4621,7 @@ Idem Episcopo Belvacensi.
  
  
  
-Quum in tua dioecesi quaedam monasteria et conventuales ecclesiae in multis parochiis maiores decimas percipiant et minutas, [ et ] de quibusdam fructibus, annuatim perceptis, n on fuerunt decimae persolutae †[ quae tamen modo persolvuntur, ] quaesivisti per sedem apostolicam edoceri, utrum decimae fructuum praedictorum ad parochiales ecclesias, quae nec maiores percipiunt nec minutas, an ad monasteria et illas [ ecclesias ] conventuales, quae decimas alias percipiunt ab antiquo, debeant pertinere. Ad quod sic Respondemus, quod, si fructus praedicti de illa terra proveniunt, de qua monasteria vel conventuales ecclesiae aliquos percipiebant ratione decimarum proventus, eis proculdubio decimae fructuum debentur eorum, quum ipsis terra illa ab antiquo fuerit decimalis, et non debeat una eademque ecclesia diverso iure censeri; alioquin parochialibus ecclesiis exsolvantur, ad quas de iure communi spectat perceptio decimarum. [ Sane quia contingit etc. &#151; cf. c. 27. de spons. IV. 1. &#151; Dat. Lat. IV. Kal. Nov. Pont. nostr. Ao. XV. 1212.] 
+Quum in tua dioecesi quaedam monasteria et conventuales ecclesiae in multis parochiis maiores decimas percipiant et minutas, [ et ] de quibusdam fructibus, annuatim perceptis, n on fuerunt decimae persolutae †[ quae tamen modo persolvuntur, ] quaesivisti per sedem apostolicam edoceri, utrum decimae fructuum praedictorum ad parochiales ecclesias, quae nec maiores percipiunt nec minutas, an ad monasteria et illas [ ecclesias ] conventuales, quae decimas alias percipiunt ab antiquo, debeant pertinere. Ad quod sic Respondemus, quod, si fructus praedicti de illa terra proveniunt, de qua monasteria vel conventuales ecclesiae aliquos percipiebant ratione decimarum proventus, eis proculdubio decimae fructuum debentur eorum, quum ipsis terra illa ab antiquo fuerit decimalis, et non debeat una eademque ecclesia diverso iure censeri; alioquin parochialibus ecclesiis exsolvantur, ad quas de iure communi spectat perceptio decimarum. [ Sane quia contingit etc. — cf. c. 27. de spons. IV. 1. — Dat. Lat. IV. Kal. Nov. Pont. nostr. Ao. XV. 1212.] 
  
  
  
@@ -4645,7 +4645,7 @@ CAP. XXXII.
  
  
  
-Domini praediorum cogi possunt, ut praedia dent colenda talibus, a quibus sine contradictione ecclesia possit decimas consequi. H. d. usque ad §. Illae &#151; (Illae etc.:) Iste §. propter sui brevitatem non summatur.
+Domini praediorum cogi possunt, ut praedia dent colenda talibus, a quibus sine contradictione ecclesia possit decimas consequi. H. d. usque ad §. Illae — (Illae etc.:) Iste §. propter sui brevitatem non summatur.
  
  
  
@@ -5601,7 +5601,7 @@ CAP. IX.
  
  
  
-Votum ultramarinum certis casibus redimi et commutari potest, non tamen per alium, quam per Papam, vel cum ipsius speciali mandato. H. d. usque ad §. Secundo quaesivisti. &#151; (Secundo etc.:) Habiles ad eundum, sed inhabiles ad pugnandum, si sunt strenui consilio, vel milites bellatores possunt secum ducere, votum ultramarinum non redimunt. H. d. Abbas Siculus. &#151; (Quod autem etc.:) Uxores possunt sequi viros ultra mare, si volunt; sed non tenentur, nisi et ipsae voverint. H. d. Abbas. &#151; (In tanta etc.:) Viri sine consensu uxorum emittere possunt votum ultramarinum. H. d. Abbas Siculus. &#151; (De clericis etc.:) Clerici, tanquam inhabiles ad pugnandum, redimunt votum ultramarinum, nisi in certis casibus. H. d. Abbas Siculus.
+Votum ultramarinum certis casibus redimi et commutari potest, non tamen per alium, quam per Papam, vel cum ipsius speciali mandato. H. d. usque ad §. Secundo quaesivisti. — (Secundo etc.:) Habiles ad eundum, sed inhabiles ad pugnandum, si sunt strenui consilio, vel milites bellatores possunt secum ducere, votum ultramarinum non redimunt. H. d. Abbas Siculus. — (Quod autem etc.:) Uxores possunt sequi viros ultra mare, si volunt; sed non tenentur, nisi et ipsae voverint. H. d. Abbas. — (In tanta etc.:) Viri sine consensu uxorum emittere possunt votum ultramarinum. H. d. Abbas Siculus. — (De clericis etc.:) Clerici, tanquam inhabiles ad pugnandum, redimunt votum ultramarinum, nisi in certis casibus. H. d. Abbas Siculus.
  
  
  
@@ -6321,7 +6321,7 @@ CAP. XXI.
  
  
  
-Ab officio et beneficio removetur qui monitus non dimittit ecclesiam sine consensu episcopi sibi concessam. H. d. &#151; (Ad hoc etc.:) Laici, spoliantes ecclesiam, excommunicantur. H. d. 
+Ab officio et beneficio removetur qui monitus non dimittit ecclesiam sine consensu episcopi sibi concessam. H. d. — (Ad hoc etc.:) Laici, spoliantes ecclesiam, excommunicantur. H. d. 
  
  
  
@@ -6581,7 +6581,7 @@ CAP. VI.
  
  
  
-Determinat concilium numerum equorum, quos secum ducere possunt praelati visitantes, et prohibet eis tunc uti venationibus, et sumptuosas epulas quaerere. Hoc primo usque ad vers. Prohibemus. &#151; (Prohibemus etc.:) &shy;Praelati non debent gravare subditos talliis et exactionibus, permittitur tamen ex iusta causa petere ab eis moderatum auxilium. H. d. usque ad §. Sane. &#151; (Sane etc.:) In effectu dicitur, quod numerus equorum statutus in princ. cap. non debet trahi ad augendum numerum, alias solitum. Abbas. 
+Determinat concilium numerum equorum, quos secum ducere possunt praelati visitantes, et prohibet eis tunc uti venationibus, et sumptuosas epulas quaerere. Hoc primo usque ad vers. Prohibemus. — (Prohibemus etc.:) ­Praelati non debent gravare subditos talliis et exactionibus, permittitur tamen ex iusta causa petere ab eis moderatum auxilium. H. d. usque ad §. Sane. — (Sane etc.:) In effectu dicitur, quod numerus equorum statutus in princ. cap. non debet trahi ad augendum numerum, alias solitum. Abbas. 
  
  
  
@@ -6757,7 +6757,7 @@ CAP. XVII.
  
  
  
-Omnes ecclesiae, nisi quae ab hoc per privilegium apostolicum sint exemptae, procurare tenentur legatos sedis apostolicae seu etiam eius nuncios, nec in hoc praescriptione iuvantur H. d. usque ad §. Sane. &#151; (Sane etc.) Tractat de modo procurationis ipsorum et legatorum et nunciorum. Abbas.
+Omnes ecclesiae, nisi quae ab hoc per privilegium apostolicum sint exemptae, procurare tenentur legatos sedis apostolicae seu etiam eius nuncios, nec in hoc praescriptione iuvantur H. d. usque ad §. Sane. — (Sane etc.) Tractat de modo procurationis ipsorum et legatorum et nunciorum. Abbas.
  
  
  
@@ -7181,7 +7181,7 @@ CAP. VI.
  
  
  
-Si qua verba sunt in canone missae, quae ab Evangelistis dicta non fuerunt, credere debemus, quod a Christo Apostoli, et ab Apostolis eorum successores acceperunt. Et hoc dicit usque ad §. Quaesivisti &#151; (Quaesivisti etc.:) In sacramento altaris aqua cum vino transsubstantiatur in sanguinem, H. d. usque ad §. Tertio loco. Abbas Siculus. &#151; (Tertio loco etc.:) Oratio, quae dicitur in secreta in festo sancti Leonis, immutata est, quia ubi dicebatur: " annue nobis Domine, ut, animae famuli tui Leonis haec prosit oblatio: " hodie dicitur: " ut intercessione B. Leonis haec nobis prosit oblatio: " et haec mutatio contingit, quia sancti nostris orationibus non indigent, sed nos suis. H. d. usque ad finem. Abbas.
+Si qua verba sunt in canone missae, quae ab Evangelistis dicta non fuerunt, credere debemus, quod a Christo Apostoli, et ab Apostolis eorum successores acceperunt. Et hoc dicit usque ad §. Quaesivisti — (Quaesivisti etc.:) In sacramento altaris aqua cum vino transsubstantiatur in sanguinem, H. d. usque ad §. Tertio loco. Abbas Siculus. — (Tertio loco etc.:) Oratio, quae dicitur in secreta in festo sancti Leonis, immutata est, quia ubi dicebatur: " annue nobis Domine, ut, animae famuli tui Leonis haec prosit oblatio: " hodie dicitur: " ut intercessione B. Leonis haec nobis prosit oblatio: " et haec mutatio contingit, quia sancti nostris orationibus non indigent, sed nos suis. H. d. usque ad finem. Abbas.
  
  
  
@@ -7361,7 +7361,7 @@ CAP. III.
  
  
  
-Sacramentum baptismi utiliter confertur parvulis licet non credant nec intelligant, et remittitur eis peccatum originale. H. d. usque ad §. Verum. &#151; (Verum etc.:) Originale peccatum, quod sine consensu cortrahitur, remittitur in baptismo etiam non consentienti, ut parvulis; secus de actuali, quia, sicut non committitur sine consensu, ita non relaxatur. Hoc dicit usque ad §. Sed adhuc. Abbas. &#151; (Sed adhuc:) Licet in baptismo dimittatur originale peccatum parvulis, qui tamen consentire non possunt, in adultis tamen, amentibus vel dormientibus, qui non consentiunt baptismo, non dimittitur actuale, et item etiam nec originale. H. d. &shy;(Item etc.:) Amentes vel dormientes baptizati, si ante dementiam vel dormitionem baptizari volebant, characterem suscipiunt, alias secus; coacti vero causative suscipiunt. H. d. usque ad finem.
+Sacramentum baptismi utiliter confertur parvulis licet non credant nec intelligant, et remittitur eis peccatum originale. H. d. usque ad §. Verum. — (Verum etc.:) Originale peccatum, quod sine consensu cortrahitur, remittitur in baptismo etiam non consentienti, ut parvulis; secus de actuali, quia, sicut non committitur sine consensu, ita non relaxatur. Hoc dicit usque ad §. Sed adhuc. Abbas. — (Sed adhuc:) Licet in baptismo dimittatur originale peccatum parvulis, qui tamen consentire non possunt, in adultis tamen, amentibus vel dormientibus, qui non consentiunt baptismo, non dimittitur actuale, et item etiam nec originale. H. d. ­(Item etc.:) Amentes vel dormientes baptizati, si ante dementiam vel dormitionem baptizari volebant, characterem suscipiunt, alias secus; coacti vero causative suscipiunt. H. d. usque ad finem.
  
  
  

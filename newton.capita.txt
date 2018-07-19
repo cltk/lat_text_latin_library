@@ -1,13 +1,13 @@
 Newton: Index Capitum from the Principia 
  
  
- PHILOSOPHI&AElig; NATURALIS PRINCIPIA MATHEMATICA 
+ PHILOSOPHIÆ NATURALIS PRINCIPIA MATHEMATICA 
  
 AUCTORE ISAACO NEWTONO, EQ. AUR.
  
  Editio tertia aucta et emendata
  
-Londini: apud Guil. & Joh. Innys, Regi&aelig; Societatis typographos 
+Londini: apud Guil. & Joh. Innys, Regiæ Societatis typographos 
 MDCCXXVI
  
  
@@ -23,12 +23,12 @@ MDCCXXVI
 [frontispiece: portrait of Newton] 
 [title page] 
 [Dedication to the Royal Society] 
-In viri pr&aelig;stantissimi Isaaci Newtoni opus hocce mathematico-physicum 
-  seculi gentisque nostr&aelig; decus egregium. [Poem by Edmund Halley; in Latin Library under Halley] 
-Auctoris pr&aelig;fatio ad lectorem 
-Auctoris pr&aelig;fatio in editionem secundam 
-Editoris pr&aelig;fatio in editionem secundam 
-Auctoris pr&aelig;fatio in editionem tertiam 
+In viri præstantissimi Isaaci Newtoni opus hocce mathematico-physicum 
+  seculi gentisque nostræ decus egregium. [Poem by Edmund Halley; in Latin Library under Halley] 
+Auctoris præfatio ad lectorem 
+Auctoris præfatio in editionem secundam 
+Editoris præfatio in editionem secundam 
+Auctoris præfatio in editionem tertiam 
 Index capitum totius operis 
 Corrigenda 
 Definitiones 1 
@@ -45,9 +45,9 @@ sect. VIII De inventione orbium in quibus corpora viribus quibuscunque centripet
 sect. IX De motu corporum in orbibus mobilibus, deque motu apsidum. 129 
 sect. X De motu corporum in superficiebus datis, deque funependulorum motu reciproco. 142 
 sect. XI De motu corporum viribus centripetis se mutuo petentium. 160 
-sect. XII De corporum sph&aelig;ricorum viribus attractivis. 189 
-sect. XIII De corporum non sph&aelig;ricorum viribus attractivis. 210 
-sect. XIV De motu corporum minimorum, qu&aelig; viribus centripetis ad singulas magni alicujus corporis partes tendentibus agitantur. 222 
+sect. XII De corporum sphæricorum viribus attractivis. 189 
+sect. XIII De corporum non sphæricorum viribus attractivis. 210 
+sect. XIV De motu corporum minimorum, quæ viribus centripetis ad singulas magni alicujus corporis partes tendentibus agitantur. 222 
 DE MOTU CORPORUM LIBER SECUNDUS 
 sect. I De motu corporum quibus resistitur in ratione velocitatis. 230 
 sect. II De motu corporum quibus resistitur in duplicata ratione velocitatis. 239 
@@ -59,9 +59,9 @@ sect. VII De motu fluidorum & resistentia projectilium. 318
 sect. VIII De motu per fluida propagato.	 357 
 sect. IX De motu circulari fluidorum. 374 
 DE MUNDI SYSTEMATE LIBER TERTIUS 
-[pr&aelig;fatio] 
-Regul&aelig; Philosophandi 387 
-Ph&aelig;nomena 390 
+[præfatio] 
+Regulæ Philosophandi 387 
+Phænomena 390 
 Propositiones 395 
 Scholium Generale 526 
  

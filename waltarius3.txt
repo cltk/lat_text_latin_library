@@ -21,15 +21,15 @@ Aufugiens studio falerati terga caballi
 Scandit et ad maestum citius Haganona volavit 
 Omnimodisque illum precibus flexisse sategit,    1065 
 Ut secum pergens pugnam repararet. at ille: 
-&laquo;Me genus infandum prohibet bellare parentum, 
+«Me genus infandum prohibet bellare parentum, 
 Et gelidus sanguis mentem mihi ademit in armis. 
 Tabescebat enim genitor, dum tela videret, 
 Et timidus multis renuebae proelia verbis.    1070 
 Haec dum iactasses, rex, inter te comitantes, 
-Extitit indignum nostri tibi quippe invamen.&raquo; 
+Extitit indignum nostri tibi quippe invamen.» 
 Ille recusanti precibus nihilominus instans 
 Talibus aversum satagit revocare loquelis: 
-&laquo;Deprecor ob superos, conceptum pone furorem,    1075 
+«Deprecor ob superos, conceptum pone furorem,    1075 
 Iram de nostra contractam decute culpa, 
 Quam vita comitante, domum si venero tecum, 
 Impensis tibimet benefactis diluo multis. 
@@ -41,8 +41,8 @@ Qui solus hodie caput infamaverat orbis.
 Non modicum patimur damnum de caede virorum; 
 Dedecus at tantum superabit Francia numquam.    1085 
 Antea quis fuimus suspecti, sibila dantes 
-&laquo;Francorum&raquo; dicent &laquo;exercitus omnis ab uno, 
-Pro pudor, ignotum vel quo, est impune necatus&raquo;!&raquo; 
+«Francorum» dicent «exercitus omnis ab uno, 
+Pro pudor, ignotum vel quo, est impune necatus»!» 
 Cunctabatur adhuc Haganon et pectore sponsam 
 Walthario plerumque fidem volvebat et ipsum    1090 
 Eventum gestae recolebat in ordine causae. 
@@ -52,7 +52,7 @@ Erubuit domini vultum, replicabat honorem
 Virtutis propriae, qui fors vilesceret inde,    1095 
 Si quocumque modo in rebus sibi parceret istis. 
 Erupit tandem et clara sic voce respondit: 
-&laquo;Quo me, domne, vocas? quo te sequar, inclite princeps? 
+«Quo me, domne, vocas? quo te sequar, inclite princeps? 
 Quae nequeunt fieri, spondet fiducia cordi. 
 Quis tam desipiens quandoque fuisse probatur,    1100 
 Qui saltu baratrum sponte attemptarit apertum? 
@@ -79,7 +79,7 @@ Sic aliquod virtutis opus temptare valemus.
 Haec mihi in ambiguis spes set certissima rebus. 
 Tum pugnare potes, belli si, rex, tibi mens est: 
 Quippe fugam nobis numquam dabit ille duobus, 
-At nos aut fugere aut acrum bellare necesse est.&raquo;    1125 
+At nos aut fugere aut acrum bellare necesse est.»    1125 
 Laudat consilium satrapa et complectitur illum 
 Oscilloque virum demulcet; et ecce recedunt 
 Insidiisque locum circumspexere sat aptum 
@@ -105,23 +105,23 @@ Terret ad haec triviis ignoti silva meatus,
 Ne loca fortassis incurreret aspera spinis, 
 Immo quippe feris, sponsamque amitteret illis. 
 His ita provisis exploratisque profatur:    1150 
-&laquo;En quocumque modo res pergant, hic recubabo, 
+«En quocumque modo res pergant, hic recubabo, 
 Donec circuiens lumen spera reddat amatum, 
 Ne patriae fines dicat rex ille superbus 
-Evasisse fuga furis de more per umbras.&raquo; 
+Evasisse fuga furis de more per umbras.» 
 Dixit et ecce viam vallo praemuniit artam    1155 
 Undique praecisis spinis simul et paliuris. 
 Quo facto ad truncos sese convertit amaro 
 Cum gemitu et cuicumque suum caput applicat atque 
 Contra orientalem prostratus corpore partem 
 Ac nudum retinens ensem hac voce precatur:    1160 
-&laquo;Rerum factori, sed et omnia facta regenti, 
+«Rerum factori, sed et omnia facta regenti, 
 Nil sine permisso cuius vel denique iusso 
 Constat, ago grates, quod me defendit iniquis 
 Hostilis turmae telis nec non quoque probris. 
 Deprecor at dominum contrita mente benignum,    1165 
 Ut, qui peccantes non vult sed perdere culpas, 
-Hos in caelesti praestet mihi sede videri.&raquo; 
+Hos in caelesti praestet mihi sede videri.» 
 Qui postquam orandi finem dedit, ilico surgens 
 Sex giravit equos et virgis rite retortis 
 Vinciit: hi tantum remanebant, nempe duobus    1170 
@@ -143,7 +143,7 @@ Sic reliquum noctis duxit, modo quippe caballos    1185
 Circuit, interdum auscultans vallo propiavit, 
 Exoptans orbi species ac lumina reddi. 
 Lucifer interea praeco scandebat Olympo 
-Dicens: &laquo;Taprobane clarum videt insula solem.&raquo; 
+Dicens: «Taprobane clarum videt insula solem.» 
 Hora fuit, gelidus qua terram irrorat Eous.    1190 
 Aggreditur iuvenis caesos spoliarier armis 
 Armorumque habitu, tunicas et cetera linquens; 
@@ -167,9 +167,9 @@ Mille fere passus transcendit, et ecce puella
 Respiciens post terga videt descendere binos    1210 
 Quodam colle viros raptim et sine more meantes 
 Exanguisque virum compellat voce sequentem: 
-&laquo;Dilatus iam finis adest: fuge, domne, propinquant!&raquo; 
+«Dilatus iam finis adest: fuge, domne, propinquant!» 
 Qui mox conversus visos cognovit et inquit: 
-&laquo;Incassum multos mea dextera fuderat hostes,    1215 
+«Incassum multos mea dextera fuderat hostes,    1215 
 Si modo supremis laus desit, dedecus assit. 
 Est satius pulcram per vulnera quaerere mortem 
 Quam solum amissis palando evadere rebus. 
@@ -178,22 +178,22 @@ Commoda cernenti quondam maiora pericla.    1220
 Aurum gestantis tute accipe lora Leonis 
 Et citius pergens luco succede propinquo! 
 Ast ego in ascensu montis subsistere malo, 
-Eventum opperiens adventantesque salutans.&raquo; 
+Eventum opperiens adventantesque salutans.» 
 Obsequitur dietis virguncula clara iubentis.    1225 
 Ille celer scutum collegit et excutit hastam, 
 Ignoti mores equitis temptando sub armis. 
 Hunc rex incursans comitante satellite demens 
 Eminus affatu compellat valde superbo: 
-&laquo;Hostis atrox, nisu deluderis! ecce latebrae    1230 
+«Hostis atrox, nisu deluderis! ecce latebrae    1230 
 Protinus absistunt, ex quis de more liciscae 
 Dentibus infrendens rabidis latrare solebas. 
 En in propatulo, si vis, confligito campo 
 Experiens, finis si fors queat aequiperari 
 Principio. Scio: Fortunam mercede vocasti    1235 
-Idcircoque fugam tempnis seu deditionem.&raquo; 
+Idcircoque fugam tempnis seu deditionem.» 
 Alpharides contra regi non reddidit ulla, 
 Sed velut hinc surdus alio convertitur aiens: 
-&laquo;Ad te sermo mihi, Hagano, subsiste parumper! 
+«Ad te sermo mihi, Hagano, subsiste parumper! 
 Quid, rogo, tam fidum subito mutavit amicum,    1240 
 Ut, discessurus nuper vix posse revelli 
 Qui nostris visus fuerat complexibus, ultro, 
@@ -205,7 +205,7 @@ Et licet invitum hospitii requiete foveres
 Pacificeque in regna patris deducere velles, 
 Sollicitusque fui, quorsum tua munera ferrem; 
 Namque per ignotas dixi pergens regiones:    1250 
-&laquo;Francorum vereor Haganone superstite nullum.&raquo; 
+«Francorum vereor Haganone superstite nullum.» 
 Obsecro per ludos, resipiscito iam, pueriles, 
 Unanimes quibus assueti fuimusque periti 
 Et quorum cultu primos attrivimus annos. 
@@ -217,10 +217,10 @@ Numquid mente fidem abradis saepissime pactam?
 Deprecor, hoc abscide nefas neu bella lacessas,    1260 
 Sitque inconvulsum nobis per ternpora foedus. 
 Quod si consentis, iam nunc ditatus abibis 
-Eulogiis, rutilo umbonem complebo metallo.&raquo; 
+Eulogiis, rutilo umbonem complebo metallo.» 
 Contra quae Hagano vultu haec affamina torvo 
 Edidit atque iram sic insinuavit apertam:    1265 
-&laquo;Vim prius exerces, Walthari, postque sopharis. 
+«Vim prius exerces, Walthari, postque sopharis. 
 Tute fidem abscideras, cum memet adesse videres 
 Et tot stravisses socios immoque propinquos. 
 Excusare nequis, quin me tunc affore nosses. 
@@ -233,7 +233,7 @@ Haec res est, pactum qua irritasti prior almum,    1275
 Idcircoque gazam cupio pro foedere nullam. 
 Sitne tibi soli virtus, volo discere in armis, 
 Deque tuis manibus caedem perquiro nepotis. 
-En aut oppeto sive aliquid memorabile faxo.&raquo; 
+En aut oppeto sive aliquid memorabile faxo.» 
 Dixit et a tergo saltu se iecit equino,    1280 
 Hoc et Guntharius nec segnior egerat heros 
 Waltharius, cuncti pedites bellare parati. 
@@ -302,14 +302,14 @@ Et triplex cunctis inerat maceratio: leti
 Terror, et ipse labor bellandi, solis et ardor.    1345 
 Interea herois coepit subrepere menti 
 Quiddam, qui tacito premit has sub corde loquelas. 
-&laquo;Si Fortuna viam non commutaverit, isti 
-Vana fatigatum memet per ludicra fallent.&raquo; 
+«Si Fortuna viam non commutaverit, isti 
+Vana fatigatum memet per ludicra fallent.» 
 Ilico et elata Haganoni voce profatur:    1350 
-&laquo;O paliure, vires foliis, ut pungere possis; 
+«O paliure, vires foliis, ut pungere possis; 
 Tu saltando iocans astu me ludere temptas. 
 Sed iam faxo locum, propius ne accedere tardes: 
 Ecce tuas (scio praegrandes) ostendito vires! 
-Me piget incassum tantos sufferre labores.&raquo;    1355 
+Me piget incassum tantos sufferre labores.»    1355 
 Dixit et exiliens contum contorsit in ipsum, 
 Qui pergens onerat clipeum dirimitque aliquantum 
 Loricae ac magno modicum de corpore stringit; 
@@ -364,22 +364,22 @@ Sanguinis undantem tergentes floribus amnem.
 Haec inter timidam revocat clamore puellam 
 Alpharides, veniens quae saucia quaeque ligavit. 
 His ita compositis sponsus praecepit eidem: 
-&laquo;Iam misceto merum Haganoni et porrige primum;    1410 
+«Iam misceto merum Haganoni et porrige primum;    1410 
 Est athleta bonus, fidei si iura reservet. 
 Tum praebeto mihi, reliquis qui plus toleravi. 
 Postremum volo Guntharius bibat, utpote segnis 
 Inter magnanimum qui paruit arma virorum 
-Et qui Martis opus tepide atque enerviter egit.&raquo;    1415 
+Et qui Martis opus tepide atque enerviter egit.»    1415 
 Obsequitur cunctis Heririci filia verbis. 
 Francus at oblato licet arens pectore vino 
-&laquo;Defer&raquo; ait &laquo;prius Alpharidi sponso ac seniori, 
+«Defer» ait «prius Alpharidi sponso ac seniori, 
 Virgo, tuo, quoniam, fateor, me fortior ille 
-Nec solum me, sed cunctos supereminet armis.&raquo;    1420 
+Nec solum me, sed cunctos supereminet armis.»    1420 
 Hic tandem Hagano spinosus et ipse Aquitanus 
 Mentibus invicti, licet omni corpore lassi, 
 Post varios pugnae strepitus ictusque tremendos 
 Inter pocula scurrili certamine ludunt. 
-Francus ait: &laquo;iam dehinc cervos agitabis, amice,    1425 
+Francus ait: «iam dehinc cervos agitabis, amice,    1425 
 Quorum de corio wantis sine fine fruaris. 
 At dextrum, moneo, tenera lanugine comple, 
 Ut causae ignaros palmae sub imagine fallas. 
@@ -388,15 +388,15 @@ Ac dextro femori gladium agglomerare videris    1430
 Uxorique tuae, si quando ea cura subintrat, 
 Perverso amplexu circumdabis euge sinistram? 
 Iam quid demoror? en posthac tibi quicquid agendum est 
-Laeva manus faciet.&raquo; Cui Walthare talia reddit: 
-&laquo;Cur tam prosilias, admiror, lusce Sicamber.    1435 
+Laeva manus faciet.» Cui Walthare talia reddit: 
+«Cur tam prosilias, admiror, lusce Sicamber.    1435 
 Si venor cervos, carnem vitabis aprinam. 
 Ex hoc iam famulis tu suspectando iubebis 
 Heroum turbas transversa tuendo salutans. 
 Sed fidei memor antiquae tibi consiliabor: 
 Iam si quando domum venias laribusque propinques,    1440 
 Effice lardatam de multra farreque pultam! 
-Haec pariter victum tibi conferet atque medelam.&raquo; 
+Haec pariter victum tibi conferet atque medelam.» 
 His dictis pactum renovant iterato coactum 
 Atque simul regem tollentes valde dolentem 
 Imponunt equiti, et sic disiecti redierunt    1445 

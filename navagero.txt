@@ -979,7 +979,7 @@ Concussae ex humero sonant pharetrae.
 Ad flores properat suos Dione. 
 Nunc vos Vanciades simul sorores 
 Instaurate choros licentiores. 
-Et novae Venerem &lt; decent &gt; choreae, 
+Et novae Venerem < decent > choreae, 
 Et chori Venerem licentiores. 
 Huc mitis, dea, mitiorque semper 
 Adsis muneribus benigna nostris, 
@@ -1080,7 +1080,7 @@ Ducente demum Pallade, qua rapax
   Cultos per agros Medoacus fluit, 
   Dis fretus Antenor secundis 
   Condidit, Euganeis in oris; 
-Tu, nuper &lt; et &gt; flos et decus urbium, 
+Tu, nuper < et > flos et decus urbium, 
   Quascumque tellus Itala continet, 
   Magnas tot artes, tot virorum 
   Ingenia, et studia una alebas. 
@@ -1204,7 +1204,7 @@ Iverat ad Phylirem media de nocte Menalcas,
   Posset ut ad patrios mane redire greges. 
 Iamque fores lento religatas vimine pressa 
   Suspensis manibus solverat ille anima. 
-Prospectansque oculis &lt; semiaperta &gt; per ostia, limen 
+Prospectansque oculis < semiaperta > per ostia, limen 
   Protenso poterat transiliisse pede, 
 Cum sensere canes; quo murmure victus, ut ira 
   Ardebat, tales iecit in astra sonos: 

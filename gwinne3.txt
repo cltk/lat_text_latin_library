@@ -432,7 +432,7 @@ at dum illa vivet, vivet ut moriens Nero.
  
 
  Exeunt ad Agrippinam Seneca, Burrhus, et caeteri, praeter
-&lt;Neronem,&gt; Poppaeam et Anicetum. 
+<Neronem,> Poppaeam et Anicetum. 
 
  POP. an sic abibit? sic refrigescis, Nero? 
 sic fluctuaris? sic Agrippinam tenes? 
@@ -1384,7 +1384,7 @@ perimus ambo: tibi fides, regnum mihi
 periit: utrique pestis utriusque imminet. 
 age, perge, perde, tunde, dilania, fodi,  2145 
 excinde matrem, Caesarem ut verum probes. 
-&Ntilde;An&#164;khte nomen, omen,invictum tene. 
+ÑAn¤khte nomen, omen,invictum tene. 
 at illa pollens gratia, nummis potens, 
 timore cauta, tuta famulorum fide, 
 olfaciet, antevertet, invertet dolos:  2150 
@@ -1479,7 +1479,7 @@ licetne?
 
  ANIC. .scio.
 
- NERO vidistin&iacute;?
+ NERO vidistiní?
 
  ANIC. oculis hisce.
 
@@ -1523,7 +1523,7 @@ nihil infestum, nihil invisum,
 ut homo est homini, summa malorum. 
 non male saxo creditur ortus,   2210 
 animo immiti qui saxa refert. 
-anthrophagos, misanyr&Auml;vpouw, 
+anthrophagos, misanyrÄvpouw, 
 et sanguibibas, et carnivoros 
 homines aetas ferrea vidit! 
 magis an feritas ferrea fecit?  2215 

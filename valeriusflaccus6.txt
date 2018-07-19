@@ -22,7 +22,7 @@ concutiens Scythiaeque super tentoria sistit.
 protinus e castris fugit sopor: excita tela, 
 turbati coiere duces. hos insuper ingens 
 fama movet, rate quae sacra vulgabat Achivos      10 
-advenisse sui repe&lt;te&gt;nte&lt;s&gt; vellera Phrixi, 
+advenisse sui repe<te>nte<s> vellera Phrixi, 
 quos malus hospitio iunctaque ad foedera dextra 
 luserit Aeetes atque in sua traxerit arma. 
   Ergo consiliis dum nox vacat alta movendis 
@@ -89,7 +89,7 @@ movit et Hylaea supplex cum gente Syenen
 impia germani praetentans vulnera Perses.      75 
 densior haud usquam nec celsior extulit ullas 
 silva trabes fessaeque prius rediere sagittae 
-&lt;. . . . . . . . . . . . . . . . . . . . . .&gt; 
+<. . . . . . . . . . . . . . . . . . . . . .> 
 quin et ab Hyrcanis Titanius expulit antris 
 Ciris in arma viros plaustrisque ad proelia cunctas      80 
 Coelaletae traxere manus. ibi sutilis illis 
@@ -113,7 +113,7 @@ aequaque nec ferro brevior nec rumpia ligno.
 nec procul albentes gemina ferit aclyde parmas 
 hiberni qui terga Novae gelidumque securi      100 
 eruit et tota non audit Alazona ripa. 
-&lt;. . . . . . . . . . . . . . . . . . .&gt;      101a 
+<. . . . . . . . . . . . . . . . . . .>      101a 
 quosque Taras niveumque ferax Euarchus olorum. 
 te quoque venturis, ingens Ariasmene, saeclis 
 tradiderim, molem belli lateque ferentem 
@@ -124,7 +124,7 @@ exsilit ad lituos pugnasque capessit eriles.
 inde etiam par mortis honos tumulisque recepti 
 inter avos positusque virum. nam pectora ferro      110 
 terribilesque innexa iubas ruit agmine nigro 
-latratu&lt;que&gt; cohors quanto sonat horrida Ditis 
+latratu<que> cohors quanto sonat horrida Ditis 
 ianua vel superas Hecates comitatus in auras. 
 ducit ab Hyrcanis vates sacer agmina lucis 
 Vanus, eum Scythiae iam tertia viderat aetas      115 
@@ -147,7 +147,7 @@ eruis, ignotis insons Arimaspe metallis,
 doctus et Auchates patulo vaga vincula gyro 
 spargere et extremas laqueis adducere turmas. 
 non ego sanguineis gestantem tympana bellis 
-Thyrsaget&lt;en&gt; cinctumque vagis post terga silebo      135 
+Thyrsaget<en> cinctumque vagis post terga silebo      135 
 pellibus et nexas viridantem floribus hastas. 
 fama ducem Iovis et Cadmi de sanguine Bacchum 
 hac quoque turiferos, felicia regna, Sabaeos, 
@@ -217,7 +217,7 @@ aut cui fata Tyres. dum sibila respicit Iron
 cuspidis Argivae, Pyliam latere accipit hastam. 
   Viderat Hyrcanos paribus discurrere fratres 
 Castor equis, pater armento quos dives ab omni 
-nutrierat fatisque viam monstra&lt;ra&gt;t iniquis.      205 
+nutrierat fatisque viam monstra<ra>t iniquis.      205 
 tum magis atque magis peditem candore notato 
 Tyndariden incendit amor. simul obvius hastam 
 pectus in adversum ~gleacit~ alipedemque 
@@ -303,7 +303,7 @@ inruit et patrias coeptis ferus advocat umbras:
 'sancte mihi Vorapte pater, tua pectora nato 
 suggere nunc animamque parem, si fata peroso 
 tarda tibi turpesque moras non segnius ipsi      290 
-paruimus parvique ea&lt;de&gt;m didicere nepotes.' 
+paruimus parvique ea<de>m didicere nepotes.' 
 haec ait auditusque Erebo. tunc corripit ensem 
 turbidus et furiis ardens quatit arma paternis. 
 indigenis sacratus aquis magnique sacerdos 
@@ -312,7 +312,7 @@ Phasidis Arctois Aquites errabat in armis      295
 tempora nectuntur ramo) te, Cyrne, parentis 
 immemorem durae cupiens abducere pugnae. 
 iamque omnes impune globos diversaque lustrans 
-agmina non usquam videt utque iterum intrat &lt; . . . &gt;      300 
+agmina non usquam videt utque iterum intrat < . . . >      300 
 vociferans, iterum belli diversa peragrat, 
 lancea caeruleas circum strepit incita vittas. 
 opprimit admissis ferus hinc Gesander habenis. 
@@ -518,7 +518,7 @@ sentiet et raptu famulae doluisse pudendo.'
 dixerat. ast illae murorum extrema capessunt 
 defixaeque virum lituumque fragoribus horrent, 
 quales instanti nimborum frigore maestae      505 
-succedunt ramis haerent&lt;que&gt; pavore volucres. 
+succedunt ramis haerent<que> pavore volucres. 
   Iamque Getae iamque omnis Hiber Drangeaque densa 
 strage cadit legio et latis prosternitur arvis. 
 semineces duplicesque inter sua tela suosque 
@@ -568,7 +568,7 @@ deicit, illum aperit lato per pectus hiatu.
 Argus utrumque ab equis ingenti porrigit arvo 
 et Zacorum et Phalcen, peditem pedes haurit Amastrin. 
 sanguinis ille globos effusaque viscera gestat      555 
-barbarus et cassa &lt;st&gt;ridens sublabitur ira. 
+barbarus et cassa <st>ridens sublabitur ira. 
 dat Calais Barisanta neci semperque propinquas 
 Riphea venali comitantem sanguine pugnas. 
 centum lecta boum bellator corpora, centum 
@@ -660,7 +660,7 @@ iamque aliis instabat atrox cum diva supremas
 rumpit iniqua colus victorque advenit Iason.      645 
 excipit hunc saeva sic fatus voce Colaxes: 
 'vos Scythiae saturare canes Scythiaeque volucres 
-huc miseri venis&lt;tis&gt;?' ait saxumque prehensum, 
+huc miseri venis<tis>?' ait saxumque prehensum, 
 illius et dextrae gestamen et illius aevi, 
 concussa molitur humo, quod regia Iuno      650 
 flexit ad ignotum caput infletumque Monesi. 
@@ -678,7 +678,7 @@ audet atrox vultus eademque in gaudia rursus
 labitur et saevae trahitur dulcedine flammae. 
 ac velut ante comas ac summa cacumina silvae 
 lenibus adludit flabris levis Auster, at illum      665 
-protinus immanem miserae &lt;sensere&gt; carinae, 
+protinus immanem miserae <sensere> carinae, 
 talis ad extremos agitur Medea furores. 
 interdum blandae derepta monilia divae 
 contrectat miseroque aptat flagrantia collo, 
@@ -758,9 +758,9 @@ quem genitor Colchis solioque imponere fratris
 iam statuit. nostra vereor ne fraude peremptum 
 increpet et culpam hanc magno terrore rependat.' 
 haec dicens atro nebulam diffundit amictu      745 
-striden&lt;te&gt;sque viri circum caput amovet hastas. 
+striden<te>sque viri circum caput amovet hastas. 
 ille super socias clementi turbine gentes 
-erigitur paulum&lt;que&gt; levi raptatus in aethra 
+erigitur paulum<que> levi raptatus in aethra 
 iam tandem extremas pugnae defertur in oras, 
 forte ubi serus Hiber Issedoniaeque phalanges      750 
 Marte carent solisque iuvant clamoribus agmen. 
@@ -768,7 +768,7 @@ Marte carent solisque iuvant clamoribus agmen.
 et cadit extemplo belli fragor aegraque muris 
 digreditur longum virgo perpessa timorem. 
 ut fera Nyctelii paulum per sacra resistunt,      755 
-mox rapuere deum iamiam &lt;in&gt; quodcumque paratae 
+mox rapuere deum iamiam <in> quodcumque paratae 
 Thyiades, haud alio remeat Medea tumultu 
 atque inter Graiumque acies patriasque phalangas 
 semper inexpletis agnoscit Iasona curis 

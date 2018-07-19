@@ -585,7 +585,7 @@ ventis tumescit saepe percellentibus)
 stagno hoc ab ipso Sordus amnis effluit. 
 rursusque ab huius effluentis ostiis 
 * * * 
-. . . . . . . . . . . . . . . . &lt;litus dehinc>      570 
+. . . . . . . . . . . . . . . . <litus dehinc>      570 
 sinuatur alto et propria per dispendia 
 caespes cavatur, repit unda largior 
 molesque multa gurgitis distenditur. 

@@ -153,8 +153,8 @@ ED. Laudes, quas mihi tribuis, in optimam partem interpretor. Quod ad alia
 attinet, quae dixisti, sic habeto: non odisse me mulieres, quippe qui sciam esse 
 earum nobis mortalibus usum aliquem necessarium. Amo igitor fateor. Non sum     630 
 enim e silice natus, aut tygride, sicut apud Virgilium Aeneas iudicio iratae 
- Didonis , vel potius Did&ucirc;s , secundum Graecam declinationem: Sappho Sapph&ucirc;s 
-per &ucirc;s circumflexum. Non autem amo secundum redundantiam iuvenilem, aut 
+ Didonis , vel potius Didûs , secundum Graecam declinationem: Sappho Sapphûs 
+per ûs circumflexum. Non autem amo secundum redundantiam iuvenilem, aut 
 in summo genere, sed (si quid ego iudicare possum) philosophice. Rationes 
 autem, quibus moveor, sunt quinque, vel potius sex.     635 
  
@@ -365,7 +365,7 @@ iratus Achilles: corque meum penitus turgescit trisitibusiris.      800
 DRO. Quid? Tuum hoc corpus aethereum ut illud lutum terrenum attingat? Ab- 
 surdum: quin potius sicut ex bovillo cadavere computrescente prodeunt vermes, 
 sic corruptio Croboli illius (qualis qualis sit) generatio sit Pedantii, de quo quoad 
-humilitatem vere dici potest (&lt;non&gt; quod sublunaris est, sed quod ad artes attinet) 
+humilitatem vere dici potest (<non> quod sublunaris est, sed quod ad artes attinet) 
 supercoelestis est.     805 
  
 LYD. Mihi abeundum est, cum videam vos irasci tantopere. 
@@ -374,7 +374,7 @@ PED. Ah! Iam mitesco rursus. Nos cholerici et cito succensemus, et cito placa-
 mur. O Phoenix unica orbis terrarum! Respice, non despice Pedantium, et vel uno 
 verbulo amabili laetitiam instilla febricitanti cordi meo. 
  
-LYD. Convalescas ut lubet: me multa manent domi negotia &#91; Exit. &#93;     810 
+LYD. Convalescas ut lubet: me multa manent domi negotia [ Exit. ]     810 
  
 PED. Evanuit vero? Quid putem? Contemptumne me? Non video vel in mori- 
 bus, vel in rebus gestis, vel in hac mediocritate ingenii quid despicere stulta pos- 
@@ -429,7 +429,7 @@ CRO. Incipe, ad appositum: ostium patet, invitat ultro te domus ipsa. Tu fac
 ut dominum hunc suum suppositium evomat illico. Ego te domi meae hospitis 
 expectabo.     850 
  
-TYR. Eo. &#91; Exit. &#93; 
+TYR. Eo. [ Exit. ] 
 CRO. Spero quidem iam id effecturum me, ut et iste sumptus nobis perpetuos 
 suggerat, et mihi deinceps faciliores sint ad Lydiam meam aditus, si istum istinc 
 abegero, qui iam nos, ut Argus, observat, inhians puellulae quasi praedae suae: 

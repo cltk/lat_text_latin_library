@@ -77,7 +77,7 @@ Pliny the Elder: Natural History, Preface
  
 
  
- [17] XX Rerum dignarum cura&#151;quoniam, ut ait Domitius Piso, thesauros oportet esse, non libros&#151;lectione voluminum circiter VV, quorum pauca admodum studiosi attingunt propter secretum materiae, ex exquisitis auctoribus centum inclusimus XXXVI voluminibus, adiectis rebus plurimis, quas aut ignoraverant priores aut postea invenerat vita.
+ [17] XX Rerum dignarum cura—quoniam, ut ait Domitius Piso, thesauros oportet esse, non libros—lectione voluminum circiter VV, quorum pauca admodum studiosi attingunt propter secretum materiae, ex exquisitis auctoribus centum inclusimus XXXVI voluminibus, adiectis rebus plurimis, quas aut ignoraverant priores aut postea invenerat vita.
  
 
  
@@ -109,7 +109,7 @@ Pliny the Elder: Natural History, Preface
  
 
  
- [25] Apud Graecos desiit nugari Diodorus et biblioqhkhV historiam suam inscripsit. Apion quidem grammaticus&#151;hic quem Tiberius Caesar cymbalum mundi vocabat, cum propriae famae tympanum potius videri posset&#151;immortalitate donari a se scripsit ad quos aliqua componebat.
+ [25] Apud Graecos desiit nugari Diodorus et biblioqhkhV historiam suam inscripsit. Apion quidem grammaticus—hic quem Tiberius Caesar cymbalum mundi vocabat, cum propriae famae tympanum potius videri posset—immortalitate donari a se scripsit ad quos aliqua componebat.
  
 
  
@@ -121,7 +121,7 @@ Pliny the Elder: Natural History, Preface
  
 
  
- [28] Ego plane meis adici posse multa confiteor, nec his solis, sed et omnibus quos edidi, ut obiter caveam istos Homeromastigas (ita enim verius dixerim), quoniam audio et Stoicos et dialecticos Epicureosque&#151;nam de grammaticis semper expectavi&#151;parturire adversus libellos, quos de grammatica edidi, et subinde abortus facere iam decem annis, cum celerius etiam elephanti pariant.
+ [28] Ego plane meis adici posse multa confiteor, nec his solis, sed et omnibus quos edidi, ut obiter caveam istos Homeromastigas (ita enim verius dixerim), quoniam audio et Stoicos et dialecticos Epicureosque—nam de grammaticis semper expectavi—parturire adversus libellos, quos de grammatica edidi, et subinde abortus facere iam decem annis, cum celerius etiam elephanti pariant.
  
 
  
@@ -137,7 +137,7 @@ Pliny the Elder: Natural History, Preface
  
 
  
- [32] Ergo securi etiam contra vitilitigatores, quos Cato eleganter ex vitiis et litigatoribus composuit&#151;quid enim illi aliud quam litigant aut litem quaerunt? &#151;, exequemur reliqua propositi.
+ [32] Ergo securi etiam contra vitilitigatores, quos Cato eleganter ex vitiis et litigatoribus composuit—quid enim illi aliud quam litigant aut litem quaerunt? —, exequemur reliqua propositi.
  
 
  

@@ -369,7 +369,7 @@ Sidonius Ruricio suo salutem.
  
 
  
-1. Esse tibi usui pariter et cordi litteras granditer gaudeo. nam stilum vestrum quanta comitetur vel flamma sensuum vel unda sermonum, liberius assererem, nisi, dum me laudare non parum studes, laudari plurimum te vetares. et quamquam in epistula tua servet caritas dulcedinem, natura facundiam, peritia disciplinam, in sola materiae tamen electione peccasti, licet id ipsum praedicari possit in voto, quod videris errasse &lt;in&gt; iudicio. ingentes praeconiorum titulos moribus meis applicas; sed si pudoris nostri fecisses utcumque rationem, Symmachianum illud te cogitare par fuerat: ut vera laus ornat, ita falsa castigat.
+1. Esse tibi usui pariter et cordi litteras granditer gaudeo. nam stilum vestrum quanta comitetur vel flamma sensuum vel unda sermonum, liberius assererem, nisi, dum me laudare non parum studes, laudari plurimum te vetares. et quamquam in epistula tua servet caritas dulcedinem, natura facundiam, peritia disciplinam, in sola materiae tamen electione peccasti, licet id ipsum praedicari possit in voto, quod videris errasse <in> iudicio. ingentes praeconiorum titulos moribus meis applicas; sed si pudoris nostri fecisses utcumque rationem, Symmachianum illud te cogitare par fuerat: ut vera laus ornat, ita falsa castigat.
  
 
  
@@ -500,7 +500,7 @@ plus illis ego barbarus susurrem.
  
 
  
-13. atque utinam hunc finem, dum inconsulte fidens vana consultat, non meruisset excipere! nam quisque praesumpserit interdicta secreta vetita rimari, vereor huius modi &lt;hominem&gt; a catholicae fidei regulis exorbitaturum et effici dignum, in statum cuius respondeantur adversa, dum requiruntur inlicita. secuta quidem est ultio extinctum, sed magis prosunt ista victuris. nam quotiens homicida punitur, non est remedium sed solacium vindicari.
+13. atque utinam hunc finem, dum inconsulte fidens vana consultat, non meruisset excipere! nam quisque praesumpserit interdicta secreta vetita rimari, vereor huius modi <hominem> a catholicae fidei regulis exorbitaturum et effici dignum, in statum cuius respondeantur adversa, dum requiruntur inlicita. secuta quidem est ultio extinctum, sed magis prosunt ista victuris. nam quotiens homicida punitur, non est remedium sed solacium vindicari.
  
 
  

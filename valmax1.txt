@@ -17,7 +17,7 @@ Praef. Vrbis Romae exterarumque gentium facta simul ac dicta memoratu digna apud
  
 
  
-1.1.1 Maiores statas sollemnesque caerimonias pontificum scientia, bene gerendarum rerum auctoritates augurum obseruatione, Apollinis praedictiones uatum libris, portentorum depulsi&lt;one&gt;s Etrusca disciplina explicari uoluerunt. prisco etiam instituto rebus diuinis opera datur, cum aliquid conmendandum est, precatione, cum exposcendum, uoto, cum soluendum, gratulatione, cum inquirendum uel extis uel sortibus, inpetrito, cum sollemni ritu peragendum, sacrificio, quo etiam ostentorum ac fulgurum denuntiationes procurantur.
+1.1.1 Maiores statas sollemnesque caerimonias pontificum scientia, bene gerendarum rerum auctoritates augurum obseruatione, Apollinis praedictiones uatum libris, portentorum depulsi<one>s Etrusca disciplina explicari uoluerunt. prisco etiam instituto rebus diuinis opera datur, cum aliquid conmendandum est, precatione, cum exposcendum, uoto, cum soluendum, gratulatione, cum inquirendum uel extis uel sortibus, inpetrito, cum sollemni ritu peragendum, sacrificio, quo etiam ostentorum ac fulgurum denuntiationes procurantur.
  
 
  
@@ -29,7 +29,7 @@ Cuius cum in urbe pulcherrimum templum haberent, Gracchano tumultu moniti Sibyll
  
 
  
-1.1.2 Metellus vero pontifex maximus Postumium consulem eundemque flaminem Martialem ad bellum gerendum Africam petentem, ne a sacris discederet, multa dicta urbem egredi passus non est, religionique summum imperium cessit, quo&lt;d&gt; tuto se Postumius Martio certamini conmissurus non uidebatur caerimoniis Martis desertis.
+1.1.2 Metellus vero pontifex maximus Postumium consulem eundemque flaminem Martialem ad bellum gerendum Africam petentem, ne a sacris discederet, multa dicta urbem egredi passus non est, religionique summum imperium cessit, quo<d> tuto se Postumius Martio certamini conmissurus non uidebatur caerimoniis Martis desertis.
  
 
  
@@ -37,11 +37,11 @@ Cuius cum in urbe pulcherrimum templum haberent, Gracchano tumultu moniti Sibyll
  
 
  
-1.1.4 Consimili ratione P. Cloelius &lt;Siculus&gt;, M. Cornelius Cethegus, C. Claudius propter exta parum curiose admota [deorum inmortalium &lt;aris&gt; uariis temporibus bellisque diuersis] flaminio abire iussi sunt coactique etiam.
+1.1.4 Consimili ratione P. Cloelius <Siculus>, M. Cornelius Cethegus, C. Claudius propter exta parum curiose admota [deorum inmortalium <aris> uariis temporibus bellisque diuersis] flaminio abire iussi sunt coactique etiam.
  
 
  
-1.1.5 At &lt;Q.&gt; Sulpicio inter sacrificandum e capite apex prolapsus idem sacerdotium abstulit, occentusque soricis auditus Fabio Maximo dictaturam, C. Flaminio magisterium equitum deponendi causam praebuit.
+1.1.5 At <Q.> Sulpicio inter sacrificandum e capite apex prolapsus idem sacerdotium abstulit, occentusque soricis auditus Fabio Maximo dictaturam, C. Flaminio magisterium equitum deponendi causam praebuit.
  
 
  
@@ -53,7 +53,7 @@ Cuius cum in urbe pulcherrimum templum haberent, Gracchano tumultu moniti Sibyll
  
 
  
-1.1.8 Non mirum igitur, si pro eo imperio augendo custodiendoque pertinax deorum indulgentia semper excubuit, quo tam scrupulosa cura paruula quoque momenta religionis examinari uidentur, quia numquam remotos ab exactissimo cultu caerimoniarum oculos habuisse nostra ciuitas existimanda est. in qua cum &lt;M.&gt; Marcellus quintum consulatum gerens templum Honori et Virtuti Clastidio prius, deinde Syracusis potitus nuncupatis debitum uotis consecrare uellet, a collegio pontificum inpeditus est, negante unam cellam duobus diis recte dicari: futurum enim, si quid prodigii in ea accidisset, ne dinosceretur utri rem diuinam fieri oporteret, nec duobus nisi certis diis una sacrificari solere. ea pontificum admonitione effectum est ut Marcellus separatis aedibus Honoris ac Virtutis simulacra statueret, neque aut collegio pontificum auctoritas amplissimi uiri aut Marcello adiectio inpensae inpedimento fuit quo minus religionibus suus tenor suaque obseruatio redderetur.
+1.1.8 Non mirum igitur, si pro eo imperio augendo custodiendoque pertinax deorum indulgentia semper excubuit, quo tam scrupulosa cura paruula quoque momenta religionis examinari uidentur, quia numquam remotos ab exactissimo cultu caerimoniarum oculos habuisse nostra ciuitas existimanda est. in qua cum <M.> Marcellus quintum consulatum gerens templum Honori et Virtuti Clastidio prius, deinde Syracusis potitus nuncupatis debitum uotis consecrare uellet, a collegio pontificum inpeditus est, negante unam cellam duobus diis recte dicari: futurum enim, si quid prodigii in ea accidisset, ne dinosceretur utri rem diuinam fieri oporteret, nec duobus nisi certis diis una sacrificari solere. ea pontificum admonitione effectum est ut Marcellus separatis aedibus Honoris ac Virtutis simulacra statueret, neque aut collegio pontificum auctoritas amplissimi uiri aut Marcello adiectio inpensae inpedimento fuit quo minus religionibus suus tenor suaque obseruatio redderetur.
  
 
  
@@ -73,7 +73,7 @@ Cuius cum in urbe pulcherrimum templum haberent, Gracchano tumultu moniti Sibyll
  
 
  
-1.1.13 Tarquinius autem rex M. Atilium duumuirum, quod librum secreta ri&lt;tu&gt;um ciuilium sacrorum continentem, custodiae suae conmissum corruptus Petronio Sabino describendum dedisset, culleo insutum in mare abici iussit, idque supplicii genus multo post parricidis lege inrogatum est, iustissime quidem, quia pari uindicta parentum ac deorum uiolatio expianda est.
+1.1.13 Tarquinius autem rex M. Atilium duumuirum, quod librum secreta ri<tu>um ciuilium sacrorum continentem, custodiae suae conmissum corruptus Petronio Sabino describendum dedisset, culleo insutum in mare abici iussit, idque supplicii genus multo post parricidis lege inrogatum est, iustissime quidem, quia pari uindicta parentum ac deorum uiolatio expianda est.
  
 
  
@@ -89,7 +89,7 @@ Cuius cum in urbe pulcherrimum templum haberent, Gracchano tumultu moniti Sibyll
  
 
  
-1.1.17 Hercules quoque detractae religionis suae et grauem et manifestam poenam exegisse traditur: nam cum Potitii sacrorum eius ritum, quem pro dono genti eorum ab ipso adsignatum uelut hereditarium optinuerant, auctore Appio censore ad humile seruorum &lt;publicorum&gt; ministerium transtulissent, omnes, qui erant numero super XXX, puberes intra annum extincti sunt nomenque Potitium in XII familias diuisum ~ prope interiit, Appius uero luminibus captus est.
+1.1.17 Hercules quoque detractae religionis suae et grauem et manifestam poenam exegisse traditur: nam cum Potitii sacrorum eius ritum, quem pro dono genti eorum ab ipso adsignatum uelut hereditarium optinuerant, auctore Appio censore ad humile seruorum <publicorum> ministerium transtulissent, omnes, qui erant numero super XXX, puberes intra annum extincti sunt nomenque Potitium in XII familias diuisum ~ prope interiit, Appius uero luminibus captus est.
  
 
  
@@ -113,7 +113,7 @@ Cuius cum in urbe pulcherrimum templum haberent, Gracchano tumultu moniti Sibyll
  
 
  
-1.1.ext.2 At non similiter Masinissa rex. cuius cum praefectus classis Melitam appulisset et aeque ex fano Iunonis dentes eburneos eximiae magnitudinis sublatos ad eum pro dono adtulisset, ut conperit unde essent aduecti, quinqueremi reportandos Melitam inque templo Iunonis conlocandos curauit, insculptos gentis suae litteris significantibus regem ignorantem eos accepisse, libenter deae reddidisse. factum &lt;magis&gt; Masinissae animo quam Punico sanguini conueniens!
+1.1.ext.2 At non similiter Masinissa rex. cuius cum praefectus classis Melitam appulisset et aeque ex fano Iunonis dentes eburneos eximiae magnitudinis sublatos ad eum pro dono adtulisset, ut conperit unde essent aduecti, quinqueremi reportandos Melitam inque templo Iunonis conlocandos curauit, insculptos gentis suae litteris significantibus regem ignorantem eos accepisse, libenter deae reddidisse. factum <magis> Masinissae animo quam Punico sanguini conueniens!
  
 
  
@@ -149,11 +149,11 @@ Cuius cum in urbe pulcherrimum templum haberent, Gracchano tumultu moniti Sibyll
  
 
  
-1.5.6 Pompeius uero Magnus in acie Pharsalica uictus a Caesare, fuga quaerens salutem cursum in insulam Cyprum, ut aliquid in ea uirium contraheret, classe direxit adpellensque ad oppidum Paphum conspexit in litore speciosum aedificium gubernatoremque interrogauit quod ei nomen esset. qui respondit Katvbas&#167;leia uocari. quae uox spem eius [quae] quantulamcumque [restabat] conminuit, neque id dissimulanter tulit: auertit enim oculos ab illis tectis ac dolorem, quem ex diro omine ceperat, gemitu patefecit.
+1.5.6 Pompeius uero Magnus in acie Pharsalica uictus a Caesare, fuga quaerens salutem cursum in insulam Cyprum, ut aliquid in ea uirium contraheret, classe direxit adpellensque ad oppidum Paphum conspexit in litore speciosum aedificium gubernatoremque interrogauit quod ei nomen esset. qui respondit Katvbas§leia uocari. quae uox spem eius [quae] quantulamcumque [restabat] conminuit, neque id dissimulanter tulit: auertit enim oculos ab illis tectis ac dolorem, quem ex diro omine ceperat, gemitu patefecit.
  
 
  
-1.5.7 M. etiam Bruti dignus admisso parricidio euentus omine designatus est, si quidem post illud nefarium opus natalem suum celebrans, cum Graecum uersum expromere uellet, ad illud potissimum Homericum referendum animo tetendit: &Egrave;ll&#147; me Mo&#149;r' &#141;lo&yuml; ka&#173; Lhto&Agrave;w &#143;ktanen u&#156;"w, qui deus Philippensi acie a Caesare et Antonio signo datus in eum tela conuertit.
+1.5.7 M. etiam Bruti dignus admisso parricidio euentus omine designatus est, si quidem post illud nefarium opus natalem suum celebrans, cum Graecum uersum expromere uellet, ad illud potissimum Homericum referendum animo tetendit: Èll“ me Mo•r' loÿ ka­ LhtoÀw ktanen uœ"w, qui deus Philippensi acie a Caesare et Antonio signo datus in eum tela conuertit.
  
 
  
@@ -177,7 +177,7 @@ Cuius cum in urbe pulcherrimum templum haberent, Gracchano tumultu moniti Sibyll
  
 
  
-Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestico&lt;rum&gt; oculi adnotauerunt. quod prodigium Anci regis Marci uxor Tanaquil admirata, serua natum in modum filii educauit et ad regium fastigium euexit.
+Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestico<rum> oculi adnotauerunt. quod prodigium Anci regis Marci uxor Tanaquil admirata, serua natum in modum filii educauit et ad regium fastigium euexit.
  
 
  
@@ -185,7 +185,7 @@ Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestic
  
 
  
-1.6.3 Item, cum bello acri et diutino Veientes a Romanis intra moenia conpulsi capi non possent, eaque mora non minus obsidentibus quam obsessis intolerabilis uideretur, exoptatae uictoriae iter miro prodigio di inmortales patefecerunt: subito enim Albanus lacus neque caelestibus auctus imbribus neque inundatione ullius amnis adiutus solitum stagni modum excessit. cuius rei explorandae gratia legati ad Delphicum oraculum missi rettulerunt praecipi sortibus ut aquam eius lacus emissam per agros diffunderent: sic enim Veios &lt;uenturos&gt; in potestatem populi Romani. quod prius quam legati renuntiarent, aruspex Veientium a milite nostro, quia domestici interpretes deerant, raptus et in castra perlatus futurum dixerat. ergo senatus duplici praedictione monitus eodem paene tempore et religioni paruit et hostium urbe potitus est.
+1.6.3 Item, cum bello acri et diutino Veientes a Romanis intra moenia conpulsi capi non possent, eaque mora non minus obsidentibus quam obsessis intolerabilis uideretur, exoptatae uictoriae iter miro prodigio di inmortales patefecerunt: subito enim Albanus lacus neque caelestibus auctus imbribus neque inundatione ullius amnis adiutus solitum stagni modum excessit. cuius rei explorandae gratia legati ad Delphicum oraculum missi rettulerunt praecipi sortibus ut aquam eius lacus emissam per agros diffunderent: sic enim Veios <uenturos> in potestatem populi Romani. quod prius quam legati renuntiarent, aruspex Veientium a milite nostro, quia domestici interpretes deerant, raptus et in castra perlatus futurum dixerat. ergo senatus duplici praedictione monitus eodem paene tempore et religioni paruit et hostium urbe potitus est.
  
 
  
@@ -193,7 +193,7 @@ Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestic
  
 
  
-1.6.5 Praecipuae admirationis etiam illa prodigia, quae C. Volumnio Ser. Sulpicio consulibus in urbe nostra inter initia motusque bellorum acciderunt: bos namque mugitu suo in sermonem humanum conuerso nouitate monstri audientium animos exterruit. carnis quoque in modum nimbi dissipatae partes ceciderunt, quarum maiorem numerum praepetes diripuerunt aues, reliquum humi per aliquot dies neque odore taetro neque deformi aspectu mutatum iacuit. Eiusdem generis monstra alio tumultu credita sunt: puerum infantem semenstrem in foro boario triumphum &lt;clamasse&gt;, alium cum elephantino capite natum, in Piceno lapidibus pluisse, in Gallia lupum uigili e uagina gladium abstulisse, in Sardinia scuta duo sanguinem sudasse, Antii metentibus cruentas spicas in corbem decidisse, Caerites aquas sanguine mixtas fluxisse. bello etiam Punico secundo constitit Cn. Domiti bouem dixisse 'caue tibi, Roma'.
+1.6.5 Praecipuae admirationis etiam illa prodigia, quae C. Volumnio Ser. Sulpicio consulibus in urbe nostra inter initia motusque bellorum acciderunt: bos namque mugitu suo in sermonem humanum conuerso nouitate monstri audientium animos exterruit. carnis quoque in modum nimbi dissipatae partes ceciderunt, quarum maiorem numerum praepetes diripuerunt aues, reliquum humi per aliquot dies neque odore taetro neque deformi aspectu mutatum iacuit. Eiusdem generis monstra alio tumultu credita sunt: puerum infantem semenstrem in foro boario triumphum <clamasse>, alium cum elephantino capite natum, in Piceno lapidibus pluisse, in Gallia lupum uigili e uagina gladium abstulisse, in Sardinia scuta duo sanguinem sudasse, Antii metentibus cruentas spicas in corbem decidisse, Caerites aquas sanguine mixtas fluxisse. bello etiam Punico secundo constitit Cn. Domiti bouem dixisse 'caue tibi, Roma'.
  
 
  
@@ -201,7 +201,7 @@ Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestic
  
 
  
-1.6.7 Flamini autem praecipitem audaciam C. Hostilius Mancinus uaesana perseuerantia subsequitur. cui consuli in Hispaniam ituro haec prodigia acciderunt: cum Lauinii sacrificium facere uellet, pulli cauea emissi in proximam siluam fugerunt summaque diligentia quaesiti reperiri nequiuerunt. cum ab Herculis portu, quo pedibus peruenerat, nauem conscenderet, talis uox sine ullo auctore ad aures eius peruenit, 'Mancine, mane'. qua territus, cum itinere conuerso Genuam petisset et ibi scapham esset ingressus, anguis eximiae magnitudinis uisus e conspectu abiit. ergo prodigiorum &lt;numerum&gt; numero calamitatium aequauit, infelici pugna, turpi foedere, deditione funesta.
+1.6.7 Flamini autem praecipitem audaciam C. Hostilius Mancinus uaesana perseuerantia subsequitur. cui consuli in Hispaniam ituro haec prodigia acciderunt: cum Lauinii sacrificium facere uellet, pulli cauea emissi in proximam siluam fugerunt summaque diligentia quaesiti reperiri nequiuerunt. cum ab Herculis portu, quo pedibus peruenerat, nauem conscenderet, talis uox sine ullo auctore ad aures eius peruenit, 'Mancine, mane'. qua territus, cum itinere conuerso Genuam petisset et ibi scapham esset ingressus, anguis eximiae magnitudinis uisus e conspectu abiit. ergo prodigiorum <numerum> numero calamitatium aequauit, infelici pugna, turpi foedere, deditione funesta.
  
 
  
@@ -209,15 +209,15 @@ Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestic
  
 
  
-1.6.9 Et consulatus collegium et erroris societas et par genus mortis a Ti. Graccho ad &lt;M.&gt; Marcelli memoriam me trahit. is captarum Syracusarum et Hannibalis ante Nolana moenia a se primum fugere coacti gloria inflammatus, cum summo studio niteretur ut Poenorum exercitum aut in Italia prosterneret aut Italia pelleret, sollemnique sacrificio uoluntates deorum exploraret, quae prima hostia ante foculum cecidit, eius iecur sine capite inuentum est, proxima caput iocinoris duplex habuit. quibus inspectis aruspex tristi uultu non placere sibi exta, quia secundum truncata laeta apparuissent, respondit. ita monitus M. Marcellus ne quid temere conaretur, insequenti nocte speculandi gratia cum paucis egredi ausus, a multitudine hostium in Bruttis circumuentus aeque magnum dolorem ac detrimentum patriae interitu suo attulit.
+1.6.9 Et consulatus collegium et erroris societas et par genus mortis a Ti. Graccho ad <M.> Marcelli memoriam me trahit. is captarum Syracusarum et Hannibalis ante Nolana moenia a se primum fugere coacti gloria inflammatus, cum summo studio niteretur ut Poenorum exercitum aut in Italia prosterneret aut Italia pelleret, sollemnique sacrificio uoluntates deorum exploraret, quae prima hostia ante foculum cecidit, eius iecur sine capite inuentum est, proxima caput iocinoris duplex habuit. quibus inspectis aruspex tristi uultu non placere sibi exta, quia secundum truncata laeta apparuissent, respondit. ita monitus M. Marcellus ne quid temere conaretur, insequenti nocte speculandi gratia cum paucis egredi ausus, a multitudine hostium in Bruttis circumuentus aeque magnum dolorem ac detrimentum patriae interitu suo attulit.
  
 
  
-1.6.10 Nam Octauius consul dirum omen quemadmodum timuit, ita uitare non potuit: e simulacro enim Apollinis per se abrupto capite et ita infixo humi, ut auelli nequiret, armis cum collega suo dissidens Cinna praesumpsit animo ea re significari exi tium suum in quem &eth; metus augurium tristi fine uitae incidit, ac tum demum immobile dei caput terra refigi potuit.
+1.6.10 Nam Octauius consul dirum omen quemadmodum timuit, ita uitare non potuit: e simulacro enim Apollinis per se abrupto capite et ita infixo humi, ut auelli nequiret, armis cum collega suo dissidens Cinna praesumpsit animo ea re significari exi tium suum in quem ð metus augurium tristi fine uitae incidit, ac tum demum immobile dei caput terra refigi potuit.
  
 
  
-1.6.11 Non sinit nos M. Crassus, inter grauissimas Romani imperii iacturas numerandus, hoc loco de se silentium agere, plurimis et euidentissimis ante tantam ruinam monstrorum pulsatus ictibus. ducturus erat a Carris aduersus Parthos exercitum. pullum ei traditum est paludamentum, cum in proelium exeuntibus album aut purpureum dari soleat. maesti et taciti milites ad principia conuenerunt, qui uetere instituto cum clamore alacri adcurrere debebant. aquilarum altera uix conuelli a primo pilo potuit, altera aegerrime extracta in contrariam ac ferebatur partem se ipsa conuertit. magna haec prodigia, sed [et] illae clades aliquanto maiores, tot pulcherrimarum legionum interitus, tam multa signa hosti&lt;li&gt;bus intercepta manibus, tantum Romanae militiae decus barbarorum obtritum equitatu, optimae indolis filii cruore paterni respersi oculi, corpus imperatoris inter promiscuas cadauerum strues auium ferarumque laniatibus obiectum. uellem quidem placidius, ~ sed quod relatu uerum est. sic deorum spreti monitus excandescunt, sic humana consilia castigantur, ubi se caelestibus praeferunt.
+1.6.11 Non sinit nos M. Crassus, inter grauissimas Romani imperii iacturas numerandus, hoc loco de se silentium agere, plurimis et euidentissimis ante tantam ruinam monstrorum pulsatus ictibus. ducturus erat a Carris aduersus Parthos exercitum. pullum ei traditum est paludamentum, cum in proelium exeuntibus album aut purpureum dari soleat. maesti et taciti milites ad principia conuenerunt, qui uetere instituto cum clamore alacri adcurrere debebant. aquilarum altera uix conuelli a primo pilo potuit, altera aegerrime extracta in contrariam ac ferebatur partem se ipsa conuertit. magna haec prodigia, sed [et] illae clades aliquanto maiores, tot pulcherrimarum legionum interitus, tam multa signa hosti<li>bus intercepta manibus, tantum Romanae militiae decus barbarorum obtritum equitatu, optimae indolis filii cruore paterni respersi oculi, corpus imperatoris inter promiscuas cadauerum strues auium ferarumque laniatibus obiectum. uellem quidem placidius, ~ sed quod relatu uerum est. sic deorum spreti monitus excandescunt, sic humana consilia castigantur, ubi se caelestibus praeferunt.
  
 
  
@@ -245,7 +245,7 @@ Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestic
  
 
  
-1.7.2 Augustum uero praeter naturalem animi in omnibus rebus subtiliter perspiciendis uigorem etiam recens et domesticum exemplum ut Artori somnio obtemperaret admonuit: audiuerat enim diui Iuli patris sui uxorem Calpurniam nocte, quam is ultimam in terris egit, in quiete uidisse multis eum confectum uulneribus in suo sinu iacentem, somnique atrocitate uehementer exterritam rogare non destitisse ut proximo die curia se abstineret. at illum, ne muliebri somnio motus id fecisse existimaretur, senatum, in quo ei parricidarum manus adlatae sunt, habere contendisse. ~ non est inter patrem et filium ullius rei conparationem fieri praesertim diuinitatis fastigio iunctos, sed iam alter operibus suis aditum sibi ad caelum struxerat, alteri longus adhuc terrestrium uirtutum orbis restabat. quapropter ab hoc tantummodo &lt;im&gt;pendentem mutationem status cognosci, ab illo etiam differri dii immortales uoluerunt, ut aliud caelo decus daretur, aliud promitteretur.
+1.7.2 Augustum uero praeter naturalem animi in omnibus rebus subtiliter perspiciendis uigorem etiam recens et domesticum exemplum ut Artori somnio obtemperaret admonuit: audiuerat enim diui Iuli patris sui uxorem Calpurniam nocte, quam is ultimam in terris egit, in quiete uidisse multis eum confectum uulneribus in suo sinu iacentem, somnique atrocitate uehementer exterritam rogare non destitisse ut proximo die curia se abstineret. at illum, ne muliebri somnio motus id fecisse existimaretur, senatum, in quo ei parricidarum manus adlatae sunt, habere contendisse. ~ non est inter patrem et filium ullius rei conparationem fieri praesertim diuinitatis fastigio iunctos, sed iam alter operibus suis aditum sibi ad caelum struxerat, alteri longus adhuc terrestrium uirtutum orbis restabat. quapropter ab hoc tantummodo <im>pendentem mutationem status cognosci, ab illo etiam differri dii immortales uoluerunt, ut aliud caelo decus daretur, aliud promitteretur.
  
 
  
@@ -253,7 +253,7 @@ Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestic
  
 
  
-1.7.4 Sequitur aeque ad publicam religionem pertinens somnium. cum plebeis quidam ludis pater familias per circum Flaminium, prius quam pompa induceretur, seruum suum uerberibus mulcatum sub furca ad supplicium egisset, &lt;T&gt;. Latinio homini ex plebe Iuppiter in quiete praecepit ut consulibus diceret sibi praesultorem ludis circensibus proximis non placuisse: quae res nisi adtenta ludorum instauratione expiata esset, secuturum non mediocre urbis periculum. ille ueritus ne cum aliquo incommodo suo religione summum implicaret imperium, silentium egit, e uestigioque filius eius subita ui morbi correptus interiit. ipse etiam per quietem ab eodem deo interrogatus an satis magnam poenam neglecti imperii sui pependisset, in proposito perseuerans debilitate corporis solutus est ac tum demum ex consilio amicorum lecticula ad tribunal consulum et inde ad senatum perlatus ordine totius casus sui exposito magna cum omnium admiratione recuperata membrorum firmitate pedibus domum rediit.
+1.7.4 Sequitur aeque ad publicam religionem pertinens somnium. cum plebeis quidam ludis pater familias per circum Flaminium, prius quam pompa induceretur, seruum suum uerberibus mulcatum sub furca ad supplicium egisset, <T>. Latinio homini ex plebe Iuppiter in quiete praecepit ut consulibus diceret sibi praesultorem ludis circensibus proximis non placuisse: quae res nisi adtenta ludorum instauratione expiata esset, secuturum non mediocre urbis periculum. ille ueritus ne cum aliquo incommodo suo religione summum implicaret imperium, silentium egit, e uestigioque filius eius subita ui morbi correptus interiit. ipse etiam per quietem ab eodem deo interrogatus an satis magnam poenam neglecti imperii sui pependisset, in proposito perseuerans debilitate corporis solutus est ac tum demum ex consilio amicorum lecticula ad tribunal consulum et inde ad senatum perlatus ordine totius casus sui exposito magna cum omnium admiratione recuperata membrorum firmitate pedibus domum rediit.
  
 
  
@@ -265,7 +265,7 @@ Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestic
  
 
  
-1.7.7 Vincit huiusce somni dirum aspectum quod insequitur. apud Actium M. Antonii fractis opibus Cassius Parmensis, qui partes eius secutus fuerat, Athenas confugit. ubi concubia nocte cum sollicitudinibus et curis mente sopita in lectulo iaceret, existimauit ad se uenire hominem ingentis magnitudinis, coloris nigri, squalidum barba et capillo inmisso, interrogatumque quisnam esset respondisse kak&#142;n da&#167;mona. perterritus deinde taetro uisu et nomine horrendo seruos inclamauit sciscitatusque est ecquem talis habitus aut intrantem cubiculum aut exeuntem uidissent. quibus adfirmantibus neminem illuc accessisse, iterum se quieti et somno dedit, atque eadem animo eius obuersata species est. itaque fugato somno lumen intro ferri iussit puerosque a se discedere uetuit. inter hanc noctem et supplicium capitis, quo eum Caesar adfecit, paruulum admodum temporis intercessit.
+1.7.7 Vincit huiusce somni dirum aspectum quod insequitur. apud Actium M. Antonii fractis opibus Cassius Parmensis, qui partes eius secutus fuerat, Athenas confugit. ubi concubia nocte cum sollicitudinibus et curis mente sopita in lectulo iaceret, existimauit ad se uenire hominem ingentis magnitudinis, coloris nigri, squalidum barba et capillo inmisso, interrogatumque quisnam esset respondisse kakŽn da§mona. perterritus deinde taetro uisu et nomine horrendo seruos inclamauit sciscitatusque est ecquem talis habitus aut intrantem cubiculum aut exeuntem uidissent. quibus adfirmantibus neminem illuc accessisse, iterum se quieti et somno dedit, atque eadem animo eius obuersata species est. itaque fugato somno lumen intro ferri iussit puerosque a se discedere uetuit. inter hanc noctem et supplicium capitis, quo eum Caesar adfecit, paruulum admodum temporis intercessit.
  
 
  
@@ -273,7 +273,7 @@ Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestic
  
 
  
-1.7.ext.1 Hannibalis quoque ut detestandum Romano sanguini, ita certae praedictionis somnium, cuius non uigiliae tantum sed etiam ipsa quies hostilis imperio nostro fuit: hausit enim proposito et uotis suis conuenientem imaginem existimauitque missum sibi ab Ioue mortali specie excelsiorem iuuenem inuadendae Italiae ducem. cuius monitu primo uestigia nullam in partem &lt;deflexis&gt; secutus oculis, mox humani ingenii prona uoluntate uetita scrutandi pone respiciens animaduertit inmensae magnitudinis serpentem concitato impetu omne, quidquid obuium fuerat, proterentem postque eam magno cum caeli fragore erumpentes nimbos lucemque caliginosis inuolutam tenebris. adtonitus deinde quidnam &lt;id&gt; esset monstri et quid portenderet interrogauit. hic dux 'Italiae uides' inquit 'uastitatem: proinde sile et cetera tacitis permitte fatis'.
+1.7.ext.1 Hannibalis quoque ut detestandum Romano sanguini, ita certae praedictionis somnium, cuius non uigiliae tantum sed etiam ipsa quies hostilis imperio nostro fuit: hausit enim proposito et uotis suis conuenientem imaginem existimauitque missum sibi ab Ioue mortali specie excelsiorem iuuenem inuadendae Italiae ducem. cuius monitu primo uestigia nullam in partem <deflexis> secutus oculis, mox humani ingenii prona uoluntate uetita scrutandi pone respiciens animaduertit inmensae magnitudinis serpentem concitato impetu omne, quidquid obuium fuerat, proterentem postque eam magno cum caeli fragore erumpentes nimbos lucemque caliginosis inuolutam tenebris. adtonitus deinde quidnam <id> esset monstri et quid portenderet interrogauit. hic dux 'Italiae uides' inquit 'uastitatem: proinde sile et cetera tacitis permitte fatis'.
  
 
  
@@ -289,7 +289,7 @@ Seruio Tullio etiam tum puerulo dormienti circa caput flammam emicuisse domestic
  
 
  
-1.7.ext.5 Ne Cyrus quidem superior inuictae fatorum necessitatis paruulum argumentum est. cuius ortus ad imperium totius Asiae spectantis maternus auus Astyages duo praenuntios somnii frustra discutere temptauit, Mandanen filiam suam, quod in quiete uiderat urinam eius omnes Asiaticas gentes inundasse, non Medorum excellentissimo, ne in eius familiam regni decus transferretur, sed Persarum modicae fortunae uiro conlocando natumque Cyrum exponi iubendo, quia similiter quietis temporibus existimauerat genitali parte Mandanes &lt;e&gt;natam uitem eo usque creuisse, donec cunctas dominationis suae partes inumbraret: frustratus est enim se ipse nepotis felicitatem caelestium iudicio destinatam humanis consiliis inpedire conando.
+1.7.ext.5 Ne Cyrus quidem superior inuictae fatorum necessitatis paruulum argumentum est. cuius ortus ad imperium totius Asiae spectantis maternus auus Astyages duo praenuntios somnii frustra discutere temptauit, Mandanen filiam suam, quod in quiete uiderat urinam eius omnes Asiaticas gentes inundasse, non Medorum excellentissimo, ne in eius familiam regni decus transferretur, sed Persarum modicae fortunae uiro conlocando natumque Cyrum exponi iubendo, quia similiter quietis temporibus existimauerat genitali parte Mandanes <e>natam uitem eo usque creuisse, donec cunctas dominationis suae partes inumbraret: frustratus est enim se ipse nepotis felicitatem caelestium iudicio destinatam humanis consiliis inpedire conando.
  
 
  
@@ -333,7 +333,7 @@ Item bello Macedonico P. Vatinius Reatinae praefecturae uir noctu urbem petens e
  
 
  
-1.8.5 Valerio autem Publicola consule, qui post exactos reges bellum cum Veientibus &lt;et&gt; Etruscis gessit, illis Tarquinio pristinum imperium restituere, Romanis nuper partam libertatem retinere cupientibus, Etruscis et Tarquinio in cornu dextro proelio superioribus tantus terror subito incessit, ut non solum uictores ipsi profugerent, sed etiam pauoris sui consortes secum Veientes traherent. cuius rei pro argumento miraculum adicitur, ingens repente uox e proxima silua Arsia, quae ore Siluani in hunc paene modum missa traditur: 'uno plus e Tuscis cadent, Romanus exercitus uictor abibit'. miram dicti fidem digesta numero cadauera exhibuere.
+1.8.5 Valerio autem Publicola consule, qui post exactos reges bellum cum Veientibus <et> Etruscis gessit, illis Tarquinio pristinum imperium restituere, Romanis nuper partam libertatem retinere cupientibus, Etruscis et Tarquinio in cornu dextro proelio superioribus tantus terror subito incessit, ut non solum uictores ipsi profugerent, sed etiam pauoris sui consortes secum Veientes traherent. cuius rei pro argumento miraculum adicitur, ingens repente uox e proxima silua Arsia, quae ore Siluani in hunc paene modum missa traditur: 'uno plus e Tuscis cadent, Romanus exercitus uictor abibit'. miram dicti fidem digesta numero cadauera exhibuere.
  
 
  
@@ -345,7 +345,7 @@ Item bello Macedonico P. Vatinius Reatinae praefecturae uir noctu urbem petens e
  
 
  
-1.8.8 Facta mentione urbis, e qua primordia ciuitas nostra traxit, diuus Iulius fausta proles eius se nobis offert. quem C. Cassius numquam sine praefatione publici parricidii nominandus, cum &lt;in&gt; acie Philippensi ardentissimo animo perstaret, uidit humano habitu augustiorem, purpureo paludamento amictum, minaci uultu et concitato equo in se impetum facientem. quo aspectu perterritus tergum hosti dedit uoce illa prius emissa: 'quid enim amplius agam, si occidisse parum est?' non occideras tu quidem, Cassi, Caesarem, neque enim ulla extingui diuinitas potest, sed mortali adhuc corpore utentem uiolando meruisti ut tam infestum haberes deum.
+1.8.8 Facta mentione urbis, e qua primordia ciuitas nostra traxit, diuus Iulius fausta proles eius se nobis offert. quem C. Cassius numquam sine praefatione publici parricidii nominandus, cum <in> acie Philippensi ardentissimo animo perstaret, uidit humano habitu augustiorem, purpureo paludamento amictum, minaci uultu et concitato equo in se impetum facientem. quo aspectu perterritus tergum hosti dedit uoce illa prius emissa: 'quid enim amplius agam, si occidisse parum est?' non occideras tu quidem, Cassi, Caesarem, neque enim ulla extingui diuinitas potest, sed mortali adhuc corpore utentem uiolando meruisti ut tam infestum haberes deum.
  
 
  
@@ -357,7 +357,7 @@ Item bello Macedonico P. Vatinius Reatinae praefecturae uir noctu urbem petens e
  
 
  
-1.8.11 Sunt et illa miraculorum loco, quod deusto sacrario Saliorum nihil in eo praeter lituum Romuli integrum repertum est: quod Serui Tulli statua, &lt;cum aedis Fortunae conflagrasset, inuiolata mansit: quod Quintae Claudiae statua&gt; in uestibulo templi Matris deum posita bis ea aede incendio consumpta, prius P. Nasica Scipione [et] L. Bestia, ite&lt;ru&gt;m M. Seruilio L. Lamia consulibus, in sua basi flammis intacta stetit.
+1.8.11 Sunt et illa miraculorum loco, quod deusto sacrario Saliorum nihil in eo praeter lituum Romuli integrum repertum est: quod Serui Tulli statua, <cum aedis Fortunae conflagrasset, inuiolata mansit: quod Quintae Claudiae statua> in uestibulo templi Matris deum posita bis ea aede incendio consumpta, prius P. Nasica Scipione [et] L. Bestia, ite<ru>m M. Seruilio L. Lamia consulibus, in sua basi flammis intacta stetit.
  
 
  
@@ -377,11 +377,11 @@ Item bello Macedonico P. Vatinius Reatinae praefecturae uir noctu urbem petens e
  
 
  
-1.8.ext.4 Hoc modo fortuna saeuiens uocem ademit, illo propitia dona&lt;ui&gt;t. Echecles Samius athleta mutus, cum ei uictoriae, quam adeptus erat, titulus et praemium eriperetur, indignatione accensus uocalis euasit.
+1.8.ext.4 Hoc modo fortuna saeuiens uocem ademit, illo propitia dona<ui>t. Echecles Samius athleta mutus, cum ei uictoriae, quam adeptus erat, titulus et praemium eriperetur, indignatione accensus uocalis euasit.
  
 
  
-1.8.ext.5 Gorgiae quoque Epirotae fortis et clari uiri origo &lt;admirabilis fuit&gt;, quod in funere matris suae utero elapsus inopinato uagitu suo lectum ferentes consistere coegit nouumque spectaculum patriae praebuit, tantum non ex ipso genetricis rogo lucem et cunas adsecutus: eodem enim momento temporis altera iam fato functa &lt;pe&gt;perit, alter ante elatus quam natus est. 1.8.ext.6 Diuinae fortunae uulnus Pheraeo Iasoni * * * exitii eius cupidus intulit: nam cum inter insidias gladio eum percussisset, uomicam, quae a nullo medicorum sanari potuerat, ita rupit, ut hominem pestifero malo liberaret.
+1.8.ext.5 Gorgiae quoque Epirotae fortis et clari uiri origo <admirabilis fuit>, quod in funere matris suae utero elapsus inopinato uagitu suo lectum ferentes consistere coegit nouumque spectaculum patriae praebuit, tantum non ex ipso genetricis rogo lucem et cunas adsecutus: eodem enim momento temporis altera iam fato functa <pe>perit, alter ante elatus quam natus est. 1.8.ext.6 Diuinae fortunae uulnus Pheraeo Iasoni * * * exitii eius cupidus intulit: nam cum inter insidias gladio eum percussisset, uomicam, quae a nullo medicorum sanari potuerat, ita rupit, ut hominem pestifero malo liberaret.
  
 
  
@@ -389,7 +389,7 @@ Item bello Macedonico P. Vatinius Reatinae praefecturae uir noctu urbem petens e
  
 
  
-1.8.ext.8 Non inuitus huic subnecto Daphniten, ne quis ignoret quantum interfuerit cecinisse deorum laudes et numen obtrectasse. hic, cum eius studii esset, cuius professores sophistae uocantur, ineptae et mordacis opinationis, Apollinem Delphis inridendi causa consuluit an equum inuenire posset, cum omnino nullum habuisset. cuius ex oraculo reddita uox est, inuenturum equum, sed ut eo proturbatus periret. inde cum iocabundus quasi delusa sacrarum sortium fide reuerte&lt;re&gt;tur, incidit in regem Attalum saepe numero a se contumeliosis dictis absentem lacessitum, eiusque iussu saxo, cui nomen erat Equi, praecipitatus ad deos usque cauillandos dementis animi iusta supplicia pependit.
+1.8.ext.8 Non inuitus huic subnecto Daphniten, ne quis ignoret quantum interfuerit cecinisse deorum laudes et numen obtrectasse. hic, cum eius studii esset, cuius professores sophistae uocantur, ineptae et mordacis opinationis, Apollinem Delphis inridendi causa consuluit an equum inuenire posset, cum omnino nullum habuisset. cuius ex oraculo reddita uox est, inuenturum equum, sed ut eo proturbatus periret. inde cum iocabundus quasi delusa sacrarum sortium fide reuerte<re>tur, incidit in regem Attalum saepe numero a se contumeliosis dictis absentem lacessitum, eiusque iussu saxo, cui nomen erat Equi, praecipitatus ad deos usque cauillandos dementis animi iusta supplicia pependit.
  
 
  
@@ -405,7 +405,7 @@ Item bello Macedonico P. Vatinius Reatinae praefecturae uir noctu urbem petens e
  
 
  
-1.8.ext.12 Quid? illa nonne ludibria naturae in corporibus humanis fuisse credenda sunt, tolerabilia quidem, quia saeuitia caruerunt, ceterum et ipsa miraculis adnumeranda? nam et Prusiae regis Bith&lt;yn&gt;iae filius eodem nomine quo pater pro superiore ordine dentium unum os aequaliter extentum habuit nec ad speciem deforme neque ad usum ulla ex parte incommodum.
+1.8.ext.12 Quid? illa nonne ludibria naturae in corporibus humanis fuisse credenda sunt, tolerabilia quidem, quia saeuitia caruerunt, ceterum et ipsa miraculis adnumeranda? nam et Prusiae regis Bith<yn>iae filius eodem nomine quo pater pro superiore ordine dentium unum os aequaliter extentum habuit nec ad speciem deforme neque ad usum ulla ex parte incommodum.
  
 
  
@@ -413,7 +413,7 @@ Item bello Macedonico P. Vatinius Reatinae praefecturae uir noctu urbem petens e
  
 
  
-1.8.ext.14 Ne illius quidem paruae admirationis &lt;Strabonis&gt; oculi, quem constat tam certa acie luminum usum esse, ut a Lilybaeo portum Karthaginiensium egredientes classes intueretur.
+1.8.ext.14 Ne illius quidem paruae admirationis <Strabonis> oculi, quem constat tam certa acie luminum usum esse, ut a Lilybaeo portum Karthaginiensium egredientes classes intueretur.
  
 
  
@@ -425,7 +425,7 @@ Item bello Macedonico P. Vatinius Reatinae praefecturae uir noctu urbem petens e
  
 
  
-1.8.ext.17 Hoc loco apte referuntur Polystratus et Hippoclides philosophi, eodem die nati, eiusdem praeceptoris Epicuri sectam secuti, patrimonii etiam possidendi habendaeque scholae communione coniuncti eodemque momento temporis ultima senectute extincti. tantam &lt;et tam&gt; aequalem fortunae pariter atque amicitiae societatem quis non ipsius caelestis Concordiae sinu genitam, nutritam et finitam putet?
+1.8.ext.17 Hoc loco apte referuntur Polystratus et Hippoclides philosophi, eodem die nati, eiusdem praeceptoris Epicuri sectam secuti, patrimonii etiam possidendi habendaeque scholae communione coniuncti eodemque momento temporis ultima senectute extincti. tantam <et tam> aequalem fortunae pariter atque amicitiae societatem quis non ipsius caelestis Concordiae sinu genitam, nutritam et finitam putet?
  
 
  

@@ -17,15 +17,15 @@ DE CHOROGRAPHIA LIBER SECUNDUS
  
 
  
-[2] Hominum primi sunt Scythae Scytharumque quis singuli oculi esse dicuntur Arimaspoe, ab eis Essedones usque ad Maeotida. Huius flexum Buces amnis secat. Agathyrsi et Sauromatae ambiunt; quia pro sedibus plaustra habent dicti Amaxobioe. Obliqua tunc ad Bosphorum plaga excurrens Ponto ac Maeotide includit&lt;ur>. 
+[2] Hominum primi sunt Scythae Scytharumque quis singuli oculi esse dicuntur Arimaspoe, ab eis Essedones usque ad Maeotida. Huius flexum Buces amnis secat. Agathyrsi et Sauromatae ambiunt; quia pro sedibus plaustra habent dicti Amaxobioe. Obliqua tunc ad Bosphorum plaga excurrens Ponto ac Maeotide includit<ur>. 
  
 
  
-[3] In Paludem vergentia Satarchae tenent, in Bosphorum Cimmerica oppida Murmecion, Panticapaeon, Theodosia, Hermisium, in Euxinum mare Taurici. Super eos sinus portuosus et ideo Calos limen appellatus promunturiis duobus includitur. Alterum Criu metopon vocant, Carambico quod in Asia diximus par et adversum, Parthenion alterum. Oppidum adiacet Cherrone&lt;sus>, a Diana, si creditur, conditum, et nymphaeo specu quod in arce eius nymphis sacratum est maxime inlustre. 
+[3] In Paludem vergentia Satarchae tenent, in Bosphorum Cimmerica oppida Murmecion, Panticapaeon, Theodosia, Hermisium, in Euxinum mare Taurici. Super eos sinus portuosus et ideo Calos limen appellatus promunturiis duobus includitur. Alterum Criu metopon vocant, Carambico quod in Asia diximus par et adversum, Parthenion alterum. Oppidum adiacet Cherrone<sus>, a Diana, si creditur, conditum, et nymphaeo specu quod in arce eius nymphis sacratum est maxime inlustre. 
  
 
  
-[4] Subit tum ripam mare, et donec quinque milium passuum spatio absit a Maeotide, refugientia usque subsequens litora, quod Satarchae et Taurici tenent paene insulam reddit. Quod inter Paludem et sinum est Taphrae nominantur, sinus Carcinites. In eo urbs est Carcine, quam duo flumina Gerrhos et Ypacares uno ostio effluentia adtingunt, verum diversis fontibus et aliunde delapsa. Nam Gerrhos inter Basilidas et Nomadas, &lt;Ypacares per Nomadas> evolvitur. 
+[4] Subit tum ripam mare, et donec quinque milium passuum spatio absit a Maeotide, refugientia usque subsequens litora, quod Satarchae et Taurici tenent paene insulam reddit. Quod inter Paludem et sinum est Taphrae nominantur, sinus Carcinites. In eo urbs est Carcine, quam duo flumina Gerrhos et Ypacares uno ostio effluentia adtingunt, verum diversis fontibus et aliunde delapsa. Nam Gerrhos inter Basilidas et Nomadas, <Ypacares per Nomadas> evolvitur. 
  
 
  
@@ -73,7 +73,7 @@ DE CHOROGRAPHIA LIBER SECUNDUS
  
 
  
-[16] Paucos amnis qui in pelagus evadunt, verum celeberrimos Hebrum et Neston &lt;et> Strymona emittit. Montes interior adtollit Haemon et Rhodopen et Orbelon, sacris Liberi patris et coetu Maenadum, Orpheo primum initiante, celebratos. E quis Haemos in tantum altitudinis abit, ut Euxinum et Hadrian ex summo vertice ostendat. 
+[16] Paucos amnis qui in pelagus evadunt, verum celeberrimos Hebrum et Neston <et> Strymona emittit. Montes interior adtollit Haemon et Rhodopen et Orbelon, sacris Liberi patris et coetu Maenadum, Orpheo primum initiante, celebratos. E quis Haemos in tantum altitudinis abit, ut Euxinum et Hadrian ex summo vertice ostendat. 
  
 
  
@@ -89,7 +89,7 @@ DE CHOROGRAPHIA LIBER SECUNDUS
  
 
  
-[20] In litoribus Histro est proxima Histropolis, deinde &lt;a> Milesiis deducta Callatis, tum Tomoe et portus Caria et Tiristis promunturium, quod praetervectos alter Ponti angulus accipit, adversus Phasiaco et nisi amplior foret similis. Fuit hic Bizone, motu terrae intercidit. Est portus Crunos, urbes Dionysopolis, Odessos, Messembria, Anchialos, et intimo in sinu, atque ubi Pontus alterum sui flexum angulo finit, magna Apollonia. 
+[20] In litoribus Histro est proxima Histropolis, deinde <a> Milesiis deducta Callatis, tum Tomoe et portus Caria et Tiristis promunturium, quod praetervectos alter Ponti angulus accipit, adversus Phasiaco et nisi amplior foret similis. Fuit hic Bizone, motu terrae intercidit. Est portus Crunos, urbes Dionysopolis, Odessos, Messembria, Anchialos, et intimo in sinu, atque ubi Pontus alterum sui flexum angulo finit, magna Apollonia. 
  
 
  
@@ -129,7 +129,7 @@ DE CHOROGRAPHIA LIBER SECUNDUS
  
 
  
-[30] Tum Macedonum populi &lt;ali>quot urbes habitant, quarum Pelle est maxime inlustris. Alumni efficiunt, Philippus Graeciae domitor, Alexander etiam Asiae. In litore flexus Megybernaeus, inter promunturia Derim et Canastraeum et portum qui Cophos dicitur urbes Toronen et Myscellam atque unde ipsi nomen est Megybernam incingit. 
+[30] Tum Macedonum populi <ali>quot urbes habitant, quarum Pelle est maxime inlustris. Alumni efficiunt, Philippus Graeciae domitor, Alexander etiam Asiae. In litore flexus Megybernaeus, inter promunturia Derim et Canastraeum et portum qui Cophos dicitur urbes Toronen et Myscellam atque unde ipsi nomen est Megybernam incingit. 
  
 
  
@@ -185,7 +185,7 @@ DE CHOROGRAPHIA LIBER SECUNDUS
  
 
  
-[44] Portus Saronicus et Schoenitas et Pogonus, oppida autem Epidaurus et Troezene et Hermiona his litoribus adposita sunt. Inter Scyllaeon et Malean &lt;sinus Argolicus dicitur, inter Malean> et Taenaron Laconicus, inter Taenaron et Acritan Asinaeus, inter Acritan et Ichthyn Cyparissius. 
+[44] Portus Saronicus et Schoenitas et Pogonus, oppida autem Epidaurus et Troezene et Hermiona his litoribus adposita sunt. Inter Scyllaeon et Malean <sinus Argolicus dicitur, inter Malean> et Taenaron Laconicus, inter Taenaron et Acritan Asinaeus, inter Acritan et Ichthyn Cyparissius. 
  
 
  
@@ -221,7 +221,7 @@ DE CHOROGRAPHIA LIBER SECUNDUS
  
 
  
-[53] Vrbium quae procul a mari habitantur opulentissimae sunt ad sinistram Patavium Antenoris, Mutina et Bononia, Romanorum coloniae, ad dextram Capua a Tuscis, et Roma quondam &lt;a> pastoribus condita, nunc si pro materia dicatur alterum opus. 
+[53] Vrbium quae procul a mari habitantur opulentissimae sunt ad sinistram Patavium Antenoris, Mutina et Bononia, Romanorum coloniae, ad dextram Capua a Tuscis, et Roma quondam <a> pastoribus condita, nunc si pro materia dicatur alterum opus. 
  
 
  
@@ -433,7 +433,7 @@ DE CHOROGRAPHIA LIBER SECUNDUS
  
 
  
-[106] Sed Pithecusa, Leucothea, Aenaria, Sidonia, Capreae, Prochyta, Pontiae, Pandateria, Sinonia, Palmaria Italico lateri citra Tiberina ostia &lt;ad>iacent. 
+[106] Sed Pithecusa, Leucothea, Aenaria, Sidonia, Capreae, Prochyta, Pontiae, Pandateria, Sinonia, Palmaria Italico lateri citra Tiberina ostia <ad>iacent. 
  
 
  

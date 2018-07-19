@@ -15,7 +15,7 @@ Valerius Flaccus: Liber IV
  Atque ea non oculis divum pater amplius aequis 
 sustinuit natique pios miseratus amores 
 Iunonem ardenti trepidam gravis increpat ira: 
-'ut nova nunc tacito &lt;se&gt; pectore gaudia tollunt! 
+'ut nova nunc tacito <se> pectore gaudia tollunt! 
 haeret inops solisque furit Tirynthius oris,      5 
 at comite immemores Minyae facilesque relicto 
 alta tenent. sic Iuno ducem fovet anxia curis 
@@ -40,7 +40,7 @@ stansque super carum talis caput edere voces:
 hoc nemus, hoc fatis mihi iam domus, improba quo me 
 nympha rapit saevae monitu Iunonis, in amne. 
 nunc Iovis accessus et iam mihi limina caeli 
-conciliat iungitque &lt;toros&gt; et fontis honores. 
+conciliat iungitque <toros> et fontis honores. 
 o dolor, o dulces quas gessimus ante pharetrae!      30 
 iam socii laetis rapuerunt vincula ventis, 
 hortator postquam furiis et voce nefanda 
@@ -57,7 +57,7 @@ tum lacrimis, tum voce sequi, tum rumpere questus,
 cum sopor et vano spes maesta resolvitur actu. 
 fluctus ab undisoni ceu forte crepidine saxi 
 cum rapit halcyonis miserae fetumque laremque,      45 
-it super aegra parens queritur&lt;que&gt; tumentibus undis 
+it super aegra parens queritur<que> tumentibus undis 
 certa sequi quocumque ferant audetque pavetque, 
 icta fatiscit aquis donec domus haustaque fluctu est; 
 illa dolens vocem dedit et se sustulit alis: 
@@ -76,7 +76,7 @@ ante Iovem stetit et supplex sic fatur Apollo:
 'in quem alium Alciden, in quae iam tempora differs 
 Caucaseum, rex magne, senem? nullumne malorum 
 finem adeo poenaeque dabis? te cuncta precatur 
-gens hominum atque ipsi iam te, pater &lt;optime&gt;, montes      65 
+gens hominum atque ipsi iam te, pater <optime>, montes      65 
 fessaque cum silvis orant iuga. sat tibi furtum 
 ignis et aetheriae defensa silentia mensae!' 
 dixit ubi, e scopulis media inter pabula diri 
@@ -84,7 +84,7 @@ vulturis ipse etiam gemitu maestaque fatigat
 voce Iovem saevis relevans ambusta pruinis      70 
 lumina, congeminant amnes rupesque fragorem 
 Caucaseae, stupet ipse dei clamoribus ales. 
-tunc etiam super&lt;as&gt; Acheronte auditus ad arces 
+tunc etiam super<as> Acheronte auditus ad arces 
 Iapetus, gravis orantem procul arcet Erinys 
 respiciens celsi legem Iovis. ille dearum      75 
 fletibus et magno Phoebi commotus honore 
@@ -194,7 +194,7 @@ non quae dona deum, non quae trahat aetheris ignem,
 infelix domus et sonitu tremebunda profundi.      180 
 at varii pro rupe metus: hinc trunca rotatis 
 bracchia rapta viris strictoque immortua caestu 
-ossaque taetra situ &lt;et&gt; capitum maestissimus ordo 
+ossaque taetra situ <et> capitum maestissimus ordo 
 per piceas, quibus adverso sub vulnere nulla 
 iam facies nec nomen erat; media ipsius arma      185 
 sacra metu[que] magnique aris imposta parentis. 
@@ -205,9 +205,9 @@ donec sidereo Pollux interritus ore      190
 'te tamen hac, quicumque es,' ait 'formidine faxo 
 iam tua silva ferat, modo sint tibi sanguis et artus!' 
 omnibus idem animus forti decernere pugna 
-exoptantque virum contra&lt;que&gt; occurrere poscunt. 
+exoptantque virum contra<que> occurrere poscunt. 
 qualiter ignotis spumantem funditus amnem      195 
-&lt;. . . . . . . . . . . . . . . . . . . . .&gt; 
+<. . . . . . . . . . . . . . . . . . . . .> 
 pandit iter, mox omne pecus formidine pulsa 
 pone subit iamque et mediis procedit ab undis. 
   At procul e silvis sese gregibusque ferebat 
@@ -298,7 +298,7 @@ terga sonant. nova vis iterum, nova corpora surgunt.
 hunc pudor, hunc noto iam spes audentior hoste 
 instimulat. fumant crebro praecordia pulsu,      285 
 avia responsant gemitu iuga. pervigil ut cum 
-artificum notat Aet&lt;na&gt; manus et fulmina Cyclops 
+artificum notat Aet<na> manus et fulmina Cyclops 
 prosubigit, pulsis strepitant incudibus urbes. 
 emicat hic dextramque parat dextramque minatur 
 Tyndarides, redit huc oculis et pondere Bebryx      290 
@@ -363,7 +363,7 @@ tum pius Oeagri claro de sanguine vates
 admonita genetrice refert casusque locorum 
 Inachidosque vias pelagusque emensa iuvencae      350 
 exilia intentisque canit. 'videre priores 
-saepe Iovem &lt;in&gt; terras Argivaque regna Pelasgum 
+saepe Iovem <in> terras Argivaque regna Pelasgum 
 virginis Iasiae blandos descendere ad ignes. 
 sentit Iuno dolos curaque accensa iugali 
 aethere desiluit (dominam Lyrceia tellus      355 
@@ -399,7 +399,7 @@ cum subito Arcadio sonuit cava fistula ritu
 imperiumque patris celerans Cyllenius ales      385 
 advenit et leni modulatur carmen avena 
 "quo" que ait "hinc diversus abis? heus respice cantus!" 
-haud procul insectans Argum languentia &lt;cantu&gt; 
+haud procul insectans Argum languentia <cantu> 
 lumina cuncta notat dulcesque sequentia somnos 
 et celerem mediis in cantibus exigit harpen.      390 
 iamque refecta Iovi paulatim in imagine prisca 
@@ -407,7 +407,7 @@ ibat agris Io victrix Iunonis et ecce
 cum facibus spirisque et Tartareo ululatu 
 Tisiphonen videt: ac primo vestigia visu 
 figit et in miserae rursus bovis ora recurrit.      395 
-nec qua valle memor &lt;nec&gt; quo se vertice sistat 
+nec qua valle memor <nec> quo se vertice sistat 
 Inachias errore etiam defertur ad undas, 
 qualis et a prima quantum mutata iuvenca! 
 nec pater aut trepidae temptant accedere nymphae. 
@@ -428,7 +428,7 @@ verbera et abruptis excussi crinibus hydri.
 nec Iovis interea cessat manus: intonat alto 
 insurgens caelo genitor curamque fatetur      415 
 atque ipsa imperium Iuno pavet. haec procul Io 
-spect[ab]at ab arce &lt;Phari&gt;, iam divis addita iamque 
+spect[ab]at ab arce <Phari>, iam divis addita iamque 
 aspide cincta comas et ovanti persona sistro. 
 Bosporon hinc veteres errantis nomine divae 
 vulgavere. iuvet nostros nunc ipsa labores      420 
@@ -525,7 +525,7 @@ turbine sic rapido populos atque aequora longe      510
 transabeunt nullaque datur considere terra. 
 iamque et ad Ionii metas atque intima tendunt 
 saxa, vocat magni Strophadas nunc incola ponti. 
-hic fessae leti&lt;que&gt; metu propioris anhelae 
+hic fessae leti<que> metu propioris anhelae 
 dum trepidant humilique graves timidoque volatu      515 
 implorant clamore patrem Typhona nefando, 
 extulit adsurgens noctem pater imaque summis 
@@ -649,7 +649,7 @@ nec metuam tutaeque dapes? date tangere vultus,
 dem sinite amplexus propiusque accedite dextrae.'      635 
 dixerat. abscedunt terris et litora condunt. 
   Omnibus extemplo saeva sub imagine rupes 
-Cyaneae propior&lt;que&gt; labor. quando adfore quaque 
+Cyaneae propior<que> labor. quando adfore quaque 
 parte putent? stant ora metu nec fessa recedunt 
 lumina diversas circum servantibus undas,      640 
 cum procul auditi sonitus insanaque saxa, 
@@ -693,7 +693,7 @@ ferre ratem pelagoque dies occurrere aperto.
 sed neque permissis iam fundere rector habenis 
 vela neque eniti remis pote, cum super adsunt      680 
 Cyaneae. premit umbra ratem scopulique feruntur 
-comminus. hic &lt;Iuno&gt; praecepsque ex aethere Pallas 
+comminus. hic <Iuno> praecepsque ex aethere Pallas 
 insiliunt pariter scopulos: hunc nata coercet, 
 hunc coniunx Iovis, ut valido qui robore tauros 
 sub iuga et invito detorquet in ilia cornu.      685 
@@ -706,7 +706,7 @@ saxa sed extremis tamen increpuere corymbis
 parsque (nefas) deprensa iugis, nam cetera caelo 
 debita. conclamant Minyae, latera utraque quippe 
 dissiluisse putant. fugit ipse novissimus ictus 
-Tiphys et &lt;e&gt; mediis sequitur freta rapta ruinis      695 
+Tiphys et <e> mediis sequitur freta rapta ruinis      695 
 nec prius obsessum scopulis respexit ad aequor 
 aut sociis temptata quies, nigrantia quam iam 
 litora longinquique exirent flumina Rhebae. 
@@ -723,7 +723,7 @@ imperio fixos Iovis aeternumque revinctos
 nescius. id fati certa nam lege manebat, 
 siqua per hos undis umquam ratis isset apertis.      710 
   Tum freta, quae longis fuerant impervia saeclis, 
-ad subitam stup&lt;uer&gt;e ratem Pontique iacentis 
+ad subitam stup<uer>e ratem Pontique iacentis 
 omne solum regesque patent gentesque repostae. 
 non alibi effusis cesserunt longius undis 
 litora, non, tantas quamvis Tyrrhenus et Aegon      715 
@@ -773,7 +773,7 @@ en,' ait 'inviso solvit cui pectore poenas.'
 ille virum circa mirantia lumina volvit. 
 festa dehinc mediis ineunt convivia tectis      760 
 communesque vocant superos, quorum eruta nutu 
-Bebrycia, et votis pariter praeda&lt;que&gt; fruuntur.
+Bebrycia, et votis pariter praeda<que> fruuntur.
  
  
  

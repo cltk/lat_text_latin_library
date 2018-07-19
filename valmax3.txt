@@ -17,11 +17,11 @@ Valerius Maximus III
  
 
  
-3.1.1 Aemilius Lepidus puer etiam tum progressus in aciem hostem interemit, ciuem seruauit. cuius tam memorabilis operis index est in Capitolio statua bullata et incincta praetexta senatus consulto posita: iniquum enim putauit eum honori nondum tempestiuum uideri, qui iam uirtuti maturus fuisset. prae&lt;cu&gt;currit igitur Lepidus aetatis stabilimentum fortiter faciendi celeritate duplicemque laudem e proelio retulit, cuius eum uix spectatorem anni esse patiebantur: arma enim infesta et destricti gladii et discursus telorum et aduentantis equitatus fragor et concurrentium exercituum impetus iuuenibus quoque aliquantum terroris incutit, inter quae gentis Aemiliae pueritia coronam mereri, spolia rapere ualuit.
+3.1.1 Aemilius Lepidus puer etiam tum progressus in aciem hostem interemit, ciuem seruauit. cuius tam memorabilis operis index est in Capitolio statua bullata et incincta praetexta senatus consulto posita: iniquum enim putauit eum honori nondum tempestiuum uideri, qui iam uirtuti maturus fuisset. prae<cu>currit igitur Lepidus aetatis stabilimentum fortiter faciendi celeritate duplicemque laudem e proelio retulit, cuius eum uix spectatorem anni esse patiebantur: arma enim infesta et destricti gladii et discursus telorum et aduentantis equitatus fragor et concurrentium exercituum impetus iuuenibus quoque aliquantum terroris incutit, inter quae gentis Aemiliae pueritia coronam mereri, spolia rapere ualuit.
  
 
  
-3.1.2 Hic spiritus ne M. quidem Catonis pueritiae defuit: nam cum in domo M. Drusi auunculi sui educaretur, et ad eum tribunum pl. Latini de ciuitate inpetranda conuenissent, a Q. Poppedio Latii principe, Drusi autem hospite, rogatus ut socios apud auunculum adiuuaret, constanti uultu non facturum se respondit. iterum deinde ac saepius interpellatus in proposito perstitit. tunc Poppedius in excelsam aedium partem leuatum abiecturum inde se, nisi precibus obtemperaret, minatus est: nec hac re ab incepto moueri potuit. expressa est itaque illa uox homini: 'gratulemur nobis, Latini et socii, hunc esse tam paruum, quo senatore ne sperare quidem nobis ciuitatem licuisset'. tenero ergo animo Cato totius curiae grauitatem percepit perseuerantiaque sua Latinos iura nostrae ciuitatis adprehendere cupientes reppulit. Idem, cum salutandi gratia praetextatus ad Sullam uenisset et capita proscriptorum in atrium adlata uidisset, atrocitate rei commotus paedagogum suum nomine &lt;Sarpedonem&gt; interrogauit quapropter nemo inueniretur, qui tam crudelem tyrannum occideret: cumque is non uoluntatem hominibus, sed facultatem deesse, quod salus eius magno praesidio militum custodiretur, respondisset, ut ferrum sibi daret obsecrauit, adfirmando perfacile se eum interfecturum, quod in lecto illius considere soleret. paedagogus et animum Catonis agnouit et propositum exhorruit eumque postea ad Sullam excussum semper adduxit. nihil hoc admirabilius: puer in officina crudelitatis deprehensum uictorem non extimuit tum maxime consules, municipia, legiones, equestris ordinis maiorem partem trucidantem. ipsum Marium illo loci statuisses, celerius aliquid de sua fuga quam de Sullae nece cogitasset.
+3.1.2 Hic spiritus ne M. quidem Catonis pueritiae defuit: nam cum in domo M. Drusi auunculi sui educaretur, et ad eum tribunum pl. Latini de ciuitate inpetranda conuenissent, a Q. Poppedio Latii principe, Drusi autem hospite, rogatus ut socios apud auunculum adiuuaret, constanti uultu non facturum se respondit. iterum deinde ac saepius interpellatus in proposito perstitit. tunc Poppedius in excelsam aedium partem leuatum abiecturum inde se, nisi precibus obtemperaret, minatus est: nec hac re ab incepto moueri potuit. expressa est itaque illa uox homini: 'gratulemur nobis, Latini et socii, hunc esse tam paruum, quo senatore ne sperare quidem nobis ciuitatem licuisset'. tenero ergo animo Cato totius curiae grauitatem percepit perseuerantiaque sua Latinos iura nostrae ciuitatis adprehendere cupientes reppulit. Idem, cum salutandi gratia praetextatus ad Sullam uenisset et capita proscriptorum in atrium adlata uidisset, atrocitate rei commotus paedagogum suum nomine <Sarpedonem> interrogauit quapropter nemo inueniretur, qui tam crudelem tyrannum occideret: cumque is non uoluntatem hominibus, sed facultatem deesse, quod salus eius magno praesidio militum custodiretur, respondisset, ut ferrum sibi daret obsecrauit, adfirmando perfacile se eum interfecturum, quod in lecto illius considere soleret. paedagogus et animum Catonis agnouit et propositum exhorruit eumque postea ad Sullam excussum semper adduxit. nihil hoc admirabilius: puer in officina crudelitatis deprehensum uictorem non extimuit tum maxime consules, municipia, legiones, equestris ordinis maiorem partem trucidantem. ipsum Marium illo loci statuisses, celerius aliquid de sua fuga quam de Sullae nece cogitasset.
  
 
  
@@ -65,7 +65,7 @@ Valerius Maximus III
  
 
  
-3.2.8 Reddendus est nunc Romanae iuuentuti debitus gloriae titulus, quae C. Sempronio Atratino consule cum Volscis apud Verruginem parum prospere dimicante, ne acies nostra iam inclinata propelleretur, equis delapsa se ipsa &lt;centuriauit atque in&gt; hostium exercitum inrupit. quo demoto proximum tumulum occupauit effecitque ut omnis Volscorum conuersus impetus legionibus nostris ad confirmandos animos salutare laxamentum daret. itaque, cum iam de tropaeis statuendis cogitarent, proelium nocte dirimente uictoresne an uicti discederent incerti abierunt.
+3.2.8 Reddendus est nunc Romanae iuuentuti debitus gloriae titulus, quae C. Sempronio Atratino consule cum Volscis apud Verruginem parum prospere dimicante, ne acies nostra iam inclinata propelleretur, equis delapsa se ipsa <centuriauit atque in> hostium exercitum inrupit. quo demoto proximum tumulum occupauit effecitque ut omnis Volscorum conuersus impetus legionibus nostris ad confirmandos animos salutare laxamentum daret. itaque, cum iam de tropaeis statuendis cogitarent, proelium nocte dirimente uictoresne an uicti discederent incerti abierunt.
  
 
  
@@ -73,7 +73,7 @@ Valerius Maximus III
  
 
  
-3.2.10 Qualis deinde roboris illi milites, qui uehementi ictu remorum concitatam fuga Punicam &lt;classem nantes lubricis pelagi quasi cam&gt;porum firmitate pedites in litus retraxerunt?
+3.2.10 Qualis deinde roboris illi milites, qui uehementi ictu remorum concitatam fuga Punicam <classem nantes lubricis pelagi quasi cam>porum firmitate pedites in litus retraxerunt?
  
 
  
@@ -85,7 +85,7 @@ Valerius Maximus III
  
 
  
-3.2.13 Eodem mentis proposito usus est Scipio &lt;Metellus&gt;: namque infeliciter Cn. Pompei generi sui defensis in Africa partibus classe Hispaniam petens, cum animaduertisset nauem, qua uehebatur, ab hostibus captam, gladio praecordia sua transuerberauit, ac deinde prostratus in puppi quaerentibus Caesarianis militibus ubinam esset imperator respondit 'imperator se bene habet', tantumque eloqui ualuit, quantum ad testandam animi fortitudinem aeternae laudi satis erat.
+3.2.13 Eodem mentis proposito usus est Scipio <Metellus>: namque infeliciter Cn. Pompei generi sui defensis in Africa partibus classe Hispaniam petens, cum animaduertisset nauem, qua uehebatur, ab hostibus captam, gladio praecordia sua transuerberauit, ac deinde prostratus in puppi quaerentibus Caesarianis militibus ubinam esset imperator respondit 'imperator se bene habet', tantumque eloqui ualuit, quantum ad testandam animi fortitudinem aeternae laudi satis erat.
  
 
  
@@ -101,7 +101,7 @@ Valerius Maximus III
  
 
  
-3.2.17 Togae quoque fortitudo militaribus operibus inserenda est, quia eandem laudem foro atque castris edita meretur. cum Ti. Gracchus in tribunatu profusissimis largitionibus fauore populi occupato rem publicam oppressam teneret palamque dictitaret interempto senatu omnia per plebem agi debere, in aedem Fidei Publicae conuocati patres conscripti a consule Mucio Scaeuola quidnam in tali tempestate faciendum esset deliberabant, cunctisque censentibus ut consul armis rem publicam tueretur, Scaeuola negauit se quicquam ui esse acturum. tum Scipio Nasica, 'quoniam' inquit 'consul, dum iuris ordinem sequitur, id agit, ut cum omnibus legibus Romanum imperium corruat, egomet me priuatus uoluntati uestrae ducem offero', ac deinde laeuam manum &lt;im&gt;a parte togae circumdedit sublataque dextra proclamauit: 'qui rem publicam saluam esse uolunt me sequantur', eaque uoce cunctatione bonorum ciuium discussa Gracchum cum scelerata factione quas merebatur poenas persoluere coegit.
+3.2.17 Togae quoque fortitudo militaribus operibus inserenda est, quia eandem laudem foro atque castris edita meretur. cum Ti. Gracchus in tribunatu profusissimis largitionibus fauore populi occupato rem publicam oppressam teneret palamque dictitaret interempto senatu omnia per plebem agi debere, in aedem Fidei Publicae conuocati patres conscripti a consule Mucio Scaeuola quidnam in tali tempestate faciendum esset deliberabant, cunctisque censentibus ut consul armis rem publicam tueretur, Scaeuola negauit se quicquam ui esse acturum. tum Scipio Nasica, 'quoniam' inquit 'consul, dum iuris ordinem sequitur, id agit, ut cum omnibus legibus Romanum imperium corruat, egomet me priuatus uoluntati uestrae ducem offero', ac deinde laeuam manum <im>a parte togae circumdedit sublataque dextra proclamauit: 'qui rem publicam saluam esse uolunt me sequantur', eaque uoce cunctatione bonorum ciuium discussa Gracchum cum scelerata factione quas merebatur poenas persoluere coegit.
  
 
  
@@ -121,15 +121,15 @@ Valerius Maximus III
  
 
  
-3.2.22 Ne Acilium quidem praeterire possumus, qui, cum decumae legionis miles pro C. Caesaris partibus maritima pugna proeliaretur, abscisa dextra, quam Massiliensium naui iniecerat, laeua puppim adprehendit nec ante dimicare destitit quam captam profundo mergeret. quod factum parum iusta notitia patet. at Cynaegirum Atheniensem simili pertinacia in consectandis hostibus usum uerbosa cantu laudum suarum Graecia omnium saeculorum memoriae litterarum praeconio inculca&lt;ui&gt;t.
+3.2.22 Ne Acilium quidem praeterire possumus, qui, cum decumae legionis miles pro C. Caesaris partibus maritima pugna proeliaretur, abscisa dextra, quam Massiliensium naui iniecerat, laeua puppim adprehendit nec ante dimicare destitit quam captam profundo mergeret. quod factum parum iusta notitia patet. at Cynaegirum Atheniensem simili pertinacia in consectandis hostibus usum uerbosa cantu laudum suarum Graecia omnium saeculorum memoriae litterarum praeconio inculca<ui>t.
  
 
  
-3.2.23 Classicam Acilii gloriam terrestri laude M. Caesius Scaeua eiusdem imperatoris centurio subsecutus est: cum pro castello enim, cui praepositus erat, dimicaret, Gnaeique Pompei praefectus Iustuleius summo studio et magno militum numero ad ~ eum capiendum niteretur, omnes, qui propius accesserant, interemit ac sine ullo regressu pedis pugnans super ingentem stragem, quam ipse fecerat, conruit. cuius capite, umero, femine saucio, oculo eruto, scutum c et xx ictibus perfossum apparuit. talis in ca stris diui Iuli disciplina milites aluit, quorum alter dextera, alter oculo amisso hostibus inhaesit, ille post hanc iacturam uictor, hic ne hac quidem iactura uictus. Tuum uero, Scaeui, inexuperabilem spiritum in utra parte rerum naturae admiratione prosequar nescio, quoniam excellenti uirtute dubium reliquisti inter undasne pugnam fortiorem edideris an in terra uocem miseris: bello namque, quo C. Caesar non contentus opera sua litoribus Oceani claudere Britannicae insulae caelestis iniecit manus, cum quattuor conmilitonibus rate transuectus in scopulum uicinum insulae, quam hostium ingentes copiae obtinebant, postquam aestus regressu suo spatium, quo scopulus et insula diuidebantur, in uadum transitu facile redegit, ingenti multitudine barbarorum adfluente, ceteris rate ad litus regressis solus immobilem stationis gradum retinens, undique ruentibus telis et ab omni parte acri studio ad te inuadendum nitentibus, quinque militum diurno proelio suffectura pila una dextera hostium corporibus adegisti. ad ultimum destricto gladio audacissimum quemque modo umbonis inpulsu, modo mucronis ictu depellens hinc Romanis, illinc Britannicis oculis incredibili, nisi cernereris, spectaculo fuisti. postquam deinde ira ac pudor cuncta conari fessos coegit, tragula femur traiectus saxique pondere ora contusus, galea iam ictibus discussa et scuto crebris foraminibus absumpto, profundo te credidisti ac duabus loricis onustus inter undas, quas hostili cruore infe ceras, enasti, uisoque imperatore armis non amissis, sed bene inpensis, cum laudem mere&lt;re&gt;ris, ueniam petisti, &lt;quod sine scuto redisses,&gt; magnus proelio, sed maior disciplinae militaris memoria. itaque ab optimo uirtutis aestimatore cum facta tum etiam uerba tua centurionatus honore d&lt;on&gt;ata sunt.
+3.2.23 Classicam Acilii gloriam terrestri laude M. Caesius Scaeua eiusdem imperatoris centurio subsecutus est: cum pro castello enim, cui praepositus erat, dimicaret, Gnaeique Pompei praefectus Iustuleius summo studio et magno militum numero ad ~ eum capiendum niteretur, omnes, qui propius accesserant, interemit ac sine ullo regressu pedis pugnans super ingentem stragem, quam ipse fecerat, conruit. cuius capite, umero, femine saucio, oculo eruto, scutum c et xx ictibus perfossum apparuit. talis in ca stris diui Iuli disciplina milites aluit, quorum alter dextera, alter oculo amisso hostibus inhaesit, ille post hanc iacturam uictor, hic ne hac quidem iactura uictus. Tuum uero, Scaeui, inexuperabilem spiritum in utra parte rerum naturae admiratione prosequar nescio, quoniam excellenti uirtute dubium reliquisti inter undasne pugnam fortiorem edideris an in terra uocem miseris: bello namque, quo C. Caesar non contentus opera sua litoribus Oceani claudere Britannicae insulae caelestis iniecit manus, cum quattuor conmilitonibus rate transuectus in scopulum uicinum insulae, quam hostium ingentes copiae obtinebant, postquam aestus regressu suo spatium, quo scopulus et insula diuidebantur, in uadum transitu facile redegit, ingenti multitudine barbarorum adfluente, ceteris rate ad litus regressis solus immobilem stationis gradum retinens, undique ruentibus telis et ab omni parte acri studio ad te inuadendum nitentibus, quinque militum diurno proelio suffectura pila una dextera hostium corporibus adegisti. ad ultimum destricto gladio audacissimum quemque modo umbonis inpulsu, modo mucronis ictu depellens hinc Romanis, illinc Britannicis oculis incredibili, nisi cernereris, spectaculo fuisti. postquam deinde ira ac pudor cuncta conari fessos coegit, tragula femur traiectus saxique pondere ora contusus, galea iam ictibus discussa et scuto crebris foraminibus absumpto, profundo te credidisti ac duabus loricis onustus inter undas, quas hostili cruore infe ceras, enasti, uisoque imperatore armis non amissis, sed bene inpensis, cum laudem mere<re>ris, ueniam petisti, <quod sine scuto redisses,> magnus proelio, sed maior disciplinae militaris memoria. itaque ab optimo uirtutis aestimatore cum facta tum etiam uerba tua centurionatus honore d<on>ata sunt.
  
 
  
-3.2.24 Sed quod ad proeliatorum excellentem fortitudinem adtinet, merito L. Sicci Dentati commemoratio omnia Romana exempla finierit, cuius opera honoresque operum ultra fidem ueri excedere iudicari possent, nisi ea certi auctores, inter quos M. Varro, monumentis suis testata esse uoluissent. quem centies et uicies in aciem descendisse tradunt, eo robore animi atque corporis utentem, ut maiorem semper uictoriae partem traxisse uideretur: sex et xxx spolia ex hoste retulisse, quorum in numero octo fuisse &lt;eorum&gt;, cum quibus inspectante utroque exercitu ex prouocatione dimicasset, xiiii ciues ex media morte raptos seruasse, v et xl uulnera pectore excepisse, tergo cicatricibus uacuo: nouem triumphales imperatorum currus secutum, totius ciuitatis oculos in se numerosa donorum pompa conuertentem: praeferebantur enim aureae coronae octo, ciuicae xiiii, murales iii, obsidionalis i, torques lxxxiii, armillae clx, hastae xviii, phalerae xxv, ornamenta etiam legioni, nedum militi satis multa.
+3.2.24 Sed quod ad proeliatorum excellentem fortitudinem adtinet, merito L. Sicci Dentati commemoratio omnia Romana exempla finierit, cuius opera honoresque operum ultra fidem ueri excedere iudicari possent, nisi ea certi auctores, inter quos M. Varro, monumentis suis testata esse uoluissent. quem centies et uicies in aciem descendisse tradunt, eo robore animi atque corporis utentem, ut maiorem semper uictoriae partem traxisse uideretur: sex et xxx spolia ex hoste retulisse, quorum in numero octo fuisse <eorum>, cum quibus inspectante utroque exercitu ex prouocatione dimicasset, xiiii ciues ex media morte raptos seruasse, v et xl uulnera pectore excepisse, tergo cicatricibus uacuo: nouem triumphales imperatorum currus secutum, totius ciuitatis oculos in se numerosa donorum pompa conuertentem: praeferebantur enim aureae coronae octo, ciuicae xiiii, murales iii, obsidionalis i, torques lxxxiii, armillae clx, hastae xviii, phalerae xxv, ornamenta etiam legioni, nedum militi satis multa.
  
 
  
@@ -149,7 +149,7 @@ Valerius Maximus III
  
 
  
-3.2.ext.5 Excellentissimos Spartanae uirtutis prouentus mi&lt;se&gt;rabilis lapsus sequitur. Epaminondas, maxima Thebarum felicitas idemque Lacedaemonis prima clades, cum uetustam eius urbis gloriam inuictamque ad id tempus publicam uirtutem apud Leuctram et Mantineam secundis proeliis contudisset, traiectus hasta, sanguine et spiritu deficiens recreare se cocantes primum an clypeus suus saluus esset, deinde an penitus fusi hostes forent interrogauit. quae postquam ex animi sententia conperit, 'non finis' inquit, 'conmilitones, uitae meae, sed melius et ~ athius initium aduenit: nunc enim uester Epaminondas nascitur, quia sic moritur. Thebas ductu et auspiciis meis caput Graeciae factas uideo, et fortis et animosa ciuitas Spartana iacet armis nostris abiecta: amara dominatione Graecia liberata est. orbus quoque, non tamen sine liberis morior, quoniam mirificas filias Leuctram et Mantineam relinquo'. e corpore deinde suo hastam educi iussit eoque uultu expirauit, quo, si eum di inmortales uictoriis suis perfrui passi essent, sospes patriae moenia intrasset.
+3.2.ext.5 Excellentissimos Spartanae uirtutis prouentus mi<se>rabilis lapsus sequitur. Epaminondas, maxima Thebarum felicitas idemque Lacedaemonis prima clades, cum uetustam eius urbis gloriam inuictamque ad id tempus publicam uirtutem apud Leuctram et Mantineam secundis proeliis contudisset, traiectus hasta, sanguine et spiritu deficiens recreare se cocantes primum an clypeus suus saluus esset, deinde an penitus fusi hostes forent interrogauit. quae postquam ex animi sententia conperit, 'non finis' inquit, 'conmilitones, uitae meae, sed melius et ~ athius initium aduenit: nunc enim uester Epaminondas nascitur, quia sic moritur. Thebas ductu et auspiciis meis caput Graeciae factas uideo, et fortis et animosa ciuitas Spartana iacet armis nostris abiecta: amara dominatione Graecia liberata est. orbus quoque, non tamen sine liberis morior, quoniam mirificas filias Leuctram et Mantineam relinquo'. e corpore deinde suo hastam educi iussit eoque uultu expirauit, quo, si eum di inmortales uictoriis suis perfrui passi essent, sospes patriae moenia intrasset.
  
 
  
@@ -177,19 +177,19 @@ Valerius Maximus III
  
 
  
-3.3.2 Pompei etiam probabilis uirtus, qui, dum legationis officio fungitur, a &lt;rege&gt; Gentio interceptus, cum senatus consilia prodere iuberetur, ardenti lucernae admotum digitum cremandum praebuit eaque patientia regi simul et desperationem tormentis quicquam ex se cognoscendi incussit et expetendae populi Romani amicitiae magnam cupiditatem ingenerauit. ac ne plura huiusce generis exempla domi scrutando saepius ad ciuilium bellorum detestandam memoriam progredi cogar, duobus Romanis exemplis contentus, quae ut clarissimarum familiarum commendationem, ita nullum publicum maerorem continent, externa subnectam.
+3.3.2 Pompei etiam probabilis uirtus, qui, dum legationis officio fungitur, a <rege> Gentio interceptus, cum senatus consilia prodere iuberetur, ardenti lucernae admotum digitum cremandum praebuit eaque patientia regi simul et desperationem tormentis quicquam ex se cognoscendi incussit et expetendae populi Romani amicitiae magnam cupiditatem ingenerauit. ac ne plura huiusce generis exempla domi scrutando saepius ad ciuilium bellorum detestandam memoriam progredi cogar, duobus Romanis exemplis contentus, quae ut clarissimarum familiarum commendationem, ita nullum publicum maerorem continent, externa subnectam.
  
 
  
-3.3.ext.1 Vetusto Macedoniae more regi Alexandro nobilissimi pueri praesto erant sacrificanti. e quibus unus turibulo arrepto ante ipsum adstitit. in cuius brachium carbo ardens delapsus est. quo etsi ita urebatur, ut adusti corporis eius odor ad circumstantium nares perueniret, tamen et dolorem silentio pressit et brachium inmobile tenuit, ne sacrificium Alexandri aut concusso turibulo impediret aut edito gemitu re&lt;li&gt;gio&lt;ne&gt; aspergeret. rex, quo patientia pueri magis delectatus est, hoc certius perseuerantiae experimentum sumere uoluit: consulto enim sacrificauit diutius nec hac re eum proposito repulit. si huic miraculo Dareus inseruisset oculos, scisset eius stirpis milites uinci non posse, cuius infirmam aetatem tanto robore praeditam animaduertisset. Est et illa uehemens et constans animi militia, litteris pollens, uenerabilium doctrinae sacrorum antistes, philosophia. quae ubi pectore recepta est, omni inhonesto atque inutili adfectu dispulso, totum [in] solidae uirtutis munimento confirmat potentiusque metu facit ac dolore.
+3.3.ext.1 Vetusto Macedoniae more regi Alexandro nobilissimi pueri praesto erant sacrificanti. e quibus unus turibulo arrepto ante ipsum adstitit. in cuius brachium carbo ardens delapsus est. quo etsi ita urebatur, ut adusti corporis eius odor ad circumstantium nares perueniret, tamen et dolorem silentio pressit et brachium inmobile tenuit, ne sacrificium Alexandri aut concusso turibulo impediret aut edito gemitu re<li>gio<ne> aspergeret. rex, quo patientia pueri magis delectatus est, hoc certius perseuerantiae experimentum sumere uoluit: consulto enim sacrificauit diutius nec hac re eum proposito repulit. si huic miraculo Dareus inseruisset oculos, scisset eius stirpis milites uinci non posse, cuius infirmam aetatem tanto robore praeditam animaduertisset. Est et illa uehemens et constans animi militia, litteris pollens, uenerabilium doctrinae sacrorum antistes, philosophia. quae ubi pectore recepta est, omni inhonesto atque inutili adfectu dispulso, totum [in] solidae uirtutis munimento confirmat potentiusque metu facit ac dolore.
  
 
  
-3.3.ext.2 Incipiam autem &lt;a&gt; Zenone Eleate. qui cum esset in dispicienda rerum natura maximae prudentiae inque excitandis ad uigorem iuuenum animis promptissimus, praeceptorum fidem exemplo uirtutis suae publicauit: patriam enim egressus, in qua frui secura libertate poterat, Agrigentum miserabili seruitute obrutum petiit, tanta fiducia ingenii ac morum suorum fretus, ut sperauerit et tyranno et Phalari uaesanae mentis feritatem a se deripi posse. postquam deinde apud illum plus consuetudinem dominationis quam consilii salubritatem ualere animaduertit, nobilissimos eius ciuitatis adulescentes cupiditate liberandae patriae inflammauit. cuius rei cum indicium ad tyrannum manasset, conuocato in forum populo torquere eum uario cruciatus genere coepit subinde quaerens quosnam consilii participes haberet. at ille neque eorum &lt;quemquam&gt; nominauit et proximum quemque ac fidissimum tyranno suspectum reddidit increpitansque Agrigentinis ignauiam ac timiditatem effecit ut subito mentis inpulsu concitati Phalarim lapidibus prosternerent. senis ergo unius eculeo inpositi non supplex uox nec miserabilis eiulatus, sed fortis cohortatio totius urbis animum fortunamque mutauit.
+3.3.ext.2 Incipiam autem <a> Zenone Eleate. qui cum esset in dispicienda rerum natura maximae prudentiae inque excitandis ad uigorem iuuenum animis promptissimus, praeceptorum fidem exemplo uirtutis suae publicauit: patriam enim egressus, in qua frui secura libertate poterat, Agrigentum miserabili seruitute obrutum petiit, tanta fiducia ingenii ac morum suorum fretus, ut sperauerit et tyranno et Phalari uaesanae mentis feritatem a se deripi posse. postquam deinde apud illum plus consuetudinem dominationis quam consilii salubritatem ualere animaduertit, nobilissimos eius ciuitatis adulescentes cupiditate liberandae patriae inflammauit. cuius rei cum indicium ad tyrannum manasset, conuocato in forum populo torquere eum uario cruciatus genere coepit subinde quaerens quosnam consilii participes haberet. at ille neque eorum <quemquam> nominauit et proximum quemque ac fidissimum tyranno suspectum reddidit increpitansque Agrigentinis ignauiam ac timiditatem effecit ut subito mentis inpulsu concitati Phalarim lapidibus prosternerent. senis ergo unius eculeo inpositi non supplex uox nec miserabilis eiulatus, sed fortis cohortatio totius urbis animum fortunamque mutauit.
  
 
  
-3.3.ext.3 Eiusdem nominis philosophus, cum &lt;a&gt; Nearcho tyranno, de cuius nece consilium inierat, torqueretur supplicii pariter atque indicandorum gratia consciorum, doloris uictor, sed ultionis cupidus, esse dixit quod secreto audire eum admodum expediret, laxatoque eculeo, postquam insidiis opportunum animaduertit, aurem eius morsu corripuit nec ante dimisit quam et ipse uita et ille parte corporis priuaretur.
+3.3.ext.3 Eiusdem nominis philosophus, cum <a> Nearcho tyranno, de cuius nece consilium inierat, torqueretur supplicii pariter atque indicandorum gratia consciorum, doloris uictor, sed ultionis cupidus, esse dixit quod secreto audire eum admodum expediret, laxatoque eculeo, postquam insidiis opportunum animaduertit, aurem eius morsu corripuit nec ante dimisit quam et ipse uita et ille parte corporis priuaretur.
  
 
  
@@ -209,7 +209,7 @@ Valerius Maximus III
  
 
  
-3.4.init. quo &lt;e&gt;uenit ut et humili loco nati ad summam dignitatem consurgant et generosissimarum imaginum fetus in aliquod reuoluti dedecus acceptam a maioribus lucem in tenebras conuertant. quae quidem planiora suis exemplis reddentur, ac prius de his ordiar, quorum in meliorem statum facta mutatio splendidam relatu praebet materiam.
+3.4.init. quo <e>uenit ut et humili loco nati ad summam dignitatem consurgant et generosissimarum imaginum fetus in aliquod reuoluti dedecus acceptam a maioribus lucem in tenebras conuertant. quae quidem planiora suis exemplis reddentur, ac prius de his ordiar, quorum in meliorem statum facta mutatio splendidam relatu praebet materiam.
  
 
  
@@ -217,7 +217,7 @@ Valerius Maximus III
  
 
  
-3.4.2 Verum Tullus etsi magnum admirabilis incrementi, domesticum tamen exemplum est: Tarquinium autem ad Romanum imperium occupandum fortuna in urbem nostram aduexit, alienum, quod ~ exactu, alieniorem, quod ortum Corintho, fastidiendum, quod merca&lt;to&gt;re genitum, erubescendum, quod etiam exule [Demarato] natum patre. ceterum tam prosperum condicionis suae euentum industria sua pro inuidioso gloriosum reddidit: dilatauit enim fines, cultum deorum nouis sacerdotiis auxit, numerum senatus amplificauit, equestrem ordinem uberiorem reliquit, quaeque laudum eius consummatio est, praeclaris uirtutibus effecit ne haec ciuitas paenitentiam ageret, quod regem a finitimis potius mutuata esset quam de suis legisset.
+3.4.2 Verum Tullus etsi magnum admirabilis incrementi, domesticum tamen exemplum est: Tarquinium autem ad Romanum imperium occupandum fortuna in urbem nostram aduexit, alienum, quod ~ exactu, alieniorem, quod ortum Corintho, fastidiendum, quod merca<to>re genitum, erubescendum, quod etiam exule [Demarato] natum patre. ceterum tam prosperum condicionis suae euentum industria sua pro inuidioso gloriosum reddidit: dilatauit enim fines, cultum deorum nouis sacerdotiis auxit, numerum senatus amplificauit, equestrem ordinem uberiorem reliquit, quaeque laudum eius consummatio est, praeclaris uirtutibus effecit ne haec ciuitas paenitentiam ageret, quod regem a finitimis potius mutuata esset quam de suis legisset.
  
 
  
@@ -241,7 +241,7 @@ Valerius Maximus III
  
 
  
-3.4.ext.2 Quem patrem Euripides aut quam matrem Demosthenes habuerit ipsorum quoque saeculo ignotum fuit. alterius autem matrem &lt;holera, alterius patrem&gt; cultellos uenditasse omnium paene doctorum litterae locuntur. sed quid aut illius tragica aut huius oratoria ui clarius?
+3.4.ext.2 Quem patrem Euripides aut quam matrem Demosthenes habuerit ipsorum quoque saeculo ignotum fuit. alterius autem matrem <holera, alterius patrem> cultellos uenditasse omnium paene doctorum litterae locuntur. sed quid aut illius tragica aut huius oratoria ui clarius?
  
 
  
@@ -253,7 +253,7 @@ Valerius Maximus III
  
 
  
-3.5.2 Age Q. Fabi Maximi Allobrogi&lt;ci&gt; et ciuis et imperatoris clarissimi filius Q. Fabius Maximus quam perditam luxuria uitam egit! cuius ut cetera flagitia obliterentur, tamen abunde illo dedecore mores nudari possunt, quod ei Q. Pompeius praetor urbanus paternis bonis interdixit, neque in tanta ciuitate qui illud decretum reprehenderet inuentus est: dolenter enim homines ferebant pecuniam, quae Fabiae gentis splendori seruire debebat, flagitiis dissici. ergo quem nimia patris indulgentia heredem reliquerat publica seueritas exheredauit.
+3.5.2 Age Q. Fabi Maximi Allobrogi<ci> et ciuis et imperatoris clarissimi filius Q. Fabius Maximus quam perditam luxuria uitam egit! cuius ut cetera flagitia obliterentur, tamen abunde illo dedecore mores nudari possunt, quod ei Q. Pompeius praetor urbanus paternis bonis interdixit, neque in tanta ciuitate qui illud decretum reprehenderet inuentus est: dolenter enim homines ferebant pecuniam, quae Fabiae gentis splendori seruire debebat, flagitiis dissici. ergo quem nimia patris indulgentia heredem reliquerat publica seueritas exheredauit.
  
 
  
@@ -269,7 +269,7 @@ Valerius Maximus III
  
 
  
-3.6.1 P. Scipio, cum in Sicilia augendo traiciendoque &lt;exercitu&gt; in Africam opportunum quaerendo gradum Karthaginis ruinam animo uolueret, inter consilia ac molitiones tantae rei operam gymnasio dedit pallioque et crepidis usus &lt;est&gt;. nec hac re segniores Punicis exercitibus manus intulit, sed nescio an ideo alacriores, quia uegeta et strenua ingenia, quo plus recessus sumunt, hoc uehementiores impetus edunt. crediderim etiam fauorem eum sociorum uberiorem se adepturum existimasse, si uictum eorum et sollemnes exercitationes conprobasset. ad quas tamen ueniebat, cum multum ac diu * * * fatigasset umeros et cetera membra &lt;ac&gt; militari agitatione firmitatem suam probare coegisset, consistebatque in his labor eius, in illis remissio laboris.
+3.6.1 P. Scipio, cum in Sicilia augendo traiciendoque <exercitu> in Africam opportunum quaerendo gradum Karthaginis ruinam animo uolueret, inter consilia ac molitiones tantae rei operam gymnasio dedit pallioque et crepidis usus <est>. nec hac re segniores Punicis exercitibus manus intulit, sed nescio an ideo alacriores, quia uegeta et strenua ingenia, quo plus recessus sumunt, hoc uehementiores impetus edunt. crediderim etiam fauorem eum sociorum uberiorem se adepturum existimasse, si uictum eorum et sollemnes exercitationes conprobasset. ad quas tamen ueniebat, cum multum ac diu * * * fatigasset umeros et cetera membra <ac> militari agitatione firmitatem suam probare coegisset, consistebatque in his labor eius, in illis remissio laboris.
  
 
  
@@ -281,7 +281,7 @@ Valerius Maximus III
  
 
  
-3.6.4 C. autem Duellius, qui primus naualem triumphum ex Poenis retulit, quotienscumque &lt;publice&gt; epulatus erat, ad funalem cereum praeeunte tibicine et fidicine a cena domum reuerti solitus est, insignem bellicae rei successum nocturna celebratione testando.
+3.6.4 C. autem Duellius, qui primus naualem triumphum ex Poenis retulit, quotienscumque <publice> epulatus erat, ad funalem cereum praeeunte tibicine et fidicine a cena domum reuerti solitus est, insignem bellicae rei successum nocturna celebratione testando.
  
 
  
@@ -289,7 +289,7 @@ Valerius Maximus III
  
 
  
-3.6.6 Iam C. Marii paene insolens factum: nam post Iugurthinum Cimbricumque et Teutonicum triumphum cantharo semper potauit, quod Liber pater Indicum ex Asia deducens triumphum hoc usus poculi genere ferebatur, &lt;ut&gt; inter ipsum haustum uini uictoriae eius suas uictorias conpararet.
+3.6.6 Iam C. Marii paene insolens factum: nam post Iugurthinum Cimbricumque et Teutonicum triumphum cantharo semper potauit, quod Liber pater Indicum ex Asia deducens triumphum hoc usus poculi genere ferebatur, <ut> inter ipsum haustum uini uictoriae eius suas uictorias conpararet.
  
 
  
@@ -301,7 +301,7 @@ Valerius Maximus III
  
 
  
-3.7.1 Publio et Gnaeo Scipionibus in Hispania cum maiore parte exercitus acie Punica oppressis omnibusque prouinciae eius nationibus Karthaginiensium amicitiam secutis, nullo ducum nostrorum illuc ad corrigendam rem proficisci audente, &lt;P.&gt; Scipio quartum et uicesimum agens annum iturum se pollicitus est. qua quidem fiducia populo Romano salutis ac uictoriae spem dedit.
+3.7.1 Publio et Gnaeo Scipionibus in Hispania cum maiore parte exercitus acie Punica oppressis omnibusque prouinciae eius nationibus Karthaginiensium amicitiam secutis, nullo ducum nostrorum illuc ad corrigendam rem proficisci audente, <P.> Scipio quartum et uicesimum agens annum iturum se pollicitus est. qua quidem fiducia populo Romano salutis ac uictoriae spem dedit.
  
 
  
@@ -321,7 +321,7 @@ Verum ut ad domestica eius eximiae fiduciae acta ueniamus, cum a L. Scipione ex 
  
 
  
-Non fatigabor eiusdem facta identidem referendo, quoniam ne ille quidem in consimili genere uirtutes edendo fatigatus est. diem illi ad populum M. Naeuius tr. pl. aut, &lt;ut&gt; quidam memorant, duo Petilii dixerant. quo ingenti frequentia in forum deductus rostra conscendit capitique suo corona triumphali inposita 'hoc ego' inquit, 'Quirites, die Karthaginem magna spirantem leges nostras accipere iussi: proinde aecum est uos mecum ire in Capitolium supplicatum'. speciosissimam deinde eius uocem aeque clarus euentus &lt;secutus&gt; est, si quidem et senatum totum et uniuersum equestrem ordinem et cunctam plebem Iouis optimi maximi puluinaria petens comitem habuit. restabat ut tribunus apud populum sine populo ageret desertusque in foro cum magno calumniae suae ludibrio solus moraretur. cuius deuitandi ruboris causa in Capitolium processit deque accusatore Scipionis uenerator factus est.
+Non fatigabor eiusdem facta identidem referendo, quoniam ne ille quidem in consimili genere uirtutes edendo fatigatus est. diem illi ad populum M. Naeuius tr. pl. aut, <ut> quidam memorant, duo Petilii dixerant. quo ingenti frequentia in forum deductus rostra conscendit capitique suo corona triumphali inposita 'hoc ego' inquit, 'Quirites, die Karthaginem magna spirantem leges nostras accipere iussi: proinde aecum est uos mecum ire in Capitolium supplicatum'. speciosissimam deinde eius uocem aeque clarus euentus <secutus> est, si quidem et senatum totum et uniuersum equestrem ordinem et cunctam plebem Iouis optimi maximi puluinaria petens comitem habuit. restabat ut tribunus apud populum sine populo ageret desertusque in foro cum magno calumniae suae ludibrio solus moraretur. cuius deuitandi ruboris causa in Capitolium processit deque accusatore Scipionis uenerator factus est.
  
 
  
@@ -337,7 +337,7 @@ Non fatigabor eiusdem facta identidem referendo, quoniam ne ille quidem in consi
  
 
  
-3.7.5 Bellica haec praestantia animi, togata illa, sed &lt;non&gt; minus laudabilis, quam P. Furius Philus consul in senatu exhibuit: Q. enim Metellum Quintumque Pompeium consulares uiros, uehementes inimicos suos, cupidam sibi profectionem in prouinciam Hispaniam, quam sortitus erat, identidem exprobrantis, legatos secum illuc ire coegit: fiduciam non solum fortem, sed paene etiam temerariam, quae duobus acerrimis odiis latera sua cingere ausa est usumque ministerii uix tutum in amicis e sinu inimicorum petere sustinuit!
+3.7.5 Bellica haec praestantia animi, togata illa, sed <non> minus laudabilis, quam P. Furius Philus consul in senatu exhibuit: Q. enim Metellum Quintumque Pompeium consulares uiros, uehementes inimicos suos, cupidam sibi profectionem in prouinciam Hispaniam, quam sortitus erat, identidem exprobrantis, legatos secum illuc ire coegit: fiduciam non solum fortem, sed paene etiam temerariam, quae duobus acerrimis odiis latera sua cingere ausa est usumque ministerii uix tutum in amicis e sinu inimicorum petere sustinuit!
  
 
  
@@ -381,11 +381,11 @@ Idem post aliquot annos Cannensi clade exhaustis Romani imperii uiribus suppleme
  
 
  
-o&#187; n&#131;mesiw Tr&#180;aw ka&#173; &szlig;ukn&#144;midaw &#138;Axaio&#161;w
+o» nƒmesiw Tr´aw ka­ ßuknmidaw ŠAxaio¡w
  
 
  
-toi&#129;d' &Egrave;mf&#173; gunaik&#173; pol&#161;n xr"non &Iacute;lgea p&#147;sxein. adeone dextrae suae multum pictor adrogauit, ut ea tantum formae conprehensum crederet, quantum aut Leda caelesti partu edere aut Homerus diuino ingenio exprimere potuit?
+toid' Èmf­ gunaik­ pol¡n xr"non Ílgea p“sxein. adeone dextrae suae multum pictor adrogauit, ut ea tantum formae conprehensum crederet, quantum aut Leda caelesti partu edere aut Homerus diuino ingenio exprimere potuit?
  
 
  
@@ -393,15 +393,15 @@ toi&#129;d' &Egrave;mf&#173; gunaik&#173; pol&#161;n xr"non &Iacute;lgea p&#147;
  
 
  
-&Ouml;, ka&#173; kuan&#131;&ocirc;sin &szlig;p' &#141;fr si ne&Agrave;se Kron&#167;vn:
+Ö, ka­ kuanƒôsin ßp' fr si neÀse Kron§vn:
  
 
  
-&Egrave;mbr"siai d' &Iacute;ra xa&#149;tai &szlig;perr&acirc;santo &Iacute;naktow
+Èmbr"siai d' Íra xa•tai ßperrâsanto Ínaktow
  
 
  
-krat&#142;w &Egrave;p' &Egrave;yan&#147;toio: m&#131;gan d' &szlig;l&#131;lijen &#247;Olumpon.
+kratŽw Èp' Èyan“toio: mƒgan d' ßlƒlijen ÷Olumpon.
  
 
  
@@ -421,11 +421,11 @@ krat&#142;w &Egrave;p' &Egrave;yan&#147;toio: m&#131;gan d' &szlig;l&#131;lijen 
  
 
  
-3.8.init Ap&lt;er&gt;tum et animosum bonae fiduciae pectus emenso quasi debitum opus superest constantiae repraesentatio: natura enim sic conparatum est ut, quisquis se aliquid ordine ac recte mente complexum confidit, uel iam gestum, si obtrectetur, acriter tueatur, uel nondum editum, si interpelletur, sine ulla cunctatione ad effectum perducat.
+3.8.init Ap<er>tum et animosum bonae fiduciae pectus emenso quasi debitum opus superest constantiae repraesentatio: natura enim sic conparatum est ut, quisquis se aliquid ordine ac recte mente complexum confidit, uel iam gestum, si obtrectetur, acriter tueatur, uel nondum editum, si interpelletur, sine ulla cunctatione ad effectum perducat.
  
 
  
-3.8.1 Sed dum exempla propositae rei persequor, latius mihi circumspicienti ante omnia se Fului Flacci constantia offert. Capuam fallacibus Hannibalis promissis Italiae regnum nefaria defectione pacisci persuasam armis occupauerat. tam deinde culpae hostium iustus aestimator quam speciosus uictor Campanum senatum impii decreti auctorem funditus delere constituit. itaque catenis onustum in duas custodias, Teanam Calenamque diuisit consilium executurus, cum ea peregisset, quorum administrandorum citerior esse necessitas uidebatur. rumore autem de senatus mitiore sententia orto, ne debitam poenam scelerati effugerent, nocte admisso equo Teanum contendit interfectisque qui ibi adseruabantur e uestigio Cales &lt;est&gt; transgressus perseuerantiae suae opus execut&lt;ur&gt;us et iam deligatis ad palum hostibus litteras a patribus conscriptis nequiquam salutaris Campanis accepit: in sinistra enim eas manu, sicut erant traditae, reposuit ac iusso lictore lege agere tum demum aperuit, postquam illis obtemperari non poterat. qua constantia uictoriae quoque gloriam antecessit, quia, si eum intra se ipsam partita laude aestimes, maiorem punita Capua quam capta reperias.
+3.8.1 Sed dum exempla propositae rei persequor, latius mihi circumspicienti ante omnia se Fului Flacci constantia offert. Capuam fallacibus Hannibalis promissis Italiae regnum nefaria defectione pacisci persuasam armis occupauerat. tam deinde culpae hostium iustus aestimator quam speciosus uictor Campanum senatum impii decreti auctorem funditus delere constituit. itaque catenis onustum in duas custodias, Teanam Calenamque diuisit consilium executurus, cum ea peregisset, quorum administrandorum citerior esse necessitas uidebatur. rumore autem de senatus mitiore sententia orto, ne debitam poenam scelerati effugerent, nocte admisso equo Teanum contendit interfectisque qui ibi adseruabantur e uestigio Cales <est> transgressus perseuerantiae suae opus execut<ur>us et iam deligatis ad palum hostibus litteras a patribus conscriptis nequiquam salutaris Campanis accepit: in sinistra enim eas manu, sicut erant traditae, reposuit ac iusso lictore lege agere tum demum aperuit, postquam illis obtemperari non poterat. qua constantia uictoriae quoque gloriam antecessit, quia, si eum intra se ipsam partita laude aestimes, maiorem punita Capua quam capta reperias.
  
 
  
@@ -445,7 +445,7 @@ krat&#142;w &Egrave;p' &Egrave;yan&#147;toio: m&#131;gan d' &szlig;l&#131;lijen 
  
 
  
-3.8.6 Quid feminae cum contione? si patrius mos seruetur, nihil: sed ubi domestica quies seditionum agitata fluctibus est, priscae consuetudinis auctoritas conuellitur, plusque ualet quod uiolentia cogit quam quod suadet et praecipit uerecundia. itaque te, Sempronia, Ti. et C. Gracchorum soror, uxor Scipionis Aemiliani, non ut absurde &lt;te&gt; grauissimis uirorum operibus inserentem, maligna relatione conprehendam, sed quia ab tribuno plebei producta ad populum in maxima confusione nihil a tuorum amplitudine degenerasti, honorata memoria prosequar. coacta es eo loci consistere, ubi principum ciuitatis perturbari frons solebat, instabat tibi toruo uultu minas profundens amplissima potestas, clamore imperitae multitudinis obstrepens totum forum acer rimo studio nitebatur ut Equitio, cui Semproniae gentis falsum ius quaerebatur, tamquam filio Tiberii fratris tui osculum dares. tu tamen illum, nescio quibus tenebris protractum portentum, execrabili audacia ad usurpandam alienam propinquitatem tendentem reppulisti.
+3.8.6 Quid feminae cum contione? si patrius mos seruetur, nihil: sed ubi domestica quies seditionum agitata fluctibus est, priscae consuetudinis auctoritas conuellitur, plusque ualet quod uiolentia cogit quam quod suadet et praecipit uerecundia. itaque te, Sempronia, Ti. et C. Gracchorum soror, uxor Scipionis Aemiliani, non ut absurde <te> grauissimis uirorum operibus inserentem, maligna relatione conprehendam, sed quia ab tribuno plebei producta ad populum in maxima confusione nihil a tuorum amplitudine degenerasti, honorata memoria prosequar. coacta es eo loci consistere, ubi principum ciuitatis perturbari frons solebat, instabat tibi toruo uultu minas profundens amplissima potestas, clamore imperitae multitudinis obstrepens totum forum acer rimo studio nitebatur ut Equitio, cui Semproniae gentis falsum ius quaerebatur, tamquam filio Tiberii fratris tui osculum dares. tu tamen illum, nescio quibus tenebris protractum portentum, execrabili audacia ad usurpandam alienam propinquitatem tendentem reppulisti.
  
 
  
@@ -453,15 +453,15 @@ krat&#142;w &Egrave;p' &Egrave;yan&#147;toio: m&#131;gan d' &szlig;l&#131;lijen 
  
 
  
-3.8.8 Idem constantiae propositum secutus Maeuius centurio diui Augusti, cum Antoniano bello saepe numero excellentes pugnas edidisset, inprouisis hostium insidiis circumuentus et ad Antonium Alexandriam perductus interrogatusque quidnam de eo statui deberet, 'iugulari me' inquit 'iube, quia non salutis beneficio neque mortis supplicio adduci possum ut aut Caesaris miles &lt;esse&gt; desinam aut tuus incipiam. ceterum quo constantius uitam contempsit, eo facilius impetrauit: Antonius enim uirtuti eius incolumitatem tribuit.
+3.8.8 Idem constantiae propositum secutus Maeuius centurio diui Augusti, cum Antoniano bello saepe numero excellentes pugnas edidisset, inprouisis hostium insidiis circumuentus et ad Antonium Alexandriam perductus interrogatusque quidnam de eo statui deberet, 'iugulari me' inquit 'iube, quia non salutis beneficio neque mortis supplicio adduci possum ut aut Caesaris miles <esse> desinam aut tuus incipiam. ceterum quo constantius uitam contempsit, eo facilius impetrauit: Antonius enim uirtuti eius incolumitatem tribuit.
  
 
  
-3.8.ext.1 Conplura huiusce notae Romana exempla supersunt, sed satietas modo uitanda est. itaque stilo meo ad externa iam delabi permittam. quorum principatum teneat Blassius, cuius constantia nihil pertinacius: Salapiam enim patriam suam praesidio Punico occupatam Romanis cupiens restituere Dasium acerrimo studio secum in administratione rei publicae dissidentem et alioquin toto animo Hannibalis amicitiae uacantem, sine quo propositum consilium peragi non poterat, ad idem opus adgrediendum maiore cupiditate quam spe certiore temptare ausus est. qui protinus sermonem eius, adiectis quae et ipsum commendatiorem et inimicum inuisiorem factura uidebantur, Hannibali retulit. a quo adesse iussi sunt, ut alter crimen probaret, alter defenderet. ceterum, &lt;cum&gt; pro tribunali res gereretur et quaestioni illi omnium oculi essent intenti, dum aliud forte citerioris curae negotium tractatur, Blassius uultu dissimulante ac uoce summissa monere Dasium coepit ut Romanorum potius quam Karthaginiensium partes foueret. enimuero tunc ille proclamat se in conspectu ducis aduersus eum sollicitari. quod quia et incredibile existimabatur et ad unius tantum auris penetrauerat et iactabatur ab inimico, uerita&lt;ti&gt;s fide caruit. sed non ita multo post Blasii mira constantia Dasium ad se traxit Marcelloque et Salapiam et quingentos Numidas, qui in ea custodiae causa erant, tradidit.
+3.8.ext.1 Conplura huiusce notae Romana exempla supersunt, sed satietas modo uitanda est. itaque stilo meo ad externa iam delabi permittam. quorum principatum teneat Blassius, cuius constantia nihil pertinacius: Salapiam enim patriam suam praesidio Punico occupatam Romanis cupiens restituere Dasium acerrimo studio secum in administratione rei publicae dissidentem et alioquin toto animo Hannibalis amicitiae uacantem, sine quo propositum consilium peragi non poterat, ad idem opus adgrediendum maiore cupiditate quam spe certiore temptare ausus est. qui protinus sermonem eius, adiectis quae et ipsum commendatiorem et inimicum inuisiorem factura uidebantur, Hannibali retulit. a quo adesse iussi sunt, ut alter crimen probaret, alter defenderet. ceterum, <cum> pro tribunali res gereretur et quaestioni illi omnium oculi essent intenti, dum aliud forte citerioris curae negotium tractatur, Blassius uultu dissimulante ac uoce summissa monere Dasium coepit ut Romanorum potius quam Karthaginiensium partes foueret. enimuero tunc ille proclamat se in conspectu ducis aduersus eum sollicitari. quod quia et incredibile existimabatur et ad unius tantum auris penetrauerat et iactabatur ab inimico, uerita<ti>s fide caruit. sed non ita multo post Blasii mira constantia Dasium ad se traxit Marcelloque et Salapiam et quingentos Numidas, qui in ea custodiae causa erant, tradidit.
  
 
  
-3.8.ext.2 Phocion uero, cum Athenienses rem aliter atque ipse suaserat prospere administrassent, adeo perseuerans sententiae suae propugnator extitit, ut in contione laetari quidem se successu eorum, sed consilium tamen suum aliquanto melius fuisse diceret: non enim damnauit quod recte uiderat, quia quod alius male consuluerat bene cesserat, felicius illud existimans, hoc sapientius. et sane blandum animum temeritati casus facit, ubi prauo consilio propitius aspirat, quoque uehementius noceat, &lt;in&gt;speratius prodest. placidi et misericordes et liberales omnique suauitate temperati mores Phocionis, quos optime profecto consensus omnium bonitatis cognomine decorandos censuit. itaque constantia, quae natura rigidior uidetur, lenis e mansueto pectore fluxit:
+3.8.ext.2 Phocion uero, cum Athenienses rem aliter atque ipse suaserat prospere administrassent, adeo perseuerans sententiae suae propugnator extitit, ut in contione laetari quidem se successu eorum, sed consilium tamen suum aliquanto melius fuisse diceret: non enim damnauit quod recte uiderat, quia quod alius male consuluerat bene cesserat, felicius illud existimans, hoc sapientius. et sane blandum animum temeritati casus facit, ubi prauo consilio propitius aspirat, quoque uehementius noceat, <in>speratius prodest. placidi et misericordes et liberales omnique suauitate temperati mores Phocionis, quos optime profecto consensus omnium bonitatis cognomine decorandos censuit. itaque constantia, quae natura rigidior uidetur, lenis e mansueto pectore fluxit:
  
 
  
@@ -481,7 +481,7 @@ Vniuersa ciuitas Atheniensium iniquissimo ac truculentissimo furore instincta de
  
 
  
-3.8.ext.6 Quod sequitur et rei ipsius admiratione et claritate auctoris inlustre. Alexander Macedonum rex incluta iam pugna excellentissimis opibus Darei contusis aestu et itineris feruore in Cilicia percalefactus Cydno, qui aquae liquore conspicuus Tarson interfluit, corpus suum inmersit. subito deinde ex nimio haustu frigoris obstupefactis neruis ac torpore hebetatis artubus maxima cum exanimatione totius exercitus in oppidum castris propinquum defertur. iacebat aeger Tarsi, inque ualitudine eius aduersa instantis uictoriae spes fluctuabat. itaque conuocati medici adtentissimo consilio salutis remedia circumspiciebant. quorum cum ad unam potionem &lt;se&gt; sententiae direxissent, atque eam Philippus medicus suis manibus temperatam Alexandro--erat autem ipsius amicus et comes--porrexisset, a Parmenione missae litterae superueniunt admonentes ut rex insidias Philippi perinde ac pecunia corrupti a Dareo caueret. quas cum legisset, sine ulla cunctatione medicamentum hausit ac tum legendas Philippo tradidit. pro quo tam constanti erga amicum iudicio dignissimam a dis inmortalibus mercedem recepit, qui incolumitatis eius praesidium falso interpellari indicio noluerunt.
+3.8.ext.6 Quod sequitur et rei ipsius admiratione et claritate auctoris inlustre. Alexander Macedonum rex incluta iam pugna excellentissimis opibus Darei contusis aestu et itineris feruore in Cilicia percalefactus Cydno, qui aquae liquore conspicuus Tarson interfluit, corpus suum inmersit. subito deinde ex nimio haustu frigoris obstupefactis neruis ac torpore hebetatis artubus maxima cum exanimatione totius exercitus in oppidum castris propinquum defertur. iacebat aeger Tarsi, inque ualitudine eius aduersa instantis uictoriae spes fluctuabat. itaque conuocati medici adtentissimo consilio salutis remedia circumspiciebant. quorum cum ad unam potionem <se> sententiae direxissent, atque eam Philippus medicus suis manibus temperatam Alexandro--erat autem ipsius amicus et comes--porrexisset, a Parmenione missae litterae superueniunt admonentes ut rex insidias Philippi perinde ac pecunia corrupti a Dareo caueret. quas cum legisset, sine ulla cunctatione medicamentum hausit ac tum legendas Philippo tradidit. pro quo tam constanti erga amicum iudicio dignissimam a dis inmortalibus mercedem recepit, qui incolumitatis eius praesidium falso interpellari indicio noluerunt.
  
  
  

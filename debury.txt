@@ -20,83 +20,83 @@ PHILOBIBLON
  
 
  
- I &#160;&#160; Quod thesaurus sapientia potissime sit in libris 
+ I    Quod thesaurus sapientia potissime sit in libris 
  
 
  
- II &#160;&#160; Qualis amor libris rationabiliter debeatur 
+ II    Qualis amor libris rationabiliter debeatur 
  
 
  
- III &#160;&#160; Qualiter in libris emendis sit pretium aestimandum 
+ III    Qualiter in libris emendis sit pretium aestimandum 
  
 
  
- IV &#160;&#160; Querimonia librorum contra clericos jam promotos 
+ IV    Querimonia librorum contra clericos jam promotos 
  
 
  
- V &#160;&#160; Querimonia librorum contra religiosos possessionatus 
+ V    Querimonia librorum contra religiosos possessionatus 
  
 
  
- VI &#160;&#160; Querimonia librorum contra religiosos mendicantes 
+ VI    Querimonia librorum contra religiosos mendicantes 
  
 
  
- VII &#160;&#160; Querimonia librorum contra bella 
+ VII    Querimonia librorum contra bella 
  
 
  
- VIII &#160;&#160; De multiplici opportunitate quam habuimus librorum copiam conquirendi 
+ VIII    De multiplici opportunitate quam habuimus librorum copiam conquirendi 
  
 
  
- IX &#160;&#160; Quod licet opera veterum amplius amaremus, non tamen damnavimus studia modernorum 
+ IX    Quod licet opera veterum amplius amaremus, non tamen damnavimus studia modernorum 
  
 
  
- X &#160;&#160; De successiva perfectione librorum 
+ X    De successiva perfectione librorum 
  
 
  
- XI &#160;&#160; Quare libros liberalium litterarum praetulimus libris juris 
+ XI    Quare libros liberalium litterarum praetulimus libris juris 
  
 
  
- XII &#160;&#160; Quare libros grammaticales tanta diligentia curavimus renovare 
+ XII    Quare libros grammaticales tanta diligentia curavimus renovare 
  
 
  
- XIII &#160;&#160; Quare non omnino negleximus fabulas poetarum 
+ XIII    Quare non omnino negleximus fabulas poetarum 
  
 
  
- XIV &#160;&#160; Qui deberet esse librorum potissimi dilectores 
+ XIV    Qui deberet esse librorum potissimi dilectores 
  
 
  
- XV &#160;&#160; Quot commoda confert amor librorum 
+ XV    Quot commoda confert amor librorum 
  
 
  
- XVI &#160;&#160; Quam meritorium sit libros novos scribere et veteres renovare 
+ XVI    Quam meritorium sit libros novos scribere et veteres renovare 
  
 
  
- XVII &#160;&#160; De debita honestate circa librorum custodiam adhibenda 
+ XVII    De debita honestate circa librorum custodiam adhibenda 
  
 
  
- XVIII &#160;&#160; Quod tantam librorum collegimus copiam ad communem profectum scholarium et non solum ad propriam voluptatem 
+ XVIII    Quod tantam librorum collegimus copiam ad communem profectum scholarium et non solum ad propriam voluptatem 
  
 
  
- XIX &#160;&#160; De moduo communicandi studentibus omnes libros nostros 
+ XIX    De moduo communicandi studentibus omnes libros nostros 
  
 
  
- XX &#160;&#160; Exhortatio scholarium ad rependedum pro nobis suffragia debitae pietatis 
+ XX    Exhortatio scholarium ad rependedum pro nobis suffragia debitae pietatis 
  
 
  
@@ -136,7 +136,7 @@ Quamobrem perlustratis humanis egestatibus usquequaque caritativae consideration
  
 
  
-Ut igitur nostri finis intentio tam posteris pateat quam modernis, et ora loquentium perversa quantum ad nos pertinet obstruamus perpetuo, tractatum parvulinum edidimus stilo quidem levissimo modernorum&#151;est enim ridiculosum rhetoricis quando levis materia grandi describitur stilo; qui tractatus amorem quem ad libros habuimus ab excessu purgabit, devotionis intentae propositum propalabit et circumstantias facti nostri, per viginti divisus capitula, luce clarius enarrabit. Qui vero de amore librorum principaliter disserit, placuit nobis more veterum Latinorum ipsum Graeco vocabulo Philobiblon amabiliter nuncupare. 
+Ut igitur nostri finis intentio tam posteris pateat quam modernis, et ora loquentium perversa quantum ad nos pertinet obstruamus perpetuo, tractatum parvulinum edidimus stilo quidem levissimo modernorum—est enim ridiculosum rhetoricis quando levis materia grandi describitur stilo; qui tractatus amorem quem ad libros habuimus ab excessu purgabit, devotionis intentae propositum propalabit et circumstantias facti nostri, per viginti divisus capitula, luce clarius enarrabit. Qui vero de amore librorum principaliter disserit, placuit nobis more veterum Latinorum ipsum Graeco vocabulo Philobiblon amabiliter nuncupare. 
  
 
  
@@ -196,11 +196,11 @@ Postremo pensandum, quanta doctrinae commoditas sit in libris, quam facilis, qua
  
 
  
-O libri soli liberales et liberi, qui omni petenti tribuitis et omnes manumittitis vobis sedulo servientes, quot rerum millibus typice viris doctis recommendamini in scriptura nobis divinitus inspirita! Vos enim estis profundissimae sophiae fodinae, ad quas sapiens filium suum mittit ut inde thesauros effodiat&#151;Proverbiorum secundo; vos putei aquarum viventium, quos pater Abraham primo fodit, Isaac eruderavit, quosque nituntur obstruere Palestini&#151; Genesis sexto et vicensimo. Vos estis revera spicae gratissimae, plenae granis, solis apostolicis manibus confricandae, ut egrediatur cibus suavissimus famelicis animabus&#151;Matt. dudecimo. 
+O libri soli liberales et liberi, qui omni petenti tribuitis et omnes manumittitis vobis sedulo servientes, quot rerum millibus typice viris doctis recommendamini in scriptura nobis divinitus inspirita! Vos enim estis profundissimae sophiae fodinae, ad quas sapiens filium suum mittit ut inde thesauros effodiat—Proverbiorum secundo; vos putei aquarum viventium, quos pater Abraham primo fodit, Isaac eruderavit, quosque nituntur obstruere Palestini— Genesis sexto et vicensimo. Vos estis revera spicae gratissimae, plenae granis, solis apostolicis manibus confricandae, ut egrediatur cibus suavissimus famelicis animabus—Matt. dudecimo. 
  
 
  
-Vos estis urnae aureae, in quibus manna reconditur, atque petrae mellifluae, immo potius favi mellis, ubera uberrima lactis vitae, promptuaria semper plena; vos lignum et quadripartitus fluvius paradisi, quo mens humana pascitur et aridus intellectus imbuitur et rigatur; vos arca Noae et scala Jacob, canalesque quibus foetus intuentium colorantur; vos lapides testimonii et lagenae servantes lampadas Gedeonis, pera David, de qua limpididdimi lapides extrahuntur ut Goliath prosternatur. Vos estis aurea vasa templi, armi militiae clericorum, quibus tela nequissimi hostis destruuntur, olivae fecundae, vineae Engadi, ficus sterilescere nescientes, lucernae ardentes, semper in manibus praetendendae,&#151;et optima quaeque scripturae libris adaptare poterimus, si loqui libeat figurate. 
+Vos estis urnae aureae, in quibus manna reconditur, atque petrae mellifluae, immo potius favi mellis, ubera uberrima lactis vitae, promptuaria semper plena; vos lignum et quadripartitus fluvius paradisi, quo mens humana pascitur et aridus intellectus imbuitur et rigatur; vos arca Noae et scala Jacob, canalesque quibus foetus intuentium colorantur; vos lapides testimonii et lagenae servantes lampadas Gedeonis, pera David, de qua limpididdimi lapides extrahuntur ut Goliath prosternatur. Vos estis aurea vasa templi, armi militiae clericorum, quibus tela nequissimi hostis destruuntur, olivae fecundae, vineae Engadi, ficus sterilescere nescientes, lucernae ardentes, semper in manibus praetendendae,—et optima quaeque scripturae libris adaptare poterimus, si loqui libeat figurate. 
  
 
 
@@ -215,7 +215,7 @@ Vos estis urnae aureae, in quibus manna reconditur, atque petrae mellifluae, imm
  
 
  
-SI QUIDLIBET juxta gradum valoris gradum mereatur amoris, valorem vero librorum ineffabilem persuadet praecedens capitulum; palam liquet lectori quid sit inde probabiliter concludendum. Non enim demonstrationibus in morali materia nitimur, recordantes quoniam disciplinati hominis est certitudinem quaerere, sicut rei naturam perspexerit tolerare, archiphilosopho attestante&#151;primo Ethicorum. Quoniam nec Tullius requirit Euclidem, nec Euclidi Tullius facit fidem; hoc revera sive logice sive rhetorice suadere conamur, quod quaecunque divitiae vel deliciae cedere debent libris in anima spiritali, ubi spiritus, qui est caritas, ordinat caritatem. 
+SI QUIDLIBET juxta gradum valoris gradum mereatur amoris, valorem vero librorum ineffabilem persuadet praecedens capitulum; palam liquet lectori quid sit inde probabiliter concludendum. Non enim demonstrationibus in morali materia nitimur, recordantes quoniam disciplinati hominis est certitudinem quaerere, sicut rei naturam perspexerit tolerare, archiphilosopho attestante—primo Ethicorum. Quoniam nec Tullius requirit Euclidem, nec Euclidi Tullius facit fidem; hoc revera sive logice sive rhetorice suadere conamur, quod quaecunque divitiae vel deliciae cedere debent libris in anima spiritali, ubi spiritus, qui est caritas, ordinat caritatem. 
  
 
  
@@ -227,15 +227,15 @@ Rursus amicitiam divitiis praeponendam solus negabit insipiens, cum sapientissim
  
 
  
-Amplius cum divitiae ad solius corporis subsidiae primo et principaliter pertinere noscantur, virtus vero librorum sit perfectio rationis, quae bonum humanum proprie nominatur, apparet quod libri sunt homini ratione utenti divitiis cariores. Praeterea illud quo fides defenderetur commodius, dilataretur diffusius, praedicaretur lucidius, diligibilius debet esse fideli. Hoc autem est veritas libris inscripta, quod evidentius figuravit Salvator, quando contra Tentatorem praeliaturus viriliter scuto se circumdedit veritatis, non cujuslibet immo scripturae, scriptum esse praemittens quod vivae vocis oraculo erat prolaturus&#151; Matt. quarto. 
+Amplius cum divitiae ad solius corporis subsidiae primo et principaliter pertinere noscantur, virtus vero librorum sit perfectio rationis, quae bonum humanum proprie nominatur, apparet quod libri sunt homini ratione utenti divitiis cariores. Praeterea illud quo fides defenderetur commodius, dilataretur diffusius, praedicaretur lucidius, diligibilius debet esse fideli. Hoc autem est veritas libris inscripta, quod evidentius figuravit Salvator, quando contra Tentatorem praeliaturus viriliter scuto se circumdedit veritatis, non cujuslibet immo scripturae, scriptum esse praemittens quod vivae vocis oraculo erat prolaturus— Matt. quarto. 
  
 
  
-Rursus autem felicitatem nemo dubitat divitiis praeponendem. Consisti autem felicitas in operatione nobilissimae et divinioris potentiae quam habemus, dum videlicet intellectus vacat totaliter veritati sapientiae contemplandae, quae est delectabilissima omnium operationum secundum virtutem, sicut princeps philosophorum determinat decimo Ethicorum , propter quod et philosophia videtur habere admirabiles delectationes puritate et firmitate, ut scribitur consequenter. Contemplatio autem veritatis nunquam est perfectior quam per libros, dum actualis imaginatio continuata per librum actum intellectus super visas veritates non sustinet interrumpi. Quamobrem libri videntur esse felicitatis speculativae immediatissima instrumenta, unde Aristoteles, sol philosophicae veritatis, ubi de eligendis distribuit methodos, docet quod philosophari est simpliciter eligibilius quam ditari, quamvis in casu ex circumstantia, puta necessariis indigenti, ditari quam philosphari sit potius eligendum&#151;tertio Topicorum. 
+Rursus autem felicitatem nemo dubitat divitiis praeponendem. Consisti autem felicitas in operatione nobilissimae et divinioris potentiae quam habemus, dum videlicet intellectus vacat totaliter veritati sapientiae contemplandae, quae est delectabilissima omnium operationum secundum virtutem, sicut princeps philosophorum determinat decimo Ethicorum , propter quod et philosophia videtur habere admirabiles delectationes puritate et firmitate, ut scribitur consequenter. Contemplatio autem veritatis nunquam est perfectior quam per libros, dum actualis imaginatio continuata per librum actum intellectus super visas veritates non sustinet interrumpi. Quamobrem libri videntur esse felicitatis speculativae immediatissima instrumenta, unde Aristoteles, sol philosophicae veritatis, ubi de eligendis distribuit methodos, docet quod philosophari est simpliciter eligibilius quam ditari, quamvis in casu ex circumstantia, puta necessariis indigenti, ditari quam philosphari sit potius eligendum—tertio Topicorum. 
  
 
  
-Adhuc cum libri sint nobis commodissimi magistri, ut praecedens assumit capitulum, eisdem non immerito tam honorem quam amorem tribuere convenit magistralem. Tandem cum omnes homines natura scire desiderent ac per libros scientiam veterum praeoptandum divitiis omnibus adipisci possimus, quis homo secundum naturum vivens librorum non habeat appetitum? Quamvis vero porcos margaritas spernere sciamus, hihil in hoc prudentis laedetur opinio, quominus oblatas comparet margaritas. Pretiosior est igitur cunctis opibus sapientiae libraria, et omnia quae desiderantur huic non valent comparari&#151;Proverbiorum tertio. Quisquis igitur se fatetur veritatis, felicitatis, sapientiae vel scientiae, seu etiam fidei zelatorem, librorum necesse est se faciat amatorem. 
+Adhuc cum libri sint nobis commodissimi magistri, ut praecedens assumit capitulum, eisdem non immerito tam honorem quam amorem tribuere convenit magistralem. Tandem cum omnes homines natura scire desiderent ac per libros scientiam veterum praeoptandum divitiis omnibus adipisci possimus, quis homo secundum naturum vivens librorum non habeat appetitum? Quamvis vero porcos margaritas spernere sciamus, hihil in hoc prudentis laedetur opinio, quominus oblatas comparet margaritas. Pretiosior est igitur cunctis opibus sapientiae libraria, et omnia quae desiderantur huic non valent comparari—Proverbiorum tertio. Quisquis igitur se fatetur veritatis, felicitatis, sapientiae vel scientiae, seu etiam fidei zelatorem, librorum necesse est se faciat amatorem. 
  
 
 
@@ -332,11 +332,11 @@ Jam volumus prosequi novum genus injuriae, quo tam in nostris personis laedimur 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Quem recitas, meus est, O Fidentine, libellus; 
+        Quem recitas, meus est, O Fidentine, libellus; 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;Sed male quum recitas, incipit esse tuus. [ Epi. , i. 38]
+      Sed male quum recitas, incipit esse tuus. [ Epi. , i. 38]
  
 
  
@@ -379,31 +379,31 @@ Sed, quod dolentes referimus, jam Thersites ignavus arma contrectat Achilles ex 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Liber Bacchus respicitur 
+              Liber Bacchus respicitur 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;et in ventrem traicitur 
+            et in ventrem traicitur 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;nocte dieque; 
+              nocte dieque; 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;liber codex despicitur 
+            liber codex despicitur 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;et a manu reicitur 
+            et a manu reicitur 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;longe lateque.
+              longe lateque.
  
 
  
-&#160;&#160;Tanquam si cujusdam aequivocationis multiplicate fallatur simplex monachica plebs moderna, dum Liber pater praeponitur libro patrum, calcibus epotandis non codicibus emendandis indulget hodie studium monachorum; quibus lasciviam musicam Timothei pudicis moribus aemulam non verentur adjungere, sicque cantus ludentis non planctus lugentis officium efficitur monachale. 
+  Tanquam si cujusdam aequivocationis multiplicate fallatur simplex monachica plebs moderna, dum Liber pater praeponitur libro patrum, calcibus epotandis non codicibus emendandis indulget hodie studium monachorum; quibus lasciviam musicam Timothei pudicis moribus aemulam non verentur adjungere, sicque cantus ludentis non planctus lugentis officium efficitur monachale. 
  
 
  
@@ -556,7 +556,7 @@ Quamvis enim ab adolescentia nostra semper socialem communionem cum viris litter
  
 
  
-Sane dum invictissimi principis ac semper magnifice triumphantis regis Angliae Eduardi Tertii post conquestum,&#151;cujus tempora serenare dignetur Altissimus diutine et tranquille&#151;, primo quidem suam concernentibus curiam, deinde vero rempublicam regni sui, cancellarii videlicet ac thesaurarii, fungeremur officiis, patescebat nobis aditus facilis, regalis favoris intuitu, ad librorum latebras libere perscrutandas. 
+Sane dum invictissimi principis ac semper magnifice triumphantis regis Angliae Eduardi Tertii post conquestum,—cujus tempora serenare dignetur Altissimus diutine et tranquille—, primo quidem suam concernentibus curiam, deinde vero rempublicam regni sui, cancellarii videlicet ac thesaurarii, fungeremur officiis, patescebat nobis aditus facilis, regalis favoris intuitu, ad librorum latebras libere perscrutandas. 
  
 
  
@@ -659,7 +659,7 @@ Sicut enim in corporis probitate praestantiores legimus praecessisse, quam moder
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Omnia cum veterumm sint cxplorata libellis, &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Multa loqui breviter sit novitatis opus. 
+        Omnia cum veterumm sint cxplorata libellis,         Multa loqui breviter sit novitatis opus. 
  
 
  
@@ -671,7 +671,7 @@ Mustum fumosum juvenilis ingenii philosophicae difficultati delibant, vinumque m
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Omnes declinat ad ea lucra ministrant, &#160;&#160;&#160;&#160;&#160;&#160;Utque sciant discunt pauci, plures ut abundent; &#160;&#160;&#160;&#160;&#160;&#160;Sic te prostituunt, O virgo Scientia! sic te &#160;&#160;&#160;&#160;&#160;&#160;Venalem faciunt castis amplexibus aptam, &#160;&#160;&#160;&#160;&#160;&#160;Non te propter te quaerentes, sed lucra per te, &#160;&#160;&#160;&#160;&#160;&#160;Ditarique volunt potius, quam philosophari;
+        Omnes declinat ad ea lucra ministrant,       Utque sciant discunt pauci, plures ut abundent;       Sic te prostituunt, O virgo Scientia! sic te       Venalem faciunt castis amplexibus aptam,       Non te propter te quaerentes, sed lucra per te,       Ditarique volunt potius, quam philosophari;
  
 
  
@@ -679,7 +679,7 @@ et infra:
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;sic Philosophia &#160;&#160;&#160;&#160;&#160;&#160;Exilium patitur, et Philopecunia regnat, 
+                sic Philosophia       Exilium patitur, et Philopecunia regnat, 
  
 
  
@@ -738,7 +738,7 @@ Quemadmodum namque in scriptoribus annalium considerare non est difficile quod s
  
 
  
-Quid fecisset Vergilius, Latinorum poeta praecipuus, si Theocritum, Lucretium et Homerum minime spoliasset et in eorum vitula non arasset? quid nisi Parthenium Pindarumque, cujus eloquentiam nullo modo potuit imitari, aliquatenus lectitasset? Quid Sallustius, Tullius, Boetius, Macrobius, Lactantius, Martianus, immo tota cohors generaliter Latinorum, si Athenarum studia vel Graecorum volumina non vidissent? &#160;&#160;Parum certe in scripturae gazophylacium Hieronymus, trium linguarum peritus, Ambrosius, Augustinus, qui tamen Graecas litteras se fatetur odisse, immo Gregorius, qui prorsus eas se nescisse describit, ad doctrinam ecclesiae contulissent, si nihil eisdem doctior Graecia commodasset. Cujus rivulis Roma rigata, sicut prius generavit philosophos ad Graecorum effigiem, pari forma postea protulit orthodoxae fidei tractatores. Sudores sunt Graecorum symbola quae cantamus, eorundem declarata consiliis et multorum martyrio confirmata. 
+Quid fecisset Vergilius, Latinorum poeta praecipuus, si Theocritum, Lucretium et Homerum minime spoliasset et in eorum vitula non arasset? quid nisi Parthenium Pindarumque, cujus eloquentiam nullo modo potuit imitari, aliquatenus lectitasset? Quid Sallustius, Tullius, Boetius, Macrobius, Lactantius, Martianus, immo tota cohors generaliter Latinorum, si Athenarum studia vel Graecorum volumina non vidissent?   Parum certe in scripturae gazophylacium Hieronymus, trium linguarum peritus, Ambrosius, Augustinus, qui tamen Graecas litteras se fatetur odisse, immo Gregorius, qui prorsus eas se nescisse describit, ad doctrinam ecclesiae contulissent, si nihil eisdem doctior Graecia commodasset. Cujus rivulis Roma rigata, sicut prius generavit philosophos ad Graecorum effigiem, pari forma postea protulit orthodoxae fidei tractatores. Sudores sunt Graecorum symbola quae cantamus, eorundem declarata consiliis et multorum martyrio confirmata. 
  
 
  
@@ -831,7 +831,7 @@ Idcirco prudentia veterum adinvenit remedium, quo lascivum humanum caperetur ing
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Aut prodesse volunt aut delectare poctae. 
+        Aut prodesse volunt aut delectare poctae. 
  
 
  
@@ -839,7 +839,7 @@ Hoc idem in alio versu ejusdem libri patenter insinuat, ita scribens:
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Omne tulit punctum qui miscuit utile dulci. 
+        Omne tulit punctum qui miscuit utile dulci. 
  
 
  
@@ -905,7 +905,7 @@ HUMANUM transcendit ingenium, quanrumcunque de fonte fuerit Pegaseo potatum, ins
  
 
  
-Hic autem amor philosophia Graeco vocabulo nuncupatur, cujus virtutem nulla creata intelligentia comprehendit, quoniam vere creditur bonorum omnium esse mater:&#151; Sap. septimo. Aestus quippe carnalium vitiorum quasi caelicus ros exstingulit, dum motus intensus virtutum animalium vires naturalium virtutum remittit, otio penitus effugato, quo sublato periere Cupidinis arcus omnes. 
+Hic autem amor philosophia Graeco vocabulo nuncupatur, cujus virtutem nulla creata intelligentia comprehendit, quoniam vere creditur bonorum omnium esse mater:— Sap. septimo. Aestus quippe carnalium vitiorum quasi caelicus ros exstingulit, dum motus intensus virtutum animalium vires naturalium virtutum remittit, otio penitus effugato, quo sublato periere Cupidinis arcus omnes. 
  
 
  
@@ -917,7 +917,7 @@ Rursus mundanas pecunias parvipendunt ex animo, quotquot amor affecit librorum, 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nulla libris erit apta manus ferrugine tincta, &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nec nummata queunt corda vacare libris. &#160;&#160;&#160;&#160;&#160;&#160;Non est ejusdem nummos librosque probare; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Persequitur libros grex, Epicure, tuus. &#160;&#160;&#160;&#160;&#160;&#160;Nummipatae cum libricolis nequeunt simul esse; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ambos, crede mihi, non tenet una domus.
+        Nulla libris erit apta manus ferrugine tincta,         Nec nummata queunt corda vacare libris.       Non est ejusdem nummos librosque probare;         Persequitur libros grex, Epicure, tuus.       Nummipatae cum libricolis nequeunt simul esse;         Ambos, crede mihi, non tenet una domus.
  
 
  
@@ -1125,7 +1125,7 @@ DIFFICILE semper fuit sic homines limitare legibus honestatis, quin astutia succ
  
 
  
-In primis enim libros omnes et singulos, de quibus catalogum fecimus specialem, concedimus et donamus intuitu caritatis communitati scholarium in aula N Oxoniensi degentium, in perpetuam eleemosynam pro anima nostra et parentum nostrorum necnon pro animabus illustrissimi regis Angliae Edwardi tertii post conquestum ac devotissimae dominae reginae Philippae consortis ejusdem, ut iidem libri omnibus et singulis universitatis dictae villae scholaribus et magistris tam regularibus quam saecularibus commodentur pro tempore ad profectum et usum studendi, juxta modum quem immediate subjungimus, qui est talis. &#160;&#160;Quinque de scholaribus in aula preafata commorantibus assignentur per ejusdem aulae magistrum, quibus omnium librorum custodia deputetur, de quibus quinque personis tres et nullatenus pauciores librum vel libros ad inspectionem et usum dumtaxat studii valeant commodare; ad copiandum vero vel transcribendum nullum librum volumus extra saepta domus concedi. 
+In primis enim libros omnes et singulos, de quibus catalogum fecimus specialem, concedimus et donamus intuitu caritatis communitati scholarium in aula N Oxoniensi degentium, in perpetuam eleemosynam pro anima nostra et parentum nostrorum necnon pro animabus illustrissimi regis Angliae Edwardi tertii post conquestum ac devotissimae dominae reginae Philippae consortis ejusdem, ut iidem libri omnibus et singulis universitatis dictae villae scholaribus et magistris tam regularibus quam saecularibus commodentur pro tempore ad profectum et usum studendi, juxta modum quem immediate subjungimus, qui est talis.   Quinque de scholaribus in aula preafata commorantibus assignentur per ejusdem aulae magistrum, quibus omnium librorum custodia deputetur, de quibus quinque personis tres et nullatenus pauciores librum vel libros ad inspectionem et usum dumtaxat studii valeant commodare; ad copiandum vero vel transcribendum nullum librum volumus extra saepta domus concedi. 
  
 
  
@@ -1164,7 +1164,7 @@ Hoc autem omnino adicimus quod quilibet, cui liber aliquis fuerit commodatus, se
  
 
  
-TEMPUS jam efflagitat terminare tractatum, quem de amore librorum compegimus, in quo contemporaneorum nostrorum admirationibus de eo quod tantum libros dileximus rationem reddere nisi sumus. Verum quia vix datur aliquid operari mortalibus, quod nullius respergatur pulvere vanitatis, studiosum amorem, quem ita diuturnum ad libros habuimus, justificare penitus non audemus, quin fuerit forsan nobis quandoque occasio alicuis negligentiae venialis, quamvis amoris materia sit honesta et intentio regulata. Si namque cum omnia fecerimus, servos nos inutiles dicere teneamur; si Job sanctissimus sua opera verebatur; si juxta Isaiam quasi pannus menstruatae omnes sunt justitiae nostrae; quis se de perfectione cujuscunque virtutis praesumet jactare, quin forsitan a seipso non poterit deprehendi? Bonum enin ex integris causis, malum autem omnifarie&#151;sicut Dionysius, De divinis nominibus , nos informat. 
+TEMPUS jam efflagitat terminare tractatum, quem de amore librorum compegimus, in quo contemporaneorum nostrorum admirationibus de eo quod tantum libros dileximus rationem reddere nisi sumus. Verum quia vix datur aliquid operari mortalibus, quod nullius respergatur pulvere vanitatis, studiosum amorem, quem ita diuturnum ad libros habuimus, justificare penitus non audemus, quin fuerit forsan nobis quandoque occasio alicuis negligentiae venialis, quamvis amoris materia sit honesta et intentio regulata. Si namque cum omnia fecerimus, servos nos inutiles dicere teneamur; si Job sanctissimus sua opera verebatur; si juxta Isaiam quasi pannus menstruatae omnes sunt justitiae nostrae; quis se de perfectione cujuscunque virtutis praesumet jactare, quin forsitan a seipso non poterit deprehendi? Bonum enin ex integris causis, malum autem omnifarie—sicut Dionysius, De divinis nominibus , nos informat. 
  
 
  

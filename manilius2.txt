@@ -16,7 +16,7 @@ Maximus Iliacae gentis certamina vates
 et quinquaginta regum regemque patremque 
 Hectoraque Aeacidae victamque sub Hectore Troiam, 
 erroremque ducis totidem, quot vicerat, annis 
-&lt;infestum experti dominum maris atque renato   4a 
+<infestum experti dominum maris atque renato   4a 
 instantem bello geminataque Pergama ponto 
 ultimaque in patria captisque penatibus arma 
 ore sacro cecinit; patriam cui turba petentum, 
@@ -118,7 +118,7 @@ attollunt animos caelumque et sidera servant
 corporaque ad lunae nascentis cornua lustrant 
 venturasque vident hiemes, reditura serena. 
 quis dubitet post haec hominem coniungere caelo,   105 
-&lt;cui, cupiens terras ad sidera surgere, munus&gt;   105a 
+<cui, cupiens terras ad sidera surgere, munus>   105a 
 eximium natura dedit linguamque capaxque 
 ingenium volucremque animum, quem denique in unum 
 descendit deus atque habitat seque ipse requirit? 
@@ -225,7 +225,7 @@ sed quibus illa parens mundi natura sacratas
 temporis attribuit partes statione perenni.   210 
 namque Sagittari signum rabidique Leonis 
 et sua respiciens aurato vellere terga, 
-tum Pisces &lt;et&gt; Cancer et acri Scorpios ictu, 
+tum Pisces <et> Cancer et acri Scorpios ictu, 
 aut vicina loco, divisa aut partibus aequis, 
 omnia dicuntur simili sub sorte diurna.   215 
 cetera, vel numero consortia vel vice sedis, 
@@ -241,7 +241,7 @@ Cancer et effuso gaudentes aequore Pisces.   225
 at, quae terrena censentur sidera sorte, 
 princeps armenti Taurus regnoque superbus 
 lanigeri gregis est Aries pestisque duorum 
-praedatorque Leo &lt;et&gt; dumosis Scorpios arvis. 
+praedatorque Leo <et> dumosis Scorpios arvis. 
 sunt etiam mediae legis communia signa,   230 
 ambiguus tergo Capricornus, Aquarius undis, 
 umida terrenis aequali foedere mixta.   233 
@@ -305,12 +305,12 @@ quorum designat normalis virgula sedes,
 haec quadrata ferunt. Libram Capricornus et illum   290 
 conspicit ante Aries atque ipsum a partibus aequis 
 Cancer et hunc laeva subeuntis sidera Librae. 
-semper enim &lt;in&gt; dextris censentur signa priora. 
+semper enim <in> dextris censentur signa priora. 
 sic licet in totidem partes diducere cuncta 
 ternaque bis senis quadrata effingere signis,   295 
 quorum proposito reddentur in ordine vires. 
   Sed siquis contentus erit numerasse quadrata, 
-divisum &lt;ut&gt; signis mundum putet esse quaternis, 
+divisum <ut> signis mundum putet esse quaternis, 
 aut tribus ac binis signis ornare trigonum, 
 ut socias vires et amicos exigat ortus   300 
 foederaque inveniat mundi cognata per astra, 
@@ -481,7 +481,7 @@ conveniunt, ut certa gerant commercia rerum,
 inque vicem praestant visus atque auribus haerent 
 aut odium foedusve gerunt, conversaque quaedam 
 in semet proprio ducuntur prona favore.   470 
-idcirco adversis non numquam &lt;est&gt; gratia signis, 
+idcirco adversis non numquam <est> gratia signis, 
 et bellum sociata gerunt; alienaque sede 
 inter se generant coniunctos omne per aevum, 
 a triquetrisque orti pugnant fugiuntque vicissim; 
@@ -489,7 +489,7 @@ quod deus, in leges mundum cum conderet omnem,   475
 affectus quoque divisit variantibus astris, 
 atque aliorum oculos, aliorum contulit aures, 
 iunxit amicitias horum sub foedere certo, 
-&lt;illis perpetuas statuit discordibus iras,&gt;   478a 
+<illis perpetuas statuit discordibus iras,>   478a 
 cernere ut inter se possent audireque quaedam, 
 diligerent alia et noxas bellumque moverent, 
 his etiam propriae foret indulgentia sortis, 
@@ -606,8 +606,8 @@ sponsoremque reus timuit, ne solveret ipsum]
 at quanta est scelerum moles per saecula cuncta,   592 
 quamque onus invidiae non excusabile terris! 
 venales ad fata patres matrumque sepulcra 
-&lt;non posuere modum sceleri, sed fraude nefanda   594a 
-ipse deus Caesar cecidit, qua territus orbi&gt;   594b 
+<non posuere modum sceleri, sed fraude nefanda   594a 
+ipse deus Caesar cecidit, qua territus orbi>   594b 
 imposuit Phoebus noctem terrasque reliquit. 
 quid loquar eversas urbes et prodita templa 
 et varias pacis clades et mixta venena 
@@ -634,8 +634,8 @@ venalisque animus non umquam excedere cogit
 commoditate fidem, nec longa est gratia facti; 
 plus tamen in duplici numerandum est roboris esse,   622 
 cui commixtus homo est, quam te, Nemeaee, sub uno. 
-at, cum Lanigeri partus sub utroque &lt;laborant   619 
-vique urgente dolent amborum astuque,&gt; trigono   619a 
+at, cum Lanigeri partus sub utroque <laborant   619 
+vique urgente dolent amborum astuque,> trigono   619a 
 non parcit; sed rara gerit pro tempore bella, 
 quae feritas utriusque magis prorumpere cogit. 
 idcirco et pax est signis et mixta querella.   624 
@@ -685,8 +685,8 @@ signa parem referunt numeris aut tempore sortem
 ac veluti cognata manent sub foedere tali.   670 
 idcirco affines signant gradibusque propinquis 
 accedunt unaque tenent sub imagine natos, 
-quotquot cardinibus, &lt;prona vertigine mundi   683 
-naturae vires&gt; propriae variante, moventur;   683a 
+quotquot cardinibus, <prona vertigine mundi   683 
+naturae vires> propriae variante, moventur;   683a 
 quae, quamquam in partes divisi quattuor orbis 
 sidera quadrata efficiunt, non lege quadrati 
 censentur: minor est numeri quam cardinis usus. 
@@ -969,7 +969,7 @@ unus in occasu locus est super. ille ruentem
 praecipitat mundum terris et sidera mergit, 
 tergaque prospectat Phoebi, qui viderat ora;   950 
 ne mirere, nigri si Ditis ianua fertur 
-et finem vitae retinet&lt;que repagula mortis.&gt; 
+et finem vitae retinet<que repagula mortis.> 
 hic etiam ipse dies moritur, tellusque per orbem 
 surripit et noctis captum sub carcere claudit. 
 nec non et fidei tutelam vindicat ipsi   955 

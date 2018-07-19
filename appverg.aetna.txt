@@ -56,7 +56,7 @@ Pelion Ossa creat, summus premit Ossan Olympus.
 Iam coacervatas nituntur scandere moles,      50 
 impius et miles metuentia comminus astra 
 provocat, infestus cunctos ad proelia divos 
-provocat admotisque &lt;ad> tertia sidera signis 
+provocat admotisque <ad> tertia sidera signis 
 Iuppiter e caelo metuit dextramque corusca 
 armatus flamma removet caligine mundum.     55 
 Incursant vasto primum clamore gigantes: 
@@ -443,7 +443,7 @@ sulpure non solum nec obesa bitumine terra est,
 et lapis adiutat generandis ignibus aptus, 
 sed raro fumat, quin vix si accenditur ardet, 
 in breve mortalis flammas quod copia nutrit. 
-Insula durat &lt;et> a Volcani nomine sacra,     440 
+Insula durat <et> a Volcani nomine sacra,     440 
 pars tamen incendi maior refrixit et alto 
 iactatas recipit classes portuque tuetur; 
 quae restat minor, et dives satis ubere terra est, 
@@ -461,7 +461,7 @@ pabula et ardendi causam lapidem esse molarem,
 cuius defectus ieiunos colligit ignes.        455 
 Ille ubi collegit flammas iacit et simul ictu 
 materiam accendit cogitque liquescere secum. 
-Haud equidem mirum, &lt;in> facie quae cernimus extra, 
+Haud equidem mirum, <in> facie quae cernimus extra, 
 si lenitur opus, restat: magis uritur illic 
 sollicitatque magis vicina incendia saxum     460 
 certaque venturae praemittit pignora flammae. 
@@ -561,7 +561,7 @@ vincitur et solvit vires captusque liquescit.
 Quae maiora putas autem tormenta movere     555 
 posse manu? Quae tanta putas incendia nostris 
 sustentare opibus, quantis fornacibus Aetna 
-uritur? A, sacro numquam non fertilis igni &lt;est>, 
+uritur? A, sacro numquam non fertilis igni <est>, 
 sed non qui nostro fervet moderatior usu, 
 sed caelo propiore et quali Iuppiter ipse     560 
 armatus flamma est: his viribus additur ingens 

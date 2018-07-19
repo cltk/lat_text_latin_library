@@ -111,8 +111,8 @@ M. Cornelius Fronto: Epistulae
    
   
    ad M. Caesarem 1.1 [1 Hout; 1.80 Haines]  
-  &lt;Caesari suo Fronto&gt; 
-  &lt;...&gt; Mittam igitur tibi quantum pote librum hunc descriptum. 
+  <Caesari suo Fronto> 
+  <...> Mittam igitur tibi quantum pote librum hunc descriptum. 
   Vale, Caesar, et ride et omnem vitam laetare et parentibus optimis et eximio ingenio tuo fruere. 
    
   
@@ -145,9 +145,9 @@ M. Cornelius Fronto: Epistulae
   
    ad M. Caesarem 1.5 [8 Hout; 1.96 Haines]  
   M. Caesari domino suo Fronto 
-  1 Domum reverso mihi epistula reddita est, quam tu videlicet Romam mihi scripseras, et erat lata Romam; deinde hodie relata et paulo ante mihi est reddita; in qua pauca, quae ego pro somno dixeram, tu multis et elegantibus argumentis refutasti ita scite, ita subtiliter et apte, ut, si vigilia tibi hoc acuminis et leporis adfert, ego prorsus vigilare te mallem. 2 Sed enim vespera scripsisse te ais, cum paulo post dormiturus esses. Igitur adpropinquans et imminens tibi somnus ram elegantem hanc epistulam fecit. Namque ut crocus ita somnus, priusquam prope adsit, longe praeolet longeque delectat. 3 Ut a principio igitur epistulae tuae incipiam, elegantissime ‘praevaricari’ te ais, quod &lt;...&gt; 
+  1 Domum reverso mihi epistula reddita est, quam tu videlicet Romam mihi scripseras, et erat lata Romam; deinde hodie relata et paulo ante mihi est reddita; in qua pauca, quae ego pro somno dixeram, tu multis et elegantibus argumentis refutasti ita scite, ita subtiliter et apte, ut, si vigilia tibi hoc acuminis et leporis adfert, ego prorsus vigilare te mallem. 2 Sed enim vespera scripsisse te ais, cum paulo post dormiturus esses. Igitur adpropinquans et imminens tibi somnus ram elegantem hanc epistulam fecit. Namque ut crocus ita somnus, priusquam prope adsit, longe praeolet longeque delectat. 3 Ut a principio igitur epistulae tuae incipiam, elegantissime ‘praevaricari’ te ais, quod <...> 
   [duae paginae desunt] 
-  &lt;...&gt; est, ut eo sublato aliud subdi ejusdem usus et ponderis non possit. Illud vero dictum elegans ac saviatum, quo ais “neque alia omnia quae Ὀδυσσείαν faciunt”. 4 Enimvero omnia istaec inter Graecos versus Latina ita scite alternata sunt et a te et interposita, ut est ille in pyrrhica versiculorum discursus, quom amicti cocco alii, alii luteo, et ostro et purpura alii aliique cohaerentes concursant. 
+  <...> est, ut eo sublato aliud subdi ejusdem usus et ponderis non possit. Illud vero dictum elegans ac saviatum, quo ais “neque alia omnia quae Ὀδυσσείαν faciunt”. 4 Enimvero omnia istaec inter Graecos versus Latina ita scite alternata sunt et a te et interposita, ut est ille in pyrrhica versiculorum discursus, quom amicti cocco alii, alii luteo, et ostro et purpura alii aliique cohaerentes concursant. 
   5 Jam a Laertio ad Atridam eleganter transisti. Ecce autem circa Q. Ennium aliam malitiosam petam dedisti, cum ais “nisi ex somno exsuscitatus esset, numquam somnium suum narrasset”. At oderit me Marcus meus Caesar, si pote, argutius! Praestrigiae nullae tam versutae, “nulla”, ut ait Laevius, “decipula tam insidiosa”. Quid si ego id postulo, ne expergiscare? Quin postulo, ut dormias! Aliud scurrarum proverbium: “En cum quo in tenebris mices”. Sed sumne ego beatus, qui haec intellego et perspicio et insuper ab domino meo Caesare magister appellor? Quo pacto ego magister, qui unum hoc, quod te docere cupio, ut dormias non inpetro? 6 Perge, uti libet, dummodo dii te mihi, sive prodormias sive pervigiles, facultate fandi et tam eleganti prosperent. 
   7 Vale, meum gaudium et cura mea seria. 
    
@@ -208,11 +208,11 @@ M. Cornelius Fronto: Epistulae
   3 Τίς ἂν οὖν εἰκὼν εὑρεθείη πιθανή; μάλιστα μὲν ἀνθρωπίνη, ἄμεινον δὲ, εἰ καὶ μουσική. εἰ δ᾽ αὖ καὶ φιλίας ἢ ἔρωτος αὐτῇ μετείη, μᾶλλον ἂν ἔτι ἡ εἰκὼν ἐοίκοι. τὸν Ὀρφέα φασὶν οἰμῶξαι ὀπίσω ἐπιστραφέντα· εἰ δὲ κατ᾽ εὐθὺ ἔβλεπέν τε καὶ ἐβάδιζεν, οὐκ ἂν ᾤμωξεν. ἅλις εἰκόνων. καὶ γὰρ αὕτη τις ἀπίθανος ἡ τοῦ Ὀρφέως εἰκὼν ἐξ ᾅδου ἀνιμημένη. 
   4 Ἀπολογήσομαι δὲ τοὐντεῦθεν ἤδη ὅθεν ἂν ῥᾷστα συγγνώμης τύχοιμι. τί δὴ τοῦτό ἐστιν; ὅτι συγγράφων τὸ τοῦ βασιλέως ἐγκώμιον ἔπραττον μὲν, ὃ μάλιστα σοί τε καὶ τῷ σῷ παιδὶ κεχαρισμένον ἐστίν· ἔπειτα δὲ καὶ ὑμῶν ἐμεμνήμην καὶ ὠνόμαζόν γε ὑμᾶς ἐν τῷ συγγράμματι, ὥσπερ οἱ ἐρασταὶ τοὺς φιλτάτους ὀνομάζουσιν ἐπὶ πάσῃ κύλικι. ἀλλὰ γὰρ τέχνωσις τῶν εἰκόνων ἐπεισρεῖ καὶ ἐπιφύεται. αὕτη γοῦν παρεφάνη, ἣν ἐπὶ πάσαις λέγω, ἥτις καὶ δικαιότατα εἰκὼν ἂν προσαγορεύοιτο οὖσα ἐκ ζωγράφου· τὸν Πρωτογένη τὸν ζωγράφον φασὶν ἕνδεκα ἔτεσιν τὸν Ἰάλυσον γράψαι, μηδὲν ἕτερον ἐν τοῖς ἕνδεκα ἔτεσιν ἢ τὸν Ἰάλυσον γράφοντα. ἐμοὶ δὲ οὐχ εἷς, δύο δὲ ἅμα Ἰαλύσω ἐγραφέσθην, οὐ δὴ τοῖν προσώποιν οὐδὲ ταῖν μορφαῖν μόνον, ἀλλὰ καὶ τοῖν τρόποιν καὶ ταῖν ἀρεταῖν οὐ μετρίω ὄντε ἄμφω οὐδὲ γράφεσθαι ῥᾳδίω, ἀλλ᾽ ὁ μέν ἐστιν μέγας βασιλεὺς ἄρχων πάσης τῆς γῆς καὶ θαλάττης, ὁ δὲ ἕτερος υἱὸς μεγάλου βασιλέως, ἐκείνου μὲν οὕτω παῖς ὥσπερ Ἀθάνα τοῦ Διός, σὸς δὲ υἱὸς ὡς τῆς Ἥρας ὁ Ἥφαιστος· ἀπέστω δὲ τὸ τῶν ποδῶν ταύτης τῆς τοῦ Ἡφαίστου εἰκόνος. ἡ μὲν οὖν ἀπολογία αὕτη ἂν εἴη πάνυ τις εἰκαστικὴ γενομένη καὶ γραφικὴ εἰκόνων ἔκπλεως αὐτὴ. 
   5 Μάλ᾿ ἔτι κατὰ τοὺς γεωμέτρας αἰτήσομαι· τὸ ποῖον; εἴ τι τῶν ὀνομάτων ἐν ταῖς ἐπιστολαῖς ταύταις εἴη ἄκυρον ἢ βάρβαρον ἢ ἄλλως ἀδόκιμον ἢ μὴ πάνυ Ἀττικόν, ἀμελεῖν μὲν τοῦ ὀνόματος σ᾽ ἀξιῶ τήν δὲ διάνοιαν σκοπεῖν αὐτὴν καθ᾽ αὑτήν· οἶσθα γὰρ ὅτι ἐν αὐτοῖς ὀνόμασιν καὶ αὐτῇ διαλέκτῳ διατρίβω. καὶ γὰρ τὸν Σκύθην ἐκεῖνον τὸν Ἀνάχαρσιν οὐ πάνυ τι ἀττικίσαι φασίν, ἐπαινεθῆναι δ᾽ ἐκ τῆς διανοίας καὶ τῶν ἐνθυμημάτων. παραβαλῶ δὴ ἐμαυτὸν Ἀναχάρσιδι οὐ μὰ Δία κατὰ τὴν σοφίαν ἀλλὰ κατὰ τὸ βάρβαρος ὁμοίως εἶναι. ἦν γὰρ ὁ μὲν Σκύθης τῶν νομάδων Σκυθῶν, ἐγὼ δὲ Λίβυς τῶν Λιβύων τῶν νομάδων. κοινὸν δὲ ἦν τὸ νέμεσθαι ἐμοί τε καὶ Ἀναχάρσιδι· κοινὸν οὖν ἔσται καὶ τὸ βληχᾶσθαι νεμομένοις, ὅπως ἄν τις βληχήσηται. οὕτως μὲν δὴ καὶ τὸ βαρβαρίζειν τῷ βληχᾶσθαι προσῄκασα. οὐκοῦν παύσομαι μηδὲν ἕτερον γράφων ἀλλὰ εἰκόνας. 
-  &lt;“-- tres fere paginae desunt --”&gt; 
+  <“-- tres fere paginae desunt --”> 
    
   
    ad M. Caesarem 2.4 [24 Hout; 1.108 Haines]  
-  &lt;Caesari suo consul.&gt; 
+  <Caesari suo consul.> 
   1 Posterioribus litteris tuis, cur orationem in senatu non recitaverim, requisisti. At ego et edicto gratias agere domino meo patri tuo debeo, sed edictum quidem circensibus nostris proponam; cujus principium id ipsum erit: “Qua die primum beneficio maximi principis ederem spectaculum gratissimum populo maximeque populare, tempestivom duxi esse gratiae agere ut idem dies”, hic sequatur Tulliana conclusio. Orationem autem in senatu recitabo Augustis Idibus. Quaeras fortasse cur tam tarde? Quoniam ego numquam quam primum officio sollemni quoquo modo fungi propero. Sed ut tecum agere debeo sine fuco et sine ambagibus, dicam, quid cum animo reputem. Divom Hadrianum avom tuom laudavi in senatu saepenumero studio inpenso et propenso quoque; et sunt orationes istae frequentes in omnium manibus. Hadrianum autem ego, quod bona venia pietatis tuae dictum sit, ut Martem Gradivom, ut Ditem patrem propitium et placatum magis volui quam amavi. Quare? Quia ad amandum fiducia aliqua opus est et familiaritate: Quia fiducia mihi defuit, eo, quem tantopere venerabar, non sum ausus diligere. Antoninum vero ut solem, ut diem, ut vitam, ut spiritum amo, diligo, amari me ab eo sentio. Hunc nisi ita laudo ut laudatio me non in actis senatus abstrusa lateat, sed in manibus hominum oculisque versetur, ingratus sum etiam adversus te. Tum quod cursorem fugitivom ferunt dixisse, “domino sexagena currebam; mihi centena, ut fugiam, curram”, ego quoque quom Hadrianum laudabam domino currebam; hodie autem mihi curro, mihi, inquam, meoque ingenio hanc orationem conscribo. Ad meum igitur commodum faciam lente, otiose, clementer. 
   2 Tu si et valde properas, aliter te interum oblecta: Basia patrem tuum, amplectere, postremo ipse eum lauda. Ceterum quidem in Idus Augustas tibi expectandum est, ut quidvis, qualevis audias. 3 Vale, Caesar, et patrem promerere; et si quid scribere vis, lente scribe. 
    
@@ -222,24 +222,24 @@ M. Cornelius Fronto: Epistulae
   1 Manus do: Vicisti. Tu plane omnis qui umquam amatores fuerunt vicisti amando. Cape coronam atque etiam praeco pronuntiet palam pro tribunali victoriam istam tuam: Μ. Κορνήλιος Φρόντων ὕπατος νικᾷ, στεφανοῦται τὸν ἀγῶνα τῶν μεγάλων φιλοτησίων. At ego quamquam superatus tamen nihil de mea prothymia decesssero aut defecero. Igitur tu quidem me magis amabis quam ullus hominum ullum hominem amat; ego vero te, qui minorem vim in amando possideo, magis amabo quam ullus hominum te amat, magis denique quam tu temet ipsum amas. Jam mihi cum Cratia certamen erit quam timeo ut superare possim. Nam illius quidem, ut Plautus ait, “amoris imber grandibus guttis non vestem modo permanavit sed in medullam ultro fluit”. 
   2 Quas tu litteras te ad me existimas scripsisse! Ausim dicere quae me genuit atque aluit nihil umquam tam jucundum tamque mellitum eam ad me scripsisse. Neque hoc fit facundia aut eloquentia: Alioqui non modo mater mea sed omnes qui spirant quod faciunt confestim tibi cesserint. Sed istae litterae ad me tuae neque disertae neque doctae, tanta benignitate scatentes, tanta adfectione abundantes, tanto amore lucentes, non satis proloqui possum ut animum meum gaudio in altum sustulerint, desiderio fraglantissimo incitaverint, postremo, quod ait Naevius, “animum amore capitali conpleverint”. 
   3 Illa alia epistula tua, qua indicabas cur tardius orationem qua laudaturus es dominum meum in senatu prolaturus esses, tanta me voluptate adfecit ut temperare non potuerim (et videris tu an temere fecerim), quin eam ipsi patri meo recitarem. Quanto opere autem eum juverit, nihil me oportet persequi quom tu et illius summam benevolentiam et tuarum litterarum egregiam elegantiam noris. Sed ex ea re longus sermo nobis super te exortus est, multo multoque longior quam tibi et quaestori tuo de me. Itaque nec tibi dubito ibidem in foro diu tinnisse auriculas. Conprobat igitur dominus meus et amat causas propter quas recitationem tuam in longiorem diem protulisti 
-  &lt;“--quattuor paginae desunt--”&gt; 
+  <“--quattuor paginae desunt--”> 
    
   
    ad M. Caesarem 2.6 [27 Hout; 1.128 Haines]  
-  &lt;M. Aurelius Caesar consuli suo et magistro salutem&gt; 
-  1 &lt;...&gt; sane, si quid Graeci veteres tale scripserunt, viderint, qui sciunt; ego, si fas est dicere, nec M. Porcium tam bene vituperantem, quam tu laudasti usquam advorti. O, si dominus meus satis laudari posset, profecto a te satis laudatus esset! τοῦτο τὸ ἔργον οὐ γίνεται νῦν. Facilius quis Phidian, facilius Apellen, facilius denique ipsum Demosthenen imitatus fuerit aut ipsum Catonem quam hoc tam effectum et elaboratum opus. Nihil ego umquam cultius, nihil antiquius, nihil conditius, nihil Latinius legi. O te hominem beatum hac eloquentia praeditum! O me hominem beatum huic magistro traditum! O ἐπιχειρήματα, o τάξις, o elegantia, o lepos, o venustas, o verba, o nitor, o argutiae, o χάριτες, o ἄσκησις, o omnia! Ne valeam, nisi aliqua die virga in manibus tibi tradenda erat, diadema circumponendum, tribunal ponendum; tum praeco omnis nos citaret. Quid ‘nos’ dico? Omnis, inquam, philologos et disertos istos: Eos tu singulos virfa perduceres, verbis moneres. Mihi adhuc nullus metus hujus admonitionis erat: Multa supersunt, ut in ludum tuum pedem introferam. 
+  <M. Aurelius Caesar consuli suo et magistro salutem> 
+  1 <...> sane, si quid Graeci veteres tale scripserunt, viderint, qui sciunt; ego, si fas est dicere, nec M. Porcium tam bene vituperantem, quam tu laudasti usquam advorti. O, si dominus meus satis laudari posset, profecto a te satis laudatus esset! τοῦτο τὸ ἔργον οὐ γίνεται νῦν. Facilius quis Phidian, facilius Apellen, facilius denique ipsum Demosthenen imitatus fuerit aut ipsum Catonem quam hoc tam effectum et elaboratum opus. Nihil ego umquam cultius, nihil antiquius, nihil conditius, nihil Latinius legi. O te hominem beatum hac eloquentia praeditum! O me hominem beatum huic magistro traditum! O ἐπιχειρήματα, o τάξις, o elegantia, o lepos, o venustas, o verba, o nitor, o argutiae, o χάριτες, o ἄσκησις, o omnia! Ne valeam, nisi aliqua die virga in manibus tibi tradenda erat, diadema circumponendum, tribunal ponendum; tum praeco omnis nos citaret. Quid ‘nos’ dico? Omnis, inquam, philologos et disertos istos: Eos tu singulos virfa perduceres, verbis moneres. Mihi adhuc nullus metus hujus admonitionis erat: Multa supersunt, ut in ludum tuum pedem introferam. 
   2 Haec cum summa festinatione ad te scribo; nam quom domini mei ad te epistulam mitterem tam benignam, quid meis longioribus litteris opus erat? Igitur vale, decus eloquentiae Romanae, amicorum gloria, μέγα πρᾶγμα, homo jucundissime, consul amplissime, magister dulcissime. Postea cavebis de me, praesertim in senatu, tam multa mentiri. Horribiliter scripsisti hanc orationem. O, si ad singula capita caput tuum basiare possem! ἰσχυρῶς πάντων καταπεφρόνηκας. Hac oratione lecta frustra nos studemus, frustra laboramus, frustra nervos contendimus. Vale semper, magister dulcissime. 
    
   
    ad M. Caesarem 2.7 [28 Hout; 1.116 Haines]  
   Magistro meo. 
   Ego ab hora quarta et dimidia in hanc horam scripsi et Catonis multa legi et haec ad te eodem calamo scripto et te saluto et quam commode agas sciscitor. O, quam diu te non vidi! 
-  &lt;“--duae paginae desunt--”&gt; 
+  <“--duae paginae desunt--”> 
    
   
    ad M. Caesarem 2.8 [28 Hout; 1.136 Haines]  
-  &lt;Amplissimo consuli magistro suo M. Caesar salutem&gt; 
-  &lt;...&gt; adfinitate sociatum neque tutelae subditum, praeterea in ea fortuna constitutum in qua, ut Q. Ennius ait, “omnes dant consilium vanum atque ad voluptatem omnia”; item quod Plautus egregie in Colace super eadem re ait. 
+  <Amplissimo consuli magistro suo M. Caesar salutem> 
+  <...> adfinitate sociatum neque tutelae subditum, praeterea in ea fortuna constitutum in qua, ut Q. Ennius ait, “omnes dant consilium vanum atque ad voluptatem omnia”; item quod Plautus egregie in Colace super eadem re ait. 
   Qui data fide firmata fidentem fefellerint, subdoli subsentatores regi, qui sunt proximi, qui aliter regi dictis dicunt, aliter in animo habent. 
   Haec enim olim incommoda regibus solis fieri solebant, atenim nunc adfatim sunt “quei et regum filiis”, ut Naevius ait, “linguis faveant atque adnutent et subserviant”. Merito ego, mi magister, fraglo; merito unum meum σκοπόν mihi constitui; merito unum hominem cogito quom stilus in manus venit. 
   2 Hexametros meos jucundissime petis; quos ego quoque confestim misissem si illos mecum haberem. Nam librarius meus quem tu nosti, Anicetum dico, cum proficiscerer, nihil meorum scriptorum mecum misit. Scit enim morbum meum et timuit, ne si venissent in potestatem, quod soleo facerem et in furnum dimitterem. Sane istis hexametris prope nullum periculum erat. Ut enim verum magistro meo confitear, amo illos. 
@@ -251,12 +251,12 @@ M. Cornelius Fronto: Epistulae
    ad M. Caesarem 2.9 [29 Hout; 1.140 Haines]  
   Amplissimo consuli magistro suo M. Caesar salutem 
   Anno abhinc tertio me commemini cum patre meo a vindemia redeuntem in agrum Pompei Falconis devertere. Ibi me videre arborem multorum ramorum, quam ille suum nomen catachannam nominabat. Sed illa arbor mira et nova visa est mihi, in uno trunco omnia omnium ferme germina 
-  &lt;“--duae paginae deesse videntur--”&gt; 
+  <“--duae paginae deesse videntur--”> 
    
   
    ad M. Caesarem 2.10 [29 Hout; 1.116 Haines]  
-  &lt;M. Aurelius Caesar consuli suo et magistro salutem&gt; 
-  &lt;...&gt;deatur. Polemona ante hoc triduum declamantem audivimus, ἵνα τι καὶ περὶ ἀνθρώπων λαλήσωμεν. Si quaeris, quid visus sit mihi, accipe: Videtur mihi agricola strenuus, summa sollertia praeditus latum fundum in sola segete frumenti et vitibus occupasse, ubi sane et fructus pulcherrimus et reditus uberrimus. Sedenim nusquam in eo rure ficus Pompejana vel holus Acrinum vel rosa Tarentina vel nemus amoenum vel densior lucus vel platanus umbrosa: Omnia ad usum magis quam ad voluptatem, quaeque magis laudare oporteat amare non libeat. Satisne ego audaci consilio et judicio temerario videar, cum de tanta gloriae viro existimo? Sed quom me recordor tibi scribere, minus me audere, quam tu velis, arbitror. 
+  <M. Aurelius Caesar consuli suo et magistro salutem> 
+  <...>deatur. Polemona ante hoc triduum declamantem audivimus, ἵνα τι καὶ περὶ ἀνθρώπων λαλήσωμεν. Si quaeris, quid visus sit mihi, accipe: Videtur mihi agricola strenuus, summa sollertia praeditus latum fundum in sola segete frumenti et vitibus occupasse, ubi sane et fructus pulcherrimus et reditus uberrimus. Sedenim nusquam in eo rure ficus Pompejana vel holus Acrinum vel rosa Tarentina vel nemus amoenum vel densior lucus vel platanus umbrosa: Omnia ad usum magis quam ad voluptatem, quaeque magis laudare oporteat amare non libeat. Satisne ego audaci consilio et judicio temerario videar, cum de tanta gloriae viro existimo? Sed quom me recordor tibi scribere, minus me audere, quam tu velis, arbitror. 
   2 Nos istic vehementer aestuamus. Habes et hendecasyllabum ingenuum. Igitur priusquam poetarei incipio, pausan tecum facio. 3 Desiderantissime homo et tuo Vero carissime, consul amplissime, magister dulcissime, vale mi semper anima dulcissima. 
    
    ad M. Caesarem 2.11 [30 Hout; 1.140 Haines]  
@@ -291,8 +291,8 @@ M. Cornelius Fronto: Epistulae
    
   
    ad M. Caesarem 2.16 [34 Hout; 1.150 Haines]  
-  &lt;Magistro meo.&gt; 
-  &lt;...&gt; et meus me alipta faucibus urgebat. Sed quae, inquis, fabula? Ut pater meus a vineis domum se recepit. ego solito more equom inscendi et in viam profectus sum et paululum provectus. Deinde ibi in via sic oves multae conglobatae adstabant, ut locis solet artis, et canes quattuor et duo pastores, sed nihil praeterea. Tum pastor unus ad alterum pastorem, postquam plusculum equites vidit, “vide tibi istos equites”, inquit, “nam illi solent maximas rapinationes facere”. Ubi id audivi, calcar equo subpingo, ecum in ovis inigo. Oves consternatae disperguntur; aliae alibi palantes balantesque oberrant. Pastor furcam intorquet; furca in equitem, qui me sectabatur cadit. Nos aufugimus. Eo pacto, qui metuebat, ne ovis amitteret, furcam perdidit. Fabulam existimas? Res vera est; at etiam plura erant, quae de ea re scriberem, nisi jam me nuntius in balneum arcesseret. Vale, mi magister dulcissime, homo honestissime et rarissime, suavitas et caritas et voluptas mea. 
+  <Magistro meo.> 
+  <...> et meus me alipta faucibus urgebat. Sed quae, inquis, fabula? Ut pater meus a vineis domum se recepit. ego solito more equom inscendi et in viam profectus sum et paululum provectus. Deinde ibi in via sic oves multae conglobatae adstabant, ut locis solet artis, et canes quattuor et duo pastores, sed nihil praeterea. Tum pastor unus ad alterum pastorem, postquam plusculum equites vidit, “vide tibi istos equites”, inquit, “nam illi solent maximas rapinationes facere”. Ubi id audivi, calcar equo subpingo, ecum in ovis inigo. Oves consternatae disperguntur; aliae alibi palantes balantesque oberrant. Pastor furcam intorquet; furca in equitem, qui me sectabatur cadit. Nos aufugimus. Eo pacto, qui metuebat, ne ovis amitteret, furcam perdidit. Fabulam existimas? Res vera est; at etiam plura erant, quae de ea re scriberem, nisi jam me nuntius in balneum arcesseret. Vale, mi magister dulcissime, homo honestissime et rarissime, suavitas et caritas et voluptas mea. 
    
   
    ad M. Caesarem 2.17 [34 Hout; 1.152 Haines]  
@@ -309,7 +309,7 @@ M. Cornelius Fronto: Epistulae
    ad M. Caesarem 2.19 [35 Hout; 1.154 Haines]  
   M. Caesar magistro suo salutem dicit. 
   Proficio: Ista tua benignitate magnum mihi negotium peperisti. Nam illa cottidie tua Lorium ventio, illa in serum expectatio. 
-  &lt;“--complures paginae desunt--”&gt; 
+  <“--complures paginae desunt--”> 
   
    
   
@@ -318,8 +318,8 @@ M. Cornelius Fronto: Epistulae
    
   
    ad M. Caesarem 3.1 [35 Hout; 1.52 Haines] 
-  &lt;Domino meo&gt; 
-  &lt;...&gt; verborum honestatur, fit plane impudica. Denique idem tu, quom in senatu vel in contione populi dicendum fuit, nullo verbo remotiore usus es, nulla figura obscura aut insolenti: Ut qui scias eloquentiam Caesaris tubae similem esse debere, non tibiarum, in quibus minus est soni, plus difficultatis. 
+  <Domino meo> 
+  <...> verborum honestatur, fit plane impudica. Denique idem tu, quom in senatu vel in contione populi dicendum fuit, nullo verbo remotiore usus es, nulla figura obscura aut insolenti: Ut qui scias eloquentiam Caesaris tubae similem esse debere, non tibiarum, in quibus minus est soni, plus difficultatis. 
    
   
   
@@ -418,14 +418,14 @@ M. Cornelius Fronto: Epistulae
   
    ad M. Caesarem 3.15 [47 Hout; 1.100 Haines] 
   Magistro meo. 
-  Epistula Ciceronis mirifice adfecit animum meum. Miserat Brutus Ciceroni librum suum corrigendum &lt;...&gt; 
-  &lt;“-- duae paginae desunt--”&gt; 
+  Epistula Ciceronis mirifice adfecit animum meum. Miserat Brutus Ciceroni librum suum corrigendum <...> 
+  <“-- duae paginae desunt--”> 
    
   
   
    ad M. Caesarem 3.16 [47 Hout; 1.100 Haines] 
-  &lt;Domino meo.&gt; 
-  &lt;...&gt; molliantur atque ita efficacius sine ulla ad animos offensione audientium penetrent. Haec sunt profecto, quae tu putas obliqua et insincera et anxia et verae amicitiae minime adcommodata. At ego sine istis artibus omnem orationem absurdam et agrestem et incognitam, denique inertem atque inutilem puto. Neque magis oratibus arbitror necessaria ejusmodi artificia quam philosophis. In ea re non oratorum domesticis, quod dicitur, testimoniis utar, sed philosophorum eminentissimis, poetarum vetustissimis excellentissimisque, vitae denique cotidianae usu atque cultu artiumque omnium experimentis. 2 Quidnam igitur tibi videtur princeps ille sapientiae simul atque eloquentiae Socrates? Huic enim primo ac potissimo testimonium apud te denuntiavi: Eone usus genere dicendi, in quo nihil est oblicum, nihil interdum dissimulatum? Quibus ille modis Protagoram et Polum et Thrasymachum et sophistas ceteros versare atque inretire solitus? Quando eautem perta arta congressus est? Quando non ex insidiis adortus? Quo ex homine nata inversa oratio videtur, quam Graece εἰρωνείαν appellant. Alcibiaden vero ceterosque adulescentis genere aut fama aut opibus feroces quo pacto appellare atque adfari solebat? per jurgium an per πολιτείαν, exprobrando acriter quae delinquerent an leniter arguendo? Neque deerat Socrati profecto gravitas aut vis, qua tum cynicus Diogenes volgo saeviabat; sed vidit profecto ingenia partim hominum ac praecipue adulescentium facilius comi atque adfabili oratione leniri quam acri violentaque superari. Itaque non vineis neque arietibus errores adulescentium expugnabat, sed cuniculis subruebat, neque umquam ab eo auditores discessere lacerati sed nonnumquam lacessiti. Est enim genus hominum natura insectantibus indomitum, blandientibus conciliatum. Quamobrem facilius precariis decedimus, quam violentis deterremur, plusque ad corrigendum promovent consilia quam jurgia. Ita comitati monentium obsequimur, inclementiae objurgantium obnitimur. 
+  <Domino meo.> 
+  <...> molliantur atque ita efficacius sine ulla ad animos offensione audientium penetrent. Haec sunt profecto, quae tu putas obliqua et insincera et anxia et verae amicitiae minime adcommodata. At ego sine istis artibus omnem orationem absurdam et agrestem et incognitam, denique inertem atque inutilem puto. Neque magis oratibus arbitror necessaria ejusmodi artificia quam philosophis. In ea re non oratorum domesticis, quod dicitur, testimoniis utar, sed philosophorum eminentissimis, poetarum vetustissimis excellentissimisque, vitae denique cotidianae usu atque cultu artiumque omnium experimentis. 2 Quidnam igitur tibi videtur princeps ille sapientiae simul atque eloquentiae Socrates? Huic enim primo ac potissimo testimonium apud te denuntiavi: Eone usus genere dicendi, in quo nihil est oblicum, nihil interdum dissimulatum? Quibus ille modis Protagoram et Polum et Thrasymachum et sophistas ceteros versare atque inretire solitus? Quando eautem perta arta congressus est? Quando non ex insidiis adortus? Quo ex homine nata inversa oratio videtur, quam Graece εἰρωνείαν appellant. Alcibiaden vero ceterosque adulescentis genere aut fama aut opibus feroces quo pacto appellare atque adfari solebat? per jurgium an per πολιτείαν, exprobrando acriter quae delinquerent an leniter arguendo? Neque deerat Socrati profecto gravitas aut vis, qua tum cynicus Diogenes volgo saeviabat; sed vidit profecto ingenia partim hominum ac praecipue adulescentium facilius comi atque adfabili oratione leniri quam acri violentaque superari. Itaque non vineis neque arietibus errores adulescentium expugnabat, sed cuniculis subruebat, neque umquam ab eo auditores discessere lacerati sed nonnumquam lacessiti. Est enim genus hominum natura insectantibus indomitum, blandientibus conciliatum. Quamobrem facilius precariis decedimus, quam violentis deterremur, plusque ad corrigendum promovent consilia quam jurgia. Ita comitati monentium obsequimur, inclementiae objurgantium obnitimur. 
    
   
   
@@ -477,9 +477,9 @@ M. Cornelius Fronto: Epistulae
    
   
    ad M. Caesarem 4.1 [53 Hout; 1.70 Haines] 
-  &lt;Domino meo Fronto.&gt; 
-  Quoniam scio quanto opere sis anxius &lt;...&gt; 
-  1 &lt;...&gt; et columbae cum lupis et aquilis cantantem sequebantur inmemores insidiarum et unguium et dentium. Quae fabula recte interpretantibus illud profecti significat fuisse egregio ingenio eximiaque eloquentia virum, qui plurimos virtutum suarum facundiaeque admiratione devinxerit; eumque amicos ac sectatores suos ita instituisse, ut, quamquam diversis nationibus convenae variis moribus inbuti, concordarent tamen et consuescerent et congregarentur, mites cum ferocibus, placidi cum violentis, quom superbis moderati, cum crudelibus timidi: Omnes dein paulatim vitia insita exuerent, virtutem sectarentur, probitatem condiscerent, pudore inpudentiam, obsequio contumaciam, benignitate malivolentiam commutarent. 2 Quo si quis umquam ingenio tantum valuit, ut amicos ac sectatores suos amore inter se mutuo copularet, tu hoc profecto perficies multo facilius, qui ad omnis virtutes natus es prius quam institutus. Nam priusquam tibi aetas insitutioni suffciens adolesceret, jam tu perfectus atque omnibus bonis artibus absolutus: Ante pubertatem vir bonus, ante togam virilem dicendi peritus. Verum ex omnibus virtutibus tuis hoc vel praecipue admirandum, quod omnis amicos tuos concordia copulas. Nec tamen dissimulaverim multo hoc esse difficilius quam, ut ferae ac leones cithara mitigentur. Quod tu facilius obtinebis, si unum illud vitium extirpandum eruendumque curaveris, ne liveant neve invideant invicem amici tui, neve, quod tu alii tribueris ac benefeceris, sibi quisque illud deperire ac detrahi putet. 3 Invidia perniciosum inter homines malum maximeque internecivum, sibi aliisque pariter obnoxium. Sed si procul a cohorte tua prohibueris, uteris amicis concordibus et benignis, ut nunc uteris. Sin aliqua pervaserit, magna molestia magnoque labore erit restinguendum. 
+  <Domino meo Fronto.> 
+  Quoniam scio quanto opere sis anxius <...> 
+  1 <...> et columbae cum lupis et aquilis cantantem sequebantur inmemores insidiarum et unguium et dentium. Quae fabula recte interpretantibus illud profecti significat fuisse egregio ingenio eximiaque eloquentia virum, qui plurimos virtutum suarum facundiaeque admiratione devinxerit; eumque amicos ac sectatores suos ita instituisse, ut, quamquam diversis nationibus convenae variis moribus inbuti, concordarent tamen et consuescerent et congregarentur, mites cum ferocibus, placidi cum violentis, quom superbis moderati, cum crudelibus timidi: Omnes dein paulatim vitia insita exuerent, virtutem sectarentur, probitatem condiscerent, pudore inpudentiam, obsequio contumaciam, benignitate malivolentiam commutarent. 2 Quo si quis umquam ingenio tantum valuit, ut amicos ac sectatores suos amore inter se mutuo copularet, tu hoc profecto perficies multo facilius, qui ad omnis virtutes natus es prius quam institutus. Nam priusquam tibi aetas insitutioni suffciens adolesceret, jam tu perfectus atque omnibus bonis artibus absolutus: Ante pubertatem vir bonus, ante togam virilem dicendi peritus. Verum ex omnibus virtutibus tuis hoc vel praecipue admirandum, quod omnis amicos tuos concordia copulas. Nec tamen dissimulaverim multo hoc esse difficilius quam, ut ferae ac leones cithara mitigentur. Quod tu facilius obtinebis, si unum illud vitium extirpandum eruendumque curaveris, ne liveant neve invideant invicem amici tui, neve, quod tu alii tribueris ac benefeceris, sibi quisque illud deperire ac detrahi putet. 3 Invidia perniciosum inter homines malum maximeque internecivum, sibi aliisque pariter obnoxium. Sed si procul a cohorte tua prohibueris, uteris amicis concordibus et benignis, ut nunc uteris. Sin aliqua pervaserit, magna molestia magnoque labore erit restinguendum. 
   4 Sed meliora, quaeso, fabulemur. Amo Julianum (inde enim hic sermo defluxit), amo omnis, qui te diligunt, amo deos, qui te tutantur, amo vitam propter te, amo litteras tecum: Inprimis eis mihi amorem tui ingurgito. 
    
   
@@ -535,14 +535,14 @@ M. Cornelius Fronto: Epistulae
   
    ad M. Caesarem 4.9 [64 Hout; 1.186 Haines] 
   Domino meo. 
-  1 Accepi litteras tuas elegantissime scriptas, quibus tu intervallo desiderium mearum obortum tibi esse ais. Est igitur vera Socrati opinio doloribus ferme voluptates conexas esse cum in carcere dolorem constricti vinculi voluptate resoluti conpensaret. Item profecto in nobis, quantum molesiae absentia, tantum commodi adfert desiderium inritatum. Nam desiderium ex amore est. Igitur amor cum desiderio auctus est, quod est in amicitia multo optimum. 2 Tum, quod quaeris de valetudine mea, jam prius scripseram tibi me umeri dolore vexatum ita vehementer quidem, ut illam ipsam epistulam, qua id significabam, scribendo dare operam nequirem, sed uterer contra morem nostrum &lt;...&gt; 
-  &lt;“--quattuor paginae desunt--”&gt; 
+  1 Accepi litteras tuas elegantissime scriptas, quibus tu intervallo desiderium mearum obortum tibi esse ais. Est igitur vera Socrati opinio doloribus ferme voluptates conexas esse cum in carcere dolorem constricti vinculi voluptate resoluti conpensaret. Item profecto in nobis, quantum molesiae absentia, tantum commodi adfert desiderium inritatum. Nam desiderium ex amore est. Igitur amor cum desiderio auctus est, quod est in amicitia multo optimum. 2 Tum, quod quaeris de valetudine mea, jam prius scripseram tibi me umeri dolore vexatum ita vehementer quidem, ut illam ipsam epistulam, qua id significabam, scribendo dare operam nequirem, sed uterer contra morem nostrum <...> 
+  <“--quattuor paginae desunt--”> 
    
   
    ad M. Caesarem 4.10 [64 Hout; 1.188 Haines] 
-  &lt;Magistro meo salutem.&gt; 
-  Haec me in praesentia &lt;...&gt; 
-  &lt;...&gt; Mater mea te salutat. Consulem nostrum saluta et matronam nostram. 
+  <Magistro meo salutem.> 
+  Haec me in praesentia <...> 
+  <...> Mater mea te salutat. Consulem nostrum saluta et matronam nostram. 
    
   
   
@@ -601,84 +601,84 @@ M. Cornelius Fronto: Epistulae
    
   
    ad M. Caesarem 5.5 [70 Hout; 1.190 Haines] 
-  &lt;Domino meo.&gt; 
-  Quam fortis advenias &lt;...&gt; 
+  <Domino meo.> 
+  Quam fortis advenias <...> 
    
   
    ad M. Caesarem 5.6 [70 Hout; 1.190 Haines] 
-  &lt;Magistro meo.&gt; 
-  Fortes venimus &lt;...&gt; 
+  <Magistro meo.> 
+  Fortes venimus <...> 
    
   
    ad M. Caesarem 5.7 [70 Hout; 1.190 Haines] 
-  &lt;Domino meo.&gt; 
-  Sume cibum domine &lt;...&gt; 
+  <Domino meo.> 
+  Sume cibum domine <...> 
    
   
    ad M. Caesarem 5.8 [70 Hout; 1.190 Haines] 
-  &lt;Magistro meo.&gt; 
-  Sumpsi cibum &lt;...&gt; 
+  <Magistro meo.> 
+  Sumpsi cibum <...> 
    
   
    ad M. Caesarem 5.9 [70 Hout; 1.190 Haines] 
-  &lt;Domino meo.&gt; 
-  Si animus Faustinae &lt;...&gt; 
+  <Domino meo.> 
+  Si animus Faustinae <...> 
    
   
    ad M. Caesarem 5.10 [70 Hout; 1.190 Haines] 
-  &lt;Magistro meo.&gt; 
-  Et consilio tuo obsequor &lt;...&gt; 
+  <Magistro meo.> 
+  Et consilio tuo obsequor <...> 
    
   
    ad M. Caesarem 5.11 [70 Hout; 1.190 Haines] 
-  &lt;Domino meo.&gt; 
-  At Hercule compleri tem&lt;...&gt; 
+  <Domino meo.> 
+  At Hercule compleri tem<...> 
    
   
    ad M. Caesarem 5.12 [71 Hout; 1.190 Haines] 
-  &lt;Magistro meo.&gt; 
-  Nimis diu sollicitus &lt;...&gt; 
+  <Magistro meo.> 
+  Nimis diu sollicitus <...> 
    
   
    ad M. Caesarem 5.13 [71 Hout; 1.190 Haines] 
-  &lt;Domino meo.&gt; 
-  Mirifice ego quidem &lt;...&gt; 
+  <Domino meo.> 
+  Mirifice ego quidem <...> 
    
   
    ad M. Caesarem 5.14 [71 Hout; 1.190 Haines] 
-  &lt;Magistro meo.&gt; 
-  In media incommoda &lt;...&gt; 
+  <Magistro meo.> 
+  In media incommoda <...> 
    
   
    ad M. Caesarem 5.15 [71 Hout; 1.190 Haines] 
-  &lt;Magistro meo.&gt; 
-  Adflictus sum labore &lt;...&gt; 
+  <Magistro meo.> 
+  Adflictus sum labore <...> 
    
   
    ad M. Caesarem 5.16 [71 Hout; 1.190 Haines] 
-  &lt;Domino meo.&gt; 
-  Fatigatio ista tua &lt;...&gt; 
+  <Domino meo.> 
+  Fatigatio ista tua <...> 
    
   
    ad M. Caesarem 5.17 [71 Hout; 1.190 Haines] 
-  &lt;Domino meo.&gt; 
-  Modo mihi Cratia &lt;...&gt; 
+  <Domino meo.> 
+  Modo mihi Cratia <...> 
    
   
    ad M. Caesarem 5.18 [71 Hout; 1.190 Haines] 
-  &lt;Magistro meo.&gt; 
-  Possum satis pro re ista &lt;...&gt; 
+  <Magistro meo.> 
+  Possum satis pro re ista <...> 
    
   
    ad M. Caesarem 5.19 [71 Hout; 1.190 Haines] 
-  &lt;Domino meo.&gt; 
-  Cajetae substiti &lt;...&gt; 
+  <Domino meo.> 
+  Cajetae substiti <...> 
    
   
    ad M. Caesarem 5.20 [71 Hout; 1.192 Haines] 
-  &lt;Magistro meo.&gt; 
-  1 Quantam tu mihi &lt;...&gt; 
-  &lt;...&gt; in biduo nunc, si videtur, dentes adprimamus tamen; et quo brevius iter sit tibi recenti morbo Cajetae nos opperire. Facio delicias, quod ferme evenit, quibus cupiunt, tandem in manu est: Differunt, affluunt, gestiunt; ego vero etiam fastidio omnia. 
+  <Magistro meo.> 
+  1 Quantam tu mihi <...> 
+  <...> in biduo nunc, si videtur, dentes adprimamus tamen; et quo brevius iter sit tibi recenti morbo Cajetae nos opperire. Facio delicias, quod ferme evenit, quibus cupiunt, tandem in manu est: Differunt, affluunt, gestiunt; ego vero etiam fastidio omnia. 
   2 Domina mater te salutat, quam ego hodie rogabo, ut ad me Cratiam perducat, ‘vel fumum’, inquit, ‘patriae’ Grajus poeta. Vale, mi, omnia mea, magister. Amo me, quod te visurus sum. 
    
   
@@ -1032,27 +1032,27 @@ M. Cornelius Fronto: Epistulae
   
    ad Anton.Imp. 1.6 [94 Hout; 2.126 Haines] 
   Magistro meo salutem. 
-  Minus valui, mi magister &lt;...&gt; 
+  Minus valui, mi magister <...> 
    
   
    ad Anton.Imp. 1.7 [94 Hout; 2.126 Haines] 
   Antonino Augusto domino meo. 
-  Si ambulare jam &lt;...&gt; 
+  Si ambulare jam <...> 
    
   
    ad Anton.Imp. 1.8 [94 Hout; 2.126 Haines] 
   Magistro meo salutem. 
-  Festino, mi magister &lt;...&gt; 
+  Festino, mi magister <...> 
    
   
    ad Anton.Imp. 1.9 [94 Hout; 2.128 Haines] 
   Antonino Augusto domino meo. 
-  Non recitebo quid &lt;...&gt; 
+  Non recitebo quid <...> 
    
   
    ad Anton.Imp. 1.10 [94 Hout; 2.128 Haines] 
   Magistro meo salutem. 
-  Ego, mi magister &lt;...&gt; 
+  Ego, mi magister <...> 
    
   
   
@@ -1060,12 +1060,12 @@ M. Cornelius Fronto: Epistulae
   M. Frontonis epistularum ad Antoninum imperatorem et invicem liber II 
    
   
-  &lt;-plures paginae desunt--&gt;” 
+  <-plures paginae desunt-->” 
    
   
   ad Anton.Imp. 2.1 [95 Hout; 2.94 Haines] 
-  &lt;Domino meo Antonino Augusto Fronto.&gt; 
-  1 &lt;...&gt; abripere te praeut dicitur, immo cellae filios; tantam de thesauris Antonini pecunian prodigei quam nescio quae ista altilis alumna accipiat unde nihil Egatheus acceperit. Quanti vero rumores adversi quantae querimoniae exorientur bonis lege Falcidia distractis? Lineam istam famosam atque celebratam ceteraque tantae pecuniae ornamenta Faustina? Quis igitur emet margarita quae filiabus tuis legata sunt? Iis margaritis collos filiarum tuarum despoliabis, ut cujus tandem ingluvies turgida ornetur? 
+  <Domino meo Antonino Augusto Fronto.> 
+  1 <...> abripere te praeut dicitur, immo cellae filios; tantam de thesauris Antonini pecunian prodigei quam nescio quae ista altilis alumna accipiat unde nihil Egatheus acceperit. Quanti vero rumores adversi quantae querimoniae exorientur bonis lege Falcidia distractis? Lineam istam famosam atque celebratam ceteraque tantae pecuniae ornamenta Faustina? Quis igitur emet margarita quae filiabus tuis legata sunt? Iis margaritis collos filiarum tuarum despoliabis, ut cujus tandem ingluvies turgida ornetur? 
   2 An hereditas Matidiae a vobis non adibitur? Summo genere, summis opibus nobilissima femina de vobis optime merita intestata obierit? Ita prosus eveniet, ut cui funus oublicum decreveris ei ademeris tastamentum. Adhuc usque in omnibus causis justum te et gravem et sanctum judicem exhibuisti: Ab uxorisne tuae causa prave judicare inchoabis? Tum tu quidem ignem imitaberis, si proximos ambures, longinquis lucebis. 
    
   
@@ -1083,13 +1083,13 @@ M. Cornelius Fronto: Epistulae
    
   
   ad Anton.Imp. 3.1 [96 Hout; 2.158 Haines] 
-  &lt;Domino meo.&gt; 
-  1 &lt;...&gt;tatem historias opera apta neque illam moderationem orationi accomdatam; figuras etiam, quas Graeci σχήματα vocant illum historiae, hunc orationi congruentes adhibuisse; Sallustium antithetis honeste compositis usum: “Alieni adpetens, sui profusus; satis eloquentiae, sapientiae parum”; paronomasia etiam non absurda nec frivola, sed proba et eleganti: “Simulator ac dissimulator”; Tullium vero commotissima et familiari orationibus figura usum quam scriptores artium ἐπαναφοράν vocant. Sallustius sapius epeanaphoris usus iterata verba, “Quid audivi” dum repetat, ita Tullius de Pisone . . . . . . . : “Quis clarioribus viris quodam tempore jucundior, quis turpioribus conjunctior? Quis civis meliorum partium aliquandi, quis taetrior hostis huic civitati? Quis in voluptatibus inquinatior, quis in laboribus patientior? Quis in rapacitate avarior, quis in largitione difusior?” Et porro deinceps ab eodem isto verbo sententiae inchoantur. Si videbitur, id quoque animadvertito et cum animo agitato an pro cetero ornatu ac tumultu a Cicerone medium illud inculpatum sit: “Cum omnibus communicare quod habebat”; nam mihi paulo hoc volgatius et jejunius videtur. 
+  <Domino meo.> 
+  1 <...>tatem historias opera apta neque illam moderationem orationi accomdatam; figuras etiam, quas Graeci σχήματα vocant illum historiae, hunc orationi congruentes adhibuisse; Sallustium antithetis honeste compositis usum: “Alieni adpetens, sui profusus; satis eloquentiae, sapientiae parum”; paronomasia etiam non absurda nec frivola, sed proba et eleganti: “Simulator ac dissimulator”; Tullium vero commotissima et familiari orationibus figura usum quam scriptores artium ἐπαναφοράν vocant. Sallustius sapius epeanaphoris usus iterata verba, “Quid audivi” dum repetat, ita Tullius de Pisone . . . . . . . : “Quis clarioribus viris quodam tempore jucundior, quis turpioribus conjunctior? Quis civis meliorum partium aliquandi, quis taetrior hostis huic civitati? Quis in voluptatibus inquinatior, quis in laboribus patientior? Quis in rapacitate avarior, quis in largitione difusior?” Et porro deinceps ab eodem isto verbo sententiae inchoantur. Si videbitur, id quoque animadvertito et cum animo agitato an pro cetero ornatu ac tumultu a Cicerone medium illud inculpatum sit: “Cum omnibus communicare quod habebat”; nam mihi paulo hoc volgatius et jejunius videtur. 
   2 Non . . . bis dictio coortandi post illa Sallusti et Tulli de Catilina a L. Antoni altera iratus an putabam ostendere in Tulli praeter vetera ipsum . . . . se magna pars juventutis sequebatur. Idcirco hoc in scripto jam faceres idem, quod pictor Calamis, qui numquam pingere equom quadrupedesve instituerat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . pingat. 
   3 Jugurthae forma ejusmodi est: “Qui ubi primum adolevit, pollens viribus, facie, sed multo maxime ingenio validus, non se luxu neque inertiae corrumpendum dedit, sed, uti mos gentis illius est, equitare, jaculari cursu cum aequalibus certare et, cum omnis gloria anteiret, omnibus tamen carus esse. Ad hoc pleraque tempora in venando agere, leonem atque alias feras primus aut in primis ferire; plurimum facere, minimum ipse de se loqui.” “Nam Jugurtha, ut erat inpigro atque acri ingenio, ubi naturam P. Scipionis, qui tunc Romanis imperator erat, et morem hostium cognovit, multo labore multaque cura, praeterea modestissime parendo et saepe obviam eundo periculis in tantam claritudinem brevi pervenerat, ut nostris vehementer carus, Numantinis maximo terrori esset. Ac sane, quod difficillimum in primis est, et proelio strenuus erat et bonus consilio, quorum alterum ex providentia timorem, alterum ex audacia temeritatem afferre plerumque solet. Igitur imperator omnes fere res asperas per Jugurtham agere, in amicis habere, magis magisque eum in dies amplecti, quippe cujus neque consilium neque inceptum ullum frustra erat. Hoc accedebat munificentia animi et ingeni solertia, quibus rebus sibi multos ex Romanis familiari amicitia conjunxerat. Ea tempestate in exercitu nostro fuere complures novi atque nobiles quibus divitiae bono honestoque potiores erant, factiosi domi, potentes apud socios, clari magis quam honesti.” 4 Ne agrei quidem forma praetereunda: 
   “Mare saevum, inportuosum; ager frugum fertilis, bonus pecori, arbori infecundus; caelo terraque penuria aquarum. Genus hominum salubri corpore, velox, patiens laborum, ac plerosque senectus dissoluit, nisi qui ferro aut bestiis interiere, nam morbus haud saepe quem superat; ad hoc malefici generis plurima animalia.” 5 Tum illa persequitur non inscite: “In regnum Adherbalis animum intendit. Ipse acer, bellicosus; at is quem petebat quietus, inbellis, placido ingenio, opportunus injuriae, metuens magis quam metuendus.” 6 Hoc de consulis peritia: “Nam in consule nostro multae bonaeque artes et animi et corporis erant, quas omnis avaritia praepediebat: Patiens laborum, acri ingenio, satis providens, belli haud ignarus, firmissimus contra pericula et invidias.” 7 Milites deinde corrupti: “Imperatori exercitus traditur a Spurio Albino proconsule iners, inbellis, neque periculi neque laboris patiens, lingua quam manu promptior, praedator ex sociis et ipse praeda hostium, sine imperio et modestia habitus. Ita imperatori novo plus ex malis moribus sollicitudinis quam ex copia militum auxilii aut spei bonae accedebat.” 8 Effeminatio: “Nam Albinus Auli fratris exercitusque clade perculsus, postquam decreverat non egredi provincia, quantum temporis aestivorum in imperio fuit, plerumque milites stativis castris habebat, nisi cum odor aut pabuli egestas locum mutare subegerat. Sed neque muniebatur neque more militari vigiliae deducebantur; uti cuique libebat, ab signis aberat. Lixae permixti cum militibus diu noctuque vagabantur et palantes agros vastare, villas expugnare, pecoris et mancipiorum praedas certantes agere eaque mutare cum mercatoribus vino advecticio et aliis talibus; praeterea frumentum datum publice vendere, panem in dies mercari; postremo quaecumque dici aut fingi queunt ignaviae luxuriaeque probra, ea in illo exercitu cuncta fuere et alia amplius. Sed in ea difficultate Metellum nec minus quam in rebus hostilibus magnum et sapientem virum fuisse comperior; tanta temperantia inter ambitionem saevitiamque moderatum; namque edicto primum adjumenta ignaviae sustulisse: Ne quisquam in castris panem aut quem alium cibum coctum venderet, ne lixae exercitum insequerentur, ne miles hastatus aut gregarius in castris neve in agmine servum aut jumentum haberet; ceteris arte modum statuisse. Praeterea transversis itineribus cotidie castra movere, juxta ac si hostes adessent vallo atque fossa munire, vigilias crebras ponere et eas ipse cum legatis circumire, item in agmine in primis modo, modo postremis, saepe in medio adesse ne quispiam ordine egrederetur, ut cum signis frequentes incederent, miles cibum et arma portaret. Ita prohibendo a delictis magis quam vindicando exercitum brevi confirmavit.” 9 Tum forma Marii: “Per idem tempus Uticae forte C. Mario per hostias dis supplicanti magna atque mirabilia portendi haruspex dixerat: Proinde quae animo agitabat, fretus dis ageret, fortunam quam saepissime experiretur; cuncta prospere eventura. At illum jam antea consulatus ingens cupido exagitabat” 
   [quattuor paginae desunt] 
-  “&lt;...&gt; consuetam duritiam et alia quae ceteri miserias vocant voluptati habuisse, nisi tamen res publica pariter atque saevissimo imperio bene atque decore gesta.” 
+  “<...> consuetam duritiam et alia quae ceteri miserias vocant voluptati habuisse, nisi tamen res publica pariter atque saevissimo imperio bene atque decore gesta.” 
   10 Sed forma ea imperatoris; perlege et voluptaria: “Sed in his erat Sempronia quae multa saepe virilis audaciae facinora commiserat. Haec mulier genere atque forma, praeterea viro, liberis satis fortunata fuit; litteris Graecis, Latinis docta, psallere, saltare elegantius quam necesse est probae, multa alia, quae instrumenta luxuriae sunt. Sed ei cariora semper omnia quam decus atque pudicitia fuit; pecuniae an famae minus parceret, haud facile discerneres; libido sic accensa ut saepius peteret viros quam peteretur.” 
   11 “Quis rebus permota civitas atque immutata urbis facies erat. Ex summa laetitia lasciviaque quae diuturna quies pepererat repente omnis tristitia invasit; festinare, trepidare neque loco neque homini cuiquam satis credere; neque bellum gerere neque pacem habere; suo quisque metu pericula metiri. Ad hoc mulieres quibus rei publicae magnitudine belli timor insolitus incesserat adflictare sese, manus supplices ad caelum tendere, miserari parvos liberos, rogitare omnia, omni rumore pavere, adripere omnia superbia atque deliciis omissis, sibi patriaeque diffidere.” 12 Forma qua flagitia disciplinae plebis describuntur: “Nam semper in ciuitate quibus opes nullae sunt bonis invident, malos extollunt, vetera odere, nova exoptant, odio suarum rerum mutari omnia student; turba atque seditionibus sine cura aluntur quoniam egestas facile sine damno habetur.” Vale. 
    
@@ -1155,7 +1155,7 @@ M. Cornelius Fronto: Epistulae
   
  
   
-  5 Quod autem mitti a me tibi postulasti acceptis &lt;...&gt; 
+  5 Quod autem mitti a me tibi postulasti acceptis <...> 
   
  
  
@@ -1172,16 +1172,16 @@ M. Cornelius Fronto: Epistulae
    
 
    ad Verum Imp. 1.1 [107 Hout; 2.116 Haines] 
-  &lt;Magistro meo.&gt;
-  1 &lt;...&gt;rio correcta vel in tempore provisa vel celeriter curata vel sedulo instructa, praedicare ipsa apud te supersedi. Da verecundiae veniam, si urgentibus curis praepeditus negotia in manibus praeversus sum speque tuae erga me benignissimae facilitatis interim in scribendo cessavi. Fiduciae amoris ignoscito, si piguit consilia me ingularum rerum forsitan in dies mutanda sub incerto adhuc exitu dubia existimatione perscribere.
+  <Magistro meo.>
+  1 <...>rio correcta vel in tempore provisa vel celeriter curata vel sedulo instructa, praedicare ipsa apud te supersedi. Da verecundiae veniam, si urgentibus curis praepeditus negotia in manibus praeversus sum speque tuae erga me benignissimae facilitatis interim in scribendo cessavi. Fiduciae amoris ignoscito, si piguit consilia me ingularum rerum forsitan in dies mutanda sub incerto adhuc exitu dubia existimatione perscribere.
   2 Causam quaeso tam justae cinctationis accipias. Cur igitur aliis quam tibi saepius? Ut breviter absolvam: Quoniam quidem, nisi ita facerem, illi irascerentur, tu ignosceres; illi tacerent, tu flagitares; illis officium officio repensabam, tibi amorem pro amore debeam. An velles ad te quoque me litteras invitum, querentem, festinantem, quia necesse erat potius quam, quia libebat, darem? “Cur autem”, inquies, “non libebat?” Quia nequedum quicquam ejusmodi effectum erat ut te luberet ad gaudii societatem vocare. Curarum vero, quae me dies noctesque miserrimum habuere et prope ad desperationem summae rei perduxere, facere participem hominem carissimum et quem semper laetum esse cuperem, fateor, non lubebat. Nec enim illud lubebat, aliud dolere, aliud loqui. Simulare Lucium quicquam adversum Frontonem, a quo ego prius multo simplicitatem verumque amorem quam loquendi polite disciplinam didicisse me praedico! Equidem pacto quoque, quod inter nos jam pridem intercessit, satis me ad veniam impetrandam paratum esse arbitror. Denique quamquam mihi lacessitus a me saepius numquam tamen rescripsisses, dolebam hercules, sed pacti memoria non suscensebam.
   3 Postremo, quid plura, ne potius defendere me quam orare te videar? Peccavi, fateor; adversus quem minime decuit, etiam id fateor. Sed ti melior esto. Satis poenarum lui, primum in eo ipso quod peccasse me sentio; mox quod tantis terris disjunctus, qui te in vestigio exorare potuissem, tot interea mensibus, dum meas litteras accipis, dum ego tuas recipio, cura discruciabor. Adhibeo tibi deprecatores humanitatem ipsam, nam et delinquere humanum est et hominis maxime proprium ignoscere
   [plures paginae desunt] 
    
 
    ad Verum Imp. 1.2 [108 Hout; 2.194 Haines] 
-  &lt;Magistro meo.&gt;
-  1 &lt;...&gt; illi suis litteris subdiderunt. Ea vero, quae post meam profectionem gesta sunt, ex litteris ad me scriptis a negotio cuique praepositis ducibus cognosces. Earum exemplaria Sallustius noster, nunc Fulvianus, dabit. Ego vero, ut et consiliorum meorum rationes commemorare possis, meas quoque litteras, quibus quidquid gerendum esset, demonstratur mittam tibi. Quodsi picturas quoque quasdam desideraveris, poteris a Fulviano accipere. Equidem quo magis te quasi in rem praesentem inducerem, mandavi Cassio Avidio Martioque Vero commentarios quosdam mihi facerent, quos tibi mittam; ex quibus et mores hominum et sensum eorum cognosces. Quodsi me quoque voles aliquem commentarium facere, designa mihi; Qualem velis faciam et, ut jubes, faciam. Quidvis enim subire paratus sum, dum a te res nostrae inlustrentur. Plane non contempseris et orationes ad senatum et adlocutiones nostras ad axercitum. Mittam tibi et sermones meos cum barbaris habitos: Multum haec tibi conferent.
+  <Magistro meo.>
+  1 <...> illi suis litteris subdiderunt. Ea vero, quae post meam profectionem gesta sunt, ex litteris ad me scriptis a negotio cuique praepositis ducibus cognosces. Earum exemplaria Sallustius noster, nunc Fulvianus, dabit. Ego vero, ut et consiliorum meorum rationes commemorare possis, meas quoque litteras, quibus quidquid gerendum esset, demonstratur mittam tibi. Quodsi picturas quoque quasdam desideraveris, poteris a Fulviano accipere. Equidem quo magis te quasi in rem praesentem inducerem, mandavi Cassio Avidio Martioque Vero commentarios quosdam mihi facerent, quos tibi mittam; ex quibus et mores hominum et sensum eorum cognosces. Quodsi me quoque voles aliquem commentarium facere, designa mihi; Qualem velis faciam et, ut jubes, faciam. Quidvis enim subire paratus sum, dum a te res nostrae inlustrentur. Plane non contempseris et orationes ad senatum et adlocutiones nostras ad axercitum. Mittam tibi et sermones meos cum barbaris habitos: Multum haec tibi conferent.
   2 Unam rem volo non equidem demonstrare discipulus magistro, sed existimandam dare: Circa causas et initia belli diu commoraberis, et etiam ea, quae nobis absentibus male gesta sunt; tarde ad nostras venies. Porro necessarium puto, quanto ante meum adventum superiores Parthi fuerint dilucere, ut quantum nos egerimus appareat. An igitur debeas, quomodo πεντηκονταετίαν Θουκυδίδης explicuit, illa omnia corripere an vero paulo altius dicere nec tamen ita ut mox nostra dispandere, ipse dispicies.
   3 In summa meae res gestae tantae sunt, quantae sunt scilicet, quoiquoimodi sunt: Tantae autem videbuntur, quantas tu eas videri voles.
   
@@ -1194,13 +1194,13 @@ M. Cornelius Fronto: Epistulae
 
    ad Verum Imp. 1.4 [109 Hout; 2.236 Haines] 
   Magistro meo.
-  Quidni ego gaudium tuum mihi repraesentaverim, mi magister carissime? Equidem videre te et arte complecti et multum exosculari videor mihi toto &lt;...&gt;
+  Quidni ego gaudium tuum mihi repraesentaverim, mi magister carissime? Equidem videre te et arte complecti et multum exosculari videor mihi toto <...>
   [plures paginae desunt] 
    
 
    ad Verum Imp. 1.5 [109 Hout; 2.84 Haines] 
-  &lt;Domino meo Vero Augusto&gt;
-  1 &lt;...&gt; animi mei perturbatione non possem. Sed acceptis litteris tuis ea re jam primum bona spes mihi ostentata est, quod tua manu scripseras; deinde quod post abstinentiam tridui et sanguinem satis strenue et prompte demissum liberatum esse te periculo inpendentis valetudinis nuntiabis. Respiravi igitur et revalui et apud omnis foculos, aras, lucos sacros, arbores sacratas (nam rure agebam) supplicavi. Et nunc expecto cognoscere ex tuis litteris quantum medici isti dies promoverint ad vires reficiendas. Enimvero nunc majore multo cura diligentiaque opus est, ut paulatim temet compleas, nec properes ad detrimenta virium resarcienda. Nam id quidem omnium opinione compertum et traditum est sanguinem, ubi abundet, incursim detrahendum, postea pedetemptim esse reparandum. 2 Fac, oro te et obsecro, domine, quod tuo egregio ingenio decet, temperes et reparcas et modificeris desideriis omnibus, quae nunc acriora solito et procaciora existere necesse est post abstinentiam, qua necessario in tempore usus es.
+  <Domino meo Vero Augusto>
+  1 <...> animi mei perturbatione non possem. Sed acceptis litteris tuis ea re jam primum bona spes mihi ostentata est, quod tua manu scripseras; deinde quod post abstinentiam tridui et sanguinem satis strenue et prompte demissum liberatum esse te periculo inpendentis valetudinis nuntiabis. Respiravi igitur et revalui et apud omnis foculos, aras, lucos sacros, arbores sacratas (nam rure agebam) supplicavi. Et nunc expecto cognoscere ex tuis litteris quantum medici isti dies promoverint ad vires reficiendas. Enimvero nunc majore multo cura diligentiaque opus est, ut paulatim temet compleas, nec properes ad detrimenta virium resarcienda. Nam id quidem omnium opinione compertum et traditum est sanguinem, ubi abundet, incursim detrahendum, postea pedetemptim esse reparandum. 2 Fac, oro te et obsecro, domine, quod tuo egregio ingenio decet, temperes et reparcas et modificeris desideriis omnibus, quae nunc acriora solito et procaciora existere necesse est post abstinentiam, qua necessario in tempore usus es.
   3 Fratrem dominum saluta, quem salvom habebis, si tute salvus eris. Vale, domine dulcissime.
    
 
@@ -1209,13 +1209,13 @@ M. Cornelius Fronto: Epistulae
   1 Quanta et quam vetus familiaritas mihi intercedat cum Gavio Claro, meminisse te, domine, arbitror. Ita saepe de eo apud te ex animi mei sententia sum fabulatus. Nec ab re esse puto memorem te tamen admonere. 2 A prima aetate sua me curavit Gavius Clarus familiariter non modo iis officiis, quibus senator aetate et loco minor majorem gradu atque natu senatorem probe colit ac promeretur, sed paulatim amicitia nostra eo processit, ut neque illum pigeret neque me puderet ea illum oboedire mihi quae clientes, quae liberti fideles ac laboriosi obsequuntur nulla hoc et mea insolentia aut illius adulatione, sed mutua caritas nostra et amor verus ademit utrique nostrum in officiis moderandis omnem detrectationem. 3 Quid ego memorem negotia in foro nostra minima maximaque ab eo curata? Aut domi quod uspiam recte clausum aut obsignatum aut curatum aut confectum quid vellem, me uni huic mandasse et concredidisse? 4 Sed quod alumnus meus aegre toleraret, valetudine meae curandae ita semper studuit, tantam omni tempore etiam operam dedit, ut excubaret etiam aegro mihi et, ubi meis ego uti manibus per valetudinem non possem, manu sua cibos ad os meum adferret. Postremo, si quid humanitas absente Victorino et domino fratre meo mihi accidisset, huic justa corpori meo curanda mandavi. Praesentibus etiam illis ab hoc potissimum corpus meum contrectari volui, quo minus doloris ad fratrem et generum meum ex contactu ullo corporis mei perveniret.
   5 Haec mihi cum Gavio Claro jura sunt. jam ego, si res familiaris mihi largior esset, ne quid ad senatoris munia facile toleranda deeset, omni ope subvenirem neque umquam ego hujus negotii causa eum trans mare proficisci paterer. Nunc et nostrae res ahud copiosae et hujus paupertas artior me compulerunt, ut eum invitum expellerem in Suriam ad legata, quae ei in testamento hominis amicissimi obvenerunt persequenda. 6 Quae paupertas Claro meo nulla ipsius culpa obtigit, sed neque paterna ulla neque materne bona fruenda percepit: Eaque fine heres patri fuit, ut creditoribus paternis aegre satisfaceret. Ceterum parsimonia et officiis et frugalitate onera quaestoria et aedilicia et praetoria perfunctus est. Cui quidem per absentiam ejus divus pater vester sumptum praeturae de fisco vestro cum expendisset, ubi primum in urbem Clarus reconsciliata sibi valetudine rediit, omne fisco vestro persolvit.
   7 Nihil isto homine officiosius est, nihil modestius, nihil verecundius. Liberalis etiam, si quid mihi credis, et in tnata tenuitate; quantum res patitur, largys, simplicitas, castitas, veritas, fides Romana plane, φιλοστοργία vero nescio an Romana: Quippe qui nihil minus in tota mea vita Romae repperi quam hominem sincere φιλόστοργον; ut putem, quia reapse nemo sit Romae φιλόστοργος, ne nomen quidem huic virtuti esse Romanum.
-  8 Hunc tibi, domine, quantis possum precibus commendo, si umquam me amasti sive amaturus umquam es, hunc a me fidei tuae atque opi traditum tuearis peto. Quaeras fortasse, quid pro eo &lt;..&gt;
+  8 Hunc tibi, domine, quantis possum precibus commendo, si umquam me amasti sive amaturus umquam es, hunc a me fidei tuae atque opi traditum tuearis peto. Quaeras fortasse, quid pro eo <..>
   [plures paginae desunt] 
    
 
    ad Verum Imp. 1.7 [111 Hout; 2.238 Haines] 
-  &lt;Vero Augusto domino meo&gt;
-  1 &lt;...&gt; desideretur is honor, quo pariter quisque expetit, si quid honoris aliis impertitum videat. Probasti me laudastique consilium, neque tamen triduo amplius vel quadriduo id a te obtinere potuisti ut mihi verbo saltem responderes; sed ita excogitasti: Primum me intromitti in cubiculum jubebas, ita sine cujusquam invidia osculum dabas, credo ita quom animo tuo reputans, mihi, cui curam cultumque tradidisses oris atque orationis tuae, jus tui quoque osculi habendum omnisque eloquentiae magistros sui laboris lege fructum capere satus in vocis aditu locatum. Morem denique saviandi arbitror honori eloquentiae datum. Nam cur os potius salutantes ori admovemus quam oculos oculis aut fontes frontibus aut, quibus plurimum valemus, manus manibus, nisi quod honorem orationi impertimus? Muta denique animalia oratione carentia etiam osculis carent. Hunc ego honorem mihi a te habitam taxo maximo et gravissimo pondere.
+  <Vero Augusto domino meo>
+  1 <...> desideretur is honor, quo pariter quisque expetit, si quid honoris aliis impertitum videat. Probasti me laudastique consilium, neque tamen triduo amplius vel quadriduo id a te obtinere potuisti ut mihi verbo saltem responderes; sed ita excogitasti: Primum me intromitti in cubiculum jubebas, ita sine cujusquam invidia osculum dabas, credo ita quom animo tuo reputans, mihi, cui curam cultumque tradidisses oris atque orationis tuae, jus tui quoque osculi habendum omnisque eloquentiae magistros sui laboris lege fructum capere satus in vocis aditu locatum. Morem denique saviandi arbitror honori eloquentiae datum. Nam cur os potius salutantes ori admovemus quam oculos oculis aut fontes frontibus aut, quibus plurimum valemus, manus manibus, nisi quod honorem orationi impertimus? Muta denique animalia oratione carentia etiam osculis carent. Hunc ego honorem mihi a te habitam taxo maximo et gravissimo pondere.
   2 Plurima praeterea tua erga me summo cum meo honore et dicta et facta percepi sic: Quotiens tu me manibus tuis sustinuisti, adlevasti aegre adsurgentem aut difficile progredientem per valetudinem corporis paene portasti! Quam hilari voltu semper placatoque ore nos adfatus es! Quam libenter conseruisti sermonem, quam diu produxisti, quam invitus terminasti! Quae ego pro maximis duco. Sicut in extis inspicienti diffissa plerumque minima et tenuissima maximas prosperitates significant deque formicularum et apicularum ostentis res maximae portenduntur, item vel minimis et levissimis ab uno et vero principe habitis officii et bonae volentiae signis significari arbitror ea, quae amplissima inter homines et exoptissima sunt, amores honoresque. Igitur, quaecumque mihi a domino meo tuo fratre petenda fuerunt, per te petita atque impetrata omnia malui.
    
 
@@ -1232,8 +1232,8 @@ M. Cornelius Fronto: Epistulae
    
 
    ad Verum Imp. 1.10 [114 Hout; 1.304 Haines] 
-  &lt;Magistro meo.&gt;
-  1 &lt;...&gt; nostro, Culpurnium dico, contentio est, quem ego facile et omnibus spectantibus et te, si spectaveris, teste revincam, Pyladen magistro suo istum tanto meliorem esse, quanto sit Apolausto similior. Sed quod sine joco dicatur: Jube Valerium istum Antonium dare mihi libellum, uti rescriptione quoque nostra gratia sententiae nostrae fiat.
+  <Magistro meo.>
+  1 <...> nostro, Culpurnium dico, contentio est, quem ego facile et omnibus spectantibus et te, si spectaveris, teste revincam, Pyladen magistro suo istum tanto meliorem esse, quanto sit Apolausto similior. Sed quod sine joco dicatur: Jube Valerium istum Antonium dare mihi libellum, uti rescriptione quoque nostra gratia sententiae nostrae fiat.
   2 Epistulam tuam summa cum voluptate et solita cum admiratione legi. Vale, mi magister, Vero tuo dulcissime et carissime.
    
 
@@ -1269,7 +1269,7 @@ M. Cornelius Fronto: Epistulae
    
 
    ad Verum Imp. 1.13 [117 Hout; 1.306 Haines] 
-  &lt;Domino meo Vero Augusto&gt;
+  <Domino meo Vero Augusto>
   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . irat alieni reges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . percontatum an videre me posset; postquam respondi posse, succidaneum sibi Tranquillum nostrum paravit. Mea parum refert, quis me de caris tibi amicis diligat, nisi quod prior ratio est ejus, qui minus est nostri fastidiosus. Ego . . . . . . . . . amicorum tuorum ejusdem leo . . . . . sed exiliora facerem omnis, quales ex tempore ego vidi. Praevenit autem me Tranquillus, cum frigeret, etiam nunc devetantem, sed minus aegrum. Qua de causa sollicitudini tuae tantas gratias ago, quantas Transquillli industriae, qui nisi sciret, quanto opere me diligeres, voluntarium hoc negotium sibi numquam expetisset.
    
 
@@ -1292,7 +1292,7 @@ M. Cornelius Fronto: Epistulae
  
   
   
-  &lt;...&gt; auxilium . . . . . . . . . . lo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . cum . . . . . . . . . . . . . . . . . . . q . . . prima navium ca . . . . . . . . inrumpe . . . . . . . . . . . . . 
+  <...> auxilium . . . . . . . . . . lo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . cum . . . . . . . . . . . . . . . . . . . q . . . prima navium ca . . . . . . . . inrumpe . . . . . . . . . . . . . 
   4 A rhetore . r . . . . . . . . . . sicut nunc ego gloriae tuae eloquentia partae messem majorem carpo florum, sapientiae tibi vestigator atque indagator atque exercitator. Oro te, Luci, An . . . . orum aut Dacorum quisquam e . . . . . . Germanus alior . . . . l . . or . . . quispiam num qui . . . . . . . . igitur ceteri cum verborum tuorum lumina, cum pondera sententiarem, cum brevitas . . . . sonum denique orationis tuae seriae esc . . d . . . o neque fluxibus lascivis redolentis . . ib . . m . d . ec . . . . . plerique ut in o . . asie . . . tu . . en . . . familiari t . . . . . s . t . . . . . . sse cubilibus, quibusque vestigiis, unum quid eorum indgaveris, intellego, ut qui venanti haec tibi adsiduus et obsequens haeserim.
   
  
@@ -1321,9 +1321,9 @@ M. Cornelius Fronto: Epistulae
  
 
   
-  14 De nilacu&lt;...&gt;
+  14 De nilacu<...>
   [una pagina legi nequit] 
-  &lt;...&gt;vit eloquentiaei illius . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . inpertes . . . . . . . . . has politus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . nullas . . . . . . . . . . . . . alia Sallustium amo qui . . . . . . . . . . . . . . d tos ovibos sustineres . . . . gallas in oratore se dare vellet, Cicero autem modulatius. Vos utriusque gratiam sectanes meam moderantis viam vaditis.
+  <...>vit eloquentiaei illius . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . inpertes . . . . . . . . . has politus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . nullas . . . . . . . . . . . . . alia Sallustium amo qui . . . . . . . . . . . . . . d tos ovibos sustineres . . . . gallas in oratore se dare vellet, Cicero autem modulatius. Vos utriusque gratiam sectanes meam moderantis viam vaditis.
   
  
  
@@ -1351,7 +1351,7 @@ M. Cornelius Fronto: Epistulae
  
 
   
-  21 &lt;...&gt; ne defendere. Atenim ples quia quen . . inbellem idem . le . . . non enim . . ui . ibus eadem ingentim. Neque similis virtus deest columbae alis pernicibus praedie . . . l . . . . . . . niubo . . . portendunt . . . d . . vultures et aquilae . e nescit modis ut rebus et cum . a . a . isa . . . . tisque e . ds . . tentis . . . r . . . . . . . . . . esu . . . . . . ia . . . . n . . sicut non is . . . solitatim eo . . . . . . . . . . . . . . inis . morem . . . . . . . . . n . . . . . s . . e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . atversus vod . . . non unus recess . . . sermonum acer . . . . . . . . . . . . . . . et bae . . . . . . . . . . . . . . e . . . . . . . . . . . . . . ter inter se cohaerent ut cum comitibus aliis artibus penetrarent.
+  21 <...> ne defendere. Atenim ples quia quen . . inbellem idem . le . . . non enim . . ui . ibus eadem ingentim. Neque similis virtus deest columbae alis pernicibus praedie . . . l . . . . . . . niubo . . . portendunt . . . d . . vultures et aquilae . e nescit modis ut rebus et cum . a . a . isa . . . . tisque e . ds . . tentis . . . r . . . . . . . . . . esu . . . . . . ia . . . . n . . sicut non is . . . solitatim eo . . . . . . . . . . . . . . inis . morem . . . . . . . . . n . . . . . s . . e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . atversus vod . . . non unus recess . . . sermonum acer . . . . . . . . . . . . . . . et bae . . . . . . . . . . . . . . e . . . . . . . . . . . . . . ter inter se cohaerent ut cum comitibus aliis artibus penetrarent.
   
  
  
@@ -1360,7 +1360,7 @@ M. Cornelius Fronto: Epistulae
   22 Sed caput atque fons bonarum artium et studiorum ab eloquentiae disciplinis oritur, neque res militaris neque officii observantia, quam philosopham vocant, perfecta gigni potest, nisi cum eloquentia creata sit. Utri earum artium defuerit eloquentia, ea quasi ab . . . el . . . ainsio noscit nam quisquam rectius belli consilia tractaverit, nisi illis adsuetus in orationibus legibus . . . n . . al tuo eae oeis . e . n . . . . . . . sagac . . conte clare . . prudentius divideres . . sollertius non . . . . . omnia quasi persaturam ingentem non extercerem misce . . . . . . . sed . . . . . . . . . . nescio enim . . lo . . . . . . . . . . . . . . cm parum perdiscis quomodo orationis in . . . . . . ibi structio t . . . . . . lae laus s . . s, quia equidem Syriae p . . . . . . vetustis alia fecundis cropla, modo fata decorare valeat, quae hinc quadamtentus magis minusve depicta sint: Ut principio ingrediendum, ut post principia ordo explicandus, ubi gravis per ballistas urguendum, ubi sanis argumentis res redintegranda, ubi gravioribus comfligendum, ubi immissis habenis eloquentia percursandum, quando orationi finiendae receptui canendum.
   23 Etiam Viriathus, etiam Spartacus belli scientes et manu prompti fuerunt. Sed etiam omnes universos quicumque post Romam conditam oratores extiterunt illos etiam, quos in Oratore Cicero eloquentiae civitate gregatim donavit, si numerare velis, vix trecenorum numerum conplebis, quom ex una Fabiorum familia trecenti milites fortissimi pro patria dimicantes uno die occubuerint. Non enim lenis aestimator sum: Milia sub pellibus . . . . . unum diem remanserunt diserte themati, si sapias . . . potes immo praem . . . . . tecone . . . etiam . . . . vium quem tu praem . . . . 
   [duae paginae desunt] 
-  24 &lt;...&gt; . . . spolia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . et Parthorum prompte et graviter respondisti. Scilicet hoc te a centurionibus vel primipilaribus, eleganttissimis altercatoribus, didicisse! Dausara et Nicephorium et Artaxa ductu auspicioque tuo armis capta sunt, sed arcem munitam et invictam et inexpugnabilem, quae in fratris tui pectore sita est, ad nomen Armeniaci, quod recusaverat, sumendum, quis alius quam tu aut quibus aliis tu quam eloquentiae copis adortus es? Comitem tibi ad impetrandum adscisti exercitum, sed loquentem exercitum oratione pugnantem. In ea tu parte litterarum tuarum, ut fratrem amantem decuit, sententiis magis crebris et dulcibus usus es et verba modulatius collocasti. Quae cum legerem (in senatu enim per valetudinem non potui adesse), cum eloquentia tua fratrem tuum urgeri viderem, ita cum tacitis cogitationibus meis compellabam: “Quid hoc rei est, Antonine? Nam tibi video nomen quod recusaveras accipiendum esse et de sententia decedendum. Quid nunc meae, quid philosophorum litterae agunt? Litteris militis vincimur. Ecquid autem pulchre scripsisse videtur? Numquod verbum insolens aut intempestivum? Aut num ego tibi videor gloriosum militem erudisse? Quin, quod votis omnibus expetisti, habes fratrem fortem, virum bonum dicendi peritum; eadem enim dicit ille quam tu, sed ea minus multis ille quam tu.” 25 Cum maxime haec ego mecum agitabam, quom orationi tuae successit Antonini oratio, di boni, quam pulchra, quam vera, multa! Plane dicta omnia et verba delenifica pietate et fide et amore et desiderio delibuta. Quid facerem inter duos, ambos meos? Petitoremne an, unde peteretur, magis laudarem? Antoninus erat cum imperio obsequens, tu autem, Luci, cum obsequio eras prae amore imperiosus. Eas ego orationes ambas cum dextra laevaque manu mea gestarem, amplior mihi et ornatior videbar daduchis Eleusine faces gestantes et regibus sceptra tenetibus et quindecemviris libros adeuntibus, deosque patrios ita comprecatus sum: “Hammo Juppiter et Libyae”&lt;...&gt;
+  24 <...> . . . spolia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . et Parthorum prompte et graviter respondisti. Scilicet hoc te a centurionibus vel primipilaribus, eleganttissimis altercatoribus, didicisse! Dausara et Nicephorium et Artaxa ductu auspicioque tuo armis capta sunt, sed arcem munitam et invictam et inexpugnabilem, quae in fratris tui pectore sita est, ad nomen Armeniaci, quod recusaverat, sumendum, quis alius quam tu aut quibus aliis tu quam eloquentiae copis adortus es? Comitem tibi ad impetrandum adscisti exercitum, sed loquentem exercitum oratione pugnantem. In ea tu parte litterarum tuarum, ut fratrem amantem decuit, sententiis magis crebris et dulcibus usus es et verba modulatius collocasti. Quae cum legerem (in senatu enim per valetudinem non potui adesse), cum eloquentia tua fratrem tuum urgeri viderem, ita cum tacitis cogitationibus meis compellabam: “Quid hoc rei est, Antonine? Nam tibi video nomen quod recusaveras accipiendum esse et de sententia decedendum. Quid nunc meae, quid philosophorum litterae agunt? Litteris militis vincimur. Ecquid autem pulchre scripsisse videtur? Numquod verbum insolens aut intempestivum? Aut num ego tibi videor gloriosum militem erudisse? Quin, quod votis omnibus expetisti, habes fratrem fortem, virum bonum dicendi peritum; eadem enim dicit ille quam tu, sed ea minus multis ille quam tu.” 25 Cum maxime haec ego mecum agitabam, quom orationi tuae successit Antonini oratio, di boni, quam pulchra, quam vera, multa! Plane dicta omnia et verba delenifica pietate et fide et amore et desiderio delibuta. Quid facerem inter duos, ambos meos? Petitoremne an, unde peteretur, magis laudarem? Antoninus erat cum imperio obsequens, tu autem, Luci, cum obsequio eras prae amore imperiosus. Eas ego orationes ambas cum dextra laevaque manu mea gestarem, amplior mihi et ornatior videbar daduchis Eleusine faces gestantes et regibus sceptra tenetibus et quindecemviris libros adeuntibus, deosque patrios ita comprecatus sum: “Hammo Juppiter et Libyae”<...>
   [sex paginae desunt] 
    
 
@@ -1371,7 +1371,7 @@ M. Cornelius Fronto: Epistulae
   
    ad Anton. de eloqu. 1 [133 Hout; 2.46 Haines] 
   
-  &lt;Antonino Augusto Fronto.&gt; 
+  <Antonino Augusto Fronto.> 
   
  
  
@@ -1381,7 +1381,7 @@ M. Cornelius Fronto: Epistulae
  
   
   
-  1 &lt;...&gt; ingenio discrepanti. Juberesne me niti contra naturam adverso, quod ajunt, flumine? Quid, si quis postularet, ut Phidias ludicra aut Canachus deum simulacra fingerent aut Calamis ut Tyrrhena aut Polycletus Etrusca? Quid si Parrhasium versicolora pingere juberet aut Apellen unicolora aut Nealcen magnifica aut Protogenen minuta aut Nician obscura aut Dionysium inlustria aut lascivia Euphranorem aut Pausiam . . . . . . . . a? 2 In poetis autem quis ignorat, ut gracilis sit Lucilius, Albucius aridus, sublimis Lucretius, medicoris Pacuvius, inaequalis Accius, Ennius multiformis? Historiam quoque scripsere Sallustius structe, Pictor incondite, Claudius lepide, Antias invenuste, Seisenna longinque, verbis Cato multijugis, Coelius singulis. Contionatur autem Cato infeste, Gracchus turbulente, Tullius gloriose; jam in judiciis saevit idem Cato, triumphat Cicero, tumultuantur Gracchus, Calvus rixatur. 
+  1 <...> ingenio discrepanti. Juberesne me niti contra naturam adverso, quod ajunt, flumine? Quid, si quis postularet, ut Phidias ludicra aut Canachus deum simulacra fingerent aut Calamis ut Tyrrhena aut Polycletus Etrusca? Quid si Parrhasium versicolora pingere juberet aut Apellen unicolora aut Nealcen magnifica aut Protogenen minuta aut Nician obscura aut Dionysium inlustria aut lascivia Euphranorem aut Pausiam . . . . . . . . a? 2 In poetis autem quis ignorat, ut gracilis sit Lucilius, Albucius aridus, sublimis Lucretius, medicoris Pacuvius, inaequalis Accius, Ennius multiformis? Historiam quoque scripsere Sallustius structe, Pictor incondite, Claudius lepide, Antias invenuste, Seisenna longinque, verbis Cato multijugis, Coelius singulis. Contionatur autem Cato infeste, Gracchus turbulente, Tullius gloriose; jam in judiciis saevit idem Cato, triumphat Cicero, tumultuantur Gracchus, Calvus rixatur. 
   
  
  
@@ -1394,9 +1394,9 @@ M. Cornelius Fronto: Epistulae
  
   ad Anton. de eloqu. 2 [135 Hout; 2.52 Haines] 
 
-  &lt;Antonino Augusto Fronto.&gt; 
-  1 &lt;...&gt; verborum loca, gradus pondera aetates dignitatesque dinoscere, ne in oratione praepostere, ut in temulento ac perturbato convivio, conlocentur; quae ratio sit verba geminandi et interdum trigeminandi, nonnumquam quadriplicia, saepe quinquies aut eo amplius superlata ponendi, ne frustra neve temere verborum strues acerventur, sed ut certo ac sollertei termino uniantur. 2 Post ista omnia investigata, examinata, distincta, finita, cognita verborum omnium, ut ita dixerim, populo, sicut in bello, ubi opus est legionem conscribere, non tantum voluntarios legimus, sed etiam latentis militari aetate conquirimus, ita ubi verborum praesidiis opus sit, non voluntariis tantum, quae ultro obvenerint, utemur, sed latentia eliciemus atque ad imperandum indigabimus. 3 Hic illud etiam, ut ego arbitror, scite a nobis conventum, quibus rationibus verba quaerantur, ut non hiantes oscitantesque exspectemus, quando verbum ultro in linguam quasi Palladium de caelo depluat, sed ut regiones verborum et saltus noverimus ut, ubi quaesitis opus sit, ut per viam potius ad vestigandum quam invio progrediamur.
-  4 Certa igitur loca sunt a nobis &lt;...&gt;
+  <Antonino Augusto Fronto.> 
+  1 <...> verborum loca, gradus pondera aetates dignitatesque dinoscere, ne in oratione praepostere, ut in temulento ac perturbato convivio, conlocentur; quae ratio sit verba geminandi et interdum trigeminandi, nonnumquam quadriplicia, saepe quinquies aut eo amplius superlata ponendi, ne frustra neve temere verborum strues acerventur, sed ut certo ac sollertei termino uniantur. 2 Post ista omnia investigata, examinata, distincta, finita, cognita verborum omnium, ut ita dixerim, populo, sicut in bello, ubi opus est legionem conscribere, non tantum voluntarios legimus, sed etiam latentis militari aetate conquirimus, ita ubi verborum praesidiis opus sit, non voluntariis tantum, quae ultro obvenerint, utemur, sed latentia eliciemus atque ad imperandum indigabimus. 3 Hic illud etiam, ut ego arbitror, scite a nobis conventum, quibus rationibus verba quaerantur, ut non hiantes oscitantesque exspectemus, quando verbum ultro in linguam quasi Palladium de caelo depluat, sed ut regiones verborum et saltus noverimus ut, ubi quaesitis opus sit, ut per viam potius ad vestigandum quam invio progrediamur.
+  4 Certa igitur loca sunt a nobis <...>
   
  
  
@@ -1410,7 +1410,7 @@ M. Cornelius Fronto: Epistulae
   
   . . . . . . . . . . . . . . . . . . . dicitur autem esse officiorum rationis tripertitas ab eis: Primam speciem substantiae, ut sit, alteram qualitatis . . . tis, ut talis sit, tertiam rei, ut rem ipsam, cujus causa sapiens superiora officia suscipit, exerceat. Etiam profecto vir sapiens esse non potest, nisi . . autem non vulgari ritu et promisco, sed qui aptus con . . . . . . tendenti ad sapientiam. Has duas officiorum species substantiae et qualitatis . . . . . . . eri . ed non ter annua t . . . . neque semet contentas, sed illi - - g . . . . ipsam et negotium capiscendae exi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . discendae exercendaeque sapientiae. Tertiam autem hanc speciem rei dico ac negotiis solam terminatam, se quasi contentam. Hac officiorum ratione, si tamen aut ille verum ajebat aut ego olim audita memoria retineo, ut prima homini ad sapientiam tendenti sint molimenta, quae ad vitam salutemque pertinent adcurandam. Igitur et prandere et lavari et ungui et cetera ejusmodi munera tota sunt sapientis officia, quamquam neque in balneo quisquam sapientia s . p . ni . . usl . neque ut circa et au . . . d . id majus vi . . . . . . es . ad mensam cenarit, prandio comeso vomerit, sapientiam ructarit . . . . . ur, si ederis . . . . . . . . ces, i . . . . . . . . . . . . . . . . nisi vixeris.
   5 Quid igitur istic admonendus es ne tinc . . . c . . . . nvio hoc d . . . . is . ene . . . prandio et mensa situm existimes? Non est sapientiae negotium vesci, sed sine vita, qua sine nulla sapientia, studia nulla si possunt esse, jam nunc . . . . . . . . . . . . . . . vides igitur . . . . . . . . officia et . . . . . . . tum a . ua . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . sapientia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . non sunt qui . . . . at non aeque sequentia officia, quae sunt qualitati cujusque accomodata, possunt omnium esse communia: Aliud prandium gubernatori commune et aliud pugili de integris tegoribus; aliud prandendi tempus aliua lavatio, alius somnus, alia pervigilatio. 
-  6 Considera igitur, an in hac secunda ratione officiorum contineatur eloquentiae studium. Nam Caesarum est in senatu quae e re sunt suadere, populum de plerisque negotiis in contione appellare, jus injustum corrigere, per orbem litteras missitare, reges exterarum gentium compellare, sociorum culpas edictis coervcere, bene facta laudare, seditiosos compescere, feroces territare. Omnia ista profecto verbis sunt ac litteris agenda. Non excoles igitur id, quod tibi totiens tantisque in rebus videas magno usui futurum? An nihil referre arbitraris qualibus verbis agas, quae non nisi verbis agi possunt? Erras, si putas pari auctoritate in senatu fore Thersitae verbis expromptam sententiam et Menelai aut Ulixi orationem, quorum Homerus et voltus in agendo et habitus et status et voces canoras ac modulationem eloquentiae genera diversa nondum &lt;...&gt;
+  6 Considera igitur, an in hac secunda ratione officiorum contineatur eloquentiae studium. Nam Caesarum est in senatu quae e re sunt suadere, populum de plerisque negotiis in contione appellare, jus injustum corrigere, per orbem litteras missitare, reges exterarum gentium compellare, sociorum culpas edictis coervcere, bene facta laudare, seditiosos compescere, feroces territare. Omnia ista profecto verbis sunt ac litteris agenda. Non excoles igitur id, quod tibi totiens tantisque in rebus videas magno usui futurum? An nihil referre arbitraris qualibus verbis agas, quae non nisi verbis agi possunt? Erras, si putas pari auctoritate in senatu fore Thersitae verbis expromptam sententiam et Menelai aut Ulixi orationem, quorum Homerus et voltus in agendo et habitus et status et voces canoras ac modulationem eloquentiae genera diversa nondum <...>
   
  
  
@@ -1422,11 +1422,11 @@ M. Cornelius Fronto: Epistulae
  
   
   
-  7 &lt;…&gt; fuisse Croesum et Solonem, periandrum et Polycraten, Alcibiaden denique et Socraten. Quis dubitat sapientem ab insipsiente vel praecipue consilio et dilectu rerum et opinione discerni et, si sit optio atque electio divitiarum atque egestatus, quamquam utraque et malitia et virtute careant, tamen electionem laude et culpa non carere? Proprium namque sapientis officium est recte eligere neque perperam vel postponere vel anteferre. 
+  7 <…> fuisse Croesum et Solonem, periandrum et Polycraten, Alcibiaden denique et Socraten. Quis dubitat sapientem ab insipsiente vel praecipue consilio et dilectu rerum et opinione discerni et, si sit optio atque electio divitiarum atque egestatus, quamquam utraque et malitia et virtute careant, tamen electionem laude et culpa non carere? Proprium namque sapientis officium est recte eligere neque perperam vel postponere vel anteferre. 
   8 Si me interroges concupiscamne bonam valetudinem, abnuam equidem, si sim philosophus: Nihil est enim fas concupiscere sapienti aut adpetere, quod fors fuat, an frustra concupiscat; nec quicquam, quod in manu Fortunae situm videat, concupiscet. Tamen si necessario sit altera res eligenda, Achillei potius pernicitatem eligam quam debilitaten Philoctetae. Simile igitur in eloquentia servandum: Non opere nimio concupiscas igitur nec opere nimio aversere; tum si eligendum sit, longe longeque eloquentiam infantiae praeferas. 
   9 Audivi te nonnumquam ita dicentem: “Atenim cum aliquid pulchrius elocutus sum placeo mihi ideoque eloquentiam fugio.” Quin tu potius illud corrigis ac mederis ne places tibi, non ut id propter quod places repudies? Nam ut nunc facis, alibi tu medicamenta obligas. Quid tandem? Si tibi placebis tibi pio aliquo cultu parentis, pietatem spernabere? Places tibi cum facundus? Igitur verbera te; quid facundiam verberas? Tametsi Plato ita diceret itaque te compellaret: “O juvenis, periculosa est tibi praepropera placendi fuga: Novissimum namque homini sapientiam colenti amiculum est gloriae cupido; id novissimum exuitur.” Ipsi, ipsi, inquam, Platoni in novissimum usque vitae finem gloria amiculum erit. 
   10 Illud etiam audisse me memini pleraque sapientes viros in placitis mentis atque consultis habere debere quorum intedum usu abstineant, itemque interdum nonnulla in usu habere debere quae dogmatis improbent neque ubique rationem sapientiae rectam et usum vitae necessarium congruere.
-  11 Fac te, Caesar, ad sapientiam Cleanthis aut Zenonis posse pertingere, ingratiis tamen sibi purpureum pallium erit sumendum, non pallium philosophorum soloci lana. Purpureo &lt;...&gt;
+  11 Fac te, Caesar, ad sapientiam Cleanthis aut Zenonis posse pertingere, ingratiis tamen sibi purpureum pallium erit sumendum, non pallium philosophorum soloci lana. Purpureo <...>
   
  
  
@@ -1438,7 +1438,7 @@ M. Cornelius Fronto: Epistulae
  
   
   
-  12 &lt;...&gt; ne di immortales seirint comitium et rostra et tribunalia Catonis et Gracchi et Ciceronis orationibus celebrata hoc potissimum saeculo conticiscere, orbem terrae, quem vocalem acceperis, mutum a te fieri. Si linguam quis uni homini exsecet, inmanis habeatur. Eloquentiam humano generi exsicari mediocre facinus putas? Non hunc adnumeras Tereo aut Lycurgo? Qui Lycurgus quid tandem mali facinoris admisit, quam vites amputavit? Multis profecto gentibus ac nationibus profuisset vinum undique gentium exterminatum! Tamen Lycurgus poenas caesarum vitium luit. Quare metuendam censeo divinitus poenam eloquentiae exterminatae. Nam vinea in unius tutela dei sita, eloquentiam vero multi in caelo diligunt: Minerva orationis magistra, Mercurius nuntiis praeditus, Apollo paeanum auctor, Liber dithyramborum cognitor, Fauni vaticinantium incitatores, magistra Homeri Calliopa, magister Enni Homerus et Somnus. 
+  12 <...> ne di immortales seirint comitium et rostra et tribunalia Catonis et Gracchi et Ciceronis orationibus celebrata hoc potissimum saeculo conticiscere, orbem terrae, quem vocalem acceperis, mutum a te fieri. Si linguam quis uni homini exsecet, inmanis habeatur. Eloquentiam humano generi exsicari mediocre facinus putas? Non hunc adnumeras Tereo aut Lycurgo? Qui Lycurgus quid tandem mali facinoris admisit, quam vites amputavit? Multis profecto gentibus ac nationibus profuisset vinum undique gentium exterminatum! Tamen Lycurgus poenas caesarum vitium luit. Quare metuendam censeo divinitus poenam eloquentiae exterminatae. Nam vinea in unius tutela dei sita, eloquentiam vero multi in caelo diligunt: Minerva orationis magistra, Mercurius nuntiis praeditus, Apollo paeanum auctor, Liber dithyramborum cognitor, Fauni vaticinantium incitatores, magistra Homeri Calliopa, magister Enni Homerus et Somnus. 
   13 Tum si studium philosophiae in rebus esset solis occupatum, minus mirarer, quod tanto opere verba contemneres. Discere te autem ceratinas et soritas et pseudomenus, verba contorta et fidicularia, neglegere vero cultum orationis et gravitatem et majestatem et gratiam et nitorem, hoc indicat loqui te quam eloqui malle, murmurare potius et friguttire quam clangere. Diodori tu et Alexini verba verbis Platonis et Xenophontis et Antisthenis anteponis, ut si quis histrionae studiosus Tasurci gestu potius quam Roscii uteretur, ut si in natando, si aeque liceret, ranam potius quam delphinos aemulari mallet, coturnicum potius pinnis breviculis quam aquilarum majestate volitare! 
   14 Ubi illud acumen tuum? Ubi subtilitas? Evigila et atende, quid cupiat ipse Chrysippus? Non est contentus, verum auget, in quantum potest, exaggerat, praemunit, iterat, differt, recurrit, interrogat, describit, dividit, personas fingit, orationem suam alii accommodat: ταῦτα δ᾿ ἐστὶν αὔξειν, διασκευάζειν, προϋπεργάζεσθαι, πάλιν λέγειν, ἐπαναφέρειν, παράπτειν, προσωποποιεῖν. Videsne ab eo paene omnia oratorum arma tractari? Igitur, si ipse Chrysippus his utendum esse ostendit, quid ego amplius postulo nisi, ut ne verbis dialecticorum, sed potius Platonis utaris: Gladio dimicandum esse convenit, verum utrum dimices gladio robiginoso an splendido interest.
   
@@ -1457,7 +1457,7 @@ M. Cornelius Fronto: Epistulae
  
  
   
-  17 Quin erige te et extolle et tortores istos, qui te ut abietem et alnum proceram incurvant et ad chamaetorta detrahunt, valido cacumine tuo excute et tempta an usquam ab dignitate discesseris. Sed comitem philosophiae . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . has si tenueris, contemnas; quom contempseris, nescias. Dic, obsecro, mihi: De dialecticis istis ecquid tenes? Ecquid tenere te gaudes? Nolo mihi dicas: Apud te ipse reputa. Ego illud praedico, quom plurimos amicos in hac disciplina tenuerim &lt;...&gt;
+  17 Quin erige te et extolle et tortores istos, qui te ut abietem et alnum proceram incurvant et ad chamaetorta detrahunt, valido cacumine tuo excute et tempta an usquam ab dignitate discesseris. Sed comitem philosophiae . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . has si tenueris, contemnas; quom contempseris, nescias. Dic, obsecro, mihi: De dialecticis istis ecquid tenes? Ecquid tenere te gaudes? Nolo mihi dicas: Apud te ipse reputa. Ego illud praedico, quom plurimos amicos in hac disciplina tenuerim <...>
   
  
  
@@ -1470,16 +1470,16 @@ M. Cornelius Fronto: Epistulae
   
   
   19 Tum si quando tibi negotiis disticto perpetuae orationis conscribundae tempus deesset, nonne te tumultuaris quibusdam et lucrativis studiorum solaciis fulciebas, synonymis colligendis, verbis interdum singularibus requirendis, ut veterum commata, ut cola synonymorum ratione converteres, ut de volgaribus elegantia, de contaminateis nova redderes, imaginem aliquam accommodares, figuram iniceres, prisco verbo adornares, colorem vetusculum adpingeres? Haec si propterea contemnis, quia didicisti, philosophiam quoque discendo contemnes.
-  20 Sed non ea sunt ista, quae possis contemnere; possis sane non amare, ut olim Crassus tristis risum oderat, ut nostra hic memoria Crassus lucem fugitabat, ut nostra itidem memoria vir consularis campos formidabat, Pomptinum campum &lt;...&gt;
+  20 Sed non ea sunt ista, quae possis contemnere; possis sane non amare, ut olim Crassus tristis risum oderat, ut nostra hic memoria Crassus lucem fugitabat, ut nostra itidem memoria vir consularis campos formidabat, Pomptinum campum <...>
   [octo paginae desunt] 
 
    
 
    ad Anton. de eloqu. 3 [146 Hout; 2.70 Haines] 
-  &lt;Antonino Augusto Fronto.&gt;
-  1 &lt;...&gt; tralata tum notione dic . . res ita impulerit . . . proverbia tralata . . . . vincas inesse. Testitra . . . . . . aterrid . . . . . . monere . . . . . . . . . . . . . te . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . versum es . . . . . . . . . . . duis utetur coni . . . . . . . . . . . . . . . . . . . . . ent alterum proprium, ‘comes’, alterum translatum, ‘opifex’ neque ulla verbis istis inter se communio inest neque propinquitas. Offendit igitur aures et ingruens diversitatem suam notat sti sapere quid est dictum . . . . . . . . . . . . sapere aure . . . trum more dicta . . . . . . . . . . . . . . . . atenem . . . . r . . Sallustius ait: “Quinque manu, ventre, pene bona patria laceraverat.” Vides quantum similitudine verborum formae adsecutus sit ut postremum verbum, quamquam parum pudicum, non indecorum esse videatur, ideo scilicet quod haec verba similia praecedant. Quodsi ita haec verba contra dixisset: “Quique pene, manu, ventre bona patria laceraverat”, inaudita obscenitas hic appareret . . . . . . . . . . excusare ssiros . duisesethat quibus tertio que . . . . . . . . . . duobus his verbis manu ventre adposita . . . . . . . . . . aures . . . . . . . . . . . . . . . . tertioque . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+  <Antonino Augusto Fronto.>
+  1 <...> tralata tum notione dic . . res ita impulerit . . . proverbia tralata . . . . vincas inesse. Testitra . . . . . . aterrid . . . . . . monere . . . . . . . . . . . . . te . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . versum es . . . . . . . . . . . duis utetur coni . . . . . . . . . . . . . . . . . . . . . ent alterum proprium, ‘comes’, alterum translatum, ‘opifex’ neque ulla verbis istis inter se communio inest neque propinquitas. Offendit igitur aures et ingruens diversitatem suam notat sti sapere quid est dictum . . . . . . . . . . . . sapere aure . . . trum more dicta . . . . . . . . . . . . . . . . atenem . . . . r . . Sallustius ait: “Quinque manu, ventre, pene bona patria laceraverat.” Vides quantum similitudine verborum formae adsecutus sit ut postremum verbum, quamquam parum pudicum, non indecorum esse videatur, ideo scilicet quod haec verba similia praecedant. Quodsi ita haec verba contra dixisset: “Quique pene, manu, ventre bona patria laceraverat”, inaudita obscenitas hic appareret . . . . . . . . . . excusare ssiros . duisesethat quibus tertio que . . . . . . . . . . duobus his verbis manu ventre adposita . . . . . . . . . . aures . . . . . . . . . . . . . . . . tertioque . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
   [una pagina legi nequit et duae paginae desunt] 
-  2 &lt;...&gt; nullius ante nisi unius Gaji Sallusti trita solo, sensum dictu periculosum et paene obstetricium pulcherrimo cultu et honestissimo ornatu protulisti. εὔφρανας, ὑπερεύφρανας, σώζεο μοι. 
+  2 <...> nullius ante nisi unius Gaji Sallusti trita solo, sensum dictu periculosum et paene obstetricium pulcherrimo cultu et honestissimo ornatu protulisti. εὔφρανας, ὑπερεύφρανας, σώζεο μοι. 
   3 Quod librari manu epistula scripta est, a labore gravi digitis consului, quei sunt jam in suspicione. 
 
   
@@ -1495,7 +1495,7 @@ M. Cornelius Fronto: Epistulae
   8 Moneo igitur Marcum meum etiam atque etiam et, ut meminerit, obsecro: Quotienscumque ἀδοξότερον ἐνθύμημα animo conceperis, volvas illud tumet, diversis et variis figurationibus verses temperesque et verbis splendidis excolas, Nam quae nova et inopinata audientibus sunt, periculum est, nisi ornentur et figurentur, ne videantur absurda. 
   9 Cetera omnia tibi in eloquentia expolita et explorata sunt: Scis verba quaerere, scis reperta recte collocare, scis colorem sincerem vetustatis appingere; sententiis autem gravissimis abundas 
   [quattuor paginae desunt] 
-  10 &lt;...&gt; prima conditio est; ubi semel patefactae sunt, facile cognitae negleguntur. Contemni denique et nullo honore esse rhetora videas; observari autem et omnibus officiis coli dialecticos, quod in eorum rationibus semper obscuri aliquid et tortuosi sit, eoque fit, ut magistro discipulus haereat semper et inserviat, vinctus perpetuis quibusdam vinculeis attineatur. 
+  10 <...> prima conditio est; ubi semel patefactae sunt, facile cognitae negleguntur. Contemni denique et nullo honore esse rhetora videas; observari autem et omnibus officiis coli dialecticos, quod in eorum rationibus semper obscuri aliquid et tortuosi sit, eoque fit, ut magistro discipulus haereat semper et inserviat, vinctus perpetuis quibusdam vinculeis attineatur. 
   11 Dicet aliquis: “Tu igitur praeter ceteros nimirum verbis pulchris et insignibus uteris?” Ego immo volgaribus et obsoletis. Quid igitur est? Nisi istud saltem scirem, deterioribus uterer. 
 
    
@@ -1522,8 +1522,8 @@ M. Cornelius Fronto: Epistulae
    
 
    ad Anton. de orat. [153 Hout; 2.100 Haines] 
-  &lt;Antonino Augusto Fronto&gt; 
-  1 &lt;...&gt; pauca subnectam, fortasse inepta, iniqua, nam rusus faxo magistrum me experiare. Neque ignoras omnem hanc magistrorum manum vanam propemodum et stolidam esse: Parum eloquentiae et sapientiae nihil. Feres profecto bona venia veterem potestatem et nomen magistri me usurpantem denuo. 2 Fateor enim, quod res est, unam solam posse causam incidere, qua causa claudat aliquantum amor erga te meus: Si eloquentiam neglegas. Neglegas tamen vero potius censeo, quam prave excolas. Confusam eam ego eloquentiam catachannae ritu partim pineis nucibus Catonis, partim Senecae mollibus et febriculosis prunuleis insitam subvertendam censeo radicitus, immo vero Plautino et rato verbo ‘exradicitus’. Neque ignoro copiosum sententiis et redundantem hominem esse, verum sententias ejus tolutares video nusquam quadripedo concito cursu tenere, nusquam pugnare, nusquam majestatem studere et, ut Laberius ait, ‘dictabolaria’, immo dicteria potius eum quam dicta confingere. 
+  <Antonino Augusto Fronto> 
+  1 <...> pauca subnectam, fortasse inepta, iniqua, nam rusus faxo magistrum me experiare. Neque ignoras omnem hanc magistrorum manum vanam propemodum et stolidam esse: Parum eloquentiae et sapientiae nihil. Feres profecto bona venia veterem potestatem et nomen magistri me usurpantem denuo. 2 Fateor enim, quod res est, unam solam posse causam incidere, qua causa claudat aliquantum amor erga te meus: Si eloquentiam neglegas. Neglegas tamen vero potius censeo, quam prave excolas. Confusam eam ego eloquentiam catachannae ritu partim pineis nucibus Catonis, partim Senecae mollibus et febriculosis prunuleis insitam subvertendam censeo radicitus, immo vero Plautino et rato verbo ‘exradicitus’. Neque ignoro copiosum sententiis et redundantem hominem esse, verum sententias ejus tolutares video nusquam quadripedo concito cursu tenere, nusquam pugnare, nusquam majestatem studere et, ut Laberius ait, ‘dictabolaria’, immo dicteria potius eum quam dicta confingere. 
   3 Itane existimas graviores sententias et eadem e re apud Annaeum istum reperturum te quam apud Sergium? “Sed non modulatas aeque”. Fateor, si prandium idem utriusque apponatur, adpositas oleas alter digitis prendat, ad os adferat, ut manducandi jus fasque est, ita dentibus subiciat, alter autem oleas suas in altum jaciat, ore aperto excipiat, exceptas ut calculos praestrigiator primoribus labris ostentet? Ea re profecto pueri laudent et convivae delectantur, sed alter pudice pranderit, alter labellis gesticulatus erit. “Atenim sunt quaedam in libris ejus scite dicta, graviter quoque nonnulla.” Etiam lamminae interdum argentiolae in cloacis inveniuntur: Eane re cloacas purgandas redimemus? 
   4 Primum illud in isto genere dicendi vitium turpissimum, quod eandem sententiam milliens alio atque alio amictu indutam referunt. Ut histriones, quom palliolatim saltant caudam cycni, capillum Veneris, Furiae flagellum, eodem pallio demonstrant, ita isti unam eandemque sententiam multimodis faciunt: Ventilant, commutant, comvertunt, eadem lacinia saltitant, refricant eandem unam sententiam saepius quam puellae olfactaria sucina. 
   5 Dicendum est de fortuna aliquid: Omnis ibi Fortunas Antiatis, Praenestinas, respicientis, balnearum etiam Fortunas omnis cum pennis, cum roteis, cum gubernaculis reperias. 
@@ -1590,9 +1590,9 @@ M. Cornelius Fronto: Epistulae
    
 
    ad Anton.Pium 10 [168 Hout; 1.262 Haines] 
-  &lt;Antonino Pio Augusto Fronto.
-  1 Accepi, Caesar &lt;...&gt;
-  lt;...&gt; equitus Romani nius contubernalis mei Sexti Calpurnii dignitatem rogatu meo exornasti duabus jam procurationibus datis. Ea ego duarum procurationum beneficia quater numero: Bis cum dedisti procurationes itemqu bis cum excusationes recepisti.
+  <Antonino Pio Augusto Fronto.
+  1 Accepi, Caesar <...>
+  lt;...> equitus Romani nius contubernalis mei Sexti Calpurnii dignitatem rogatu meo exornasti duabus jam procurationibus datis. Ea ego duarum procurationum beneficia quater numero: Bis cum dedisti procurationes itemqu bis cum excusationes recepisti.
   2 Supplicavi tibi jam per biennium pro Appiano amico meo, cum quo mihi et vetus consuetudo et studiorum usus prope cotidianus intercedit. Quin ipsum quoque certum habeo et adfirmare ausim eadem modestia usurum, qua Calpurnius Julianus meis usus est. Dignitatis enim suae in senectute ornandae causa, non ambitione aut procuratoris stipendii cupiditate optat adpisci hunc honorem. Quom primum pro Appiano petivi, ita benigne admisisti preces meas, ut sperare deberem.
   3 Proximo superiore anno petenti mihi propitius multa respondisti, illud vero etiam comiter, futurum ut, cum Appiano me rogante procurationem dedisses, causidicorum scatebra exorertur idem petentium. Meministi etiam, quem de Graecia propitius et ridens nominaveris. Sed multa distant: Aetas, orbitas, cui leniendas solaciis opus est. Ausim dicere honestatem quoque et probitatem inter duos bonos viros nonnihil tamen distare; quod propterea facilius dico, quoniam illum, cui amicum meum antepono, non nominavi.
   4 Postremo dicam, quomodo simplicitas mea et veritas me dicere hortantur et fiducia amoris erga te mei, profecto aequius esse illum quoque propter me impetrare. Memento etiam, domine imperator, cum ille meo exemplo petet, me biennio hoc petisse: Igitur illei quoque, sei videbitur, post biennium dato. Fecerit exemplo nostro, si ipse quoque se tibi impetraverit excusare.
@@ -1620,9 +1620,9 @@ M. Cornelius Fronto: Epistulae
    ad amicos 1.1 [170 Hout; 1.282 Haines] 
   Fronto Claudio Severo salutem.
   1 Commendandi mos initio dicitur benivolentia ortus, cum suum quisque amicum ali amico suo demonstratum conciliatumque vellet. Paulatim denique uste mos progressus est, ut etiam eos, qui publico vel privato judicio disceptarent, non tamen inproba res videretur judicibus ipsis aut iis, qui consilio adessent, commendare, non, opinor, ad justitiam judicis labefactandam vel de vera sententia deducendam. Sed iste in ipsis judiciis mos inveteratus erat causa perorata laudatores adhibere, qui, quicquid de reo existimarent, pro sua opinione cum fide expromerent; item istae commendantium litterae laudationis munere fungi visae sunt.
-  2 Quorsum hoc tam ex alto prohoemium? Ne me existimasses parum considerasse gravitatem auctoritatemque tuam commendando Corneliano Sulpicio familiarissimo meo, qui propediem causam apud vos dicturos est, sed, ut dici, veteris instituti exemplo necessarium meum laudare apud te ausus sum. Industrius vir est, strenuus, ingenio libero ac liberali, patriae amantissimus, innocentia fretus magis quam confidens, litterarum studio et bonarum artium elegantia mihi ad &lt;...&gt;
+  2 Quorsum hoc tam ex alto prohoemium? Ne me existimasses parum considerasse gravitatem auctoritatemque tuam commendando Corneliano Sulpicio familiarissimo meo, qui propediem causam apud vos dicturos est, sed, ut dici, veteris instituti exemplo necessarium meum laudare apud te ausus sum. Industrius vir est, strenuus, ingenio libero ac liberali, patriae amantissimus, innocentia fretus magis quam confidens, litterarum studio et bonarum artium elegantia mihi ad <...>
   [Una pagina legi nequit] 
-  &lt;...&gt; jam di me . . . . rsen . . s quicumque . . . am . . . . os e . . . . set hos . . . . . e intercedit neque forte aut temere necessitudine ista sumus copulati, nec ultro me amicitiam Corneliani adpetisse fateor. Nam laus ad me de ingenio ejus jam pervaserat, quam veram ad aures meas accidisse usu didici multisque documentis expertus sum, habitavimus una, studuimus una, jocum seriumque participavimus, fidei consiliique periculum fecimus, omnibus modis amicitia nostra et voluptati nobis et usui fuit. 3 Quamobrem quantum plurimum possum, tantum imploro quaesoque es . m . . . . nisque carissimo mihi hominis homini in causa inu . . . is . met alienis . . mum in pe . . . . . r quas . . . . . ineiam . . e . . . me incitarit ad accusationem nostri ordinis virum, sed lectis concilii commentaris ta . te planem facie . . . . . . ed . e . . asse cav . . a . . . tam propulsare conisus est; solliditudo animi me agit multis vum verbis commendare, sed fidum amorem nostri respondet tamen e . . . . . . m, quid postulem, orationem vobis unum meum verbum visum iri.
+  <...> jam di me . . . . rsen . . s quicumque . . . am . . . . os e . . . . set hos . . . . . e intercedit neque forte aut temere necessitudine ista sumus copulati, nec ultro me amicitiam Corneliani adpetisse fateor. Nam laus ad me de ingenio ejus jam pervaserat, quam veram ad aures meas accidisse usu didici multisque documentis expertus sum, habitavimus una, studuimus una, jocum seriumque participavimus, fidei consiliique periculum fecimus, omnibus modis amicitia nostra et voluptati nobis et usui fuit. 3 Quamobrem quantum plurimum possum, tantum imploro quaesoque es . m . . . . nisque carissimo mihi hominis homini in causa inu . . . is . met alienis . . mum in pe . . . . . r quas . . . . . ineiam . . e . . . me incitarit ad accusationem nostri ordinis virum, sed lectis concilii commentaris ta . te planem facie . . . . . . ed . e . . asse cav . . a . . . tam propulsare conisus est; solliditudo animi me agit multis vum verbis commendare, sed fidum amorem nostri respondet tamen e . . . . . . m, quid postulem, orationem vobis unum meum verbum visum iri.
   
 
    ad amicos 1.2 [171 Hout; 1.286 Haines] 
@@ -1689,14 +1689,14 @@ M. Cornelius Fronto: Epistulae
 
    ad amicos 1.11 [177 Hout; 2.86 Haines] 
   Fronto Velio Rufo seni salutem.
-  Figurae orationis sunt, quae maxime orationem ornant. Duplex autem genus est figurarum: Aut enim verborum figurae sunt aut sententiarum. In figuris verborum est tropos metaphora. Hac figura usus sum, cum ‘cloacam’ dixi de cirpore, in quo neque sangis sincerus neque aqua pura neque ullus umor liquidus, sed ita ut in palude corrupta omnia. Quod autem plerosque fugit, te hominem vehementem et cum doctrina tum multo magis natura validum scire oportet ejus modicae oratorias aliter &lt;...;gt;
+  Figurae orationis sunt, quae maxime orationem ornant. Duplex autem genus est figurarum: Aut enim verborum figurae sunt aut sententiarum. In figuris verborum est tropos metaphora. Hac figura usus sum, cum ‘cloacam’ dixi de cirpore, in quo neque sangis sincerus neque aqua pura neque ullus umor liquidus, sed ita ut in palude corrupta omnia. Quod autem plerosque fugit, te hominem vehementem et cum doctrina tum multo magis natura validum scire oportet ejus modicae oratorias aliter <...;gt;
   [duae paginae desunt] 
   
 
    ad amicos 1.12 [178 Hout; 2.170 Haines] 
   Fronto Aufidio Victorino salutem.
-  1 Litteras, quas, domine, &lt...&gt;
-  &lt;...&gt; meremur et mihi filiam et tibu uxorem, ut recte proveniat, favebunt et familiam nostram liberis ac nepotibus augebunt et eos, qui ex te geniti sunt eruntque, tui similes praestabunt. 2 Cum isto quidem sive Victorino nostro sive Frontone cotidianae mihi lites et jurgia intercedunt. Cum tu nullam unquam mercedem ullius rei agendae dicendaeve a quoquam postularis, Fronto iste nullum verbum prius neque frequentius congarrit quam hoc ‘da’. Ego contra quod possum aut chartulas ei aut tabellas porrigo, quarum rerum petitorem eum esse cupio. Nonnulla tamen et aviti ingeni signa ostendit: Uvarum avidissimus est. Primum denique hunc cibum degluttivit nec cessavit per totos paene dies aut lingua lambere uva, aut labris saviari ac gingivis lacessere ac ludificari. Avicularum etiam cupidissimus est: Pullis gallinarum, columbarum, passerum oblectatur, quo studio me a prima infantia devinctum fuisse saepe audivi ex his, qui mihi eductores aut magistri fuerunt. Senes etiam quanto perdicum studio tenear, nemo est, qui me leviter noverit, quin sciat. 3 Nullum est enim factum meum dictumve, quod clam ceteris esse velim; quin cui rei mihimet ipse conscius sim, ceteros quoque omnes juxta mecum scire velim . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+  1 Litteras, quas, domine, <...>
+  <...> meremur et mihi filiam et tibu uxorem, ut recte proveniat, favebunt et familiam nostram liberis ac nepotibus augebunt et eos, qui ex te geniti sunt eruntque, tui similes praestabunt. 2 Cum isto quidem sive Victorino nostro sive Frontone cotidianae mihi lites et jurgia intercedunt. Cum tu nullam unquam mercedem ullius rei agendae dicendaeve a quoquam postularis, Fronto iste nullum verbum prius neque frequentius congarrit quam hoc ‘da’. Ego contra quod possum aut chartulas ei aut tabellas porrigo, quarum rerum petitorem eum esse cupio. Nonnulla tamen et aviti ingeni signa ostendit: Uvarum avidissimus est. Primum denique hunc cibum degluttivit nec cessavit per totos paene dies aut lingua lambere uva, aut labris saviari ac gingivis lacessere ac ludificari. Avicularum etiam cupidissimus est: Pullis gallinarum, columbarum, passerum oblectatur, quo studio me a prima infantia devinctum fuisse saepe audivi ex his, qui mihi eductores aut magistri fuerunt. Senes etiam quanto perdicum studio tenear, nemo est, qui me leviter noverit, quin sciat. 3 Nullum est enim factum meum dictumve, quod clam ceteris esse velim; quin cui rei mihimet ipse conscius sim, ceteros quoque omnes juxta mecum scire velim . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
   
 
    ad amicos 1.13 [179 Hout; 2.174 Haines] 
@@ -1705,7 +1705,7 @@ M. Cornelius Fronto: Epistulae
   
 
    ad amicos 1.14 [179 Hout; 2.98 Haines] 
-  &lt;Fronto Aufidio Victorino salutem&gt;
+  <Fronto Aufidio Victorino salutem>
   1 Ad obrussae tempora . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . et Varianis alumnis masculis feminique sestertium deciens singulis reliquit usurarium propius quam proprium: Nam quinquagena annua ab Augusta singulis dare jussit. Plerique omnes, qui eam curaverant, frustra fuerunt: Ne libris quidem singulis ponderati sunt. Ausi tamen sunt nonnulli, navi scilicet et strenui viri, codicillos, quos jam pridem Matidia inciderat, obsignare, cum illa sine sensu ullo jaceret. Ausi etiam sunt codicillos istos apud dominum nostrum ut probe ac recte factos tueri ac defendere. Nec sine metu fui, ne quid philosophia perversi suaderet. Quid ad eum scripserim, exemplum litterarum misi tibi.
   2 In oratione Bithyna, cujus partem legisse te scribis, multa sunt nova addita, ut arbitror ego non inoranate, locus inmprimis de acta vita, quem tibi placiturum puto, si legeris quid in simili re M. Tullius pro P. Sylla egregie scriptum reliquit, non ut per pari compares, sed ut aestimes nostrum mediocre ingenium quantum ab illo eximiae eloquentiae viro abfuat.
   
@@ -1780,23 +1780,23 @@ M. Cornelius Fronto: Epistulae
 
    ad amicos 1.23 [185 Hout] 
   Fronto Junio Maximo salutem.
-  Humani casus homini &lt;...&gt;
+  Humani casus homini <...>
   
 
    ad amicos 1.24 [185 Hout] 
   Fronto Praecilio Pompejano salutem.
-  Labris ejus labra fovi &lt;...&gt;
+  Labris ejus labra fovi <...>
   
 
    ad amicos 1.25 [185 Hout] 
   Fronto Sardio Saturnino salutem.
-  Hortatus sum constanter &lt;...&gt;
+  Hortatus sum constanter <...>
   
 
    ad amicos 1.26 [185 Hout; 2.244 Haines] 
   Fronto Junio Maximo salutem.
-  Per Ulpium nostrum &lt;...&gt;
-  &lt;...&gt; honestatis gravitatisque tuae praedicatorem, quem cupio ad me celeriter remittas. Neque enim cum alio ullo tanta familiaritas est aut tantus usus studiorum bonarumque artium communicandi. Multo etiam mihi jucundior erit, quom sermones de te mutuo recolemus ac recensebimus.
+  Per Ulpium nostrum <...>
+  <...> honestatis gravitatisque tuae praedicatorem, quem cupio ad me celeriter remittas. Neque enim cum alio ullo tanta familiaritas est aut tantus usus studiorum bonarumque artium communicandi. Multo etiam mihi jucundior erit, quom sermones de te mutuo recolemus ac recensebimus.
   
 
    ad amicos 1.27 [185 Hout; 2.244 Haines] 
@@ -1836,13 +1836,13 @@ M. Cornelius Fronto: Epistulae
 
    ad amicos 2.4 [188 Hout; 1.282 Haines] 
   Cornelio Repentino Fronto salutem.
-  1 Fecisti, frater Contucci, pro tua perpetua consuetudine et benignitate, quod Fabianum spectatum in officiis civilibus, frequentem in forum, meum familiarem ita tutatus es, ut ei existimationem incolumem conservares. Meritissimo certe tibi parem gratiam refereundo mihi immortalies prospe&lt;rent di...&gt;
+  1 Fecisti, frater Contucci, pro tua perpetua consuetudine et benignitate, quod Fabianum spectatum in officiis civilibus, frequentem in forum, meum familiarem ita tutatus es, ut ei existimationem incolumem conservares. Meritissimo certe tibi parem gratiam refereundo mihi immortalies prospe<rent di...>
   - - -
-  2 &lt;...&gt; tempore nocturno in tali porro actione atque dolore ne absit; a . . . . . . nobis similitudo . . . . . . . . . . . . . . . . . . . . . . . vix prestis spes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . neque mox habebis tibi nobiles; teneto potius eos satis aperto odio plenos fuisse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . darent . . . . . . . . . . pro utro dic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . adoris servaverunt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  2 <...> tempore nocturno in tali porro actione atque dolore ne absit; a . . . . . . nobis similitudo . . . . . . . . . . . . . . . . . . . . . . . vix prestis spes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . neque mox habebis tibi nobiles; teneto potius eos satis aperto odio plenos fuisse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . darent . . . . . . . . . . pro utro dic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . adoris servaverunt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
    
 
    ad amicos 2.5 = ad Anton.Pium 7 [165 Hout; 1.258 Haines] 
-  &lt;Fronto Gavio Maximo&gt; salutem.
+  <Fronto Gavio Maximo> salutem.
   1 Cum gravitatem apud omnes senes . . . . . . tato . . . . . . . . . a ibi . . . neque uti et contubernio meo insa . . . res . . in senectute mea ne . . . e nostra senectus quod . . . . m dis tu n . . . . . at . . . . . . . . . e . . . . . . . . . . . . . . . suo m . . . eaque quae . m . . si sed nun . . . . . . . . et puepes . . . . . i an . . . . mo fati n . . . . . . . . . ussi . . . . . . . . . . . . . . tiscoen . . . . ese . . . . r . . . . . . . missos per domin . na. . . . . . n . . . fuisset desine . . . . . . . . m . . . . tran . ini . . . . . stesen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . s satis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ri . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . te verbis . . . . . . . . ns . . . . . domine imperator . . . . . d . . . . r sollertiam vi . . . . . . . . . . . . . . ti . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . eum v . . . vi audi . . . . . . . . ec . . . . . . . . . . . . . . . riat aut . s. . . . . . . . . . s . . . . . . . . . . . nios . . . ce . . . . . . . . . . . . . . . . . e . . . . . . . . . . . . . 
   2 Sed . . . . . . . l . . . . . . . . diae . . . . . . . . . . . . . te hom . . . . . . . . . . . . trat et . . . . . . . tu . en . . . ae ume . d . to . . . . em . . . . . . . . . . . . . n . . . . . . . . . . . . . . . . . . . . . . . nimia . . . . . . . . . . . . . e . . . . . . . . . . . se . . nibus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . eu . . . . . . . . . . . . e . . . anine . . . . . . . . . . . agsa . . . . . . . . . . . e n . . . . . . . . . . 
   
@@ -1871,9 +1871,9 @@ M. Cornelius Fronto: Epistulae
   3 Rem omnem ita, ut mihi Volumnius exposuit, proponam, simul et quidque, verumne sit, rogabo: 4 Estne lege coloniae Concordiensium cautum, ne quis scribam faxit nisi eum, quem decurionem quoque recte facere possit? 5 Fueruntne omnes et sunt ad hoc locorum, quibus unquam scriptus publicus Concordiae datus est, decuriones? 6 Factusne est Volumnius decreto ordinis scriba et decurio? Pensiones plurimas, ad quartam usque, ob decurionatum dependitne? 7 Ususne est per quinque et quadraginta annos omnibus decurionum praemis commodisque in cenis publicis, in curia, in spectaculis? 8 Cenavitne, seditne ut decurio, censuitne? Si quo usus fuit publice legando, legatusne est Volumnius saepenumero? Estne Volumnio legato semper viaticum publicum decretum? 9 Item legationis de re frumentaria gratis a Volumnio susceptae estne in commentariis publicis scripta commemoratio?
   10 Si omnia ista, quae supra dixi, ita decreta, ita depensa, ita gesta sunt, estne, cur duvites post quinque et quadraginta annos sitne decurio, qui scriba fuerit, pecuniam ob decurionatum intulerit, commoda decurionatus usurpaverit, munia fuctus sit? Et quid est, mi fili, quid est, quod ista probari tibi plenius velis? Quoniam quaereret exemplaria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . non ea . . . . . . . . . . . . . . sed propero . . . . . . . . . . . . . . . censoribus servaverim est a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . cum posces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . num do consilia debet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . debet . . . . . . . . . . offenderit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . debet . . . . . . . reanit cum sit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . dextera nisi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . non natales . . . . . . . . . . . . . . . . . . . debet . . . . . . . pro honore satis non videbo, qui possit assequi non insitus.
   11 Quid cum imperatores nostri in Isidori Luciae causa haec instituerunt, ut a . . . . . aut Ulpiam an legationis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . exempla perdisceres alussis pecuniam intulerit, munia fecerit.
-  12 Post ista ultro citroque a me rogata atque responsa, nonne etiam praejudicium relegationis fuit es . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . delatus est Volumnius, quasi in curiam inrumperet, etsi ei jus introeundae curia non esset ut relegato, quod neque ante exilium pro decurionatu omnem pecuniam neque ullam posterius intulisset; quae eum longissimis temporibus forent perorata, Lollius Urbicus causa inspecta nihil adversus Volumnium statuit, sed loco &lt;...&gt;
+  12 Post ista ultro citroque a me rogata atque responsa, nonne etiam praejudicium relegationis fuit es . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . delatus est Volumnius, quasi in curiam inrumperet, etsi ei jus introeundae curia non esset ut relegato, quod neque ante exilium pro decurionatu omnem pecuniam neque ullam posterius intulisset; quae eum longissimis temporibus forent perorata, Lollius Urbicus causa inspecta nihil adversus Volumnium statuit, sed loco <...>
   [duae paginae deesse videntur] 
-  13 &lt;...&gt; denique plures habet mutuos liberos, graviter ut hi acquirant; pluris respuerunt vel e comitibus . . . . . . . . . . . . . . . . . . . aliter . . . . . . . . . . . verum domini infensi malificis servis dant poenas, sed, pro, qui arte usi pari simul perlata inrogatis ignominia adimunt morituris sementare; non idem dedecus est homini solitario ignominia feriri, quantum dedecus est plena liberis ac nepotibus domo infamia notari, cujus infamiae aspergo inquinant simul multos et dedecorant, sicut non eadem clades est in proelio unum equitem obtruncarei et triremem frangi. Turris ballistis satis armata facile hostes coercet, cum navis ornata remis denis rudente rudi perierit t . s . . . . . . . . . . . . . . . . . . . . . . . . . . 
+  13 <...> denique plures habet mutuos liberos, graviter ut hi acquirant; pluris respuerunt vel e comitibus . . . . . . . . . . . . . . . . . . . aliter . . . . . . . . . . . verum domini infensi malificis servis dant poenas, sed, pro, qui arte usi pari simul perlata inrogatis ignominia adimunt morituris sementare; non idem dedecus est homini solitario ignominia feriri, quantum dedecus est plena liberis ac nepotibus domo infamia notari, cujus infamiae aspergo inquinant simul multos et dedecorant, sicut non eadem clades est in proelio unum equitem obtruncarei et triremem frangi. Turris ballistis satis armata facile hostes coercet, cum navis ornata remis denis rudente rudi perierit t . s . . . . . . . . . . . . . . . . . . . . . . . . . . 
   14 Leges plreaeque poenas constituerunt, ne quis arborem felicem succidisset. Quaenam est arbos aborisque felicitas? Arbor scilicet fecunda et frugifera, rami bacis pomisque onusti, neque erit cannam quisquam, qui aut harundinem, quamvis proceram, dixerit felicem. Atque aequiusne est arboribus honori atque tutelae poma et bacas esse quam hominibus liberosque nepotesque?
   
  
@@ -1900,24 +1900,24 @@ M. Cornelius Fronto: Epistulae
   ad amicos 2.8 [197 Hout; 2.188 Haines] 
   Arriano Antonino.
   1 Gratulor mihi plerisque hominibus . . . . . . es . . . . . en . . . . . . . . ut opus meos . . . . quisquis . . . a fortissimis . . . . . me a tenon secus quam parentem observari. Eo fit, ut ad me decurrant plurimi, qui tuam gratiam cupiunt. Quos ego non temere nec sine dilectu audio, sed probe petentibus suffragium meum impertio. Iis vero, qui parum probe quid a te impetratum velint, ipse denego, ut a me potius ferant repulsam.
-  2 Burburiana saidia . e . audiam e . e . s . ressen . s. plurimos ita maxime caros mihi viros, ut magno opere eis obsequi cupiam, ita tamen ut ars maxima ac potissima sit justitiae tuae ratio habenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . tuae humanitati congruens videbatur. 3 Desiderium Baburianae commendandum tibi recepi et, quam possum studiosissime, commendo et honorasti decenter identidem sicut scribis servanda . a . . . . . . adesi exstructum videbatur apulasporiis figuras . . . ingentes dependi pronuntiasti quid aduletsiaexesalul . . ne peperiam quo velut diuturna dicas an agas, quod fuit tradendum, superest; quod a te benefice providendum, in pauca conferam. 4 Sententiae tuae Buburiana non aequo animo, sed prompto etiam et, paene diceres, juveniliter morigeratur. Quid igitur postulat, quod tibi non ambitiosum concessu, Baburianae verecundum oratu et jucundum impetratu fuerit, ut pecunia ista, quae de sententia tua usurarum . . . . . . . . i inpenditur, operi exstruendo adjungatur; est multoi honestas . . . . . . quondam impigri ac idoneus quam poneriscendensnola petita contulisse polluisse sententias ita priora Caesaris operis perennius aliter ritarexeris, sed etiam infamia multata videatur; id populo quoque ni&lt...&gt;
+  2 Burburiana saidia . e . audiam e . e . s . ressen . s. plurimos ita maxime caros mihi viros, ut magno opere eis obsequi cupiam, ita tamen ut ars maxima ac potissima sit justitiae tuae ratio habenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . tuae humanitati congruens videbatur. 3 Desiderium Baburianae commendandum tibi recepi et, quam possum studiosissime, commendo et honorasti decenter identidem sicut scribis servanda . a . . . . . . adesi exstructum videbatur apulasporiis figuras . . . ingentes dependi pronuntiasti quid aduletsiaexesalul . . ne peperiam quo velut diuturna dicas an agas, quod fuit tradendum, superest; quod a te benefice providendum, in pauca conferam. 4 Sententiae tuae Buburiana non aequo animo, sed prompto etiam et, paene diceres, juveniliter morigeratur. Quid igitur postulat, quod tibi non ambitiosum concessu, Baburianae verecundum oratu et jucundum impetratu fuerit, ut pecunia ista, quae de sententia tua usurarum . . . . . . . . i inpenditur, operi exstruendo adjungatur; est multoi honestas . . . . . . quondam impigri ac idoneus quam poneriscendensnola petita contulisse polluisse sententias ita priora Caesaris operis perennius aliter ritarexeris, sed etiam infamia multata videatur; id populo quoque ni<...>
   [duae paginae desunt] 
    
 
   ad amicos 2.9 [199 Hout] 
   Arriano Antonino.
-  Valerius Clitianus &lt...&gt;
+  Valerius Clitianus <...>
    
 
   ad amicos 2.10 [199 Hout] 
   Triumviris et decurionibus.
-  Meae gloriae totius &lt...&gt;
+  Meae gloriae totius <...>
    
 
   ad amicos 2.11 [199 Hout; 1.292 Haines] 
   Triumviris et decurionibus.
-  1 Quantae mihi curae &lt...&gt;
-  &lt...&gt; multoque malim patriae nostrae tutelam auctam quam meam gratiam. Quare suadeo vobis patronos creare et decreta in eam rem mittere ad eos, qui nunc fori principem locum occupant: Aufidium Victorinum, quem in numero municipum habebitis, si di consilia mea juverint; nam filiam meam despondi ei nec melius aut mihi ad posteritatem aut meae filiae in omnem vitam consulere potui quam, cum talem mihi generum cum illis moribus tantaque eloquentia elegi. Servilium quoque Silanum optimum et facundissimum virum jure municipis patronum habebitis, cum sit vicina et amica civitate Hippone Regio. Postumium Festum et morum et eloquentiae nomine recte patronum vobis feceritis, et ipsum nostrae provinciae et civitatis non longinquae. Horum patronorum non mediocri dote frui gaudebitis. Tres facite, ut e meis cognoscites, non quasi quia familiares essent Liciniae familiae et adesse adversus rem eam noluerint.
+  1 Quantae mihi curae <...>
+  <...> multoque malim patriae nostrae tutelam auctam quam meam gratiam. Quare suadeo vobis patronos creare et decreta in eam rem mittere ad eos, qui nunc fori principem locum occupant: Aufidium Victorinum, quem in numero municipum habebitis, si di consilia mea juverint; nam filiam meam despondi ei nec melius aut mihi ad posteritatem aut meae filiae in omnem vitam consulere potui quam, cum talem mihi generum cum illis moribus tantaque eloquentia elegi. Servilium quoque Silanum optimum et facundissimum virum jure municipis patronum habebitis, cum sit vicina et amica civitate Hippone Regio. Postumium Festum et morum et eloquentiae nomine recte patronum vobis feceritis, et ipsum nostrae provinciae et civitatis non longinquae. Horum patronorum non mediocri dote frui gaudebitis. Tres facite, ut e meis cognoscites, non quasi quia familiares essent Liciniae familiae et adesse adversus rem eam noluerint.
   2 Quae causa . . . . . tres m . . ad aliud consilium inpulerit, dicam: Quoad aetas mihi et valetudo integra fuit, negotia vestra et quae mea voce recensa sunt, non censeo facilius et aetates datas, si in rem nostram . . . . eraure et juniorum praesidiis esse fundatam, nec ignoro, quantus umutra per vitae nostrae . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . nam nos et virum popularem habeamus et virum consularem jus publicum respondentem. Ego quoque, ut spero, quoad aetatis vis viguit, in officiis civilibus non obscure versatus sum. Alii quoque plurimi sunt in senatu Cirtenses clarissimi viri. Postremus est honos maximus tres vestram gessisse civitatem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . tria ei aut sibi, sed etiam suave est, nisi ardem adfuturos numero, sed vos melius est jam nunc interdum quid et quantum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . incerta explicem.
    
 
@@ -1927,18 +1927,18 @@ M. Cornelius Fronto: Epistulae
    
 
   ad amicos 2.13 [200 Hout] 
-  &lt;...&gt;
-  &lt;...&gt;
+  <...>
+  <...>
    
 
   ad amicos 2.14 [200 Hout] 
-  &lt;...&gt;
-  &lt;...&gt;
+  <...>
+  <...>
    
 
   ad amicos 2.15 [201 Hout] 
-  &lt;...&gt;
-  &lt;...&gt; defendi jam.
+  <...>
+  <...> defendi jam.
    
 
 
@@ -1992,7 +1992,7 @@ M. Cornelius Fronto: Epistulae
   1 Ὦ φίλε παῖ, τρίτον δή σοι τοῦτο περὶ τῶν αὐτῶν ἐπιστέλλω, τὸ μὲν πρῶτον διὰ Λυσίου τοῦ Κεφάλου, δεύτερον δὲ διὰ Πλάτωνος τοῦ σοφοῦ, τὸ δὲ δὴ τρίτον διὰ τοῦδε τοῦ ξένου ἀνδρός, τὴν μὲν φωνὴν ὀλίγου δεῖν βαρβάρου, τὴν δὲ γνώμην, ὡς ἐγῷμαι, οὐ πάνυ ἀξυνέτου. γράφω δὲ νῦν οὐδέν τι τῶν πρότερον γεγραμμένων ἐφαπτόμενος, μηδὲ ἀμελήσῃς τοῦ λόγου ὡς παλιλλογοῦντος. εἰ δέ σοι δόξει τῶν πρότερον διὰ Λυσίου καὶ Πλάτωνος ἐπεσταλμένων πλείω τάδε εἶναι, ἔστω σοι τεκμήριον ὡς εὔλογα ἐξιῶ, ὅτι οὐκ ἀπορῶ λόγων. προσέχοις δ᾽ ἂν ἤδη τὸν νοῦν, εἰ καινά τε ἅμα καὶ δίκαια λέγω.
   2 Ἔοικας, ὦ παῖ, πρὸ τοῦ λόγου πάντως βούλεσθαι μαθεῖν, τί δή ποτέ γε μὴ ἐρῶν ἐγὼ μετὰ τοσαύτης σπουδῆς γλίχομαι τυχεῖν ὧνπερ οἱ ἐρῶντες. τοῦτο δή σοι φράσω πρῶτον ὅπως γε ἔχει. οὐ μὰ Δία πέφυκεν ὁρᾶν ὀξύτερον οὑτοσὶ ὁ πάνυ ἐραστὴς ἐμοῦ τοῦ μὴ ἐρῶντος, ἀλλ᾽ ἔγωγε τοῦ σοῦ κάλλους αἴσθομαι οὐδενὸς ἧττον τῶν ἄλλων. δυναίμην δ᾽ ἂν εἰπεῖν ὅτι τούτου καὶ πολὺ ἀκριβέστερον. ὅπερ δὲ ἐπὶ τῶν πυρεττόντων καὶ τῶν εὖ μάλα ἐν παλαίστρᾳ γυμνασαμένων ὁρῶμεν, οὐκ ἐξ ὁμοίας αἰτίας ταὐτὸν συνβαίνειν. διψῶσιν μὴν γὰρ ὁ μὲν ὑπὸ νόσου, ὁ δὲ ὑπὸ γυμνασιῶν· τοιάνδε τινὰ κἀμοὶ
   [duae saltem paginae desunt]
-  &lt;...&gt;λειτον τε ἅμα καὶ ὄλισθον.
+  <...>λειτον τε ἅμα καὶ ὄλισθον.
   3 Ἀλλ᾽ οὐκ ἔμοιγε ἐπ᾽ ὀλέθρῳ πρόσει οὐδὲ ἐπὶ βλάβῃ τινὶ ὁμιλήσεις, ἀλλ᾽ ἐπὶ παντὶ ἀγαθῷ. καὶ ὠφελοῦνται γὰρ καὶ διασώζονται οἱ καλοὶ ὑπὸ τῶν μὴ ἐρώντων μᾶλλον, ὥσπερ τὰ φυτὰ ὑπὸ τῶν ὑδάτων. οὐ γὰρ ἐρῶσιν οὔτε πηγαὶ οὔτε ποταμοὶ τῶν φυτῶν, ἀλλὰ παριόντες οὕτω δὴ καὶ παρα ρέοντες ἀνθεῖν αὐτὰ καὶ θάλλειν παρεσκεύασαν. χρήματα δὲ τὰ μὲν ὑπ᾽ ἐμοῦ διδόμενα δικαίως ἂν καλοίης δῶρα, τὰ δὲ ὑπ᾽ ἐκείνου λύτρα. μάντεων δὲ παῖδές φασιν καὶ τοῖς θεοῖς ἡδίους εἶναι τῶν θυσιῶν τὰς χαριστηρίους ἢ τὰς μειλιχίους· ὧν τὰς μὲν οἱ εὐτυχοῦντες ἐπὶ φυλακῇ τε καὶ κτήσει τῶν ἀγαθῶν, τὰς δὲ οἱ κακῶς πράττοντες ἐπὶ ἀποτροπῆ τῶν δεινῶν θύουσιν. τάδε μὲν περὶ τῶν συνφερόντων καὶ τῶν σοί τε κἀκείνῳ ὠφελίμων εἰρήσθω. 4 εἰ δὲ τοῦτο δίκαιός ἐστιν τυχεῖν τῆς παρὰ σοῦ βοηθείας . . . . . . . . . . . . . . . . . . ἠρείσω σὺ τοῦτο . . . . . . αὐτὸν τὸν ἔρωτα ἐτεκτήνω καὶ ἐμηχανήσω τὰς Θετταλὰς . . . . . . . . . . . . . . . μεν . . . . . . . . . . . . . . . ων . . . . . . . . . . . . . . . . ἐρᾷς . . . . . . . . . . . . . εἶπε . . . . . . . . . . . . . . τοτε κον . . . . . . . . . . . . ἀναίτιος . . . . . . . . . . . τινὸς διὰ τὴν αὐτῷ κατακο . . . . . . . . . κο . . . . . . . . πλὴν εἰ μή τι ὀφθεὶς ἠδίκηκας.
   5 Μὴ ἀγνόει δὲ καὶ ἀδικηθεὶς αὐτὸς καὶ ὑβριζόμενος οὐ μετρίαν ἤδη ταύτην ὕβριν, τὸ ἅπαντας εἰδέναι τε καὶ φανερῶς οὕτως διαλέγεσθαι, ὅτι σου εἴη ὅδε ἐραστής· φθάνεις δὲ καὶ πρίν τι τῶν τοιῶνδε πρᾶξαι, τοὔνομα τῆς πράξεως ὑπομένων. καλοῦσί γ᾽ οὖν σε οἱ πλεῖστοι τῶν πολιτῶν τὸν τοῦδε ἐρώμενον· ἐγὼ δέ σοι διαφυλάξω τοὔνομα καθαρὸν καὶ ἀνύβριστον. καλὸς γὰρ, οὐχὶ ὁ δρώμενος, τό γε κατ᾽ ἐμὲ ὀνομασθήσει. εἰ δὲ τούτῳ ὡς δικαίῳ τινὶ χρήσεται, ὅτι μᾶλλον ἐπιθυμεῖ, ἴστω ὅτι οὐκ ἐπιθυμεῖ μᾶλλον ἀλλὰ ἰταμώτερον. τὰς δὲ μυίας καὶ τὰς ἐμπίδας μάλιστα ἀποσοβοῦμεν καὶ ἀπωθούμεθα, ὅτι ἀναιδέστατα καὶ ἰταμώτατα ἐπιπέτονται. τοῦτο μὲν οὖν καὶ τὰ θηρία ἐπίσταται φεύγειν μάλιστα πάντων τοὺς κυνηγέτας, καὶ τὰ πτηνὰ τοὺς θηρευτάς· καὶ πάντα δὴ τὰ ζῷα τούτους μάλιστα ἐκτρέπεται τοὺς μάλιστα ἐνεδρεύοντας καὶ διώκοντας.
   6 Εἰ δέ τις οἴεται ἐνδοξότερον καὶ ἐντιμότερον εἶναι τὸ κάλλος διὰ τοὺς ἐραστάς, τοῦ παντὸς διαμαρτάνει. κινδυνεύετε μὲν γὰρ οἱ καλοὶ περὶ τοῦ κάλλους τῆς ἐς τοὺς ἀκούοντας πίστεως διὰ τοὺς ἐρῶντας, δι᾽ ἡμᾶς δὲ τοὺς ἄλλους βεβαιοτέραν τὴν δόξαν κέκτησθε. εἰ γοῦν τις τῶν μηδέπω σε ἑωρακότων πυνθάνοιτο, ὁποῖός τις εἴης τὴν ὄψιν, ἐμοὶ μὲν ἂν πιστεύσαι ἐπαινοῦντι, μαθὼν ὅτι οὐκ ἐρῶ· τῷ δὲ ἀπιστήσαι, ὡς οὐκ ἀληθῶς ἀλλ᾽ ἐρωτικῶς ἐπαινοῦντι. ὅσοις μὲν οὖν λώβη τις σώματος καὶ αἶσχος καὶ ἀμορφία πρόσεστιν, εὔξαιντο ἂν εἰκότως ἐραστὰς αὑτοῖς γενέσθαι· οὐ γὰρ ἂν ὑπ᾽ ἄλλων θεραπεύοιντο ἢ τῶν κατ᾽ ἐρωτικὴν λύτταν καὶ ἀνάγκην προσιόντων. σὺ δ᾽ ἐν τῷ τοιῷδε κάλλει οὐκ ἔσθ᾽ ὅτι καρπώσει πλέον ὑπ᾽ ἔρωτος. οὐδὲν γὰρ ἧττον δέονταί σου οἱ μὴ ἐρῶντες.

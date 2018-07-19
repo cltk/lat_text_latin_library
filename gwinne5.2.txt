@@ -36,9 +36,9 @@ quercum amputabo, vitis ut vigeat ferox.
 
 exosum amare quis furor? quantus dolor 
 
-servire gratum principi ingrato! &THORN;dem 
+servire gratum principi ingrato! Þdem 
 
-servare, matri et coniugi in&THORN;do suae!   3650 
+servare, matri et coniugi inÞdo suae!   3650 
 
 quid scelus hoc, illud! ex scelere totus Nero. 
 
@@ -83,7 +83,7 @@ amor Epicharitis, aut odia plebis, patrum,
 
 tantine, Proculum ut conscium ad caedem trahant 
 
-principis? an ut agat, quod neget fas et &THORN;des?
+principis? an ut agat, quod neget fas et Þdes?
   3670 
 
 quodque ante, retro, et undique periclis patet? 
@@ -97,7 +97,7 @@ celare maius; agere sit triplex nefas.
 nimiumque vereor conscius celo diu.  3675 
  
 
- [&lt;Actus II, scena 2&gt;] 
+ [<Actus II, scena 2>] 
 
  VOLUSIUS PROCULUS, NERO, EPICHARIS, FLAVIUS, TIGELLINUS
   
@@ -160,16 +160,16 @@ Caesaris, Epichari.
 
  EPI. falsa?
 
- PRO. militi siqua est &THORN;des . . . 
+ PRO. militi siqua est Þdes . . . 
 
  EPI. siqua est mulieri . . . 
 
- NERO vix aliqua utrivis &THORN;des.
+ NERO vix aliqua utrivis Þdes.
 
  EPI. si vera criminetur, apponat modum, 
 
 causam addat, homines et perist
-&atilde;seiw notet,  3690 
+ãseiw notet,  3690 
 
 signa, loca, dicta, conscios, testes citet.
 
@@ -191,7 +191,7 @@ quae causa?
 
 metus; nec animus ergo.
 
- NERO. quam &THORN;dens rea!  3695 
+ NERO. quam Þdens rea!  3695 
 
  EPI. decet esse fortem tam bona causa ream. 
 
@@ -256,7 +256,7 @@ ut tu, mulierem.
 
  PRO. qua fronte?
 
- EPI. &THORN;rma.
+ EPI. Þrma.
 
  PRO. quo ore?
 
@@ -278,7 +278,7 @@ incarceratae, Sophoni, verum extrahe,
 
 quod vincta, torta, tosta, laniata indicet.
 
- EPI. et innocens damnata, non fallam &THORN;dem.
+ EPI. et innocens damnata, non fallam Þdem.
 
  TIGEL. damnanda potius innocens, quam non nocens 
 
@@ -305,13 +305,13 @@ fora, rura volitet miles. insideat mare,
 maenia: frequensque muniat nostrum latus
  
 
-Germanus. illi, ut extero, maior &THORN;des.
+Germanus. illi, ut extero, maior Þdes.
 
  [Actus II, scena 3] 
  
 
  NERO DUM CONSULTAT, MILICHUS, UXOR
-MILICHI, &lt;EPAPHRODITUS,&gt; MOX SCEVINUS, &lt;FENIUS RUFUS&gt;
+MILICHI, <EPAPHRODITUS,> MOX SCEVINUS, <FENIUS RUFUS>
  
 
  UXOR timenda multa: si taces, totus
@@ -372,7 +372,7 @@ sed est prohibita quaestio in domini caput.
 
  SCEV. libertus meus.
 
- NERO quia liber, actor suf&THORN;cit: de re indica.
+ NERO quia liber, actor sufÞcit: de re indica.
 
  SCEV. ferrum, quod affert, religio coluit mea, 
 
@@ -475,7 +475,7 @@ quid in senatu proxime est actum: puto  3780
 
 de Corbulone, deque prodigiis novis, 
 
-deque aedi&THORN;ciis dirutae Romae. 
+deque aediÞciis dirutae Romae. 
 
  Flavio gladium distringenti Rufus manum retinet. 
 
@@ -491,7 +491,7 @@ uterque captus.
 
  
 
- RUF. nisi con&THORN;tentem ne trucidaret
+ RUF. nisi conÞtentem ne trucidaret
 reum.
 
  NERO utrumque vinctum potius, ut socios notet,
@@ -552,7 +552,7 @@ tormenta Sicula sunt levia prae istis mala.
 si longa, levia: brevia, si gravia: at mea
   3805 
 
-nec &THORN;ne posito, nec modo: o liceat mori.
+nec Þne posito, nec modo: o liceat mori.
  
 
  TIG. mori liceret, nisi mori expeteres: scelus
@@ -609,7 +609,7 @@ fascia expirat levi!
 
  NERO sibi strangulatam auferte: sic hostes eant.
 
- FLAV. constans virago. tam &THORN;de &THORN;rma viri
+ FLAV. constans virago. tam Þde Þrma viri
  
 
 si perstitissent, fraude periisset Nero.  3820 
@@ -641,9 +641,9 @@ primus, sedentem qui palam in circo premat,
 
 Lateranus: et qui feriat, is primus fuit  3830 
 
-Scevinus: alii ut caepta sequerentur, &THORN;des.
+Scevinus: alii ut caepta sequerentur, Þdes.
 
- NERO Caesaris is amor est? ea senatorum &THORN;des? 
+ NERO Caesaris is amor est? ea senatorum Þdes? 
 
 Sabine, duce te, tyro Pisonem premat, 
 
@@ -677,7 +677,7 @@ commoda; saluti at illius niti suam.
  Reducitur Scevinus. 
 
  TIG. nonne admonueram quam Seneca
-&THORN;dus, bonus? 
+Þdus, bonus? 
 
  Poppaeam evocat. 
 
@@ -843,11 +843,11 @@ gloria fatendi grata.
 
 gloria, salutis post sacramentum meae 
 
-tibi charioris quam tuae, ut fallas &THORN;dem?
+tibi charioris quam tuae, ut fallas Þdem?
 
  FLAV. quia te odi: at olim, dum meritus, et dum bonus, 
 
-prae omnibus amavi: nemo tibi &THORN;dus magis.  3895 
+prae omnibus amavi: nemo tibi Þdus magis.  3895 
 
 odisse caepi, coniugis, matris tuae 
 
@@ -942,7 +942,7 @@ vere facaetus luserit amaris iocis.  3930
 
  POP. et uxor illi Statilia, cui tu, Nero 
 
-saepius adulter, quam &THORN;des in te sinat? 
+saepius adulter, quam Þdes in te sinat? 
 
  NERO ergo, Gerelane, consulem inopinum opprime: 
 
@@ -1016,9 +1016,9 @@ nedum arma moveat scenicus; cui cum suis
 
 pellicibus excors sit Tigellinus comes. 
 
-tentando &THORN;unt multa, quae visa ardua 
+tentando Þunt multa, quae visa ardua 
 
-segnibus, inausis. vana spes, veram &THORN;dem,  3960 
+segnibus, inausis. vana spes, veram Þdem,  3960 
 
 taciturnitatem consciis in tot fore. 
 
@@ -1093,8 +1093,8 @@ abrumpo venas. Caesarem hic placet liquor.
 
  Actus V, scena 6 (Actus II, scena 5) 
 
- SENECA, CENTURIO, PAUVLINA, STAT. ANN&AElig;US, IUNIUS
-GALLIO, NOV. PRISCUS, LUCILIUS, &lt;CLEONICUS, GRANIUS SILVANUS&gt;
+ SENECA, CENTURIO, PAUVLINA, STAT. ANNÆUS, IUNIUS
+GALLIO, NOV. PRISCUS, LUCILIUS, <CLEONICUS, GRANIUS SILVANUS>
  
 
  
@@ -1119,7 +1119,7 @@ imaginem relinquo vivendi meam.  3995
  qui memor, ut acta est artibus semper
 bonis 
 
-mihi vita, famam &THORN;rmae amicitiae feret. 
+mihi vita, famam Þrmae amicitiae feret. 
 
 Annaee medice, Gallio frater, quid est?
  
@@ -1233,7 +1233,7 @@ sic destinatum est, una mors perimet duos.
 
 mecum potes perire, sine me non potes. 
 
-percussor in me prima &THORN;gatur manus. 
+percussor in me prima Þgatur manus. 
 
 uterque meriti pariter: ego tantas opes, 
 
@@ -1353,7 +1353,7 @@ virtute clarus si vir haud praestet virum,
 
 mirumne, mulier mollior siquid labem?  4095 
 
- SEN. fessus ferendo de&THORN;cio: sed ne dolor 
+ SEN. fessus ferendo deÞcio: sed ne dolor 
 
 infringat animo te meus, vel me tuus; 
 
@@ -1384,7 +1384,7 @@ at vel volenti, sed seni, ut lentum est mori!
 
 hemina vel una sanguinis ut aegre fluit! 
 
-Annaee, quem dat ars medicum, amicum &THORN;des, 
+Annaee, quem dat ars medicum, amicum Þdes, 
 
 age nunc venenum prome provisum mihi:  4110 
 
@@ -1480,7 +1480,7 @@ tantum in viris cupido vivendi potest.
 
 spem fecit, et fefellit impuram impius. 
 
-at vita cum te de&THORN;cit (vita heu brevis  4140 
+at vita cum te deÞcit (vita heu brevis  4140 
 
 tu memineris, memineris saltem tua. 
 

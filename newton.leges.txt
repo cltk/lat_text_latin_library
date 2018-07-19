@@ -1,13 +1,13 @@
 Newton: Leges Motus from the Principia 
  
  
- PHILOSOPHI&AElig; NATURALIS PRINCIPIA MATHEMATICA 
+ PHILOSOPHIÆ NATURALIS PRINCIPIA MATHEMATICA 
  
 AUCTORE ISAACO NEWTONO, EQ. AUR.
  
  Editio tertia aucta et emendata
  
-Londini: apud Guil. & Joh. Innys, Regi&aelig; Societatis typographos 
+Londini: apud Guil. & Joh. Innys, Regiæ Societatis typographos 
 MDCCXXVI
  
  
@@ -19,16 +19,16 @@ MDCCXXVI
  
  
  AXIOMATA, SIVE LEGES MOTUS 
-[Leges sol&aelig; descripta sunt, commentariis pr&aelig;termissis.] 
+[Leges solæ descripta sunt, commentariis prætermissis.] 
  
  Lex I 
 Corpus omne perseverare in statu suo quiescendi vel movendi uniformiter in directum, nisi quatenus illud a viribus impressis cogitur statum suum mutare. 
  
  Lex II 
-Mutationem motus proportionalem esse vi motrici impress&aelig;, & fieri secundum lineam rectam qua vis illa imprimitur. 
+Mutationem motus proportionalem esse vi motrici impressæ, & fieri secundum lineam rectam qua vis illa imprimitur. 
  
  Lex III 
-Actioni contrariam semper & &aelig;qualem esse reactionem: sive corporum duorum actiones in se mutuo semper esse &aelig;quales & in partes contrarias dirigi. 
+Actioni contrariam semper & æqualem esse reactionem: sive corporum duorum actiones in se mutuo semper esse æquales & in partes contrarias dirigi. 
  
  
  

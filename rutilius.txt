@@ -67,7 +67,7 @@ Crebra reliquendis infigimus oscula portis;
  inviti superant limina sacra pedes. 
 Oramus veniam lacrimis et laude litamus,    45 
  in quantum fletus currere verba sinit: 
-&laquo;Exaudi, regina tui pulcherrima mundi, 
+«Exaudi, regina tui pulcherrima mundi, 
  inter sidereos, Roma, recepta polos; 
 exaudi, genetrix hominum genetrixque deorum: 
  Non procul a caelo per tua templa sumus.    50 
@@ -184,9 +184,9 @@ Nam quod nulla meum strinxerunt crimina ferrum,
 Sive datur patriis vitam componere terris, 
  sive oculis umquam restituere meis, 
 fortunatus agam votoque beatior omni, 
- semper digneris si meminisse mei.&raquo; 
+ semper digneris si meminisse mei.» 
 His dictis iter rripimus; comitantur amici.    165 
- Dicere non possunt lumina sicca &laquo;vale&raquo;. 
+ Dicere non possunt lumina sicca «vale». 
 Iamque aliis Romam redeuntibus haeret eunti 
  Rufius, Albini gloria viva patris, 
 qui Volusi antiquo derivat stemmate nomen 
@@ -410,7 +410,7 @@ Vexatos frutices, pulsatas imputat algas    385
 Reddimus obscenae convicia debita genti, 
  quae genitale caput propudiosa metit, 
 radix stultitiae, cui frigida sabbata cordi 
- &nbspsed cor frigidius religione sua.    390 
+  sed cor frigidius religione sua.    390 
 Septima quaeque dies turpi damnata veterno, 
  tamquam lassati mollis imago dei. 
 Cetera mendacis deliramenta catastae 

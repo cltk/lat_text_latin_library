@@ -57,7 +57,7 @@ pia loqui iubet intentio.
 brevem vero sermonem facio, 
 ne vos gravet longa narratio, 
 ne dormitet lector prae taedio   15 
-et &laquo;tu autem&raquo; dicat in medio.
+et «tu autem» dicat in medio.
  
 
  
@@ -466,7 +466,7 @@ ero palmes et tu vitis.   90
  
 
  
-&laquo;omnia tempus habent&raquo;, et ego breve postulo tempus, 
+«omnia tempus habent», et ego breve postulo tempus, 
 ut possim paucos praesens tibi reddere versus: 
 electo sacro, praesens in regmine macro. 
 virgineo more non haec loquor absque rubore. 
@@ -888,7 +888,7 @@ quid sim passus ibi, nequit ex toto modo scribi;
 iam febre vexatus nimioque dolore gravatus 
 hic infirmabar, quod vivere posse negabar, 
 et mihi dicebant medici, qui signa videbant:   10 
-&laquo;ecce, poeta, peris, non vives, sed morieris.&raquo; 
+«ecce, poeta, peris, non vives, sed morieris.» 
 sed febrem tandem medicina fugavit eandem; 
 nostri languoris testis tibi sit color oris, 
 in vultu pallor apparet adhuc, nisi fallor. 

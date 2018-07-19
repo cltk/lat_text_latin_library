@@ -97,24 +97,24 @@ Iamque Ararim Rodanumque amnes transiverat altos    50
 Atque ad praedandum cuneus dispergitur omnis. 
 Forte Cabillonis sedit Heriricus, et ecce 
 Attollens oculos speculator vociferatur: 
-&laquo;Quaenam condenso consurgit pulvere nubes? 
-Vis inimica venit, portas iam claudite cunctas!&raquo;    55 
+«Quaenam condenso consurgit pulvere nubes? 
+Vis inimica venit, portas iam claudite cunctas!»    55 
 Iam tum, quid Franci fecissent, ipse sciebat 
 Princeps et cunctos compellat sic seniores: 
-&laquo;Si gens tam fortis, cui nos similare nequimus, 
+«Si gens tam fortis, cui nos similare nequimus, 
 Cessit Pannoniae, qua nos virtute putatis 
 Huic conferre manum et patriam defendere dulcem?    60 
 Est satius, pactum faciant censumque capessant. 
 Unica nata mihi, quam tradere pro regione 
-Non dubito; tantum pergant, qui foedera firment.&raquo; 
+Non dubito; tantum pergant, qui foedera firment.» 
 Ibant legati totis gladiis spoliati, 
 Hostibus insinuant, quod regis iussio mandat,    65 
 Ut cessent vastare, rogant. quos Attila ductor, 
 Ut solitus fuerat, blande suscepit et inquit: 
-&laquo;Foedera plus cupio quam proelia mittere vulgo. 
+«Foedera plus cupio quam proelia mittere vulgo. 
 Pace quidem Huni malunt regnare, sed armis 
 Inviti feriunt, quos cernunt esse rebelles.    70 
-Rex ad nos veniens dextram det atque resumat.&raquo; 
+Rex ad nos veniens dextram det atque resumat.» 
 Exivit princeps asportans innumeratos 
 Thesauros pactumque ferit natamque reliquit. 
 Pergit in exilium pulcherrima gemma parentum. 
@@ -129,12 +129,12 @@ Cum primum tempus nubendi venerit illis.
 Hic ubi cognovit gentes has esse domatas, 
 Coeperat ingenti cordis trepidare pavore, 
 Nec iam spes fuerat saevis defendier armis.    85 
-&laquo;Quid cessemus&raquo;, ait, &laquo;si bella movere nequimus? 
+«Quid cessemus», ait, «si bella movere nequimus? 
 Exemplum nobis Burgundia, Francia donant. 
 Non incusamur, si talibus aequiperamur. 
 Legatos mitto foedusque ferire iubebo 
 Obsidis inque vicem dilectum porrigo natum    90 
-Et iam nunc Hunis censum persolvo futurum.&raquo; 
+Et iam nunc Hunis censum persolvo futurum.» 
 Sed quid plus remorer? dictum compleverat actis. 
 Tunc Avares gazis onerati denique multis 
 Obsidibus sumptis Haganone, Hiltgunde puella 
@@ -168,28 +168,28 @@ Waltharius tamen ad pugnas praecesserat Hunos,
 Et quocumque iret, mox prospera sunt comitata. 
 Ospirin elapsum Haganonem, regia coniunx, 
 Attendens domino suggessit talia dicta: 
-&laquo;Provideat caveatque, precor, sollertia regis,    125 
+«Provideat caveatque, precor, sollertia regis,    125 
 Ne vestri imperii labatur forte columna, 
 Hoc est, Waltharius vester discedat amicus, 
 In quo magna potestatis vis extitit huius; 
 Nam vereor, ne fors fugiens Haganonem imitetur. 
 Idcircoque meam perpendite nunc rationem:    130 
 Cum primum veniat, haec illi dicite verba: 
-&laquo;Servitio in nostro magnos plerumque labores 
+«Servitio in nostro magnos plerumque labores 
 Passus eras ideoque scias, quod gratia nostra 
 Prae cunctis temet nimium dilexit amicis. 
 Quod volo plus factis te quam cognoscere dictis:    135 
 Elige de satrapis nuptam tibi Pannoniarum 
 Et non pauperiem propriam perpendere cures. 
 Amplificabo quidem valde te rure domique, 
-Nec quisquam, qui dat sponsam, post facta pudebit.&raquo; 
-Quod si completis, illum stabilire potestis.&raquo;    140 
+Nec quisquam, qui dat sponsam, post facta pudebit.» 
+Quod si completis, illum stabilire potestis.»    140 
 Complacuit sermo regi, coepitque parari. 
 Waltharius venit, cui princeps talia pandit, 
 Uxorem suadens sibi ducere; sed tamen ipse 
 Iam tum praemeditans, quod post compleverat actis, 
 His instiganti suggestibus obvius infit:    145 
-&laquo;Vestra quidem pietas est, quod modici famulatus 
+«Vestra quidem pietas est, quod modici famulatus 
 Causam conspicitis; sed quod mea segnia mentis 
 Intuitu fertis, numquam meruisse valerem. 
 Sed precor, ut servi capiatis verba fidelis: 
@@ -210,7 +210,7 @@ In bellis nullae persuadent cedere curae,
 Nec nati aut coniunx retrahentque fugamque movebunt. 
 Testor per propriam temet, pater optime, vitam    165 
 Atque per invictam nunc gentem Pannoniarum, 
-Ut non ulterius me cogas sumere taedas.&raquo; 
+Ut non ulterius me cogas sumere taedas.» 
 His precibus victus suasus rex deserit omnes, 
 Sperans Waltharium fugiendo recedere numquam. 
 Venerat interea satrapae certissima fama    170 
@@ -266,7 +266,7 @@ Ille aliquid modicum narrans intraverat aulam
 (Lassus enim fuerat) regisque cubile petebat.    220 
 Illic Hiltgundem solam offendit residentem. 
 Cui post amplexus atque oscula dulcia dixit: 
-&laquo;Ocius huc potum ferto, quia fessus anhelo.&raquo; 
+«Ocius huc potum ferto, quia fessus anhelo.» 
 Illa mero tallum complevit mox pretiosum 
 Porrexitque viro, qui signans accipiebat    225 
 Virgineamque manum propria constrinxit. at illa 
@@ -274,37 +274,37 @@ Astitit et vultum reticens intendit herilem,
 Walthariusque bibens vacuum vas porrigit olli 
 (Ambo etenim norant de se sponsalia facta) 
 Provocat et tali caram sermone puellam:    230 
-&laquo;Exilium pariter patimur nam tempore tanto, 
+«Exilium pariter patimur nam tempore tanto, 
 Non ignorantes, quid nostri forte parentes 
 Inter se nostra de re fecere futura. 
-Quamne diu tacito premimus haec ipsa palato?&raquo; 
+Quamne diu tacito premimus haec ipsa palato?» 
 Virgo per hyroniam meditans hoc dicere sponsum    235 
 Paulum conticuit, sed postea talia reddit: 
-&laquo;Quid lingua simulas, quod ab imo pectore damnas, 
+«Quid lingua simulas, quod ab imo pectore damnas, 
 Oreque persuades, toto quod corde refutas, 
-Sit veluti talem pudor ingens ducere nuptam?&raquo; 
+Sit veluti talem pudor ingens ducere nuptam?» 
 Vir sapiens contra respondit et intulit ista:    240 
-&laquo;Absit quod memoras, dextrorsum porrige sensum! 
+«Absit quod memoras, dextrorsum porrige sensum! 
 Noris me nihilum simulata mente locutum, 
 Nec quicquam nebulae vel falsi interfore crede! 
 Nullus adest nobis exceptis namque duobus. 
 Si nossem temet mihi promptam impendere mentem    245 
 Atque fidem votis servare per omnia cautis, 
-Pandere cuncta tibi cordis mysteria vellem.&raquo; 
+Pandere cuncta tibi cordis mysteria vellem.» 
 Tandem virgo viri genibus curvata profatur: 
-&laquo;Ad quaecumque vocas, mi domne, sequar studiose 
-Nec quicquam placitis malim praeponere iussis.&raquo;    250 
-Ille dehinc: &laquo;piget exilii me denique nostri 
+«Ad quaecumque vocas, mi domne, sequar studiose 
+Nec quicquam placitis malim praeponere iussis.»    250 
+Ille dehinc: «piget exilii me denique nostri 
 Et patriae fines reminiscor saepe relictos 
 Idcircoque fugam cupio celerare latentem. 
 Quod iam prae multis potuissem forte diebus, 
-Si non Hiltgundem solam remanere dolerem.&raquo;    255 
+Si non Hiltgundem solam remanere dolerem.»    255 
 Addidit has imo virguncula corde loquelas: 
-&laquo;Vestrum velle meum, solis his aestuo rebus. 
+«Vestrum velle meum, solis his aestuo rebus. 
 Praecipiat dominus, seu prospera sive sinistra 
-Eius amore pati toto sum pectore praesto.&raquo; 
+Eius amore pati toto sum pectore praesto.» 
 Waltharius tandem sic virginis inquit in aurem:    260 
-&laquo;Publica custodem rebus te nempe potestas 
+«Publica custodem rebus te nempe potestas 
 Fecerat, idcirco memor haec mea verba notato: 
 Inprimis galeam regis tunicamque trilicem 
 (Assero loricam fabrorum insigne ferentem) 
@@ -329,7 +329,7 @@ Tu tamen interea mediocriter utere vino
 Atque sitim vix ad mensam restinguere cura. 
 Cum reliqui surgant, ad opuscula nota recurre. 
 Ast ubi iam cunctos superat violentia potus,    285 
-Tum simul occiduas properemus quaerere partes.&raquo; 
+Tum simul occiduas properemus quaerere partes.» 
 Virgo memor praecepta viri complevit; et ecce 
 Praefinita dies epularum venit, et ipse 
 Waltharius magnis instruxit sumptibus escas. 
@@ -349,8 +349,8 @@ Illicit ad haustum species dulcedoque potus.
 Waltharius cunctos ad vinum hortatur et escam. 
 Postquam epulis depulsa fames sublataque mensa, 
 Heros iam dictus dominum laetanter adorsus    305 
-Inquit: &laquo;in hoc, rogito, clarescat gratia vestra, 
-Ut vos inprimis, reliquos tunc laetificetis.&raquo; 
+Inquit: «in hoc, rogito, clarescat gratia vestra, 
+Ut vos inprimis, reliquos tunc laetificetis.» 
 Et simul in verbo nappam dedit arte peractam 
 Ordine sculpturae referentem gesta priorum. 
 Quam rex accipiens haustu vacuaverat uno    310 
@@ -415,14 +415,14 @@ Occultumque locum sibi delegisse sopori.
 Ospirin Hiltgundem postquam cognovit abesse 
 Nec iuxta morem vestes deferre suetum,    370 
 Tristior immensis satrapae clamoribus inquit: 
-&laquo;O detestandas, quas heri sumpsimus, escas! 
+«O detestandas, quas heri sumpsimus, escas! 
 O vinum, quod Pannonias destruxerat omnes! 
 Quod domino regi iam dudum praescia dixi, 
 Approbat iste dies, quem nos superare nequimus.    375 
 En hodie imperii vestri cecidisse columna 
 Noscitur, en robur procul ivit et inclita virtus: 
 Waltharius, lux Pannoniae, discesserat inde, 
-Hiltgundem quoque mi caram deduxit alumnam.&raquo; 
+Hiltgundem quoque mi caram deduxit alumnam.» 
 Iam princcps nimia succenditur efferus ira,    380 
 Mutant laetitiam maerentia corda priorem. 
 Ex humeris trabeam discindit ad infima totam 
@@ -446,11 +446,11 @@ Taliter insomnem consumpserat Attila noctem.
 At profugi comites per amica silentia euntes    400 
 Suspectam properant post terga relinquere terram. 
 Vix tamen erupit cras, rex patribusque vocatis 
-Dixerat: &laquo;o si quis mihi Waltharium fugientem 
+Dixerat: «o si quis mihi Waltharium fugientem 
 Afferat evinctum ceu nequam forte liciscam, 
 Hunc ego mox auro vestirem saepe recocto    405 
 Et tellure quidem stantem hinc inde onerarem 
-Atque viam penitus clausissem, vivo, talentis.&raquo; 
+Atque viam penitus clausissem, vivo, talentis.» 
 Sed nullus fuit in tanta regione tyrannus 
 Vel dux sive comes seu miles sive minister, 
 Qui, quamvis cuperet proprias ostendere vires    410 

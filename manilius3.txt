@@ -91,7 +91,7 @@ non ut in aeterna caeli statione manerent
 et cunctos hominum pariter traherentur in ortus 
 ex isdem repetita locis, sed tempore sedes 
 nascentum acciperent proprias signisque migrarent 
-atque alias &lt;alii&gt; sors quaeque accederet astro,     80 
+atque alias <alii> sors quaeque accederet astro,     80 
 ut caperet genitura novam per sidera formam 
 nec tamen incerto confunderet omnia motu. 
 sed, cum pars operum quae prima condita sorte est 
@@ -228,7 +228,7 @@ ut totum lustret curvatis arcubus orbem,
 exprimere et vultus eius componere certos 
 ac tantae molis minimum deprendere punctum:     215 
 quae pars exortum vel quae fastigia mundi 
-&lt;obtineat summi demersosve aequoris undis&gt;     216a 
+<obtineat summi demersosve aequoris undis>     216a 
 auferat occasus aut imo sederit orbe. 
   Nec me vulgatae rationis praeterit ordo, 
 quae binas tribuit signis surgentibus horas 
@@ -430,9 +430,9 @@ per totidem e Libra decrescent sidera partes.
 et, quantis in utrumque moris tollentur ad ortus, 
 diversam in sortem tantis mergentur ad umbras. 
 haec erit horarum ratio ducenda per orbem 
-&lt;signorum: nunc in noscenda pone laborem&gt;     417a 
+<signorum: nunc in noscenda pone laborem>     417a 
 illa, quot stadiis oriantur quaeque cadantque. 
-quae &lt;quater et&gt; cum ter centum vicenaque constent, 
+quae <quater et> cum ter centum vicenaque constent, 
 detrahitur summae tota pars, quota demitur usque     420 
 omnibus ex horis aestivae nomine noctis, 
 solstitium summo peragit cum Phoebus Olympo. 
@@ -564,8 +564,8 @@ hora die, bis mense dies venit, unus in anno
 mensis et exactis bis sex iam solibus annus. 
 difficile est in idem tempus concurrere cuncta, 
 unius ut signi pariter sit mensis et annus 
-&lt;atque dies atque hora simul: sibi discrepat ordo.     549a 
-saepe fit ut, mitis tulerint qui sideris annum,&gt;     549b 
+<atque dies atque hora simul: sibi discrepat ordo.     549a 
+saepe fit ut, mitis tulerint qui sideris annum,>     549b 
 asperioris agant mensem; si mensis in astrum 
 laetius inciderit, signum sit triste diei; 
 si fortuna diem foveat, sit durior hora. 

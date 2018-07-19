@@ -574,7 +574,7 @@ tantum bina patent. quacumque inciditur orbis
 per medium, pars efficitur tum tertia gyri, 
 exiguo dirimens solidam discrimine summam. 
 summum igitur caelum bis bina refugit ab imo 
-astra, &lt;e&gt; bis senis ut sit pars tertia signis. 
+astra, <e> bis senis ut sit pars tertia signis. 
 sed quia per medium est tellus suspensa profundum, 
 binis a summo signis discedit et imo. 
 hinc igitur quodcumque supra te suspicis ipse, 
@@ -840,7 +840,7 @@ Livius Hasdrubalis socio per bella Nerone,
 Scipiadaeque duces, fatum Carthaginis unum, 
 Pompeiusque orbis domitor per trisque triumphos 
 ante deum princeps, et censu Tullius oris 
-emeritus caelum, et &lt;tu,&gt; Claudi magna propago, 
+emeritus caelum, et <tu,> Claudi magna propago, 
 Aemiliaeque domus proceres, clarique MeteIli, 
 et Cato fortunae victor, matrisque sub armis 
 miles Agrippa suae. Venerisque ab origine proles 

@@ -22,7 +22,7 @@ taedet, pudetque tandem? haud miseret mei?
 
 agnosco, pectus si recludatur meum, 
 
-tormenta, &thorn;agra, mille poenarum modos,
+tormenta, þagra, mille poenarum modos,
   4510 
 
 nisi grave vulnus, ulcus, aspicias nihil. 
@@ -203,7 +203,7 @@ quem, cum revertar, ipse Virgilii canam.
 
  SPOR. meliore redeas omine: se unde aurea  4580 
 
-ex messe merces, militum zv&Oslash;, c&Ecirc;xh? 
+ex messe merces, militum zvØ, cÊxh? 
 
 
  NERO censum omnis ordo conferat, nummum asperum: 
@@ -240,9 +240,9 @@ videro, et ut ora viderint hostes mea,  4595
 
 prodibo inermis, hinc et hinc oculos feram: 
 
-illi silebunt; et ego, nisi &thorn;ebo, nihil. 
+illi silebunt; et ego, nisi þebo, nihil. 
 
-illi obstupescent; et ego, nisi &thorn;ebo, nihil. 
+illi obstupescent; et ego, nisi þebo, nihil. 
 
 scio, resipiscent, arma deponent, manus
  
@@ -269,7 +269,7 @@ crinibus: adoro coelites laeto omine.  4605
   SPOR. ergo auspicanti
 consuli hunc dono annulum:  
 
-sis panton&#164;khw : fruere
+sis panton¤khw : fruere
 tam votis tuis, 
 
 quam Ditis iste dominus, et frater Iovis.
@@ -481,7 +481,7 @@ templa Solymorum, et denuo mundum integrum
 iam restiturus pristinae sorti regam.  4675 
 
 extera ut adsint, 
-p&ccedil;sa g&Eacute; texn&Oslash;n tr&#176;fei.
+pçsa gÉ texnØn tr°fei.
  
 
 ex arte vivam musica, imperium ut ruat. 
@@ -548,9 +548,9 @@ senatus odio mutuo invisus luet:
 
 caesus veneno dapibus immisto ruet.  4700 
 
-urbs tota &thorn;ammis cedet; immissis feris, 
+urbs tota þammis cedet; immissis feris, 
 
-inhibere &thorn;ammas quisquis audebit, cadet, 
+inhibere þammas quisquis audebit, cadet, 
 
 ut nemo post me Caesarem Romae imperet, 
 
@@ -766,8 +766,8 @@ Galbamque conclamamus, et pereat Nero.
  
 
 
- Actus V, scena ultima [&lt;Actus
-5&gt;] 
+ Actus V, scena ultima [<Actus
+5>] 
  
 
  UMBRA AGRIPPINAE, NERO, PHAON, SPORUS, EPAPHRODITUS,
@@ -855,7 +855,7 @@ servus superbus, dominus abiectus; nepos
 
 perditus, avarus, gryphus, omnigenum pecus:   4815 
 
-basiliscus af&thorn;ans; hedera circundans; lupus
+basiliscus afþans; hedera circundans; lupus
   
 
 sub vulpe; vulpes sub ove; galeatus lepus; 
@@ -879,8 +879,8 @@ quem coluit orbis, timuit urbs dominum, deum,
 nunc destitutus, nunc egens, nunc nunc miser.
    4825 
 
-fui monarcha, nunc &ecirc;neu &eacute;rx&Eacute;w
-mon&Ograve;w. 
+fui monarcha, nunc êneu érxÉw
+monÒw. 
 
  Umbra tollit pyxidem. 
 
@@ -1160,13 +1160,13 @@ hinc odia, scelera, machinae, insidiae, minae.
 
 hortantur, instant, quos dedit solos mihi 
 
-sors dura comites: quid ago? de&eth; n&AElig;fein
-&#182;me 
+sors dura comites: quid ago? deð nÆfein
+¶me 
 
-&#167;n to&eth;w toio&Ecirc;toiw. &ecirc;ge N&#176;rvn,
-to&Euml;t&Eacute; o&Egrave; pr&#176;pei. 
+§n toðw toioÊtoiw. êge N°rvn,
+toËtÉ oÈ pr°pei. 
 
-&#182;geire saut&Ograve;n . turpiter vixi, scio: 
+¶geire sautÒn . turpiter vixi, scio: 
 
 moriar decore: pareo: paretis scrobem 
 
@@ -1245,7 +1245,7 @@ fatalis hora nondum adest: hic est tamen
 ille, ille mihi quo Octavia perempta est dies.
    4935 
 
-lamenta resonent: o Spore, in lacrimas &thorn;ue.
+lamenta resonent: o Spore, in lacrimas þue.
  
 
  SPOR. heu.
@@ -1269,12 +1269,12 @@ Ceyca deplorantis: hos Echo audeat,
 
 et audiatur, tota dum totos refert. 
 
-plangendo manibus &thorn;endo concertent genae.
+plangendo manibus þendo concertent genae.
  
 
  SPOR. heu.
 
- NERO sit tibi dolendi, qui mihi &thorn;endi modus. 
+ NERO sit tibi dolendi, qui mihi þendi modus. 
 
 sine modo utrumque.
 
@@ -1300,7 +1300,7 @@ vere ergo luge, plange, geme, plora, eiula.
  NERO quin vos, amici, Antonium donec suum
   
 
-Cleopatra miserum de&thorn;et, e vobis pius 
+Cleopatra miserum deþet, e vobis pius 
 
 aliquis Erotem praestet: exemplum necis  4955 
 
@@ -1317,9 +1317,9 @@ citius, facilius ut cadam: nam quid moror?  4960
 
  Equitum sonitus. 
 
- &#183;ppvn m&Eacute;
-&#187;kup&acirc;dvn &eacute;mf&ETH; kt&Ecirc;pow &Ugrave;&Ecirc;ata
-b&atilde;llei.  
+ ·ppvn mÉ
+»kupâdvn émfÐ ktÊpow ÙÊata
+bãllei.  
 
 armata manus adventat, ut vivum attrahat.
  
@@ -1409,7 +1409,7 @@ si protegantur numini.
  
 
 
- NEMESIS &#167;pilog&#164;zei 
+ NEMESIS §pilog¤zei 
 
  sistite sorores: finem habet nimius
 Nero, 

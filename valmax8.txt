@@ -25,7 +25,7 @@ Valerius Maximus VIII
  
 
  
-8.1.abs.3 Consentaneum quod sequitur. A. Gabinius in maximo infamiae suae ardore suffragiis populi &lt;C.&gt; Memmio accusatore subiectus abruptae esse spei uidebatur, quoniam et accusatio partes suas plene exhibebat et defensionis praesidia inualida fide nitebantur et qui iudicabant ira perciti poenam hominis cupide expetebant. igitur uiator et carcer ante oculos obuersabantur, cum interim omnia ista propitiae fortunae interuentu dispulsa sunt: filius namque Gabinii Sisenna consternationis inpulsu ad pedes se Memmii supplex prostrauit, inde aliquod fomentum procellae petens, unde totus impetus tempestatis eruperat. quem truci uultu a se uictor insolens repulsum excusso e manu anulo humi iacere aliquamdiu passus est. quod spectaculum fecit ut Laelius tribunus pl. adprobantibus cunctis Gabinium dimitti iuberet ac documentum daretur neque secundarum rerum prouentu insolenter abuti neque aduersis &lt;prae&gt;propere debilitari oportere: idque proximo exemplo aeque patet.
+8.1.abs.3 Consentaneum quod sequitur. A. Gabinius in maximo infamiae suae ardore suffragiis populi <C.> Memmio accusatore subiectus abruptae esse spei uidebatur, quoniam et accusatio partes suas plene exhibebat et defensionis praesidia inualida fide nitebantur et qui iudicabant ira perciti poenam hominis cupide expetebant. igitur uiator et carcer ante oculos obuersabantur, cum interim omnia ista propitiae fortunae interuentu dispulsa sunt: filius namque Gabinii Sisenna consternationis inpulsu ad pedes se Memmii supplex prostrauit, inde aliquod fomentum procellae petens, unde totus impetus tempestatis eruperat. quem truci uultu a se uictor insolens repulsum excusso e manu anulo humi iacere aliquamdiu passus est. quod spectaculum fecit ut Laelius tribunus pl. adprobantibus cunctis Gabinium dimitti iuberet ac documentum daretur neque secundarum rerum prouentu insolenter abuti neque aduersis <prae>propere debilitari oportere: idque proximo exemplo aeque patet.
  
 
  
@@ -57,7 +57,7 @@ Valerius Maximus VIII
  
 
  
-8.1.abs.11 Sed quem ad modum splendor amplissimorum uirorum in protegendis reis plurimum ualuit, ita &lt;in&gt; opprimendis non sane multum potuit: quin etiam euidenter noxiis, dum eos acrius inpugnat, profuit. P. Scipio Aemilianus Cottam apud populum accusauit. cuius causa, quamquam grauissimis criminibus erat confossa, septies ampliata et ad ultimum octauo iudicio absoluta est, quia homines uerebantur ne praecipuae accusatoris amplitudini damnatio eius donata existimaretur. quos haec secum locutos crediderim: 'nolumus caput alterius petentem in iudicium triumphos et tropaea spoliaque et deuictarum nauium rostra deferre: terribilis sit his aduersus hostem, ciuis uero salutem tanto fragore gloriae subnixus ne insequatur'.
+8.1.abs.11 Sed quem ad modum splendor amplissimorum uirorum in protegendis reis plurimum ualuit, ita <in> opprimendis non sane multum potuit: quin etiam euidenter noxiis, dum eos acrius inpugnat, profuit. P. Scipio Aemilianus Cottam apud populum accusauit. cuius causa, quamquam grauissimis criminibus erat confossa, septies ampliata et ad ultimum octauo iudicio absoluta est, quia homines uerebantur ne praecipuae accusatoris amplitudini damnatio eius donata existimaretur. quos haec secum locutos crediderim: 'nolumus caput alterius petentem in iudicium triumphos et tropaea spoliaque et deuictarum nauium rostra deferre: terribilis sit his aduersus hostem, ciuis uero salutem tanto fragore gloriae subnixus ne insequatur'.
  
 
  
@@ -69,7 +69,7 @@ Valerius Maximus VIII
  
 
  
-8.1.damn.1 Percurremus nunc eos, quibus in causae dictione magis quae extra quaestionem erant nocuerunt quam sua innocentia opem tulit. L. Scipio post speciosissimum triumphum de rege Antiocho ductum, perinde ac pecuniam ab eo accepisset, damnatus est. non, puto, quod pretio corruptus fuerat, ut illum totius Asiae dominum et iam Europae uictrices manus inicientem ultra Taurum montem summoueret. sed &lt;et&gt; alioqui uir sincerissimae uitae et ab hac suspicione procul remotus, inuidiae, quae tunc in duorum fratrum inclytis cognominibus habitabat, resistere non potuit.
+8.1.damn.1 Percurremus nunc eos, quibus in causae dictione magis quae extra quaestionem erant nocuerunt quam sua innocentia opem tulit. L. Scipio post speciosissimum triumphum de rege Antiocho ductum, perinde ac pecuniam ab eo accepisset, damnatus est. non, puto, quod pretio corruptus fuerat, ut illum totius Asiae dominum et iam Europae uictrices manus inicientem ultra Taurum montem summoueret. sed <et> alioqui uir sincerissimae uitae et ab hac suspicione procul remotus, inuidiae, quae tunc in duorum fratrum inclytis cognominibus habitabat, resistere non potuit.
  
 
  
@@ -113,11 +113,11 @@ Valerius Maximus VIII
  
 
  
-8.2.1 Claudius Centumalus ab auguribus iussus altitudinem domus suae, quam in Caelio monte habebat, summittere, quia his ex arce augurium capientibus officiebat, uendidit eam Calpurnio Lanario nec indicauit quod imperatum &lt;a&gt; collegio augurumerat. a quibus Calpurnius demoliri domum coactus M. Porcium Catonem inclyti Catonis patrem arbitrum ~ cum Claudio adduxit formulam, quidquid sibi dare facere oporteret ex fide bona. Cato, ut est edoctus de industria Claudium praedictum sacerdotum suppressisse, continuo illum Calpurnio damnauit, summa quidem cum aequitate, quia bonae fidei uenditorem nec conmodorum spem augere nec incommodorum cognitionem obscurare oportet.
+8.2.1 Claudius Centumalus ab auguribus iussus altitudinem domus suae, quam in Caelio monte habebat, summittere, quia his ex arce augurium capientibus officiebat, uendidit eam Calpurnio Lanario nec indicauit quod imperatum <a> collegio augurumerat. a quibus Calpurnius demoliri domum coactus M. Porcium Catonem inclyti Catonis patrem arbitrum ~ cum Claudio adduxit formulam, quidquid sibi dare facere oporteret ex fide bona. Cato, ut est edoctus de industria Claudium praedictum sacerdotum suppressisse, continuo illum Calpurnio damnauit, summa quidem cum aequitate, quia bonae fidei uenditorem nec conmodorum spem augere nec incommodorum cognitionem obscurare oportet.
  
 
  
-8.2.2 Notum suis temporibus iudicium commemoraui, sed ne quod relatu&lt;ru&gt;s quidem sum obliteratum silentio. C. Visellius Varro graui morbo correptus trecenta milia nummum ab Otacilia Laterensis, cum qua commercium libidinis habuerat, expensa ferri sibi passus est eo consilio, ut, si decessisset, ab heredibus eam summam peteret, quam legati genus esse uoluit, libidinosam liberalitatem debiti nomine colorando. euasit deinde ex illa tempestate aduersus uota Otaciliae. quae offensa, quod spem praedae suae morte non maturasset, ex amica obsequenti subito destrictam feneratricem agere coepit, nummos petendo, quos ut fronte inuerecunda, ita inani stipulatione captauerat. de qua re C. Aquilius uir magnae auctoritatis et scientia iuris ciuilis excellens iudex adductus adhibitis in consilium principibus ciuitatis prudentia et religione sua mulierem reppulit. quod si eadem formula Varro et damnari et &lt;ab&gt; aduersaria absolui potuisset, eius quoque non dubito quin turpem et inconcessum errorem libenter castigaturus fuerit: nunc priuatae actionis calumniam ipse conpescuit, adulterii crimen publicae quaestioni uindicandum reliquit.
+8.2.2 Notum suis temporibus iudicium commemoraui, sed ne quod relatu<ru>s quidem sum obliteratum silentio. C. Visellius Varro graui morbo correptus trecenta milia nummum ab Otacilia Laterensis, cum qua commercium libidinis habuerat, expensa ferri sibi passus est eo consilio, ut, si decessisset, ab heredibus eam summam peteret, quam legati genus esse uoluit, libidinosam liberalitatem debiti nomine colorando. euasit deinde ex illa tempestate aduersus uota Otaciliae. quae offensa, quod spem praedae suae morte non maturasset, ex amica obsequenti subito destrictam feneratricem agere coepit, nummos petendo, quos ut fronte inuerecunda, ita inani stipulatione captauerat. de qua re C. Aquilius uir magnae auctoritatis et scientia iuris ciuilis excellens iudex adductus adhibitis in consilium principibus ciuitatis prudentia et religione sua mulierem reppulit. quod si eadem formula Varro et damnari et <ab> aduersaria absolui potuisset, eius quoque non dubito quin turpem et inconcessum errorem libenter castigaturus fuerit: nunc priuatae actionis calumniam ipse conpescuit, adulterii crimen publicae quaestioni uindicandum reliquit.
  
 
  
@@ -137,11 +137,11 @@ Valerius Maximus VIII
  
 
  
-8.3.2 C. Afrania uero Licinii Bucconis senatoris uxor prompta ad lites contrahendas pro se semper apud praetorem uerba fecit, non quod aduocatis deficiebatur, sed quod inpudentia abundabat. itaque inusitatis foro latratibus adsidue tribunalia exercendo muliebris calumniae notissimum exemplum euasit, adeo ut pro crimine inprobis feminarum moribus C. Afraniae nomen obiciatur. prorogauit autem spiritum suum ad C. Caesarem iterum &lt;P.&gt; Seruilium consules: tale enim monstrum magis quo tempore extinctum quam quo sit ortum memoriae tradendum est.
+8.3.2 C. Afrania uero Licinii Bucconis senatoris uxor prompta ad lites contrahendas pro se semper apud praetorem uerba fecit, non quod aduocatis deficiebatur, sed quod inpudentia abundabat. itaque inusitatis foro latratibus adsidue tribunalia exercendo muliebris calumniae notissimum exemplum euasit, adeo ut pro crimine inprobis feminarum moribus C. Afraniae nomen obiciatur. prorogauit autem spiritum suum ad C. Caesarem iterum <P.> Seruilium consules: tale enim monstrum magis quo tempore extinctum quam quo sit ortum memoriae tradendum est.
  
 
  
-8.3.3 Hortensia uero Q. Hortensi filia, cum ordo matronarum graui tributo a triumuiris esset oneratus &lt;nec&gt; quisquam uirorum patrocinium eis accommodare auderet, causam feminarum apud triumuiros et constanter et feliciter egit: repraesentata enim patris facundia impetrauit ut maior pars imperatae pecuniae his remitteretur. reuixit tum muliebri stirpe Q. Hortensius uerbisque filiae aspirauit, cuius si uirilis sexus posteri uim sequi uoluissent, Hortensianae eloquentiae tanta hereditas una feminae actione abscissa non esset.
+8.3.3 Hortensia uero Q. Hortensi filia, cum ordo matronarum graui tributo a triumuiris esset oneratus <nec> quisquam uirorum patrocinium eis accommodare auderet, causam feminarum apud triumuiros et constanter et feliciter egit: repraesentata enim patris facundia impetrauit ut maior pars imperatae pecuniae his remitteretur. reuixit tum muliebri stirpe Q. Hortensius uerbisque filiae aspirauit, cuius si uirilis sexus posteri uim sequi uoluissent, Hortensianae eloquentiae tanta hereditas una feminae actione abscissa non esset.
  
 
  
@@ -153,7 +153,7 @@ Valerius Maximus VIII
  
 
  
-8.4.2 Contra P. Atinii seruus Alexander, cum in [hanc] suspicionem C. Flauii equitis Romani occisi uenisset, sexies tortus pernegauit ei se culpae adfinem fuisse, sed perinde atque confessus &lt;ess&gt;et, a iudicibus damnatus et a L. Calpurnio triumuiro in crucem actus est.
+8.4.2 Contra P. Atinii seruus Alexander, cum in [hanc] suspicionem C. Flauii equitis Romani occisi uenisset, sexies tortus pernegauit ei se culpae adfinem fuisse, sed perinde atque confessus <ess>et, a iudicibus damnatus et a L. Calpurnio triumuiro in crucem actus est.
  
 
  
@@ -173,7 +173,7 @@ Valerius Maximus VIII
  
 
  
-8.5.4 Age, Q. Metellus Pius, L. &lt;et&gt; M. Luculli, Q. Hortensius, M'. Lepidus C. Cornelii maiestatis rei quam non onerarunt tantum modo testes salutem, sed etiam negantes illo incolumi stare rem publicam posse, depoposcerunt! quae decora ciuitatis, pudet referre, umbone iudiciali repulsa sunt.
+8.5.4 Age, Q. Metellus Pius, L. <et> M. Luculli, Q. Hortensius, M'. Lepidus C. Cornelii maiestatis rei quam non onerarunt tantum modo testes salutem, sed etiam negantes illo incolumi stare rem publicam posse, depoposcerunt! quae decora ciuitatis, pudet referre, umbone iudiciali repulsa sunt.
  
 
  
@@ -189,7 +189,7 @@ Valerius Maximus VIII
  
 
  
-8.6.1 C. Licinius cognomine Hoplomachus a praetore postulauit ut patri suo bonis tamquam ea dissipanti interdiceretur, et quidem quod petierat impetrauit, sed ipse paruo post tempore mortuo sene amplam ab eo relictam pecuniam festinanter consumpsit. a uicissitudine poenae &lt;a&gt;fuit, quoniam hereditatem absumere quam heredem maluit tollere.
+8.6.1 C. Licinius cognomine Hoplomachus a praetore postulauit ut patri suo bonis tamquam ea dissipanti interdiceretur, et quidem quod petierat impetrauit, sed ipse paruo post tempore mortuo sene amplam ab eo relictam pecuniam festinanter consumpsit. a uicissitudine poenae <a>fuit, quoniam hereditatem absumere quam heredem maluit tollere.
  
 
  
@@ -197,7 +197,7 @@ Valerius Maximus VIII
  
 
  
-8.6.3 C. uero Licinius Stolo, cuius beneficio plebi petendi consulatus potestas facta est, cum lege sanxisset ne quis amplius quingenta agri iugera possideret, ipse mille conparauit &lt;dis&gt;simulandique criminis gratia dimidiam partem filio emancipauit. quam ob causam a. M. Popilio Laenate accusatus primus sua lege cecidit ac docuit nihil aliud praecipi debere, nisi quod prius quisque sibi imperau&lt;er&gt;it.
+8.6.3 C. uero Licinius Stolo, cuius beneficio plebi petendi consulatus potestas facta est, cum lege sanxisset ne quis amplius quingenta agri iugera possideret, ipse mille conparauit <dis>simulandique criminis gratia dimidiam partem filio emancipauit. quam ob causam a. M. Popilio Laenate accusatus primus sua lege cecidit ac docuit nihil aliud praecipi debere, nisi quod prius quisque sibi imperau<er>it.
  
 
  
@@ -225,7 +225,7 @@ Valerius Maximus VIII
  
 
  
-8.7.5 Publilius uero senator et Lupus Pontius eques Romanus suis temporibus celebres causarum actores luminibus capti eadem industria forensia stipendia executi sunt. itaque frequentius etiam audiebantur, concurrentibus aliis, quia ingenio eorum delectabantur, aliis, quia constantiam admirabantur: nam, qui tali &lt;in&gt;conmodo perculsi secessum petunt, duplicant tenebras fortuitis uoluntarias adicientes.
+8.7.5 Publilius uero senator et Lupus Pontius eques Romanus suis temporibus celebres causarum actores luminibus capti eadem industria forensia stipendia executi sunt. itaque frequentius etiam audiebantur, concurrentibus aliis, quia ingenio eorum delectabantur, aliis, quia constantiam admirabantur: nam, qui tali <in>conmodo perculsi secessum petunt, duplicant tenebras fortuitis uoluntarias adicientes.
  
 
  
@@ -245,7 +245,7 @@ Valerius Maximus VIII
  
 
  
-8.7.ext.3 Platon autem patriam Athenas, praeceptorem Socratem sortitus, et locum et hominem doctrinae fertilissimum, ingenii quoque diuina instructus abundantia, cum omnium iam mortalium sapientissimus haberetur, eo quidem usque, ut, si ipse Iuppiter caelo descendisset, nec elegantiore nec beatiore facundia usurus uideretur, Aegyptum peragrauit, dum a sacerdotibus eius gentis geometriae multiplices numeros &lt;et&gt; caelestium obseruationum rationem percipit. quoque tempore a studiosis iuuenibus certatim Athenae Platonem doctorem quaerentibus petebantur, ipse Nili fluminis inexplicabiles ripas uastissimosque campos, ~ effusam barbariam et flexuosos fossarum ambitus Aegyptiorum senum discipulus lustrabat. quo minus miror in Italiam transgressum, ut ab Archyta Tarenti, a Timaeo et Arione et Echecrate Locris Pythagorae praecepta et instituta acciperet: tanta enim uis, tanta copia litterarum undique colligenda erat, ut inuicem per totum terrarum orbem dispergi et dilatari posset. altero etiam et octogesimo anno decedens sub capite Sophronis mimos habuisse fertur. sic ne extrema quidem eius hora agitatione studii uacua fuit.
+8.7.ext.3 Platon autem patriam Athenas, praeceptorem Socratem sortitus, et locum et hominem doctrinae fertilissimum, ingenii quoque diuina instructus abundantia, cum omnium iam mortalium sapientissimus haberetur, eo quidem usque, ut, si ipse Iuppiter caelo descendisset, nec elegantiore nec beatiore facundia usurus uideretur, Aegyptum peragrauit, dum a sacerdotibus eius gentis geometriae multiplices numeros <et> caelestium obseruationum rationem percipit. quoque tempore a studiosis iuuenibus certatim Athenae Platonem doctorem quaerentibus petebantur, ipse Nili fluminis inexplicabiles ripas uastissimosque campos, ~ effusam barbariam et flexuosos fossarum ambitus Aegyptiorum senum discipulus lustrabat. quo minus miror in Italiam transgressum, ut ab Archyta Tarenti, a Timaeo et Arione et Echecrate Locris Pythagorae praecepta et instituta acciperet: tanta enim uis, tanta copia litterarum undique colligenda erat, ut inuicem per totum terrarum orbem dispergi et dilatari posset. altero etiam et octogesimo anno decedens sub capite Sophronis mimos habuisse fertur. sic ne extrema quidem eius hora agitatione studii uacua fuit.
  
 
  
@@ -261,7 +261,7 @@ Valerius Maximus VIII
  
 
  
-8.7.ext.7 Archimedis quoque fructuosam industriam fuisse dicerem, nisi eadem illi et dedisset uitam et abstulisset: captis enim Syracusis Marcellus, &lt;etsi&gt; machinationibus eius multum ac diu uictoriam suam inhibitam senserat, eximia tamen hominis prudentia delectatus ut capiti illius parceretur edixit, paene tantum gloriae in Archimede seruato quantum in oppressis Syracusis reponens. at is, dum animo et oculis in terra defixis formas describit, militi, qui praedandi gratia domum inruperat strictoque super caput gladio quisnam esset interrogabat, propter nimiam cupiditatem inuestigandi quod requirebat nomen suum indicare non potuit, sed protecto manibus puluere 'noli' inquit, 'obsecro, istum disturbare', ac perinde quasi neglegens imperii uictoris obtruncatus sanguine suo artis suae liniamenta confudit. quo accidit ut propter idem studium modo donaretur uita, modo spoliaretur.
+8.7.ext.7 Archimedis quoque fructuosam industriam fuisse dicerem, nisi eadem illi et dedisset uitam et abstulisset: captis enim Syracusis Marcellus, <etsi> machinationibus eius multum ac diu uictoriam suam inhibitam senserat, eximia tamen hominis prudentia delectatus ut capiti illius parceretur edixit, paene tantum gloriae in Archimede seruato quantum in oppressis Syracusis reponens. at is, dum animo et oculis in terra defixis formas describit, militi, qui praedandi gratia domum inruperat strictoque super caput gladio quisnam esset interrogabat, propter nimiam cupiditatem inuestigandi quod requirebat nomen suum indicare non potuit, sed protecto manibus puluere 'noli' inquit, 'obsecro, istum disturbare', ac perinde quasi neglegens imperii uictoris obtruncatus sanguine suo artis suae liniamenta confudit. quo accidit ut propter idem studium modo donaretur uita, modo spoliaretur.
  
 
  
@@ -273,7 +273,7 @@ Valerius Maximus VIII
  
 
  
-8.7.ext.10 Citerioris aetatis metas, sed non parui tamen spatii chrysippi uiuacitas flexit: nam octogesimo anno coeptum undequadragesimum Logik&#180;n exactissimae subtilitatis uolumen reliquit. cuius studium in tradendis ingenii sui monumentis tantum operae laborisque sustinuit, ut ad ea, quae scripsit, penitus cognoscenda longa uita sit opus.
+8.7.ext.10 Citerioris aetatis metas, sed non parui tamen spatii chrysippi uiuacitas flexit: nam octogesimo anno coeptum undequadragesimum Logik´n exactissimae subtilitatis uolumen reliquit. cuius studium in tradendis ingenii sui monumentis tantum operae laborisque sustinuit, ut ad ea, quae scripsit, penitus cognoscenda longa uita sit opus.
  
 
  
@@ -281,11 +281,11 @@ Valerius Maximus VIII
  
 
  
-8.7.ext.12 Sophocles quoque gloriosum cum rerum natura certamen habuit, tam benigne mirifica illi opera sua exhibendo quam illa operibus eius tempora liberaliter sumministrando: prope enim centesimum annum attigit, sub ipsum transitum ad mortem Oedipode &szlig;p&#173; Kolvn" scripto, qua sola fabula omnium eiusdem studi poetarum praeripere gloriam potuit. idque ignotum esse posteris filius Sophoclis Iophon noluit, sepulcro patris quae retuli insculpendo.
+8.7.ext.12 Sophocles quoque gloriosum cum rerum natura certamen habuit, tam benigne mirifica illi opera sua exhibendo quam illa operibus eius tempora liberaliter sumministrando: prope enim centesimum annum attigit, sub ipsum transitum ad mortem Oedipode ßp­ Kolvn" scripto, qua sola fabula omnium eiusdem studi poetarum praeripere gloriam potuit. idque ignotum esse posteris filius Sophoclis Iophon noluit, sepulcro patris quae retuli insculpendo.
  
 
  
-8.7.ext.13 Simonides uero poeta octogesimo anno et docuisse se carmina et in eorum certamen descendisse ipse gloriatur. nec fuit inicum illum uoluptatem ex ingenio suo diu percipere, cum &lt;tan&gt;tam omni aeuo fruendam traditurus esset.
+8.7.ext.13 Simonides uero poeta octogesimo anno et docuisse se carmina et in eorum certamen descendisse ipse gloriatur. nec fuit inicum illum uoluptatem ex ingenio suo diu percipere, cum <tan>tam omni aeuo fruendam traditurus esset.
  
 
  
@@ -305,11 +305,11 @@ Valerius Maximus VIII
  
 
  
-8.8.1 Par uerae amicitiae clarissimum Scipio et Laelius, cum amoris uinculo tum etiam omnium uirtutum inter se iunctum societate, ut actuosae uitae iter aequali gradu exequebantur, ita animi quoque remissioni&lt;bus&gt; communiter adquiescebant: constat namque eos Caietae et Laurenti uagos litoribus conchulas et umbilicos lectitasse, idque se P. Crassus ex socero suo Scaeuola, qui gener Laelii fuit, audisse saepe numero praedicauit.
+8.8.1 Par uerae amicitiae clarissimum Scipio et Laelius, cum amoris uinculo tum etiam omnium uirtutum inter se iunctum societate, ut actuosae uitae iter aequali gradu exequebantur, ita animi quoque remissioni<bus> communiter adquiescebant: constat namque eos Caietae et Laurenti uagos litoribus conchulas et umbilicos lectitasse, idque se P. Crassus ex socero suo Scaeuola, qui gener Laelii fuit, audisse saepe numero praedicauit.
  
 
  
-8.8.2 Scaeuola autem, quiet&lt;is&gt; et remissionis eorum certissimus testis, optime pila lusisse traditur, quia uidelicet ad hoc deuerticulum animum suum forensibus ministeriis fatigatum transferre solebat. alueo quoque et calculis interdum uacasse dicitur, cum bene ac diu iura ciuium &lt;et&gt; caerimonias deorum ordinasset: ut enim in rebus seriis Scaeuolam, ita in [scaelus] lusibus hominem agebat, quem rerum natura continui laboris patientem esse non sinit.
+8.8.2 Scaeuola autem, quiet<is> et remissionis eorum certissimus testis, optime pila lusisse traditur, quia uidelicet ad hoc deuerticulum animum suum forensibus ministeriis fatigatum transferre solebat. alueo quoque et calculis interdum uacasse dicitur, cum bene ac diu iura ciuium <et> caerimonias deorum ordinasset: ut enim in rebus seriis Scaeuolam, ita in [scaelus] lusibus hominem agebat, quem rerum natura continui laboris patientem esse non sinit.
  
 
  
@@ -333,7 +333,7 @@ Valerius Maximus VIII
  
 
  
-8.9.3 Diuus quoque Iulius, quam caelestis numinis tam etiam humani ingenii perfectissimum columen, uim facundiae proprie expressit dicendo in accusatione Cn. Dolabellae, quem reum egit, extorqueri sibi causam optimam L. Cottae patrocinio, si quidem maxima tunc &lt;eloquentia de ui&gt; eloquentiae questa est. cuius facta mentione, quoniam domesticum nullum maius adiecerim exemplum, peregrinandum est.
+8.9.3 Diuus quoque Iulius, quam caelestis numinis tam etiam humani ingenii perfectissimum columen, uim facundiae proprie expressit dicendo in accusatione Cn. Dolabellae, quem reum egit, extorqueri sibi causam optimam L. Cottae patrocinio, si quidem maxima tunc <eloquentia de ui> eloquentiae questa est. cuius facta mentione, quoniam domesticum nullum maius adiecerim exemplum, peregrinandum est.
  
 
  
@@ -357,7 +357,7 @@ Valerius Maximus VIII
  
 
  
-8.10.2 Q. autem Hortensius plurimum in corporis decoro motu repositum credens paene plus studii in eo[dem] &lt;e&gt;laborando quam in ipsa eloquentia adfectanda inpendit. itaque nescires utrum cupidius ad audiendum eum an ad spectandum concurreretur: sic uerbis oratoris aspectus et rursus aspectui uerba seruiebant. constat Aesopum Rosciumque ludicrae artis peritissimos illo causas agente in corona frequenter adstitisse, ut foro petitos gestus in scaenam referrent.
+8.10.2 Q. autem Hortensius plurimum in corporis decoro motu repositum credens paene plus studii in eo[dem] <e>laborando quam in ipsa eloquentia adfectanda inpendit. itaque nescires utrum cupidius ad audiendum eum an ad spectandum concurreretur: sic uerbis oratoris aspectus et rursus aspectui uerba seruiebant. constat Aesopum Rosciumque ludicrae artis peritissimos illo causas agente in corona frequenter adstitisse, ut foro petitos gestus in scaenam referrent.
  
 
  
@@ -365,7 +365,7 @@ Valerius Maximus VIII
  
 
  
-8.10.ext.1 Consentaneum huic Demosthenis iudicium. qui[dam], cum interrogaretur quidnam esset in dicendo efficacissimum, respondit '&aelig; &Otilde;p"krisiw'. iterum deinde et tertio interpellatus idem dixit, paene totum se illi debere confitendo. recte itaque Aeschines, cum propter iudicialem ignominiam relictis Athenis Rhodum petisset atque ibi rogatu ciuitatis suam prius in Ctesiphontem, deinde Demosthenis pro eodem orationem clarissima et suauissima uoce recitasset, admirantibus cunctis utriusque uoluminis eloquentiam, sed aliquanto magis Demosthenis, 'quid, si' inquit 'ipsum audissetis?' tantus orator et modo tam infestus aduersarius sic inimici uim ardoremque dicendi suspexit, ut se scriptorum eius parum idoneum lectorem esse praedicaret, expertus acerrimum uigorem oculorum, terribile uultus pondus, adconmodatum singulis uerbis sonum uocis, efficacissimos corporis motus. ergo etsi operi illius adici nihil potest, tamen in Demosthene magna pars Demosthenis abest, quod legitur potius quam auditur.
+8.10.ext.1 Consentaneum huic Demosthenis iudicium. qui[dam], cum interrogaretur quidnam esset in dicendo efficacissimum, respondit 'æ Õp"krisiw'. iterum deinde et tertio interpellatus idem dixit, paene totum se illi debere confitendo. recte itaque Aeschines, cum propter iudicialem ignominiam relictis Athenis Rhodum petisset atque ibi rogatu ciuitatis suam prius in Ctesiphontem, deinde Demosthenis pro eodem orationem clarissima et suauissima uoce recitasset, admirantibus cunctis utriusque uoluminis eloquentiam, sed aliquanto magis Demosthenis, 'quid, si' inquit 'ipsum audissetis?' tantus orator et modo tam infestus aduersarius sic inimici uim ardoremque dicendi suspexit, ut se scriptorum eius parum idoneum lectorem esse praedicaret, expertus acerrimum uigorem oculorum, terribile uultus pondus, adconmodatum singulis uerbis sonum uocis, efficacissimos corporis motus. ergo etsi operi illius adici nihil potest, tamen in Demosthene magna pars Demosthenis abest, quod legitur potius quam auditur.
  
 
  
@@ -373,7 +373,7 @@ Valerius Maximus VIII
  
 
  
-8.11.1 Sulpicii Galli maximum in omni genere litterarum percipiendo studium plurimum rei publicae profuit: nam cum L. Pauli bellum aduersum regem Persen gerentis legatus esset, ac serena nocte subito luna defecisset, eoque uelut diro quodam monstro per&lt;ter&gt;ritus exercitus noster manus cum hoste conserendi fiduciam amisisset, de caeli ratione et siderum natura peritissime disputando alacrem eum in aciem misit. itaque inclytae illi Paulianae uictoriae liberales artes Galli aditum dederunt, quia, nisi ille metum nostrorum militum uicisset, imperator uincere hostes non potuisset.
+8.11.1 Sulpicii Galli maximum in omni genere litterarum percipiendo studium plurimum rei publicae profuit: nam cum L. Pauli bellum aduersum regem Persen gerentis legatus esset, ac serena nocte subito luna defecisset, eoque uelut diro quodam monstro per<ter>ritus exercitus noster manus cum hoste conserendi fiduciam amisisset, de caeli ratione et siderum natura peritissime disputando alacrem eum in aciem misit. itaque inclytae illi Paulianae uictoriae liberales artes Galli aditum dederunt, quia, nisi ille metum nostrorum militum uicisset, imperator uincere hostes non potuisset.
  
 
  
@@ -381,7 +381,7 @@ Valerius Maximus VIII
  
 
  
-8.11.ext.1 Sed ut alienigena scrutemur, cum obscurato repente sole inusitatis perfusae tenebris Athenae solli&lt;ci&gt;tudine angerentur, interitum sibi caelesti denuntiatione portendi credentes, Pericles processit in medium et quae a praeceptore suo Anaxagora pertinentia ad solis et lunae cursum acceperat disseruit nec ulterius trepidare ciues suos uano metu passus est.
+8.11.ext.1 Sed ut alienigena scrutemur, cum obscurato repente sole inusitatis perfusae tenebris Athenae solli<ci>tudine angerentur, interitum sibi caelesti denuntiatione portendi credentes, Pericles processit in medium et quae a praeceptore suo Anaxagora pertinentia ad solis et lunae cursum acceperat disseruit nec ulterius trepidare ciues suos uano metu passus est.
  
 
  
@@ -393,7 +393,7 @@ Valerius Maximus VIII
  
 
  
-8.11.ext.4 Cuius coniugem Praxiteles in marmore quasi spirantem in templo Cnidiorum collocauit, propter pulchritudinem operis a libidinoso cuiusdam conplexu parum tutam. quo excusabilior est error equi, qui uisa pictura equae hinnitum edere coactus est, et canum latratus aspectu picti canis incitatus taurusque ad amorem et concubitum aeneae uaccae Syrasusis nimiae similitudinis inritamento conpulsus: quid enim uacua rationis ani&lt;mali&gt;a arte decepta miremur, cum hominis sacrilegam cupiditatem muti lapidis liniamentis excitatam uidea&lt;mu&gt;s?
+8.11.ext.4 Cuius coniugem Praxiteles in marmore quasi spirantem in templo Cnidiorum collocauit, propter pulchritudinem operis a libidinoso cuiusdam conplexu parum tutam. quo excusabilior est error equi, qui uisa pictura equae hinnitum edere coactus est, et canum latratus aspectu picti canis incitatus taurusque ad amorem et concubitum aeneae uaccae Syrasusis nimiae similitudinis inritamento conpulsus: quid enim uacua rationis ani<mali>a arte decepta miremur, cum hominis sacrilegam cupiditatem muti lapidis liniamentis excitatam uidea<mu>s?
  
 
  
@@ -417,7 +417,7 @@ Valerius Maximus VIII
  
 
  
-8.12.ext.1 Platonis quoque eruditissimum pectus haec cogitatio attigit, qui conductores sacrae arae &lt;de&gt; modo et forma eius secum sermonem conferre conatos ad Eucliden geometren ire iussit scientiae eius cedens, immo professioni.
+8.12.ext.1 Platonis quoque eruditissimum pectus haec cogitatio attigit, qui conductores sacrae arae <de> modo et forma eius secum sermonem conferre conatos ad Eucliden geometren ire iussit scientiae eius cedens, immo professioni.
  
 
  
@@ -441,11 +441,11 @@ Valerius Maximus VIII
  
 
  
-8.13.3 Q. autem Fabius Maximus duo&lt;bus&gt; et lx annis auguratus sacerdotium sustinuit, robusta iam aetate id adeptus. quae utraque tempora si in unum conferantur, facile saeculi modum expleuerint.
+8.13.3 Q. autem Fabius Maximus duo<bus> et lx annis auguratus sacerdotium sustinuit, robusta iam aetate id adeptus. quae utraque tempora si in unum conferantur, facile saeculi modum expleuerint.
  
 
  
-8.13.4 Iam de M. Perpenna quid loquar? qui omnibus, quos in senatum con&lt;sul&gt; uocauerat, superstes fuit septemque tantummodo, quos censor, collega L. Philippi, legerat, e patribus conscriptis reliquos uidit, toto ordine amplissimo diuturnior.
+8.13.4 Iam de M. Perpenna quid loquar? qui omnibus, quos in senatum con<sul> uocauerat, superstes fuit septemque tantummodo, quos censor, collega L. Philippi, legerat, e patribus conscriptis reliquos uidit, toto ordine amplissimo diuturnior.
  
 
  
@@ -477,11 +477,11 @@ Valerius Maximus VIII
  
 
  
-8.13.ext.6 Hellanicus uero ait quosdam ex gente Epiorum, quae pars Aetoliae &lt;est&gt;, ducenos explere annos, eique suscribit Damastes, hoc amplius adfirmans, Litorium quendam ex his maximarum uirium staturaeque praecipuae trecentesimum annum cumulasse.
+8.13.ext.6 Hellanicus uero ait quosdam ex gente Epiorum, quae pars Aetoliae <est>, ducenos explere annos, eique suscribit Damastes, hoc amplius adfirmans, Litorium quendam ex his maximarum uirium staturaeque praecipuae trecentesimum annum cumulasse.
  
 
  
-8.13.ext.7 Alexander uero in eo uolumine, quod de Illyrico tractu conposuit, adfirmat Dandonem quendam ad quingentesimum usque annum nulla ex parte senescentem processisse. sed multo liberalius Xenophon, cuius per&#167;plouw legitur: insulae enim Latmiorum regem octingentis uitae annis donauit. ac ne pater eius parum benigne acceptus uideretur, ei quoque sescentos adsignauit annos.
+8.13.ext.7 Alexander uero in eo uolumine, quod de Illyrico tractu conposuit, adfirmat Dandonem quendam ad quingentesimum usque annum nulla ex parte senescentem processisse. sed multo liberalius Xenophon, cuius per§plouw legitur: insulae enim Latmiorum regem octingentis uitae annis donauit. ac ne pater eius parum benigne acceptus uideretur, ei quoque sescentos adsignauit annos.
  
 
  
@@ -501,11 +501,11 @@ Valerius Maximus VIII
  
 
  
-8.14.4 L. autem Sulla, etsi ad neminem scriptorem animum direxit, tamen Iugurthae a Boccho rege ad Marium perducti totam sibi laudem &lt;tam&gt; cupide adseruit, ut anulo, quo signatorio utebatur, insculptam illam traditionem haberet. ~ et quantus postea ne minimum quidem gloriae uestigium contempsit.
+8.14.4 L. autem Sulla, etsi ad neminem scriptorem animum direxit, tamen Iugurthae a Boccho rege ad Marium perducti totam sibi laudem <tam> cupide adseruit, ut anulo, quo signatorio utebatur, insculptam illam traditionem haberet. ~ et quantus postea ne minimum quidem gloriae uestigium contempsit.
  
 
  
-8.14.5 Atque ut imperatoribus militis gloriosum spiritum subnectam, Scipionem dona militaria his, qui strenuam operam ediderant, diuidentem T. Labienus ut forti equiti aureas armillas tribueret admonuit, eoque se negante id factu&lt;ru&gt;m, ne castrensis honos in eo, qui paulo ante seruisset, uiolaretur, ipse ex praeda Gallica aurum equiti largitus est. nec tacite id Scipio tulit: namque equiti 'habebis' inquit 'donum uiri diuitis'. quod ubi ille accepit, proiecto ante pedes Labieni auro uultum demisit. idem, ut audiit Scipionem dicentem 'imperator te argenteis armillis donat', alacer gaudio abiit. nulla est ergo tanta humilitas, quae dulcedine gloriae non tangatur.
+8.14.5 Atque ut imperatoribus militis gloriosum spiritum subnectam, Scipionem dona militaria his, qui strenuam operam ediderant, diuidentem T. Labienus ut forti equiti aureas armillas tribueret admonuit, eoque se negante id factu<ru>m, ne castrensis honos in eo, qui paulo ante seruisset, uiolaretur, ipse ex praeda Gallica aurum equiti largitus est. nec tacite id Scipio tulit: namque equiti 'habebis' inquit 'donum uiri diuitis'. quod ubi ille accepit, proiecto ante pedes Labieni auro uultum demisit. idem, ut audiit Scipionem dicentem 'imperator te argenteis armillis donat', alacer gaudio abiit. nulla est ergo tanta humilitas, quae dulcedine gloriae non tangatur.
  
 
  
@@ -521,11 +521,11 @@ Valerius Maximus VIII
  
 
  
-8.14.ext.3 Regis et iuuenis flagrantissimae cupiditati similem Aristotelis in capessenda laude sitim subnectam: is namque Theodecti discipulo oratoriae artis libros quos &lt;pro suis&gt; ederet donauerat, molesteque postea ferens titulum eorum sic alii cessisse, proprio uolumine quibusdam rebus insistens, planius sibi de his in Theodectis libris dictum esse adiecit. nisi me tantae et tam late patentis scientiae uerecundia teneret, dicerem dignum philosophum, cuius stabiliendi mores altioris animi philosopho traderentur. Ceterum gloria ne ab his quidem, qui contemptum eius introducere conantur, neglegitur, quoniam quidem ipsis uoluminibus nomina sua diligenter adiciunt, ut quod professione eleuant usurpatione memoriae adsequantur. sed qualiscumque horum dissimulatio proposito illorum longe tolerabilior, qui, dum aeternam memoriam adsequerentur, etiam sceleribus innotescere non dubitarunt.
+8.14.ext.3 Regis et iuuenis flagrantissimae cupiditati similem Aristotelis in capessenda laude sitim subnectam: is namque Theodecti discipulo oratoriae artis libros quos <pro suis> ederet donauerat, molesteque postea ferens titulum eorum sic alii cessisse, proprio uolumine quibusdam rebus insistens, planius sibi de his in Theodectis libris dictum esse adiecit. nisi me tantae et tam late patentis scientiae uerecundia teneret, dicerem dignum philosophum, cuius stabiliendi mores altioris animi philosopho traderentur. Ceterum gloria ne ab his quidem, qui contemptum eius introducere conantur, neglegitur, quoniam quidem ipsis uoluminibus nomina sua diligenter adiciunt, ut quod professione eleuant usurpatione memoriae adsequantur. sed qualiscumque horum dissimulatio proposito illorum longe tolerabilior, qui, dum aeternam memoriam adsequerentur, etiam sceleribus innotescere non dubitarunt.
  
 
  
-8.14.ext.4 Quorum e numero nescio an in primis Pausanias debeat referri: nam cum Hermoclen percontatus esset quonam modo subito clarus posset euadere, atque is respondisset, si aliquem inlustrem uirum occidisset, futurum ut gloria eius ad ipsum redundaret, continuo Philippum interemit, et quidem quod petierat adsecutus est: tam en&lt;im&gt; se parricidio quam Philippus uirtute notum posteris reddidit.
+8.14.ext.4 Quorum e numero nescio an in primis Pausanias debeat referri: nam cum Hermoclen percontatus esset quonam modo subito clarus posset euadere, atque is respondisset, si aliquem inlustrem uirum occidisset, futurum ut gloria eius ad ipsum redundaret, continuo Philippum interemit, et quidem quod petierat adsecutus est: tam en<im> se parricidio quam Philippus uirtute notum posteris reddidit.
  
 
  
@@ -545,7 +545,7 @@ Valerius Maximus VIII
  
 
  
-8.15.3 Rarum specimen honoris &lt;in&gt; Scipione quoque Nasica oboritur: eius namque manibus et penatibus nondum quaestori senatus Pythii Apollinis monitu Pessinunte accersitam deam excipi uoluit, quia eodem oraculo praeceptum erat ut haec ministeria Matri deum a sanctissimo uiro praestarentur. explica totos fastos, constitue omnes currus triumphales, nihil tamen morum principatu speciosius reperies.
+8.15.3 Rarum specimen honoris <in> Scipione quoque Nasica oboritur: eius namque manibus et penatibus nondum quaestori senatus Pythii Apollinis monitu Pessinunte accersitam deam excipi uoluit, quia eodem oraculo praeceptum erat ut haec ministeria Matri deum a sanctissimo uiro praestarentur. explica totos fastos, constitue omnes currus triumphales, nihil tamen morum principatu speciosius reperies.
  
 
  
@@ -565,11 +565,11 @@ Valerius Maximus VIII
  
 
  
-8.15.8 Iam quae in Cn. Pompeium et ampla et noua congesta sunt, hinc adsensione fauoris, illinc fremitu inuidiae litterarum monumentis obstrepunt. eques Romanus pro consule in Hispaniam aduersus Sertorium pari imperio cum Pio Metello principe ciuitatis missus est. nondum ullum honorem &lt;curulem&gt; auspicatus bis triumphauit. initia magistratuum a summo imperio cepit. tertium consulatum decreto senatus solus gessit. de Mitridate et Tigrane, de multis praeterea regibus plurimisque ciuitatibus et gentibus et praedonibus unum duxit triumphum.
+8.15.8 Iam quae in Cn. Pompeium et ampla et noua congesta sunt, hinc adsensione fauoris, illinc fremitu inuidiae litterarum monumentis obstrepunt. eques Romanus pro consule in Hispaniam aduersus Sertorium pari imperio cum Pio Metello principe ciuitatis missus est. nondum ullum honorem <curulem> auspicatus bis triumphauit. initia magistratuum a summo imperio cepit. tertium consulatum decreto senatus solus gessit. de Mitridate et Tigrane, de multis praeterea regibus plurimisque ciuitatibus et gentibus et praedonibus unum duxit triumphum.
  
 
  
-8.15.9 Q. etiam Catulum populus Romanus uoce sua tantum non ad sidera usque euexit: nam cum ab eo pro rostris interrogaretur, si &lt;in&gt; uno Pompeio Magno omnia reponere perseuerasset, absumpto illo subiti casus incursu in quo spem esset habiturus, summo consensu adclamauit 'in te'. uim ho&lt;no&gt;rati iudicii admirabilem! si quidem magnum Pompeium cum omnibus ornamentis, quae retuli, duarum syllabarum spatio inclusum Catulo aequauit.
+8.15.9 Q. etiam Catulum populus Romanus uoce sua tantum non ad sidera usque euexit: nam cum ab eo pro rostris interrogaretur, si <in> uno Pompeio Magno omnia reponere perseuerasset, absumpto illo subiti casus incursu in quo spem esset habiturus, summo consensu adclamauit 'in te'. uim ho<no>rati iudicii admirabilem! si quidem magnum Pompeium cum omnibus ornamentis, quae retuli, duarum syllabarum spatio inclusum Catulo aequauit.
  
 
  
@@ -577,7 +577,7 @@ Valerius Maximus VIII
  
 
  
-8.15.11 Sed nescio an praecipuum L. Marci&lt;us&gt; inusitati decoris exemplum, quem equitem Romanum duo exercitus P. et Cn. Scipionum interitu uictoriaque Hannibalis lacerati ducem legerunt, quo tempore salus eorum in ultimas angustias deducta nullum ambitioni locum relinquebat.
+8.15.11 Sed nescio an praecipuum L. Marci<us> inusitati decoris exemplum, quem equitem Romanum duo exercitus P. et Cn. Scipionum interitu uictoriaque Hannibalis lacerati ducem legerunt, quo tempore salus eorum in ultimas angustias deducta nullum ambitioni locum relinquebat.
  
 
  
@@ -597,7 +597,7 @@ Valerius Maximus VIII
  
 
  
-8.15.ext.4 Berenices quoque non uulgaris honos, cui soli omnium feminarum gymnico spectaculo interesse permissum est, cum ad Olympia filium Euclea certamen ingressu&lt;rum&gt; adduxisset, olympionice patre genita, fratribus eandem palmam adsecutis latera eius cingentibus. partes suas plene exhibebat et defensionis praesidia inualida fide nitebantur et qui iudicabant ira perciti poenam hominis cupide expetebant. igitur uiator et carcer ante
+8.15.ext.4 Berenices quoque non uulgaris honos, cui soli omnium feminarum gymnico spectaculo interesse permissum est, cum ad Olympia filium Euclea certamen ingressu<rum> adduxisset, olympionice patre genita, fratribus eandem palmam adsecutis latera eius cingentibus. partes suas plene exhibebat et defensionis praesidia inualida fide nitebantur et qui iudicabant ira perciti poenam hominis cupide expetebant. igitur uiator et carcer ante
  
  
  

@@ -13,7 +13,7 @@ LIBER AD HONOREM AUGUSTI SIVE DE REBUS SICULIS
  
 
  
-&lt;INCIPIT LIBER PRIMUS&gt; 
+<INCIPIT LIBER PRIMUS> 
 Incipit prima primi regis Siciliae particula 
 Dux ubi Roggerius, Guiscardi clara propago, 
 Iam fastidiret nomen habere ducis, 
@@ -310,7 +310,7 @@ In quibus apparet Cesaris esse fides.
  
 
  
-P&lt;articula&gt; X.:Imperialis unctio 
+P<articula> X.:Imperialis unctio 
 Serta recepturus cum Cesar venit in urbem, 
   Exultat pompis inclita Roma novis. 
 Ad Petri devenit eques venerabile templum, 
@@ -529,7 +529,7 @@ Ut canis intcr apros furit, e quibus eligit unum,
 Ut rapit accipiter, quam legit inter aves, 
 Non aliter nostri vellunt ex hostibus unum; 
 Commixto rapiunt ordine sepe duos. 
-P&lt;articula&gt; XVII.: Legatorum exquisicio et principis infirmitas 
+P<articula> XVII.: Legatorum exquisicio et principis infirmitas 
 Principis interea veniens legatus in urbem, 
 Eligit e multa nobilitate viros, 
 Quos ad Neapolim mittit, qui multa timentes 
@@ -596,7 +596,7 @@ Quid facis, o Cesar? Quid frustra menia temptas ?
 Obnebulant socios regia dona tuos, 
 Qui falso remeare rogant, ne morbus in artus 
 Fortius insurgat, qui grave reddat iter. 
-P&lt;articula&gt; XIX.: Imperialis ab obsidione regressus 
+P<articula> XIX.: Imperialis ab obsidione regressus 
 Ut videt ere duces saturatos Cesar et aurum 
 Eructare suos, mens subit ista loqui: 
 "Qui fluvios nostros dudum siccastis Yberos, 
@@ -633,7 +633,7 @@ At Tancridini redeunt, rumoribus implent
 Urbem, de magno principe falsa ferunt: 
 Hic: "Obit!", ille: "Obiit!", "Calet!" hic, "Frigescit!" et ille 
 Asserit; incerto fluctuat ore fides. 
-P&lt;articula&gt; XX.:Fidei oblita religio 
+P<articula> XX.:Fidei oblita religio 
 Ut rude murmur apum fumoso murmurat antro, 
 Sic novus orbanda rumor in urbe sonat. 
 Hic tres, hac septem, bis sex ibi, quattuor illic 
@@ -663,10 +663,10 @@ Quam fore noctivolem garrula credit avem -
 Unguibus et rostris furit et movet aera pennis 
 Inque modum fabri flamina versat avis, 
 Hic ferit, ille salit, saliens sequiturque cadentem, 
-Versat &lt;ut&gt; inverso malleus ere vices -, 
+Versat <ut> inverso malleus ere vices -, 
 Sic furit in dominam gens ancillanda potentem, 
 Vertitur in lolium triste cremanda seges. 
-P&lt;articula&gt; XXI.: Imperialis populo resistenti loquutio 
+P<articula> XXI.: Imperialis populo resistenti loquutio 
 Ex hinc Teutonicus verbis respondet et armis: 
 Ospes in ignota dimicat orbe fides! 
 Illa tamen constans, ut erat de nomine constans, 
@@ -739,7 +739,7 @@ Rumpe polum, transmitte virum romphea geretem,
 Eruat ancillam, dissipet ora canum. 
 Alfa deus, deus O, genitor, genitura creatrix, 
 Quod precor, acceptes, Alfa deus, deus O." 
-P&lt;articula&gt; XXIII.: Oratio salutaris 
+P<articula> XXIII.: Oratio salutaris 
 "Ex oriente deus, Augusti dirige gressus, 
 Ut meus hinc Cesar te duce sospes eat. 
 Ex oriente deus, conserva Cesaris actus, 
@@ -775,7 +775,7 @@ Sic populus, sic rex: hic petit, ille iubet."
  
 
  
-&lt;Particula&gt; XXIV.: Domine coacta descensio 
+<Particula> XXIV.: Domine coacta descensio 
 At domine vultus, pallescere nescius unquam, 
 Inmodicum pallens, lumina crispat humo. 
 Nec mora pallor abit: proprii rediere colores. 
@@ -809,7 +809,7 @@ Fausta venit, navem scandit et illa volat.
  
 
  
-&lt;Particula&gt; XXV.: &lt;Domine adventus et loquutio ad Tancredum&gt; 
+<Particula> XXV.: <Domine adventus et loquutio ad Tancredum> 
 Et modo vela tument, modo brachia iacta resudant, 
 Attenuat ceptam remus et aura viam. 
 Suspectas, Palinure, tuas ratis effugit undas, 
@@ -836,7 +836,7 @@ Non tua regna peto, set patris iura requiro.
 An tu Rogerii filius ? Absit! Ego 
 Heres regis, ego matris iustissima proles; 
 Lex patris et matris dat michi, quicquid habes. 
-Regna tenes &lt;patris&gt; tamen, usurpata set illa; 
+Regna tenes <patris> tamen, usurpata set illa; 
 Vivit, inexperta qui petat ense suo. 
 Que leges, que iura tibi mea regna dederunt? 
 Nam Lichium vobis gratia sola dedit." 
@@ -845,7 +845,7 @@ Italicos mores inperiosa gerens.
  
 
  
-&lt;Particula&gt; XXVI.: &lt;Tancredus futura cogitans lacrimatur&gt; 
+<Particula> XXVI.: <Tancredus futura cogitans lacrimatur> 
 Ut videt Augustam Tancredus, gaudia vultu 
 Pro populo simulans, pectore tristis erat. 
 Ingreditur thalamum, foribus post terga reductis, 
@@ -879,7 +879,7 @@ Infelix pelago turba relicta sumus."
  
 
  
-&lt;Particula XXVII.: Corradus obsessus suos alloquitur&gt; 
+<Particula XXVII.: Corradus obsessus suos alloquitur> 
 Urbs antiqua, suis uberrima denique campis, 
 Mater opum, felix presule, plena viris. 
 Ubere luxuriat tellus, atumnus habundat, 
@@ -927,7 +927,7 @@ Preponit monstrum tam breve stulta Iovi.
  
 
  
-&lt;Particula XXVIII.:Comitis Riccardi proditio et Corradi deditio&gt; 
+<Particula XXVIII.:Comitis Riccardi proditio et Corradi deditio> 
 Interea comes ante fores preludit in armis, 
 Sinones multos novit in urbe viros. 
 Hen, subito patuere fores, foris obice fracto, 
@@ -975,7 +975,7 @@ Et nisi fata virum rapuissent [a] strage ruentis,
  
 
  
-&lt;Particula XXIX.: Tancredus mittit Constanciam uxori scribens ei&gt; 
+<Particula XXIX.: Tancredus mittit Constanciam uxori scribens ei> 
 Cor breve Tancredi merito diffidit ubique, 
 Tam sibi quam mundo credit abesse fidem. 
 Nunc mare, nunc terras animo scrutatur et urbes, 
@@ -1016,7 +1016,7 @@ Mittit Tancredo talia mota suo.
  
 
  
-&lt;Particula XXX.: Uxor Tancredi rescribit viro suo et Tancredus iterum rescribit ei&gt; 
+<Particula XXX.: Uxor Tancredi rescribit viro suo et Tancredus iterum rescribit ei> 
 Epistola uxoris ad Tancredum suum 
 "Quid facis, o demens ? Comitem misistis an hostem? 
 Ecce, quod exarsit, ius patris hostis habet. 
@@ -1050,7 +1050,7 @@ Consule, consiliis ipsa quiesce suis."
  
 
  
-&lt;Particula XXXI.: Uxor Tancredi et bigamus sacerdos&gt; 
+<Particula XXXI.: Uxor Tancredi et bigamus sacerdos> 
 Uxor Tancredi vocato suo cancellario de viro conqueritur 
 Nec mora Matheum tristis Cerrea vocavit, 
 Sic ait: "O veterum bibliotheca ducum, 
@@ -1088,15 +1088,15 @@ Hinc lapis hostiles, hinc vetat unda pedes.
 Qui nomen Salvator habet, quia credita salvat; 
 Tantaque sit tanto preda tenenda loco." 
 Cerree placuit nimium, quod dixerat ille; 
-Scribitur urbano pag&lt;ina&gt; parva viro: 
-"Hanc, Alierne comes, mu&lt;nito&gt; carcere serves: 
+Scribitur urbano pag<ina> parva viro: 
+"Hanc, Alierne comes, mu<nito> carcere serves: 
 Nil super hoc regi gracius esse putes." 
 Protinus Augustam, Cerrea precipiente, 
 Ad te, Parthenope, remus et aura vehit.
  
 
  
-&lt;Particula XXXII.: Scelera bigami&gt; 
+<Particula XXXII.: Scelera bigami> 
 Sic scelus eructat, scelerum sic fumat abyssus, 
 Thuraque mortiferi sulfuris olla vomit. 
 Sic vetus exalat fumum putredinis antrum, 
@@ -1144,7 +1144,7 @@ Trux veniet tandem, qui fuit ante pius.
  
 
  
-&lt;Particula XXXIII.: Epistula Celestini et liberatio Constancie&gt; 
+<Particula XXXIII.: Epistula Celestini et liberatio Constancie> 
 Temporis elapsu spacioque vagante dierum, 
 A Celestino littera missa fuit: 
 "Hec, Tancrede, tibi mando per numina celi, 
@@ -1186,7 +1186,7 @@ Quam tenet inclusam, tristis abire iubet.
  
 
  
-&lt;Particula XXXIV.: Rex Anglie captus, liber absolvitur&gt; 
+<Particula XXXIV.: Rex Anglie captus, liber absolvitur> 
 Cesaris ut fugeret leges tuus, Anglia, princeps, 
 Turpis ad obsequium turpe minister erat. 
 Quid prodest versare dapes, servire culine ? 
@@ -1232,7 +1232,7 @@ Imperio postquam iurans se subdidit, inquit:
  
 
  
-&lt;Particula XXXV.: Quando Dipuldus aggressus est&gt; 
+<Particula XXXV.: Quando Dipuldus aggressus est> 
 Interea Dipuldus ovans armenta capiscit; 
 Virtutis sequitur gratia diva virum. 
 Castra superba cremat, capit oppida, territat urbes, 
@@ -1273,7 +1273,7 @@ Explicit liber primus. Incipit liber secundus
  
 
  
-&lt;Particula XXXVI.: Stolium et exercitum imperator fieri iubet&gt; 
+<Particula XXXVI.: Stolium et exercitum imperator fieri iubet> 
 Ut pius armipotens fugat omnem letus eclipsin, 
 Reddit et Experios in sua iussa deos. 
 Imperat hinc puppes animosus ubique parari; 
@@ -1309,7 +1309,7 @@ Qui spuit in celum, polluit ora sui.
  
 
  
-&lt;Particula XXXVII.: Loquutio archilevite ad cives Salerni&gt;
+<Particula XXXVII.: Loquutio archilevite ad cives Salerni>
  
 
  
@@ -1343,7 +1343,7 @@ Que loquor; urbs vestra mane videbit idem."
  
 
  
-&lt;Particula XXXVIII.: Gesta Dipuldi&gt;
+<Particula XXXVIII.: Gesta Dipuldi>
  
 
  
@@ -1400,7 +1400,7 @@ Quod loquor, expertum Terra Laboris habet.
  
 
  
-&lt;Particula XXXIX.: Legatio Panormi&gt; 
+<Particula XXXIX.: Legatio Panormi> 
 Interea Cesar, superato Calabre toto, 
 Venit ad Insanas indubitanter Aquas. 
 Classibus expositis, furiosas transfretat undas, 
@@ -1434,7 +1434,7 @@ Urbem pacifico milite Cesar adit.
  
 
  
-&lt;Particula XL.: Sibille questus&gt; 
+<Particula XL.: Sibille questus> 
 Hec ubi Tancredi miseri miserabilis uxor 
 Respicit, ut glacies mane novella riget. 
 Menbra cruor, calor artus, spiritus ossa reliquit, 
@@ -1464,8 +1464,8 @@ Ei michi, quid prosunt, que tibi, Roma, dedi ?
 Thesauros exausta meos succurre relicte, 
 Auxilium perhibe, si potes, ipsa michi. 
 Cur tua carta virum tibi dantem dona fefellit ? 
-Hen, tuus &lt;egrotus&gt; regnat et arma tenet. 
-&lt;Mortuus&gt;, hen, vincit, tuus &lt;eger&gt; in urbe triumphat: 
+Hen, tuus <egrotus> regnat et arma tenet. 
+<Mortuus>, hen, vincit, tuus <eger> in urbe triumphat: 
 Sic tua decepit littera falsa virum. 
 Ei michi, nec tutum est Romane credere puppi, 
 Que, quas insequitur, has imitatur aquas. 
@@ -1482,7 +1482,7 @@ Plus prece quam telis Cesar habendus erit."
  
 
  
-&lt;Particula XLI.: Imperator occupat triumphans regiam&gt; 
+<Particula XLI.: Imperator occupat triumphans regiam> 
 Postquam questa sui lacrimabilis omina fati, 
 Ad Lichium veniam poscit itura suum. 
 Inpetrat et supplex nato veniamque nepoti. 
@@ -1515,7 +1515,7 @@ Terruerant, bello nec renuere mori.
  
 
  
-&lt;Particula XLII.: Coniuratio proditorum detegitur&gt; 
+<Particula XLII.: Coniuratio proditorum detegitur> 
 At deus, inpaciens fraudis scelerisque nefandi, 
 Puplicat in lucem, quod tegit archa nephas. 
 Nam nichil admittit felix fortuna sinistrum, 
@@ -1553,7 +1553,7 @@ In propriam redeunt Saxo, Boemus humum.
  
 
  
-&lt;Particula XLIII.: Frederici nativitas&gt; 
+<Particula XLIII.: Frederici nativitas> 
 Venit ab Experia nativi palma triumphi 
 Pernova, felicis signa parentis habens. 
 Duxerat in gemitum presentis secula vite, 
@@ -1591,7 +1591,7 @@ Terra suos geminos sicut Olimpus habet.
  
 
  
-&lt;Particula XLIV.: Frederici presagia&gt; 
+<Particula XLIV.: Frederici presagia> 
 Res rata, quam loquimur, quidam presentat Yberus 
 Piscem, qui nato Cesare dignus erat. 
 Quem puer accipiens, bene dispensante magistro, 
@@ -1628,11 +1628,11 @@ Vive diu, proavus factus ad astra voles.
  
 
  
-&lt;Particula XLV.: Corradi cancellarii loquutio ad proceres regni&gt; 
+<Particula XLV.: Corradi cancellarii loquutio ad proceres regni> 
 *** 
 Quos *** 
 Et que dictarat *** 
-Sit licet immanis commissi sarci&lt;na fraudis&gt;, 
+Sit licet immanis commissi sarci<na fraudis>, 
 Hec Augustali fit pietate minor. 
 Sic igitur servate fidem, ne sera cicatrix 
 Vulnus in antiquum rupta redire queat. 
@@ -1649,7 +1649,7 @@ Et gladius vindex, vivit et hasta potens.
  
 
  
-&lt;Particula XLVI.: Libellus ad Augustum inscribitur&gt; 
+<Particula XLVI.: Libellus ad Augustum inscribitur> 
 SOL AUGUSTORUM, 
 Qui regis ad placitum victor in axe rotas, 
 Fortunam tua dextra novam sibi condit ubique, 
@@ -1684,11 +1684,11 @@ SICILIAM repetens, Rome reget aurea sceptra.
 
  
 Testo definitivo 
-&lt;Explicit liber secundus&gt; 
+<Explicit liber secundus> 
 Incipit liber tercius ad honorem et gloriam magni imperatoris 
 
  
-&lt;Particula XLVII.: Sapientiam invocat poeta&gt; 
+<Particula XLVII.: Sapientiam invocat poeta> 
 Desine, Calliope; satis est memorasse, quod holim 
 Tityrus ad fagi tegmina duxit oves. 
 Desine tu, Pean, celeberrima, desine, Clio: 
@@ -1725,7 +1725,7 @@ Da michi cepta loqui, da ceptis fine potiri,
 Possit ut Augusto Musa placere suo. 
 
  
-&lt;Particula XLVIII.: Pax tempore Augusti&gt; 
+<Particula XLVIII.: Pax tempore Augusti> 
 Fortunata dies, felix post tempora tempus, 
 Que sextum sexto tempore cernit herum ! 
 O nimis etatis felicia tempora nostre, 
@@ -1763,7 +1763,7 @@ Unus sol, unus pastor et una fides.
  
 
  
-&lt;Particula XLIX.: Teatrum imperialis palacii&gt; 
+<Particula XLIX.: Teatrum imperialis palacii> 
 Dic, mea Musa, precor, genuit que nobilis alvus 
 Henricum, vel que dextra cubile dedit? 
 Que superum nutrix dedit ubera, quis dedit artes ? 
@@ -1801,7 +1801,7 @@ Delicias hominum, quas habet orbis, habes.
  
 
  
-&lt;Particula L.: Domus imperialis palacii&gt; 
+<Particula L.: Domus imperialis palacii> 
 In talamos sex una domus partitur, et horum 
 Prima creatoris regia scribit opus. 
 Illic in specie super undas diva columbe 
@@ -1839,7 +1839,7 @@ Nunquam fraudato cuspide versa fuit.
  
 
  
-&lt;Particula LI.: De septem artibus liberalibus&gt; 
+<Particula LI.: De septem artibus liberalibus> 
 Illic diva parens superum, Sapientia mater, 
 Uberis Henrico munera digna dabat. 
 Ipsa ministrantes septem conventa sorores, 
@@ -1877,7 +1877,7 @@ Hec os ore docet, pectore pectus alit.
  
 
  
-&lt;Particula LII.: Sapientia convicians Fortune&gt; 
+<Particula LII.: Sapientia convicians Fortune> 
 Inclita regales crispans Sapientia vultus 
 Aspera Fortune talia verba dedit: 
 "Sit tuus Andronicus, saturatus cede nepotis, 

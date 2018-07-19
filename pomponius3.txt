@@ -13,7 +13,7 @@ DE CHOROGRAPHIA LIBER TERTIUS
  
 
  
-[1] Dicta est ora Nostri maris, dictae insulae quas amplectitur. Restat ille circuitus quem &lt;ut> initio diximus cingit oceanus. Ingens infinitumque pelagus it magnis aestibus concitum, ita enim motus eius adpellant, modo inundat campos modo late nudat ac refugit, non alios aliosque invicem neque alternis accessibus nunc in hos nunc in illos toto impetu versum, sed ubi in omnia litora, quamvis diversa sint, terrarum insularumque ex medio pariter effusum est, rursus ab illis colligitur in medium et in semet ipsum redit, tanta vi semper inmissum, ut vasta etiam flumina retro agat, et aut terrestria deprehendat animalia aut marina destituat. 
+[1] Dicta est ora Nostri maris, dictae insulae quas amplectitur. Restat ille circuitus quem <ut> initio diximus cingit oceanus. Ingens infinitumque pelagus it magnis aestibus concitum, ita enim motus eius adpellant, modo inundat campos modo late nudat ac refugit, non alios aliosque invicem neque alternis accessibus nunc in hos nunc in illos toto impetu versum, sed ubi in omnia litora, quamvis diversa sint, terrarum insularumque ex medio pariter effusum est, rursus ab illis colligitur in medium et in semet ipsum redit, tanta vi semper inmissum, ut vasta etiam flumina retro agat, et aut terrestria deprehendat animalia aut marina destituat. 
  
 
  
@@ -189,7 +189,7 @@ DE CHOROGRAPHIA LIBER TERTIUS
  
 
  
-[43] Causas tamen bellorum et bella contrahunt ac se frequenter invicem infestant, maxime inperitandi cupidine studioque ea prolatandi quae possident. Dimicant non equitatu modo aut pedite, verum et bigis et curribus Gallice armatis: covinnos vocant, quorum falcatis axibus utuntur. super Britanniam Iuverna est paene par spatio, sed utrimque aequali tractu litorum oblonga, caeli ad maturanda semina iniqui, verum adeo luxuriosa herbis non laetis modo sed etiam dulcibus, ut se exigua parte diei pecora impleant, et nisi pabulo prohibeantur, diutius pasta dissiliant. Cultores eius inconditi sunt et omnium virtutium ignari &lt;magis> quam aliae gentes 
+[43] Causas tamen bellorum et bella contrahunt ac se frequenter invicem infestant, maxime inperitandi cupidine studioque ea prolatandi quae possident. Dimicant non equitatu modo aut pedite, verum et bigis et curribus Gallice armatis: covinnos vocant, quorum falcatis axibus utuntur. super Britanniam Iuverna est paene par spatio, sed utrimque aequali tractu litorum oblonga, caeli ad maturanda semina iniqui, verum adeo luxuriosa herbis non laetis modo sed etiam dulcibus, ut se exigua parte diei pecora impleant, et nisi pabulo prohibeantur, diutius pasta dissiliant. Cultores eius inconditi sunt et omnium virtutium ignari <magis> quam aliae gentes 
  
 
  
@@ -205,7 +205,7 @@ DE CHOROGRAPHIA LIBER TERTIUS
  
 
  
-[46] In his esse Oeonas, qui ovis avium palustrium et avenis tantum alantur, esse equinis pedibus Hippopodas et Panotios, quibus magnae aures et ad ambiendum corpus omne patulae - nudis alioquin - pro veste sint, praeterquam quod fabulis traditur, &lt;apud> auctores etiam - quos sequi non pigeat - invenio. 
+[46] In his esse Oeonas, qui ovis avium palustrium et avenis tantum alantur, esse equinis pedibus Hippopodas et Panotios, quibus magnae aures et ad ambiendum corpus omne patulae - nudis alioquin - pro veste sint, praeterquam quod fabulis traditur, <apud> auctores etiam - quos sequi non pigeat - invenio. 
  
 
  
@@ -253,7 +253,7 @@ DE CHOROGRAPHIA LIBER TERTIUS
  
 
  
-[58] Tamus promunturium est, quod Taurus adtollit, Colis alter &lt;Eo>ae partis angulus initiumque lateris ad meridiem versi, Ganges et Indus amnes. Ille multis fontibus in Haemode monte conceptus, simul unum alveum fecit, fit omnium maximus et alicubi latius, qua angustissime fluit decem milia passuum patens, in septem ora dispergitur. 
+[58] Tamus promunturium est, quod Taurus adtollit, Colis alter <Eo>ae partis angulus initiumque lateris ad meridiem versi, Ganges et Indus amnes. Ille multis fontibus in Haemode monte conceptus, simul unum alveum fecit, fit omnium maximus et alicubi latius, qua angustissime fluit decem milia passuum patens, in septem ora dispergitur. 
  
 
  
@@ -265,7 +265,7 @@ DE CHOROGRAPHIA LIBER TERTIUS
  
 
  
-[61] Contra Indi ostia illa sunt quae vocant Solis adeo inhabitabilia, ut ingressos vis circumfusi aeris exanimet confestim, et inter ipsa ostia Patalene regio, ob aestus intolerabilis alicubi cultoribus egens. &lt;Ariane> inde ad principia Rubri maris pertinet ipsa invia atque deserta; humus cineri magis fit quam pulveri similis, ideoque per eam rara et non grandia flumina emanant, quorum Tuberonem et Arusacen notissima accepimus. 
+[61] Contra Indi ostia illa sunt quae vocant Solis adeo inhabitabilia, ut ingressos vis circumfusi aeris exanimet confestim, et inter ipsa ostia Patalene regio, ob aestus intolerabilis alicubi cultoribus egens. <Ariane> inde ad principia Rubri maris pertinet ipsa invia atque deserta; humus cineri magis fit quam pulveri similis, ideoque per eam rara et non grandia flumina emanant, quorum Tuberonem et Arusacen notissima accepimus. 
  
 
  
@@ -277,7 +277,7 @@ DE CHOROGRAPHIA LIBER TERTIUS
  
 
  
-[64] Ab his quae diximus ad sinum Persicum, nisi ubi Chelonophagi morantur, deserta sunt. In ipso Carmanii &lt;in>navigantium dextera positi sine veste ac fruge, sine pecore ac sedibus piscium cute se velant, carne vescuntur, praeter capita toto corpore hirsuti. Interiora Cedrosi, dehinc Persae habitant. 
+[64] Ab his quae diximus ad sinum Persicum, nisi ubi Chelonophagi morantur, deserta sunt. In ipso Carmanii <in>navigantium dextera positi sine veste ac fruge, sine pecore ac sedibus piscium cute se velant, carne vescuntur, praeter capita toto corpore hirsuti. Interiora Cedrosi, dehinc Persae habitant. 
  
 
  
@@ -317,7 +317,7 @@ DE CHOROGRAPHIA LIBER TERTIUS
  
 
  
-[74] Aethiopes ultra sedent; Meroen habent terram, quam Nilus primo ambitu amplexus insulam facit: pars quia vitae spatium dimidio fere quam nos longius agunt Macrobii, pars quia ex Aegypto advenere dicti Automoles: pulchri forma et qui corporis viriumque veneratores &lt;sunt> veluti optimarum alii virtutium. 
+[74] Aethiopes ultra sedent; Meroen habent terram, quam Nilus primo ambitu amplexus insulam facit: pars quia vitae spatium dimidio fere quam nos longius agunt Macrobii, pars quia ex Aegypto advenere dicti Automoles: pulchri forma et qui corporis viriumque veneratores <sunt> veluti optimarum alii virtutium. 
  
 
  
@@ -353,15 +353,15 @@ DE CHOROGRAPHIA LIBER TERTIUS
  
 
  
-[82] Hoc Hanno rettulit et quia detracta occisis coria pertulerat, fides habita est. Vltra hunc sinum mons altus, ut Graeci vocant Theon &lt;ochema>, perpetuis ignibus flagrat. 
+[82] Hoc Hanno rettulit et quia detracta occisis coria pertulerat, fides habita est. Vltra hunc sinum mons altus, ut Graeci vocant Theon <ochema>, perpetuis ignibus flagrat. 
  
 
  
-[83] Vltra montem viret collis longo tractu longis litoribus obductus, unde visuntur patentes magis campi quam ut perspici possint &lt;Aegi>panum Satyrorumque. hinc opinio causae fidem cepit, quod cum in his nihil culti sit, nullae habitantium sedes, nulla vestigia, solitudo in diem vasta et silentium vastius, nocte crebri ignes micant et veluti castra late iacentia ostenduntur, crepant cymbala et tympana, audiunturque tibiae sonantes maius humanis. 
+[83] Vltra montem viret collis longo tractu longis litoribus obductus, unde visuntur patentes magis campi quam ut perspici possint <Aegi>panum Satyrorumque. hinc opinio causae fidem cepit, quod cum in his nihil culti sit, nullae habitantium sedes, nulla vestigia, solitudo in diem vasta et silentium vastius, nocte crebri ignes micant et veluti castra late iacentia ostenduntur, crepant cymbala et tympana, audiunturque tibiae sonantes maius humanis. 
  
 
  
-[84] Tunc rursus Aethiopes, nec iam dites quos diximus, nec ita corporibus similes, sed minores incultique sunt et nomine Hesperio&lt;e>. in horum finibus fons est quem Nili esse aliqua credibile est: Nuchul ab incolis dicitur, et videri potest non alio nomine adpellari sed a barbaro ore corruptus. Alit et &lt;pa>pyrum et minora quidem eiusdem tamen generis animalia. Aliis amnibus in oceanum vergentibus solus in mediam regionem et ad orientem abit, et quonam exeat, incertum est. Inde colligitur Nilum hoc fonte conceptum actumque aliquandiu per invia et ideo ignotum, iterum se ubi adiri possit ostendere; ceterum spatio quo absconditur effici, ut hic alio cedere, ille aliunde videatur exsurgere. 
+[84] Tunc rursus Aethiopes, nec iam dites quos diximus, nec ita corporibus similes, sed minores incultique sunt et nomine Hesperio<e>. in horum finibus fons est quem Nili esse aliqua credibile est: Nuchul ab incolis dicitur, et videri potest non alio nomine adpellari sed a barbaro ore corruptus. Alit et <pa>pyrum et minora quidem eiusdem tamen generis animalia. Aliis amnibus in oceanum vergentibus solus in mediam regionem et ad orientem abit, et quonam exeat, incertum est. Inde colligitur Nilum hoc fonte conceptum actumque aliquandiu per invia et ideo ignotum, iterum se ubi adiri possit ostendere; ceterum spatio quo absconditur effici, ut hic alio cedere, ille aliunde videatur exsurgere. 
  
 
  

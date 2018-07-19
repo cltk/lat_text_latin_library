@@ -330,7 +330,7 @@ Sub dispositione viri illustris magister peditum praesentalis:
   Legiones palatinae XII: 
    Ioviani seniores. 
    Herculiani seniores. 
- &nbsp  Divitenses seniores. 
+    Divitenses seniores. 
    Tongrecani seniores. 
    Pannoniciani seniores. 
    Moesiaci seniores. 
@@ -483,7 +483,7 @@ Sub dispositione viri illustris comitis et magistri equitum praesentalis:
    Equites Batavi seniores. 
    Equites cornuti seniores. 
    Equites cornuti iuniores. 
- &nbsp  Comites Alani. 
+    Comites Alani. 
    Equites Batavi iuniores. 
    Equites constantes Valentinianenses seniores. 
   Vexillationes comitatenses.....: 
@@ -1798,7 +1798,7 @@ Officium autem habet idem uir spectabilis dux hoc modo:
  
 In Italia: 
   In provincia Venetia inferiore: 
- &nbsp  Praefectus classis Venetum, Aquileiae. 
+    Praefectus classis Venetum, Aquileiae. 
   In provincia Flaminia: 
    Praefectus militum iuniorum Italicorum, Ravennae. 
    Praefectus classis Ravennatium cum curis eiusdem civitatis, Ravennae. 
