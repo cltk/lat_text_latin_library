@@ -39,11 +39,11 @@ uia et celeberrima maxime decipit. 3. Nihil ergo magis praestandum est
 quam ne pecorum ritu sequamur antecedentium gregem, pergentes non quo eundum
 est sed quo itur. Atqui nulla res nos maioribus malis inplicat quam quod
 ad rumorem componimur, optima rati ea quae magno adsensu recepta sunt,
-quodque exempla &lt;nobis pro> bonis multa sunt nec ad rationem sed ad
+quodque exempla <nobis pro> bonis multa sunt nec ad rationem sed ad
 similitudinem uiuimus. 4. Inde ista tanta coaceruatio aliorum super alios
 ruentium. Quod in strage hominum magna euenit, cum ipse se populus premit
-&#151; nemo ita cadit ut non et alium in se adtrahat, primique exitio sequentibus
-sunt &#151; hoc in omni uita accidere uideas licet. Nemo sibi tantummodo errat,
+— nemo ita cadit ut non et alium in se adtrahat, primique exitio sequentibus
+sunt — hoc in omni uita accidere uideas licet. Nemo sibi tantummodo errat,
 sed alieni erroris et causa et auctor est; nocet enim adplicari antecedentibus
 et, dum unusquisque mauult credere quam iudicare, numquam de uita iudicatur,
 semper creditur, uersatque nos et praecipitat traditus per manus error.
@@ -97,7 +97,7 @@ transimus, offensantes ea ipsa quae desideramus.
 
  
 2. Sed ne te per circumitus traham, aliorum quidem opiniones praeteribo
-&#151; nam et enumerare illas longum est et coarguere: nostram accipe. Nostram
+— nam et enumerare illas longum est et coarguere: nostram accipe. Nostram
 autem cum dico, non alligo me ad unum aliquem ex Stoicis proceribus: est
 et mihi censendi ius. Itaque aliquem sequar, aliquem iubebo sententiam
 diuidere, fortasse et post omnes citatus nihil inprobabo ex iis quae priores
@@ -242,8 +242,8 @@ hanc consulit. 2. Idem est ergo beate uiuere et secundum naturam. Hoc quid
 sit iam aperiam: si corporis dotes et apta naturae conseruarimus diligenter
 et inpauide tamquam in diem data et fugacia, si non subierimus eorum seruitutem
 nec nos aliena possederint, si corpori grata et aduenticia eo nobis loco
-fuerint quo sunt in castris auxilia et armaturae leues &#151; seruiant ista,
-non imperent &#151; ita demum utilia sunt menti. 3. Incorruptus uir sit externis
+fuerint quo sunt in castris auxilia et armaturae leues — seruiant ista,
+non imperent — ita demum utilia sunt menti. 3. Incorruptus uir sit externis
 et insuperabilis miratorque tantum sui,
  
 
@@ -257,8 +257,8 @@ artifex uitae; fiducia eius non sine scientia sit, scientia non sine constantia;
 maneant illi semel placita nec ulla in decretis eius litura sit. Intellegitur,
 etiam si non adiecero, compositum ordinatumque fore talem uirum et in iis
 quae aget cum comitate magnificum. ~erat uera. 4. Ratio uera~ sensibus
-inritata et capiens inde principia &#151; nec enim habet aliud unde conetur
-aut unde ad uerum impetum capiat &#151; in se reuertatur. Nam mundus quoque
+inritata et capiens inde principia — nec enim habet aliud unde conetur
+aut unde ad uerum impetum capiat — in se reuertatur. Nam mundus quoque
 cuncta complectens rectorque uniuersi deus in exteriora quidem tendit,
 sed tamen introsum undique in se redit. Idem nostra mens faciat: cum secuta
 sensus suos per illos se ad externa porrexerit, et illorum et sui potens
@@ -285,7 +285,7 @@ est, ideo propter hanc petitur; non enim hanc praestat, sed et hanc, nec
 huic laborat, sed labor eius, quamuis aliud petat, hoc quoque adsequetur.
 2. Sicut in aruo quod segeti proscissum est aliqui flores internascuntur,
 non tamen huic herbulae, quamuis delectet oculos, tantum operis insumptum
-est &#151; aliud fuit serenti propositum, hoc superuenit &#151; sic uoluptas non
+est — aliud fuit serenti propositum, hoc superuenit — sic uoluptas non
 est merces nec causa uirtutis sed accessio, nec quia delectat placet, sed,
 si placet, et delectat. 3. Summum bonum in ipso iudicio est et habitu optimae
 mentis, quae cum suum inpleuit et finibus se suis cinxit, consummatum est
@@ -311,7 +311,7 @@ animalibus nec bonum suum cibo metientibus. Clare, inquam, ac palam testor
 hanc uitam quam ego iucundam uoco non nisi adiecta uirtute contingere.'
 2. Atqui quis ignorat plenissimos esse uoluptatibus uestris stultissimos
 quosque et nequitiam abundare iucundis animumque ipsum genera uoluptatis
-praua et multa suggerere? &#151; in primis insolentiam et nimiam aestimationem
+praua et multa suggerere? — in primis insolentiam et nimiam aestimationem
 sui tumoremque elatum super ceteros et amorem rerum suarum caecum et inprouidum
 et ex minimis ac puerilibus causis exultationem, iam dicacitatem ac superbiam
 contumeliis gaudentem, desidiam dissolutionemque segnis animi, deliciis
@@ -378,7 +378,7 @@ et cum uirtute (audit enim uoluptatem separari a uirtute non posse); deinde
 uitiis suis sapientiam inscribit et abscondenda profitetur. 4. Itaque non
 ab Epicuro inpulsi luxuriantur, sed uitiis dediti luxuriam suam in philosophiae
 sinu abscondunt et eo concurrunt ubi audiant laudari uoluptatem. Nec aestimant
-uoluptas illa Epicuri &#151; ita enim mehercules sentio - quam sobria ac sicca
+uoluptas illa Epicuri — ita enim mehercules sentio - quam sobria ac sicca
 sit, sed ad nomen ipsum aduolant quaerentes libidinibus suis patrocinium
 aliquod ac uelamentum. 5. Itaque quod unum habebant in malis bonum perdunt,
 peccandi uerecundiam; laudant enim ea quibus erubescebant et uitio gloriantur;
@@ -392,8 +392,8 @@ quia honesta praecepta intra latent, quod corrumpit apparet.
  
 
  
-1. In ea quidem ipse sententia sum &#151; inuitis hoc nostris popularibus
-dicam &#151; sancta Epicurum et recta praecipere et si propius accesseris tristia;
+1. In ea quidem ipse sententia sum — inuitis hoc nostris popularibus
+dicam — sancta Epicurum et recta praecipere et si propius accesseris tristia;
 uoluptas enim illa ad paruum et exile reuocatur et quam nos uirtuti legem
 dicimus, eam ille dicit uoluptati. Iubet illam parere naturae; parum est
 autem luxuriae quod naturae satis est. 2. Quid ergo est? Ille, quisquis
@@ -439,7 +439,7 @@ illa, miseriores si obruuntur; sicut deprensi mari Syrtico modo in sicco
 relinquuntur, modo torrente unda fluctuantur. 2. Euenit autem hoc nimia
 intemperantia et amore caeco rei; nam mala pro bonis petenti periculosum
 est adsequi. Vt feras cum labore periculoque uenamur et captarum quoque
-illarum sollicita possessio est &#151; saepe enim laniant dominos &#151; ita habent
+illarum sollicita possessio est — saepe enim laniant dominos — ita habent
 se magnae uoluptates: in magnum malum euasere captaeque cepere; quae quo
 plures maioresque sunt, eo ille minor ac plurium seruus est quem felicem
 uulgus appellat. 3. Permanere libet in hac etiamnunc huius rei imagine.
@@ -518,7 +518,7 @@ non est nostrae potestatis. In regno nati sumus: deo parere libertas est.
  
 1. Ergo in uirtute posita est uera felicitas. Quid haec tibi uirtus
 suadebit? ne quid aut bonum aut malum existimes quod nec uirtute nec malitia
-continget; deinde ut sis inmobilis et contra malum &lt;et> ex bono, ut
+continget; deinde ut sis inmobilis et contra malum <et> ex bono, ut
 qua fas est deum effingas. 2. Quid tibi pro hac expeditione promittit?
 ingentia et aequa diuinis: nihil cogeris, nullo indigebis, liber eris,
 tutus indemnis; nihil frustra temptabis, nihil prohibeberis; omnia tibi
@@ -550,7 +550,7 @@ Cur arbores nihil praeter umbram daturae conseruntur? Quare uxor tua locupletis
 domus censum auribus gerit? Quare paedagogium pretiosa ueste succingitur?
 Quare ars est apud te ministrare nec temere et ut libet conlocatur argentum
 sed perite struitur et est aliquis scindendi obsonii magister?' Adice si
-uis: 'cur trans mare possides? Cur plura quam nosti? &lt;Cur> turpiter
+uis: 'cur trans mare possides? Cur plura quam nosti? <Cur> turpiter
 aut tam neglegens es ut non noueris pauculos seruos aut tam luxuriosus
 ut plures habeas quam quorum notitiae memoria sufficiat?' 3. Adiuuabo postmodo
 conuicia et plura mihi quam putas obiciam, nunc hoc respondeo tibi: non
@@ -560,7 +560,7 @@ aliquid ex uitiis meis demere et errores meos obiurgare. 4. Non perueni
 ad sanitatem, ne perueniam quidem; delenimenta magis quam remedia podagrae
 meae compono, contentus si rarius accedit et si minus uerminatur: uestris
 quidem pedibus comparatus, debiles, cursor sum. Haec non pro me loquor
-&#151; ego enim in alto uitiorum omnium sum &#151; sed pro illo cui aliquid acti
+— ego enim in alto uitiorum omnium sum — sed pro illo cui aliquid acti
 est.
  
 
@@ -572,7 +572,7 @@ est.
 1. 'Aliter' inquis 'loqueris, aliter uiuis.' Hoc, malignissima capita
 et optimo cuique inimicissima, Platoni obiectum est, obiectum Epicuro,
 obiectum Zenoni; omnes enim isti dicebant non quemadmodum ipsi uiuerent,
-sed quemadmodum esset &lt;et> ipsis uiuendum. De uirtute, non de me loquor,
+sed quemadmodum esset <et> ipsis uiuendum. De uirtute, non de me loquor,
 et cum uitiis conuicium facio, in primis meis facio: cum potuero, uiuam
 quomodo oportet. 2. Nec malignitas me ista multo ueneno tincta deterrebit
 ab optimis; ne uirus quidem istud quo alios spargitis, quo uos necatis,
@@ -615,8 +615,8 @@ Nam si illi qui uirtutem sequuntur auari libidinosi ambitiosique sunt,
 quid uos estis quibus ipsum nomen uirtutis odio est? 3. Negatis quemquam
 praestare quae loquitur nec ad exemplar orationis suae uiuere: quid mirum,
 cum loquantur fortia ingentia, omnis humanas tempestates euadentia? Cum
-refigere se crucibus conentur &#151; in quas unusquisque uestrum clauos suos
-ipse adigit &#151; ad supplicium tamen acti stipitibus singulis pendent: hi
+refigere se crucibus conentur — in quas unusquisque uestrum clauos suos
+ipse adigit — ad supplicium tamen acti stipitibus singulis pendent: hi
 qui in se ipsi animum aduertunt quot cupiditatibus tot crucibus distrahuntur.
 At maledici, in alienam contumeliam uenusti sunt. Crederem illis hoc uacare,
 nisi quidam ex patibulo suo spectatores conspuerent.
@@ -654,7 +654,7 @@ antequam roger, et honestis precibus occurram. Patriam meam esse mundum
 sciam et praesides deos, hos supra me circaque me stare factorum dictorumque
 censores. Quandoque aut natura spiritum repetet aut ratio dimittet, testatus
 exibo bonam me conscientiam amasse, bona studia, nullius per me libertatem
-deminutam, minime meam' &#151; qui haec facere proponet, uolet, temptabit,
+deminutam, minime meam' — qui haec facere proponet, uolet, temptabit,
 ad deos iter faciet, ne ille, etiam si non tenuerit, magnis tamen excidit ausis.
  
 
@@ -709,7 +709,7 @@ summam rei parua sunt [ait] et subduci sine ruina principalis boni possunt,
 adiciunt tamen aliquid ad perpetuam laetitiam et ex uirtute nascentem:
 sic illum adficiunt diuitiae et exhilarant ut nauigantem secundus et ferens
 uentus, ut dies bonus et in bruma ac frigore apricus locus. 4. Quis porro
-sapientium &#151; nostrorum dico, quibus unum est bonum uirtus &#151; negat etiam
+sapientium — nostrorum dico, quibus unum est bonum uirtus — negat etiam
 haec quae indifferentia uocamus habere aliquid in se pretii et alia aliis
 esse potiora? Quibusdam ex iis tribuitur aliquid honoris, quibusdam multum;
 ne erres itaque, inter potiora diuitiae sunt. 5. 'Quid ergo' inquis 'me
@@ -734,20 +734,20 @@ sint quae sua quisque dici uelit, nihil est quod quisquam suum possit dicere.
 2. Ille uero fortunae benignitatem a se non summouebit et patrimonio per
 honesta quaesito nec gloriabitur nec erubescet. Habebit tamen etiam quo
 glorietur, si aperta domo et admissa in res suas ciuitate poterit dicere
-'quod quisque agnouerit tollat.' O magnum uirum, &lt;o> optime diuitem,
+'quod quisque agnouerit tollat.' O magnum uirum, <o> optime diuitem,
 si post hanc uocem tantundem habuerit! Ita dico: si tuto et securus scrutationem
 populo praebuerit, si nihil quisquam apud illum inuenerit quoi manus iniciat,
 audaciter et propalam erit diues. 3. Sapiens nullum denarium intra limen
 suum admittet male intrantem; idem magnas opes, munus fortunae fructumque
 uirtutis, non repudiabit nec excludet. Quid enim est quare illis bono loco
-inuideat? ueniant, hospitentur. Nec iactabit illas nec abscondet &#151; alterum
+inuideat? ueniant, hospitentur. Nec iactabit illas nec abscondet — alterum
 infruniti animi est, alterum timidi et pusilli, uelut magnum bonum intra
-sinum continentis &#151; nec, ut dixi, eiciet illas e domo. 4. Quid enim dicet?
+sinum continentis — nec, ut dixi, eiciet illas e domo. 4. Quid enim dicet?
 utrumne 'inutiles estis' an 'ego uti diuitiis nescio'? Quemadmodum etiam
 pedibus suis poterit iter conficere, escendere tamen uehiculum malet, sic
 pauper [si] poterit esse, diues uolet. Habebit itaque opes, sed tamquam
 leues et auolaturas, nec ulli alii eas nec sibi graues esse patietur. 5.
-Donabit &#151; quid erexistis aures, quid expeditis sinum? &#151; donabit aut bonis
+Donabit — quid erexistis aures, quid expeditis sinum? — donabit aut bonis
 aut eis quos facere poterit bonos, donabit cum summo consilio dignissimos
 eligens, ut qui meminerit tam expensorum quam acceptorum rationem esse
 reddendam, donabit ex recta et probabili causa, nam inter turpes iacturas
@@ -804,12 +804,12 @@ fateor.
  
 1. Quid ergo sit quare illas non in bonis numerem, et quid praestem
 in illis aliud quam uos, quoniam inter utrosque conuenit habendas, audite.
-Pone in opulentissima me domo, pone &lt;ubi> aurum argentumque in promiscuo
+Pone in opulentissima me domo, pone <ubi> aurum argentumque in promiscuo
 usu sit: non suspiciam me ob ista quae, etiam si apud me, extra me tamen
 sunt. In Sublicium pontem me transfer et inter egentes abice: non ideo
 tamen me despiciam quod in illorum numero consedero qui manum ad stipem
 porrigunt. Quid enim ad rem an frustum panis desit cui non deest mori posse?
-Quid ergo est? domum illam splendidam malo quam pontem. 2. Pone &lt;in>
+Quid ergo est? domum illam splendidam malo quam pontem. 2. Pone <in>
 instrumentis splendentibus et delicato apparatu: nihilo me feliciorem credam
 quod mihi molle erit amiculum, quod purpura conuiuis meis substernetur.
 Muta stragula mea: nihilo miserius ero si lassa ceruix mea in maniculo
@@ -879,7 +879,7 @@ omnia illi sua relinquet; uiuit enim praesentibus laetus, futuri securus.
  
 
  
-4. 'Nihil magis' inquit ille Socrates aut aliquis alius cui idem &lt;adfectus>
+4. 'Nihil magis' inquit ille Socrates aut aliquis alius cui idem <adfectus>
 aduersus humana atque eadem potestas est 'persuasi mihi quam ne ad opiniones
 uestras actum uitae meae flecterem. Solita conferte undique uerba: non
 conuiciari uos putabo sed uagire uelut infantes miserrimos.' 5. Haec dicet

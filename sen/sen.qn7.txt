@@ -41,7 +41,7 @@ ad minuendos dies uertitur, quod ab aequinoctio statim inclinat
 et dat noctibus spatium, quod sidera abscondit, quod terras, 
 cum tanto maior sit illis, non urit sed calorem suum intensionibus 
 ac remissionibus temperando fouet, quod lunam numquam 
-implet nisi aduersam sibi nec obscurat &lt;nisi uicinam&gt;?
+implet nisi aduersam sibi nec obscurat <nisi uicinam>?
  
 
  
@@ -255,7 +255,7 @@ ferentes celsiorem petant partem et in editiora caeli aquilone pellantur.
  
 
  
-[7,3] &LT;at&GT; si illos aquilo propelleret, ad meridiem semper 
+[7,3] <at> si illos aquilo propelleret, ad meridiem semper 
 agerentur, quo uentus hic nititur: atqui uarie cucurrerunt, alii in 
 ortum, alii in occasum, omnes in flexum; quod iter non daret 
 uentus. Deinde si aquilonis illos impetus a terris in altum leuaret, 
@@ -352,7 +352,7 @@ apparuerunt?
 [10,2] Deinde duo debent esse motus eodem loco, alter 
 ille diuinus et assiduus, suum sine intermissione peragens opus, 
 alter nouus et recens et turbine illatus; necesse est ergo alter 
-alteri impedimentum sit. Atqui &lt;quia&gt; lunaris illa orbita 
+alteri impedimentum sit. Atqui <quia> lunaris illa orbita 
 ceterorumque supra lunam meantium motus irreuocabilis est nec 
 haesitat usquam nec resistit nec dat ullam nobis suspicionem 
 obiectae sibi morae, fidem non habet turbinem, uiolentissimum et 
@@ -380,7 +380,7 @@ frequentissime tamen circa septentrionem.
  
 
  
-[11,2] Forma eis, &lt;ut&gt; nomen, 
+[11,2] Forma eis, <ut> nomen, 
 est una: quamuis enim Graeci discrimina fecerint eorum quibus 
 in morem barbae flamma dependet, et eorum qui undique 
 circa se uelut comam spargunt, et eorum quibus fusus quidem est 
@@ -495,7 +495,7 @@ coaceruataeque fecerunt.
 [13,3] Huic proxima superficies ignea est, ita 
 compacta ut solui uitiarique non possit; habet tamen spiramenta 
 quaedam et quasi fenestras per quas ex parte exteriore mundi 
-influant ignes, non tam magni ut interiora conturbent, rursus&lt;que&gt; 
+influant ignes, non tam magni ut interiora conturbent, rursus<que> 
 ex mundo in exteriora labantur: itaque haec quae praeter 
 consuetudinem apparent, influxerunt ex illa ultra mundum 
 iacente materia.
@@ -556,7 +556,7 @@ solis aequabunt.
 [15,2] Attalo regnante initio cometes modicus 
 apparuit, deinde sustulit se diffuditque et usque in aequinoctialem 
 circulum uenit, ita ut illam plagam caeli, cui lactea nomen 
-est, in immensum extentus aequaret. Quid ergo? &lt;Quot>&gt; 
+est, in immensum extentus aequaret. Quid ergo? <Quot>> 
 conuenisse debent erralicae, ut tam longum caeli tractum 
 occuparent igne continuo?
  
@@ -613,8 +613,8 @@ Ueneris Genetricis circa undecimam horam diei emersit.
 dispares magnitudine, dissimiles colore: 
 aliis rubor est sine ulla luce, aliis candor et purum liquidumque 
 lumen, aliis flamma et haec non sincera nec tenuis sed multum 
-circa se uoluens fumidi ardoris; cruenti quidam minaces&LT;que&GT;, 
-qui&LT;a&GT; omen post se futuri sanguinis ferunt. Hi minuunt 
+circa se uoluens fumidi ardoris; cruenti quidam minaces<que>, 
+qui<a> omen post se futuri sanguinis ferunt. Hi minuunt 
 augentque lumen suum quemadmodum alia sidera, quae clariora 
 cum descendere sunt maioraque, quia ex loco propiore uisuntur, 
 minora cum redeunt et obscuriora, quia abducunt se longius.

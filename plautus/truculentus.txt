@@ -100,7 +100,7 @@ temptat benignusne an bonae frugi sies:
 quasi in piscinam rete qui iaculum parat,  35 
 quando abiit rete pessum, adducit lineam; 
 si inierit rete piscis, ne effugiat cavet: 
-dum huc dum illuc rete &lt;circumv>or&lt;tit>, impedit 
+dum huc dum illuc rete <circumv>or<tit>, impedit 
 piscis usque adeo donicum eduxit foras. 
 itidem si amator id quod oratur dedit   
 40 
@@ -110,14 +110,14 @@ si semel amoris poculum accepit meri
 eaque intra pectus se penetravit potio, 
 extemplo et ipsus periit et res et fides.  45 
 si iratum scortumst forte amatori suo, 
-bis perit amator, ab re atque &lt;ab> animo simul; 
+bis perit amator, ab re atque <ab> animo simul; 
 sin alter altri propitiust, idem perit: 
 si raras noctes ducit, ab animo perit; 
 sin crebras ducit, ipsus gaudet, res perit. 50 
 ~iteca in aedibus lenosis~     
 50a 
 prius quam unum dederis, centum quae poscat parat: 
-aut periit aurum aut conscissa pallula &lt;est> 
+aut periit aurum aut conscissa pallula <est> 
 aut empta ancilla aut aliquod vasum argenteum 
 aut vasum ahenum antiquom aut lectus ~laptiles 
 aut armariola Graeca, aut aliquid semper est  
@@ -135,7 +135,7 @@ et minus damnosorum hominum quam nunc sunt siet.
 nam nunc lenonum et scortorum plus est fere, 
 quam olim muscarum est cum caletur maxime. 65 
 nam nusquam alibi si sunt, circum argentarias 
-scorta &lt;et> lenones qui sedent cottidie, 
+scorta <et> lenones qui sedent cottidie, 
 ea nimia est ratio; quippe qui certo scio, 
 ibi plus scortorum esse iam quam ponderum. 
 quos quidem quam ad rem dicam in argentariis  70 
@@ -271,11 +271,11 @@ rapere otiose oportuit, diu ut essem incolumis vobis.
  AST. Quam primum expugnari potis [est], tam id optimum est amicae. 
  DIN. Ego fateor, sed longe aliter est amicus atque amator: 
 certe hercle quam veterrimus, tam homini optimust amicus. 
-&lt; AST. Si vivit. DIN. > Non hercle occidi, sunt mi etiam
+< AST. Si vivit. DIN. > Non hercle occidi, sunt mi etiam
 fundi et aedis. 
  AST. Cur, obsecro, ergo ante ostium pro ignoto alienoque astas?   
 175 
-&lt;i> intro, haud alienus tu quidem es; nam ecastor neminem hodie 
+<i> intro, haud alienus tu quidem es; nam ecastor neminem hodie 
 mage amat corde atque animo suo, si quidem habes fundum atque aedis. 
  DIN. In melle sunt linguae sitae vostrae atque orationes, 
 facta atque corda in felle sunt sita atque acerbo aceto: 
@@ -295,7 +295,7 @@ per tempus subvenistis. sed quid ais, Astaphium? AST. Quid vis?
 quidem intus. 
  DIN. Valetne? AST. Immo edepol melius iam fore spero,
 te ubi videbit. 
- DIN. Hoc nobis vitium maxumumst, cum amamus tum &lt;hoc> perimus:  
+ DIN. Hoc nobis vitium maxumumst, cum amamus tum <hoc> perimus:  
 190 
 si illud quod volumus dicitur, palam cum mentiuntur, 
 verum esse insciti credimus, ne ut iusta utamur ira. 
@@ -321,7 +321,7 @@ domum ad te; 205
 nam tu quidem edepol noster es etiam nunc, Diniarche. 
  DIN. Quam mox te huc recipis? AST. Iam hic ero: propest,
 profecta quo sum. 
- DIN. Redi vero actutum. ego interim hic apud vos opperibor.&#151;
+ DIN. Redi vero actutum. ego interim hic apud vos opperibor.—
  
 
  
@@ -468,14 +468,14 @@ munerandis rem coegit, verum parsimonia
 duritiaque: quae nunc ad vos clam exportantur, pessumae; 
 ea vos estis exunguimini ebibitis. egone haec mussitem? 
 iam quidem hercle ibo ad forum atque haec facta narrabo seni, 
-neque istuc insegesti tergo coget examen mali.&#151; 
+neque istuc insegesti tergo coget examen mali.— 
  AST. Si ecastor hic homo sinapi victitet, non censeam  
 315 
 tam esse tristem posse. at pol ero benevolens visust suo. 
 verum ego illum, quamquam violentust, spero inmutari pote 
 blandimentis, oramentis, ceteris meretriciis; 
 vidi equom ex indomito domitum fieri atque alias beluas. 
-nunc ad eram revidebo. &lt;sed> eccum odium progreditur meum. 320 
+nunc ad eram revidebo. <sed> eccum odium progreditur meum. 320 
 tristis exit. haud convenit etiam hic dum Phronesium.
  
 
@@ -488,15 +488,15 @@ omnes amantes balneatores sient.
 325 
  AST. Non quis parumper durare opperirier? 
  DIN. Quin hercle lassus iam sum durando miser: 
-mihi quoque prae lassitudine opus est &lt;ut> lavem. 
-sed obsecro hercle, Astaphium, &lt;i> intro ac nuntia 
+mihi quoque prae lassitudine opus est <ut> lavem. 
+sed obsecro hercle, Astaphium, <i> intro ac nuntia 
 me adesse, ut properet suade, iam ut satis laverit.   
 330 
  A. Licet. D. Audin etiam? A. Quid vis? D. 
 Di me perduint, 
 qui te revocavi. non tibi dicebam 'i' modo? 
  AST. Quidnam revocabas? improbu's nihilique homo: 
-tute tibi mille passum peperisti moram.&#151; 
+tute tibi mille passum peperisti moram.— 
  DIN. Sed quid haec hic autem tam diu ante aedis stetit? 
 335 
 nescio quem praestolata est; credo, militem. 
@@ -512,7 +512,7 @@ verum nunc si qua mi obtigerit hereditas
 magna atque luculenta, nunc postquam scio 345 
 dulce atque amarum quid sit ex pecunia, 
 ita ego illam edepol servem itaque parce victitem, 
-ut &#151; nulla faxim cis dies paucos siet; 
+ut — nulla faxim cis dies paucos siet; 
 ego istos, qui nunc me culpant, confutaverim. 
 sed aestuosas sentio aperiri fores,   
 350 
@@ -549,7 +549,7 @@ quia tui videndi copia est. PHRON. Complectere.
 hoc tuis fortunis, Iuppiter, praestant meae. 
  PHRON. Dan savium? DIN. Immo vel decem. PHRON. 
 Em istoc pauper es: 
-&lt;semper> plus pollicere quam ego abs te postulo. 
+<semper> plus pollicere quam ego abs te postulo. 
  DIN. Vtinam a principio rei item parsisses meae   
 375 
 ut nunc reparcis saviis. PHRON. Si quid tibi 
@@ -557,7 +557,7 @@ compendi facere possim, factum edepol velim.
  DIN. Iam lauta es? PHRON. Iam pol mihi quidem atque oculis
 meis. 
 num tibi sordere videor? DIN. Non pol mihi quidem; 
-verum tempestas, memini, quondam &lt;etiam> fuit,  
+verum tempestas, memini, quondam <etiam> fuit,  
 380 
 cum inter nos sordebamus alter de altero. 
 sed quid ego facinus audivi adveniens tuom, 
@@ -579,7 +579,7 @@ sed quid istuc? cui rei te adsimulare retulit?
 reversionem ut ad me faceret denuo. 
 nunc huc remisit nuper ad me epistulam, 
 sese experturum quanti sese penderem: 
-si quod peperissem id &lt;non> necarem ac tollerem, 
+si quod peperissem id <non> necarem ac tollerem, 
 bona sua med habiturum omnia [esse]. DIN. Ausculto lubens. 400 
 quid denique agitis? PHRON. Mater ancillas iubet, 
 quoniam iam decimus mensis adventat prope, 
@@ -618,7 +618,7 @@ ubi quippiam me poscis. PHRON. At ego, ubi abstuli.
 430 
 ut cuius me non paeniteat mittatur mihi. 
  DIN. Num quippiam aliud me vis? PHRON. Vt quando otium 
-tibi sit ad me revisas, &lt;et> valeas &#151; DIN. Vale. 
+tibi sit ad me revisas, <et> valeas — DIN. Vale. 
 pro di immortales, non amantis mulieris, 
 sed sociae unanimantis, fidentis fuit    
 435 
@@ -631,10 +631,10 @@ egone illam ut non amem? egone illi ut non bene velim?
 me potius non amabo quam huic desit amor. 
 ego isti non munus mittam? iam ~ modo ex hoc loco 
 iubebo ad istam quinque deferri minas, 
-praeterea obsonari &lt;una> dumtaxat mina.  
+praeterea obsonari <una> dumtaxat mina.  
 445 
 multo illi potius bene erit quae bene volt mihi, 
-quam mihi, qui mihimet omnia facio mala.&#151; 
+quam mihi, qui mihimet omnia facio mala.— 
 
  
  II.v 
@@ -643,20 +643,20 @@ matres sollicitaeque ex animo sumus cruciamurque!
 449-450 
 edepol commentum male, cumque eam rem in corde agito,  
 451 
-nimio &#151; minus perhibemur malae quam sumus ingenio. 
+nimio — minus perhibemur malae quam sumus ingenio. 
 ego prima de me, domo docta, dico. 
 quanta est cura in animo, quantum corde capio 454-455 
-dolorem &#151; dolus ne occidat morte pueri:  456 
+dolorem — dolus ne occidat morte pueri:  456 
 mater dicta quod sum, eo magis studeo vitae; 
-quae ausa hunc sum, tantundem dolum &lt;nunc> adgrediar. 
+quae ausa hunc sum, tantundem dolum <nunc> adgrediar. 
 lucri causa avara probrum sum exsecuta, 
 alienos dolores mihi supposivi;   
 460 
-&lt;sed> nullam rem oportet dolose adgrediri, 
+<sed> nullam rem oportet dolose adgrediri, 
 nisi astu totam accurateque exsequare. 
 vosmet iam videtis, ut ornata incedo: 
 puerperio ego nunc med esse aegram adsimulo. 
-male quod mulier facere incepit, nisi &lt;id> efficere perpetrat, 
+male quod mulier facere incepit, nisi <id> efficere perpetrat, 
 465 
 id illi morbo, id illi seniost, ea illi miserae miseriast; 
 bene si facere incepit, eius rei nimis cito odium percipit. 
@@ -687,7 +687,7 @@ scio ego multos memoravisse milites mendacium:
 et Homeronida et postilla mille memorari pote,   
 485 
 qui et convicti et condemnati falsis de pugnis sient. 
-non laudandust cui plus credit qui audit quam &lt;ille> qui videt: 
+non laudandust cui plus credit qui audit quam <ille> qui videt: 
 [non placet quem illi plus laudant qui audiunt, quam qui vident.] 
 pluris est oculatus testis unus quam auriti decem; 
 qui audiunt audita dicunt, qui vident plane sciunt.  
@@ -710,7 +710,7 @@ cui adhuc ego tam mala eram monetrix, me maleficio vinceres?
 Volo. 
  S. Euge, Astaphium eccam it mi advorsum. A. Salve ecastor,
 Stratophanes. 
-[venire] salvom &lt;te> &#151; STRAT. Scio. sed peperitne, opsecro,
+[venire] salvom <te> — STRAT. Scio. sed peperitne, opsecro,
 Phronesium? 
  AST. Peperit puerum nimium lepidum. STRAT. Ehem, ecquid
 mei similest?  505 
@@ -758,12 +758,12 @@ quin examen super adducas, quae mihi comedint cibum?
 535 
 mea voluptas, attuli eccam pallulam ex Phrygia tibi. 
 tene tibi. PHRON. Hocine mi ob labores tantos tantillum dari? 
- STRAT. Perii hercle &lt;ego> miser. iam &lt;mi> auro contra
+ STRAT. Perii hercle <ego> miser. iam <mi> auro contra
 constat filius: 
 ~etiam num mali pendit addit purpuram. ex Arabia tibi 
 attuli tus, Ponto amomum. tene tibi, voluptas mea.   
 540 
- PHRON. Accipe hoc, &lt;Astaphium,> abduce hasce hinc e conspectu
+ PHRON. Accipe hoc, <Astaphium,> abduce hasce hinc e conspectu
 Suras. 
  S. Ecquid amas me? PH. Nihil ecastor, neque meres. S. 
 Nilne huic sat est? 
@@ -774,7 +774,7 @@ vehementer nunc mi est irata, sentio atque intellego;
 verum abibo. quid ais? nunc tu num nevis me, voluptas mea, 
 quo vocatus sum ire ad cenam? mox huc cubitum venero. 
 quid taces? planissume edepol perii. sed quid illuc novi est? 
-quis &lt;hic> homost, qui ducit pompam tantam? certumst quo ferant 
+quis <hic> homost, qui ducit pompam tantam? certumst quo ferant 
 observare. huic credo fertur. verum iam scibo magis.   
 550 
 
@@ -788,7 +788,7 @@ nam hoc qui sciam, ne quis id quaerat ex me,
 domist qui facit improba facta amator,    
 555 
 qui bona sua pro stercore habet, foras iubet ferri, metuit 
-&lt;ne> apud nos &lt;non> mundissimum sit; 
+<ne> apud nos <non> mundissimum sit; 
 puras sibi esse volt aedis: domi quidquid habet, eicitur exo. 
 quandoquidem ipsus perditum se it, secreto hercle equidem eum adiutabo, 
 neque mea quidem opera umquam hilo minus propere quam pote peribit.  
@@ -802,12 +802,12 @@ nam hoc in mare abit misereque perit sine bona omni gratia.
 haec cum video fieri, suffuror suppilo, 
 de praeda praedam capio. 
 meretricem ego item esse reor, mare ut est: 
-quod des devorat &lt;nec dat>is umquam abundat. 
-hoc saltem: &lt;rem> servat nec ulli ubi sit apparet:  
+quod des devorat <nec dat>is umquam abundat. 
+hoc saltem: <rem> servat nec ulli ubi sit apparet:  
 570 
 des quantumvis, nusquam apparet, neque datori neque acceptrici. 
 velut haec meretrix meum erum miserum sua blanditia 
-&lt;paene> intulit in pauperiem: 
+<paene> intulit in pauperiem: 
 privabit bonis, luce, honore atque amicis. 
 attat, eccam adest propinque. credo audisse haec me loqui. 575 
 pallida est, ut peperit puerum. adloquar quasi nesciam. 
@@ -818,26 +818,26 @@ erus meus, ocellus tuos, ad te ferre me haec iussit tibi
 dona quae vides illos ferre, et has quinque argenti minas. 580 
  PHRON. Pol haud perit quod illum tantum amo. 
  CYAM. Iussit orare, ut haec grata haberes tibi. 
- PH. Grata acceptaque ecastor habeo. iube &lt;vasa> auferri intro,
+ PH. Grata acceptaque ecastor habeo. iube <vasa> auferri intro,
 i Cyame. 
- AST. Ecquid auditis, haec quae iam &lt;Cyamo> imperat? 
+ AST. Ecquid auditis, haec quae iam <Cyamo> imperat? 
  CYAM. Vasa nolo auferant: desiccari iube.   
 585 
  A. Impudens mecastor, Cyame, es. C. Egone? A. 
 Tu. C. Bona fide? 
 tune ais me impudentem esse, ipsa quae sis stabulum flagiti? 
  PHRON. Dic, amabo te, ubi est Diniarchus? CYAM. Domi. 
- PHRON. Dic ob haec dona, quae ad me &lt;hodie> miserit, 
+ PHRON. Dic ob haec dona, quae ad me <hodie> miserit, 
 me illum amare plurimum omnium hominum merito,  
 590 
 meque honorem illi habere omnium maxumum, 
-atque ut huc veniat &lt;ad me> obsecrare. CYAM. Ilicet. 
+atque ut huc veniat <ad me> obsecrare. CYAM. Ilicet. 
 sed quisnam illic homost, qui ipsus se comest, tristis, oculis malis? 
 animo hercle homost suo miser, 
 quisquis est. PHRON. Dignust mecastor. nequam est. non nosti,
 obsecro, 595 
-militem, hic apud me &lt;qui> erat? huius pater pueri illic est. 
-usque abegi, aspuli, iussi abi&lt;ret; tamen> 
+militem, hic apud me <qui> erat? huius pater pueri illic est. 
+usque abegi, aspuli, iussi abi<ret; tamen> 
 mansit: auscultat, observat quam rem agam. C. Novi hominem nihili. 
 illicinest? PHRON. Illic est. CYAM. Me intuetur gemens; 
 traxit ex intimo ventre suspiritum.  600 
@@ -857,14 +857,14 @@ holerum atque escarum et poscarum, moechum malacum, cincinnatum,
 609-610 
 umbraticulum, tympanotribam amas, hominem non nauci? C. Quae
 haec res? 611 
-meone [ero tu], improbe tu, male dicere &lt;ero> audes, fons viti et
+meone [ero tu], improbe tu, male dicere <ero> audes, fons viti et
 peiuri? 
  S. Verbum unum adde istoc: iam hercle ego te hic hac offatim
 conficiam. 
- C. Tange modo, iam ego &lt;te> hic agnum faciam et medium distruncabo. 
+ C. Tange modo, iam ego <te> hic agnum faciam et medium distruncabo. 
 si tu in legione bellator clues, at ego in culina clueo.     
 615 
- PH. Si aequom facias, adventores meos &lt;non> incuses, quorum 
+ PH. Si aequom facias, adventores meos <non> incuses, quorum 
 mihi dona accepta et grata habeo, tuaque ingrata, quae abs te accepi. 
  S. Tum pol ego et donis privatus sum et perii. PH. Plane
 istuc est. 
@@ -878,11 +878,11 @@ quid tibi hanc notio est, inquam, amicam meam?
 emoriere ocius, ni manu viceris. 
  CYAM. Quid, manu vicerim? STRAT. Fac quod iussi, mane. 
 625 
-iam ego te hic offatim conficiam, &lt;sic> occidi te optumum est. 
+iam ego te hic offatim conficiam, <sic> occidi te optumum est. 
  CYAM. Captiost: istam machaeram longiorem habes quam haec est. 
-sed verum &lt;me> sine dum petere: siquidem belligerandum est tecum, 
+sed verum <me> sine dum petere: siquidem belligerandum est tecum, 
 adero, dum ego tecum, bellator, arbitrum aequom ceperim. 
-sed ego cesso hinc me amoliri, ventre dum salvo licet? &#151;  
+sed ego cesso hinc me amoliri, ventre dum salvo licet? —  
 630 
 
  
@@ -902,7 +902,7 @@ postquam filiolum peperit, animos sustulit.
 nunc quasi mi dicat: nec te iubeo neque voto 
 intro ire in aedis. at ego nolo, non eo. 
 ego faxo dicat me in diebus pauculis 
-crudum virum esse. sequere me hac. verbum sat est. &#151;
+crudum virum esse. sequere me hac. verbum sat est. —
  
 
  
@@ -934,10 +934,10 @@ post id locorum matrem. nunc hoc deferam
 argentum ad hanc, quam mage amo quam matrem meam. 
 tat, ecquis intust? ecquis hoc aperit ostium? 
  ASTAPHIVM Quid istuc? alienun es, amabo, mi Strabax, 664-665 
-qui non extemplo &lt;intro> ieris? STRAB. Anne oportuit?  
+qui non extemplo <intro> ieris? STRAB. Anne oportuit?  
 666 
  AST. Ita te quidem, qui es familiaris. STRAB. Ibitur, 
-ne me morari censeas. AST. Lepide facis. &#151; 
+ne me morari censeas. AST. Lepide facis. — 
 
  
  III.ii 
@@ -946,14 +946,14 @@ Strabacem non rediisse; nisi si clanculum  670
 conlapsus est hic in corruptelam suam. 
  AST. Iam pol illic inclamabit me si aspexerit. 
  TRVC. Nimio minus saevos iam sum, Astaphium, quam fui, 
-iam non &lt;ego> sum truculentus, noli metuere. 
- AST. Quid vis? qui&lt;d metuam>? tuam expecto truculentiam.
+iam non <ego> sum truculentus, noli metuere. 
+ AST. Quid vis? qui<d metuam>? tuam expecto truculentiam.
 675 
  TRVC. Dic impera mihi quid libet quo vis modo. 
 novos omnis mores habeo, veteres perdidi. 
 vel amare possum vel iam scortum ducere. 
  AST. Lepide mecastor nuntias. sed dic mihi, 
-haben &#151; TRVC. Marsipum te fortasse dicere?  
+haben — TRVC. Marsipum te fortasse dicere?  
 680 
  AST. Intellexisti lepide quid ego dicerem. 
  STRAT. Heus tu, iam postquam in urbem crebro commeo, 
@@ -977,7 +977,7 @@ eu edepol hominem nihili. AST. Iamne autem ut soles?
 695 
  STRAT. Iamne nihil dico? AST. I intro, amabo, cedo manum. 
  STRAT. Tene. in tabernam ducor devorsoriam, 
-ubi male accipiar mea mihi pecunia.&#151;
+ubi male accipiar mea mihi pecunia.—
  
 
  
@@ -989,7 +989,7 @@ ubi male accipiar mea mihi pecunia.&#151;
  
  IV.i 
  DINIARCHVS Neque gnatust neque progignetur neque potest reperirier 
-cui ego nunc &lt;aut> dictum aut factum melius quam Veneri velim.   
+cui ego nunc <aut> dictum aut factum melius quam Veneri velim.   
 700 
 di magni, *** ut ego laetus sum et laetitia differor. 
 ita ad me magna nuntiavit Cyamus hodie gaudia: 
@@ -1029,9 +1029,9 @@ intus bolos quos dat! DIN. Quid? amator novos quispiam?
 est?  725 
  AST. Eloquar, sed tu taceto. nostin tu hunc Strabacem? DIN. 
 Quidni? 
- AST. Solus summam &lt;nunc> habet hic apud nos, nunc is est
+ AST. Solus summam <nunc> habet hic apud nos, nunc is est
 fundus nobis. 
-animo bono male &lt;rem> gerit. DIN. Perit hercle, ego idem
+animo bono male <rem> gerit. DIN. Perit hercle, ego idem
 *** 
 bona perdidi, mala repperi, factus sum extimus a vobis. 
  AST. Stultus es, qui facta infecta facere verbis postules.  
@@ -1048,7 +1048,7 @@ litteras didicisti: quando scis, sine alios discere.
  AST. Quid erit interea magistrae, dum tu commentabere? 
 volt [interim] illa itidem commentari. D. Quid? A. Rem
 accipere identidem. 
- DIN. Dedi equidem hodie: &lt;iussi> ei quinque argenti deferri
+ DIN. Dedi equidem hodie: <iussi> ei quinque argenti deferri
 minas, 
 praeterea una mina obsonatum. AST. Idem istuc delatum scio.  
 740 
@@ -1061,25 +1061,25 @@ mihi inimicos invidere, quam med inimicis meis;
 743 
 nam invidere alii bene esse, tibi male esse, miseria est. 
 qui invident egent; illis quibus invidetur, i rem habent. 
- DIN. Non &lt;mei> licet obsoni me participem fieri?  
+ DIN. Non <mei> licet obsoni me participem fieri?  
 747 
  AST. Si volebas participari, auferres dimidium domum. 
-nam item ut Acherunti hic &lt;apud nos> ratio accepti scribitur: 
+nam item ut Acherunti hic <apud nos> ratio accepti scribitur: 
 intro accipitur; quando acceptumst, non potest ferri foras.    
 750 
 bene vale. D. Resiste. A. Omitte. D. A, mitte
 intro. A. Ad te quidem. 
- DIN. Immo istoc ad vos &lt;volo> ire. AST. Non potest,
+ DIN. Immo istoc ad vos <volo> ire. AST. Non potest,
 nimium petis. 
- DIN. Experiri [sine] &#151; AST. Immo opperire. vis est experirier. 
+ DIN. Experiri [sine] — AST. Immo opperire. vis est experirier. 
  DIN. Dic me adesse. AST. Abi, occupatast. res itast,
 ne frustra sis. 
  D. Redin an non redis? A. Vocat me quae in me potest
 plus quam potes. 755 
- D. Vno verbo &#151; A. Eloquere. D. Mittin me intro?
+ D. Vno verbo — A. Eloquere. D. Mittin me intro?
  A. 
 Mendax es, abi. 
-unum aiebas, tria iam dixti verba, atque &lt;ea> mendacia.&#151; 
+unum aiebas, tria iam dixti verba, atque <ea> mendacia.— 
  DIN. Abiit intro, exclusit. egon ut haec mihi patiar fieri? 
 iam hercle ego tibi, inlecebra, ludos faciam clamore in via, 
 quae adversum legem accepisti a plurimis pecuniam;  
@@ -1087,7 +1087,7 @@ quae adversum legem accepisti a plurimis pecuniam;
 iam hercle apud novos omnis magistratus faxo erit nomen tuom, 
 post id ego te manum iniciam quadrupuli, venefica, 
 suppostrix puerum. ego edepol iam tua probra aperibo omnia. 
-nihil me &lt;prohibet,> perdidi omne quod fuit: fio impudens, 
+nihil me <prohibet,> perdidi omne quod fuit: fio impudens, 
 nec mi adeost tantillum pensi iam, quos capiam calceos.  
 765 
 sed quid ego hic clamo? quid si me iubeat intromittier? 
@@ -1118,12 +1118,12 @@ nisi si ad tintinnaculos voltis vos educi viros.
  CALL. At si verum mi eritis fassae, vinclis exsolvemini. 
  DIN. Etiamnum quid sit negoti, falsus incertusque sum,  
 785 
-nisi quia timeo tamen, egomet &lt;quia> quod peccavi scio. 
- CALL. Omnium primum diversae state &#151; em sic, istuc volo; 
+nisi quia timeo tamen, egomet <quia> quod peccavi scio. 
+ CALL. Omnium primum diversae state — em sic, istuc volo; 
 neve inter vos significetis, ego ero paries. loquere tu. 
  ANC. Quid loquar? CALL. Quid puero factumst, mea quem
 peperit filia, 
-meo nepote? capita rerum &lt;ede> expedite. ANC. Istae dedi.  
+meo nepote? capita rerum <ede> expedite. ANC. Istae dedi.  
 790 
  CALL. Iam tace. accepistin puerum tu ab hac? TONSTRIX 
 Accepi. CALL. Tace. 
@@ -1136,7 +1136,7 @@ mea nunc facinora aperiuntur, clam quae speravi fore.
 maior mea. 
 [ CALL. Quid tu, cur eum accepisti? TON. Era med oravit
 minor, 
-puer ut &lt;sibi> ferretur eaque ut celarentur omnia.] 
+puer ut <sibi> ferretur eaque ut celarentur omnia.] 
  C. Loquere tu. quid eo fecisti puero? T. Ad meam eram
 detuli. 
  CALL. Quid eo puero tua era fecit? TON. Erae meae extemplo
@@ -1147,7 +1147,7 @@ ex te exquiro. TON. Mater, inquam, filiae dono dedit.
  C. Plus quam dudum [inqua] loquere. T. Plus tu rogitas.
  C. 
 Responde ocius: 
-quid illa cui donatus &lt;puer> est? T. Supposivit. C. 
+quid illa cui donatus <puer> est? T. Supposivit. C. 
 Cui? T. Sibi. 
  CALL. Pro filiolon? T. Pro filiolo. C. Di, obsecro
 vostram fidem, 805 
@@ -1165,7 +1165,7 @@ vir erat, plus valebat: vicit, quod petebat abstulit.
  ANC. Idem istuc ipsa, etsi tu taceas, reapse experta intellego. 
 815 
  CALL. Numquam te facere hodie quivi, ut is quis esset diceres. 
- ANC. Tacui adhuc: nunc &lt;non> tacebo, quando adest nec se
+ ANC. Tacui adhuc: nunc <non> tacebo, quando adest nec se
 indicat. 
  DIN. Lapideus sum, commovere me miser non audeo. 
 res palam omnis est, meo illic nunc sunt capiti comitia. 
@@ -1173,7 +1173,7 @@ meum illuc facinus, mea stultitia est. timeo, quam mox nominer.
 820 
  CALL. Loquere, filiam meam quis integram stupraverit. 
  ANC. Video ego te, propter male facta qui es patronus parieti. 
- DIN. Neque vivos neque mortuos sum, ne&lt;que> quid nunc faciam
+ DIN. Neque vivos neque mortuos sum, ne<que> quid nunc faciam
 scio, 
 neque ut hinc abeam neque ut hunc adeam scio, timore torpeo. 
  CALL. Dicin an non? ANC. Diniarchus, quoi illam prius
@@ -1182,11 +1182,11 @@ desponderas. 825
 tua obsecro 
 genua te, ut istuc insipienter factum sapienter feras, 
 mihique ignoscas quod animi impos vini vitio fecerim. 
- CALL. Non placet &lt;qui> in mutum culpam confert, &lt;qui non>
+ CALL. Non placet <qui> in mutum culpam confert, <qui non>
 quit loqui. 
 nam vinum si fabulari possit, se defenderet.   
 830 
-non vinum &lt;viris> moderari, sed viri vino solent, 
+non vinum <viris> moderari, sed viri vino solent, 
 qui quidem probi sunt; verum qui improbust si quasi bibit 
 sive adeo caret temeto, tamen ab ingenio improbust. 
  DIN. Scio equidem quae nolo multa mi audienda ob noxiam. 
@@ -1208,7 +1208,7 @@ sex talenta magna dotis demam pro ista inscitia.
 repetere. 
 ceterum uxorem quam primum potest abduce ex aedibus. 
 ego abeo. iam illi remittam nuntium adfini meo, 
-dicam ut aliam condicionem filio inveniat suo.&#151; 
+dicam ut aliam condicionem filio inveniat suo.— 
  DIN. At ego ab hac puerum reposcam, ne mox infitias eat;  
 850 
 nihil est, nam eapse ultro ut factumst fecit omnem rem palam. 
@@ -1224,11 +1224,11 @@ si alia membra vino madeant, cor sit saltem sobrium.
 855 
 nam mihi dividiaest, [in] tonstricem meam sic convictam male. 
 ea dixit, eum Diniarchi puerum inventum filium. 
-ubi id audivi, quam &lt;ego propere potui egressa huc sum foras. 
+ubi id audivi, quam <ego propere potui egressa huc sum foras. 
  DIN. Lubet adire> quam penes est mea omnis res et liberi.  
 858a 
  PHRON. Video eccum qui suis tutorem med optavit liberis. 
- DIN. Mulier, ad &lt;te> sum profectus. PH. Quid agitur,
+ DIN. Mulier, ad <te> sum profectus. PH. Quid agitur,
 voluptas mea? 
  DIN. Non voluptas, aufer nugas, nil ego nunc de istac re ago. 
  PHRON. Scio mecastor quid velis et quid postules et quid petas: 
@@ -1237,16 +1237,16 @@ me videre vis, [et me] te a me ire postulas, puerum petis.
  PHRON. Scio equidem sponsam tibi esse et filium ex sponsa tua 
 865 
 et tibi uxorem ducendam, [iam] esse alibi iam animum tuom 
-et &lt;me> quasi pro derelicta: scio, abituru's. sed tamen 
+et <me> quasi pro derelicta: scio, abituru's. sed tamen 
 cogitato, mus pusillus quam sit sapiens bestia, 
-aetatem qui non cubili &lt;uni> umquam committit suam, 
-quin, si unum obsideatur, aliud &lt;iam> perfugium &lt;ele>gerit.  
+aetatem qui non cubili <uni> umquam committit suam, 
+quin, si unum obsideatur, aliud <iam> perfugium <ele>gerit.  
 870 
  DIN. Otium ubi erit, de istis rebus tum amplius tecum loquar. 
 nunc puerum redde. PHRON. Immo amabo ut hos dies aliquos sinas 
 eum esse apud me. DIN. Minime. PHRON. Amabo. DIN. 
-Quid opus &lt;est>? 
-  PHRON. In rem meam &lt;est>. 
+Quid opus <est>? 
+  PHRON. In rem meam <est>. 
 triduom hoc saltem, dum aliquo miles circumducitur, 
 sine me habere: siquidem habebo, tibi quoque etiam proderit;  
 875 
@@ -1256,24 +1256,24 @@ nunc puero utere et procura, quando quor cures habes.
  PH. Multum amo te ob istam rem mecastor. ubi domi metues malum, 
 fugito huc ad me: saltem amicus mi esto ~ manubinarius.     
 880 
- D. Bene vale, Phronesium. PH. &lt;An non et>iam tuom
+ D. Bene vale, Phronesium. PH. <An non et>iam tuom
 oculum vocas? 
  DIN. Id quoque interim ~ futatim nomen commemorabitur. 
 numquid vis? PH. Fac valeas. D. Operae ubi mi erit, ad
-te venero.&#151; 
+te venero.— 
  PHRON. Ille quidem hinc abiit, abscessit. dicere hic quidvis
 licet. 
-verum est verbum quod memoratur: ubi amici ibidem &lt;sunt> opes.  
+verum est verbum quod memoratur: ubi amici ibidem <sunt> opes.  
 885 
 propter hunc spes etiamst hodie ~ tantum iri militem; 
 quem ego ecastor mage amo quam me, dum id quod cupio inde aufero. 
-quae cum multum abstulimus, hau multum &lt;eius> apparet quod datum
+quae cum multum abstulimus, hau multum <eius> apparet quod datum
 est: 
 ita sunt gloriae meretricum. ASTAPHIVM Aha tace. PHRON. 
 Quid est, obsecro? 
- A. &lt;Pater> adest pueri. PH. Sine eumpse adire huc.
+ A. <Pater> adest pueri. PH. Sine eumpse adire huc.
 sine, si is est modo.  890 
- A. &lt;Ipsus est>. PH. Sine eumpse adire, ut cupit, ad
+ A. <Ipsus est>. PH. Sine eumpse adire, ut cupit, ad
 me. A. Rectam tenet. 
  PHRON. Ne istum ecastor hodie aspiciam confectum fallaciis.
  
@@ -1291,8 +1291,8 @@ meam:
 ut illud acceptum sit, prius quod perdidi, hoc addam insuper. 
 sed quid video? eram atque ancillam ante aedis. adeundae haec mihi.   
 895 
-quid hic vos agitis? PH. Ne me appella &lt;quaeso>. S. 
-&lt;Aha> nimium saeviter. 
+quid hic vos agitis? PH. Ne me appella <quaeso>. S. 
+<Aha> nimium saeviter. 
  PH. Potine ut mihi molestus ne sis? ST. Ecquid, Astaphium,
 litiumst? 
  A. Merito ecastor tibi succenset. PH. Egon, atque isti
@@ -1301,12 +1301,12 @@ male volo. STRAT. Ego, mea voluptas, si quid peccavi prius,
 supplicium ad te hanc minam fero auri. si minus credis, respice.   
 900 
  PHRON. Manus vetat prius quam penes sese habeat quicquam credere. 
-puero opust cibo, opus est matri autem, &lt;opus est> quae puerum lavit, 
+puero opust cibo, opus est matri autem, <opus est> quae puerum lavit, 
 opus nutrici, lact ut habeat, veteris vini largiter 
 ut dies noctesque potet, opust ligno, opust carbonibus, 
 fasciis opus est, pulvinis, cunis, incunabulis,     
 905 
-oleo &lt;opust>, opus est farina, porro opus est totum diem: 
+oleo <opust>, opus est farina, porro opus est totum diem: 
 numquam hoc uno die efficiatur opus, quin opus semper siet; 
 non enim possunt militares pueri ~ etauio exducier. 
  STRAT. Respice ergo, accipe hoc, qui istuc efficias opus. 
@@ -1323,10 +1323,10 @@ neque ruri neque hic operis quicquam facio, corrumpor situ,
 915 
 ita miser cubando in lecto hic expectando obdurui. 
 sed eccam video. heus amica, quid agis? [mille]. STRAT. Quis
-illic &lt;est> homo? 
+illic <est> homo? 
  PHRON. Quem ego ecastor mage amo quam te. *** STRAT. 
 Quam me? quo modo? 
- PHRON. Hoc modo, ut molestus ne sis. STRAT. Iam&lt;ne>
+ PHRON. Hoc modo, ut molestus ne sis. STRAT. Iam<ne>
 abis, postquam aurum habes? 
  PHRON. Condidi intro quod dedisti. STRAB. Ades, amica,
 te adloquor.   920 
@@ -1335,28 +1335,28 @@ vero serio,
 quamquam ego tibi videor stultus, gaudere aliqui me volo; 
 nam quamquam tu es bella, malo tuo, nisi ego aliqui gaudeo. 
  PH. Vin te amplectar, savium dem? STRAB. Quidvis face
-&lt;qui> gaudeam. 
+<qui> gaudeam. 
  STRAT. Meosne ante oculos ego illam patiar alios amplexarier?    
 925 
 mortuom hercle me hodie satiust. apstine hoc, mulier, manum, 
 nisi si te mea manu ~ ui in machaera et hunc vis mori. 
  PHRON. Nil halapari satiust, miles, si te amari postulas; 
-auro, hau ferro deterrere potes, &lt;hunc> ne amem, Stratophanes. 
+auro, hau ferro deterrere potes, <hunc> ne amem, Stratophanes. 
  STRAT. Qui, malum, bella aut faceta es, quae ames hominem isti
 modi? 930 
  PH. Venitne in mentem tibi quod verbum in cavea dixit histrio: 
 omnes homines ad suom quaestum callent et fastidiunt. 
  STRAT. Huncine hominem te amplexari tam horridum ac tam squalidum? 
- PH. Quamquam hic squalet, quam&lt;quam&gt; hic horret, scitus &lt;et&gt;
+ PH. Quamquam hic squalet, quam<quam> hic horret, scitus <et>
 bellust mihi. 
- STRAT. Dedin ego aurum &#151; PHRON. Mihi? dedisti filio
+ STRAT. Dedin ego aurum — PHRON. Mihi? dedisti filio
 cibaria.  935 
 nunc, si hanc tecum esse speras, alia opust auri mina. 
  STRAB. Malam rem is et magnam magno opere, serva tibi viaticum. 
  STRAT. Quid isti debes? PHRON. Tria. STRAT. Quae
 tria nam? PHRON. 
   Vnguenta, noctem, savium. 
- STRAT. Par pari respondet. verum nunc saltem, &lt;et>si &lt;istunc>
+ STRAT. Par pari respondet. verum nunc saltem, <et>si <istunc>
 amas, 
 dan tu mihi de tuis deliciis ~ sum quicquid pauxillulum?     
 940 
@@ -1365,7 +1365,7 @@ dan tu mihi de tuis deliciis ~ sum quicquid pauxillulum?
 cave faxis volnus tibi iam cui sunt dentes ferrei. 
  STRAB. Volgo ad se omnis intromittit. STRAT. Abstine
 istac tu manum. 
- STRAB. Iam hercle cum magno &lt;malo> tu vapula vir strenuos.  
+ STRAB. Iam hercle cum magno <malo> tu vapula vir strenuos.  
 945 
  STRAT. Dedi ego huic aurum. STRAB. At ego argentum. STRAT. 
 ~eat apale puram. 
@@ -1377,17 +1377,17 @@ meliust te minis certare mecum quam minaciis.
  STRAT. Age prior prompta aliquid. STRAB. Immo tu prior
 perde et peri. 
  STRAT. Em tibi talentum argenti. ~Philippices est, tene tibi. 
- PHRON. Tanto melior, noster esto &#151; sed de vostro vivito. 
+ PHRON. Tanto melior, noster esto — sed de vostro vivito. 
  STRAT. Vbi est quod tu das? solve zonam, provocator. quid times? 
- STRAB. Tu peregrinu's, hic &lt;ego> habito: non cum zona ego
+ STRAB. Tu peregrinu's, hic <ego> habito: non cum zona ego
 ambulo: 955 
 pecua ad hanc collo in crumina ego obligata defero. 
 quid dedi! ut discinxi hominem. STRAB. Immo ego vero, qui dedi. 
- PHRON. I intro, amabo, i, tu eris mecum; &lt;tum> tu eris mecum
+ PHRON. I intro, amabo, i, tu eris mecum; <tum> tu eris mecum
 quidem. 
- STRAT. Quid tu? quid ais? cum hocin &lt;eris>? ego &lt;ero>
+ STRAT. Quid tu? quid ais? cum hocin <eris>? ego <ero>
 posterior, qui dedi? 
- PHRON. Tu dedisti iam, &lt;hic> daturust: ictuc habeo, hoc expeto.  
+ PHRON. Tu dedisti iam, <hic> daturust: ictuc habeo, hoc expeto.  
 960 
 verum utrique mos geratur amborum ex sententia. 
  STRAT. Fiat. ut rem gnatam video, hoc accipiundumst quod datur. 

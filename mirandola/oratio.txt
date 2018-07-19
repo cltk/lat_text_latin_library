@@ -12,7 +12,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 1. 
+ § 1. 
  
 
  
@@ -23,12 +23,12 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
-  2. Cui sententiae illud Mercurii adstipulatur: &laquo;Magnum, o
-  Asclepi, miraculum est homo&raquo;.
+  2. Cui sententiae illud Mercurii adstipulatur: «Magnum, o
+  Asclepi, miraculum est homo».
  
 
  
- &sect; 2. 
+ § 2. 
  
 
  
@@ -43,7 +43,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 3. 
+ § 3. 
  
 
  
@@ -78,7 +78,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 4. 
+ § 4. 
  
 
  
@@ -125,7 +125,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 5 
+ § 5 
  
 
  
@@ -135,7 +135,7 @@ Pico della Mirandola: Oratio de hominis dignitate
 
  
   18. Igitur hominem accepit indiscretae opus imaginis atque in
-  mundi positum meditullio sic est alloquutus: &laquo;Nec certam sedem,
+  mundi positum meditullio sic est alloquutus: «Nec certam sedem,
   nec propriam faciem, nec munus ullum peculiare tibi dedimus, o
   Adam, ut quam sedem, quam faciem, quae munera tute optaveris,
   ea, pro voto, pro tua sententia, habeas et possideas.
@@ -165,11 +165,11 @@ Pico della Mirandola: Oratio de hominis dignitate
 
  
   23. Poteris in inferiora quae sunt bruta degenerare; poteris in
-  superiora quae sunt divina ex tui animi sententia regenerari&raquo;.
+  superiora quae sunt divina ex tui animi sententia regenerari».
  
 
  
- &sect; 6. 
+ § 6. 
  
 
  
@@ -215,7 +215,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 7. 
+ § 7. 
  
 
  
@@ -238,7 +238,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 8. 
+ § 8. 
  
 
  
@@ -284,7 +284,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 9. 
+ § 9. 
  
 
  
@@ -312,7 +312,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 10. 
+ § 10. 
  
 
  
@@ -327,8 +327,8 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
-  49. Sed illud potius Asaph prophetae: &laquo;Dii estis et filii
-  Excelsi omnes&raquo;, ne, abutentes indulgentissima Patris
+  49. Sed illud potius Asaph prophetae: «Dii estis et filii
+  Excelsi omnes», ne, abutentes indulgentissima Patris
   liberalitate, quam dedit ille liberam optionem, e salutari
   noxiam faciamus nobis.
  
@@ -356,7 +356,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 11. 
+ § 11. 
  
 
  
@@ -420,7 +420,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 12. 
+ § 12. 
  
 
  
@@ -471,7 +471,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 13. 
+ § 13. 
  
 
  
@@ -489,7 +489,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 14. 
+ § 14. 
  
 
  
@@ -510,7 +510,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 15. 
+ § 15. 
  
 
  
@@ -571,15 +571,15 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 16. 
+ § 16. 
  
 
  
   88. Percontemur et iustum Iob, qui fedus iniit cum Deo vitae
   prius quam ipse ederetur in vitam quid summus Deus in decem
   illis centenis millibus qui assistunt ei, potissimum desideret:
-  pacem utique respondebit, iuxta id quod apud eum legitur: &laquo;Qui
-  facit pacem in excelsis&raquo;.
+  pacem utique respondebit, iuxta id quod apud eum legitur: «Qui
+  facit pacem in excelsis».
  
 
  
@@ -601,7 +601,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 17. 
+ § 17. 
  
 
  
@@ -651,13 +651,13 @@ Pico della Mirandola: Oratio de hominis dignitate
 
  
   99. Ad illam ipsa et viam monstrabit et comes ducet, quae
-  procul nos videns properantes: &laquo;Venite, inclamabit, ad me qui
+  procul nos videns properantes: «Venite, inclamabit, ad me qui
   laborastis; venite et ego reficiam vos; venite ad me et
-  dabo vobis pacem quam mundus et natura vobis dare non possunt&raquo;.
+  dabo vobis pacem quam mundus et natura vobis dare non possunt».
  
 
  
- &sect; 18. 
+ § 18. 
  
 
  
@@ -701,7 +701,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 19. 
+ § 19. 
  
 
  
@@ -712,7 +712,7 @@ Pico della Mirandola: Oratio de hominis dignitate
 
  
   105. Audiemus venerandum iudicem nobis in deserta huius
-  corporis solitudine habitantibus leges sic edicentem: &laquo;Qui
+  corporis solitudine habitantibus leges sic edicentem: «Qui
   polluti adhuc morali indigent, cum plebe habitent extra
   tabernaculum sub divo, quasi Thessali sacerdotes interim se
   expiantes.
@@ -731,7 +731,7 @@ Pico della Mirandola: Oratio de hominis dignitate
   elementa, in philosophiae sacerdotio contemplentur, ut postremo
   per theologicae sublimitatis merita in templi adita recepti,
   nullo imaginis intercedente velo, divinitatis gloria
-  perfruantur&raquo;.
+  perfruantur».
  
 
  
@@ -741,7 +741,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 20. 
+ § 20. 
  
 
  
@@ -820,7 +820,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 21. 
+ § 21. 
  
 
  
@@ -865,7 +865,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 22. 
+ § 22. 
  
 
  
@@ -928,7 +928,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 23. 
+ § 23. 
  
 
  
@@ -945,13 +945,13 @@ Pico della Mirandola: Oratio de hominis dignitate
 
  
   138. Percunctantibus eum discipulis quo pacto alis bene
-  plumantibus volucres animos sortirentur: &laquo;Irrigetis, dixit,
-  alas aquis vitae&raquo;.
+  plumantibus volucres animos sortirentur: «Irrigetis, dixit,
+  alas aquis vitae».
  
 
  
   139. Iterum sciscitantibus unde has aquas peterent, sic per
-  parabolam (qui erat hominis mos) illis respondit: &laquo;Quatuor
+  parabolam (qui erat hominis mos) illis respondit: «Quatuor
   amnibus paradisus Dei abluitur et irrigatur.
  
 
@@ -963,7 +963,7 @@ Pico della Mirandola: Oratio de hominis dignitate
   141. Nomen ei qui ab aquilone [Pischon], quod rectum denotat,
   ei qui ab occasu [Gichon], quod expiationem significat, ei qui
   ab ortu [Chiddekel], quod lumen sonat, ei qui a meridie
-  [Perath], quod nos pietatem interpretari possumus&raquo;.
+  [Perath], quod nos pietatem interpretari possumus».
  
 
  
@@ -1021,7 +1021,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 24. 
+ § 24. 
  
 
  
@@ -1065,7 +1065,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 25. 
+ § 25. 
  
 
  
@@ -1106,7 +1106,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 26. 
+ § 26. 
  
 
  
@@ -1162,7 +1162,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 27. 
+ § 27. 
  
 
  
@@ -1203,7 +1203,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 28. 
+ § 28. 
  
 
  
@@ -1221,8 +1221,8 @@ Pico della Mirandola: Oratio de hominis dignitate
 
  
   175. Forte et illud Iob afferre possem spiritum esse, spiritum
-  esse in omnibus, et cum Timotheo audire: &laquo;Nemo contemnat
-  adolescientiam tuam&raquo;.
+  esse in omnibus, et cum Timotheo audire: «Nemo contemnat
+  adolescientiam tuam».
  
 
  
@@ -1262,7 +1262,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 29. 
+ § 29. 
  
 
  
@@ -1297,8 +1297,8 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
-  187. Quin et iuxta poetam: &laquo;Si deficiunt vires, audacia certe
-  laus erit: in magnis et voluisse sat est&raquo;.
+  187. Quin et iuxta poetam: «Si deficiunt vires, audacia certe
+  laus erit: in magnis et voluisse sat est».
  
 
  
@@ -1310,7 +1310,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 30 
+ § 30 
  
 
  
@@ -1369,7 +1369,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 31. 
+ § 31. 
  
 
  
@@ -1414,7 +1414,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 32. 
+ § 32. 
  
 
  
@@ -1481,7 +1481,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 33. 
+ § 33. 
  
 
  
@@ -1494,7 +1494,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 34. 
+ § 34. 
  
 
  
@@ -1529,7 +1529,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 35. 
+ § 35. 
  
 
  
@@ -1554,7 +1554,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 36. 
+ § 36. 
  
 
  
@@ -1577,7 +1577,7 @@ Pico della Mirandola: Oratio de hominis dignitate
 
  
   223. Querens item, cur homo animal sapientissimum? Respondet:
-  &laquo;Quia numerare novit&raquo;.
+  «Quia numerare novit».
  
 
  
@@ -1606,7 +1606,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 37. 
+ § 37. 
  
 
  
@@ -1688,7 +1688,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 38. 
+ § 38. 
  
 
  
@@ -1771,8 +1771,8 @@ Pico della Mirandola: Oratio de hominis dignitate
   magis quam assidua contemplatio mirabilium Dei, quae ut per
   hanc de qua agimus naturalem magiam bene exploraverimus, in
   opificis cultum amoremque ardentius animati illud canere
-  compellemur: &laquo;Pleni sunt caeli, plena est omnis terra maiestate
-  gloriae tuae&raquo;.
+  compellemur: «Pleni sunt caeli, plena est omnis terra maiestate
+  gloriae tuae».
  
 
  
@@ -1782,7 +1782,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 39. 
+ § 39. 
  
 
  
@@ -1797,7 +1797,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 40. 
+ § 40. 
  
 
  
@@ -1827,7 +1827,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 41. 
+ § 41. 
  
 
  
@@ -1853,9 +1853,9 @@ Pico della Mirandola: Oratio de hominis dignitate
 
  
   263. Plato Dionisio quaedam de supremis scribens substantiis:
-  &laquo;Per enigmata, inquit, dicendum est, ne si epistola forte ad
+  «Per enigmata, inquit, dicendum est, ne si epistola forte ad
   aliorum pervenerit manus, quae tibi scribimus ab aliis
-  intelligantur&raquo;.
+  intelligantur».
  
 
  
@@ -1879,14 +1879,14 @@ Pico della Mirandola: Oratio de hominis dignitate
  
   267. Hoc eodem penitus modo cum ex Dei praecepto vera illa
   legis interpretatio Moisi deitus tradita revelaretur, dicta est
-  Cabala, quod idem est apud Hebreos quod apud nos &laquo;receptio&raquo;; ob
+  Cabala, quod idem est apud Hebreos quod apud nos «receptio»; ob
   id scilicet quod illam doctrinam, non per litterarum monumenta,
   sed ordinariis revelationum successionibus alter ab altero
   quasi H[e]reditario iure reciperet.
  
 
  
- &sect; 42. 
+ § 42. 
  
 
  
@@ -1906,7 +1906,7 @@ Pico della Mirandola: Oratio de hominis dignitate
 
  
   269. Qua de re ne mihi soli credatis, Patres, audite Esdram
-  ipsum sic loquentem: &laquo;Exactis XL diebus loquutus est Altissimus
+  ipsum sic loquentem: «Exactis XL diebus loquutus est Altissimus
   dicens. Priora quae scripsisti in palam pone, legant digni et
   indigni, novissimos autem LXX libros conservabis ut tradas eos
   sapientibus de populo tuo.
@@ -1918,7 +1918,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
-  271. Atque ita feci&raquo;.
+  271. Atque ita feci».
  
 
  
@@ -1935,7 +1935,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 43. 
+ § 43. 
  
 
  
@@ -1980,7 +1980,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 44. 
+ § 44. 
  
 
  
@@ -1999,7 +1999,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 45. 
+ § 45. 
  
 
  
@@ -2053,7 +2053,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 46. 
+ § 46. 
  
 
  
@@ -2084,7 +2084,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 47. 
+ § 47. 
  
 
  

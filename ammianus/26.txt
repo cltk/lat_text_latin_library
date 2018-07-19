@@ -164,7 +164,7 @@ Ammianus: Liber XXVI
  
 
  
-3. indeque cum venisset Constantinopolim, multa secum ipse divolvens et magnitudine urgentium negotiorum iam se superari considerans, nihil morandum ratus quintum Kalendas Aprilis productum eundem Valentem in suburbanum universorum sententiis concinentibus &#151; nec enim audebat quisquam refragari &#151; Augustum pronuntiavit, clecoreque imperatorii cultus ornatum et tempora diademate redimitum in eodem vehiculo secum reduxit, participem quidem legitimum potestatis, sed in modum apparatoris morigerum, ut progrediens aperiet textus.      
+3. indeque cum venisset Constantinopolim, multa secum ipse divolvens et magnitudine urgentium negotiorum iam se superari considerans, nihil morandum ratus quintum Kalendas Aprilis productum eundem Valentem in suburbanum universorum sententiis concinentibus — nec enim audebat quisquam refragari — Augustum pronuntiavit, clecoreque imperatorii cultus ornatum et tempora diademate redimitum in eodem vehiculo secum reduxit, participem quidem legitimum potestatis, sed in modum apparatoris morigerum, ut progrediens aperiet textus.      
  
 
  
@@ -252,7 +252,7 @@ Ammianus: Liber XXVI
  
 
  
-2. hunc Iulianus Persidem ingrediens, consociato pari potestatis iure Sebastiano, in Mesopotamia cum manu militum reliquerat valida, mandaratque, ut susurravit obscurior fama &#151; nemo enim dicti auctor extitit verus &#151; pro cognitorum ageret textu, et si subsidia rei Romanae languisse sensisset, imperatorem ipse se provideret ocius nuncupari.      
+2. hunc Iulianus Persidem ingrediens, consociato pari potestatis iure Sebastiano, in Mesopotamia cum manu militum reliquerat valida, mandaratque, ut susurravit obscurior fama — nemo enim dicti auctor extitit verus — pro cognitorum ageret textu, et si subsidia rei Romanae languisse sensisset, imperatorem ipse se provideret ocius nuncupari.      
  
 
  
@@ -260,7 +260,7 @@ Ammianus: Liber XXVI
  
 
  
-4. et quia se quaeri industria didicerat magna, vitans gravioris invidiae pondus, ad abdita longiusque remota discessit. cumque a Ioviano exploratius indagari latibula sua sentiret, et ferinae vitae iam fuisset pertaesum &#151; quippe a celsiore statu deiectus ad inferiora etiam edendi penuria in locis squalentibus stringebatur hominumque egebat conloquiis &#151; postremae necessitatis inpulsu deviis itineribus ad Chalcedonos agrum pervenit.      
+4. et quia se quaeri industria didicerat magna, vitans gravioris invidiae pondus, ad abdita longiusque remota discessit. cumque a Ioviano exploratius indagari latibula sua sentiret, et ferinae vitae iam fuisset pertaesum — quippe a celsiore statu deiectus ad inferiora etiam edendi penuria in locis squalentibus stringebatur hominumque egebat conloquiis — postremae necessitatis inpulsu deviis itineribus ad Chalcedonos agrum pervenit.      
  
 
  
@@ -304,7 +304,7 @@ Ammianus: Liber XXVI
  
 
  
-15. Stetit itaque subtabidus &#151; excitum putares ab inferis &#151; nusquam reperto paludamento, tunica auro distincta ut regius minister, indutus a calce in pubem in paedagogiani pueri speciem, purpureis opertus tegminibus pedum, hastatusque purpureum itidem pannulum laeva manu gestabat, ut in theatrali scaena simulacrum quoddam insigne per aulaeum vel mimicam cavillationem subito putares emersum.      
+15. Stetit itaque subtabidus — excitum putares ab inferis — nusquam reperto paludamento, tunica auro distincta ut regius minister, indutus a calce in pubem in paedagogiani pueri speciem, purpureis opertus tegminibus pedum, hastatusque purpureum itidem pannulum laeva manu gestabat, ut in theatrali scaena simulacrum quoddam insigne per aulaeum vel mimicam cavillationem subito putares emersum.      
  
 
  
@@ -528,7 +528,7 @@ Ammianus: Liber XXVI
  
 
  
-4. Inter quae tam trepida, speculationibus fidis Aequitius doctus conversam molem belli totius in Asiam, digressus per Succos Philippopolim clausam praesidiis hostium, Eumolpiadam veterem reserare magna vi conabatur, urbem admodum oportunam et inpedituram eius adpetitus, si pone relicta adiumenta Valenti laturus &#151; nondum enim apud Nacoliam gesta conpererat &#151; festinare ad Haemimontum cogeretur.      
+4. Inter quae tam trepida, speculationibus fidis Aequitius doctus conversam molem belli totius in Asiam, digressus per Succos Philippopolim clausam praesidiis hostium, Eumolpiadam veterem reserare magna vi conabatur, urbem admodum oportunam et inpedituram eius adpetitus, si pone relicta adiumenta Valenti laturus — nondum enim apud Nacoliam gesta conpererat — festinare ad Haemimontum cogeretur.      
  
 
  

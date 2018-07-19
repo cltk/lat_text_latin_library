@@ -174,8 +174,8 @@ sumptibus, ne luxuriae sit."
 modo sed etiam magistratuum sumptibus audistis, diuersisque duobus uitiis,
 auaritia et luxuria, ciuitatem laborare, quae pestes omnia magna imperia
 euerterunt. haec ego, quo melior laetiorque in dies fortuna rei publicae est,
-quo magis imperium crescit&#151;et iam in Graeciam Asiamque transcendimus
-omnibus libidinum inlecebris repletas et regias etiam adtrectamus gazas&#151;, eo
+quo magis imperium crescit—et iam in Graeciam Asiamque transcendimus
+omnibus libidinum inlecebris repletas et regias etiam adtrectamus gazas—, eo
 plus horreo, ne illae magis res nos ceperint quam nos illas. infesta, mihi
 credite, signa ab Syracusis inlata sunt huic urbi. iam nimis multos audio
 Corinthi et Athenarum ornamenta laudantes mirantesque et antefixa fictilia
@@ -204,14 +204,14 @@ insignis auro et purpura conspicior? cur paupertas aliarum sub hac legis
 specie latet, ut quod habere non possunt habiturae, si liceret, fuisse
 uideantur?" uultis hoc certamen uxoribus uestris inicere, Quirites, ut diuites
 id habere uelint quod nulla alia possit, pauperes ne ob hoc ipsum
-contemnantur, supra uires se extendant? ne &lt;eas&gt; simul pudere quod non
+contemnantur, supra uires se extendant? ne <eas> simul pudere quod non
 oportet coeperit, quod oportet non pudebit. quae de suo poterit, parabit: quae
 non poterit, uirum rogabit. miserum illum uirum, et qui exoratus et qui non
 exoratus erit, cum quod ipse non dederit datum ab alio uidebit. nunc uolgo
 alienos uiros rogant et, quod maius est, legem et suffragia rogant et a
 quibusdam impetrant. aduersus te et rem tuam et liberos tuos exorabilis es:
 simul lex modum sumptibus uxoris tuae facere desierit, tu nunquam facies.
-nolite eodem loco existimare, &lt;Quirites,&gt; futuram rem quo fuit antequam
+nolite eodem loco existimare, <Quirites,> futuram rem quo fuit antequam
 lex de hoc ferretur. et hominem improbum non accusari tutius est quam
 absolui, et luxuria non mota tolerabilior esset quam erit nunc, ipsis uinculis
 sicut ferae bestiae inritata, deinde emissa. ego nullo modo abrogandam legem
@@ -276,14 +276,14 @@ desiderarunt leges, mortales, ut ita dicam, et temporibus ipsis mutabiles esse
 uideo. quae in pace lata sunt, plerumque bellum abrogat, quae in bello, pax, ut
 in nauis administratione alia in secunda, alia in aduersa tempestate usui
 sunt. haec cum ita natura distincta sint, ex utro tandem genere ea lex esse
-uidetur quam abrogamus? &lt;num&gt;quae uetus? regia lex simul cum ipsa urbe
+uidetur quam abrogamus? <num>quae uetus? regia lex simul cum ipsa urbe
 nata aut, quod secundum est, ab decemuiris ad condenda iura creatis in
 duodecim tabulis scripta, sine qua cum maiores nostri non existimarint decus
 matronale seruari posse, nobis quoque uerendum sit ne cum ea pudorem
 sanctitatemque feminarum abrogemus? quis igitur nescit nouam istam legem
 esse, Q. Fabio et Ti. Sempronio consulibus uiginti ante annis latam? sine qua
 cum per tot annos matronae optimis moribus uixerint, quod tandem ne
-abrogata ea effundantur ad luxuriam periculum est? nam si ista lex &lt;uetus&gt;
+abrogata ea effundantur ad luxuriam periculum est? nam si ista lex <uetus>
 aut ideo lata esset ut finiret libidinem muliebrem, uerendum foret ne
 abrogata incitaret: cur sit autem lata, ipsum indicabit tempus. Hannibal in
 Italia erat, uictor ad Cannas; iam Tarentum, iam Arpos, iam Capuam habebat;
@@ -296,7 +296,7 @@ publicani se conducturos professi erant; seruos ad remum numero ex censu
 constituto cum stipendio nostro dabamus; aurum et argentum omne ab
 senatoribus eius rei initio orto in publicum conferebamus; uiduae et pupilli
 pecunias suas in aerarium deferebant; cautum erat quo ne plus auri et argenti
-facti, quo ne plus signati argenti et aeris domi haberemus&#151;tali tempore in
+facti, quo ne plus signati argenti et aeris domi haberemus—tali tempore in
 luxuria et ornatu matronae occupatae erant, ut ad eam coercendam Oppia lex
 desiderata sit, cum quia Cereris sacrificium lugentibus omnibus matronis
 intermissum erat, senatus finiri luctum triginta diebus iussit? cui non
@@ -484,7 +484,7 @@ iussit. 'tempus' inquit 'quod saepe optastis uenit, quo uobis potestas fieret
 uirtutem uestram ostendendi. adhuc praedonum magis quam bellantium
 militastis more: nunc iusta pugna hostes cum hostibus conferetis manus; non
 agros inde populari sed urbium opes exhaurire licebit. patres nostri, cum
-&lt;in&gt; Hispania Carthaginiensium et imperatores [ibi] et exercitus essent, ipsi
+<in> Hispania Carthaginiensium et imperatores [ibi] et exercitus essent, ipsi
 nullum in ea militem haberent, tamen addi hoc in foedere uoluerunt ut
 imperii sui Hiberus fluuius esset finis. nunc cum duo praetores, cum consul,
 cum tres exercitus Romani Hispaniam obtineant, Carthaginiensium decem
@@ -501,7 +501,7 @@ hostium ducturum. ita ad corpora curanda dimissi.
 [ 14 ] Nocte media, cum auspicio operam dedisset, profectus ut locum quem
 uellet priusquam hostes sentirent caperet, praeter castra hostium circumducit
 et prima luce acie instructa sub ipsum uallum tres cohortes mittit. mirantes
-barbari ab tergo apparuisse Romanum, discurrere &lt;et&gt; ipsi ad arma. interim
+barbari ab tergo apparuisse Romanum, discurrere <et> ipsi ad arma. interim
 consul apud suos 'nusquam nisi in uirtute spes est, milites', inquit 'et ego
 sedulo ne esset feci. inter castra nostra et nos medii hostes et ab tergo hostium
 ager est. quod pulcherrimum, idem tutissimum: in uirtute spem positam
@@ -552,7 +552,7 @@ suarum, multos caesos ait, numerum non adscribit.
  
 
 [ 16 ] Tria eo die laudabilia fecisse putatur: unum, quod circumducto exercitu
-procul nauibus suis castrisque, ubi spem &lt;nusquam&gt; nisi in uirtute haberent,
+procul nauibus suis castrisque, ubi spem <nusquam> nisi in uirtute haberent,
 inter medios hostes proelium commisit; alterum, quod cohortes ab tergo
 hostibus obiecit; tertium, quod secundam legionem ceteris omnibus effusis ad
 sequendos hostes pleno gradu sub signis compositam instructamque subire ad
@@ -735,9 +735,9 @@ consulo, staturus eo quod plures censueritis.'
 
 [ 23 ] Post orationem Romani imperatoris percenseri aliorum sententiae
 coeptae sunt. cum legatus Atheniensium quantum poterat gratiis agendis
-Romanorum in Graeciam merita extulisset&#151;imploratos [auxilium] aduersus
+Romanorum in Graeciam merita extulisset—imploratos [auxilium] aduersus
 Philippum tulisse opem, non rogatos ultro aduersus tyrannum Nabim
-offerre auxilium&#151;indignatusque esset haec tanta merita sermonibus tamen
+offerre auxilium—indignatusque esset haec tanta merita sermonibus tamen
 aliquorum carpi futura calumniantium cum fateri potius praeteritorum
 gratiam deberent, apparebat incessi Aetolos. igitur Alexander princeps gentis,
 inuectus primum in Athenienses, libertatis quondam duces et auctores,
@@ -790,7 +790,7 @@ et haud procul inde iunctis exercitibus posuerunt castra. postero die in
 campum Argiuorum descenderunt et quattuor ferme milia ab Argis locum
 castris capiunt. praefectus praesidii Laconum erat Pythagoras, gener idem
 tyranni et uxoris eius frater, qui sub aduentum Romanorum et utrasque
-arces&#151;nam duas habent Argi&#151;et loca alia quae aut opportuna aut suspecta
+arces—nam duas habent Argi—et loca alia quae aut opportuna aut suspecta
 erant ualidis praesidiis firmauit; sed inter haec agenda pauorem iniectum
 aduentu Romanorum dissimulare haudquaquam poterat. et ad externum
 terrorem intestina etiam seditio accessit. Damocles erat Argiuus, adulescens
@@ -798,13 +798,13 @@ maioris animi quam consilii, qui primo iure iurando interposito de praesidio
 expellendo cum idoneis conlocutus, dum uires adicere coniurationi studet
 incautior fidei aestimator fuit. conloquentem eum cum suis satelles a
 praefecto missus cum accerseret, sensit proditum consilium esse hortatusque
-&lt;est&gt; coniuratos qui aderant ut potius quam extorti morerentur arma secum
+<est> coniuratos qui aderant ut potius quam extorti morerentur arma secum
 caperent. atque ita cum paucis in forum pergit ire clamitans ut qui saluam
 rem publicam uellent auctorem et ducem se libertatis sequerentur. haud sane
 mouit quemquam, quia nihil usquam spei propinquae nedum satis firmi
 praesidii cernebant. haec uociferantem eum Lacedaemonii circumuentum
 cum suis interfecerunt. comprensi deinde quidam et alii; ex iis occisi plures,
-pauci in custodiam coniecti; &lt;alii&gt; proxima nocte funibus per murum
+pauci in custodiam coniecti; <alii> proxima nocte funibus per murum
 demissi ad Romanos perfugerunt.
 
  
@@ -814,7 +814,7 @@ demissi ad Romanos perfugerunt.
 [ 26 ] Quinctius adfirmantibus iis, si ad portas exercitus Romanus fuisset, non
 sine effectu motum eum futurum fuisse et, si propius castra admouerentur,
 non quieturos Argiuos, misit expeditos pedites equitesque, qui circa
-Cylarabim&#151;gymnasium id est minus trecentos passus ab urbe&#151;cum
+Cylarabim—gymnasium id est minus trecentos passus ab urbe—cum
 erumpentibus a porta Lacedaemoniis proelium commiserunt atque eos haud
 magno certamine compulerunt in urbem. et castra eo ipso loco ubi pugnatum
 erat imperator Romanus posuit; diem inde unum in speculis fuit, si quid
@@ -855,18 +855,18 @@ et tria milia mercennariorum militum, decem milia popularium cum
 castellanis agrestibus in armis habuit et fossa ualloque urbem communiuit; et
 ne quid intestini motus oreretur, metu et acerbitate poenarum tenebat
 animos, quoniam ut saluum uellent tyrannum sperare non poterat. cum
-suspectos quosdam ciuium haberet, eductis in campum omnibus copiis&#151;
-Dromon ipsi uocant&#151;positis armis ad contionem uocari iubet Lacedaemonios
+suspectos quosdam ciuium haberet, eductis in campum omnibus copiis—
+Dromon ipsi uocant—positis armis ad contionem uocari iubet Lacedaemonios
 atque eorum contioni satellites armatos circumdedit. et pauca praefatus cur
 sibi omnia timenti cauentique ignoscendum in tali tempore foret, et ipsorum
 referre si quos suspectos status praesens rerum faceret prohiberi potius ne
 quid moliri possint quam puniri molientes; itaque quosdam se in custodia
-habiturum donec ea quae instet tempestas praetereat: hostibus repulsis&#151;a
+habiturum donec ea quae instet tempestas praetereat: hostibus repulsis—a
 quibus, si modo proditio intestina satis caueatur, minus periculi esse-
 extemplo eos emissurum; sub haec citari nomina octoginta ferme principum
 iuuentutis iussit atque eos, ut quisque ad nomen responderat, in custodiam
-tradidit: nocte insequenti omnes interfecti. Ilotarum deinde quidam&#151;hi sunt
-iam inde antiquitus castellani, agreste genus&#151;transfugere uoluisse insimulati
+tradidit: nocte insequenti omnes interfecti. Ilotarum deinde quidam—hi sunt
+iam inde antiquitus castellani, agreste genus—transfugere uoluisse insimulati
 per omnes uicos sub uerberibus acti necantur. hoc terrore obstipuerant
 multitudinis animi ab omni conatu nouorum consiliorum. intra munitiones
 copias continebat nec parem se ratus, si dimicare acie uellet, et urbem
@@ -947,8 +947,8 @@ militibus et duobus milibus Argiuorum Lacedaemonem ad Nabim uenit.
 
 [ 30 ] Nabis sicut primo aduentu Romanae classis et traditione oppidorum
 maritimae orae conterritus erat, sic parua spe cum acquieuisset Gytheo ab suis
-retento, postquam id quoque traditum Romanis audiuit esse &lt;et&gt;, cum ab
-terra omnibus circa hosti&lt;li&gt;bus nihil spei esset, a mari quoque toto se
+retento, postquam id quoque traditum Romanis audiuit esse <et>, cum ab
+terra omnibus circa hosti<li>bus nihil spei esset, a mari quoque toto se
 interclusum, cedendum fortunae ratus caduceatorem primum in castra misit
 ad explorandum si paterentur legatos ad se mitti. qua impetrata re Pythagoras
 ad imperatorem uenit nullis cum aliis mandatis quam ut tyranno conloqui
@@ -971,7 +971,7 @@ periturus essem scirem. et hercules, si tales essetis quales esse Carthaginiense
 fama est, apud quos nihil societatis fides sancti haberet, in me quoque uobis
 quid faceretis minus pensi esse non mirarer. nunc cum uos intueor,
 Romanos esse uideo, qui rerum diuinarum foedera, humanarum fidem
-socialem sanctissimam habeatis; cum me ipse respexi, eum &lt;me&gt; esse spero
+socialem sanctissimam habeatis; cum me ipse respexi, eum <me> esse spero
 cui et publice, sicut ceteris Lacedaemoniis, uobiscum uetustissimum foedus
 sit et meo nomine priuatim amicitia ac societas, nuper Philippi bello
 renouata. at enim ego eam uiolaui et euerti, quod Argiuorum ciuitatem
@@ -1049,7 +1049,7 @@ hostibus habeas, si cum hostibus te coniungas. utrumque a te factum est; nam
 et Messenen, uno atque eodem iure foederis quo et Lacedaemonem in
 amicitiam nostram acceptam, socius ipse sociam nobis urbem ui atque armis
 cepisti et cum Philippo, hoste nostro, non societatem solum sed, si diis placet,
-adfinitatem etiam per Philoclen praefectum eius pepigisti et, &lt;ut&gt; bellum
+adfinitatem etiam per Philoclen praefectum eius pepigisti et, <ut> bellum
 aduersus nos gerens, mare circa Maleum infestum nauibus piraticis fecisti et
 plures prope ciues Romanos quam Philippus cepisti atque occidisti, tutiorque
 Macedoniae ora quam promunturium Maleae commeatus ad exercitus
@@ -1108,7 +1108,7 @@ scribendum ante uestris ciuitatibus censeo explorandumque quid quaeque
 animi, quid uirium habeat. auxiliorum satis superque habeo; sed quo plures
 sumus, pluribus rebus egebimus. nihil iam praeter nudum solum ager
 hostium habet: ad hoc hiems accedet ad comportandum ex longinquo
-difficilis.' haec oratio primum animos omnium ad respicienda &lt;sua&gt;
+difficilis.' haec oratio primum animos omnium ad respicienda <sua>
 cuiusque domestica mala conuertit, segnitiam, inuidiam et obtrectationem
 domi manentium aduersus militantes, libertatem difficilem ad consensum,
 inopiam publicam, malignitatem conferendi ex priuato. uersis itaque subito
@@ -1154,7 +1154,7 @@ singulos annos per annos octo.
 nec sane quicquam eorum satis placebat tyranno, nisi quod praeter spem
 reducendorum exulum mentio nulla facta erat; maxime autem omnium ea
 res offendebat quod et naues et maritimae ciuitates ademptae erant. fuerat
-autem ei magno fructui mare omnem oram &lt;a&gt; Maleo praedatoriis nauibus
+autem ei magno fructui mare omnem oram <a> Maleo praedatoriis nauibus
 infestam habenti; iuuentutem praeterea ciuitatium earum ad supplementum
 longe optimi generis militum habebat. has condiciones quamquam ipse in
 secreto uolutauerat cum amicis, uolgo tamen omnes fama ferebant, uanis ut
@@ -1208,7 +1208,7 @@ sed etiam terrerent, portabant. iussi clamore sublato subire undique omnes,
 ut qua primum occurrerent quaue opem ferrent ad omnia simul pauentes
 Lacedaemonii ignorarent. quod roboris in exercitu erat, trifariam diuisum:
 parte una a Phoebeo, altera a Dictynnaeo, tertia ab eo loco quem Heptagonias
-appellant&#151;omnia autem haec aperta sine muro loca sunt-adgredi iubet. cum
+appellant—omnia autem haec aperta sine muro loca sunt-adgredi iubet. cum
 tantus undique terror urbem circumuasisset, primo tyrannus et ad clamores
 repentinos et ad nuntios trepidos motus, ut quisque maxime laboraret locus,
 aut ipse occurrebat aut aliquos mittebat; deinde circumfuso undique pauore
@@ -1349,7 +1349,7 @@ pontificum censuerunt ludosque magnos qui una uoti essent tanta pecunia
 quanta adsoleret faciendos: uer sacrum uideri pecus quod natum esset inter
 kal. Martias et pridie kal. Maias P. Cornelio et Ti. Sempronio consulibus.
 censorum inde comitia sunt habita. creati censores Sex. Aelius Paetus et C.
-Cornelius Cethegus. &lt;ii&gt; principem senatus P. Scipionem consulem, quem et
+Cornelius Cethegus. <ii> principem senatus P. Scipionem consulem, quem et
 priores censores legerant, legerunt. tres omnino senatores, neminem curuli
 honore usum, praeterierunt. gratiam quoque ingentem apud eum ordinem
 pepererunt, quod ludis Romanis aedilibus curulibus imperarunt ut loca
@@ -1378,7 +1378,7 @@ triumuiri, D. Iunius Brutus M. Baebius Tamphilus M. Heluius deduxerunt.
 Tempsam item et Crotonem coloniae ciuium Romanorum deductae.
 Tempsanus ager de Bruttiis captus erat: Bruttii Graecos expulerant; Crotonem
 Graeci habebant. triumuiri Cn. Octauius L. Aemilius Paulus C. Laetorius
-Crotonem, Tempsam L. Cornelius Merula Q. &lt;. . .&gt; C. Salonius deduxerunt.
+Crotonem, Tempsam L. Cornelius Merula Q. <. . .> C. Salonius deduxerunt.
 prodigia quoque alia uisa eo anno Romae sunt, alia nuntiata. in foro et
 comitio et Capitolio sanguinis guttae uisae sunt; et terra aliquotiens pluuit et
 caput Uolcani arsit. nuntiatum est Nare amni lac fluxisse, pueros ingenuos
@@ -1484,7 +1484,7 @@ Acrocorinthum ipsis extemplo uidentibus uacuam Achaeis traditurum, ut
 omnes scirent utrum Romanis an Aetolis mentiri mos esset, qui male
 commissam libertatem populo Romano sermonibus distulerint et mutatos
 pro Macedonibus Romanos dominos. sed illis nec quid dicerent nec quid
-facerent quicquam unquam pensi fuisse; reliquas ciuitates monere ut &lt;ex&gt;
+facerent quicquam unquam pensi fuisse; reliquas ciuitates monere ut <ex>
 factis, non ex dictis amicos pensent intellegantque quibus credendum et a
 quibus cauendum sit. libertate modice utantur: temperatam eam salubrem et
 singulis et ciuitatibus esse, nimiam et aliis grauem et ipsis qui habeant
@@ -1605,7 +1605,7 @@ nouitas solet, aliis tandem quod multo ante debuerit tributum existimantibus
 amplissimo ordini, aliis demptum ex dignitate populi quidquid maiestati
 patrum adiectum esset interpretantibus et omnia discrimina talia quibus
 ordines discernerentur et concordiae et libertatis aequae minuendae esse: ad
-quingentesimum &lt;quinquagesimum&gt; octauum annum in promiscuo
+quingentesimum <quinquagesimum> octauum annum in promiscuo
 spectatum esse; quid repente factum cur immisceri sibi in cauea patres plebem
 nollent? cur diues pauperem consessorem fastidiret? nouam, superbam
 libidinem, ab nullius ante gentis senatu neque desideratam neque institutam.
@@ -1635,8 +1635,8 @@ citeriorem, M. Fuluius Hispaniam ulteriorem.
 
  
 
-[ 56 ] Nihil eo anno belli expectantibus consulibus litterae M. Cinci&#151;praefectus is
-Pisis erat&#151;allatae: Ligurum uiginti milia armatorum coniuratione per omnia
+[ 56 ] Nihil eo anno belli expectantibus consulibus litterae M. Cinci—praefectus is
+Pisis erat—allatae: Ligurum uiginti milia armatorum coniuratione per omnia
 conciliabula uniuersae gentis facta Lunensem primum agrum depopulatos,
 Pisanum deinde finem transgressos omnem oram maris peragrasse. itaque
 Minucius consul, cui Ligures prouincia euenerat, ex auctoritate patrum in
@@ -1708,7 +1708,7 @@ ipse omni Europa abstineat; alteram, si se ille Asiae finibus non contineat et
 in Europam transcendat, ut et Romanis ius sit Asiae ciuitatium amicitias et
 tueri quas habeant et nouas complecti.' enimuero id auditu etiam dicere
 indignum esse Hegesianax Thraciae et Chersonesi urbibus arceri Antiochum,
-&lt;cum&gt; quae Seleucus, proauus eius, Lysimacho rege bello uicto et in acie
+<cum> quae Seleucus, proauus eius, Lysimacho rege bello uicto et in acie
 caeso per summum decus parta reliquerit, pari cum laude eadem, ab
 Thracibus possessa, partim armis receperit Antiochus, partim deserta, sicut
 ipsam Lysimachiam, et reuocatis cultoribus frequentauerit et, quae strata
@@ -1806,7 +1806,7 @@ tabellas conscriptas celeberrimo loco super sedem cotidianam magistratuum
 prima uespera suspendit, ipse de tertia uigilia nauem conscendit et profugit.
 postero die cum sufetes ad ius dicendum consedissent, conspectae tabellae
 demptaeque et lectae. scriptum erat Aristonem priuatim ad neminem,
-publice ad seniores&#151;ita senatum uocabant&#151;mandata habuisse. publicato
+publice ad seniores—ita senatum uocabant—mandata habuisse. publicato
 crimine minus intenta de paucis quaestio erat; mitti tamen legatos Romam
 qui rem ad consules et senatum deferrent placuit, simul qui de iniuriis
 Masinissae quererentur.

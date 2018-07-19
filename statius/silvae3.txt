@@ -208,7 +208,7 @@ nam capit et tantum non degenerabit honorem.,   160
 quod si dulce decus viridesque resumeret annos, 
 (da veniam, Alcide,) fors hic et pensa tulisses. 
  Haec ego nascentes laetus bacchatus ad aras 
-libamenta tuli. nunc ipse in limine&#151;cerno 
+libamenta tuli. nunc ipse in limine—cerno 
 solventem voces et talia dicta ferentem:,   165 
 'macte animis opibusque meos imitate labores, 
 qui rigidas rupes infecundaeque pudenda 
@@ -720,7 +720,7 @@ sic ait et motas miratur Pergamos aras.
  
 
  
- V. &lt;AD VXOREM&gt; 
+ V. <AD VXOREM> 
  
 
  

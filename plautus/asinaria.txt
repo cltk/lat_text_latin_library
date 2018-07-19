@@ -176,7 +176,7 @@ mihi.    46
  fabricare quidvis, quidvis comminiscere:
  perficito, argentum hodie ut habeat filius,
  amicae quod det. LIB. Quid ais tu, Demaenete?
- DEM. Quid &lt;vis>? LIB. Si forte in insidias devenero,    
+ DEM. Quid <vis>? LIB. Si forte in insidias devenero,    
 105 
  tun redimes me, si me hostes interceperint?
  DEM. Redimam. LIB. Tum tu igitur aliud cura quid lubet.
@@ -191,7 +191,7 @@ mihi.    46
  pergam quo occepi atque ibi consilia exordiar.    115 
  DEM. Audin tu? apud Archibulum ego ero argentarium.
  LIB. Nempe in foro? DEM. Ibi, si quid opus fuerit. LIB. 
-Meminero.&#151;
+Meminero.—
  DEM. Non esse servos peior hoc quisquam potest
  nec magis versutus nec quo ab caveas aegrius.
  eidem homini, si quid recte curatum velis,    120 
@@ -200,7 +200,7 @@ Meminero.&#151;
  nam ego illud argentum tam paratum filio
  scio esse quam me hunc scipionem contui.
  sed quid ego cesso ire ad forum, quo inceperam?    125 
- *** atque ibi manebo apud argentarium.&#151; 
+ *** atque ibi manebo apud argentarium.— 
 
  
  I.ii 
@@ -289,7 +289,7 @@ mihi,
  quom a pistore panem petimus, vinum ex oenopolio,    200 
  si aes habent, dant mercem: eadem nos discipulina utimur.
  semper oculatae manus sunt nostrae, credunt quod vident.
- vetus est: 'nihili coactiost' &#151; scis cuius. non dico amplius.
+ vetus est: 'nihili coactiost' — scis cuius. non dico amplius.
  ARGYR. Aliam nunc mi orationem despoliato praedicas,
  longe aliam, inquam, praebes nunc atque olim, quom dabam,    205 
  aliam atque olim, quom inliciebas me ad te blande ac benedice.
@@ -330,13 +330,13 @@ Dic quod lubet.
  ut voles, ut tibi lubebit, nobis legem imponito:
  modo tecum una argentum adferto, facile patiar cetera.    240 
  portitorum simillumae sunt ianuae lenoniae:
- si adfers, tum patent, si non est quod des, aedes non patent.&#151;
+ si adfers, tum patent, si non est quod des, aedes non patent.—
  ARGYR. Interii, si non invenio ego illas viginti minas,
  et profecto, nisi illud perdo argentum, pereundum est mihi.
  nunc pergam ad forum atque experiar opibus, omni copia,    245 
  supplicabo, exobsecrabo ut quemque amicum videro,
  dignos indignos adire atque experiri certumst mihi,~
- nam si mutuas non potero, certumst sumam faenore.&#151;
+ nam si mutuas non potero, certumst sumam faenore.—
  
 
  
@@ -412,7 +412,7 @@ scio.
 et quo modo.
  ad pedes quando adligatumst aequom centumpondium,
  ubi manus manicae complexae sunt atque adductae ad trabem,
- nec dependes nec propendes &#151; quin malus nequamque sis.    305 
+ nec dependes nec propendes — quin malus nequamque sis.    305 
  LIB. Vae tibi. LEON. Hoc testamento Servitus legat tibi.
  LIB. Verbivelitationem fieri compendi volo.
  Quid istud est negoti? LEON. Certum est credere. LIB. 
@@ -462,7 +462,7 @@ Memor es probe.
  LEON. Ait se ob asinos ferre argentum atriensi Saureae,
  viginti minas, sed eum sese non nosse hominem qui siet,
  ipsum vero se novisse callide Demaenetum.
- quoniam ille elocutus haec sic &#151; LIB. Quid tum? LEON. 
+ quoniam ille elocutus haec sic — LIB. Quid tum? LEON. 
 Ausculta ergo, scies. 350 
  extemplo facio facetum me atque magnificum virum,
  dico med esse atriensem. sic hoc respondit mihi:
@@ -652,7 +652,7 @@ mercator dives
  adnumeravit et mihi credidit, nequest deceptus in eo.
  MERC. Fortasse. LEON. Atque etiam tu quoque ipse, si
 esses percontatus
- me ex aliis, scio pol crederes nunc quod fers. MERC. Haud negassim.&#151;
+ me ex aliis, scio pol crederes nunc quod fers. MERC. Haud negassim.—
  
 
  
@@ -946,7 +946,7 @@ apparet.
  LIB. Noctem huius et cenam sibi ut dares. ARG. Iube advenire
 quaeso:
  meritissimo eius quae volet faciemus, qui hosce amores
- nostros dispulsos compulit. LEON. &lt;Patierin, Argyrippe, >
+ nostros dispulsos compulit. LEON. <Patierin, Argyrippe, >
  patrem hanc amplexari tuom? ARG. Haec faciet facile ut patiar.
  Leonida, curre obsecro, patrem huc orato ut veniat.    740 
  LEON. Iam dudum est intus. ARG. Hac quidem non venit.
@@ -954,9 +954,9 @@ quaeso:
 Angiporto
  illac per hortum circum iit clam, ne quis se videret
  huc ire familiarium: ne uxor resciscat metuit.
- de argento si mater tua sciat ut sit factum &#151; ARG. Heia,
- bene dicite. LIB. Ite intro cito. ARG. Valete. &#151; LEON. 
-Et vos amate.&#151;    745 
+ de argento si mater tua sciat ut sit factum — ARG. Heia,
+ bene dicite. LIB. Ite intro cito. ARG. Valete. — LEON. 
+Et vos amate.—    745 
  
 
  
@@ -998,7 +998,7 @@ Audio.    750
  ne illa minus aut plus quam tu sapiat.' DIAB. Satis placet.
  PAR. 'Suspiciones omnes ab se segreget.
  neque illaec ulli pede pedem homini premat,     775 
- cum surgat, neque &lt;cum> in lectum inscendat proximum,
+ cum surgat, neque <cum> in lectum inscendat proximum,
  neque cum descendat inde, det cuiquam manum:
  spectandum ne cui anulum det neque roget.
  talos ne cuiquam homini admoveat nisi tibi.
@@ -1009,8 +1009,8 @@ Audio.    750
  neque illa ulli homini nutet, nictet, annuat.
  post, si lucerna exstincta sit, ne quid sui     785 
  membri commoveat quicquam in tenebris.' DIAB. Optumest.
- ita scilicet facturam. verum in cubiculo&#151;
- deme istuc &#151; equidem illam moveri gestio.
+ ita scilicet facturam. verum in cubiculo—
+ deme istuc — equidem illam moveri gestio.
  nolo illam habere causam et votitam dicere.
  PAR. Scio, captiones metuis. DIAB. Verum. PAR. 
 Ergo ut iubes    790 
@@ -1033,8 +1033,8 @@ Loquere, audio.
  si forte pure velle habere dixerit,
  tot noctes reddat spurcas quot pure habuerit.'
  haec sunt non nugae, non enim mortualia.
- DIAB. Placent profecto leges. sequere intro. &#151; PAR. 
-Sequor.&#151; 
+ DIAB. Placent profecto leges. sequere intro. — PAR. 
+Sequor.— 
 
  
  IV.ii 
@@ -1054,8 +1054,8 @@ Sequor.&#151;
  magis quam sua causa. DIAB. At pol qui dixti rectius.
  tu ergo fac ut illi turbas lites concias;
  cum suo sibi gnato unam ad amicam de die    825 
- potare, illam expilare &lt;narra>. PAR. Ne mone,
- ego istud curabo.&#151; DIAB. At ego te opperiar domi.&#151;
+ potare, illam expilare <narra>. PAR. Ne mone,
+ ego istud curabo.— DIAB. At ego te opperiar domi.—
  
 
  
@@ -1124,12 +1124,12 @@ ratus,
  Cliniam, Chremem, Cratinum, Diniam, Demosthenem:
  is apud scortum corruptelae est liberis, lustris studet.
  PAR. Quin tu illum iubes ancillas rapere sublimen domum?
- ART. Tace modo. ne &lt;ego> illum ecastor miserum habebo. P. 
+ ART. Tace modo. ne <ego> illum ecastor miserum habebo. P. 
 Ego istuc scio,
  ita fore illi dum quidem cum illo nupta eris. ART. Ego censeo.    870 
  ~eum etiam hominem in senatu dare operam aut clientibus,
  ibi labore delassatum noctem totam stertere:
- ille opere foris faciendo lassus noctu &lt;ad me> advenit;
+ ille opere foris faciendo lassus noctu <ad me> advenit;
  fundum alienum arat, incultum familiarem deserit.
  is etiam corruptus porro suom corrumpit filium.     875 
  PAR. Sequere hac me modo, iam faxo ipsum hominem manifesto opprimas.
@@ -1143,7 +1143,7 @@ Quid est?
 Paulisper mane.    880 
  aucupemus ex insidiis clanculum quam rem gerant.
  ARG. Quid modi, pater, amplexando facies? DEM. Fateor,
-gnate mi&#151;
+gnate mi—
  ARG. Quid fatere? DEM. Me ex amore huius corruptum oppido.
  PAR. Audin quid ait? ART. Audio. DEM. Egon ut
 non domo uxori meae
@@ -1185,11 +1185,11 @@ Demaenetus.
  ei det, in partem hac amanti ut liceat ei potirier.
  Argyrippus exorari spero poterit, ut sinat
  sese alternas cum illo noctes hac frui. nam ni impetro,
- regem perdidi: ex amore tantum est homini incendium.&#151;
+ regem perdidi: ex amore tantum est homini incendium.—
  ART. Quid tibi hunc receptio ad te est meum virum? PHIL. 
 Pol me quidem    920 
  miseram odio enicavit. ART. Surge, amator, i domum.
- DEM. Nullus sum. ART. Immo es, ne nega, omnium &lt;unus>
+ DEM. Nullus sum. ART. Immo es, ne nega, omnium <unus>
 pol nequissimus.
  at etiam cubat cuculus. surge, amator, i domum.
  DEM. Vae mihi. ART. Vera hariolare. surge, amator, i

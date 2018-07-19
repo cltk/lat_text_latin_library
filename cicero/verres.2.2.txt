@@ -26,7 +26,7 @@ LIBER SECVNDVS
  
 
  
- [4] Denique ille ipse M. Marcellus, cuius in Sicilia virtutem hostes, misericordiam victi, fidem ceteri Siculi perspexerunt, non solum sociis in eo bello consuluit, verum etiam superatis hostibus temperavit. Vrbem pulcherrimam Syracusas,&#151;quae cum manu munitissima esset, tum loci natura terra ac mari clauderetur,&#151;cum vi consilioque cepisset, non solum incolumem passus est esse, sed ita reliquit ornatam ut esset idem monumentum victoriae, mansuetudinis, continentiae, cum homines viderent et quid expugnasset et quibus pepercisset et quae reliquisset: tantum ille honorem habendum Siciliae putavit ut ne hostium quidem urbem ex sociorum insula tollendam arbitraretur. 
+ [4] Denique ille ipse M. Marcellus, cuius in Sicilia virtutem hostes, misericordiam victi, fidem ceteri Siculi perspexerunt, non solum sociis in eo bello consuluit, verum etiam superatis hostibus temperavit. Vrbem pulcherrimam Syracusas,—quae cum manu munitissima esset, tum loci natura terra ac mari clauderetur,—cum vi consilioque cepisset, non solum incolumem passus est esse, sed ita reliquit ornatam ut esset idem monumentum victoriae, mansuetudinis, continentiae, cum homines viderent et quid expugnasset et quibus pepercisset et quae reliquisset: tantum ille honorem habendum Siciliae putavit ut ne hostium quidem urbem ex sociorum insula tollendam arbitraretur. 
  
 
  
@@ -78,7 +78,7 @@ LIBER SECVNDVS
  
 
  
- [17] Quapropter de istius praetura Siciliensi non recuso quin ita me audiatis ut, si cuiquam generi hominum sive Siculorum sive nostrorum civium, si cuiquam ordini sive aratorum sive pecuariorum sive mercatorum probatus sit, si non horum omnium communis hostis praedoque fuerit, si cuiquam denique in re umquam ulla temperarit, ut vos quoque ei temperetis. Qui simul atque ei sorte provincia Sicilia obvenit, statim Romae, ab urbe antequam proficiseeretur, quaerere ipse secum et agitare cum suis coepit quibusnam rebus in ea provincia maximam uno anno pecuniam facere posset. Nolebat in agendo discere,&#151;tametsi non provinciae rudis erat et tiro: [sed Siciliae] paratus ad praedam meditatusque venire cupiebat. 
+ [17] Quapropter de istius praetura Siciliensi non recuso quin ita me audiatis ut, si cuiquam generi hominum sive Siculorum sive nostrorum civium, si cuiquam ordini sive aratorum sive pecuariorum sive mercatorum probatus sit, si non horum omnium communis hostis praedoque fuerit, si cuiquam denique in re umquam ulla temperarit, ut vos quoque ei temperetis. Qui simul atque ei sorte provincia Sicilia obvenit, statim Romae, ab urbe antequam proficiseeretur, quaerere ipse secum et agitare cum suis coepit quibusnam rebus in ea provincia maximam uno anno pecuniam facere posset. Nolebat in agendo discere,—tametsi non provinciae rudis erat et tiro: [sed Siciliae] paratus ad praedam meditatusque venire cupiebat. 
  
 
  
@@ -86,7 +86,7 @@ LIBER SECVNDVS
  
 
  
- [19] Quo die Siciliam attigit&#151;videte satisne paratus ex illo omine urbano ad everrendam provinciam venerit,&#151;statim Messana litteras Halaesam mittit (quas ego istum in Italia conscripsisse arbitror; nam simulatque e navi egressus est dedit), &#180; Halaesinus ad se Dio continuo veniret ; se de hereditate velle cognoscere quae eius filio a propinquo homine, Apollodoro Laphirone, venisset. 
+ [19] Quo die Siciliam attigit—videte satisne paratus ex illo omine urbano ad everrendam provinciam venerit,—statim Messana litteras Halaesam mittit (quas ego istum in Italia conscripsisse arbitror; nam simulatque e navi egressus est dedit), ´ Halaesinus ad se Dio continuo veniret ; se de hereditate velle cognoscere quae eius filio a propinquo homine, Apollodoro Laphirone, venisset. 
  
 
  
@@ -122,7 +122,7 @@ LIBER SECVNDVS
  
 
  
- [28] Qua de re, iudices, magnopere vobis providendum est: pertinet hoc ad summam rem publicam et ad existimationem ordinis nostri salutemque sociorum. Si enim innocentes existimari volumus, non solum nos, sed etiam nostros comites praestare debemus. Primum omnium opera danda est ut eos nobiscum educamus qui nostrae famae capitique consulant; deinde, si in hominibus eligendis nos spes amicitiae fefellerit, ut vindicemus, mis sos faciamus, semper ita vivamus ut rationem reddendam nobis arbitremur. Africani est hoc, hominis liberalissimi&#151;verum tamen ea liberalitas est probanda quae sine pe riculo existimationis est, ut in illo fuit: 
+ [28] Qua de re, iudices, magnopere vobis providendum est: pertinet hoc ad summam rem publicam et ad existimationem ordinis nostri salutemque sociorum. Si enim innocentes existimari volumus, non solum nos, sed etiam nostros comites praestare debemus. Primum omnium opera danda est ut eos nobiscum educamus qui nostrae famae capitique consulant; deinde, si in hominibus eligendis nos spes amicitiae fefellerit, ut vindicemus, mis sos faciamus, semper ita vivamus ut rationem reddendam nobis arbitremur. Africani est hoc, hominis liberalissimi—verum tamen ea liberalitas est probanda quae sine pe riculo existimationis est, ut in illo fuit: 
  
 
  
@@ -134,7 +134,7 @@ LIBER SECVNDVS
  
 
  
- [31] Si vero illud quoque accedit, ut praetor in ea verba iudicium det ut vel L. Octavius Balbus iudex, homo et iuris et offici peritissimus, non possit aliter iudicare&#151;si iudicium sit eius modi: L. OCTAVIUS IUDEX ESTO. SI PARET FUNDUM CAPENATEM, QUO DE AGITUR, EX IURE QUIRITIUM P. SERVILI ESSE, NEQUE IS FUNDUS Q. CATUL0] RESTITUETUR, non necesse erit L. Octavio iudici cogere, P. Servilium Q Catulo fundum restituere, aut condemnare eum quem non oporteat? Eius modi totum ius praetorium, omnis res iudiciaria fuit in Sicilia per triennium Verre praetore. Decreta eius modi, SI NON ACCIPIT QUOD TE DEBERE DICIS, ACCUSES; SI PETIT, DUCAS: C. Fuficium duci iussit petitorem, L. Suettium, L. Racilium. Iudicia eius modi: qui cives Romani erant iudicabant si Siculi essent, cum Siculos eorum legibus dari oporteret, qui Siculi, si cives Romani essent. 
+ [31] Si vero illud quoque accedit, ut praetor in ea verba iudicium det ut vel L. Octavius Balbus iudex, homo et iuris et offici peritissimus, non possit aliter iudicare—si iudicium sit eius modi: L. OCTAVIUS IUDEX ESTO. SI PARET FUNDUM CAPENATEM, QUO DE AGITUR, EX IURE QUIRITIUM P. SERVILI ESSE, NEQUE IS FUNDUS Q. CATUL0] RESTITUETUR, non necesse erit L. Octavio iudici cogere, P. Servilium Q Catulo fundum restituere, aut condemnare eum quem non oporteat? Eius modi totum ius praetorium, omnis res iudiciaria fuit in Sicilia per triennium Verre praetore. Decreta eius modi, SI NON ACCIPIT QUOD TE DEBERE DICIS, ACCUSES; SI PETIT, DUCAS: C. Fuficium duci iussit petitorem, L. Suettium, L. Racilium. Iudicia eius modi: qui cives Romani erant iudicabant si Siculi essent, cum Siculos eorum legibus dari oporteret, qui Siculi, si cives Romani essent. 
  
 
  
@@ -142,7 +142,7 @@ LIBER SECVNDVS
  
 
  
- [33] Haec omnia isto praetore non modo perturbata, sed plane et Siculis et civibus Romanis erepta sunt. Primum suae leges: quod civis cum civi ageret, aut eum iudicem quem commodum erat&#151;praeconem, haruspicem, medicum suum&#151;dabat, aut si legibus erat iudicium constitutum et ad civem suum iudicem venerant, libere civi iudicare non licebat. Edictum enim hominis cognoscite, quo edicto omnia iudicia redegerat in suam potestatem, SI QUI PERPERAM IUDICASSET, SE COGNITURUM; CUM COGNOSSET, ANIMADVERSUM. ldque cum faciebat, nemo dubitabat quin, cum iudex alium de suo iudicio putaret iudicaturum seque in eo capitis periculum aditurum, voluntatem spectaret eius quem statim de capite suo putaret iudicaturum. 
+ [33] Haec omnia isto praetore non modo perturbata, sed plane et Siculis et civibus Romanis erepta sunt. Primum suae leges: quod civis cum civi ageret, aut eum iudicem quem commodum erat—praeconem, haruspicem, medicum suum—dabat, aut si legibus erat iudicium constitutum et ad civem suum iudicem venerant, libere civi iudicare non licebat. Edictum enim hominis cognoscite, quo edicto omnia iudicia redegerat in suam potestatem, SI QUI PERPERAM IUDICASSET, SE COGNITURUM; CUM COGNOSSET, ANIMADVERSUM. ldque cum faciebat, nemo dubitabat quin, cum iudex alium de suo iudicio putaret iudicaturum seque in eo capitis periculum aditurum, voluntatem spectaret eius quem statim de capite suo putaret iudicaturum. 
  
 
  
@@ -154,7 +154,7 @@ LIBER SECVNDVS
  
 
  
- [36] Audit haec etiam Verres, et primo illo suo leniore artificio Heraclium adgredi conatur, ut eum roget inspicienda, quae non reddat. Deinde a quibusdam Syracusanis admonetur&#151;hi autem quidam erant adfines istius, quorum iste uxores numquam alienas existimavit, Cleomenes et Aeschrio, qui quantum apud istum et quam turpi de causa potuerint ex reliquis criminibus intellegetis: hi, ut dico, hominem admonent rem esse praeclaram, domum refertam omnibus rebus, ipsum autem Heraclium hominem esse maiorem natu, non promptissimum; eum praeter Marcellos patronum, quem suo iure adire aut appellare posset, habere neminem; esse in eo testamento quo ille heres esset scriptus, ut statuas in palaestra deberet ponere. "Faciemus ut palaestritae negent ex testamento esse positas, petant hereditatem, quod eam palaestrae commissam esse dicant." 
+ [36] Audit haec etiam Verres, et primo illo suo leniore artificio Heraclium adgredi conatur, ut eum roget inspicienda, quae non reddat. Deinde a quibusdam Syracusanis admonetur—hi autem quidam erant adfines istius, quorum iste uxores numquam alienas existimavit, Cleomenes et Aeschrio, qui quantum apud istum et quam turpi de causa potuerint ex reliquis criminibus intellegetis: hi, ut dico, hominem admonent rem esse praeclaram, domum refertam omnibus rebus, ipsum autem Heraclium hominem esse maiorem natu, non promptissimum; eum praeter Marcellos patronum, quem suo iure adire aut appellare posset, habere neminem; esse in eo testamento quo ille heres esset scriptus, ut statuas in palaestra deberet ponere. "Faciemus ut palaestritae negent ex testamento esse positas, petant hereditatem, quod eam palaestrae commissam esse dicant." 
  
 
  
@@ -190,7 +190,7 @@ LIBER SECVNDVS
  
 
  
- [45] Ergo, inquiet aliquis, donavit populo Syracusano illam hereditatem. Primum, si id confiteri velim, tamen istum condemnetis necesse est; neque enim permissum est ut impune nobis liceat, quod alicui eripuerimus, id alteri tradere. Verum ex ista reperietis hereditate ita istum praedarum ut perpauca occulte fecerit; populum Syracusanum in maximam invidiam sua infamia, alieno praemio pervenisse, paucos Syracusanos&#151;eos qui nunc se publice laudationis causa venisse dicunt&#151;et tunc participes praedae fuisse et nunc non ad istius laudationem, sed ad communem litium aestimationem venisse. Posteaquam damnatus est absens, non solum illius hereditatis de qua ambigebatur, quae erat HS triciens, sed omnium bonorum paternorum ipsius Heraclii, quae non minor erat pecunia, palaestrae Syracusanorum, hoc est Syracusanis, possessio traditur. 
+ [45] Ergo, inquiet aliquis, donavit populo Syracusano illam hereditatem. Primum, si id confiteri velim, tamen istum condemnetis necesse est; neque enim permissum est ut impune nobis liceat, quod alicui eripuerimus, id alteri tradere. Verum ex ista reperietis hereditate ita istum praedarum ut perpauca occulte fecerit; populum Syracusanum in maximam invidiam sua infamia, alieno praemio pervenisse, paucos Syracusanos—eos qui nunc se publice laudationis causa venisse dicunt—et tunc participes praedae fuisse et nunc non ad istius laudationem, sed ad communem litium aestimationem venisse. Posteaquam damnatus est absens, non solum illius hereditatis de qua ambigebatur, quae erat HS triciens, sed omnium bonorum paternorum ipsius Heraclii, quae non minor erat pecunia, palaestrae Syracusanorum, hoc est Syracusanis, possessio traditur. 
  
 
  
@@ -210,7 +210,7 @@ LIBER SECVNDVS
  
 
  
- [50] Numerantur illa HS CCC Syracusanis. Ea quem ad modum ad istum postea per pseudothyrum revertantur, tabulis vobis testibusque, iudices, planum faciam. Ex hac iniquitate istius et improbitate, iudices, quod praeda ex illis bonis ad multos Syracusanos invito populo senatuque Syracusano venerat, et illa scelera quae per Theomnastum et Aeschrionem et Dionysodorum et Cleomenem invitissima civitate illa facta sunt: primum ut urbs tota spoliaretur, qua de re alius mihi locus ad dicendum est constitutus; ut omnia signa iste per eos homines quos nominavi, omne ebur ex aedibus sacris, omnis undique tabulas pictas, deorum denique simulacra quae vellet auferret; deinde ut in curia Syracusis, quem locum illi &Ccedil;bouleuterion' nomine appellant, honestissimo loco et apud illos clarissimo, ubi illius ipsius M. Marcelli&#151;qui eum Syracusanis locum, quem eripere belli ac victoriae lege posset, conservavit et reddidit&#151;statua ex aere facta est, ibi inauratam istius et alteram filio statuam ponerent, ut dum istius hominis memoria maneret senatus Syracusanus sine lacrimis et gemitu in curia esse non posset. 
+ [50] Numerantur illa HS CCC Syracusanis. Ea quem ad modum ad istum postea per pseudothyrum revertantur, tabulis vobis testibusque, iudices, planum faciam. Ex hac iniquitate istius et improbitate, iudices, quod praeda ex illis bonis ad multos Syracusanos invito populo senatuque Syracusano venerat, et illa scelera quae per Theomnastum et Aeschrionem et Dionysodorum et Cleomenem invitissima civitate illa facta sunt: primum ut urbs tota spoliaretur, qua de re alius mihi locus ad dicendum est constitutus; ut omnia signa iste per eos homines quos nominavi, omne ebur ex aedibus sacris, omnis undique tabulas pictas, deorum denique simulacra quae vellet auferret; deinde ut in curia Syracusis, quem locum illi Çbouleuterion' nomine appellant, honestissimo loco et apud illos clarissimo, ubi illius ipsius M. Marcelli—qui eum Syracusanis locum, quem eripere belli ac victoriae lege posset, conservavit et reddidit—statua ex aere facta est, ibi inauratam istius et alteram filio statuam ponerent, ut dum istius hominis memoria maneret senatus Syracusanus sine lacrimis et gemitu in curia esse non posset. 
  
 
  
@@ -238,7 +238,7 @@ LIBER SECVNDVS
  
 
  
- [57] Dicet aliquis, "Quid ergo in hoc Verrem reprehendis, qui non modo ipse fur non est, sed ne alium quidem passus est esse?" Attendite; iam intellegetis hanc pecuniam, quae via modo visa est exire ab isto, eodem semita reverrisse. Quid enim debuit praetor facere, cum consilio re cognita cum comperisset suum comitem iuris decreti iudici corrumpendi causa&#151;qua in re ipsius practoris caput existimatioque ageretur&#151;pecuniam accepisse, Bidinos autem pecuniam contra praetoris famam ac fortunas dedisse? non et in eum qui accepisset animadvertisset et in eos qui dedissent? Tu, qui institueras in eos animadvertere qui perperam iudicassent&#151;quod saepe per imprudentiam fit&#151;, hos pateris impune discedere qui ob tuum decretum, ob tuum iudicium pecuniam aut dandam aut accipiendam putarant? 
+ [57] Dicet aliquis, "Quid ergo in hoc Verrem reprehendis, qui non modo ipse fur non est, sed ne alium quidem passus est esse?" Attendite; iam intellegetis hanc pecuniam, quae via modo visa est exire ab isto, eodem semita reverrisse. Quid enim debuit praetor facere, cum consilio re cognita cum comperisset suum comitem iuris decreti iudici corrumpendi causa—qua in re ipsius practoris caput existimatioque ageretur—pecuniam accepisse, Bidinos autem pecuniam contra praetoris famam ac fortunas dedisse? non et in eum qui accepisset animadvertisset et in eos qui dedissent? Tu, qui institueras in eos animadvertere qui perperam iudicassent—quod saepe per imprudentiam fit—, hos pateris impune discedere qui ob tuum decretum, ob tuum iudicium pecuniam aut dandam aut accipiendam putarant? 
  
 
  
@@ -246,7 +246,7 @@ LIBER SECVNDVS
  
 
  
- [59] Est magnum argumentum, verum illud maximum, quod illis ipsis Bidinis, quibus iste iratus esse debuit, a quibus comperit, quod iure agere cum Epicrate nihil possent, etiamsi adesset, idcirco suum decretum pecunia esse temptatum: iis, inquam, ipsis non modo illam hereditatem quae Epicrati venerat, sed, ut in Heraclio Syracusano, item in hoc&#151;paulo etiam atrocius, quod Epicrates appellatus omnino non erat&#151;bona patria fortunasque eius Bidinis tradidit. Ostendit enim novo modo, si quis quid de absente peteret, se auditurum. Adeunt Bidini, petunt hereditatem; procuratores postulant ut se ad leges suas reiciat aut ex lege Rupilia dicam scribi iubeat. Adversarii non audebant contra dicere: exitus nullus reperiebatur. Insimulant hominem fraudandi causa discessisse; postulant ut bona possidere iubeat. 
+ [59] Est magnum argumentum, verum illud maximum, quod illis ipsis Bidinis, quibus iste iratus esse debuit, a quibus comperit, quod iure agere cum Epicrate nihil possent, etiamsi adesset, idcirco suum decretum pecunia esse temptatum: iis, inquam, ipsis non modo illam hereditatem quae Epicrati venerat, sed, ut in Heraclio Syracusano, item in hoc—paulo etiam atrocius, quod Epicrates appellatus omnino non erat—bona patria fortunasque eius Bidinis tradidit. Ostendit enim novo modo, si quis quid de absente peteret, se auditurum. Adeunt Bidini, petunt hereditatem; procuratores postulant ut se ad leges suas reiciat aut ex lege Rupilia dicam scribi iubeat. Adversarii non audebant contra dicere: exitus nullus reperiebatur. Insimulant hominem fraudandi causa discessisse; postulant ut bona possidere iubeat. 
  
 
  
@@ -434,7 +434,7 @@ LIBER SECVNDVS
  
 
  
- [106] Videte porro aliam amentiam; videte ut, dum expedire sese vult, induat. Cognitorem adscribit Sthenio&#151;quem? cognatum aliquem aut propinquum? Non. Thermitanum aliquem, honestum hominem ac nobilem? Ne id quidem. At Siculum, in quo aliquis splendor dignitasque esset? Neminem. Quid igitur? Civem Romanum. Cui hoc probari potest? Cum esset Sthenius civitatis suae nobilissimus, amplissima cognatione, plurimis amicitiis, cum praeterea tota Sicilia multum auctoritate et gratia posset, invenire neminem Siculum potuit qui pro se cognitor fieret? Hoc probabis? An ipse civem Romanum maluit? Cedo cui Siculo, cum is reus fieret, civis Romanus cognitor factus umquam sit. Omnium praetorum litteras qui ante te fuerunt profer, explica; si unum inveneris, ego hoc tibi, quem ad modum in tabulis scriptum habes, ita gestum esse concedam. 
+ [106] Videte porro aliam amentiam; videte ut, dum expedire sese vult, induat. Cognitorem adscribit Sthenio—quem? cognatum aliquem aut propinquum? Non. Thermitanum aliquem, honestum hominem ac nobilem? Ne id quidem. At Siculum, in quo aliquis splendor dignitasque esset? Neminem. Quid igitur? Civem Romanum. Cui hoc probari potest? Cum esset Sthenius civitatis suae nobilissimus, amplissima cognatione, plurimis amicitiis, cum praeterea tota Sicilia multum auctoritate et gratia posset, invenire neminem Siculum potuit qui pro se cognitor fieret? Hoc probabis? An ipse civem Romanum maluit? Cedo cui Siculo, cum is reus fieret, civis Romanus cognitor factus umquam sit. Omnium praetorum litteras qui ante te fuerunt profer, explica; si unum inveneris, ego hoc tibi, quem ad modum in tabulis scriptum habes, ita gestum esse concedam. 
  
 
  
@@ -454,7 +454,7 @@ LIBER SECVNDVS
  
 
  
- [111] Quare de hospitio violato et de tuo isto scelere nefario nil queror; hoc dico non iis qui Sthenium norunt, hoc est nemini eorum qui in Sicilia fuerunt&#151;nemo enim ignorat quo hic in civitate sua splendore, qua apud omnis Siculos dignitate atque existimatione sit; sed ut illi quoque qui in ea provincia non fuerunt intellegere possint in quo homine tu statueris exemplum eius modi, quod cum propter iniquitatem rei tum etiam propter hominis dignitatem acerbum omnibus atque intolerandum videretur. 
+ [111] Quare de hospitio violato et de tuo isto scelere nefario nil queror; hoc dico non iis qui Sthenium norunt, hoc est nemini eorum qui in Sicilia fuerunt—nemo enim ignorat quo hic in civitate sua splendore, qua apud omnis Siculos dignitate atque existimatione sit; sed ut illi quoque qui in ea provincia non fuerunt intellegere possint in quo homine tu statueris exemplum eius modi, quod cum propter iniquitatem rei tum etiam propter hominis dignitatem acerbum omnibus atque intolerandum videretur. 
  
 
  
@@ -466,7 +466,7 @@ LIBER SECVNDVS
  
 
  
- [114Denique nunc vide quid inter te, cuius nomine apud Siculos dies festi aguntur et praeclara illa Verria celebrantur, cui statuae Romae stant inauratae a communi Siciliae quem ad modum inscriptum videmus, datae&#151;vide, inquam, quid inter te et hunc Siculum, qui abs te est, patrono Siciliae, condemnatus, intersit. Hunc civitates ex Sicilia permultae testimonio suo legationibusque ad eam rem missis publice laudant: te, omnium Siculorum patronum, una Mamertina civitas, socia furtorum ac flagitiorum tuorum, publice laudat&#151;ita tamen novo more ut legati laedant, legatio laudet&#151;ceterae quidem civitates publice litteris legationibus testimoniis accusant, queruntur, arguunt: si tu absolutus sis, se funditus eversas esse arbitrantur. 
+ [114Denique nunc vide quid inter te, cuius nomine apud Siculos dies festi aguntur et praeclara illa Verria celebrantur, cui statuae Romae stant inauratae a communi Siciliae quem ad modum inscriptum videmus, datae—vide, inquam, quid inter te et hunc Siculum, qui abs te est, patrono Siciliae, condemnatus, intersit. Hunc civitates ex Sicilia permultae testimonio suo legationibusque ad eam rem missis publice laudant: te, omnium Siculorum patronum, una Mamertina civitas, socia furtorum ac flagitiorum tuorum, publice laudat—ita tamen novo more ut legati laedant, legatio laudet—ceterae quidem civitates publice litteris legationibus testimoniis accusant, queruntur, arguunt: si tu absolutus sis, se funditus eversas esse arbitrantur. 
  
 
  
@@ -522,7 +522,7 @@ LIBER SECVNDVS
  
 
  
- [128] Cephaloedi mensis est certus, quo mense sacerdotem maximum creari oporteat. Etat eius honoris cupidus Artemo quidam, Climachias cognomine, homo sane locuples et domi nobilis. Sed is fieri nullo modo poterat si Herodotus quidam adesset: ei locus ille atque honos in illum anuum ita deberi putabatur ut ne Climachias quidem contra diceret. Res ad istum defertur et istius more deciditur: toreumata sane nota et pretiosa auferuntur. Herodotus Romae erat; satis putabat se ad comitia tempore venturum si pridie venisset. Iste, ne aut alio mense ac fas erat comitia haberentur, aut Herodoto praesenti honos adimeretur (id quod iste non laborabat, Climachias minime volebat), excogitat&#151;dixi iamdudum, non est homo acutior quisquam nec fuit&#151;excogitat, inquam, quem ad modum mense illo legitimo comitia haberentur nec tamen Herodotus adesse posset. 
+ [128] Cephaloedi mensis est certus, quo mense sacerdotem maximum creari oporteat. Etat eius honoris cupidus Artemo quidam, Climachias cognomine, homo sane locuples et domi nobilis. Sed is fieri nullo modo poterat si Herodotus quidam adesset: ei locus ille atque honos in illum anuum ita deberi putabatur ut ne Climachias quidem contra diceret. Res ad istum defertur et istius more deciditur: toreumata sane nota et pretiosa auferuntur. Herodotus Romae erat; satis putabat se ad comitia tempore venturum si pridie venisset. Iste, ne aut alio mense ac fas erat comitia haberentur, aut Herodoto praesenti honos adimeretur (id quod iste non laborabat, Climachias minime volebat), excogitat—dixi iamdudum, non est homo acutior quisquam nec fuit—excogitat, inquam, quem ad modum mense illo legitimo comitia haberentur nec tamen Herodotus adesse posset. 
  
 
  
@@ -558,11 +558,11 @@ LIBER SECVNDVS
  
 
  
- [137] Iam hoc impudentissime: palam&#151;licebat enim videlicet legibus&#151;singulis censoribus denarii treceni ad statuam praetoris imperati sunt. Censores cxxx facti sunt; pecuniam illam ob censuram contra leges clam dederunt; haec denarium xxxviiii milia palam salvis legibus contulerunt in statuam. Primum quo tantam pecuniam? deinde quam ob rem censores ad statuam tibi conferebant? Ordo aliqui censorum est, conlegium, genus aliquod hominum? Nam aut publice civitates istos honores habent aut generatim homines, ut aratores, ut mercatores, ut navicularii; censores quidem qui magis quam aediles? Ob beneficium? Ergo hoc fatebere, abs te haec petita esse&#151;nam empta non audebis dicere; te eos magistratus hominibus benefici, non rei publicae causa permisisse? Hoc cum tute fateare, quisquam dubitabit quin tu istam apud populos provinciae totius invidiam atque offensionem non ambitionis neque beneficiorum conlocandorum, sed pecuniae conciliandae causa susceperis? 
+ [137] Iam hoc impudentissime: palam—licebat enim videlicet legibus—singulis censoribus denarii treceni ad statuam praetoris imperati sunt. Censores cxxx facti sunt; pecuniam illam ob censuram contra leges clam dederunt; haec denarium xxxviiii milia palam salvis legibus contulerunt in statuam. Primum quo tantam pecuniam? deinde quam ob rem censores ad statuam tibi conferebant? Ordo aliqui censorum est, conlegium, genus aliquod hominum? Nam aut publice civitates istos honores habent aut generatim homines, ut aratores, ut mercatores, ut navicularii; censores quidem qui magis quam aediles? Ob beneficium? Ergo hoc fatebere, abs te haec petita esse—nam empta non audebis dicere; te eos magistratus hominibus benefici, non rei publicae causa permisisse? Hoc cum tute fateare, quisquam dubitabit quin tu istam apud populos provinciae totius invidiam atque offensionem non ambitionis neque beneficiorum conlocandorum, sed pecuniae conciliandae causa susceperis? 
  
 
  
- [138] Itaque illi censores fecerunt idem quod in nostra re publica solent ii qui per largitionem magistratus adepti sunt: dederunt operam ut ita potestatem gererent ut illam lacunam rei familiaris explerent. Sic census habitus est te praetore ut eo censu nullius civitatis res publica posset administrari; nam locupletissimi cuiusque censum extenuarant, tenuissimi auxerant. Itaque in tributis imperandis tantum oneris plebi imponebatur ut, etiamsi homines tacerent, res ipsa illum censum repudiaret, id quod intellegi facillime re ipsa potest. Nam L. Metellus, qui, posteaquam ego inquirendi causa in Siciliam veni, repente L. Laetili adventu istius non modo amicus, verum etiam cognatus factus est&#151;is, quod videbat istius censu stari nullo modo posse, eum censum observari iussit qui viro fortissimo atque innocentissimo, Sex. Peducaeo, praetore habitus esset. Erant enim tum censores legibus facti delecti a suis civitatibus quibus, si quid commisissent, poenae legibus erant constitutae. 
+ [138] Itaque illi censores fecerunt idem quod in nostra re publica solent ii qui per largitionem magistratus adepti sunt: dederunt operam ut ita potestatem gererent ut illam lacunam rei familiaris explerent. Sic census habitus est te praetore ut eo censu nullius civitatis res publica posset administrari; nam locupletissimi cuiusque censum extenuarant, tenuissimi auxerant. Itaque in tributis imperandis tantum oneris plebi imponebatur ut, etiamsi homines tacerent, res ipsa illum censum repudiaret, id quod intellegi facillime re ipsa potest. Nam L. Metellus, qui, posteaquam ego inquirendi causa in Siciliam veni, repente L. Laetili adventu istius non modo amicus, verum etiam cognatus factus est—is, quod videbat istius censu stari nullo modo posse, eum censum observari iussit qui viro fortissimo atque innocentissimo, Sex. Peducaeo, praetore habitus esset. Erant enim tum censores legibus facti delecti a suis civitatibus quibus, si quid commisissent, poenae legibus erant constitutae. 
  
 
  
@@ -578,7 +578,7 @@ LIBER SECVNDVS
  
 
  
- [142] Verum ubi tandem aut in quibus statuis ista tanta pecunia consumpta est? "Consumetur", inquies. Scilicet exspectemus legitimum illud quinquennium; si hoc intervallo non consumpserit, tum denique nomen eius de pecuniis repetundis statuarum nomine deferemus. Reus est maximis plurimisque criminibus in iudicium vocatus: HS viciens ex hoc uno genere captum videmus. Si condemnatus eris, non, opinor, id ages ut ista pecunia in quinquennio consumatur in statuis; sin absolutus eris, quis erit tam amens qui te ex tot tantisque criminibus elapsum post quinquennium statuarum nomine arcessat? Ita si neque adhuc consumpta est ista pecunia et est perspicuum non consumptum iri, licet iam intellegamus inventam esse rationem quare et iste HS viciens ex hoc uno genere conciliarit et ceperit, et ceteri&#151;si hoc a vobis erit comprobatum&#151;quam volent magnas hoc nomine pecunias capere possint; ut iam videamur non a pecuniis capiendis homines absterrere, sed, cum genera quaedam pecuniarum capiendarum comprobarimus, honesta nomina turpissimis rebus imponere. 
+ [142] Verum ubi tandem aut in quibus statuis ista tanta pecunia consumpta est? "Consumetur", inquies. Scilicet exspectemus legitimum illud quinquennium; si hoc intervallo non consumpserit, tum denique nomen eius de pecuniis repetundis statuarum nomine deferemus. Reus est maximis plurimisque criminibus in iudicium vocatus: HS viciens ex hoc uno genere captum videmus. Si condemnatus eris, non, opinor, id ages ut ista pecunia in quinquennio consumatur in statuis; sin absolutus eris, quis erit tam amens qui te ex tot tantisque criminibus elapsum post quinquennium statuarum nomine arcessat? Ita si neque adhuc consumpta est ista pecunia et est perspicuum non consumptum iri, licet iam intellegamus inventam esse rationem quare et iste HS viciens ex hoc uno genere conciliarit et ceperit, et ceteri—si hoc a vobis erit comprobatum—quam volent magnas hoc nomine pecunias capere possint; ut iam videamur non a pecuniis capiendis homines absterrere, sed, cum genera quaedam pecuniarum capiendarum comprobarimus, honesta nomina turpissimis rebus imponere. 
  
 
  
@@ -590,11 +590,11 @@ LIBER SECVNDVS
  
 
  
- [145] Etenim sic considerate. Syracusana civitas, ut eam potissimum nominem, dedit ipsi statuam&#151;est honos&#151;et patri&#151;bella haec pietatis et quaestuosa simulatio&#151;et filio&#151;ferri hoc potest, hunc enim puerum non oderant; verum quotiens et quot nominibus a Syracusanis statuas auferes? Ut in foro statuerent, abstulisti, ut in curia, coegisti, ut pecuniam conferrent in eas statuas quae Romae ponerentur imperasti; ut idem darent homines aratorum nomine, dederunt; ut idem pro parte in commune Siciliae conferrent, etiam id contulerunt. Una civitas cum tot nominibus pecuniam contulerit idemque hoc civitates ceterae fecerint, nonne res ipsa vos admonet ut putetis modum aliquem huic cupiditati constitui oportere? Quid? si hoc voluntate sua nulla civitas fecit, si omnes imperio, metu, vi, malo adductae tibi pecuniam statuarum nomine contulerunt, per deos immortalis, num cui dubium esse poterit quin, etiamsi statuerit accipere ad statuas licere, idem tamen statuat eripere certe non licere? Primum igitur in hanc rem testem totam Siciliam citabo, quae mihi una voce statuarum nomine magnam pecuniam per vim coactam esse demonstrat. 
+ [145] Etenim sic considerate. Syracusana civitas, ut eam potissimum nominem, dedit ipsi statuam—est honos—et patri—bella haec pietatis et quaestuosa simulatio—et filio—ferri hoc potest, hunc enim puerum non oderant; verum quotiens et quot nominibus a Syracusanis statuas auferes? Ut in foro statuerent, abstulisti, ut in curia, coegisti, ut pecuniam conferrent in eas statuas quae Romae ponerentur imperasti; ut idem darent homines aratorum nomine, dederunt; ut idem pro parte in commune Siciliae conferrent, etiam id contulerunt. Una civitas cum tot nominibus pecuniam contulerit idemque hoc civitates ceterae fecerint, nonne res ipsa vos admonet ut putetis modum aliquem huic cupiditati constitui oportere? Quid? si hoc voluntate sua nulla civitas fecit, si omnes imperio, metu, vi, malo adductae tibi pecuniam statuarum nomine contulerunt, per deos immortalis, num cui dubium esse poterit quin, etiamsi statuerit accipere ad statuas licere, idem tamen statuat eripere certe non licere? Primum igitur in hanc rem testem totam Siciliam citabo, quae mihi una voce statuarum nomine magnam pecuniam per vim coactam esse demonstrat. 
  
 
  
- [146] Nam legationes omnium civitatum in postulatis communibus, quae fere omnia ex tuis iniuriis,nata sunt, etiam hoc ediderunt, UT STATUAS NE CUI, NISI CUM IS DE PROVINCIA DECESSISSET, POLLICERENTUR&#151;Tot praetores in Sicilia fuerunt, totiens apud maiores nostros Siculi senatum adierunt, totiens hac memoria: tamen huiusce novi postulati genus atque principium tua praetura attulit. 
+ [146] Nam legationes omnium civitatum in postulatis communibus, quae fere omnia ex tuis iniuriis,nata sunt, etiam hoc ediderunt, UT STATUAS NE CUI, NISI CUM IS DE PROVINCIA DECESSISSET, POLLICERENTUR—Tot praetores in Sicilia fuerunt, totiens apud maiores nostros Siculi senatum adierunt, totiens hac memoria: tamen huiusce novi postulati genus atque principium tua praetura attulit. 
  
 
  
@@ -630,7 +630,7 @@ LIBER SECVNDVS
  
 
  
- [155] Quam ob rem qui hoc probare potes cuiquam, tantos honores habitos esse ab invitis? Hic tibi etiam multo magis quam paulo ante in aratoribus videndum et considerandum est quid velis. Magna res est utrum tibi Siculos publice privatimque amicos an inimicos existimari velis. Si inimicos, quid te futurum est? quo confugies? ubi nitere? Modo aratorum, honestissimorum hominum ac locupletissimorum et Siculorum et civium Romanorum, maximum numerum abs te abalienasti: nunc de Siculis civitatibus quid ages? Dices tibi Siculos esse amicos? qui poteris? qui, quod nullo in homine antea fecerant, ut in eum publice testimonium dicerent&#151;cum praesertim ex ea provincia condemnati sint complures qui ibi praetores fuerunt, duo soli absoluti&#151;, hi nunc veniunt cum litteris, veniunt cum mandatis, veniunt cum testimoniis publicis; qui, si te publice laudarent, tamen id more potius suo quam merito tuo facere viderentur, hi cum de tuis factis publice conqueruntur, nonne hoc indicant, tantas esse iniurias ut multo maluerint de suo more decedere quam de tuis moribus non dicere? 
+ [155] Quam ob rem qui hoc probare potes cuiquam, tantos honores habitos esse ab invitis? Hic tibi etiam multo magis quam paulo ante in aratoribus videndum et considerandum est quid velis. Magna res est utrum tibi Siculos publice privatimque amicos an inimicos existimari velis. Si inimicos, quid te futurum est? quo confugies? ubi nitere? Modo aratorum, honestissimorum hominum ac locupletissimorum et Siculorum et civium Romanorum, maximum numerum abs te abalienasti: nunc de Siculis civitatibus quid ages? Dices tibi Siculos esse amicos? qui poteris? qui, quod nullo in homine antea fecerant, ut in eum publice testimonium dicerent—cum praesertim ex ea provincia condemnati sint complures qui ibi praetores fuerunt, duo soli absoluti—, hi nunc veniunt cum litteris, veniunt cum mandatis, veniunt cum testimoniis publicis; qui, si te publice laudarent, tamen id more potius suo quam merito tuo facere viderentur, hi cum de tuis factis publice conqueruntur, nonne hoc indicant, tantas esse iniurias ut multo maluerint de suo more decedere quam de tuis moribus non dicere? 
  
 
  
@@ -650,7 +650,7 @@ LIBER SECVNDVS
  
 
  
- [160] Tauromenitani, quorum est civitas foederata, homines quietissimi, qui maxime ab iniuriis nostrorum magistratuum remoti consuerant esse praesidio foederis&#151;hi tamen istius evertere statuam non dubitarunt; qua abiecta basim tamen in foro manere voluerunt, quod gravius in istum fore putabant si scirent homines statuam eius a Tauromenitanis esse deiectam quam si nullam umquam positam esse arbitrarentur. Tyndaritani deiecerunt in foro et eadem de causa equum inanem reliquerunt. Leontinis, misera in civitate atque inani, tamen istius in gymnasio statua deiecta est. Nam quid ego de Syracusanis loquar? quod non est proprium Syracusanorum, sed et illorum et commune conventus illius ac prope totius provinciae. Quanta illuc multitudo, quanta vis hominum convenisse dicebatur tum cum statuae sunt illius deiectae et eversae! At quo loco! Celeberrimo ac religiosissimo, ante ipsum Serapium, in primo aditu vestibuloque templi. Quod nisi Metellus hoc tam graviter egisset atque illam rem imperio edictoque prohibuisset, vestigium statuarum istius in tota Sicilia nullum esset relictum. 
+ [160] Tauromenitani, quorum est civitas foederata, homines quietissimi, qui maxime ab iniuriis nostrorum magistratuum remoti consuerant esse praesidio foederis—hi tamen istius evertere statuam non dubitarunt; qua abiecta basim tamen in foro manere voluerunt, quod gravius in istum fore putabant si scirent homines statuam eius a Tauromenitanis esse deiectam quam si nullam umquam positam esse arbitrarentur. Tyndaritani deiecerunt in foro et eadem de causa equum inanem reliquerunt. Leontinis, misera in civitate atque inani, tamen istius in gymnasio statua deiecta est. Nam quid ego de Syracusanis loquar? quod non est proprium Syracusanorum, sed et illorum et commune conventus illius ac prope totius provinciae. Quanta illuc multitudo, quanta vis hominum convenisse dicebatur tum cum statuae sunt illius deiectae et eversae! At quo loco! Celeberrimo ac religiosissimo, ante ipsum Serapium, in primo aditu vestibuloque templi. Quod nisi Metellus hoc tam graviter egisset atque illam rem imperio edictoque prohibuisset, vestigium statuarum istius in tota Sicilia nullum esset relictum. 
  
 
  
@@ -734,7 +734,7 @@ LIBER SECVNDVS
  
 
  
- [181] Ac ne forte ea, quae remota de medio atque erepta nobis sunt, omnia ita condita fuisse atque ita abdita latuisse videantur ut haec diligentia, quam ego a me exspectari maxime puto, nihil eorum investigare, nihil adsequi potuerit&#151;quae consilio aliquo aut ratione inveniri potuerunt inventa sunt, iudices: manifestis in rebus hominem iam teneri videbitis. Nam quod in publicanorum causis vel plurimum aetatis meae versor vehementerque illum ordinem observo, satis commode mihi videor eorum consuetudinem usu tractandoque cognosse. 
+ [181] Ac ne forte ea, quae remota de medio atque erepta nobis sunt, omnia ita condita fuisse atque ita abdita latuisse videantur ut haec diligentia, quam ego a me exspectari maxime puto, nihil eorum investigare, nihil adsequi potuerit—quae consilio aliquo aut ratione inveniri potuerunt inventa sunt, iudices: manifestis in rebus hominem iam teneri videbitis. Nam quod in publicanorum causis vel plurimum aetatis meae versor vehementerque illum ordinem observo, satis commode mihi videor eorum consuetudinem usu tractandoque cognosse. 
  
 
  
@@ -750,7 +750,7 @@ LIBER SECVNDVS
  
 
  
- [185] Nunc hoc attendite. His exportationibus quae recitatae sunt scribit HS Lx socios perdidisse ex vicensima portori Syracusis. Pauculis igitur mensibus, ut hi pusilli et contempti libelli indicant, furta praetoris, quae essent HS XX CC, ex uno oppido solo exportata sunt. Cogitate nunc&#151;cum illa Sicilia sit, hoc est insula quae undique exitus maritimos habeat&#151;, quid ex ceteris locis exportatum putetis, quid Agrigento, quid Lilybaeo, quid Panhormo, quid Thermis, quid Halaesa, quid Catina, quid ex ceteris oppidis, quid vero Messana, quem iste sibi locum maxime tutum esse arbitrabatur, ubi animo semper soluto liberoque erat, quod sibi iste Mamertinos delegerat ad quos omnia quae aut diligentius servanda aut occultius exportanda erant deportaret. His inventis libellis ceteri remoti et diligentius sunt reconditi; nos tamen, ut omnes intellegant hoc nos sine cupiditate agere, his ipsis libellis contenti sumus. 
+ [185] Nunc hoc attendite. His exportationibus quae recitatae sunt scribit HS Lx socios perdidisse ex vicensima portori Syracusis. Pauculis igitur mensibus, ut hi pusilli et contempti libelli indicant, furta praetoris, quae essent HS XX CC, ex uno oppido solo exportata sunt. Cogitate nunc—cum illa Sicilia sit, hoc est insula quae undique exitus maritimos habeat—, quid ex ceteris locis exportatum putetis, quid Agrigento, quid Lilybaeo, quid Panhormo, quid Thermis, quid Halaesa, quid Catina, quid ex ceteris oppidis, quid vero Messana, quem iste sibi locum maxime tutum esse arbitrabatur, ubi animo semper soluto liberoque erat, quod sibi iste Mamertinos delegerat ad quos omnia quae aut diligentius servanda aut occultius exportanda erant deportaret. His inventis libellis ceteri remoti et diligentius sunt reconditi; nos tamen, ut omnes intellegant hoc nos sine cupiditate agere, his ipsis libellis contenti sumus. 
  
 
  

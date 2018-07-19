@@ -232,7 +232,7 @@ adversarios et non nocuisse superatis?
  
  
 [15.3] "Verum haec ipse equidem spatiis exclusus iniquis praetereo
-atque aliis post &lt;me&gt; memoranda relinquo" [Verg. G. 4.147-148].
+atque aliis post <me> memoranda relinquo" [Verg. G. 4.147-148].
 praesentis tantum rei fine contentus sum: imperatorem industria
 adit, precibus fatigat, merito lenit, sollicitudine promeretur, ut
 redditam vitae redderet libertati.
@@ -393,10 +393,10 @@ idem amplexus foverint baiulorum et, cum post Romana studia ad Rheni
 semibarbaras ripas eodem cibo, pari frueremur hospitio, ut ego primus
 coeperim velle te colere. memento, quaeso, istum bellatorem tuum mecum
 quondam fuisse tironem. habeo promissum maiestatis tuae: "qui docuerit et
-non fecerit, minimus vocabitur in regno caelorum; &lt;qui autem fecerit
-et docuerit, hic magnus vocabitur in regno caelorum&gt;" [Matth. 5:19].
+non fecerit, minimus vocabitur in regno caelorum; <qui autem fecerit
+et docuerit, hic magnus vocabitur in regno caelorum>" [Matth. 5:19].
 [5.3] fruatur ille virtutis corona et ob cotidiana martyria stolatus agnum
-sequatur &lt;mihi&gt; -- "multae sunt mansiones apud patrem" [Ioh. 14:2] et "stella
+sequatur <mihi> -- "multae sunt mansiones apud patrem" [Ioh. 14:2] et "stella
 ab stella differt in claritate" [1 Cor. 15:41] --, mihi concede ut inter
 sanctorum calcanea possim levare caput; [ut] cum ego voluerim, ille
 perfecerit; mihi ignoscas, quia inplere non potui, illi tribuas praemium,

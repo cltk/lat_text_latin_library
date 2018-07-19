@@ -59,7 +59,7 @@ Cicero: ad Atticum IX
  
 
  
-[2] nam quod negas te dubitare quin magna in offensa sim apud Pompeium hoc tempore, non video causam cur ita sit hoc quidem tempore. qui enim amisso Corfinio denique certiorem me sui consili fecit, is queretur Brundisium me non venisse cum inter me et Brundisium Caesar esset? deinde etiam scit aparrÍsiaston esse in ea causa querelam suam. me putat de municipiorum imbecillitate, de dilectibus, de pace, de urbe, de pecunia, de Piceno occupando plus vidisse quam se. sin cum potuero non venero tum erit inimicus, quod ego non eo vereor ne mihi noceat (quid enim faciet? tis d' esti doulos tou thanein aphrontis Ùn;, sed quia ingrati animi crimen horreo. confido igitur adventum nostrum illi, quoquo tempore fuerit, ut scribis, asmeniston fore. nam quod ais, si hic temperatius egerit, consideratius consilium te daturum, qui hic potest se gerere non perdite? &lt;vetant&gt; vita, mores, ante facta, ratio suscepti negoti, socii, vires bonorum aut etiam constantia.
+[2] nam quod negas te dubitare quin magna in offensa sim apud Pompeium hoc tempore, non video causam cur ita sit hoc quidem tempore. qui enim amisso Corfinio denique certiorem me sui consili fecit, is queretur Brundisium me non venisse cum inter me et Brundisium Caesar esset? deinde etiam scit aparrÍsiaston esse in ea causa querelam suam. me putat de municipiorum imbecillitate, de dilectibus, de pace, de urbe, de pecunia, de Piceno occupando plus vidisse quam se. sin cum potuero non venero tum erit inimicus, quod ego non eo vereor ne mihi noceat (quid enim faciet? tis d' esti doulos tou thanein aphrontis Ùn;, sed quia ingrati animi crimen horreo. confido igitur adventum nostrum illi, quoquo tempore fuerit, ut scribis, asmeniston fore. nam quod ais, si hic temperatius egerit, consideratius consilium te daturum, qui hic potest se gerere non perdite? <vetant> vita, mores, ante facta, ratio suscepti negoti, socii, vires bonorum aut etiam constantia.
  
 
  
@@ -275,11 +275,11 @@ respondi epistulis tribus sed exspecto alias; nam me adhuc tuae litterae sustent
  
 
  
-[1] nedum hominum humilium, ut nos sumus, sed etiam amplissimorum virorum consilia ex eventu, non ex voluntate a plerisque probari solent. tamen freti tua humanitate quod verissimum nobis videbitur de eo quod ad nos scripsisti tibi consilium dabimus. quod si non fuerit prudens, at certe ab optima fide et optimo animo proficiscetur. nos si id quod nostro iudicio Caesarem facere oportere existimamus, ut, simul Romam venerit, agat de reconciliatione gratiae suae et Pompei, id eum facturum ex ipso cognovissemus, te hortari &lt;non desineremus&gt; ut velles iis rebus interesse, quo facilius et maiore cum dignitate per te qui utrique es coniunctus res tota confieret, aut si ex contrario putaremus Caesarem id non facturum et etiam velle cum Pompeio bellum gerere sciremus, numquam tibi suaderemus contra hominem optime de te meritum arma ferres, sicuti te semper oravimus ne contra Caesarem pugnares.
+[1] nedum hominum humilium, ut nos sumus, sed etiam amplissimorum virorum consilia ex eventu, non ex voluntate a plerisque probari solent. tamen freti tua humanitate quod verissimum nobis videbitur de eo quod ad nos scripsisti tibi consilium dabimus. quod si non fuerit prudens, at certe ab optima fide et optimo animo proficiscetur. nos si id quod nostro iudicio Caesarem facere oportere existimamus, ut, simul Romam venerit, agat de reconciliatione gratiae suae et Pompei, id eum facturum ex ipso cognovissemus, te hortari <non desineremus> ut velles iis rebus interesse, quo facilius et maiore cum dignitate per te qui utrique es coniunctus res tota confieret, aut si ex contrario putaremus Caesarem id non facturum et etiam velle cum Pompeio bellum gerere sciremus, numquam tibi suaderemus contra hominem optime de te meritum arma ferres, sicuti te semper oravimus ne contra Caesarem pugnares.
  
 
  
-[2] sed cum etiam nunc quid facturus Caesar sit magis opinari quam scire &lt;possimus&gt;, non possumus nisi hoc, non videri eam tuam esse dignitatem neque fidem omnibus cognitam ut contra alterutrum, cum utrique sis maxime necessarius, arma feras, et hoc non dubitamus quin Caesar pro sua humanitate maxime sit probaturus. nos tamen, si tibi videbitur, ad Caesarem scribemus ut nos certiores faciat quid de hac re acturus sit. A quo si erit nobis rescriptum, statim quae sentiemus ad te scribemus et tibi fidem faciemus nos ea suadere quae nobis videntur tuae dignitati, non Caesaris actioni esse utilissima, et hoc Caesarem pro indulgentia in suos probaturum putamus. 
+[2] sed cum etiam nunc quid facturus Caesar sit magis opinari quam scire <possimus>, non possumus nisi hoc, non videri eam tuam esse dignitatem neque fidem omnibus cognitam ut contra alterutrum, cum utrique sis maxime necessarius, arma feras, et hoc non dubitamus quin Caesar pro sua humanitate maxime sit probaturus. nos tamen, si tibi videbitur, ad Caesarem scribemus ut nos certiores faciat quid de hac re acturus sit. A quo si erit nobis rescriptum, statim quae sentiemus ad te scribemus et tibi fidem faciemus nos ea suadere quae nobis videntur tuae dignitati, non Caesaris actioni esse utilissima, et hoc Caesarem pro indulgentia in suos probaturum putamus. 
  
 
  
@@ -289,7 +289,7 @@ respondi epistulis tribus sed exspecto alias; nam me adhuc tuae litterae sustent
  
 
  
-[1] S. V. B. &lt;E.&gt; postea quam litteras communis cum Oppio ad te dedi, ab Caesare epistulam accepi cuius exemplum tibi misi; ex qua perspicere poteris quam cupiat concordiam &lt;suam&gt; et Pompei reconciliare et quam remotus sit ab omni crudelitate; quod eum sentire, ut debeo, valde gaudeo. de te et tua fide et pietate idem me hercule, mi Cicero, sentio quod tu, non posse tuam famam et officium sustinere ut contra eum arma feras a quo tantum beneficium te accepisse praedices.
+[1] S. V. B. <E.> postea quam litteras communis cum Oppio ad te dedi, ab Caesare epistulam accepi cuius exemplum tibi misi; ex qua perspicere poteris quam cupiat concordiam <suam> et Pompei reconciliare et quam remotus sit ab omni crudelitate; quod eum sentire, ut debeo, valde gaudeo. de te et tua fide et pietate idem me hercule, mi Cicero, sentio quod tu, non posse tuam famam et officium sustinere ut contra eum arma feras a quo tantum beneficium te accepisse praedices.
  
 
  
@@ -297,7 +297,7 @@ respondi epistulis tribus sed exspecto alias; nam me adhuc tuae litterae sustent
  
 
  
-[3] haec quam prudenter tibi scribam nescio, sed illud certe scio, me ab singulari amore ac benevolentia quaecumque scribo tibi scribere, quod te (ita incolumi Caesare moriar!) tanti facio ut paucos aeque ac te caros habeam. de hac re cum aliquid constitueris, velim mihi scribas. nam non mediocriter laboro &lt;ut&gt; utrique, ut vis, tuam benevolentiam praestare possis quam me hercule te praestaturum confido. fac valeas.
+[3] haec quam prudenter tibi scribam nescio, sed illud certe scio, me ab singulari amore ac benevolentia quaecumque scribo tibi scribere, quod te (ita incolumi Caesare moriar!) tanti facio ut paucos aeque ac te caros habeam. de hac re cum aliquid constitueris, velim mihi scribas. nam non mediocriter laboro <ut> utrique, ut vis, tuam benevolentiam praestare possis quam me hercule te praestaturum confido. fac valeas.
  
 
  

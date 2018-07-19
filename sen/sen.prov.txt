@@ -103,7 +103,7 @@ ista quae possint deorum in se uultum conuertere, puerilia et humanae oblectamen
 leuitatis: 9. ecce spectaculum dignum ad quod respiciat intentus operi
 suo deus, ecce par deo dignum, uir fortis cum fortuna mala compositus,
 utique si et prouocauit. Non uideo, inquam, quid habeat in terris Iuppiter
-pulchrius, si &lt;eo&gt; conuertere animum uelit, quam ut spectet Catonem
+pulchrius, si <eo> conuertere animum uelit, quam ut spectet Catonem
 iam partibus non semel fractis stantem nihilo minus inter ruinas publicas
 rectum. 10. 'Licet' inquit 'omnia in unius dicionem concesserint, custodiantur
 legionibus terrae, classibus maria, Caesarianus portas miles obsideat,
@@ -264,7 +264,7 @@ est tenerae ceruici iugum; ad suspicionem uulneris tiro pallescit, audacter
 ueteranus cruorem suum spectat, qui scit se saepe uicisse post sanguinem.
 Hos itaque deus quos probat, quos amat, indurat recognoscit exercet; eos
 autem quibus indulgere uidetur, quibus parcere, molles uenturis malis seruat.
-Erratis enim si quem iudicatis exceptum: ueniet &lt;et&gt; ad illum diu felicem
+Erratis enim si quem iudicatis exceptum: ueniet <et> ad illum diu felicem
 sua portio; quisquis uidetur dimissus esse dilatus est.
  8. Quare deus optimum quemque aut mala ualetudine aut luctu aut aliis
 incommodis adficit? quia in castris quoque periculosa fortissimis imperantur:
@@ -274,7 +274,7 @@ me imperator meruit', sed 'bene iudicauit'. Idem dicant quicumque iubentur
 pati timidis ignauisque flebilia: 'digni uisi sumus deo in quibus experiretur
 quantum humana natura posset pati.'
  9. Fugite delicias, fugite eneruantem felicitatem qua animi permadescunt
-et, nisi aliquid interuenit quod humanae sortis admoneat, &lt;marcent&gt;
+et, nisi aliquid interuenit quod humanae sortis admoneat, <marcent>
 uelut perpetua ebrietate sopiti. Quem specularia semper ab adflatu uindicaverunt,
 cuius pedes inter fomenta subinde mutata tepuerunt, cuius cenationes subditus
 et parietibus circumfusus calor temperauit, hunc leuis aura non sine periculo
@@ -291,7 +291,7 @@ ut ictus flagellorum fortiter perferant, et laceros ac semianimes rogant,
 perseuerent uulnera praebere uulneribus. 12. Quid mirum, si dure generosos
 spiritus deus temptat? numquam uirtutis molle documentum est. Verberat
 nos et lacerat fortuna: patiamur. Non est saeuitia, certamen est, quod
-&lt;quo&gt; saepius adierimus, fortiores erimus: solidissima corporis pars
+<quo> saepius adierimus, fortiores erimus: solidissima corporis pars
 est quam frequens usus agitauit. Praebendi fortunae sumus, ut contra illam
 ab ipsa duremur: paulatim nos sibi pares faciet, contemptum periculorum
 adsiduitas periclitandi dabit. 13. Sic sunt nauticis corpora ferendo mari

@@ -120,7 +120,7 @@ advortito animum. CAL. Non adest. PS. At tu cita.
 nam istic meus animus nunc est, non in pectore. 
  PS. Tuam amicam video, Calidore. CAL. Vbi ea est, opsecro? 35 
  PS. Eccam in tabellis porrectam: in cera cubat. 
- CAL. At te di deaeque quantumst&#151; PS. Servassint quidem. 
+ CAL. At te di deaeque quantumst— PS. Servassint quidem. 
  CAL. Quasi solstitialis herba paulisper fui: 
 repente exortus sum, repentino occidi. 
  PS. Tace, dum tabellas pellego. CAL. Ergo quin legis?  40 
@@ -151,7 +151,7 @@ lege: dulce amarumque una nunc misces mihi.
 [iocus ludus sermo suavisaviatio]     65 
 compressiones artae amantum corporum, 
 teneris labellis molles morsiunculae, 
-[nostrorum orgiorum&#151;iunculae]     67a 
+[nostrorum orgiorum—iunculae]     67a 
 papillarum horridularum oppressiunculae, 
 harunc voluptatum mi omnium atque itidem tibi 
 distractio discidium vastities venit,    70 
@@ -207,7 +207,7 @@ roga, opsecro hercle. gestio promittere.
 atque hoc, ne dictum tibi neges, dico prius: 
 si neminem alium potero, tuom tangam patrem.  120 
  CAL. Di te mihi semper servent. verum, si potest, 
-pietatis causa&#151;vel etiam matrem quoque. 
+pietatis causa—vel etiam matrem quoque. 
  PS. De istac re in oculum utrumvis conquiescito. 
  CAL. Oculum anne in aurem? PS. At hoc pervolgatumst minus. 
 nunc, ne quis dictum sibi neget, dico omnibus   125 
@@ -315,9 +315,9 @@ Xystilis, fac ut animum advortas, quoius amatores olivi   210
 denamin domi habent maxumam. 
 si mihi non iam huc culleis 
 oleum deportatum erit, 
-te ipsam culleo ego cras faciam ut deportere&#151;in pergulam; 
+te ipsam culleo ego cras faciam ut deportere—in pergulam; 
 ibi tibi adeo lectus dabitur, ubi tu hau somnum capias, sed ubi  215 
-usque ad languorem&#151;tenes 
+usque ad languorem—tenes 
 quo se haec tendant quae loquor. 
 ain, excetra tu? quae tibi amicos tot habes tam probe oleo onustos, 
 num quoipiam est hodie tua tuorum opera conservorum 
@@ -343,7 +343,7 @@ ere, equidem  230
 iam diu ego huic bene et hic mihi volumus, et amicitia est antiqua: 
 mittam hodie huic suo die natali malam rem magnam et maturam. 
  CAL. Quid opust? PS. Potin aliam rem ut cures? CAL. 
-At&#151; PS. Bat. 235 
+At— PS. Bat. 235 
  CAL. Crucior. PS. Cor dura. 
  CAL. Non possum. PS. Fac possis. CALL. Quonam
 pacto possim? PS. Vince 
@@ -420,7 +420,7 @@ non periclumst ne quid recte monstres. BAL. Non lenoniumst.
 atque adeo, si facere possim, pietas prohibet. BAL. Audio. 
 pietatem ergo istam amplexator noctu pro Phoenicio. 
 sed cum pietatem te amori video tuo praevortere, 
-omnes &lt;homines> tibi patres sunt? nullus est tibi quem roges 
+omnes <homines> tibi patres sunt? nullus est tibi quem roges 
 mutuom argentum? CAL. Quin nomen quoque iam interiit mutuom. 295 
  PS. Heus tu, postquam hercle isti a mensa surgunt satis poti
 viri, 
@@ -536,7 +536,7 @@ illo perdidero fidem:
 hoc meum est officium. ego, operae si sit, plus tecum loquar; 
 sed sine argento frustra es qui me tui misereri postulas. 
 haec meast sententia, ut tu hinc porro quid agas consulas. 
- CAL. Iamne abis? BAL. Negoti nunc sum plenus.&#151; PS. 
+ CAL. Iamne abis? BAL. Negoti nunc sum plenus.— PS. 
 Paulo post magis.  380 
 illic homo meus est, nisi omnes di me atque homines deserunt. 
 exossabo ego illum simulter itidem ut murenam coquos. 
@@ -552,7 +552,7 @@ hominem cito.
  CAL. Pauci ex multis sunt amici, homini qui certi sient.  390 
  PS. Ego scio istuc. ergo utrumque, tibi nunc dilectum para 
 ex multis atque exquire illinc unum qui certus siet. 
- CAL. Iam hic faxo aderit.&#151; PS. Potin ut abeas? tibi
+ CAL. Iam hic faxo aderit.— PS. Potin ut abeas? tibi
 moram dictis creas.
  
 
@@ -562,7 +562,7 @@ postquam illic hinc abiit, tu astas solus, Pseudole.
 quid nunc acturu's, postquam erili filio    395 
 largitu's dictis dapsilis? ubi sunt ea? 
 quoi neque paratast gutta certi consili, 
-[neque adeo argenti&#151;neque nunc quid faciam scio.] 
+[neque adeo argenti—neque nunc quid faciam scio.] 
 neque exordiri primum unde occipias habes, 
 neque ad detexundam telam certos terminos.  400 
 sed quasi poeta, tabulas cum cepit sibi, 
@@ -731,8 +731,8 @@ clamore magno et multo flagitabere.
 agite amolimini hinc vos intro nunciam 
 ac meis vicissim date locum fallaciis. 
  CAL. Fiat, geratur mos tibi. PS. Sed te volo 
-domi usque adesse. CAL. Quin tibi hanc operam dico.&#151;  560 
- SIM. At ego ad forum ibo. iam hic ero.&#151; PS. Actutum redi. 
+domi usque adesse. CAL. Quin tibi hanc operam dico.—  560 
+ SIM. At ego ad forum ibo. iam hic ero.— PS. Actutum redi. 
 suspicio est mihi nunc vos suspicarier, 
 me idcirco haec tanta facinora promittere, 
 quo vos oblectem, hanc fabulam dum transigam, 
@@ -744,8 +744,8 @@ novo modo novom aliquid inventum adferre addecet;
 si id facere nequeat, det locum illi qui queat.    570 
 concedere aliquantisper hinc mi intro lubet, 
 dum concenturio in corde sycophantias. 
-&lt;sed mox> exibo, non ero vobis morae; 
-tibicen vos interibi hic delectaverit.&#151;  573a
+<sed mox> exibo, non ero vobis morae; 
+tibicen vos interibi hic delectaverit.—  573a
  
 
  
@@ -764,15 +764,15 @@ nam ea stultitiast, facinus magnum timido cordi credere; nam omnes
 res perinde sunt 
 ut agas, ut eas magni facias; nam ego in meo pectore prius *** 
 ita paravi copias, 
-duplicis triplicis dolos perfidias, ut, ubiquomque hostibus congrediar&#151;  580 
+duplicis triplicis dolos perfidias, ut, ubiquomque hostibus congrediar—  580 
 maiorum meum fretus virtute dicam, 
-mea industria et malitia fraudulenta&#151; 
+mea industria et malitia fraudulenta— 
 facile ut vincam, facile ut spoliem meos perduellis meis perfidiis. 
 nunc inimicum ego hunc communem meum atque vostrorum omnium, 
 Ballionem, exballistabo lepide: date operam modo;    585 
 [hoc ego oppidum admoenire, ut hodie capiatur, volo.]  585a 
-atque huc meas legiones adducam; si expugno&#151; 
-facilem hanc rem meis civibus faciam&#151;        586a 
+atque huc meas legiones adducam; si expugno— 
+facilem hanc rem meis civibus faciam—        586a 
 post ad oppidum hoc vetus continuo meum exercitum protinus obducam: 
 inde me et simul participes omnis meos praeda onerabo atque opplebo, 
 metum et fugam perduellibus meis me ut sciant natum. 
@@ -877,7 +877,7 @@ sed vide sis ne in quaestione sis, quando arcessam, mihi.
  HARP. Quin ubi prandero, dabo operam somno. PS. Sane
 censeo. 
  HARP. Numquid vis? PS. Dormitum ut abeas. HARP. 
-Abeo.&#151; PS. Atque 665 
+Abeo.— PS. Atque 665 
  audin, Harpage? 
 iube sis te operiri: beatus eris, si consudaveris.
  
@@ -1008,12 +1008,12 @@ ceterum quo quicque pacto faciat, ipsi dixero.    755
  CAL. Quid nunc igitur stamus? PS. Hominem cum ornamentis
 omnibus 
 exornatum adducite ad me iam ad trapezitam Aeschinum. 
-sed properate. CAL. Prius illi erimus quam tu.&#151; PS. 
+sed properate. CAL. Prius illi erimus quam tu.— PS. 
 Abite ergo ocius. 
 quidquid incerti mi in animo prius aut ambiguom fuit, 
 nunc liquet, nunc defaecatumst cor mihi; nunc perviumst: 760 
 omnes ordine sub signis ducam legiones meas, 
-avi sinistra, auspicio liquido atque ex &lt;mea> sententia; 
+avi sinistra, auspicio liquido atque ex <mea> sententia; 
 confidentia est inimicos meos me posse perdere. 
 nunc ibo ad forum atque onerabo meis praeceptis Simiam, 
 quid agat, ne quid titubet, docte ut hanc ferat fallaciam.  765 
@@ -1158,7 +1158,7 @@ ut praerodatis vostras furtificas manus.
  BAL. Molestus ne sis, nimium [iam] tinnis; non taces? 
 em illic ego habito. intro abi et cenam coque.     890 
 propera. PVER Quin tu is accubitum, et convivas cedo, 
-corrumpitur iam cena.&#151; BAL. Em, subolem sis vide: 
+corrumpitur iam cena.— BAL. Em, subolem sis vide: 
 iam hic quoque scelestus est, coqui sublingulo. 
 profecto quid nunc primum caveam nescio, 
 ita in aedibus sunt fures, praedo in proxumo est.   895 
@@ -1170,7 +1170,7 @@ ut me, si posset, muliere intervorteret;      900
 eum promisisse firmiter dixit sibi, 
 sese abducturum a me dolis Phoenicium. 
 nunc ibo intro atque edicam familiaribus, 
-profecto ne quis quicquam credat Pseudolo.&#151;
+profecto ne quis quicquam credat Pseudolo.—
  
 
  
@@ -1235,7 +1235,7 @@ teneo, omnia in pectore condita sunt, meditati sunt mihi doli docte.
  PS. 
 At vide ne titubes. 
   SIM. Potin ut taceas? 
- PS. Ita me di ament&#151; SIM. Ita non facient: mera iam
+ PS. Ita me di ament— SIM. Ita non facient: mera iam
 mendacia fundes. 
  PS. Vt ego ob tuam, Simia, perfidiam te amo et metuo et magni
 facio. 
@@ -1247,7 +1247,7 @@ Ha ha hae.
  PS. Lepido victu, vino, unguentis et inter pocula pulpamentis; 
 ibidem una aderit mulier lepida, tibi savia super savia quae det. 
  SIM. Lepide accipis me. PS. Immo si efficies, tum faxo
-magis &lt;id> dicas. 
+magis <id> dicas. 
  SIM. Nisi effecero, cruciabiliter carnifex me accipito.     950 
 sed propera mihi monstrare, ubi sit os lenonis aedium. 
  PS. Tertium hoc est. SIM. St, tace, aedes hiscunt. PS. 
@@ -1306,7 +1306,7 @@ nomen est. SIM. Scio iam me recte tibi dedisse epistulam,   990
 postquam Polymachaeroplagidem elocutus nomen es. 
  BAL. Quid agit is? SIM. Quod homo edepol fortis atque
 bellator probus. 
-sed propera hanc pellegere quaeso epistulam&#151;ita negotium est&#151; 
+sed propera hanc pellegere quaeso epistulam—ita negotium est— 
 atque accipere argentum actutum mulieremque emittere. 
 nam necessest hodie Sicyoni me esse aut cras mortem exsequi,  995 
 ita erus meus est imperiosus. BAL. Novi, notis praedicas. 
@@ -1323,16 +1323,16 @@ manu salutem mittunt benevolentibus;     1005
 eadem malam rem mittunt malevolentibus. 
 sed, ut occepisti, perge opera experirier 
 quid epistula ista narret. BAL. Ausculta modo.] 
-'Harpax calator meus est, ad te qui venit&#151;' 
+'Harpax calator meus est, ad te qui venit—' 
 tun es is Harpax? SIM. Ego sum, atque ipse harpax quidem. 1010 
  BAL. 'Qui epistulam istam fert; ab eo argentum accipi, 
 cum eo simitu mulierem mitti volo. 
 salutem scriptam dignum est dignis mittere: 
 te si arbitrarem dignum, misissem tibi.' 
  SIM. Quid nunc? BAL. Argentum des, abducas mulierem.  1015 
- SIM. Vter remoratur? BAL. Quin sequere ergo intro.&#151;
+ SIM. Vter remoratur? BAL. Quin sequere ergo intro.—
  SIM. 
-Sequor.&#151;
+Sequor.—
  
 
  
@@ -1342,7 +1342,7 @@ numquam edepol quemquam vidi, quam hic est Simia;
 nimisque ego illum hominem metuo et formido male, 
 ne malus item erga me sit ut erga illum fuit,     1020 
 ne in re secunda nunc mi obvertat cornua, 
-si occasionem capsit qui sit &lt;mihi> malus; 
+si occasionem capsit qui sit <mihi> malus; 
 atque edepol equidem nolo, nam illi bene volo. 
 nunc in metu sum maximo, triplici modo:     1024-1025 
 primum omnium iam hunc comparem metuo meum, 1026 
@@ -1372,7 +1372,7 @@ mihi cor retunsumst oppugnando pectore.  1045
 ubi perconteris me, insidiis hostilibus? 
 quin hinc metimur gradibus militariis? 
  PS. Atque edepol, quamquam nequam homo es, recte mones. 1049-1050 
-ite hac triumphi ad cantharum recta via.&#151;  1051
+ite hac triumphi ad cantharum recta via.—  1051
  
 
  
@@ -1395,7 +1395,7 @@ ut mea laetitia laetus promiscam siet.
  SIMO Viso quid rerum meus Vlixes egerit, 
 iamne habeat signum ex arce Ballionia. 
  BAL. O fortunate, cedo fortunatam manum,  1065 
-Simo. SIM. Quid est? BA. Iam&#151; SIM. Quid iam?
+Simo. SIM. Quid est? BA. Iam— SIM. Quid iam?
  BAL. 
 Nihil est quod 
  metuas. SIM. Quid est? 
@@ -1501,9 +1501,9 @@ manum.
  HAR. Accipe: hic sunt quinque argenti lectae numeratae minae. 
 hoc tibi erus me iussit ferre Polymachaeroplagides,    1150 
 quod deberet, atque ut mecum mitteres Phoenicium. 
- BAL. Erus tuos&#151; HAR. Ita dico. BAL. Miles&#151; HAR. 
+ BAL. Erus tuos— HAR. Ita dico. BAL. Miles— HAR. 
 Ita loquor. BAL. 
-  Macedonius&#151; 
+  Macedonius— 
  HAR. Admodum, inquam. BAL. Te ad me misit Polymachaeroplagides? 
  HAR. Vera memoras. BAL. Hoc argentum ut mihi dares? HAR. 
 Si tu quidem es 
@@ -1537,9 +1537,9 @@ nam ego eram domi imperator summus in patria mea.
 ex Sicyone huc pervenisti? HAR. Altero ad meridie. 
  BAL. Strenue mehercle iisti. SIM. Quamvis pernix hic
 est homo:  1175 
-ubi suram aspicias, scias posse eum&#151;gerere crassas compedes. 
+ubi suram aspicias, scias posse eum—gerere crassas compedes. 
  BAL. Quid ais? tune etiam cubitare solitu's in cunis puer? 
- SIM. Scilicet. BAL. Etiamne facere solitus es&#151;scin quid
+ SIM. Scilicet. BAL. Etiamne facere solitus es—scin quid
 loquar? 
  SIM. Scilicet solitum esse. HAR. Sanine estis? BAL. 
 Quid hoc quod te rogo? 
@@ -1613,8 +1613,8 @@ Pseudolus mihi centuriata habuit capitis comitia,
 qui illum ad me hodie adlegavit, mulierem qui abduceret. 
 sequere tu. nunc ne expectetis, dum hac domum redeam via; 
 ita res gestast: angiporta haec certum est consectarier.     1235 
- HAR. Si graderere tantum quantum loquere, iam esses ad forum.&#151; 
- BAL. Certumst mi hunc emortualem facere ex natali die.&#151;
+ HAR. Si graderere tantum quantum loquere, iam esses ad forum.— 
+ BAL. Certumst mi hunc emortualem facere ex natali die.—
  
 
  
@@ -1626,7 +1626,7 @@ insidiantur: at ego iam intus promam viginti minas,
 quas promisi si effecisset; obviam ei ultro deferam. 
 nimis illic mortalis doctus, nimis vorsutus, nimis malus; 
 superavit dolum Troianum atque Vlixem Pseudolus. 
-nunc ibo intro, argentum promam, Pseudolo insidias dabo.&#151; 1245
+nunc ibo intro, argentum promam, Pseudolo insidias dabo.— 1245
  
 
  
@@ -1644,7 +1644,7 @@ pergitin pergere? ah, serviendum mihi
 hodie est; magnum hoc vitium vino est:   1250 
 pedes captat primum, luctator dolosust. 
 profecto edepol ego nunc probe habeo madulsam: 
-ita victu excurato, ita magnis munditiis &lt;et> dis dignis, 
+ita victu excurato, ita magnis munditiis <et> dis dignis, 
 itaque in loco festivo sumus festive accepti. 
 quid opust me multas agere ambages? hoc  1255 
 est homini quam ob rem vitam amet, 
@@ -1669,7 +1669,7 @@ ad hunc me modum intuli illis satis facete,
 nimis ex discipulina, quippe ego qui       1274a 
 probe Ionica perdidici. sed palliolatim amictus 
 sic haec incessi ludibundus.          1275a 
-plaudunt &lt;et> 'parum' clamitant mi, ut revertar. 
+plaudunt <et> 'parum' clamitant mi, ut revertar. 
 occepi denuo, hoc modo: nolui 
 idem; amicae dabam me meae,         1277a 
 ut me amaret: ubi circumvortor, cado: 
@@ -1741,7 +1741,7 @@ habeo tergum.  1325
  PS. 
 Redi modo: non 
   eris deceptus. 
- SIM. Redeo. PS. Simul mecum &lt;i> potatum. SIM. 
+ SIM. Redeo. PS. Simul mecum <i> potatum. SIM. 
 Egone eam? PS. Fac quod 
   te iubeo: 
 si is, aut dimidium aut plus etiam faxo hinc feres. SIM. Eo,

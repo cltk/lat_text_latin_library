@@ -53,8 +53,8 @@ gustavit talem delectationem spernit omnem minorem ut sensibilem, quae in
 veritate minor est et vilior. Et homo qui eam eligit propter eam vilior est, quam qui eligit primam. Unde ex hoc quod intellectum delectat intellegentem
 vult Philosophus in XI. Metaphysicae quod intellectus primus vitam habet
 voluptuosissimam. Cum enim intellectus primus sit maximae virtutis in
-intellegendo, intellegibile autem quod intellegit sit nobilissimum quia sui ipsius essentia&#151;quid enim nobilus potest intellectus divinus intellegere quam sit essentia
-divina?&#151;ideo habet vitam voluptuosissimam. Unde cum nullum maius bonum possit
+intellegendo, intellegibile autem quod intellegit sit nobilissimum quia sui ipsius essentia—quid enim nobilus potest intellectus divinus intellegere quam sit essentia
+divina?—ideo habet vitam voluptuosissimam. Unde cum nullum maius bonum possit
 homini contingere per intellectum speculativum quam cognitio universitatis
 entium quae sunt a prima principia et per hoc primi principii, sicut possibile
 est, et delectatio in illa, tunc sequitur quod superius conclusum est, quod
@@ -97,9 +97,9 @@ omnes actiones humanae in ipsum dirigantur, ut
 ipsum concludant. Sicut enim omnes actiones in
 loge aliqua rectae sunt et ut oportet, cum tendunt in finem legis, et meliores
 secundum quod fini legis propinquiores, actiones autem, quae adversantur fini
-legis, vel quae deminutae sunt&#151;non perfectae secundum praecepta legis&#151;vel
-etiam indifferentes&#151;scilicet nec oppositae
-fini legis nec secundum praecepta legis&#151;
+legis, vel quae deminutae sunt—non perfectae secundum praecepta legis—vel
+etiam indifferentes—scilicet nec oppositae
+fini legis nec secundum praecepta legis—
 omnes tales actiones peccatum sunt in lege illa, secundum tamen magis et minus,
 ut patere potest ex dictis, sic est in homine, quia omnes intentiones et consilia, actiones et desideria
 hominis quae tendunt in hoc summum bonum, quod est homini possibile, quod iam dictum est, recta sunt et secundum quod oportet. Et cum homo sic operatur,
@@ -128,7 +128,7 @@ impedit inordinata concupiscentia a suo summo bono exceptis paucissimis
 honorandis viris; quos voco honorandos, quia contemnunt desiderium sensus et
 sequuntur delectationem et desiderium intellectus insudantes cognitioni veritatis rerum; quos etiam voce honorandem, quia vivunt secundum ordinem naturalem. Nam sicut omnes
 virtutes inferiores, quae sunt in homine, naturaliter sunt propter virtutem
-supremam&#151;nutritiva enim est propter sensitivam, eo quod sensitiva perfectio
+supremam—nutritiva enim est propter sensitivam, eo quod sensitiva perfectio
 est corporis cuiusdam animati, corpus autem
 animatum non potent esse sine nutrimento,
 nutritiva autem virtus est quae nutrimentum alterat et convertit, propter quod
@@ -139,7 +139,7 @@ illa intellegimus, quae secundum se esse imaginatum habere non possunt in
 nobis. Imaginatio autem non comprehendit nisi post sensum, cuius probatio est,
 quia omnis imaginans sensibiliter afficitur.
 Unde secundum Philosophum imaginatio sive
-phantasia est motus factus ex sensu secundum actum&#151;sic operationes omnium
+phantasia est motus factus ex sensu secundum actum—sic operationes omnium
 virtutum inferiorum quae sunt in homine sunt propter operationes virtutis
 supremae, quae est intellectus. Et inter operationes virtutis intellectivae, si
 aliqua est optima et perfectissima, omnes naturaliter sunt || propter illam. Et

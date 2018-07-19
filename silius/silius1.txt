@@ -307,7 +307,7 @@ firmauit tenues ortus mox Daunia pubes
 sedis inops, misit largo quam diues alumno 
 magnanimis regnata uiris, nunc Ardea nomen. 
 libertas populis pacto seruata decusque 
-maiorum, et Poenis u&lt;r&gt;bi imperitare negatum.    295 
+maiorum, et Poenis u<r>bi imperitare negatum.    295 
   Admouet abrupto flagrantia foedere ductor 
 Sidonius castra et latos quatit agmine campos. 
 ipse caput quassans circumlustrauit anhelo 
@@ -321,14 +321,14 @@ intorto sancit iaculo figitque per arma    305
 stantem pro muro et minitantem uana Caicum. 
 concidit exacti medius per uiscera teli, 
 effusisque simul praerupto ex aggere membris 
-uictori moriens tepefactam ret&lt;t&gt;ulit hastam. 
+uictori moriens tepefactam ret<t>ulit hastam. 
 at multo ducis exemplum clamore secuti    310 
 inuoluunt atra telorum moenia nube. 
 clara nec in numero uirtus latet: obuia quisque 
 ora duci portans ceu solus bella capessit. 
 hic crebram fundit Baliari uerbere glandem 
 terque leui ducta circum caput altus habena    315 
-permissum uentis a&lt;b&gt;scondit in aera telum, 
+permissum uentis a<b>scondit in aera telum, 
 hic ualido librat stridentia saxa lacerto, 
 huic impulsa leui torquetur lancea nodo. 
 ante omnis ductor patriis insignis in armis 
@@ -415,7 +415,7 @@ hanc' inquit 'dextram, quae iam post funera uulgi
 Hannibalem uobis comitem dabit,' et ferit alte    400 
 insurgens gladio cristatae cassidis aera 
 perque ipsum tegimen crepitantia dissipat ossa. 
-tum frontem Chreme&lt;te&gt;s intonsam umbrante capillo 
+tum frontem Chreme<te>s intonsam umbrante capillo 
 saeptus et horrentis effingens crine galeros, 
 tum Masulis crudaque uirens ad bella senecta    405 
 Kartalo, non pauidus fetas mulcere leaenas, 
@@ -489,7 +489,7 @@ non cuncta e muris unum incessentia tela
 fumantesque ante ora faces, non saxa per artem 
 tormentis excussa tenent. ut tegmina primum    475 
 fulgentis galeae conspexit et arma cruento 
-&lt;c&gt;ontra solem auro rutilantia, turbidus infit: 
+<c>ontra solem auro rutilantia, turbidus infit: 
 'En, qui res Libycas inceptaque tanta retardet, 
 Romani Murrus belli mora. foedera, faxo, 
 iam noscas, quid uana queant et uester Hiberus.    480 

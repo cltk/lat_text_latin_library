@@ -161,7 +161,7 @@ tellurem iniectam quatere, et spiramine anhelo
 torreri late campos, quotiensque minantur    145 
  rumpere compagem impositam, expallescere caelum. 
 apparet Prochyte saeuum sortita Mimanta, 
-apparet procul Inar&lt;i&gt;me, quae turbine nigro 
+apparet procul Inar<i>me, quae turbine nigro 
 fumantem premit Iapetum flammasque rebelli 
 ore eiectantem et, si quando euadere detur,    150 
  bella Ioui rursus superisque iterare uolentem. 
@@ -203,7 +203,7 @@ effusaeque ruunt inopino flumine turmae,    185
 propulsum ut Borea scopulis impingitur aequor, 
 ut rupto terras inuadunt carcere uenti. 
 nec torrente Libys uiso armorumque uirumque 
-deiectus spe s&lt;t&gt;are ualet. dux Dardanus instat    190 
+deiectus spe s<t>are ualet. dux Dardanus instat    190 
  attonito, praegressus equo, tergisque ruentum 
 incumbens hasta socios nunc uoce fatigat: 
 'Perge, age, fer gressus. dexter deus, horaque nostra est. 
@@ -244,7 +244,7 @@ dilectus Poeno Cinyps, quo gratior ora
 non fuit ac nulla nituit plus fronte decoris: 
 quale micat semperque nouum est quod Tiburis aura 
 pascit ebur, uel qui miro candoris honore    230 
- lucet in aure lapis rubris aduectus ab undis.)&#151; 
+ lucet in aure lapis rubris aduectus ab undis.)— 
 quem postquam egregium cristis et casside nota 
 fulgentem extremo Pedianus in agmine uidit, 
 ceu subita ante oculos Pauli emersisset imago 
@@ -270,7 +270,7 @@ tum galeam magno socium clamore reportans
 immitem quatiebat ecum, spumantia saeuo 
 frena cruentantem morsu. cui turbidus armis    255 
  obuia Marcellus rapido tulit ora tumultu 
-adgnoscensque decus 'Macte &lt;o&gt; uirtutis auitae, 
+adgnoscensque decus 'Macte <o> uirtutis auitae, 
 macte Antenoride! nunc' inquit 'rapta petamus, 
 quod superest, Libyci ductoris tegmina,' et ardens 
 terrificis saeuam fundit stridoribus hastam.    260 
@@ -377,9 +377,9 @@ Herculis ex sese mutauit nomina terrae.    360
  adfluxere etiam et sedes posuere coactas 
 dispersi pelago post eruta Pergama Teucri. 
 nec paruum decus, aduecto cum classe paterna 
-agmine Thespiadum, terris, Iol&lt;a&gt;e, dedisti. 
+agmine Thespiadum, terris, Iol<a>e, dedisti. 
 fama est, cum laceris Actaeon flebile membris    365 
- supplicium lueret spectatae &lt;in&gt; fonte Dianae, 
+ supplicium lueret spectatae <in> fonte Dianae, 
 attonitum nouitate mali fugisse parentem 
 per freta Aristaeum et Sardoos isse recessus. 
 Cyrenen monstrasse ferunt noua litora matrem. 
@@ -408,7 +408,7 @@ sed uos, Calliope, nostro donate labori    390
 facta uiri, et meritum uati sacremus honorem. 
 Ennius, antiqua Messapi ab origine regis, 
 miscebat primas acies, Latiaeque superbum 
-uitis adornabat dextra&lt;m&gt; decus. hispida tellus    395 
+uitis adornabat dextra<m> decus. hispida tellus    395 
  miserunt Calabri: Rudiae genuere uetustae, 
 nunc Rudiae solo memorabile nomen alumno. 
 is prima in pugna (uates ut Thracius olim, 
@@ -425,7 +425,7 @@ sperata hausisti. sacer hic ac magna sororum
 Aonidum cura est et dignus Apolline uates. 
 hic canet inlustri primus bella Itala uersu    410 
  attolletque duces caelo, resonare docebit 
-hic Lat&lt;i&gt;is &lt;H&gt;elicona modis nec cedet honore 
+hic Lat<i>is <H>elicona modis nec cedet honore 
 Ascraeo famaue seni.' sic Phoebus, et Hosto 
 ultrix per geminum transcurrit tempus harundo. 
 uertuntur iuuenis casu perculsa per agros    415 
@@ -453,7 +453,7 @@ portisque intrarant Poeni. sed enim arce corusca,    435
 hic, miranda mouens, classem quae condita portu 
 astabat (namque angustis e faucibus aequor 
 erumpit scopulos inter patuloque recessu 
-infundit campis secretum gurgite pontum)&#151;    440 
+infundit campis secretum gurgite pontum)—    440 
  inclusas igitur, quibus haud enare dabatur 
 arce superposita, claustris maris extulit astu 
 perque auersa tulit portatas arua carinas. 
@@ -492,8 +492,8 @@ namque per insidias, infandum, et ab hospite caesus,    475
  conloquium et promissa petit dum perfida gentis 
 Lucanae, Gracchus caeco circumdatus astu 
 occiderat, laudemque Libys rapiebat humandi. 
- Sed nun&lt;c&gt;, ut scitum celerare ad moenia Poenum, 
-&lt;h&gt;a&lt;u&gt;d stabat res ulla loco: iam consul uterque    480 
+ Sed nun<c>, ut scitum celerare ad moenia Poenum, 
+<h>a<u>d stabat res ulla loco: iam consul uterque    480 
  praecipites aderant, Nola uis omnis, et Arpis 
 aeui floridior Fabius rapida arma ferebat. 
 hinc Nero et hinc uolucris Silanus nocte dieque 
@@ -539,7 +539,7 @@ tramittunt alno uada postremique relincunt
 tardandis Italis corruptas igne carinas. 
 tum Sidicina legunt pernicibus arua maniplis 
 Threiciamque Calen, uestras a nomine nati,    525 
- Orith&lt;y&gt;ia, domos. hinc Allifanus Iaccho 
+ Orith<y>ia, domos. hinc Allifanus Iaccho 
 haud inamatus ager nymphisque habitata Casinis 
 rura euastantur. mox et uicinus Aquinas 
 et quae fumantem texere Giganta Fregellae 

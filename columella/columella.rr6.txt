@@ -172,7 +172,7 @@ Columella: de Re Rustica VI
  
 
  
-[2] Impetigines, et quicquid scabies occupat, aceto et alumine defricatur. Nonnumquam, si &lt;haec&gt; permanent, paribus ponderibus permistis nitro et scisso alumine, cum aceto linuntur. Papulae ferventissimo sole usque eo strigile raduntur, quoad eliciatur sanguis. Tum ex aequo miscentur radices agrestis hederae, sulfurque et pix liquida cum alumine. [Et] eo medicamine praedicta vitia curantur.
+[2] Impetigines, et quicquid scabies occupat, aceto et alumine defricatur. Nonnumquam, si <haec> permanent, paribus ponderibus permistis nitro et scisso alumine, cum aceto linuntur. Papulae ferventissimo sole usque eo strigile raduntur, quoad eliciatur sanguis. Tum ex aequo miscentur radices agrestis hederae, sulfurque et pix liquida cum alumine. [Et] eo medicamine praedicta vitia curantur.
  
 
  

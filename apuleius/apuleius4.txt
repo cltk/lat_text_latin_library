@@ -144,7 +144,7 @@ Lamentata sic et animi dolore et faucium tendore et corporis lassitudine iam fat
  
 
  
- [28] Erant in quadam civitate rex et regina. Hi tres numero filias forma conspicuas habuere, sed maiores quidem natu, quamvis gratissima specie, idonee tamen celebrari posse laudibus humanis credebantur, at vero puellae iunioris tam praecipua tam praeclara pulchritudo nec exprimi ac ne sufficienter quidem laudari sermonis humani penuria poterat. Multi denique civium et advenae copiosi, quos eximii spectaculi rumor studiosa celebritate congregabat, inaccessae formositatis admiratione stupidi et admoventes oribus suis dexteram primore digito in erectum pollicem residente ut ipsam prorsus deam Venerem religiosis &lt;venerabantur&gt; adorationibus. Iamque proximas civitates et attiguas regiones fama pervaserat deam quam caerulum profundum pelagi peperit et ros spumantium fluctuum educavit iam numinis sui passim tributa venia in mediis conversari populi coetibus, vel certe rursum novo caelestium stillarum germine non maria sed terras Venerem aliam virginali flore praeditam pullulasse. 
+ [28] Erant in quadam civitate rex et regina. Hi tres numero filias forma conspicuas habuere, sed maiores quidem natu, quamvis gratissima specie, idonee tamen celebrari posse laudibus humanis credebantur, at vero puellae iunioris tam praecipua tam praeclara pulchritudo nec exprimi ac ne sufficienter quidem laudari sermonis humani penuria poterat. Multi denique civium et advenae copiosi, quos eximii spectaculi rumor studiosa celebritate congregabat, inaccessae formositatis admiratione stupidi et admoventes oribus suis dexteram primore digito in erectum pollicem residente ut ipsam prorsus deam Venerem religiosis <venerabantur> adorationibus. Iamque proximas civitates et attiguas regiones fama pervaserat deam quam caerulum profundum pelagi peperit et ros spumantium fluctuum educavit iam numinis sui passim tributa venia in mediis conversari populi coetibus, vel certe rursum novo caelestium stillarum germine non maria sed terras Venerem aliam virginali flore praeditam pullulasse. 
  
 
  
@@ -160,7 +160,7 @@ Lamentata sic et animi dolore et faucium tendore et corporis lassitudine iam fat
  
 
  
- Et vocat confestim puerum suum pinnatum illum et satis temerarium, qui malis suis moribus contempta disciplina publica flammis et sagittis armatus per alienas domos nocte discurrens et omnium matrimonia corrumpens impune committit tanta flagitia et nihil prorsus boni facit. Hunc, quamquam genuina licentia procacem, verbis quoque insuper stimulat et perducit ad illam civitatem et Psychen &#151; hoc enim nomine puella nuncupabatur &#151; coram ostendit, 
+ Et vocat confestim puerum suum pinnatum illum et satis temerarium, qui malis suis moribus contempta disciplina publica flammis et sagittis armatus per alienas domos nocte discurrens et omnium matrimonia corrumpens impune committit tanta flagitia et nihil prorsus boni facit. Hunc, quamquam genuina licentia procacem, verbis quoque insuper stimulat et perducit ad illam civitatem et Psychen — hoc enim nomine puella nuncupabatur — coram ostendit, 
  
 
  

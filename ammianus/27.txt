@@ -12,7 +12,7 @@ Ammianus: Liber XXVII
 
  
  
- I  II  III  IV  V  VI &nbsp VII  VIII  IX  X  XI  XII 
+ I  II  III  IV  V  VI   VII  VIII  IX  X  XI  XII 
  
  
  
@@ -100,7 +100,7 @@ Ammianus: Liber XXVII
  8. Hic praefectus exagitatus et motibus crebris, uno omnium maximo, cum collecta plebs infima domum eius prope Constantinianum lavacrum iniectis facibus incenderat et malleolis, ni vicinorum et familiarum veloci concursu a summis tectorum culminibus petita saxis et tegulis abscessisset.
  
 
- 9. eaque vi territus ipse primitus crebrescentis seditionis in maius secessit ad Mulvium pontem &#151; quem struxisse superior dicitur Scaurus &#151; adlenimenta ibidem tumultus opperiens, quem causa concitaverat gravis.
+ 9. eaque vi territus ipse primitus crebrescentis seditionis in maius secessit ad Mulvium pontem — quem struxisse superior dicitur Scaurus — adlenimenta ibidem tumultus opperiens, quem causa concitaverat gravis.
  
 
  10. aedificia erigere exoriens nova, vel vetusta quaedam instaurans, non ex titulis solitis parari iubebat inpensas sed, si ferrum quaerebatur aut plumbum aut aes aut quicquam simile, apparitores inmittebantur, qui velut ementes diversa raperent species, nulla pretia persolvendo, unde accensorum iracundiam pauperum damna deflentium crebra aegre potuit celeri vitare digressu.
@@ -223,7 +223,7 @@ Ammianus: Liber XXVII
  7. accipite igitur, quaeso, placidis mentibus, viri fortissimi, desiderium nostrum, id reputantes quod haec, quae fieri caritatis sanciunt iura, non tantum transire voluimus per conscientiam vestram, verum etiam probata firmari ut congrua nobis et profutura.
  
 
- 8. Gratianum hunc meum adultum, quem diu versatum inter liberos vestros commune diligitis pignus, undique muniendae tranquillitatis publicae causa in augustum sumere conmilitium paro, si propitia caelestis numinis vestraeque maiestatis voluntas parentis amorem iuverit praeeuntem: non rigido cultu ab incunabulis ipsis ut nos educatum, nec tolerantia rerum coalitum asperarum, nec capacem adhuc Martii pulveris, ut videtis, sed familiae suae laudibus maiorumque factis praestantibus concinentem, potioribus &#151; invidiae metu dicitur &#151; protinus surrecturum, ut enim mihi videri solet, mores eius et adpetitus licet nondum maturos saepe pensanti.
+ 8. Gratianum hunc meum adultum, quem diu versatum inter liberos vestros commune diligitis pignus, undique muniendae tranquillitatis publicae causa in augustum sumere conmilitium paro, si propitia caelestis numinis vestraeque maiestatis voluntas parentis amorem iuverit praeeuntem: non rigido cultu ab incunabulis ipsis ut nos educatum, nec tolerantia rerum coalitum asperarum, nec capacem adhuc Martii pulveris, ut videtis, sed familiae suae laudibus maiorumque factis praestantibus concinentem, potioribus — invidiae metu dicitur — protinus surrecturum, ut enim mihi videri solet, mores eius et adpetitus licet nondum maturos saepe pensanti.
  
 
  9. ineunte adulescentia quoniam humanitate et studiis disciplinarum sollertium est expolitus, librabit suffragiis puris merita recte secusve factorum: faciet, ut sciant se boni intellegi: in pulchra facinora procursabit signis militaribus et aquilis adhaesurus: solem nivesque et pruinas et sitim perferet et vigilias: castris, si necessitas adegerit aliquotiens, propugnabit: salutem pro periculorum sociis obiectabit: et quod pietatis summum primumque [munus] est, rem publicam ut domum paternam diligere poterit et avitam™.
@@ -322,7 +322,7 @@ Ammianus: Liber XXVII
  1. Haec in Brittanniis agebantur. Africam vero iam inde ab exordio Valentiniani imperii exurebat barbarica rabies, per procursus audentiores et crebris caedibus et rapinis intenta quam rem militaris augebat socordia et aliena invadendi cupiditas maximeque Romani nomine comitis.
  
 
- 2. qui venturi providus transferendaeque in alios invidiae artifex, saevitia morum multis erat exosus, hac praecipue causa quod superare hostes in vastandis provinciis festinabat, adfinitate Remigii [tunc] magistri officiorum confisus, quo prava et contraria referente princeps &#151; ut prae se ferebat ipse &#151; cautissimus lacrimosa dispendia diutius ignoravit Afrorum.
+ 2. qui venturi providus transferendaeque in alios invidiae artifex, saevitia morum multis erat exosus, hac praecipue causa quod superare hostes in vastandis provinciis festinabat, adfinitate Remigii [tunc] magistri officiorum confisus, quo prava et contraria referente princeps — ut prae se ferebat ipse — cautissimus lacrimosa dispendia diutius ignoravit Afrorum.
  
 
  3. Gestorum autem per eas regiones seriem plenam et Rurici praesidis legatorumque mortem et cetera luctuosa cum adegerit ratio, diligentius explicabo.
@@ -439,7 +439,7 @@ Ammianus: Liber XXVII
  4. deinde nequid intemeratum perfidia praeteriret, Sauromace pulso, quem auctoritas Romana praefecit Hiberiae, Aspacurae cuidam potestatem eiusdem detulit gentis diademate addito, ut arbitrio se monstraret insultare nostrorum.
  
 
- 5. quibus ita studio nefando perfectis, Cylaci spadoni et Artabanni, quos olim susceperat perfugas, commisit Armeniam &#151; horum alter ante gentis praefectus, alter magister fuisse dicebatur armorum &#151; isdemque mandarat, ut Artogerassam intentiore cura excinderent, oppidum muris et viribus validum, quod thesauros et uxorem cum filio tuebatur Arsacis.
+ 5. quibus ita studio nefando perfectis, Cylaci spadoni et Artabanni, quos olim susceperat perfugas, commisit Armeniam — horum alter ante gentis praefectus, alter magister fuisse dicebatur armorum — isdemque mandarat, ut Artogerassam intentiore cura excinderent, oppidum muris et viribus validum, quod thesauros et uxorem cum filio tuebatur Arsacis.
  
 
  6. iniere, ut statutum est, obsidium duces. et quoniam munimentum positum in asperitate montana, rigente tunc caelo nivibus et pruinis adiri non poterat, eunuchus Cylaces aptusque ad muliebria palpamenta, Artabanne adscito, prope moenia ipsa fide non amittendae salutis accepta propere venit, et cum socio ad interiora susceptus ut postulavit, suadebat minaciter defensoribus et reginae, motum Saporis inclementissimi omnium lenire deditione veloci.

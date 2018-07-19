@@ -26,20 +26,20 @@ ille quidem lateat malim, dum tempora dentur
 sed male dissimulo; quis enim celaverit ignem, 
   lumine qui semper proditur ipse suo? 
 si tamen expectas, vocem quoque rebus ut addam: 
-  uror&#151;habes animi nuntia verba mei. 
+  uror—habes animi nuntia verba mei. 
 parce, precor, fasso, nec vultu cetera duro 
   perlege, sed formae conveniente tuae. 
 iamdudum gratum est, quod epistula nostra recepta 
   spem facit, hoc recipi me quoque posse modo. 
 quae rata sit; nec te frustra promiserit, opto, 
   hoc mihi quae suasit, mater Amoris, iter. 
-namque ego divino monitu&#151;ne nescia pecces&#151; 
+namque ego divino monitu—ne nescia pecces— 
   advehor et coepto non leve numen adest. 
 praemia magna quidem, sed non indebita posco: 
   pollicita est thalamo te Cytherea meo. 
 hac duce Sigeo dubias a litore feci 
   longa Phereclea per freta puppe vias. 
-illa dedit faciles auras ventosque secundos&#151; 
+illa dedit faciles auras ventosque secundos— 
   in mare nimirum ius habet orta mari. 
 perstet et ut pelagi, sic pectoris adiuvet aestum, 
   deferat in portus et mea vota suos. 
@@ -48,7 +48,7 @@ attulimus flammas, non hic invenimus, illas.
 nam neque tristis hiems neque nos huc appulit error; 
   Taenaris est classi terra petita meae. 
 nec me crede fretum merces portante carina 
-  findere&#151;quas habeo, di tueantur opes. 
+  findere—quas habeo, di tueantur opes. 
 nec venio Graias veluti spectator ad urbes; 
   oppida sunt regni divitiora mei. 
 te peto, quam pepigit lecto Venus aurea nostro; 
@@ -65,7 +65,7 @@ illa sibi ingentem visa est sub imagine somni
   flammiferam pleno reddere ventre facem. 
 territa consurgit metuendaque noctis opacae 
   visa seni Priamo, vatibus ille refert. 
-arsurum Paridis vates canit Ilion igni&#151; 
+arsurum Paridis vates canit Ilion igni— 
   pectoris, ut nunc est, fax fuit illa mei. 
 forma vigorque animi, quamvis de plebe videbar, 
   indicium tectae nobilitatis erat. 
@@ -74,12 +74,12 @@ est locus in mediis nemorosae vallibus Idae
 qui nec ovis placidae nec amantis saxa capellae 
   nec patulo tardae carpitur ore bovis; 
 hinc ego Dardaniae muros excelsaque tecta 
-  et freta prospiciens arbore nixus eram&#151; 
-ecce, pedum pulsu visa est mihi terra moveri&#151; 
-  vera loquar veri vix habitura fidem&#151; 
+  et freta prospiciens arbore nixus eram— 
+ecce, pedum pulsu visa est mihi terra moveri— 
+  vera loquar veri vix habitura fidem— 
 constitit ante oculos actus velocibus alis 
-  Atlantis magni Pleionesque nepos&#151; 
-fas vidisse fuit, fas sit mihi visa referre&#151; 
+  Atlantis magni Pleionesque nepos— 
+fas vidisse fuit, fas sit mihi visa referre— 
   inque dei digitis aurea virga fuit. 
 tresque simul divae, Venus et cum Pallade Iuno, 
   graminibus teneros inposuere pedes. 
@@ -161,7 +161,7 @@ magna quidem de te rumor praeconia fecit,
   nullaque de facie nescia terra tua est; 
 nec tibi par usquam Phrygia nec solis ab ortu 
   inter formosas altera nomen habet! 
-credis et hoc nobis?&#151;minor est tua gloria vero 
+credis et hoc nobis?—minor est tua gloria vero 
   famaque de forma paene maligna tua est. 
 plus hic invenio, quam quod promiserat illa, 
   et tua materia gloria victa sua est. 
@@ -239,7 +239,7 @@ hostibus eveniant convivia talia nostris,
   experior posito qualia saepe mero. 
 paenitet hospitii, cum me spectante lacertos 
   imponit collo rusticus iste tuo. 
-rumpor et invideo&#151;quid ni tamen omnia narrem?&#151; 
+rumpor et invideo—quid ni tamen omnia narrem?— 
   membra superiecta cum tua veste fovet. 
 oscula cum vero coram non dura daretis, 
   ante oculos posui pocula sumpta meos; 
@@ -269,7 +269,7 @@ Prodita sunt, memini, tunica tua pectora laxa
   atque oculis aditum nuda dedere meis 
 pectora vel puris nivibus vel lacte tuamve 
   complexo matrem candidiora Iove. 
-dum stupeo visis&#151;nam pocula forte tenebam&#151; 
+dum stupeo visis—nam pocula forte tenebam— 
   tortilis a digitis excidit ansa meis. 
 oscula si natae dederas, ego protinus illa 
   Hermiones tenero laetus ab ore tuli. 
@@ -297,7 +297,7 @@ non mea sunt summa leviter destricta sagitta
   pectora; descendit vulnus ad ossa meum! 
 hoc mihi, nam repeto, fore ut a caeleste sagitta 
   figar, erat verax vaticinata soror. 
-parce datum fatis, Helene, contemnere amorem&#151; 
+parce datum fatis, Helene, contemnere amorem— 
   sic habeas faciles in tua vota deos. 
 multa quidem subeunt; sed coram ut plura loquamur, 
   excipe me lecto nocte silente tuo. 
@@ -318,7 +318,7 @@ nunc ea peccemus quae corriget hora iugalis,
 sed tibi et hoc suadet rebus, non voce, maritus, 
   neve sui furtis hospitis obstet, abest. 
 non habuit tempus, quo Cresia regna videret 
-  aptius&#151;o mira calliditate virum! 
+  aptius—o mira calliditate virum! 
 'res, et ut Idaei mando tibi,' dixit iturus, 
   'curam pro nobis hospitis, uxor, agas.' 
 neglegis absentis, testor, mandata mariti; 

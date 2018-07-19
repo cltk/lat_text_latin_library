@@ -20,10 +20,10 @@ Ovid: Heroides II
 Hospita, Demophoon, tua te Rhodopeia Phyllis 
   ultra promissum tempus abesse queror. 
 cornua cum lunae pleno semel orbe coissent, 
-  litoribus nostris ancora pacta tua est&#151; 
+  litoribus nostris ancora pacta tua est— 
 luna quater latuit, toto quater orbe recrevit;    5 
   nec vehit Actaeas Sithonis unda rates. 
-tempora si numeres&#151;bene quae numeramus amantes&#151; 
+tempora si numeres—bene quae numeramus amantes— 
   non venit ante suam nostra querela diem. 
 Spes quoque lenta fuit; tarde, quae credita laedunt, 
   credimus. invita nunc es amante nocens.    10 
@@ -53,25 +53,25 @@ promissus socios ubi nunc Hymenaeus in annos,
   qui mihi coniugii sponsor et obses erat? 
 per mare, quod totum ventis agitatur et undis,    35 
   per quod nempe ieras, per quod iturus eras, 
-perque tuum mihi iurasti&#151;nisi fictus et ille est&#151; 
+perque tuum mihi iurasti—nisi fictus et ille est— 
   concita qui ventis aequora mulcet, avum, 
-per Venerem nimiumque mihi facientia tela&#151; 
-  altera tela arcus, altera tela faces&#151;    40 
+per Venerem nimiumque mihi facientia tela— 
+  altera tela arcus, altera tela faces—    40 
 Iunonemque, toris quae praesidet alma maritis, 
   et per taediferae mystica sacra deae. 
 si de tot laesis sua numina quisque deorum 
   vindicet, in poenas non satis unus eris. 
-Ah, laceras etiam puppes furiosa refeci&#151;    45 
-  ut, qua desererer, firma carina foret!&#151; 
+Ah, laceras etiam puppes furiosa refeci—    45 
+  ut, qua desererer, firma carina foret!— 
 remigiumque dedi, quod me fugiturus haberes. 
   heu! patior telis vulnera facta meis! 
 credidimus blandis, quorum tibi copia, verbis; 
   credidimus generi nominibusque tuis;     50 
-credidimus lacrimis&#151;an et hae simulare docentur? 
+credidimus lacrimis—an et hae simulare docentur? 
   hae quoque habent artes, quaque iubentur, eunt? 
 dis quoque credidimus. quo iam tot pignora nobis? 
   parte satis potui qualibet inde capi. 
-Nec moveor, quod te iuvi portuque locoque&#151;    55 
+Nec moveor, quod te iuvi portuque locoque—    55 
   debuit haec meriti summa fuisse mei! 
 turpiter hospitium lecto cumulasse iugali 
   paenitet, et lateri conseruisse latus. 
@@ -88,14 +88,14 @@ inter et Aegidas, media statuaris in urbe,
 cum fuerit Sciron lectus torvusque Procrustes 
   et Sinis et tauri mixtaque forma viri    70 
 et domitae bello Thebae fusique bimembres 
-  et pulsata nigri regia caeca dei&#151; 
+  et pulsata nigri regia caeca dei— 
 hoc tua post illos titulo signetur imago: 
   hic est, cuius amans hospita capta dolo est. 
 de tanta rerum turba factisque parentis    75 
   sedit in ingenio Cressa relicta tuo. 
 quod solum excusat, solum miraris in illo; 
   heredem patriae, perfide, fraudis agis. 
-illa&#151;nec invideo&#151;fruitur meliore marito 
+illa—nec invideo—fruitur meliore marito 
   inque capistratis tigribus alta sedet;    80 
 at mea despecti fugiunt conubia Thraces, 
   quod ferar externum praeposuisse meis. 
@@ -104,7 +104,7 @@ atque aliquis 'iam nunc doctas eat,' inquit, 'Athenas;
 exitus acta probat.' careat successibus, opto,    85 
   quisquis ab eventu facta notanda putat! 
 at si nostra tuo spumescant aequora remo, 
-  iam mihi, iam dicar consuluisse meis&#151; 
+  iam mihi, iam dicar consuluisse meis— 
 sed neque consului, nec te mea regia tanget 
   fessaque Bistonia membra lavabis aqua!    90 
 Illa meis oculis species abeuntis inhaeret, 
@@ -117,12 +117,12 @@ et mihi discedens suprema dicere voce:
   'Phylli, fac expectes Demophoonta tuum!' 
 Expectem, qui me numquam visurus abisti? 
   expectem pelago vela negata meo?     100 
-et tamen expecto&#151;redeas modo serus amanti, 
+et tamen expecto—redeas modo serus amanti, 
   ut tua sit solo tempore lapsa fides! 
 Quid precor infelix? te iam tenet altera coniunx 
   forsitan et, nobis qui male favit, amor; 
 iamque tibi excidimus, nullam, puto, Phyllida nosti.    105 
-  ei mihi! si, quae sim Phyllis et unde, rogas&#151; 
+  ei mihi! si, quae sim Phyllis et unde, rogas— 
 quae tibi, Demophoon, longis erroribus acto 
   Threicios portus hospitiumque dedi, 
 cuius opes auxere meae, cui dives egenti 

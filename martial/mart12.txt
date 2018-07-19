@@ -17,7 +17,7 @@ Martial XII
  
 
  
-  Scio me patrocinium debere contumacissimae trienni desidiae; quo absolvenda non esset inter illas quoque urbicas occupationes, quibus facilius consequimur, ut molesti potius, quam ut officiosi esse videamur; nedum in hac provinciali solitudine, ubi nisi etiam intemperanter studemus, et sine solacio et sine excusatione secessimus. Accipe ergo rationem. In qua hoc maximum et primum est, quod civitatis aures, quibus adsueveram, quaero et videor mihi in alieno foro litigare; si quid est enim, quod in libellis meis placeat, dictavit auditor: illam iudiciorum subtilitatem, illud materiarum ingenium, bibliothecas, theatra, convictus, in quibus studere se voluptates non sentiunt, ad summam omnium illa, quae delicati reliquimus, desideramus quasi destituti. Accedit his municipalium robigo dentium et iudici loco livor, et unus aut alter mali, in pusillo loco multi; adversus quod difficile est habere cotidie bonum stomachum: ne mireris igitur abiecta ab indignante quae a gestiente fieri solebant. Ne quid tamen et advenienti tibi ab urbe et exigenti negarem &#151; cui non refero gratiam, si tantum ea praesto quae possum &#151; , imperavi mihi, quod indulgere consueram, et studui paucissimis diebus, ut familiarissimas mihi aures tuas exciperem adventoria sua. Tu velim ista, quae tantum apud te non periclitantur, diligenter aestimare et excutere non graveris; et, quod tibi difficillimum est, de nugis nostris iudices nitore seposito, ne Romam, si ita decreveris, non Hispaniensem librum mittamus, sed Hispanum.
+  Scio me patrocinium debere contumacissimae trienni desidiae; quo absolvenda non esset inter illas quoque urbicas occupationes, quibus facilius consequimur, ut molesti potius, quam ut officiosi esse videamur; nedum in hac provinciali solitudine, ubi nisi etiam intemperanter studemus, et sine solacio et sine excusatione secessimus. Accipe ergo rationem. In qua hoc maximum et primum est, quod civitatis aures, quibus adsueveram, quaero et videor mihi in alieno foro litigare; si quid est enim, quod in libellis meis placeat, dictavit auditor: illam iudiciorum subtilitatem, illud materiarum ingenium, bibliothecas, theatra, convictus, in quibus studere se voluptates non sentiunt, ad summam omnium illa, quae delicati reliquimus, desideramus quasi destituti. Accedit his municipalium robigo dentium et iudici loco livor, et unus aut alter mali, in pusillo loco multi; adversus quod difficile est habere cotidie bonum stomachum: ne mireris igitur abiecta ab indignante quae a gestiente fieri solebant. Ne quid tamen et advenienti tibi ab urbe et exigenti negarem — cui non refero gratiam, si tantum ea praesto quae possum — , imperavi mihi, quod indulgere consueram, et studui paucissimis diebus, ut familiarissimas mihi aures tuas exciperem adventoria sua. Tu velim ista, quae tantum apud te non periclitantur, diligenter aestimare et excutere non graveris; et, quod tibi difficillimum est, de nugis nostris iudices nitore seposito, ne Romam, si ita decreveris, non Hispaniensem librum mittamus, sed Hispanum.
  
 
  
@@ -102,7 +102,7 @@ Plura legant vacui, quibus otia tuta dedisti:
 
  
 Quae modo litoreos ibatis carmina Pyrgos, 
-  Ite sacra &#151; iam non pulverulenta &#151; via. 
+  Ite sacra — iam non pulverulenta — via. 
 Contigit Ausoniae procerum mitissimus aulae 
   Nerva: licet toto nunc Helicone frui: 
 Recta fides, hilaris clementia, cauta potestas    5 
@@ -176,7 +176,7 @@ Parthenio dic, Musa, tuo nostroque salutem:
   Nam quis ab Aonio largius amne bibit? 
 Cuius Pipleo lyra clarior exit ab antro? 
   Quem plus Pierio de grege Phoebus amat? 
-Et si forte &#151; sed hoc vix est sperare &#151; vacabit,    5 
+Et si forte — sed hoc vix est sperare — vacabit,    5 
   Tradat ut ipse duci carmina nostra, roga, 
 Quattuor et tantum timidumque brevemque libellum 
   Commendet verbis 'Hunc tua Roma legit.'
@@ -220,7 +220,7 @@ Insidias et campus habet: nec fossa nec agger    5
 Non deerit qui tanta tibi spectacula praestet, 
   Invidia fati sed leviore cadat. 
 Si te delectant animosa pericula, Tuscis 
-  &#151; Tutior est virtus &#151; insidiemur apris.    10 
+  — Tutior est virtus — insidiemur apris.    10 
 Quid te frena iuvant temeraria? saepius illis, 
   Prisce, datum est equitem rumpere, quam leporem.
  
@@ -240,7 +240,7 @@ Regis delicias gravesque lusus:    5
 Haec sunt pocula, quae decent Tonantem, 
 Haec sunt, quae Phrygium decent ministrum. 
 Omnes cum Iove nunc sumus beati; 
-At nuper &#151; pudet, a pudet fateri &#151; 
+At nuper — pudet, a pudet fateri — 
 Omnes cum Iove pauperes eramus.
  
 
@@ -292,8 +292,8 @@ Me multos repetita post Decembres
 Accepit mea rusticumque fecit 
 Auro Bilbilis et superba ferro. 
 Hic pigri colimus labore dulci    10 
-Boterdum Plateamque &#151; Celtiberis 
-Haec sunt nomina crassiora terris &#151; : 
+Boterdum Plateamque — Celtiberis 
+Haec sunt nomina crassiora terris — : 
 Ingenti fruor inproboque somno, 
 Quem nec tertia saepe rumpit hora, 
 Et totum mihi nunc repono, quidquid    15 
@@ -370,7 +370,7 @@ Esset caeca decentior Philaenis.
  
 
  
-Dentibus atque comis &#151; nec te pudet &#151; uteris emptis. 
+Dentibus atque comis — nec te pudet — uteris emptis. 
   Quid facies oculo, Laelia? non emitur.
  
 
@@ -1066,7 +1066,7 @@ Quam non parca manus largaeque nomismata mensae,
   Quae, Saturne, tibi pernumerentur opes? 
 Utque sit his pretium meritis et gratia maior, 
   Et pater et frugi sic tua sacra colit. 
-At tu sancte &#151; tuo sic semper amere Decembri &#151;    15 
+At tu sancte — tuo sic semper amere Decembri —    15 
   Hos illi iubeas saepe redire dies.
  
 
@@ -1435,7 +1435,7 @@ Triginta tibi sunt pueri totidemque puellae:
 Bis Cotta soleas perdidisse se questus, 
 Dum neglegentem ducit ad pedes vernam, 
 Qui solus inopi praestat et facit turbam, 
-Excogitavit &#151; homo sagax et astutus &#151; 
+Excogitavit — homo sagax et astutus — 
 Ne facere posset tale saepius damnum:    5 
 Excalceatus ire coepit ad cenam.
  
@@ -1536,7 +1536,7 @@ Audemus saturas: Lucilius esse laboras.
   Ludo levis elegos: tu quoque ludis idem. 
 Quid minus esse potest? epigrammata fingere coepi: 
   Hinc etiam petitur iam mea palma tibi.    10 
-Elige, quid nolis &#151; quis enim pudor, omnia velle? &#151; 
+Elige, quid nolis — quis enim pudor, omnia velle? — 
   Et si quid non vis, Tucca, relinque mihi.
  
 

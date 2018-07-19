@@ -156,7 +156,7 @@ Ammianus: Liber XXVIII
  
 
  
-35. quae haec metuens, ut Maximini etiam muniretur auxilio, finxit maritum in voluntate, quam condiderat nuper, argenti tria milia pondo eidem reliquisse. qui aviditate nimia flagrans &#151; nec enim hoc quoque vitio caruit &#151; petit hereditatis medietatem. verum etiam hoc ut parum sufficienti nequaquam contentus aliud commentus est, ut arbitrabatur, honestum et tutum, et ne amitteret amplam sibi oblatam lucrandi uberis patrimonii, Victorini privignam Anepsiae filiam petit filio coniugem, idque adsentiente muliere prompte firmatum est.   
+35. quae haec metuens, ut Maximini etiam muniretur auxilio, finxit maritum in voluntate, quam condiderat nuper, argenti tria milia pondo eidem reliquisse. qui aviditate nimia flagrans — nec enim hoc quoque vitio caruit — petit hereditatis medietatem. verum etiam hoc ut parum sufficienti nequaquam contentus aliud commentus est, ut arbitrabatur, honestum et tutum, et ne amitteret amplam sibi oblatam lucrandi uberis patrimonii, Victorini privignam Anepsiae filiam petit filio coniugem, idque adsentiente muliere prompte firmatum est.   
  
 
  
@@ -440,7 +440,7 @@ Ammianus: Liber XXVIII
  
 
  
-22. Subsident aliqui copiosos homines senes aut iuvenes, orbos vel caelibes, aut etiam uxores habentes et liberos &#151; nec enim hoc titulo discrimen aliquod observatur &#151; ad voluntates condendas allicientes eos praestigiis miris: qui cum supremis iudiciis ordinatis, quae habebant, reliquerint his, quibus morem gerendo testati sunt, ilico pereunt, ut id impleri sorte fatorum opperiente [nec] putes, nec facili potest aegritudo testamen ............comitatu est his quisquam.   
+22. Subsident aliqui copiosos homines senes aut iuvenes, orbos vel caelibes, aut etiam uxores habentes et liberos — nec enim hoc titulo discrimen aliquod observatur — ad voluntates condendas allicientes eos praestigiis miris: qui cum supremis iudiciis ordinatis, quae habebant, reliquerint his, quibus morem gerendo testati sunt, ilico pereunt, ut id impleri sorte fatorum opperiente [nec] putes, nec facili potest aegritudo testamen ............comitatu est his quisquam.   
  
 
  
@@ -480,7 +480,7 @@ Ammianus: Liber XXVIII
  
 
  
-32. Vnde si ad theatralem ventum fuerit vilitatem, artifices scaenarii per sibilos exploduntur, siquis sibi aere humiliorem non conciliaverit plebem. qui si defuerit strepitus, ad imitationem Tauricae gentis peregrinos vociferantur pelli debere &#151; quorum subsidiis semper nisi sunt ac steterunt &#151; et taetris vocibus et absurdis; quae longe abhorrent a studiis et voluntate veteris illius plebis, cuius multa facete dicta memoria loquitur et venusta.   
+32. Vnde si ad theatralem ventum fuerit vilitatem, artifices scaenarii per sibilos exploduntur, siquis sibi aere humiliorem non conciliaverit plebem. qui si defuerit strepitus, ad imitationem Tauricae gentis peregrinos vociferantur pelli debere — quorum subsidiis semper nisi sunt ac steterunt — et taetris vocibus et absurdis; quae longe abhorrent a studiis et voluntate veteris illius plebis, cuius multa facete dicta memoria loquitur et venusta.   
  
 
  
@@ -640,11 +640,11 @@ Ammianus: Liber XXVIII
  
 
  
-20. qua gratia flagitiorum arbitra conscientia, cum Romano deinde Palladius concordabat, reversusque ad comitatum, arte mendaciorum impia Valentinianum fefellerat, Tripolitanos frustra queri commemorans. ideoque rursus ad Africam cum Iovino postremo omnium legatorum remittitur &#151; Pancratius enim decesserat apud Treveros &#151; ut cum vicario ipse rmerita legationis quoque secundae spectaret: praeter haec linguas Erechthi et Aristomenis praecidi iusserat imperator, quos invidiosa quaedam locutos idem Palladius intimarat.   
+20. qua gratia flagitiorum arbitra conscientia, cum Romano deinde Palladius concordabat, reversusque ad comitatum, arte mendaciorum impia Valentinianum fefellerat, Tripolitanos frustra queri commemorans. ideoque rursus ad Africam cum Iovino postremo omnium legatorum remittitur — Pancratius enim decesserat apud Treveros — ut cum vicario ipse rmerita legationis quoque secundae spectaret: praeter haec linguas Erechthi et Aristomenis praecidi iusserat imperator, quos invidiosa quaedam locutos idem Palladius intimarat.   
  
 
  
-21. Secutus, ut statutum est, vicarium notarius venit ad Tripolim. hocque conperto Romanus domesticum suum illuc volucriter misit, et Caecilium consiliarium in ea provincia genitum, per quos &#151; incertum pretio an fallaciis &#151; circumventi municipes omnes gravabant Iovinum, destinatius adserentes nihil eorum mandasse, quas docuerat principem: eo usque iniquitate grassante ut ipse quoque Iovinus ad salutis suae discrimen confiteretur se imperatori mentitum.   
+21. Secutus, ut statutum est, vicarium notarius venit ad Tripolim. hocque conperto Romanus domesticum suum illuc volucriter misit, et Caecilium consiliarium in ea provincia genitum, per quos — incertum pretio an fallaciis — circumventi municipes omnes gravabant Iovinum, destinatius adserentes nihil eorum mandasse, quas docuerat principem: eo usque iniquitate grassante ut ipse quoque Iovinus ad salutis suae discrimen confiteretur se imperatori mentitum.   
  
 
  
@@ -672,7 +672,7 @@ Ammianus: Liber XXVIII
  
 
  
-28. hoc fortunae secundioris iudicio plene conperto, deletoque tristium concitore turbarum, exsiluerunt Erechthius et Aristomenes e latebris, qui cum sibi iussas abscidi linguas didicissent ut prodigas, ad longe remota declinarunt et abdita, doctoque super nefanda fraude gratiano imperatore fidentius &#151; Valentinianus enim obierat &#151; ad Hesperium proconsulem et Flavianum vicarium audiendi sunt missi, quorum aequitas auctoritate nixa iustissima, torto Caecilio, aperta confessione cognovit, ipsum suasisse civibus, gravarent mentiendo legatos. haec acta secuta est relatio, gestorum pandens plenissimam fidem; ad quam nihil responsum est.   
+28. hoc fortunae secundioris iudicio plene conperto, deletoque tristium concitore turbarum, exsiluerunt Erechthius et Aristomenes e latebris, qui cum sibi iussas abscidi linguas didicissent ut prodigas, ad longe remota declinarunt et abdita, doctoque super nefanda fraude gratiano imperatore fidentius — Valentinianus enim obierat — ad Hesperium proconsulem et Flavianum vicarium audiendi sunt missi, quorum aequitas auctoritate nixa iustissima, torto Caecilio, aperta confessione cognovit, ipsum suasisse civibus, gravarent mentiendo legatos. haec acta secuta est relatio, gestorum pandens plenissimam fidem; ad quam nihil responsum est.   
  
 
  

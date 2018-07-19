@@ -66,7 +66,7 @@ hanc nunc, ne dissimulare potuissem, audio etiam edictum esse propositum, et
 
 quidem peremptorium. Pontifex scilicet maximus, episcopus episcoporum, edicit:
 
-&#171; Ego et moechiae et fornicationis delicta paenitentia functis dimitto. &#187; [7] O
+« Ego et moechiae et fornicationis delicta paenitentia functis dimitto. » [7] O
 
 edictum cui adscribi non poterit: Bonum factum! Et ubi proponetur liberalitas
 
@@ -180,7 +180,7 @@ limitem liminis moechis quoque et fornicatoribus figimus ieiunas pacis lacrimas
 
 profusuris nec amplius ab ecclesia quam publicationem dedecoris relaturis. 
 
- II. [1] &#171;
+ II. [1] «
 
 Ceterum Deus, inquiunt, bonus et optimus et misericors et miserator et
 
@@ -196,7 +196,7 @@ donauit nobis, non iudicantes, ne iudicemur. Domino enim suo stat quis uel
 
 cadit: tu quis es, ut seruum iudices alienum ? Dimitte, et dimittetur
 
-tibi. &#187; [3] Talia et tanta
+tibi. » [3] Talia et tanta
 
 sparsilia eorum, quibus et Deo adulantur et sibi lenocinantur, effeminantia
 
@@ -290,7 +290,7 @@ hoc erit remissibile. Est delictum ad mortem; non pro illo dico, ut quis
 
 postulet, hoc erit inremissibile. [15] Ita
 
-ubi est postulationis &lt;ratio&gt;, illic etiam remissionis; ubi nec
+ubi est postulationis <ratio>, illic etiam remissionis; ubi nec
 
 postulationis, ibi aeque nec remissionis. Secundum hanc differentiam delictorum
 
@@ -308,7 +308,7 @@ partem debeant redigi.
 
 prius decidam intercedentem ex diuerso responsionem ad eam paenitentiae speciem,
 
-quam cum maxime definimus uenia carere. &#171; Si enim, inquiunt, aliqua paenitentia
+quam cum maxime definimus uenia carere. « Si enim, inquiunt, aliqua paenitentia
 
 caret uenia, iam nec in totum agenda tibi est. Nihil enim agendum est frustra. [2] Porro
 
@@ -316,13 +316,13 @@ frustra agetur paenitentia, si caret uenia. Omnis autem paenitentia agenda est.
 
 Ergo omnis ueniam consequatur, ne frustra agatur, quia non ent agenda, si
 
-frustra agatur. Porro frustra agitur, si uenia carebit. &#187; [3] Merito
+frustra agatur. Porro frustra agitur, si uenia carebit. » [3] Merito
 
 itaque opponunt, quod huius quoque paenitentiae fructum, id est ueniam, in sua
 
 potestate usurpauerunt. Quantum enim ad illos, a quibus pacem humanam
 
-consequitur, &lt;frustra agitur&gt;. Quantum autem ad nos, qui solum Dominum
+consequitur, <frustra agitur>. Quantum autem ad nos, qui solum Dominum
 
 meminimus delicta concedere, et utique mortalia, non frustra agetur. [4] Ad
 
@@ -362,9 +362,9 @@ elogium. [3] Nec enim interest
 
 nuptam alienam an uiduam quis incurset, dum non suam feminam; sicut nec
 
-&lt;de&gt; locis refert, in cubiculis an in turribus pudicitia trucidetur. Omne
+<de> locis refert, in cubiculis an in turribus pudicitia trucidetur. Omne
 
-homicidium &lt;et&gt; extra siluam latrocinium est. [4] Ita
+homicidium <et> extra siluam latrocinium est. [4] Ita
 
 et ubicumque uel in quacumque semetipsum adulterat et stuprat, qui aliter quam
 
@@ -438,7 +438,7 @@ ut solam eam secernat ad paenitentiae fructum? [9] Nonne
 
 hinc idololatria, inde homicidium detinebunt et, si qua uox fuerit, reclamabunt:
 
-&#171; Noster hic cuneus est, nostra compago? Ab idololatria metamur, illa
+« Noster hic cuneus est, nostra compago? Ab idololatria metamur, illa
 
 distinguente coniungimur, illi de medio emicanti adunamur; concorporauit nos
 
@@ -468,7 +468,7 @@ occiditur. [13] Igitur aut
 
 nec illi aut etiam nobis paenitentiae subsidia conuenient. Aut detinemus eam,
 
-aut sequimur. &#187; [14] Haec
+aut sequimur. » [14] Haec
 
 ipsae res loquuntur. Si res uoce deficiunt, adsistit idololatres, adsistit
 
@@ -530,11 +530,11 @@ euacuamus per fidem? Absit, sed legem sistimus , scilicet in his quae
 
 et nunc nouo testamento interdicta etiam cumulatiore praecepto prohibentur. [6] Pro
 
-&#171; non moechaberis &#187;, &#171; qui uiderit ad concupiscentiam, iam
+« non moechaberis », « qui uiderit ad concupiscentiam, iam
 
-moechatus est in corde suo &#187;, et pro &#171; non occides &#187; &#171; qui
+moechatus est in corde suo », et pro « non occides » « qui
 
-dixerit fratri suo Racha, reus erit gebennae &#187;. Quaere, an salua sit
+dixerit fratri suo Racha, reus erit gebennae ». Quaere, an salua sit
 
 lex non moechandi, cui accessit nec concupiscendi. 
 
@@ -648,11 +648,11 @@ quale est, ut Dominus quasi cauillator responsionis omissa specie praesenti,
 
 quam repercutere deberet, de futura laboret? [4] Sed
 
-&#171; ouis proprie Christianus et grex Domini ecclesiae populus et pastor bonus
+« ouis proprie Christianus et grex Domini ecclesiae populus et pastor bonus
 
 Christus et ideo Christianus in oue intellegendus, qui ab ecclesiae grege
 
-errauerit. &#187; [5] Ergo nihil
+errauerit. » [5] Ergo nihil
 
 ad Pharisaeorum mussitationem respondisse uis Dominum, sed ad tuam
 
@@ -712,7 +712,7 @@ tenebris inuenitur, quam Christiano, qui iam in Dei luce est. [12] Denique
 
 et oui et drachmae unus error adscribitur. Nam si iam in Christianum peccatorem
 
-defingerentur post fidem perditum, et &lt;de&gt; iterata amissione eorum et
+defingerentur post fidem perditum, et <de> iterata amissione eorum et
 
 restitutione tractaretur. [13] Decedam
 
@@ -734,7 +734,7 @@ igitur et fidelis elapsus in spectaculum quadrigarii furoris et gladiatorii
 
 cruoris et scaenicae foeditatis et xysticae uanitatis, in lusus, in conuiuia
 
-saecularis sollemnitatis, &lt;si&gt; in officium, in ministerium alienae
+saecularis sollemnitatis, <si> in officium, in ministerium alienae
 
 idololatriae aliquas artes adhibuit curiositatis in uerbum ancipitis negationis
 
@@ -914,7 +914,7 @@ duo utique filii illuc spectabunt, quo et drachma et ouis. Quibus enim
 
 cohaerent, eandem habent causam, eandem utique mussitationem Pharisaeorum erga
 
-commercium Domini &lt;et&gt; ethnicorum. [5] Aut
+commercium Domini <et> ethnicorum. [5] Aut
 
 si quis dubitat ethnicos fuisse publicanos apud Iudaeam usurpatam iam pridem
 
@@ -1120,7 +1120,7 @@ cum gentes sic adoptauerit, dum Iudaei de patientia ludunt. [8] Sed
 
 hoc uolunt psychici, ut Deus iusti iudex eius peccatoris paenitentiam malit quam
 
-mortem qui mortem paenitentia maluit. Quod si ita est, peccando promeremur. [9] &#171;
+mortem qui mortem paenitentia maluit. Quod si ita est, peccando promeremur. [9] «
 
 Age tu funambule pudicitiae et castitatis et omnis circa sexum sanctitatis, qui
 
@@ -1138,9 +1138,9 @@ tenore decusserit, Deus bonus est. [11] Suis,
 
 non ethnicis, sinum subicit; secunda te paenitentia excipiet; eris iterum de
 
-moecho Christianus. &#187; Haec tu mihi benignissime Dei interpres. [12] Sed
+moecho Christianus. » Haec tu mihi benignissime Dei interpres. [12] Sed
 
-cederem tibi, si scriptura &#171; Pastoris &#187;, quae sola moechos amat, diuino
+cederem tibi, si scriptura « Pastoris », quae sola moechos amat, diuino
 
 instrumento meruisset incidi, si non ab omni concilio ecclesiarum, etiam
 
@@ -1526,7 +1526,7 @@ scire, nondum scit quemadmodum oporteat eum scire ! [10] Nonne
 
 et tunc in faciem alicuius impingens, quis enim, inquit, te discernit
 
-? Quid autem habes, quod non accepisti? &lt;Si autem accepisti,&gt; quid
+? Quid autem habes, quod non accepisti? <Si autem accepisti,> quid
 
 gloriaris, quasi non acceperis ? Nonne et illos in os caedit?
 
@@ -2012,7 +2012,7 @@ prohibens regnare delinquentiam in corpore nostro mortali, cuius infirmitatem
 
 carnis nouerat. Sicut enim exhibuistis membra uestra famula immunditiae et
 
-iniquitati &lt;in iniquitatem&gt;, ita et nunc exhibete ea famula iustitiae in
+iniquitati <in iniquitatem>, ita et nunc exhibete ea famula iustitiae in
 
 sanctimoniam. [10] Nam etsi
 
@@ -2104,7 +2104,7 @@ haec, inquit, ad interdictionem pertinebunt omnis impudicitiae et ad indictionem
 
 omnis pudicitiae, saluo tamen loco ueniae, quae non statim denegatur, si delicta
 
-damnantur, quando ueniae tempus cum damnatione &lt;non&gt; concurrat, quam
+damnantur, quando ueniae tempus cum damnatione <non> concurrat, quam
 
 excludit. [2] Sequebatur et
 
@@ -2208,7 +2208,7 @@ uolutando deterserint, et: Qui templum Dei uitiauerit, uitiabit illum Deus, nisi
 
 omnium focorum cineres in ecclesia de capite suo excusserit. [14] Debuerat
 
-enim quae damnauerat proinde determinasse, quonam usque et sub &lt;qua&gt;
+enim quae damnauerat proinde determinasse, quonam usque et sub <qua>
 
 condicione damnasset, si temporali et condicionali et non perpetua seueritate
 
@@ -2352,7 +2352,7 @@ enim in lumine, tenebris uero non communicantes, emundati agemus, non deposito,
 
 sed non admisso delicto. Haec est enim uis dominici sanguinis, ut quos iam
 
-&lt;a&gt; delicto mundarit et exinde in lumine constituerit, mundos exinde
+<a> delicto mundarit et exinde in lumine constituerit, mundos exinde
 
 perstare, si in lumine incedere perseuerauerint. [14] Sed
 
@@ -2576,7 +2576,7 @@ cruentos (nam et Apocalypsis uiridi equo mortem, russeo autem praeliatorem
 
 imposuit), proque illis politos et in compaginem aptos et firmos substrui
 
-lapides, quales in Abrahae &lt;filios&gt;, fiunt, ut ita homo habilis Deo sit. [11] Quod
+lapides, quales in Abrahae <filios>, fiunt, ut ita homo habilis Deo sit. [11] Quod
 
 si post recuperationem et reformationem rursus sacerdos animaduerterit in eadem
 
@@ -2608,7 +2608,7 @@ decurram, excernens inter doctrinam apostolorum et potestatem. Disciplina
 
 hominem gubernat, potestas adsignat. Sed rursum quid potestas?
 
-&lt;Spiritus&gt;. Spiritus autem Deus. [2] Quid
+<Spiritus>. Spiritus autem Deus. [2] Quid
 
 autem docebat? Non communicandum operibus tenebrarum. Obserua quod iubet. Quis
 
@@ -2648,13 +2648,13 @@ si disciplinae solius officia sortitus est, nec imperio praesidere, sed
 
 ministerio, quis aut quantus es indulgere, qui neque prophetam nec apostolum
 
-exhibens cares ea uirtute cuius est indulgere? [7] &#171;
+exhibens cares ea uirtute cuius est indulgere? [7] «
 
-Sed habet, inquis, potestatem ecclesia delicta donandi. &#187; Hoc ego magis et
+Sed habet, inquis, potestatem ecclesia delicta donandi. » Hoc ego magis et
 
-agnosco et dispono, qui ipsum Paracletum in prophetis nouis habeo dicentem: &#171;
+agnosco et dispono, qui ipsum Paracletum in prophetis nouis habeo dicentem: «
 
-Potest ecclesia donare delictum, sed non faciam, ne et alia delinquant. &#187; [8] Quid,
+Potest ecclesia donare delictum, sed non faciam, ne et alia delinquant. » [8] Quid,
 
 si pseudopropheticus spiritus pronuntiauit? atqui magis euersoris fuisset et
 
@@ -2698,7 +2698,7 @@ ueram salutem, et Ananiam uinxit uinculo mortis et debilem pedibus absoluit
 
 uitio ualetudinis. [13] Sed
 
-et in illa disceptatione custodiendae &lt;necne&gt; legis primus omnium Petrus
+et in illa disceptatione custodiendae <necne> legis primus omnium Petrus
 
 spiritu instinctus et de nationum uocatione praefatus, et nunc, inquit, cur
 

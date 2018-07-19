@@ -50,7 +50,7 @@ Plautus: Trinummus
  
  LVXVRIA Sequere hac me, gnata, ut munus fungaris tuom. 
  INOPIA Sequor, sed finem fore quem dicam nescio. 
- LVX. Adest. em illae sunt aedes, i intro nunciam.&#151; 
+ LVX. Adest. em illae sunt aedes, i intro nunciam.— 
 nunc, ne quis erret vostrum, paucis in viam 
 deducam, si quidem operam dare promittitis.    5 
 nunc igitur primum quae ego sim et quae illaec siet, 
@@ -69,7 +69,7 @@ huic Graece nomen est Thensauro fabulae:
 Philemo scripsit, Plautus vertit barbare, 
 nomen Trinummo fecit, nunc hoc vos rogat   20 
 ut liceat possidere hanc nomen fabulam. 
-tantum est. valete, adeste cum silentio.&#151;
+tantum est. valete, adeste cum silentio.—
  
 
  
@@ -102,7 +102,7 @@ remoramque faciunt rei privatae et publicae.
  I.ii 
  CALLICLES Larem corona nostrum decorari volo. 
 uxor, venerare ut nobis haec habitatio      40 
-bona fausta felix fortunataque evenat&#151; 
+bona fausta felix fortunataque evenat— 
 teque ut quam primum possim videam emortuam. 
  MEG. Hic ille est, senecta aetate qui factust puer, 
 qui admisit in se culpam castigabilem. 
@@ -217,7 +217,7 @@ nobis, et quaeso identidem circumspice.
  MEG. Ausculto si quid dicas. CAL. Si taceas, loquar. 
 quoniam hinc est profecturus peregre Charmides, 
 thensaurum demonstravit mihi in hisce aedibus,   150 
-hic in conclavi quodam &#151; sed circumspice. 
+hic in conclavi quodam — sed circumspice. 
  MEG. Nemost. CAL. Nummorum Philippeum ad tria milia. 
 id solus solum per amicitiam et per fidem 
 flens me obsecravit suo ne gnato crederem 
@@ -267,7 +267,7 @@ habet?
  MEG. Istuc volebam scire. i sane nunciam.            195 
 sed quid ais? quid nunc virgo? nempe apud te est? CAL. Itast, 
 iuxtaque eam curo cum mea. MEG. Recte facis. 
- CAL. Numquid, prius quam abeo, me rogaturu's? &#151; MEG. 
+ CAL. Numquid, prius quam abeo, me rogaturu's? — MEG. 
 Vale. 
 nihil est profecto stultius neque stolidius 
 neque mendaciloquius neque argutum magis,      200 
@@ -292,7 +292,7 @@ unde quidquid auditum dicant, nisi id appareat,
 famigeratori res sit cum damno et malo, 
 hoc ita si fiat, publico fiat bono,         220 
 pauci sint faxim qui sciant quod nesciunt, 
-occlusioremque habeant stultiloquentiam.&#151;
+occlusioremque habeant stultiloquentiam.—
  
 
  
@@ -380,7 +380,7 @@ sacrum profanum, publicum privatum habent, hiulca gens.
 haec ego doleo, haec sunt quae me excruciant, haec dies 
 noctesque tibi canto ut caveas. 
 quod manu non queunt tangere tantum fas habent quo manus abstineant,   290 
-cetera: rape trahe, fuge late &#151; lacrumas 
+cetera: rape trahe, fuge late — lacrumas 
 haec mihi quom video eliciunt, 
 quia ego ad hoc genus hominum duravi. 
 quin prius me ad plures penetravi? 
@@ -491,7 +491,7 @@ tute ad eum adeas, tute concilies, tute poscas. PHIL. Eccere.
 gravius tuom erit unum verbum ad eam rem quam centum mea. 
  PHIL. Ecce autem in benignitate hoc repperi, negotium. 
 dabitur opera. LYS. Lepidus vivis. haec sunt aedes, hic habet;   390 
-Lesbonico est nomen. age, rem cura. ego te opperiar domi.&#151;
+Lesbonico est nomen. age, rem cura. ego te opperiar domi.—
  
 
  
@@ -615,7 +615,7 @@ ubi mortuos sis, ita sis ut nomen cluet.
  PHIL. Nunc ut scias hic factiones atque opes 
 non esse neque nos tuam neglegere gratiam, 
 sine dote posco tuam sororem filio. 
-quae res bene vortat &#151; habeon pactam? quid taces?    500 
+quae res bene vortat — habeon pactam? quid taces?    500 
  STAS. Pro di immortales, condicionem quoius modi. 
  PHIL. Quin fabulare 'di bene vortant, spondeo'? 
  STAS. Eheu ubi usus nil erat dicto, spondeo 
@@ -692,15 +692,15 @@ quid tibi lubet tute agito cum nato meo.       570
 nunc tuam sororem filio posco meo. 
 quae res bene vortat. quid nunc? etiam consulis? 
  LESB. Quid istic? quando ita vis: di bene vortant. spondeo. 
- STAS. Numquam edepol quoiquam &lt;tam> expectatus filius 
+ STAS. Numquam edepol quoiquam <tam> expectatus filius 
 natus quam illuc est spondeo natum mihi.       575 
 di fortunabunt vostra consilia. PHIL. Ita volo. 
  LESB. Sed, Stasime, abi huc ad meam sororem ad Calliclem, 
 dic hoc negoti quo modo actumst. STAS. Ibitur. 
  LESB. Et gratulator meae sorori. STAS. Scilicet. 
  PHIL. I hac, Lesbonice, mecum, ut coram nuptiis    580 
-dies constituatur; eadem haec confirmabimus.&#151; 
- LESB. [Tu istuc cura quod iussi. ego iam hic ero.&#151;] 
+dies constituatur; eadem haec confirmabimus.— 
+ LESB. [Tu istuc cura quod iussi. ego iam hic ero.—] 
 dic Callicli, me ut convenat. STAS. Quin tu i modo. 
  LESB. De dote ut videat quid opus sit facto. STAS. I
 modo. 
@@ -708,12 +708,12 @@ modo.
 i modo.    585 
  LESB. Neque enim illi damno umquam esse patiar STAS. 
 Abi modo. 
- LESB. Meam neglegentiam. STAS. I modo. LESB. &lt;Nullo
+ LESB. Meam neglegentiam. STAS. I modo. LESB. <Nullo
 modo> 
 aequom videtur quin quod peccarim STAS. I modo. 
  LESB. Potissimum mi id obsit. STAS. I modo. LESB. 
 O pater, 
-enumquam aspiciam te? &#151; STAS. I modo, i modo, i modo.      590 
+enumquam aspiciam te? — STAS. I modo, i modo, i modo.      590 
 tandem impetravi abiret. di vestram fidem, 
 edepol re gesta pessume gestam probe, 
 si quidem ager nobis salvos est; etsi admodum 
@@ -724,7 +724,7 @@ effugiet ex urbe, ubi erunt factae nuptiae,
 ibit istac, aliquo, in maximam malam crucem, 
 latrocinatum, aut in Asiam aut in Ciliciam. 
 ibo huc quo mi imperatumst, etsi odi hanc domum,    600 
-postquam exturbavit hic nos ex nostris aedibus.&#151;
+postquam exturbavit hic nos ex nostris aedibus.—
  
 
  
@@ -743,7 +743,7 @@ Lesbonicum suam sororem despondisse. em hoc modo.
 filio, 
 sine dote. CALL. Sine dote ille illam in tantas divitias dabit?       605 
 non credibile dicis. STAS. At tu edepol nullus creduas. 
-si hoc non credis, ego credidero &#151; C. Quid? S. Me nihili
+si hoc non credis, ego credidero — C. Quid? S. Me nihili
 pendere. 
  CALL. Quam dudum istuc aut ubi actumst? STAS. Ilico hic
 ante ostium, 
@@ -752,7 +752,7 @@ quam in re salva Lesbonicus factus est frugalior?          610
  STAS. Atque equidem ipsus ultro venit Philto oratum filio. 
  CALL. Flagitium quidem hercle fiet, nisi dos dabitur virgini. 
 postremo edepol ego istam rem ad me attinere intellego. 
-ibo ad meum castigatorem atque ab eo consilium petam.&#151; 
+ibo ad meum castigatorem atque ab eo consilium petam.— 
  STAS. Propemodum quid illic festinet sentio et subolet mihi:      615 
 ut agro evortat Lesbonicum, quando evortit aedibus. 
 o ere Charmides, quam apsenti hic tua res distrahitur tibi! 
@@ -826,7 +826,7 @@ insanum [et] malumst in hospitium devorti ad Cupidinem.
 sed te moneo hoc etiam atque etiam, ut reputes quid facere expetas. 
 si istuc, ut conare, facis ~ indicium tuom incendes genus;       675 
 tum igitur tibi aquae erit cupido, genus qui restinguas tuom, 
-atque si eris nactus, proinde ut corde amantes sunt cati&#151; 
+atque si eris nactus, proinde ut corde amantes sunt cati— 
 ne scintillam quidem relinques, genus qui congliscat tuom. 
  LESB. Facilest inventu: datur ignis, tametsi ab inimico petas. 
 sed tu obiurgans me a peccatis rapis deteriorem in viam.      680 
@@ -840,7 +840,7 @@ atque eum agrum me habere, quam te, tua qui toleres moenia?
  LESB. Nolo ego mihi te tam prospicere, qui meam egestatem leves, 
 sed ut inops infamis ne sim, ne mi hanc famam differant, 
 me germanam meam sororem in concubinatum tibi,       690 
-si sine dote &lt;dem>, dedisse magis quam in matrimonium. 
+si sine dote <dem>, dedisse magis quam in matrimonium. 
 quis me improbior perhibeatur esse? haec famigeratio 
 te honestet, me conlutulentet, si sine dote duxeris: 
 tibi sit emolumentum honoris, mihi quod obiectent siet. 
@@ -867,7 +867,7 @@ Lysiteles, ibi de istis rebus plura fabulabimur.
 si mihi tua soror, ut ego aequom censeo, ita nuptum datur, 
 sine dote, neque tu hinc abituru's, quod meum erit id erit tuom; 
 sin aliter animatus es, bene quod agas eveniat tibi,         715 
-ego amicus numquam tibi ero alio pacto. sic sententia est.&#151; 
+ego amicus numquam tibi ero alio pacto. sic sententia est.— 
  STAS. Abiit [hercle] ille quidem. ecquid audis, Lysiteles? ego
 te volo. 
 hic quoque hinc abiit. Stasime, restas solus. quid ego nunc agam, 
@@ -880,7 +880,7 @@ et capturum spolia ibi illum qui [meo] ero adversus venerit.
 egomet autem quom extemplo arcum [mihi] et pharetram et sagittas sumpsero, 725 
 cassidem in caput, dormibo placide in tabernaculo. 
 ad forum ibo: nudius sextus quoi talentum mutuom 
-dedi, reposcam, ut habeam, mecum quod feram, viaticum.&#151;
+dedi, reposcam, ut habeam, mecum quod feram, viaticum.—
  
 
  
@@ -913,7 +913,7 @@ locum quoque illum omnem, ubi situst, comederit;
 quem fodere metuo, sonitum ne ille exaudiat 
 neu rem ipsam indaget, dotem dare si dixerim.       755 
  MEG. Quo pacto ergo igitur clam dos depromi potest? 
- CALL. Dum occasio ei &lt;rei> reperiatur, interim 
+ CALL. Dum occasio ei <rei> reperiatur, interim 
 ab amico alicunde mutuom argentum rogem. 
  MEG. Potin est ab amico alicunde exorari? CALL. Potest. 
  MEG. Gerrae. ne tu illud verbum actutum inveneris:       760 
@@ -924,7 +924,7 @@ ab amico alicunde mutuom argentum rogem.
 est? 
  MEG. Homo conducatur aliquis iam, quantum potest,      765 
 [quasi sit peregrinus. CALL. Quid is scit facere postea?] 
-ignota facie, quae &lt;hic> non visitata sit;         768 
+ignota facie, quae <hic> non visitata sit;         768 
 mendacilocum aliquem [ CALL. Quid is scit facere postea?] 
 falsidicum, confidentem. CALL. Quid tum postea? 
  MEG. Is homo exornetur graphice in peregrinum modum;   767 
@@ -975,9 +975,9 @@ quidvis probare poterit; tum, quod maxumumst,
 adferre, non petere hinc se dicet. CALL. Iam sat est. 
  MEG. Ego sycophantam iam conduco de foro          815 
 epistulasque iam consignabo duas, 
-eumque huc &lt;ad> adulescentem meditatum probe 
+eumque huc <ad> adulescentem meditatum probe 
 mittam. CALL. Eo ego igitur intro ad officium meum. 
-tu istuc age. &#151; MEG. Actum reddam nugacissume.&#151;
+tu istuc age. — MEG. Actum reddam nugacissume.—
  
 
  
@@ -991,7 +991,7 @@ tu istuc age. &#151; MEG. Actum reddam nugacissume.&#151;
  CHARMIDES Salsipotenti et mulsipotenti Iovis fratri et Nerei
 Neptuno      820 
 laetus lubens laudes ago et grates gratiasque habeo et fluctibus salsis, 
-quos penes mei &lt;fuit saepe> potestas, bonis meis quid foret et meae
+quos penes mei <fuit saepe> potestas, bonis meis quid foret et meae
 vitae, 
 quom suis med ex locis in patriam suavissumam reducem faciunt. 
 atque ego, Neptune, tibi ante alios deos gratias ago atque habeo summas; 
@@ -1007,7 +1007,7 @@ abi, laudo, scis ordine, ut aequomst, tractare homines; hoc dis dignumst.      8
 fidus fuisti: infidum esse iterant; nam apsque foret te, sat scio in
 alto 
 distraxissent disque tulissent satellites tui me miserum foede 
-bonaque omnia &lt;mea> item una mecum passim caeruleos per campos: 
+bonaque omnia <mea> item una mecum passim caeruleos per campos: 
 ita iam quasi canes, haud secus, circum stabant navem turbines venti,      835 
 imbres fluctusque atque procellae infensae frangere malum, 
 ruere antemnas, scindere vela, ni tua pax propitia foret praesto. 
@@ -1055,7 +1055,7 @@ hercle opinor mi advenienti hac noctu agitandumst vigilias.
 gerit?       870 
  CH. Quid, adulescens, quaeris? quid vis? quid istas pultas?
  S. Heus senex, 
-census cum &lt;sum>, iuratori recte rationem dedi. 
+census cum <sum>, iuratori recte rationem dedi. 
 * * *                  872a 
 Lesbonicum hic adulescentem quaero in his regionibus 
 ubi habitet, et item alterum ad istanc capitis albitudinem: 
@@ -1102,8 +1102,8 @@ longior.
 novistin hominem? SYC. Ridicule rogitas, quicum una cibum         905 
 capere soleo. CH. Quid est ei nomen? SYC. Quod edepol
 homini probo. 
- CHARM. Lubet audire. SYC. Illi edepol &#151; illi &#151; illi
-&#151; vae misero mihi. 
+ CHARM. Lubet audire. SYC. Illi edepol — illi — illi
+— vae misero mihi. 
  CHARM. Quid est negoti? SYC. Devoravi nomen imprudens
 modo. 
  CHARM. Non placet qui amicos intra dentes conclusos habet. 
@@ -1115,7 +1115,7 @@ atque hominum pudet.
  CH. Vide modo ut hominem noveris. S. Tam quam me. fieri
 istuc solet, 
 quod in manu teneas atque oculis videas, id desideres. 
-litteris recomminiscar. &lt;C> est principium nomini.         915 
+litteris recomminiscar. <C> est principium nomini.         915 
  CH. Callias? S. Non est. CH. Callippus? S. 
 Non est. CH. Callidemides? 
  S. Non est. CH. Callinicus? S. Non est. CH. 
@@ -1124,7 +1124,7 @@ neque adeo edepol flocci facio, quando egomet memini mihi.
  CHARM. At enim multi Lesbonici sunt hic: nisi nomen patris 
 dices, non monstrare istos possum homines quos tu quaeritas.   920 
 quod ad exemplum est? coniectura si reperire possumus. 
- SYC. Ad hoc exemplum est &#151; CHARM. An Chares? an Charmides?
+ SYC. Ad hoc exemplum est — CHARM. An Chares? an Charmides?
  SYC. Enim 
       Charmides. 
 em istic erit. qui istum di perdant. dixi ego iam dudum tibi: 
@@ -1153,17 +1153,17 @@ sed quid ais? quo inde isti porro? SYC. Si animum advortes,
 eloquar. 
 ad caput amnis, quod de caelo exoritur sub solio Iovis.         940 
  CH. Sub solio Iovis? S. Ita dico. CH. E caelo?
- S. Atque &lt;e> medio quidem. 
+ S. Atque <e> medio quidem. 
  CH. Eho an etiam in caelum escendisti? S. Immo horiola
 advecti sumus, 
 usque aqua advorsa per amnem. CHARM. Eho an tu etiam vidisti
 Iovem? 
  SYC. Alii di isse ad villam aiebant servis depromptum cibum. 
-deinde porro &#151; CHARM. Deinde porro nolo quicquam praedices.      945 
- SYC. &lt;Sed &#151; CHA. Abe>o hercle, si es molestus. nam
+deinde porro — CHARM. Deinde porro nolo quicquam praedices.      945 
+ SYC. <Sed — CHA. Abe>o hercle, si es molestus. nam
 pudicum neminem, 
-&lt;Pax, refe>rre oportet, qui aps terra ad caelum pervenerit. 
- SYC. &lt;Facia>m ita ut te velle video. sed monstra hosce homines
+<Pax, refe>rre oportet, qui aps terra ad caelum pervenerit. 
+ SYC. <Facia>m ita ut te velle video. sed monstra hosce homines
 mihi, 
 quos ego quaero, quibus me oportet has deferre epistulas. 
  CHARM. Quid ais? tu nunc si forte eumpse Charmidem conspexeris,    950 
@@ -1222,16 +1222,16 @@ es? CHARM. Aio.
        SYC. Ipsus es? 
  C. Ipsus, inquam, Charmides sum. S. Ergo ipsusne es?
  C. Ipsissimus. 
-abin hinc ab oculis? SYC. Enim vero serio, quoniam advenis&#151; 
+abin hinc ab oculis? SYC. Enim vero serio, quoniam advenis— 
 vapulabis meo arbitratu et novorum aedilium.            990 
  CHARM. At etiam maledicis? SYC. Immo, salvos quandoquidem
-advenis&#151; 
+advenis— 
 di te perdant, si te flocci facio an periisses prius. 
 ego ob hanc operam argentum accepi, te macto infortunio: 
 ceterum qui sis, qui non sis, floccum non interduim. 
 ibo, ad illum renuntiabo qui mihi tris nummos dedit,      995 
 ut sciat se perdidisse. ego abeo. male vive et vale. 
-qui te di omnes advenientem peregre perdant, Charmides.&#151; 
+qui te di omnes advenientem peregre perdant, Charmides.— 
  CHARM. Postquam illic hinc abiit, post loquendi libere 
 videtur tempus venisse atque occasio. 
 iam dudum meum ille pectus pnngit aculeus,      1000 
@@ -1254,7 +1254,7 @@ cave sis tibi, ne bubuli in te cottabi crebri crepent,
 si aberis ab eri quaestione. ne destiteris currere. 
 ecce hominem te, Stasime, nihili: satin in thermipolio 
 condalium es oblitus, postquam thermopotasti gutturem? 
-recipe te et recurre petere &lt;re> recenti. CHARM. Huic, quisquis
+recipe te et recurre petere <re> recenti. CHARM. Huic, quisquis
 est, 1015 
 gurguliost exercitor: is hunc hominem cursuram docet. 
  STAS. Quid, homo nihili, non pudet te? tribusne te poteriis 
@@ -1270,8 +1270,8 @@ nisi etiam laborem ad damnum apponam epithecam insuper.       1025
 quin tu quod periit periisse ducis? cape vorsoriam, 
 recipe te ad erum. CHARM. Non fugitivost hic homo, commeminit
 domi. 
- STAS. Vtinam veteres homin&lt;um mor>es, veteres parsimoniae 
-potius &lt;in> maiore honore hic essent quam mores mali. 
+ STAS. Vtinam veteres homin<um mor>es, veteres parsimoniae 
+potius <in> maiore honore hic essent quam mores mali. 
  CHARM. Di immortales, basilica hic quidem facinora inceptat
 loqui.   1030 
 vetera quaerit, vetera amare hunc more maiorum scias. 
@@ -1324,7 +1324,7 @@ tibi permitto; illam alteram apud me, quod bonist, apponito.
 vestram fidem, 1070 
 satin ego oculis plane video? estne ipsus an non est? is est, 
 certe is est, is est profecto. o mi ere exoptatissime, 
-salve. CH. Salve, Stasime. S. Salvom te &#151; CH. 
+salve. CH. Salve, Stasime. S. Salvom te — CH. 
 Scio et credo tibi. 
 sed omitto alia, hoc mihi responde: liberi quid agunt mei, 
 quos reliqui hic filium atque filiam? STAS. Vivont, valent.   1075 
@@ -1335,12 +1335,12 @@ eamus intro, sequere. S. Quo tu te agis? CH. Quonam nisi
 domum? 
  STAS. Hicine nos habitare censes? CHARM. Vbinam ego alibi
 censeam? 
- S. Iam &#151; CH. Quid iam? S. Non sunt nostrae aedis
+ S. Iam — CH. Quid iam? S. Non sunt nostrae aedis
 istae. CH. Quid   1080 
     ego ex te audio? 
  STAS. Vendidit tuos natus aedis. CHARM. Perii. STAS. 
 Praesentariis 
-argenti minis numeratis &#151; CH. Quot? S. Quadraginta.
+argenti minis numeratis — CH. Quot? S. Quadraginta.
  CH. Occidi. 
 quis eas emit? STAS. Callicles, cui tuam rem commendaveras; 
 is habitatum huc commigravit nosque exturbavit foras. 
@@ -1382,7 +1382,7 @@ intro. CHARM.
 neque demutavit animum de firma fide, 
 quamquam labores multos 
 sed hic unus, ut ego suspicor, servat fidem. 
-~ ob rem laborem eum ego cepisse censeo.&#151;
+~ ob rem laborem eum ego cepisse censeo.—
  
 
  
@@ -1398,10 +1398,10 @@ voluptatibus gaudiisque antepotens:
 ita commoda quae cupio eveniunt, 
 quod ago adsequitur, subest, subsequitur, 
 ita gaudiis gaudium suppeditat. 
-modo me Stasimus Lesbonici servos convenit &lt;domi>;         1120 
+modo me Stasimus Lesbonici servos convenit <domi>;         1120 
 is mihi dixit, suom erum peregre huc advenisse Charmidem. 
 nunc mi is propere conveniundust, ut quae cum eius filio 
-egi, ei rei fundus pater sit potior. eo &lt;quantum potest>. 
+egi, ei rei fundus pater sit potior. eo <quantum potest>. 
 sed fores hae sonitu suo mihi moram obiciunt incommode.
  
 
@@ -1443,7 +1443,7 @@ socerum suom
 Lysiteles salutat. CHARM. Di dent tibi, Lysiteles, quae velis. 
  CALL. Non ego sum salute dignus? LYS. Immo salve, Callicles; 
 hunc priorem aequomst me habere: tunica propior palliost. 
- CALL. Deos volo consilia vostra &lt;vobis> recte vortere.      1155 
+ CALL. Deos volo consilia vostra <vobis> recte vortere.      1155 
  CHARM. Filiam meam tibi desponsam esse audio. LYS. Nisi
 tu nevis. 
  CH. Immo haud nolo. L. Sponden ergo tuam gnatam uxorem
@@ -1461,7 +1461,7 @@ salvete, adfines mei.
  CHARM. Atque edepol sunt res, quas propter tibi tamen suscensui. 
  LYS. Quid ego feci? CHARM. Meum corrumpi quia perpessu's
 filium. 1165 
- LYS. Si id mea voluntate factumst, &lt;est> quod mihi suscenseas. 
+ LYS. Si id mea voluntate factumst, <est> quod mihi suscenseas. 
 sed sine me hoc aps te impetrare quod volo. CH. Quid id est?
  L. Scies. 
 si quid stulte fecit, ut ea missa facias omnia. 
@@ -1484,13 +1484,13 @@ dic mihi.
 Et tute item videas licet. 
  LESB. O pater, pater mi, salve. CHARM. Salve multum,
 gnate mi.       1180 
- LESB. Si quid tibi, pater, laboris &#151; CHARM. Nihil evenit,
+ LESB. Si quid tibi, pater, laboris — CHARM. Nihil evenit,
 ne time: 
-bene re gesta salvos redeo &#151; si tu modo frugi esse vis. 
-haec tibi pactast Callicli &lt;huius> filia. LESB. Ego ducam,
+bene re gesta salvos redeo — si tu modo frugi esse vis. 
+haec tibi pactast Callicli <huius> filia. LESB. Ego ducam,
 pater, 
 et eam et si quam aliam iubebis. CHARM. Quamquam tibi suscensui, 
-miseria &lt;una> uni quidem hominist adfatim. CALL. Immo huic
+miseria <una> uni quidem hominist adfatim. CALL. Immo huic
 parumst, 1185 
 nam si pro peccatis centum ducat uxores, parumst. 
  LESB. At iam posthac temperabo. CHARM. Dicis, si facies

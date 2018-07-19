@@ -74,7 +74,7 @@ Aurum nauta suis Hispanus vectat ab Indis,
 maius iter portus ad eosdem suscipit Anglus, 
  ut referat fumos, nuda tabacca, tuos: 
 copia detonsis quos vendit Ibera Britannis,   5 
- per fumos ad se vellera call&iacute;de trahens. 
+ per fumos ad se vellera callíde trahens. 
 nec mirum est stupidos vitiatis naribus Anglos 
  olfacere Hesperios non potuisse dolos.
  
@@ -1266,7 +1266,7 @@ Qualiscunque suam contemnit foemina famam,
  
 
  
-Graecia praeclare pulchras vocat &eacute;lfesibo&#164;aw , 
+Graecia praeclare pulchras vocat élfesibo¤aw , 
  quippe proci praestant munera, forma procos; 
 sed formosa Lyche vivit neglecta; quot alma 
  nam Cytherea trahit, fusca Minerva fugat.
@@ -1738,7 +1738,7 @@ nec mecum quocunque feror comes ire gravaris, 5
  
 Nec turpe lucrum, nec decus, nec in plebem 
 invida potestas, pulcrha sed poetarum 
-votum pudicum est fama; &lt;nam&gt; bonis meta 
+votum pudicum est fama; <nam> bonis meta 
 omnibus, at illis unica, et mera, et sola; 
 auferre quam merentibus furens nescit   5 
 vis vulnerata divitum: Aulus hinc vivit; 

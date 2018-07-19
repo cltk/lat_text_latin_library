@@ -82,7 +82,7 @@ C. Caesar, quod suspectam habebat Aegyptiorum fidem, per speciem securitatis ins
 
  
 
-Ventidius Parthico bello adversus Pacorum regem, non ignarus Pharnaeumquendam, natione Cyrrhestem, ex his qui socii videbantur, omnia quae apud ipsos agerentur nuntiare Parthis, perfidiam barbari ad utilitates suas convertit. Nam quae maxime fieri cupiebat, ea vereri se ne acciderent, quae timebat, ea ut evenirent optare simulabat. Sollicitus itaque, ne Parthi ante transirent Euphraten, quam sibi supervenirent legiones, quas in Cappadocia trans Taurum habebat, studiose cum proditore egit, uti sollemni perfidia Parthis suaderet, per Zeugma traicerent exercitum, qua et brevissimumiter est et &lt;d&gt;emisso alveo Euphrates decurrit: namque si illa venirent,asseverabat se opportunitate collium usurum ad eludendos sagittarios, omnia autem vereri, si se infra &lt;per&gt; patentis campos proiecissent. Inducti hac affirmatione barbari inferiore itinere per circuitum adduxerunt exercitumdumque fusiores ripas et ob hoc operosiores ponte[s] iungunt instrumentaque moliuntur, quadraginta amplius dies impenderunt: quo spatio Ventidius ad contrahendas usus est copias eisque triduo, antequam Parthus adveniret, receptis acie commissa vicit Pacorum et interfecit. Mithridates, circumvallante Pompeio, fugam in proximum diem moliens, huius consilii obscurandi causa latius et usque ad applicitas hosti valles pabulatus, colloquia quoque cum pluribus avertendae suspicionis causa in posterum constituit, ignes etiam frequentiores per tota castra fieri iussit: secunda deinde vigilia praeter ipsa hostium castra agmen eduxit. Imperator Caesar Domitianus Augustus Germanicus, cum Germanos, qui in armis erant, vellet opprimere nec ignoraret maiore bellum molitione inituros, si adventum tanti ducis praesensissent, profectioni[s] suae census obtexuit Galliarum: sub quibus inopinato bello affusus contusa immanium ferocia nationum provinciis consuluit. 
+Ventidius Parthico bello adversus Pacorum regem, non ignarus Pharnaeumquendam, natione Cyrrhestem, ex his qui socii videbantur, omnia quae apud ipsos agerentur nuntiare Parthis, perfidiam barbari ad utilitates suas convertit. Nam quae maxime fieri cupiebat, ea vereri se ne acciderent, quae timebat, ea ut evenirent optare simulabat. Sollicitus itaque, ne Parthi ante transirent Euphraten, quam sibi supervenirent legiones, quas in Cappadocia trans Taurum habebat, studiose cum proditore egit, uti sollemni perfidia Parthis suaderet, per Zeugma traicerent exercitum, qua et brevissimumiter est et <d>emisso alveo Euphrates decurrit: namque si illa venirent,asseverabat se opportunitate collium usurum ad eludendos sagittarios, omnia autem vereri, si se infra <per> patentis campos proiecissent. Inducti hac affirmatione barbari inferiore itinere per circuitum adduxerunt exercitumdumque fusiores ripas et ob hoc operosiores ponte[s] iungunt instrumentaque moliuntur, quadraginta amplius dies impenderunt: quo spatio Ventidius ad contrahendas usus est copias eisque triduo, antequam Parthus adveniret, receptis acie commissa vicit Pacorum et interfecit. Mithridates, circumvallante Pompeio, fugam in proximum diem moliens, huius consilii obscurandi causa latius et usque ad applicitas hosti valles pabulatus, colloquia quoque cum pluribus avertendae suspicionis causa in posterum constituit, ignes etiam frequentiores per tota castra fieri iussit: secunda deinde vigilia praeter ipsa hostium castra agmen eduxit. Imperator Caesar Domitianus Augustus Germanicus, cum Germanos, qui in armis erant, vellet opprimere nec ignoraret maiore bellum molitione inituros, si adventum tanti ducis praesensissent, profectioni[s] suae census obtexuit Galliarum: sub quibus inopinato bello affusus contusa immanium ferocia nationum provinciis consuluit. 
  
 
  
@@ -92,7 +92,7 @@ Claudius Nero, cum e re publica esset Hasdrubalem copiasque eius, antequam Hanni
 
  
 
-Themistocles exhortans suos ad suscitandos festinanter muros, quos iussu Lacedaemoniorum deiecerant, legatis Lacedaemone missis, qui interpellarent,respondit, venturum se ad diluendam hanc existimationem: et pervenit Lacedaemonem. Ibi simulato morbo aliquantum temporis extraxit; et postquam intellexit suspectam esse tergiversationem suam, contendit falsum &lt;allatum&gt; ad eos rumorem et rogavit, mitterent aliquos ex principibus,quibus crederent de munitione Athenarum. Suis deinde clam scripsit, ut eos qui venissent retinerent, donec refectis operibus confiteretur Lacedaemoniis, munitas esse Athenas neque aliter principes eorum redire posse, quam &lt;si&gt; ipse remissus foret: quod facile praestiterunt Lacedaemonii, ne unius interitum multorum morte pensarent. 
+Themistocles exhortans suos ad suscitandos festinanter muros, quos iussu Lacedaemoniorum deiecerant, legatis Lacedaemone missis, qui interpellarent,respondit, venturum se ad diluendam hanc existimationem: et pervenit Lacedaemonem. Ibi simulato morbo aliquantum temporis extraxit; et postquam intellexit suspectam esse tergiversationem suam, contendit falsum <allatum> ad eos rumorem et rogavit, mitterent aliquos ex principibus,quibus crederent de munitione Athenarum. Suis deinde clam scripsit, ut eos qui venissent retinerent, donec refectis operibus confiteretur Lacedaemoniis, munitas esse Athenas neque aliter principes eorum redire posse, quam <si> ipse remissus foret: quod facile praestiterunt Lacedaemonii, ne unius interitum multorum morte pensarent. 
  
 
  
@@ -183,12 +183,12 @@ Hasdrubal, Gisgonis filius, secundo Punico bello in Hispania victum exercitum, c
 
  
 
-Themistocles adventante Xerxe, quia neque proelio pedestri neque tutelae finium neque obsidioni credebat sufficere Athenienses, auctor fuit eis liberos et coniuges in Tro&lt;e&gt;zena et in alias amendandi relictoque oppido statum belli ad navale proelium transferendi. 
+Themistocles adventante Xerxe, quia neque proelio pedestri neque tutelae finium neque obsidioni credebat sufficere Athenienses, auctor fuit eis liberos et coniuges in Tro<e>zena et in alias amendandi relictoque oppido statum belli ad navale proelium transferendi. 
  
 
  
 
-Idem fecit in eadem civitate Pericles adversum Lacedaemonios. Scipio, manente in Italia Hannibale, transmisso in Africam exercitu necessitatem Carthaginiensibus imposuit revocandi Hannibalem: sic a domesticis finibus &lt;in&gt; hostile&lt;s&gt; transtulit bellum. 
+Idem fecit in eadem civitate Pericles adversum Lacedaemonios. Scipio, manente in Italia Hannibale, transmisso in Africam exercitu necessitatem Carthaginiensibus imposuit revocandi Hannibalem: sic a domesticis finibus <in> hostile<s> transtulit bellum. 
  
 
  
@@ -236,12 +236,12 @@ Iphicrates, dux Atheniensium, adversus Anaxibium Lacedaemonium in Hellesponto ci
 
  
 
-Cn. Pompeius, cum flumen transire propter oppositum hostium exercitum non posset, assidue producere et reducere in castra instituit: deinde, in eam dem&lt;um&gt; persuasionem hoste perducto, ne ullam viam ad progressum Romanorum teneret, repente impetu facto transitum rapuit. 
+Cn. Pompeius, cum flumen transire propter oppositum hostium exercitum non posset, assidue producere et reducere in castra instituit: deinde, in eam dem<um> persuasionem hoste perducto, ne ullam viam ad progressum Romanorum teneret, repente impetu facto transitum rapuit. 
  
 
  
 
-Alexander Macedo, prohibente rege Indorum Poro traici exercitum per flumen Hydaspen, adversus aquam assidue procurrere iussit suos: et ubi eo more exercitationis assecutus est, &lt;ne&gt; qui&lt;d&gt; a Poro adversa ripa caveretur, per superiorem partem subitum transmisit exercitum. 
+Alexander Macedo, prohibente rege Indorum Poro traici exercitum per flumen Hydaspen, adversus aquam assidue procurrere iussit suos: et ubi eo more exercitationis assecutus est, <ne> qui<d> a Poro adversa ripa caveretur, per superiorem partem subitum transmisit exercitum. 
  
 
  
@@ -251,7 +251,7 @@ Idem, quia Indi fluminis traiectu prohibebatur ab hoste, diversis locis in flume
 
  
 
-Xenophon, ulteriorem ripam Armeniis tenentibus, duos iussit quaeri aditus; et cum a &lt;vado&gt; inferiore repulsus esset, transiit ad superius, inde quoque prohibitus hostium occursu repetit vadum inferius, iussa quidem militum parte subsistere, [et] quae, cum Armenii ad inferioris vadi tutelam redissent, per superius transgrederetur: Armenii, credentes decursuros omnes, decepti sunt a remanentibus; hi cum resistente nullo vadum superassent,transeuntium suorum fuere propugnatores. 
+Xenophon, ulteriorem ripam Armeniis tenentibus, duos iussit quaeri aditus; et cum a <vado> inferiore repulsus esset, transiit ad superius, inde quoque prohibitus hostium occursu repetit vadum inferius, iussa quidem militum parte subsistere, [et] quae, cum Armenii ad inferioris vadi tutelam redissent, per superius transgrederetur: Armenii, credentes decursuros omnes, decepti sunt a remanentibus; hi cum resistente nullo vadum superassent,transeuntium suorum fuere propugnatores. 
  
 
  
@@ -294,7 +294,7 @@ Similiter Pelopidas Thebanus bello Thessalico transitum quaesivit. Namque castri
 
  
 
-Q. Lutatius Catulus, cum a Cimbris pulsus unam spem salutis haberet, si flumen liberasset, cuius ripam hostes tenebant, in proximo monte copias ostendit, tamquam ibi castra positurus. Ac praecepit suis, ne sarcinas solverentaut onera deponerent ne&lt;ve&gt; quis ab ordinibus signisque discederet; et quo magis persuasionem hostium confirmaret, pauca tabernacula in conspectu erigi iussit ignesque fieri et quosdam vallum struere, quosdam in lignationem, ut conspicerentur, exire: quod Cimbri vere agi existimantes et ipsi castris delegerunt locum dispersique in proximos agros ad comparanda ea, quae mansuris necessaria sunt, occasionem dederunt Catulo non solum flumen traiciendi, sed etiam castra eorum infestandi. 
+Q. Lutatius Catulus, cum a Cimbris pulsus unam spem salutis haberet, si flumen liberasset, cuius ripam hostes tenebant, in proximo monte copias ostendit, tamquam ibi castra positurus. Ac praecepit suis, ne sarcinas solverentaut onera deponerent ne<ve> quis ab ordinibus signisque discederet; et quo magis persuasionem hostium confirmaret, pauca tabernacula in conspectu erigi iussit ignesque fieri et quosdam vallum struere, quosdam in lignationem, ut conspicerentur, exire: quod Cimbri vere agi existimantes et ipsi castris delegerunt locum dispersique in proximos agros ad comparanda ea, quae mansuris necessaria sunt, occasionem dederunt Catulo non solum flumen traiciendi, sed etiam castra eorum infestandi. 
  
 
  
@@ -324,7 +324,7 @@ Hirtuleius legatus Q. Sertorii, cum in Hispania inter duos montes abruptos longu
 
  
 
-C. Caesar bello civili, cum adversus Afranium copias educeret et recipiendise sine periculo facultatem non haberet, sicut constiterat, prima et secunda acie &lt;in armis permanente, tertia autem acie&gt; furtim a tergo ad opus applicata, quindecim pedum fossam fecit, intra quam sub occasum solis armati se milites eius receperunt. 
+C. Caesar bello civili, cum adversus Afranium copias educeret et recipiendise sine periculo facultatem non haberet, sicut constiterat, prima et secunda acie <in armis permanente, tertia autem acie> furtim a tergo ad opus applicata, quindecim pedum fossam fecit, intra quam sub occasum solis armati se milites eius receperunt. 
  
 
  
@@ -334,12 +334,12 @@ Pericles Atheniensis, a Peloponnensiis in eum locum compulsus, qui undique abrup
 
  
 
-Lysimachus, ex his unus in quos opes Alexandri transierunt, cum editumcollem castris destinasset, imprudentia autem suorum in inferiorem deductus vereretur ex superiore hostium incursum, triplices fossas intra vallum obiecit; deinde simplicibus fossis circa omnia tentoria ductis tota castra confodit et intersaepto hostium aditu, simul humo quoque et frondibus,quas fossis superiecerat, &lt;fallentibus, eruptione&gt; facta in superiora evasit. 
+Lysimachus, ex his unus in quos opes Alexandri transierunt, cum editumcollem castris destinasset, imprudentia autem suorum in inferiorem deductus vereretur ex superiore hostium incursum, triplices fossas intra vallum obiecit; deinde simplicibus fossis circa omnia tentoria ductis tota castra confodit et intersaepto hostium aditu, simul humo quoque et frondibus,quas fossis superiecerat, <fallentibus, eruptione> facta in superiora evasit. 
  
 
  
 
-C. Fonteius Crassus in Hispania cum tribus milibus hominum praedatumprofectus &lt;locoque iniquo circumventus&gt; ab Hasdrubale, ad primos tantum ordines relato consilio, incipiente nocte, quo tempore minime exspectabatur, per stationes hostium perrupit. 
+C. Fonteius Crassus in Hispania cum tribus milibus hominum praedatumprofectus <locoque iniquo circumventus> ab Hasdrubale, ad primos tantum ordines relato consilio, incipiente nocte, quo tempore minime exspectabatur, per stationes hostium perrupit. 
  
 
  
@@ -354,7 +354,7 @@ P. Decius tribunus bello Samnitico Cornelio Cosso consuli iniquis locis deprehen
 
  
 
-Idem fecit sub Atilio Calatino consule is, cuius varie traditur nomen: alii Laberium, nonnulli Q. Caedicium, plurimi Calpurnium Flammamvocitatum scripserunt. Is cum demissum in eam vallem videret exercitum, cuius latera omnia&lt;que&gt; superiora hostis insederat, depoposcit et accepit trecentos milites, quos adhortatus, ut virtute sua exercitum servarent, in mediam vallem decucurrit: et ad opprimendos eos undique descendit hostis longoque et aspero proelio retentus occasionem consuli ad extrahendum exercitum dedit. 
+Idem fecit sub Atilio Calatino consule is, cuius varie traditur nomen: alii Laberium, nonnulli Q. Caedicium, plurimi Calpurnium Flammamvocitatum scripserunt. Is cum demissum in eam vallem videret exercitum, cuius latera omnia<que> superiora hostis insederat, depoposcit et accepit trecentos milites, quos adhortatus, ut virtute sua exercitum servarent, in mediam vallem decucurrit: et ad opprimendos eos undique descendit hostis longoque et aspero proelio retentus occasionem consuli ad extrahendum exercitum dedit. 
  
 
  
@@ -432,12 +432,12 @@ Iphicrates in Thracia[m], cum propter condicionem locorum longum agmen deduceret
 
  
 
-Boii in silva Litana, quam transiturus erat noster exercitus, succiderunt arbores ita, ut parte exigua sustentatae starent, donec impellerentur; delitueruntdeinde ad extremas ipsi ingressoque silvam hoste &lt;per&gt; proximas ulteriores impulerunt: eo modo propagata pariter supra Romanos ruina magnam manum eliserunt. 
+Boii in silva Litana, quam transiturus erat noster exercitus, succiderunt arbores ita, ut parte exigua sustentatae starent, donec impellerentur; delitueruntdeinde ad extremas ipsi ingressoque silvam hoste <per> proximas ulteriores impulerunt: eo modo propagata pariter supra Romanos ruina magnam manum eliserunt. 
  
 
  
 
- QUEMADMODUM EA, QUIBUS DEFICI&lt;E&gt;MUR, VIDEANTUR NON DEESSE AUT USUS EORUM EXPLEATUR 
+ QUEMADMODUM EA, QUIBUS DEFICI<E>MUR, VIDEANTUR NON DEESSE AUT USUS EORUM EXPLEATUR 
 
  
 L. Caecilius Metellus, quia usu navium, quibus elephantos transportaret,deficiebatur, iunxit dolia constravitque tabulatis ac super ea positos per Siculum fretum transmisit. 
@@ -468,17 +468,17 @@ M. Antonius a Mutina profugus cortices pro scutis militibus suis dedit. Spartaco
  DE DISTRINGENDIS HOSTIBUS 
 
  
-Coriolanus, cum ignominiam damnationis suae bello ulcisceretur, populationem patriciorum agrorum inhibuit, deustis vastatisque plebeiorum,ut discordiam moveret, qua consensus Romanorum distringeret&lt;ur&gt;. Hannibal Fabium, cui neque virtute neque artibus bellandi par erat, ut infamia distringeret, agris eius abstinuit, ceteros populatus. Contra ille, ne suspecta civibus fides esset, magnitudine animi effecit, publicatis possessionibussuis. 
+Coriolanus, cum ignominiam damnationis suae bello ulcisceretur, populationem patriciorum agrorum inhibuit, deustis vastatisque plebeiorum,ut discordiam moveret, qua consensus Romanorum distringeret<ur>. Hannibal Fabium, cui neque virtute neque artibus bellandi par erat, ut infamia distringeret, agris eius abstinuit, ceteros populatus. Contra ille, ne suspecta civibus fides esset, magnitudine animi effecit, publicatis possessionibussuis. 
  
 
  
 
-Fabius Maximus quinto consul, cum Gallorum et Umbrorum, Etruscorum,Samnitium adversus populum Romanum exercitus coissent, contra quos et ipse trans Appenninum in &lt;Sentin&gt;ate castra communiebat, scripsit Fulvio et Postumio, qui in praesidio urbi erant, copias ad Clusium moverent.quibus assecutis ad sua defendenda Etrusci Umbrique deverterunt: relictos Samnites Gallosque Fabius et collega Decius aggressi vicerunt. 
+Fabius Maximus quinto consul, cum Gallorum et Umbrorum, Etruscorum,Samnitium adversus populum Romanum exercitus coissent, contra quos et ipse trans Appenninum in <Sentin>ate castra communiebat, scripsit Fulvio et Postumio, qui in praesidio urbi erant, copias ad Clusium moverent.quibus assecutis ad sua defendenda Etrusci Umbrique deverterunt: relictos Samnites Gallosque Fabius et collega Decius aggressi vicerunt. 
  
 
  
 
-M'. Curius adversus Sabinos, qui ingenti exercitu conscripto relictis finibus suis nostros occupaverant, occultis itineribus manum misit, quae desolatos agros eorum vicosque per diversa incenderunt: Sabini ad arcendamdomesticam vastitatem recesserunt; Curio contigit et vacuos infestare hostium fines et exercitum sine proelio avertere sparsumque caedere. T. Didius, paucitate suorum diffidens, cum in adventum earum legionum,quas exspectabat, traheret bellum et occurrere eis hostem comperisset, contione advocata aptari iussit milites ad pugnam ac de industria neglegentiuscustodiri captivos. Ex quibus pauci, qui profugerant, nuntiaverunt suis pugnam imminere: at illi, ne su&lt;b ex&gt;spectatione proelii diducerent viris, omiserunt occurrere eis, quibus insidiabantur: legiones tutissime nullo excipiente ad Didium pervenerunt. 
+M'. Curius adversus Sabinos, qui ingenti exercitu conscripto relictis finibus suis nostros occupaverant, occultis itineribus manum misit, quae desolatos agros eorum vicosque per diversa incenderunt: Sabini ad arcendamdomesticam vastitatem recesserunt; Curio contigit et vacuos infestare hostium fines et exercitum sine proelio avertere sparsumque caedere. T. Didius, paucitate suorum diffidens, cum in adventum earum legionum,quas exspectabat, traheret bellum et occurrere eis hostem comperisset, contione advocata aptari iussit milites ad pugnam ac de industria neglegentiuscustodiri captivos. Ex quibus pauci, qui profugerant, nuntiaverunt suis pugnam imminere: at illi, ne su<b ex>spectatione proelii diducerent viris, omiserunt occurrere eis, quibus insidiabantur: legiones tutissime nullo excipiente ad Didium pervenerunt. 
  
 
  
@@ -503,7 +503,7 @@ C. Caesar, per exceptum quendam aquatorem cum comperisset Afranium Petreiumque c
 
  
 
-Scipio Africanus ad excipienda auxilia cum commeatibus Hannibali ven&lt;ientia Min&gt;ucium Thermum dimisit, ipse subventurus. 
+Scipio Africanus ad excipienda auxilia cum commeatibus Hannibali ven<ientia Min>ucium Thermum dimisit, ipse subventurus. 
  
 
  
@@ -521,7 +521,7 @@ Agesilaus Lacedaemonius, cum inferret bellum Tissaphernae, Cariam se petere simu
  DE SEDITIONE MILITUM COMPESCENDA 
 
  
-Aulus Manlius consul, cum comperisset coniurasse milites in hibernis Campaniae, ut iugulatis hospitibus ipsi res invaderent eorum, rumorem sparsit, eodem loco hibernaturos: atque ita &lt;dilato&gt; coniuratorum consilio Campaniam periculo liberavit et ex occasione nocentes puniit. 
+Aulus Manlius consul, cum comperisset coniurasse milites in hibernis Campaniae, ut iugulatis hospitibus ipsi res invaderent eorum, rumorem sparsit, eodem loco hibernaturos: atque ita <dilato> coniuratorum consilio Campaniam periculo liberavit et ex occasione nocentes puniit. 
  
 
  
@@ -544,12 +544,12 @@ C. Caesar, cum quaedam legiones eius seditionem movissent, adeo ut in perniciem 
  QUEMADMODUM INTEMPESTIVA POSTULATIO PUGNAE INHIBEATUR 
 
  
-Q. Sertorius, quod experimento didicerat imparem se universo Romanorumexercitui, ut barbaros quoque inconsulte pugnam exposcentes doceret, adductis in conspectum duobus equis, praevalido alteri, alteri admodum exili duos admovit iuvenes similiter affectos, robustum et gracilem. Ac robustiori imperavit equo exili universam caudam abrumpere, gracili autem valentiorem per singulos &lt;pilos&gt; vellere. Cumque gracilis fecisset, quod imperatum erat, validissimus cum infirmis equi cauda sine effectu luctaretur, "naturam", inquit Sertorius, "Romanarum cohortium per hoc vobis exemplum ostendi, milites: insuperabiles sunt universas aggredienti;easdem lacerabit et carpet, qui per partes attemptaverit." 
+Q. Sertorius, quod experimento didicerat imparem se universo Romanorumexercitui, ut barbaros quoque inconsulte pugnam exposcentes doceret, adductis in conspectum duobus equis, praevalido alteri, alteri admodum exili duos admovit iuvenes similiter affectos, robustum et gracilem. Ac robustiori imperavit equo exili universam caudam abrumpere, gracili autem valentiorem per singulos <pilos> vellere. Cumque gracilis fecisset, quod imperatum erat, validissimus cum infirmis equi cauda sine effectu luctaretur, "naturam", inquit Sertorius, "Romanarum cohortium per hoc vobis exemplum ostendi, milites: insuperabiles sunt universas aggredienti;easdem lacerabit et carpet, qui per partes attemptaverit." 
  
 
  
 
-Idem, cum videret suos pugnae signum inconsulte flagitantes crederetque rupturos imperium, nisi congrederentur, permisit turmae equitum ad lacessendos hostes ire laborantique submisit alias et sic recepit omnes tuti&lt;u&gt;sque et sine noxa ostendit, quis exitus flagitatam pugnam mansisset: obsequentissimis inde eis usus est. 
+Idem, cum videret suos pugnae signum inconsulte flagitantes crederetque rupturos imperium, nisi congrederentur, permisit turmae equitum ad lacessendos hostes ire laborantique submisit alias et sic recepit omnes tuti<u>sque et sine noxa ostendit, quis exitus flagitatam pugnam mansisset: obsequentissimis inde eis usus est. 
  
 
  
@@ -577,7 +577,7 @@ Fulvius Nobilior, cum adversus Samnitium numerosum exercitum et successibus tumi
 
  
 
-C. Caesar adversus Germanos et Ariovistum pugnaturus confusis suorumanimis pro contione dixit, nullius se eo die opera nisi decimae legionis usurum: quo consecutus est, ut decimani tamquam praecipuae fortitudinis testimonio cogerentur et ceteri pudore, ne penes alios gloria virtutis esset. Q. Fabius, quia egregie sciebat et Romanos eius esse libertatis, quae contumelia exasperaretur, et a Poenis nihil iustum aut moderatum exspectabat,misit legatos Carthaginem de condicionibus pacis: quas cum illi iniquitatis et insolentiae plenas re&lt;t&gt;tulissent, exercitus Romanorum ad pugnandum concitatus est. 
+C. Caesar adversus Germanos et Ariovistum pugnaturus confusis suorumanimis pro contione dixit, nullius se eo die opera nisi decimae legionis usurum: quo consecutus est, ut decimani tamquam praecipuae fortitudinis testimonio cogerentur et ceteri pudore, ne penes alios gloria virtutis esset. Q. Fabius, quia egregie sciebat et Romanos eius esse libertatis, quae contumelia exasperaretur, et a Poenis nihil iustum aut moderatum exspectabat,misit legatos Carthaginem de condicionibus pacis: quas cum illi iniquitatis et insolentiae plenas re<t>tulissent, exercitus Romanorum ad pugnandum concitatus est. 
  
 
  
@@ -592,7 +592,7 @@ Epaminondas, dux Thebanorum, adversus Lacedaemonios dimicaturus,ut non solum vir
 
  
 
- eot&lt;yc&gt;hidas, dux Lacedaemoniorum, classe pugnaturus eodem die, quo vicerant socii, quamvis ignarus actae rei vulgavit nuntiatam sibi victoriampartium, quo constantiores ad pugnam milites haberet. 
+ eot<yc>hidas, dux Lacedaemoniorum, classe pugnaturus eodem die, quo vicerant socii, quamvis ignarus actae rei vulgavit nuntiatam sibi victoriampartium, quo constantiores ad pugnam milites haberet. 
  
 
  
@@ -607,7 +607,7 @@ Archidamus Lacedaemonius adversus Arcades bellum gerens arma in castris statuit 
 
  
 
-Pericles, dux Atheniensium, initurus proelium, cum animadvertisset lucum, ex quo utraque acies conspici poterat, densissimae opacitatis, vastum alioquin et Diti patri sacrum, ingentis illic staturae hominem, altissimis coturnis et veste purpurea &lt;et&gt; coma venerabilem, in curru candidorum equorum sublimem constituit, qui dato signo pugnae proveheretur et voce Periclem nomine appellans cohortaretur eum diceretque deos Atheniensibus adesse: quo paene ante coniectum teli hostes terga verterunt. 
+Pericles, dux Atheniensium, initurus proelium, cum animadvertisset lucum, ex quo utraque acies conspici poterat, densissimae opacitatis, vastum alioquin et Diti patri sacrum, ingentis illic staturae hominem, altissimis coturnis et veste purpurea <et> coma venerabilem, in curru candidorum equorum sublimem constituit, qui dato signo pugnae proveheretur et voce Periclem nomine appellans cohortaretur eum diceretque deos Atheniensibus adesse: quo paene ante coniectum teli hostes terga verterunt. 
  
 
  
@@ -637,7 +637,7 @@ Alexander Macedo sacrificaturus inscripsit medicamento haruspicis manum, quam il
 
  
 
-Idem fecit &lt;S&gt;udines haruspex proelium Eumene cum Gallis commissuro.
+Idem fecit <S>udines haruspex proelium Eumene cum Gallis commissuro.
  
 
  
@@ -662,7 +662,7 @@ Cyrus, rex Persarum, ut concitaret animos popularium, tota die in excidenda silv
 
  
 
-L. Sulla, quia adversus Archelaum praefectum Mithridatis apud Pir&lt;ae&gt;eapigrioribus ad proelium militibus utebatur, opere eos fatigando compulit ad poscendum ultro pugnae signum. 
+L. Sulla, quia adversus Archelaum praefectum Mithridatis apud Pir<ae>eapigrioribus ad proelium militibus utebatur, opere eos fatigando compulit ad poscendum ultro pugnae signum. 
  
 
  
@@ -675,7 +675,7 @@ Fabius Maximus veritus, ne qua fiducia navium, ad quas refugium erat, minus cons
  DE DISSOLVENDO METU, QUEM MILITES EX ADVERSIS CONCEPERINT OMINIBUS 
 
  
-Scipio, ex Italia in Africam transportato exercitu, cum egrediens nave prolapsus esset et ob hoc attonitos milites cerneret, id quod trepidationem afferebat, constantia et magnitudine animi in hortationem convertit et "&lt;pl&gt;audite", inquit, "milites, Africam oppressi." 
+Scipio, ex Italia in Africam transportato exercitu, cum egrediens nave prolapsus esset et ob hoc attonitos milites cerneret, id quod trepidationem afferebat, constantia et magnitudine animi in hortationem convertit et "<pl>audite", inquit, "milites, Africam oppressi." 
  
 
  
@@ -730,7 +730,7 @@ Timotheus Atheniensis adversus Corcyraeos navali proelio decertaturus gubernator
 
  
 
-Chabri&lt;a&gt;s Atheniensis classe dimicaturus, excusso ante navem ipsius fulmine, exterritis per tale prodigium militibus, "nunc", inquit, "potissimumineunda pugna est, cum deorum maximus Iuppiter adesse numen suum classi nostrae ostendit." 
+Chabri<a>s Atheniensis classe dimicaturus, excusso ante navem ipsius fulmine, exterritis per tale prodigium militibus, "nunc", inquit, "potissimumineunda pugna est, cum deorum maximus Iuppiter adesse numen suum classi nostrae ostendit." 
  
  
 	 

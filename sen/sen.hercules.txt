@@ -63,7 +63,7 @@ lassata prior est. nox et extremum chaos
 in me incucurrit: inde ad hunc orbem redi, 
 nemo unde retro est. tulimus Oceani minas, 
 nec ulla ualuit quatere tempestas ratem        50 
-quamcumque pressi&#151;pars quota est Perseus mei? 
+quamcumque pressi—pars quota est Perseus mei? 
 Iam uacuus aether non potest odio tuae 
 sufficere nuptae quasque deuincam feras 
 tellus timet concipere nec monstra inuenit. 
@@ -88,7 +88,7 @@ inuasit omnis ecce iam caelum fera
 meque antecessit: uictor e terris meos 
 specto labores, astra portentis prius 
 ferisque Iuno tribuit, ut caelum mihi        75 
-faceret timendum&#151;sparserit mundum licet 
+faceret timendum—sparserit mundum licet 
 caelumque terris peius ac peius Styge 
 irata faciat, dabitur Alcidae locus. 
 Si post feras, post bella, post Stygium canem 
@@ -105,9 +105,9 @@ ego quam tuebor. siue glacialem polum,
 seu me tueri feruidam partem iubes,        90 
 hac esse superos parte securos puta. 
 Cirrhaea Paean templa et aetheriam domum 
-serpente caeso meruit&#151;o quotiens iacet 
+serpente caeso meruit—o quotiens iacet 
 Python in hydra! Bacchus et Perseus deis 
-iam se intulere&#151;sed quota est mundi plaga        95 
+iam se intulere—sed quota est mundi plaga        95 
 oriens subactus aut quota est Gorgon fera? 
 quis astra natus laudibus meruit suis 
 ex te et nouerca? quem tuli mundum peto. 
@@ -153,7 +153,7 @@ uix gratum pecori montiuago nemus.
 At si quas melior sors famulas uocat, 
 illas aut uolucer transferet Inachus 
 aut Dircaea colent moenia, qua fluit        140 
-Ismenos tenui flumine languidus&#151; 
+Ismenos tenui flumine languidus— 
 hic mater tumidi nupserat Herculis? 
   Falsa est de geminis fabula noctibus,        147 
 aether cum tenuit sidera longius 
@@ -176,7 +176,7 @@ uicino Nabatae uulnera derigit        160
 Parthus Gnosiacis certior ictibus. 
   Muros Oechaliae corpore propulit; 
 nil obstare ualet; uincere quod parat 
-iam uictum est&#151;quota pars uulnere concidit? 
+iam uictum est—quota pars uulnere concidit? 
 pro fato potuit uultus iniquior        165 
 et uidisse sat est Herculeas minas. 
 quis uastus Briareus, quis tumidus Gyges, 
@@ -280,7 +280,7 @@ ignara uinci, si quid excessit feras        260
 immane dirum horribile, quo uiso Hercules 
 auertat oculos, hoc specu immenso exeat. 
 Vel si ferae negantur, hanc animam, precor, 
-conuerte in aliquod&#151;quodlibet possum malum 
+conuerte in aliquod—quodlibet possum malum 
 hac mente fieri. commoda effigiem mihi        265 
 parem dolori: non capit pectus minas. 
 quid excutis telluris extremae sinus 
@@ -303,7 +303,7 @@ totusque pacem debeat mundus tibi,
 est aliquid hydra peius: iratae dolor 
 nuptae. quis ignis tantus in caelum furit        285 
 ardentis Aetnae? quidquid est uictum tibi 
-hic uincet animus&#151;capta praeripiet toros? 
+hic uincet animus—capta praeripiet toros? 
 adhuc timebam monstra, iam nullum est malum: 
 cessere pestes, in locum uenit ferae 
 inuisa paelex. summe pro rector deum        290 
@@ -311,7 +311,7 @@ et clare Titan, Herculis tantum fui
 coniunx timentis; uota quae superis tuli 
 cessere captae, paelici felix fui, 
 illi meas audistis, o superi, preces, 
-incolumis illi remeat&#151;o nulla dolor        295 
+incolumis illi remeat—o nulla dolor        295 
 contente poena, quaere supplicia horrida, 
 incogitata, infanda, Iunonem doce 
 quid odia ualeant: nescit irasci satis. 
@@ -320,15 +320,15 @@ Achelous undas sanguine infecit suo,        300
 cum lenta serpens fieret, in taurum trucem 
 nunc flecteret serpente deposita minas, 
 et mille in hoste uinceres uno feras. 
-iam displicemus, capta praelata est mihi&#151; 
+iam displicemus, capta praelata est mihi— 
 non praeferetur: qui dies thalami ultimus        305 
 nostri est futurus, hic erit uitae tuae. 
 Quid hoc? recedit animus et ponit minas; 
-iam cessat ira&#151;quid miser langues dolor? 
+iam cessat ira—quid miser langues dolor? 
 perdis furorem, coniugis sanctae fidem 
 mihi reddis iterum. quid uetas flammas ali?        310 
 quid frangis ignes? hunc mihi serua impetum, 
-pares eamus&#151;non erit uotis opus: 
+pares eamus—non erit uotis opus: 
 aderit nouerca quae manus nostras regat 
 nec inuocata. Nvt. Quod paras demens scelus? 
 perimes maritum, cuius extremus dies        315 
@@ -340,7 +340,7 @@ sternetur omne, saxa iam dudum ac faces        320
 in te ferentur, uindicem tellus suum 
 defendet omnis: una quot poenas dabis! 
 Effugere terras crede et humanum genus 
-te posse&#151;fulmen genitor Alcidae gerit: 
+te posse—fulmen genitor Alcidae gerit: 
 iam iam minaces ire per caelum faces        325 
 specta et tonantem fulmine excusso diem. 
 mortem quoque ipsam, quam putes tutam, time: 
@@ -370,7 +370,7 @@ felix iacet quicumque quos odit premit.        350
  Nvt. Quid ipsa flammas pascis et uastum foues 
 ultro dolorem? misera, quid cassum times? 
 dilexit Iolen: nempe cum staret parens 
-regisque natam peteret&#151;in famulae locum 
+regisque natam peteret—in famulae locum 
 regina cecidit: perdidit uires amor        355 
 multumque ab illa traxit infelix status. 
 illicita amantur, excidit quidquid licet. 
@@ -817,7 +817,7 @@ splendescat ignis ture, quod Phoebum colens
 diues Sabaeis colligit truncis Arabs. 
 pacata tellus' inquit 'et caelum et freta, 
 feris subactis omnibus uictor redi:        795 
-depone fulmen'&#151;gemitus in medias preces 
+depone fulmen'—gemitus in medias preces 
 stupente et ipso cecidit; hinc caelum horrido 
 clamore complet: qualis impressa fugax 
 taurus bipenni uolnus et telum ferens 
@@ -852,13 +852,13 @@ et membra uasta carpit auellens manu.
 exuere amictus quaerit: hoc solum Herculem 
 non posse uidi; trahere conatus tamen 
 et membra traxit: corporis palla horridi        830 
-pars est et ipsa&#151;uestis immiscet cutem. 
+pars est et ipsa—uestis immiscet cutem. 
 nec causa dirae cladis in medio patet, 
 sed causa tamen est; uixque sufficiens malo 
 nunc ore terram languidus prono premit, 
-nunc poscit undas&#151;unda non uincit malum;        835 
+nunc poscit undas—unda non uincit malum;        835 
 fluctisona quaerit litora et pontum occupat: 
-famularis illum retinet errantem manus&#151; 
+famularis illum retinet errantem manus— 
 o sortem acerbam! fuimus Alcidae pares. 
   Nunc puppis illum litore Euboico refert 
 Austerque lenis pondus Herculeum rapit;        840 
@@ -866,9 +866,9 @@ destituit animus membra, nox oculos premit.
  De. Quid, anime, cessas? quid stupes? factum est scelus: 
 natum reposcit Iuppiter, Iuno aemulum; 
   *        843a 
-reddendus orbi est&#151;quod potest reddi, exhibe: 
+reddendus orbi est—quod potest reddi, exhibe: 
 eat per artus ensis exactus meos. 
-sic, sic agendum est&#151;tam leuis poenas manus 
+sic, sic agendum est—tam leuis poenas manus 
 tantas reposcit? perde fulminibus, socer, 
 nurum scelestam. nec leui telo manus 
 armetur: illud fulmen exiliat polo, 
@@ -877,21 +877,21 @@ hydram cremasses: pestem ut insolitam feri
 et ut nouerca peius irata malum. 
 emitte telum quale in errantem prius 
 Phaethonta missum est: perdidi in solo Hercule 
-et ipsa populos.&#151;quid rogas telum deos?        855 
+et ipsa populos.—quid rogas telum deos?        855 
 iam parce socero: coniugem Alcidae necem 
 optare pudeat: haec erit uoto manus, 
-a me petatur; occupa ferrum ocius&#151; 
+a me petatur; occupa ferrum ocius— 
 cur deinde ferrum? quidquid ad mortem trahit 
 telum est abunde: rupe ab aetheria ferar.        860 
 haec, haec renatum prima quae noscit diem 
-Oeta eligatur; corpus hinc mitti placet.&#151; 
-leuis una mors est&#151;leuis, at extendi potest:        865 
+Oeta eligatur; corpus hinc mitti placet.— 
+leuis una mors est—leuis, at extendi potest:        865 
 abrupta cautes scindat et partem mei        863 
 ferat omne saxum, pendeant lacerae manus 
-totumque rubeat asperi montis latus.&#151; 
+totumque rubeat asperi montis latus.— 
 eligere nescis, anime, cui telo incubes!        867 
 utinam esset, utinam fixus in thalamis meis 
-Herculeus ensis: huic decet ferro inmori.&#151; 
+Herculeus ensis: huic decet ferro inmori.— 
 una perire dextera nobis sat est?        870 
 coite, gentes, saxa et immensas faces 
 iaculetur orbis, nulla nunc cesset manus, 
@@ -901,7 +901,7 @@ impune iam nascetur indomitum malum;        875
 reddentur arae cernere assuetae hostiam 
 similem colenti: sceleribus feci uiam; 
 ego uos tyrannis regibus monstris feris 
-saeuisque rapto uindice opposui deis.&#151; 
+saeuisque rapto uindice opposui deis.— 
 cessas, Tonantis socia? non spargis facem        880 
 imitata fratrem et mittis ereptam Ioui 
 meque ipsa perdis? laus tibi erepta incluta est, 
@@ -977,14 +977,14 @@ utroque dextra est scelere, seu mater nocens
 seu dira soror es; adde me comitem tuis, 
 Threicia coniunx, sceleribus; natam tuam, 
 Althaea mater, recipe, nunc ueram tui 
-agnosce prolem&#151;quid tamen tantum manus        955 
+agnosce prolem—quid tamen tantum manus        955 
 uestrae abstulerunt? claudite Elysium mihi, 
 quaecumque fidae coniuges nemoris sacri 
 lucos tenetis; si qua respersit manus 
 uiri cruore nec memor castae facis 
 stricto cruenta Belias ferro stetit,        960 
 in me suas agnoscat et laudet manus: 
-in hanc abire coniugum turbam libet&#151; 
+in hanc abire coniugum turbam libet— 
 sed et illa fugiet turba tam diras manus. 
   Inuicte coniunx, innocens animus mihi, 
 scelesta manus est. pro nimis mens credula,        965 
@@ -993,7 +993,7 @@ auferre cupiens paelici eripui mihi.
 recede, Titan, tuque quae blanda tenes 
 in luce miseros uita: cariturae Hercule 
 lux uilis ista est. exigat poenas sibi        970 
-reddamque uitam&#151;fata an extendo mea 
+reddamque uitam—fata an extendo mea 
 mortemque, coniunx, ad tuas seruo manus? 
 uirtusne superest aliqua et armatae manus 
 intendere arcum tela missurum ualent? 
@@ -1003,11 +1003,11 @@ animosa coniunx dexteram expecto tuam.
 mors differatur: frange ut insontem Lichan, 
 alias in urbes sparge et ignotum tibi 
 inmitte in orbem; perde ut Arcadiae nefas        980 
-et quidquid aliud cessit&#151;at ab illis tamen, 
+et quidquid aliud cessit—at ab illis tamen, 
 coniunx, redisti. Hyllvs Parce iam, mater, precor, 
 ignosce fatis; error a culpa uacat. 
  De. Si uera pietas, Hylle, quaerenda est tibi, 
-iam perime matrem&#151;pauida quid tremuit manus?        985 
+iam perime matrem—pauida quid tremuit manus?        985 
 quid ora flectis? haec erit pietas scelus. 
 ignaue dubitas? Herculem eripui tibi: 
 haec, haec peremit dextra, cui debes patri 
@@ -1022,7 +1022,7 @@ sed mente nostra. natus Alcidae times?
 ita nulla peragas iussa, nec frangens mala 
 erres per orbem, si qua nascetur fera 
 referas parentem: dexteram intrepidam para. 
-patet ecce plenum pectus aerumnis: feri.&#151;        1000 
+patet ecce plenum pectus aerumnis: feri.—        1000 
 scelus remitto, dexterae parcent tuae 
 Eumenides ipsae: uerberum crepuit sonus. 
 quaenam ista torquens angue uibrato comam 
@@ -1038,7 +1038,7 @@ hic ecce pallens dira Tisiphone stetit,
 causam reposcit; parce uerberibus, precor, 
 Megaera, parce, sustine Stygias faces: 
 scelus est amoris. Sed quid hoc? tellus labat        1015 
-et aula tectis crepuit excussis&#151;minax 
+et aula tectis crepuit excussis—minax 
 unde iste coetus? totus in uultus meos 
 decurrit orbis, hinc et hinc populi fremunt 
 totusque poscit uindicem mundus suum. 
@@ -1051,7 +1051,7 @@ peracta iam pars matris est: statuit mori;        1025
 nunc nostra superest, mortis auferre impetum. 
 o misera pietas: si mori matrem uetas, 
 patri es scelestus; si mori pateris, tamen 
-in matre peccas&#151;urget hinc illinc scelus. 
+in matre peccas—urget hinc illinc scelus. 
 inhibenda tamen est: pergam et eripiam neci.        1030 
   Chorvs Verum est quod cecinit sacer 
 Thressae sub Rhodopes iugis 
@@ -1171,7 +1171,7 @@ tuisque facibus natus in terris eram,
 ad Styga reuertor: surget Enceladus ferox        1145 
 mittetque quo nunc premitur in superos onus. 
 regnum omne, genitor, aetheris dubium tibi 
-mors nostra faciet&#151;antequam spolium tui 
+mors nostra faciet—antequam spolium tui 
 caelum omne fiat, conde me tota, pater, 
 mundi ruina, frange quem perdis polum.        1150 
  Cho. Non uana times, gnate Tonantis: 
@@ -1208,13 +1208,13 @@ mea mors cucurrit, cadere placuisset mihi
 Iunonis odio: feminae caderem manu, 
 sed caelum habentis. si nimis superis fuit, 
 Scythico sub axe genita domuisset meas 
-uires Amazon&#151;feminae cuius manu        1185 
+uires Amazon—feminae cuius manu        1185 
 Iunonis hostis uincor! hinc grauior tui, 
 nouerca, pudor est. quid diem hunc laetum uocas? 
 quid tale tellus genuit iratae tibi? 
 mortalis odia femina excessit tua. 
 adhuc furebas esse te Alcidae imparem:        1190 
-uicta es duobus&#151;pudeat irarum deos. 
+uicta es duobus—pudeat irarum deos. 
   Vtinam meo cruore satiasset suos 
 Nemeaea rictus pestis aut centum anguibus 
 uallatus hydram tabe pauissem mea, 
@@ -1222,13 +1222,13 @@ utinam fuissem praeda Centauris datus        1195
 aut inter umbras uinctus aeterno miser 
 saxo sederem! spolia nunc traxi ultima 
 Fato stupente, nunc ab inferna Styge 
-lucem recepi, Ditis euici moras&#151; 
+lucem recepi, Ditis euici moras— 
 ubique mors me fugit, ut titulo inclitae        1200 
 mortis carerem. pro ferae, uictae ferae! 
 non me triformis sole conspecto canis 
 ad Styga reuexit, non sub Hesperio polo 
 Hibera uicit turba pastoris feri, 
-non gemina serpens&#151;perdidi mortem, ei mihi,        1205 
+non gemina serpens—perdidi mortem, ei mihi,        1205 
 totiens honestam: titulus extremus quis est! 
  Cho. Viden ut laudis conscia uirtus 
 non Lethaeos horreat amnes? 
@@ -1254,7 +1254,7 @@ hausit medullas: ossibus uacuis sedet;
 nec ossa durant ipsa, sed compagibus 
 discussa ruptis mole conlapsa fluunt. 
 defecit ingens corpus et pesti satis        1230 
-Herculea non sunt membra&#151;pro, quantum est malum 
+Herculea non sunt membra—pro, quantum est malum 
 quod esse uastum fateor, o dirum nefas 
   !En cernite, urbes, cernite ex illo Hercule 
 quid iam supersit. Herculem agnoscis, pater? 
@@ -1273,7 +1273,7 @@ memet sepultae? quid patrem appello Iouem?
 quid per Tonantem uindico caelum mihi? 
 iam, iam meus credetur Amphitryon pater. 
   Quaecumque pestis uiscere in nostro lates, 
-procede&#151;quid me uulnere occulto petis?        1250 
+procede—quid me uulnere occulto petis?        1250 
 quis te sub axe frigido pontus Scythes, 
 quae pigra Tethys genuit aut Maurum premens 
 Hibera Calpe litus? o dirum malum! 
@@ -1281,13 +1281,13 @@ utrumne serpens squalidum crista caput
 uibrans an aliquod et mihi ignotum malum?        1255 
 numquid cruore es genita Lernaeae ferae 
 an te reliquit Stygius in terris canis? 
-omne es malum nullumque&#151;quis uoltus tibi est? 
+omne es malum nullumque—quis uoltus tibi est? 
 concede saltem scire quo peream malo; 
 quaecumque pestis siue quaecumque es fera,        1260 
 palam timere. quis tibi in medias locum 
 fecit medullas? ecce direpta cute 
 uiscera manus detexit; ulterior tamen 
-inuenta latebra est&#151;o malum simile Herculi 
+inuenta latebra est—o malum simile Herculi 
   !Vnde iste fletus? unde in has lacrimae genas?        1265 
 inuictus olim uoltus et numquam malis 
 lacrimas suis praebere consuetus (pudet) 
@@ -1300,7 +1300,7 @@ et chalybe uoltus et uaga Symplegade
 uictus minas infregit et lacrimam expulit. 
 flentem, gementem, summe pro rector poli,        1275 
 me terra uidit, quodque me torquet magis, 
-nouerca uidit.&#151;urit ecce iterum fibras, 
+nouerca uidit.—urit ecce iterum fibras, 
 incaluit ardor: unde nunc fulmen mihi? 
  Cho. Quid non possit superare dolor? 
 quondam Getico durior Haemo        1280 
@@ -1322,11 +1322,11 @@ nec inuocaui; tot feras uici horridas,        1295
 reges, tyrannos, non tamen uoltus meos 
 in astra torsi: semper haec nobis manus 
 uotum spopondit; nulla propter me sacro 
-micuere caelo fulmina&#151;hic aliquid dies 
+micuere caelo fulmina—hic aliquid dies 
 optare iussit. primus audierit preces        1300 
 idemque summus: unicum fulmen peto; 
 giganta crede (non minus caelum mihi 
-asserere potui&#151;dum patrem uerum imputo, 
+asserere potui—dum patrem uerum imputo, 
 caelo peperci). siue crudelis, pater, 
 siue es misericors, commoda nato manum        1305 
 properante morte et occupa hanc laudem tibi. 
@@ -1346,7 +1346,7 @@ iam fracta, iam satiata quid pascis minas?
 quid quaeris ultra? supplicem Alciden uides,        1320 
 et nulla tellus, nulla me uidit fera 
 te deprecantem. nunc mihi irata satis 
-opus est nouerca&#151;nunc tuus cessat dolor? 
+opus est nouerca—nunc tuus cessat dolor? 
 nunc odia ponis? parcis ubi uotum est mori. 
   O terra et urbes, non facem quisquam Herculi,        1325 
 non arma tradet? tela subtrahitis mihi? 
@@ -1359,7 +1359,7 @@ ingrate cessas orbis? excidimus tibi?
 adhuc malis ferisque suppositus fores, 
 ni me tulisses. uindicem uestrum malis 
 eripite, populi: tempus hoc uobis datur        1335 
-pensare merita&#151;mors erit pretium omnium. 
+pensare merita—mors erit pretium omnium. 
   Alcmene Quas misera terras mater Alcidae petam? 
 ubi natus, ubinam est? certa si uisus notat, 
 reclinis ecce corde anhelante aestuat; 
@@ -1370,7 +1370,7 @@ ubi membra sunt? ubi illa quae mundum tulit
 stelligera ceruix? quis tibi exiguam tui 
 partem reliquit? He. Herculem spectas quidem,        1345 
 mater, sed umbram et uile nescioquid mei. 
-agnosce, mater&#151;ora quid flectis retro 
+agnosce, mater—ora quid flectis retro 
 uultumque mergis? Herculem dici tuum 
 partum erubescis? Al. Quis feram mundus nouam, 
 quae terra genuit? quodue tam dirum nefas        1350 
@@ -1388,7 +1388,7 @@ quae tanta nubes flamma Sicanias secans,
 quae Lemnos ardens, quae plaga igniferi poli 
 uetans flagranti currere in zona diem? 
 in ipsa me iactate, pro comites, freta 
-mediosque in amnes&#151;quis sat est Hister mihi?        1365 
+mediosque in amnes—quis sat est Hister mihi?        1365 
 non ipse terris maior Oceanus meos 
 franget uapores, omnis in nostris malis 
 deficiet umor, omnis arescet latex. 
@@ -1417,13 +1417,13 @@ aetheria me Stymphalis, hinc taurus minax        1390
 ceruice tota pulset et quidquid fuit 
 solum quoque ingens; surgat hinc illinc nemus 
 artusque nostros dirus immittat Sinis: 
-sparsus silebo&#151;non ferae excutient mihi, 
+sparsus silebo—non ferae excutient mihi, 
 non arma gemitus, nil quod impelli potest.        1395 
  Al. Non uirus artus, nate, femineum coquit, 
 sed dura series operis et longus tibi 
 pauit cruentos forsitan morbos labor. 
  He. Vbi morbus, ubinam est? estne adhuc aliquid mali 
-in orbe mecum? ueniat huc&#151;aliquis mihi        1400 
+in orbe mecum? ueniat huc—aliquis mihi        1400 
 intendat arcus: nuda sufficiet manus. 
 procedat agedum * * * * 
 * * * Al. Ei mihi, sensus quoque 
@@ -1431,12 +1431,12 @@ excussit illi nimius impulsos dolor.
 dolor iste furor est: Herculem solus domat.        1407 
 Remouete quaeso tela et infestas, precor,        1404 
 rapite hinc sagittas: igne suffuso genae 
-scelus minantur. quas petam latebras anus?&#151; 
+scelus minantur. quas petam latebras anus?— 
 cur deinde latebras aut fugam uecors petam?        1408 
 obire forti meruit Alcmene manu: 
 uel scelere pereat, antequam letum mihi 
 ignauus aliquis mandat ac turpis manus 
-de me triumphat.&#151;ecce lassatus malis 
+de me triumphat.—ecce lassatus malis 
 sopore fessas alligat uenas dolor 
 grauique anhelum pectus impulsu quatit. 
 fauete, superi. si mihi gnatum inclutum        1415 
@@ -1446,7 +1446,7 @@ corpusque uires reparet Herculeum nouas.
   Hyllvs Pro lux acerba, pro capax scelerum dies! 
 nurus Tonantis occidit, natus iacet,        1420 
 nepos supersum; scelere materno hic perit, 
-fraude illa capta est&#151;quis per annorum uices 
+fraude illa capta est—quis per annorum uices 
 totoque in aeuo poterit aerumnas senex 
 referre tantas? unus eripuit dies 
 parentem utrumque; cetera ut sileam mala        1425 
@@ -1467,11 +1467,11 @@ Phoebique tritam flammea zonam rota.
 cubile uideo Noctis; hinc tenebras uocat.        1440 
 Quid hoc? quis axem cludit et ab ipsis, pater, 
 deducit astris? ora Phoebeus modo 
-afflabat axis, tam prope a caelo fui&#151; 
+afflabat axis, tam prope a caelo fui— 
 Trachina uideo; quis mihi terras dedit? 
 Oete modo infra steterat ac totus fuit        1445 
 suppositus orbis; tam bene excideras, dolor! 
-cogis fateri&#151;parce et hanc uocem occupa. 
+cogis fateri—parce et hanc uocem occupa. 
   Haec, Hylle, dona matris? hoc munus parat? 
 utinam liceret stipite ingesto impiam 
 effringere animam quale Amazonium malum        1450 
@@ -1517,7 +1517,7 @@ est clara captas inter, in uoltu genus
 regnumque referens, Euryto uirgo edita        1490 
 Iole: tuis hanc facibus et thalamis para. 
 uictor cruentus abstuli patriam lares 
-nihilque miserae praeter Alciden dedi&#151; 
+nihilque miserae praeter Alciden dedi— 
 et ipse rapitur. penset aerumnas suas, 
 Iouis nepotem foueat et natum Herculis;        1495 
 tibi illa pariat quidquid ex nobis habet. 
@@ -1669,7 +1669,7 @@ et breuior ilex. summa sed complet rogum        1640
 populea silua, frondis Herculeae nemus. 
   At ille, ut ingens nemore sub Nasamonio 
 aegro reclinis pectore immugit leo, 
-fertur&#151;quis illum credat ad flammas rapi? 
+fertur—quis illum credat ad flammas rapi? 
 uoltus petentis astra, non ignes erat.        1645 
 Vt pressit Oeten ac suis oculis rogum 
 lustrauit omnem, fregit impositus trabes. 
@@ -1746,13 +1746,13 @@ flammas poposcit. 'hoc age, Alcidae comes,        1717
 non segnis' inquit 'corripe Oetaeam facem. 
 quid dextra tremuit? num manus pauida impium 
 scelus refugit? redde iam pharetras mihi,        1720 
-ignaue iners eneruis&#151;en nostros manus 
+ignaue iners eneruis—en nostros manus 
 quae tendat arcus! quid sedet pallor genis? 
 animo faces inuade quo Alciden uides 
 uoltu iacere. respice arsurum, miser: 
 nouerca cernat quo feram flammas modo.        1715 
 uocat ecce iam me genitor et pandit polos;        1725 
-uenio, pater'&#151;uultusque non idem fuit. 
+uenio, pater'—uultusque non idem fuit. 
 Tremente pinum dextera ardentem intuli. 
 refugit ignis et reluctantur faces 
 et membra uitant, sed recedentem Hercules 
@@ -1792,9 +1792,9 @@ hic cumulus ille est: ecce uix totam Hercules
 compleuit urnam; quam leue est pondus mihi, 
 cui totus aether pondus incubuit leue 
   !Ad Tartara olim regnaque, o nate, ultima        1765 
-rediturus ibas&#151;quando ab inferna Styge 
+rediturus ibas—quando ab inferna Styge 
 remeabis iterum? non ut et spolium trahas 
-rursusque Theseus debeat lucem tibi&#151; 
+rursusque Theseus debeat lucem tibi— 
 sed quando solus? mundus impositus tuas 
 compescet umbras teque Tartareus canis        1770 
 inhibere poterit? quando Taenarias fores 
@@ -1820,7 +1820,7 @@ Thracis cruenti uindicat, carpent greges        1790
 mea membra diri; forsitan poenas petet 
 irata Iuno: totus exurget dolor; 
 secura uicto tandem ab Alcide uacat, 
-paelex supersum&#151;quanta supplicia expetet 
+paelex supersum—quanta supplicia expetet 
 ne parere possim! fecit hic natus mihi        1795 
 uterum timendum. Quae petam Alcmene loca? 
 quis me locus, quae regio, quae mundi plaga 
@@ -1885,7 +1885,7 @@ cessate, matres, pertinax si quas dolor
 adhuc iubet lugere, quas luctus grauis        1855 
 in saxa uertit; cedite his cunctae malis. 
   Agedum senile pectus, o miserae manus, 
-pulsate&#151;et una funeri tanto sat est 
+pulsate—et una funeri tanto sat est 
 grandaeua anus defecta, quod totus breui 
 iam quaeret orbis? expedi in planctus tamen        1860 
 defessa quamquam bracchia: inuidiam ut deis 
@@ -2007,11 +2007,11 @@ poenas cruentus iam tibi Eurystheus dabit;
 curru superbum uecta transcendes caput. 
   Me iam decet subire caelestem plagam:        1975 
 inferna uici rursus Alcides loca. 
- Al. Mane parumper&#151;cessit ex oculis, abit, 
+ Al. Mane parumper—cessit ex oculis, abit, 
 in astra fertur. fallor an uultus putat 
 uidisse natum? misera mens incredula est. 
 es numen et te mundus aeternum tenet:        1980 
-credo triumphis.&#151;regna Thebarum petam 
+credo triumphis.—regna Thebarum petam 
 nouumque templis additum numen canam. 
   Chorvs Numquam Stygias fertur ad umbras 
 inclita uirtus: uiuite fortes 

@@ -75,7 +75,7 @@ Cicero: pro Ligario
  
 
  
-[ 15 ] Dicam plane, Caesar, quod sentio. Si in tanta tua fortuna lenitas tanta non esset, quam tu per te, per te, inquam, obtines&#151;intellego quid loquar&#151;, acerbissimo luctu redundaret ista uictoria. Quam multi enim essent de uictoribus qui te crudelem esse uellent, cum etiam de uictis reperiantur! Quam multi qui cum a te ignosci nemini uellent, impedirent clementiam tuam, cum hi quibus ipsis ignouisti, nolint te esse in alios misericordem! 
+[ 15 ] Dicam plane, Caesar, quod sentio. Si in tanta tua fortuna lenitas tanta non esset, quam tu per te, per te, inquam, obtines—intellego quid loquar—, acerbissimo luctu redundaret ista uictoria. Quam multi enim essent de uictoribus qui te crudelem esse uellent, cum etiam de uictis reperiantur! Quam multi qui cum a te ignosci nemini uellent, impedirent clementiam tuam, cum hi quibus ipsis ignouisti, nolint te esse in alios misericordem! 
  
 
  
@@ -87,7 +87,7 @@ Cicero: pro Ligario
  
 
  
-[ 18 ] Liceat esse miseros&#151;quamquam hoc uictore esse non possumus; sed non loquor de nobis, de illis loquor qui occiderunt&#151;fuerint cupidi, fuerint irati, fuerint pertinaces; sceleris uero crimine, furoris, parricidi liceat Cn. Pompeio mortuo, liceat multis aliis carere. Quando hoc ex te quisquam, Caesar, audiuit, aut tua quid aliud arma uoluerunt nisi a te contumeliam propulsare? Quid egit tuus inuictus exercitus, nisi uti suum ius tueretur et dignitatem tuam? Quid? Tu cum pacem esse cupiebas, idne agebas ut tibi cum sceleratis, an ut cum bonis ciuibus conueniret? 
+[ 18 ] Liceat esse miseros—quamquam hoc uictore esse non possumus; sed non loquor de nobis, de illis loquor qui occiderunt—fuerint cupidi, fuerint irati, fuerint pertinaces; sceleris uero crimine, furoris, parricidi liceat Cn. Pompeio mortuo, liceat multis aliis carere. Quando hoc ex te quisquam, Caesar, audiuit, aut tua quid aliud arma uoluerunt nisi a te contumeliam propulsare? Quid egit tuus inuictus exercitus, nisi uti suum ius tueretur et dignitatem tuam? Quid? Tu cum pacem esse cupiebas, idne agebas ut tibi cum sceleratis, an ut cum bonis ciuibus conueniret? 
  
 
  
@@ -143,7 +143,7 @@ Cicero: pro Ligario
  
 
  
-[ 32 ] In Q. Ligario conseruando multis tu quidem gratum facies necessariis tuis, sed hoc, quaeso, considera, quod soles; possum fortissimos uiros Sabinos tibi probatissimos totumque agrum Sabinum, florem Italiae ac robur rei publicae, proponere,&#151;nosti optime homines&#151;; animaduerte horum omnium maestitiam et dolorem; huius T. Brocchi, de quo non dubito quid existimes, lacrimas squaloremque ipsius et fili uides.
+[ 32 ] In Q. Ligario conseruando multis tu quidem gratum facies necessariis tuis, sed hoc, quaeso, considera, quod soles; possum fortissimos uiros Sabinos tibi probatissimos totumque agrum Sabinum, florem Italiae ac robur rei publicae, proponere,—nosti optime homines—; animaduerte horum omnium maestitiam et dolorem; huius T. Brocchi, de quo non dubito quid existimes, lacrimas squaloremque ipsius et fili uides.
  
 
  
@@ -155,11 +155,11 @@ Cicero: pro Ligario
  
 
  
-[ 35 ] Sed ierit ad bellum, dissenserit non a te solum, uerum etiam a fratribus; hi te orant tui. Equidem, cum tuis omnibus negotiis interessem, memoria teneo qualis T. Ligarius quaestor urbanus fuerit erga te et dignitatem tuam. Sed parum est me hoc meminisse, spero etiam te, qui obliuisci nihil soles nisi iniurias,&#151;quam hoc est animi, quam etiam ingeni tui!&#151;te aliquid de huius illo quaestorio officio, etiam de aliis quibusdam quaestoribus reminiscentem, recordari.
+[ 35 ] Sed ierit ad bellum, dissenserit non a te solum, uerum etiam a fratribus; hi te orant tui. Equidem, cum tuis omnibus negotiis interessem, memoria teneo qualis T. Ligarius quaestor urbanus fuerit erga te et dignitatem tuam. Sed parum est me hoc meminisse, spero etiam te, qui obliuisci nihil soles nisi iniurias,—quam hoc est animi, quam etiam ingeni tui!—te aliquid de huius illo quaestorio officio, etiam de aliis quibusdam quaestoribus reminiscentem, recordari.
  
 
  
-[ 36 ] Hic igitur T. Ligarius, qui tum nihil egit aliud&#151;neque enim haec diuinabat&#151;nisi ut tui eum studiosum et bonum uirum iudicares, nunc a te supplex fratris salutem petit. Quam huius admonitus officio cum utrisque his dederis, tris fratres optimos et integerrimos non solum sibi ipsos neque his tot, talibus uiris neque nobis necessariis tuis, sed etiam rei publicae condonaueris.
+[ 36 ] Hic igitur T. Ligarius, qui tum nihil egit aliud—neque enim haec diuinabat—nisi ut tui eum studiosum et bonum uirum iudicares, nunc a te supplex fratris salutem petit. Quam huius admonitus officio cum utrisque his dederis, tris fratres optimos et integerrimos non solum sibi ipsos neque his tot, talibus uiris neque nobis necessariis tuis, sed etiam rei publicae condonaueris.
  
 
  

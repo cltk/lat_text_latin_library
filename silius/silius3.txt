@@ -84,7 +84,7 @@ quos ut seponi stetit et secernere ab armis,
 adfatur ductor: 'Spes o Carthaginis altae, 
 nate, nec Aeneadum leuior metus, amplior, oro,    70 
 sis patrio decore et factis tibi nomina condas, 
-qui&lt;s&gt; superes bellator auum; iamque aegra timoris 
+qui<s> superes bellator auum; iamque aegra timoris 
 Roma tuos numerat lacrimandos matribus annos. 
 ni praesaga meos ludunt praecordia sensus, 
 ingens hic terris crescit labor: ora parentis    75 
@@ -133,14 +133,14 @@ atque acies inter flagrantiaque arma relictae
 coniugis et nati curam seruare memento. 
 quippe nec Ausonios tantum nec tela nec ignes 
 quantum te metuo: ruis ipsos acer in enses    120 
-obiectasque caput telis, nec &lt;te&gt; ulla secundo 
+obiectasque caput telis, nec <te> ulla secundo 
 euentu satiat uirtus, tibi gloria soli 
 fine caret, credisque uiris ignobile letum 
 belligeris in pace mori. tremor implicat artus, 
 nec quemquam horresco, qui se tibi conferet unus.    125 
 sed tu, bellorum genitor, miserere nefasque 
 auerte et serua caput inuiolabile Teucris.' 
-  Iamque adeo &lt;e&gt;gressi steterant in litore primo, 
+  Iamque adeo <e>gressi steterant in litore primo, 
 et promota ratis, pendentibus arbore nautis, 
 aptabat sensim pulsanti carbasa uento,    130 
 cum lenire metus properans aegramque leuare 
@@ -148,7 +148,7 @@ attonitis mentem curis sic Hannibal orsus:
 'Ominibus parce et lacrimis, fidissima coniunx. 
 et pace et bello cunctis stat terminus aeui, 
 extremumque diem primus tulit; ire per ora    135 
-nomen in aeternum pa&lt;u&gt;cis mens ignea donat, 
+nomen in aeternum pa<u>cis mens ignea donat, 
 quos pater aetheriis caelestum destinat oris. 
 an Romana iuga et famulas Carthaginis arces 
 perpetiar? stimulant manes noctisque per umbras 
@@ -330,7 +330,7 @@ fama docet, caesae rapuit cum Gorgonis ora
 Perseus, in Libyam dirum fluxisse cruorem:    315 
 inde Medusaeis terram exundasse chelydris. 
 milibus his ductor spectatus Marte Choaspes, 
-Neritia Meni&lt;n&gt;ge satus, cui tragula semper 
+Neritia Meni<n>ge satus, cui tragula semper 
 fulmineam armabat, celebratum missile, dextram. 
 huc coit aequoreus Nasamon, inuadere fluctu    320 
 audax naufragia et praedas auellere ponto, 
@@ -683,7 +683,7 @@ cornigeri Iouis et fulgentia templa subimus,
 exceptos hospes tectis inducit Arisbas. 
 stat fano uicina, nouum et memorabile, lympha, 
 quae nascente die, quae deficiente tepescit    670 
-quae&#60;que&#62; riget, medius cum sol accendit Olympum, 
+quae<que> riget, medius cum sol accendit Olympum, 
 atque eadem rursum nocturnis feruet in umbris. 
 tum loca plena deo, dites sine uomere glaebas 
 ostentat senior laetaque ita mente profatur: 
@@ -692,7 +692,7 @@ calcatosque Ioui lucos prece, Bostar, adora.
 nam cui dona Iouis non diuulgata per orbem, 
 in gremio Thebes geminas sedisse columbas? 
 quarum Chaonias pennis quae contigit oras 
-implet fatidico &#60;Do&#62;donida murmure quercum.    680 
+implet fatidico <Do>donida murmure quercum.    680 
 
 at quae Carpathium super aequor uecta per auras 
 in Libyen niueis tranauit concolor alis 

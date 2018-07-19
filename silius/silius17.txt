@@ -51,7 +51,7 @@ dum satis est monuisse deae. quod si qua pudica    30
 mente ualet, si qua inlaesi sibi corporis astat 
 conscia, uel sola subeat pia munera dextra.' 
   Hic, prisca ducens Clausorum ab origine nomen, 
-Claudia, non aequa&lt;e> populi male credita fama&lt;e>, 
+Claudia, non aequa<e> populi male credita fama<e>, 
 in puppim uersis palmisque oculisque profatur:    
 35 
 'Caelicolum genetrix, numen, quod numina nobis 
@@ -110,7 +110,7 @@ inter Dardanias acies fore. sanguine quippe,
 80 
 si renuat, blando nimium facilique marito 
 statura obsequia et thalami flagrantis amores. 
-  Sic Latius permixta minis, &lt;s>ed cassa monebat 
+  Sic Latius permixta minis, <s>ed cassa monebat 
 ductor. nam surdas coniunx obstruxerat aures. 
 ergo, asper monitis frustra nitentibus, enses    
 85 
@@ -178,7 +178,7 @@ corruit asper ecus confixaque cuspide membra
 huc illuc iactans rectorem prodidit hosti. 
 inuadunt uanumque fugae atque attollere fessos 
 adnitentem artus reuocato a uulnere telo 
-corripiunt, tum uincla uiro manicaeque, pudendu&lt;m&gt;,    
+corripiunt, tum uincla uiro manicaeque, pudendu<m>,    
 140 
 addita, et, exemplum non umquam fidere laetis, 
 sceptriferas arta palmas uinxere catena. 
@@ -190,7 +190,7 @@ prostratis opibus regni Phoenissa metuntur
 agmina, et inuisus Marti notusque fugarum 
 uertit terga citus damnatis Hasdrubal ausis. 
   Stabat Carthago, truncatis undique membris, 
-uni &lt;in>nixa uiro, tantoque fragore ruentem    
+uni <in>nixa uiro, tantoque fragore ruentem    
 150 
 Hannibal absenti retinebat nomine molem. 
 id relicum fessos opis auxiliique ciere 
@@ -290,7 +290,7 @@ cur porro haec angant? nunc, nunc inuadere ferro
 230 
 quis prohibet rursumque ad moenia tendere gressus? 
 ibo et, castrorum relegens monumenta meorum, 
-qua uia nota &lt;uoca>t, remeabo Anienis ad undas. 
+qua uia nota <uoca>t, remeabo Anienis ad undas. 
 flectite in Italiam proras, auertite classem: 
 faxo ut uallata reuocetur Scipio Roma.'    
 235 
@@ -401,7 +401,7 @@ cum uideam, quorum ferro manibusque capaces
 arsere Argyripae campi? num segnior ibis 
 nunc mihi, qui primus torques in moenia telum 
 Dardana, nec nostrae facilis concedere laudi? 
-te&lt;n>' uero, tene extimulem, qui, fulmina contra 
+te<n>' uero, tene extimulem, qui, fulmina contra 
 et nimbos tonitrusque ac summi numinis iras    
 325 
 cum starem, perferre sonos ac uana iubebas 
@@ -416,7 +416,7 @@ lustra et non uisos tam longa aetate penatis
 ac natum et fidae iam pridem coniugis ora 
 confisus uobis repeto. non altera restat    
 335 
-iam Liby&lt;a>e, nec Dardaniis pugna altera restat. 
+iam Liby<a>e, nec Dardaniis pugna altera restat. 
 certatus nobis hodie dominum accipit orbis.' 
 Hannibal haec. sed non patiens remorantia uerba 
 Ausonius miles, quotiens dux coeperat ora 
@@ -433,7 +433,7 @@ Teucrorum quis erit, quaeso, germana, rebelli
 fractis foederibus populo modus? ipsa malorum 
 non plus Carthago tulit exhausitque laboris,    
 350 
-quam pro Cadmea &lt;s>u&lt;bi>isti exercita gente. 
+quam pro Cadmea <s>u<bi>isti exercita gente. 
 turbasti maria ac terras iuuenemque ferocem 
 immisti Latio. tremuerunt moenia Romae, 
 perque bis octonos primus fuit Hannibal annos 
@@ -447,7 +447,7 @@ quae donare potes, quoniam mihi gratia languet
 360 
 et cecidit iam primus amor, nil fila sororum 
 aduersus posco: uertat terga Hannibal hosti, 
-ut placet, et cineres Troiae Carthagine reg&lt;n>ent. 
+ut placet, et cineres Troiae Carthagine reg<n>ent. 
 illud te gemini per mutua pignora amoris 
 et soror et coniunx oro: tranare pericla    
 365 
@@ -511,7 +511,7 @@ feruidus ingenii Masinissa et feruidus aeui
 in primas Macetum turmas immania membra 
 infert et iaculo circumuolat alite campum.    
 415 
-caerulus haud aliter, cum dimicat, incola T&lt;h>yles 
+caerulus haud aliter, cum dimicat, incola T<h>yles 
 agmina falcigero circumuenit arta couinno. 
 Graia phalanx patrio densarat more cateruas 
 iunctisque astabat nulli penetrabilis hastis. 
@@ -568,7 +568,7 @@ si placet, haud renuo. maneant modo foedera nostra:
 Hasdrubalem reuocate umbris. egone aspera ponam 
 umquam in Romanos odia, aut mansuescere corda 
 nostra sinam, parcamque uiro quem terra crearit 
-Itala? tum manes inimico&lt;s> sede repellat    
+Itala? tum manes inimico<s> sede repellat    
 465 
 aeterna socioque abigat me frater Auerno.' 
 sic ait et clipei propulsum pondere toto, 
@@ -586,7 +586,7 @@ omne hominum terris trepidat genus, ipsaque ob ora
 lux atrox micat, et praesens astare uiritim 
 creditur intento perculsis Iuppiter igne. 
   Parte alia, ceu sola forent discrimina campo 
-quo mis&lt;c>eret agens truculentum Scipio Martem,    
+quo mis<c>eret agens truculentum Scipio Martem,    
 480 
 aspera pugna nouas uaria sub imagine leti 
 dat formas. hic ense iacet prostratus adacto, 
@@ -610,9 +610,9 @@ qui sacros, Trasimenne, lacus, Phaethontia quique
 polluerant tabo stagna, ac fiducia tanta 
 quos tulit, ut superum regi soliumque domosque 
 irent direptum: mactantur comminus uno 
-exitio, redduntque animas, temerata fereba&lt;n>t    
+exitio, redduntque animas, temerata fereba<n>t    
 500 
-qui secreta deum et primo&lt;s> reserasse negatas 
+qui secreta deum et primo<s> reserasse negatas 
 gressibus humanis Alpis. formidinis huius 
 plena acies propere retro exanimata ruebat: 
 haud secus ac tectis urbis Vulcania pestis 
@@ -732,8 +732,8 @@ sistit Iuno ducem, facies unde omnis et atrae
 apparent admota oculis uestigia pugnae. 
 qualem Gargani campum Trebiaeque paludem    
 600 
-et Tyrrhena uada et Ph&lt;a>et&lt;h>ontis uiderat amnem 
-strage uiru&lt;m> undantem, talis, miserabile uisu, 
+et Tyrrhena uada et Ph<a>et<h>ontis uiderat amnem 
+strage uiru<m> undantem, talis, miserabile uisu, 
 prostratis facies aperitur dira maniplis. 
 tunc superas Iuno sedes turbata reuisit. 
 iamque propinquabant hostes tumuloque subibant,    

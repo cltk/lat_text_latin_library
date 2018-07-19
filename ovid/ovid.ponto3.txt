@@ -230,14 +230,14 @@ LIBER TERTIVS
  Hic quoque Sauromatae iam uos nouere Getaeque, 
   et tales animos barbara turba probat. 
  Cumque ego de uestra nuper probitate referrem 
-  &#151;nam didici Getice Sarmaticeque loqui&#151;      40 
+  —nam didici Getice Sarmaticeque loqui—      40 
  forte senex quidam, coetu cum staret in illo, 
   reddidit ad nostros talia uerba sonos: 
  'Nos quoque amicitiae nomen, bone, nouimus, hospes, 
   quos procul a uobis Pontus et Hister habet. 
- Est locus in Scythia&#151;Tauros dixere priores&#151;      45 
+ Est locus in Scythia—Tauros dixere priores—      45 
   qui Getica longe non ita distat humo. 
- Hac ego sum terra&#151;patriae nec paenitet&#151;ortus. 
+ Hac ego sum terra—patriae nec paenitet—ortus. 
   Consortem Phoebi gens colit illa deam. 
  Templa manent hodie uastis innixa columnis 
   perque quater denos itur in illa gradus.      50 
@@ -282,7 +282,7 @@ LIBER TERTIVS
  Dum peragunt iuuenes pulchri certamen amoris, 
   ad fratrem scriptas exarat illa notas.      90 
  Ad fratrem mandata dabat, cuique illa dabantur, 
-  &#151;humanos casus aspice!&#151;frater erat. 
+  —humanos casus aspice!—frater erat. 
  Nec mora, de templo rapiunt simulacra Dianae 
   clamque per inmensas puppe feruntur aquas. 
  Mirus amor iuuenum; quamuis abiere tot anni,      95 
@@ -328,7 +328,7 @@ LIBER TERTIVS
   et uisa est oculis horrida penna meis, 
  qualis in aeriae tergo solet esse columbae 
   tractatam multae quam tetigere manus.      20 
- Hunc simul agnoui&#151;neque enim mihi notior alter&#151; 
+ Hunc simul agnoui—neque enim mihi notior alter— 
   talibus adfata est libera lingua sonis: 
  'O puer, exilii decepto causa magistro, 
   quem fuit utilius non docuisse mihi, 
@@ -366,10 +366,10 @@ LIBER TERTIVS
   quam lex furtiuos arcet habere uiros? 
  Quid tamen hoc prodest, uetiti si lege seuera 
   credor adulterii composuisse notas? 
- At tu&#151;sic habeas ferientes cuncta sagittas, 
+ At tu—sic habeas ferientes cuncta sagittas, 
   sic numquam rapido lampades igne uacent,      60 
  sic regat imperium terrasque coerceat omnis 
-  Caesar, ab Aenea est qui tibi fratre tuus&#151; 
+  Caesar, ab Aenea est qui tibi fratre tuus— 
  effice sit nobis non inplacabilis ira 
   meque loco plecti commodiore uelit.' 
  Haec ego uisus eram puero dixisse uolucri,      65 
@@ -380,8 +380,8 @@ LIBER TERTIVS
   Artibus et nullum crimen inesse tuis.      70 
  Vtque hoc, sic utinam defendere cetera possem! 
   Scis aliud quod te laeserit esse magis. 
- Quidquid id est,&#151;neque enim debet dolor ipse referri, 
-  nec potes a culpa dicere abesse tua&#151; 
+ Quidquid id est,—neque enim debet dolor ipse referri, 
+  nec potes a culpa dicere abesse tua— 
  tu licet erroris sub imagine crimen obumbres,      75 
   non grauior merito iudicis ira fuit. 
  Vt tamen aspicerem consolarerque iacentem, 
@@ -533,8 +533,8 @@ LIBER TERTIVS
   Rhenus et infectas sanguine portet aquas. 
  Barbara iam capti poscunt insignia reges 
   textaque fortuna diuitiora sua      110 
- &lt; . . . . . . . . . . . . . . . . . 
-  . . . . . . . . . . . . . &gt; 
+ < . . . . . . . . . . . . . . . . . 
+  . . . . . . . . . . . . . > 
  et quae praeterea uirtus inuicta tuorum 
   saepe parata tibi saepe paranda facit. 
  Di, quorum monitu sumus euentura locuti,      115 
@@ -591,7 +591,7 @@ LIBER TERTIVS
  utque loqui multum de me praesente solebas, 
   nunc quoque Nasonis nomen in ore tuo est? 
  Ipse quidem Getico peream uiolatus ab arcu      45 
-  &#151;et sit periuri quam prope poena uides&#151;, 
+  —et sit periuri quam prope poena uides—, 
  te nisi momentis uideo paene omnibus absens! 
   Gratia quod menti quolibet ire licet. 
  Hac ubi perueni nulli cernendus in Vrbem, 
@@ -611,7 +611,7 @@ LIBER TERTIVS
  
 
  
- Naso suo&#151;posuit nomen quam paene!&#151;sodali 
+ Naso suo—posuit nomen quam paene!—sodali 
   mittit ab Euxinis hoc breue carmen aquis. 
  At si cauta parum scripsisset dextra quis esses, 
   forsitan officio parta querela foret. 
@@ -774,7 +774,7 @@ LIBER TERTIVS
   sensus inest cunctis, tollitur arte malum. 
  Saepe aliquod uerbum cupiens mutare reliqui, 
   iudicium uires destituuntque meum. 
- Saepe piget&#151;quid enim dubitem tibi uera fateri?&#151; 
+ Saepe piget—quid enim dubitem tibi uera fateri?— 
   corrigere et longi ferre laboris onus.      20 
  Scribentem iuuat ipse labor minuitque laborem 
   cumque suo crescens pectore feruet opus. 

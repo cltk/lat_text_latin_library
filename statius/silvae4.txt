@@ -476,7 +476,7 @@ portus vadosae nescius Africae
  intras adoptatusque Tuscis 
  gurgitibus puer innatasti.   40 
 hinc parvus inter pignora curiae 
-contentus &lt;artae&gt; lumine purpurae 
+contentus <artae> lumine purpurae 
  crescis, sed immensos labores 
  indole patricia secutus. 
 non sermo Poenus, non habitus tibi,   45 

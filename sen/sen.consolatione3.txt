@@ -27,7 +27,7 @@ prior ipse consurrexissem; praeterea timebam ne a me uicta fortuna aliquem
 meorum uinceret. Itaque utcumque conabar manu super plagam meam inposita
 ad obliganda uulnera uestra reptare. 2. Hoc propositum meum erant rursus
 quae retardarent: dolori tuo, dum recens saeuiret, sciebam occurrendum
-non esse ne illum ipsa solacia inritarent et accenderent &#151; nam in morbis
+non esse ne illum ipsa solacia inritarent et accenderent — nam in morbis
 quoque nihil est perniciosius quam inmatura medicina; expectabam itaque
 dum ipse uires suas frangeret et ad sustinenda remedia mora mitigatus tangi
 se ac tractari pateretur. Praeterea cum omnia clarissimorum ingeniorum
@@ -205,7 +205,7 @@ inpatiens et nouitate rerum laetissima. 7. Quod non miraberis, si primam
 eius originem aspexeris: non est ex terreno et graui concreta corpore,
 ex illo caelesti spiritu descendit; caelestium autem natura semper in motu
 est, fugit et uelocissimo cursu agitur. Aspice sidera mundum inlustrantia:
-nullum eorum perstat. &lt;Sol&gt; labitur adsidue et locum ex loco mutat et,
+nullum eorum perstat. <Sol> labitur adsidue et locum ex loco mutat et,
 quamuis cum uniuerso uertatur, in contrarium nihilo minus ipsi mundo refertur,
 per omnis signorum partes discurrit, numquam resistit; perpetua eius agitatio
 et aliunde alio commigratio est. 8. Omnia uoluuntur semper et in transitu
@@ -231,7 +231,7 @@ obstiterunt. 2. Atheniensis in Asia turba est; Miletus quinque et septuaginta
 urbium populum in diuersa effudit; totum Italiae latus quod infero mari
 adluitur maior Graecia fuit. Tuscos Asia sibi uindicat; Tyrii Africam incolunt,
 [in] Hispaniam Poeni; Graeci se in Galliam inmiserunt, in Graeciam Galli;
-Pyrenaeus Germanorum transitus non inhibuit &#151; per inuia, per incognita
+Pyrenaeus Germanorum transitus non inhibuit — per inuia, per incognita
 uersauit se humana leuitas. 3. Liberos coniugesque et graues senio parentes
 traxerunt. Alii longo errore iactati non iudicio elegerunt locum sed lassitudine
 proximum occupauerunt, alii armis sibi ius in aliena terra fecerunt; quasdam
@@ -290,20 +290,20 @@ natura communis et propria uirtus. 3. Id actum est, mihi crede, ab illo,
 quisquis formator uniuersi fuit, siue ille deus est potens omnium, siue
 incorporalis ratio ingentium operum artifex, siue diuinus spiritus per
 omnia maxima ac minima aequali intentione diffusus, siue fatum et inmutabilis
-causarum inter se cohaerentium series &#151; id, inquam, actum est ut in alienum
+causarum inter se cohaerentium series — id, inquam, actum est ut in alienum
 arbitrium nisi uilissima quaeque non caderent. 4. Quidquid optimum homini
 est, id extra humanam potentiam iacet, nec dari nec eripi potest. Mundus
-hic, quo nihil neque maius neque ornatius rerum natura genuit, &lt;et&gt;
+hic, quo nihil neque maius neque ornatius rerum natura genuit, <et>
 animus contemplator admiratorque mundi, pars eius magnificentissima, propria
 nobis et perpetua et tam diu nobiscum mansura sunt quam diu ipsi manebimus.
 5. Alacres itaque et erecti quocumque res tulerit intrepido gradu properemus,
-emetiamur quascumque terras: nullum inueniri exilium intra mundum &lt;potest;
-nihil enim quod intra mundum&gt; est alienum homini est. Vndecumque ex aequo
+emetiamur quascumque terras: nullum inueniri exilium intra mundum <potest;
+nihil enim quod intra mundum> est alienum homini est. Vndecumque ex aequo
 ad caelum erigitur acies, paribus interuallis omnia diuina ab omnibus humanis
 distant. 6. Proinde, dum oculi mei ab illo spectaculo cuius insatiabiles
 sunt non abducantur, dum mihi solem lunamque intueri liceat, dum ceteris
 inhaerere sideribus, dum ortus eorum occasusque et interualla et causas
-inuestigare uel ocius meandi uel tardius, &lt;dum&gt; spectare tot per noctem
+inuestigare uel ocius meandi uel tardius, <dum> spectare tot per noctem
 stellas micantis et alias inmobiles, alias non in magnum spatium exeuntis
 sed intra suum se circumagentis uestigium, quasdam subito erumpentis, quasdam
 igne fuso praestringentis aciem, quasi decidant, uel longo tractu cum luce
@@ -411,8 +411,8 @@ nondum auro fulgebant, quorum templa nondum gemmis nitebant; itaque tunc
 per fictiles deos religiose iurabatur: qui illos inuocauerant, ad hostem
 morituri, ne fallerent, redibant. 8. Scilicet minus beate uiuebat dictator
 noster qui Samnitium legatos audit cum uilissimum cibum in foco ipse manu
-sua uersaret &#151; illa qua iam saepe hostem percusserat laureamque in Capitolini
-Iouis gremio reposuerat &#151; quam Apicius nostra memoria uixit, qui in ea
+sua uersaret — illa qua iam saepe hostem percusserat laureamque in Capitolini
+Iouis gremio reposuerat — quam Apicius nostra memoria uixit, qui in ea
 urbe ex qua aliquando philosophi uelut corruptores iuuentutis abire iussi
 sunt scientiam popinae professus disciplina sua saeculum infecit.' Cuius
 exitum nosse operae pretium est. 9. Cum sestertium milliens in culinam
@@ -640,7 +640,7 @@ ac lenociniis polluisti; numquam tibi placuit uestis quae nihil amplius
 nudaret cum poneretur: unicum tibi ornamentum, pulcherrima et nulli obnoxia
 aetati forma, maximum decus uisa est pudicitia. 5. Non potes itaque ad
 optinendum dolorem muliebre nomen praetendere, ex quo te uirtutes tuae
-seduxerunt; tantum debes a feminarum lacrimis abesse quantum &lt;a&gt; uitiis.
+seduxerunt; tantum debes a feminarum lacrimis abesse quantum <a> uitiis.
 Ne feminae quidem te sinent intabescere uulneri tuo, sed ~leuior~ necessario
 maerore cito defunctam iubebunt exsurgere, si modo illas intueri uoles
 feminas quas conspecta uirtus inter magnos uiros posuit. 6. Corneliam ex

@@ -108,7 +108,7 @@ cum tibi clamabam: 'sic tu temerarius esto,
 unde novus timor hic quoque illa audacia fugit? 
   magnus ubi est spretis ille natator aquis? 
 sis tamen hoc potius, quam quod prius esse solebas, 
-  et facias placidum per mare tutus iter&#151; 
+  et facias placidum per mare tutus iter— 
 dummodo sis idem; dum sic, ut scribis, amemur 
   flammaque non fiat frigidus illa cinis. 
 non ego tam ventos timeo mea vota morantes, 
@@ -167,7 +167,7 @@ nobilis ille quidem est et clarus origine, sed non
   a tibi suspecto ducit Ulixe genus. 
 da veniam servaque duos. natat ille; sed isdem 
   corpus Leandri, spes mea pendet aquis. 
-sternuit etn lumen&#151;posito nam scribimus illo&#151; 
+sternuit etn lumen—posito nam scribimus illo— 
   sternuit et nobis prospera signa dedit. 
 ecce, merum nutrix faustos instillat in ignes 
   'cras' que 'erimus plures' inquit et ipsa bibit. 

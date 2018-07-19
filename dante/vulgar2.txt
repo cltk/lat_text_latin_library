@@ -397,7 +397,7 @@ emulari oportet.
 unumquenque debere materie pondus propriis humeris coequare, ne
 forte humerorum nimio gravata virtute in cenum cespitare necesse
 sit: hoc est quod magister noster Oratius precipit, cum in
-principio Poetrie &#145;Sumite materiam ...&#146; dicit. 
+principio Poetrie ‘Sumite materiam ...’ dicit. 
  
 
  
@@ -510,7 +510,7 @@ subintellecte).
  
 Rex Navarre:
 
- De fin&#146;amor
+ De fin’amor
 si vient sen et bont»,
  
 
@@ -709,7 +709,7 @@ Guido GuinizeIli:
  
 
  Tegno de folle
-&#146;mpresa a lo ver dire.
+’mpresa a lo ver dire.
  
 
  
@@ -814,7 +814,7 @@ letitia, salute, securtate, defesa .
 preter hec, que vel necessaria vel ornativa videntur vulgaris
 illustris. Et necessaria quidem appellamus que campsare non
 possumus, ut quedam monosillaba, ut si, no, me, te, s», ˝,
-À, i&#146;, ⁄, u&#146; , interiectiones et alia multa.
+À, i’, ⁄, u’ , interiectiones et alia multa.
 Ornativa vero dicimus omnia polisillaba que, mixta cum pexis,
 pulcram faciunt armoniam compaginis, quamvis asperitatem habeant
 aspirationis et accentus et duplicium et liquidarum et
@@ -875,7 +875,7 @@ in alium, et sic tunc alicuius actio, modo quoque passio alicuius
 videtur. Et quia prius agitur ipsa quam agat, magis, immo prorsus
 denominari videtur ab eo quod agitur, et est actio alicuius, quam
 ab eo quod agit in alios. Signum autem huius est quod nunquam
-dicimus &#145;Hec est cantio Petri&#146; eo quod ipsam proferat,
+dicimus ‘Hec est cantio Petri’ eo quod ipsam proferat,
 sed eo quod fabricaverit illam.
  
 
@@ -920,7 +920,7 @@ intelletto d'amore.
 
  
 Quod autem dicimus
-&#145;tragica coniugatio&#146; est quia, cum comice fiat hec
+‘tragica coniugatio’ est quia, cum comice fiat hec
 coniugatio, cantilenam vocamus per diminutionem: de qua in quarto
 huius tractare intendimus.
  
@@ -977,7 +977,7 @@ in qualibet stantia rithimos innovare et eosdem reiterare ad
 libitum: quod, si de propria cantionis arte rithimus esset,
 minime liceret: quod dictum est. Si quid autem rithimi servare
 interest huius quod est ars, illud comprehenditur ibi cum dicimus
-&#145;partium habitudinem&#146;.
+‘partium habitudinem’.
  
 
  
@@ -1070,7 +1070,7 @@ pedes cum versibus, in stantia se diversimode habere possunt.
  
 3. Nam quandoque frons versus
 excedit in sillabis et carminibus, vel excedere potest; et
-dicimus &#145;potest&#146; quoniam habitudinem hanc adhuc non
+dicimus ‘potest’ quoniam habitudinem hanc adhuc non
 vidimus. 
  
 
@@ -1251,14 +1251,14 @@ umbraculo hec tragedia processisse videbitur.
 7. De pentasillabo quoque non
 sic concedimus: in dictamine magno sufficit enim unicum
 pentasillabum in tota stantia conseri, vel duo ad plus [in
-pedibus]; et dico &#145;pedibus&#146; propter necessitatem qua
+pedibus]; et dico ‘pedibus’ propter necessitatem qua
 pedibus, versibusque, cantatur. 
  
 
  
 8. Minime autem trisillabum in
 tragico videtur esse sumendum per se subsistens: et dico
-&#145;per se subsistens&#146; quia per quandam rithimorum
+‘per se subsistens’ quia per quandam rithimorum
 repercussionem frequenter videtur assumptum, sicut inveniri
 potest in illa Guidonis Florentini,
 
@@ -1269,7 +1269,7 @@ potest in illa Guidonis Florentini,
 et in illa quam diximus,
 
  Poscia ch'Amor
-del tutto m&#146;ha lasciato.
+del tutto m’ha lasciato.
  
 
  
@@ -1406,7 +1406,7 @@ in secundo resurgat; et sic de aliis pedibus est servandum.
 
  
 10. In versibus quoque fere
-semper hac lege perfruimur; et &#145;fere&#146; dicimus quia
+semper hac lege perfruimur; et ‘fere’ dicimus quia
 propter concatenationem prenotatam et combinationem desinentiarum
 ultimarum quandoque ordinem iam dictum perverti contingit. 
  

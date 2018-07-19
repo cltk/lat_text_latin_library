@@ -202,7 +202,7 @@ Alcibiades in Sicilia, cum Syracusanos capere vellet, ex Catiniensibus, apud quo
  
 
  
-Cleonymus Atheniensis Troezenios, qui praesidio Crateri tenebant&lt;ur&gt;, aggressus tela quaedam, in quibus scriptum erat venisse se ad liberandam eorum rem publicam, intra muros iecit et eodem tempore captivos quosdam conciliatos sibi remisit, qui Craterum detractarent: per hoc consilium seditione intestina apud obsessos concitata admoto exercitu potitus est civitate. 
+Cleonymus Atheniensis Troezenios, qui praesidio Crateri tenebant<ur>, aggressus tela quaedam, in quibus scriptum erat venisse se ad liberandam eorum rem publicam, intra muros iecit et eodem tempore captivos quosdam conciliatos sibi remisit, qui Craterum detractarent: per hoc consilium seditione intestina apud obsessos concitata admoto exercitu potitus est civitate. 
  
 
  
@@ -270,7 +270,7 @@ L. Cornelius Rufinus consul complura Sardiniae cepit oppida, dum firmissimas par
  
 
  
-Pericles, &lt;dux&gt; Atheniensium, cum oppugnaret quandam civitatem magno consensu defendentium tutam, nocte ab ea parte murorum, quae mari adiacebat, classicum cani clamoremque tolli iussit: hostes penetratum illic in oppidum rati reliquerunt portas, per quas Pericles destitutas praesidio irrupit. 
+Pericles, <dux> Atheniensium, cum oppugnaret quandam civitatem magno consensu defendentium tutam, nocte ab ea parte murorum, quae mari adiacebat, classicum cani clamoremque tolli iussit: hostes penetratum illic in oppidum rati reliquerunt portas, per quas Pericles destitutas praesidio irrupit. 
  
 
  
@@ -278,7 +278,7 @@ Alcibiades, dux Atheniensium, Cyzicum oppugnandae eius causa nocteimprovisus acc
  
 
  
-Thrasybulus, dux Milesiorum, ut portum Sicyoniorum occuparet, a terra subinde oppidanos temptavit et illo, quo lacessebantur, conversis hostibus classe in&lt;ex&gt;spectata portum cepit. 
+Thrasybulus, dux Milesiorum, ut portum Sicyoniorum occuparet, a terra subinde oppidanos temptavit et illo, quo lacessebantur, conversis hostibus classe in<ex>spectata portum cepit. 
  
 
  
@@ -290,7 +290,7 @@ Pericles Peloponnesiorum castellum oppugnaturus, in quod duo omnino erant access
  
 
  
-Antiochus adversus Ephesios Rhodiis, quos in auxilio habebat, praecepit,ut nocte portum cum magno strepitu invaderent: ad quam partem omni multitudine cum tumultu decurrente, nudatis defensore reliquis munitionibus, ipse a d&lt;i&gt;verso aggressus civitatem cepit. 
+Antiochus adversus Ephesios Rhodiis, quos in auxilio habebat, praecepit,ut nocte portum cum magno strepitu invaderent: ad quam partem omni multitudine cum tumultu decurrente, nudatis defensore reliquis munitionibus, ipse a d<i>verso aggressus civitatem cepit. 
  
 
  
@@ -298,7 +298,7 @@ Antiochus adversus Ephesios Rhodiis, quos in auxilio habebat, praecepit,ut nocte
  
 
  
-Cato in conspectu Lacetanorum, quos obsidebat, reliquis suorum summotis,Suess&lt;et&gt;anos quosdam ex auxiliaribus maxime imbelles aggredi moenia iussit: hos cum facta eruptione Lacetani facile avertissent et fugientesavide insecuti essent, illis quos occultaverat coortis oppidum cepit. 
+Cato in conspectu Lacetanorum, quos obsidebat, reliquis suorum summotis,Suess<et>anos quosdam ex auxiliaribus maxime imbelles aggredi moenia iussit: hos cum facta eruptione Lacetani facile avertissent et fugientesavide insecuti essent, illis quos occultaverat coortis oppidum cepit. 
  
 
  
@@ -322,7 +322,7 @@ Viriathus disposito per occulta milite paucos misit, qui abigerent pecora Segobr
  
 
  
-Scordisci equites, cum Heracleae d&lt;i&gt;v&lt;ers&gt;arum partium praesidio praepositus esset Lucullus, pecora abigere simulantes provocaverunt eruptionem: fugam deinde mentiti sequentem Lucullum in insidias deduxeruntet octingentos cum eo milites occiderunt. 
+Scordisci equites, cum Heracleae d<i>v<ers>arum partium praesidio praepositus esset Lucullus, pecora abigere simulantes provocaverunt eruptionem: fugam deinde mentiti sequentem Lucullum in insidias deduxeruntet octingentos cum eo milites occiderunt. 
  
 
  
@@ -342,7 +342,7 @@ Phormion, dux Atheniensium, cum depopulatus esset agros Chalcidensium,legatis eo
  
 
  
-Agesilaus, dux Lacedaemoniorum, cum Phoc&lt;ae&gt;enses obsideret et intellexisset eos, qui tunc praesidio illis erant, iam gravari belli incommoda, paulum regressus tamquam ad alios actus liberam recendendi occasionem his dedit: non multo post milite reducto destitutos Phoc&lt;ae&gt;enses superavit. 
+Agesilaus, dux Lacedaemoniorum, cum Phoc<ae>enses obsideret et intellexisset eos, qui tunc praesidio illis erant, iam gravari belli incommoda, paulum regressus tamquam ad alios actus liberam recendendi occasionem his dedit: non multo post milite reducto destitutos Phoc<ae>enses superavit. 
  
 
  
@@ -354,7 +354,7 @@ Viriathus, cum tridui iter discedens confecisset, idem illud uno die remensus se
  
 
  
-Epaminondas Mantinia&lt;e&gt;, cum Lacedaemonios in subsidium hosti venisse animadverteret, ratus posse Lacedaemonem occupari, si clam illo profectus esset, nocte crebros ignes fieri iussit, ut specie remanendi occultaret profectionem. Sed a transfuga proditus, assecuto exercitu Lacedaemoniorum, itinere quidem, quo Spartam petebat, destitit, idem tamen consilium convertit ad Mantinienses: aeque enim ignibus factis Lacedaemonios,quasi maneret, frustratus per quadraginta milia passuum revertit Mantiniam eamque auxilio destitutam occupavit. 
+Epaminondas Mantinia<e>, cum Lacedaemonios in subsidium hosti venisse animadverteret, ratus posse Lacedaemonem occupari, si clam illo profectus esset, nocte crebros ignes fieri iussit, ut specie remanendi occultaret profectionem. Sed a transfuga proditus, assecuto exercitu Lacedaemoniorum, itinere quidem, quo Spartam petebat, destitit, idem tamen consilium convertit ad Mantinienses: aeque enim ignibus factis Lacedaemonios,quasi maneret, frustratus per quadraginta milia passuum revertit Mantiniam eamque auxilio destitutam occupavit. 
  
 
  
@@ -362,7 +362,7 @@ Epaminondas Mantinia&lt;e&gt;, cum Lacedaemonios in subsidium hosti venisse anim
  
 
  
-Alcibiades, &lt;dux&gt; Atheniensium, civitate sua a Lacedaemoniis obsessa, veritus neglegentiam vigilum denuntiavit his qui in stationibus erant, observarent lumen, quod nocte ostenturus esset ex arce, et ad conspectum eius ipsi quoque lumina attollerent; in quo munere qui cessasset, poenam passurum: dum sollicite exspectatur signum ducis, pervigilatum ab omnibus et suspectae noctis periculum evitatum est. 
+Alcibiades, <dux> Atheniensium, civitate sua a Lacedaemoniis obsessa, veritus neglegentiam vigilum denuntiavit his qui in stationibus erant, observarent lumen, quod nocte ostenturus esset ex arce, et ad conspectum eius ipsi quoque lumina attollerent; in quo munere qui cessasset, poenam passurum: dum sollicite exspectatur signum ducis, pervigilatum ab omnibus et suspectae noctis periculum evitatum est. 
  
 
  
@@ -402,7 +402,7 @@ Idem columbis, quas inclusas ante tenebris et fame affecerat, epistulas saeta ad
  
 
  
-Bello civili, cum Ategua urbs in Hispania Pompeianarum partium obsideretur, Maurus inter noc&lt;tem&gt; tamquam Caesarianus tribuni cornicularius vigiles quosdam excitavit: ex quibus &lt;cum tesseram accepisset&gt;, ali[qu]os excitans constantia fallaciae suae per medias Caesaris copias praesidium Pompei transduxit. 
+Bello civili, cum Ategua urbs in Hispania Pompeianarum partium obsideretur, Maurus inter noc<tem> tamquam Caesarianus tribuni cornicularius vigiles quosdam excitavit: ex quibus <cum tesseram accepisset>, ali[qu]os excitans constantia fallaciae suae per medias Caesaris copias praesidium Pompei transduxit. 
  
 
  
@@ -438,11 +438,11 @@ Reliqui ex Variana clade, cum obsiderentur, quia defici frumento videbantur, hor
  
 
  
-Thraces in arduo monte obsessi, in quem hostibus accessus non erat, collato viritim exiguo tritico paucas oves paverunt &lt;et egerunt&gt; in hostium praesidia: quibus exceptis et occisis, cum frumenti vestigia in visceribus earum apparuissent, opinatus hostis magnam vim tritici superesse eis, qui inde etiam pecora pascerent, recessit ab obsidione. 
+Thraces in arduo monte obsessi, in quem hostibus accessus non erat, collato viritim exiguo tritico paucas oves paverunt <et egerunt> in hostium praesidia: quibus exceptis et occisis, cum frumenti vestigia in visceribus earum apparuissent, opinatus hostis magnam vim tritici superesse eis, qui inde etiam pecora pascerent, recessit ab obsidione. 
  
 
  
-Thrasyb&lt;u&gt;lus, dux Milesiorum, cum longa obsidione milites sui angerentur ab Halyatte, qui sperabat eos ad deditionem fame posse compelli,sub adventum legatorum Halyattis frumentum omne in forum compelliiussit et conviviis sub id tempus institutis per totam urbem epulas praestitit: atque ita persuasit hosti superesse ipsis copias, quibus diuturnam sustinerent obsidionem. 
+Thrasyb<u>lus, dux Milesiorum, cum longa obsidione milites sui angerentur ab Halyatte, qui sperabat eos ad deditionem fame posse compelli,sub adventum legatorum Halyattis frumentum omne in forum compelliiussit et conviviis sub id tempus institutis per totam urbem epulas praestitit: atque ita persuasit hosti superesse ipsis copias, quibus diuturnam sustinerent obsidionem. 
  
 
  
@@ -458,11 +458,11 @@ Hamilcar, dux Poenorum, cum frequenter auxiliares Galli ad Romanos transirent et
  
 
  
-Hanno, Carthaginiensium imperator, in Sicilia, cum comperisset Gallorum mercennariorum circiter quattuor milia conspirasse ad transfugiendumad Romanos, quod aliquot mensum mercedes non receperant, animadvertere autem in eos non auderet metu seditionis, promisit prolationisiniuriam liberalitate pensaturum. Quo nomine gratias agentibus Gallis per tempus idoneum &lt;prae&gt;datur&lt;os&gt; pollicitus fidelissimum dispensatorem ad Otacilium consulem misit, qui, tamquam rationibus interversis transfugisset, nuntiavit nocte proxima Gallorum quattuor milia, quae praedatumforent missa, posse excipi. Otacilius nec statim credidit transfugae nec tamen rem spernendam ratus disposuit in insidiis lectissimam manum suorum. Ab ea Galli excepti dupliciter Hannonis consilio satisfecerunt: et Romanos ceciderunt et ipsi omnes interfecti sunt. 
+Hanno, Carthaginiensium imperator, in Sicilia, cum comperisset Gallorum mercennariorum circiter quattuor milia conspirasse ad transfugiendumad Romanos, quod aliquot mensum mercedes non receperant, animadvertere autem in eos non auderet metu seditionis, promisit prolationisiniuriam liberalitate pensaturum. Quo nomine gratias agentibus Gallis per tempus idoneum <prae>datur<os> pollicitus fidelissimum dispensatorem ad Otacilium consulem misit, qui, tamquam rationibus interversis transfugisset, nuntiavit nocte proxima Gallorum quattuor milia, quae praedatumforent missa, posse excipi. Otacilius nec statim credidit transfugae nec tamen rem spernendam ratus disposuit in insidiis lectissimam manum suorum. Ab ea Galli excepti dupliciter Hannonis consilio satisfecerunt: et Romanos ceciderunt et ipsi omnes interfecti sunt. 
  
 
  
-Hannibal simili consilio se a transfugis ultus est. Nam cum aliquos ex militibus suis sciret transisse proxima nocte nec ignoraret exploratores hostium in castris suis esse, palam pronuntiavit non debere transfugas vocari sollertissimos milites, qui ipsius iussu exierint ad excipienda hostium consilia. Auditis quae pronuntiavit, re&lt;t&gt;tulerunt exploratores ad suos: tum comprehensi a Romanis transfugae et amputatis manibus remissi sunt. 
+Hannibal simili consilio se a transfugis ultus est. Nam cum aliquos ex militibus suis sciret transisse proxima nocte nec ignoraret exploratores hostium in castris suis esse, palam pronuntiavit non debere transfugas vocari sollertissimos milites, qui ipsius iussu exierint ad excipienda hostium consilia. Auditis quae pronuntiavit, re<t>tulerunt exploratores ad suos: tum comprehensi a Romanis transfugae et amputatis manibus remissi sunt. 
  
 
  
@@ -494,7 +494,7 @@ Flavius Fimbria in Asia apud Rhyndacum adversum filium Mithridatis,brachiis ab l
  
 
  
-C. Caesar in Gallia, deletis ab Ambiorige Titurii Sabini et Cottae legatorum copiis, cum a Q. Cicerone, qui et ipse oppugnabatur, certior factus cum duabus legionibus adventaret, conversis hostibus metum simulavitmilitesque in castris, quae artiora solito industria fecerat, tenuit. Galli praesumpta iam victoria velut ad praedam castrorum tendentes fossas implere et vallum detrahere coeperunt: qua re proelio &lt;non&gt; aptatos Caesar emisso repente undique milite trucidavit. 
+C. Caesar in Gallia, deletis ab Ambiorige Titurii Sabini et Cottae legatorum copiis, cum a Q. Cicerone, qui et ipse oppugnabatur, certior factus cum duabus legionibus adventaret, conversis hostibus metum simulavitmilitesque in castris, quae artiora solito industria fecerat, tenuit. Galli praesumpta iam victoria velut ad praedam castrorum tendentes fossas implere et vallum detrahere coeperunt: qua re proelio <non> aptatos Caesar emisso repente undique milite trucidavit. 
  
 
  
@@ -502,7 +502,7 @@ Titurius Sabinus adversus Gallorum amplum exercitum continendo militem intra mun
  
 
  
-Asculani, oppugnatur&lt;o&gt; oppidum Pompei&lt;o&gt; cum paucos senes &lt;et&gt; aegros in muris ostendissent, ob id securos Romanos eruptione facta fugaverunt.
+Asculani, oppugnatur<o> oppidum Pompei<o> cum paucos senes <et> aegros in muris ostendissent, ob id securos Romanos eruptione facta fugaverunt.
  
 
  
@@ -522,7 +522,7 @@ Idem agrum, in quo castra Hannibal habebat, defuncto forte domino venalem ad id 
  
 
  
-Idem, &lt;cum&gt; ab Hannibale obsiderentur et ipsi obsiderent Capuam, decreverunt, ne nisi capta ea revocaretur inde exercitus. 
+Idem, <cum> ab Hannibale obsiderentur et ipsi obsiderent Capuam, decreverunt, ne nisi capta ea revocaretur inde exercitus. 
  
  
 	 

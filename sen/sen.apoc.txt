@@ -31,7 +31,7 @@ carpebat raras serus vindemitor uvas.
  
 
  
-Puto magis intellegi, si dixero: mensis erat October, dies III idus Octobris. Horam non possum certam tibi dicere, facilius inter philosophos quam inter horologia conveniet, tamen inter sextam et septimam erat. Nimis rustice! &lt;Adeo his&gt; adquiescunt omnes poetae, non contenti ortus et occasus describere ut etiam medium diem inquietent, tu sic transibis horam tam bonam?
+Puto magis intellegi, si dixero: mensis erat October, dies III idus Octobris. Horam non possum certam tibi dicere, facilius inter philosophos quam inter horologia conveniet, tamen inter sextam et septimam erat. Nimis rustice! <Adeo his> adquiescunt omnes poetae, non contenti ortus et occasus describere ut etiam medium diem inquietent, tu sic transibis horam tam bonam?
  
 
  
@@ -167,7 +167,7 @@ Haec satis animose et fortiter, nihilo minus mentis suae non est et timet μωρ
  
 
  
-[ 10 ] Tunc divus Augustus surrexit sententiae suae loco dicendae, et summa facundia disseruit: "Ego" inquit "p.c. vos testes habeo, ex quo deus factus sum, nullum me verbum fecisse: semper meum negotium ago. Sed non possum amplius dissimulare, et dolorem, quem graviorem pudor facit, continere. In hoc terra marique pacem peperi? Ideo civilia bella compescui? Ideo legibus urbem fundavi, operibus ornavi, ut&#151;quid dicam p. c. non invenio: omnia infra indignationem verba sunt. Confugiendum est itaque ad Messalae Corvini, disertissimi viri, illam sententiam 'pudet imperii.' Hic, p.c., qui vobis non posse videtur muscam excitare, tam facile homines occidebat, quam canis excidit. Sed quid ego de tot ac talibus viris dicam? Non vacat deflere publicas clades intuenti domestica mala. Itaque illa omittam, haec referam; nam etiam si soror mea Graece nescit, ego scio: ἔγγιον γόνυ κνήμης . Iste quem videtis, per tot annos sub meo nomine latens, hanc mihi gratiam rettulit, ut duas Iulias proneptes meas occideret, alteram ferro, alteram fame; unum abnepotem L. Silanum, videris, Iuppiter, an in causa mala, certe in tua, si aequus futurus es. Dic mihi, dive Claudi, quare quemquam ex his, quos quasque occidisti, antequam de causa cognosceres, antequam audires, damnasti? Hoc ubi fieri solet? In caelo non fit. 
+[ 10 ] Tunc divus Augustus surrexit sententiae suae loco dicendae, et summa facundia disseruit: "Ego" inquit "p.c. vos testes habeo, ex quo deus factus sum, nullum me verbum fecisse: semper meum negotium ago. Sed non possum amplius dissimulare, et dolorem, quem graviorem pudor facit, continere. In hoc terra marique pacem peperi? Ideo civilia bella compescui? Ideo legibus urbem fundavi, operibus ornavi, ut—quid dicam p. c. non invenio: omnia infra indignationem verba sunt. Confugiendum est itaque ad Messalae Corvini, disertissimi viri, illam sententiam 'pudet imperii.' Hic, p.c., qui vobis non posse videtur muscam excitare, tam facile homines occidebat, quam canis excidit. Sed quid ego de tot ac talibus viris dicam? Non vacat deflere publicas clades intuenti domestica mala. Itaque illa omittam, haec referam; nam etiam si soror mea Graece nescit, ego scio: ἔγγιον γόνυ κνήμης . Iste quem videtis, per tot annos sub meo nomine latens, hanc mihi gratiam rettulit, ut duas Iulias proneptes meas occideret, alteram ferro, alteram fame; unum abnepotem L. Silanum, videris, Iuppiter, an in causa mala, certe in tua, si aequus futurus es. Dic mihi, dive Claudi, quare quemquam ex his, quos quasque occidisti, antequam de causa cognosceres, antequam audires, damnasti? Hoc ubi fieri solet? In caelo non fit. 
  
 
  
@@ -209,7 +209,7 @@ etiam Claudius audire posset. Omnes laeti, hilares: populus Romanus ambulabat
 tanquam liber, Agatho et pauci causidici plorabant, sed plane ex animo. Iurisconsulti
 e tenebris procedebant, pallidi, graciles, vix animam habentes, tanquam qui tum
 maxime reviviscerent. Ex his unus cum vidisset capita conferentes et fortunas suas
-deplorantes causidicos, accedit et ait: "dicebam vobis: non semper Saturnalia erunt." Claudius ut vidit funus suum, intellexit se mortuum esse. Ingenti enim megal&ocirc;i chorik&ocirc;i nenia cantabatur anapaestis:
+deplorantes causidicos, accedit et ait: "dicebam vobis: non semper Saturnalia erunt." Claudius ut vidit funus suum, intellexit se mortuum esse. Ingenti enim megalôi chorikôi nenia cantabatur anapaestis:
  
 
  
@@ -255,14 +255,14 @@ venienti nitidus, ut erat a balineo, occurrit et ait: "Quid di ad homines?" "Cel
 inquit Mercurius "et venire nos nuntia." Dicto citius Narcissus evolat. Omnia
 proclivia sunt, facile descenditur. Itaque quamvis podagricus esset, momento
 temporis pervenit ad ianuam Ditis, ubi iacebat Cerberus vel ut ait Horatius "belua
-centiceps." Pusillum perturbatur&#151;subalbam canem in deliciis habere adsueverat&#151;ut
+centiceps." Pusillum perturbatur—subalbam canem in deliciis habere adsueverat—ut
 illum vidit canem nigrum, villosum, sane non quem velis tibi in tenebris
 occurrere, et magna voce "Claudius" inquit "veniet." Cum plausu procedunt
 cantantes: εὑρήκαμεν, συγχαίρομεν. Hic erat C. Silius consul
 designatus, Iuncus praetorius, Sex. Traulus, M. Helvius, Trogus, Cotta, Vettius
 Valens, Fabius equites R. quos Narcissus duci iusserat. Medius erat in hac
 cantantium turba Mnester pantomimus, quem Claudius decoris causa minorem
-fecerat. Ad Messalinam&#151;cito rumor percrebuit Claudium venisse&#151;convolant: primi
+fecerat. Ad Messalinam—cito rumor percrebuit Claudium venisse—convolant: primi
 omnium liberti Polybius, Myron, Arpocras, Amphaeus, Pheronactus, quos Claudius
 omnes, necubi imparatus esset, praemiserat. Deinde praefecti duo Iustus Catonius et
 Rufrius Pollio. Deinde amici Saturninus Lusius et Pedo Pompeius et Lupus et Celer

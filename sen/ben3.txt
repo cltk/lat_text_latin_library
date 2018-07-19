@@ -25,7 +25,7 @@ oblitos, tamquam ea res ingratum excuset, quae facit,
 aut, quia hoc accidit alicui, non sit ingratus, cum hoc
 non accidat nisi ingrato. Multa sunt genera ingratorum,
 ut furum, ut homicidarum, quorum una culpa
-est, ceterum in partibus uarietas magna; ingratus &lt;est,&gt;
+est, ceterum in partibus uarietas magna; ingratus <est,>
 qui beneficium accepisse se negat, quod accepit, ingratus
 est, qui dissimulat, ingratus, qui non reddit,
 ingratissimus omnium, qui oblitus est. Illi enim si
@@ -69,7 +69,7 @@ Praeter hanc causam aliae quoque sunt, quae
 nobis merita non numquam maxima euellant. Prima
 omnium ac potentissima, quod nouis semper cupiditatibus
 occupati non, quid habeamus, sed quid petamus,
-&lt;spectamus;&gt; in id, quod adpetitur, intentis, quidquid est
+<spectamus;> in id, quod adpetitur, intentis, quidquid est
 domi, uile est. Sequitur autem, ut, ubi quod acceperis
 leue nouorum cupiditas fecit, auctor quoque eorum non
 sit in pretio. Amauimus aliquem et suspeximus et
@@ -134,7 +134,7 @@ Hoc tam inuisum uitium an inpunitum esse debeat,
 quaeritur, et an haec lex, quae in scholis exercetur,
 etiam in ciuitate ponenda sit, qua ingrati datur actio;
 quae uidetur aequa omnibus. 'Quidni? cum urbes
-quoque urbibus, quae praestitere, exprobrent et &lt;in&gt;
+quoque urbibus, quae praestitere, exprobrent et <in>
 maiores conlata a posteris exigant.' Nostri maiores,
 maximi scilicet uiri, ab hostibus tantum res repetierunt,
 beneficia magno animo dabant, magno perdebant; excepta
@@ -181,7 +181,7 @@ uinculis religio et detrahere aliquid potest et
 adicere et sententiam suam, non prout lex aut iustitia
 suadet, sed prout humanitas aut misericordia inpulit,
 regere. Ingrati actio non erat iudicem adligatura sed
-&lt;in&gt; regno liberrimo positura. Quid sit enim beneficium,
+<in> regno liberrimo positura. Quid sit enim beneficium,
 non constat, deinde, quantum sit; refert, quam benigne
 illud interpretetur iudex. Quid sit ingratus, nulla lex
 monstrat; saepe et qui reddidit, quod accepit, ingratus
@@ -534,7 +534,7 @@ tantum est, ut hoc uocari potuerit quolibet alio praestante.
 [22]
 Seruus, ut placet Chrysippo, perpetuus mercennarius
 est. Quemadmodum ille beneficium dat, ubi
-plus praestat, quam &lt;in&gt; quod operas locauit, sic seruus,
+plus praestat, quam <in> quod operas locauit, sic seruus,
 ubi beneuolentia erga dominum fortunae suae modum
 transit et altius aliquid ausus, quod etiam felicius
 natis decori esset, spem domini antecessit, beneficium
@@ -684,8 +684,8 @@ noti magis quam nobiles sunt? Vnus omnium parens
 mundus est, siue per splendidos siue per sordidos gradus
 ad hunc prima cuiusque origo perducitur. Non
 est, quod te isti decipiant, qui, cum maiores suos
-recensent, ubicumque nomen inlustre &lt;de&gt;fecit, illo deum
-&lt;in&gt;fulciunt. Neminem despexeris, etiam si circa illum
+recensent, ubicumque nomen inlustre <de>fecit, illo deum
+<in>fulciunt. Neminem despexeris, etiam si circa illum
 obsoleta sunt nomina et parum indulgente adiuta fortuna.
 Siue libertini ante uos habentur siue serui siue
 exterarum gentium homines, erigite audacter animos
@@ -786,7 +786,7 @@ ad ista facienda nasci satis est; sed si ad bene uiuendum
 minima portio est uiuere et id tribuisti, quod
 cum feris mihi et animalibus quibusdam minimis, quibusdam
 etiam foedissimis commune est, noli tibi adserere,
-quod non ex tuis beneficiis, etiam &lt;si non&gt; sine
+quod non ex tuis beneficiis, etiam <si non> sine
 tuis, oritur.'
  
  
@@ -963,7 +963,7 @@ iubeant.
  
  
 [37]
-Vicit Aeneas patrem, ipse eius &lt;in&gt; infantia leue
+Vicit Aeneas patrem, ipse eius <in> infantia leue
 tutumque gestamen, grauem senio per media hostium
 agmina et per cadentis circa se urbis ruinas ferens,
 cum conplexus sacra ac penates deos religiosus senex

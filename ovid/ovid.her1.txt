@@ -57,7 +57,7 @@ Omnia namque tuo senior te quaerere misso
   rettulerat nato Nestor, at ille mihi. 
 rettulit et ferro Rhesumque Dolonaque caesos, 
   utque sit hic somno proditus, ille dolo.    40 
-ausus es&#151;o nimium nimiumque oblite tuorum!&#151; 
+ausus es—o nimium nimiumque oblite tuorum!— 
   Thracia nocturno tangere castra dolo 
 totque simul mactare viros, adiutus ab uno! 
   at bene cautus eras et memor ante mei! 
@@ -83,11 +83,11 @@ nos Pylon, antiqui Neleia Nestoris arva,
   misimus; incerta est fama remissa Pylo. 
 misimus et Sparten; Sparte quoque nescia veri.    65 
   quas habitas terras, aut ubi lentus abes? 
-utilius starent etiamnunc moenia Phoebi&#151; 
+utilius starent etiamnunc moenia Phoebi— 
   irascor votis, heu, levis ipsa meis! 
 scirem ubi pugnares, et tantum bella timerem, 
   et mea cum multis iuncta querela foret.     70 
-quid timeam, ignoro&#151;timeo tamen omnia demens, 
+quid timeam, ignoro—timeo tamen omnia demens, 
   et patet in curas area lata meas. 
 quaecumque aequor habet, quaecumque pericula tellus, 
   tam longae causas suspicor esse morae. 
@@ -99,7 +99,7 @@ fallar, et hoc crimen tenues vanescat in auras,
   neve, revertendi liber, abesse velis!    80 
 Me pater Icarius viduo discedere lecto 
   cogit et immensas increpat usque moras. 
-increpet usque licet&#151;tua sum, tua dicar oportet; 
+increpet usque licet—tua sum, tua dicar oportet; 
   Penelope coniunx semper Ulixis ero. 
 ille tamen pietate mea precibusque pudicis    85 
   frangitur et vires temperat ipse suas. 
@@ -122,9 +122,9 @@ di, precor, hoc iubeant, ut euntibus ordine fatis
 hac faciunt custosque boum longaevaque nutrix, 
   Tertius inmundae cura fidelis harae; 
 sed neque Laertes, ut qui sit inutilis armis,    105 
-  hostibus in mediis regna tenere potest&#151; 
+  hostibus in mediis regna tenere potest— 
 Telemacho veniet, vivat modo, fortior aetas; 
-  nunc erat auxiliis illa tuenda patris&#151; 
+  nunc erat auxiliis illa tuenda patris— 
 nec mihi sunt vires inimicos pellere tectis. 
   tu citius venias, portus et ara tuis!    110 
 est tibi sitque, precor, natus, qui mollibus annis 

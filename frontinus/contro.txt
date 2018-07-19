@@ -36,7 +36,7 @@ De positione terminorum controversia est inter duos pluresve
 
 vicinos: inter duos, an rigore sit ceterorum sive ratione[s]; inter plures,
 
-trifinium faciat an quadrifinium. de horum &lt;posit>ione cum constitit
+trifinium faciat an quadrifinium. de horum <posit>ione cum constitit
 
 mensori, si secundum proximi temporis possessionem non conveniunt, diversas
 
@@ -60,15 +60,15 @@ De fine similis est controversia [nec dubium est quin
 
 supra de finis condicione dixerim]; nam et eadem lege continetur et de
 
-quinque pedum agitur latitudin&lt;e>, sed de fine, quidquid per flexus,
+quinque pedum agitur latitudin<e>, sed de fine, quidquid per flexus,
 
-quibus arcifinii agri continentur, ut per extrema &lt;a>rui aut promuntoria
+quibus arcifinii agri continentur, ut per extrema <a>rui aut promuntoria
 
-aut summa montium aut fluminum cursus aut locorum natura&lt;m> a&lt;g>i&lt;tur>
+aut summa montium aut fluminum cursus aut locorum natura<m> a<g>i<tur>
 
 quam supercilium appellant. De loco controversia est, quidquid excedit
 
-supra scriptam latitudinem, cuius modus a[d] p&lt;e>tente[m] non proponitur.
+supra scriptam latitudinem, cuius modus a[d] p<e>tente[m] non proponitur.
 
 Haec autem controversia frequenter in arcifiniis agris variorum signorum
 
@@ -96,13 +96,13 @@ modus non quadrat.
  
 
  
-De proprietate controversia est plerumque, &lt;quom>
+De proprietate controversia est plerumque, <quom>
 
 ut in Campania cultorum agrorum silvae absunt in montibus ultra quartum
 
 aut quintum forte vicinum. Propterea proprietas ad quos fundos pertinere
 
-debeat dis&lt;p>ut[i]atur. Est et pascuorum proprietas pertinens ad fundos,
+debeat dis<p>ut[i]atur. Est et pascuorum proprietas pertinens ad fundos,
 
 sed in commune; propter quod ea conpascua multis locis in Italia communia
 
@@ -122,14 +122,14 @@ est, de qua ad interdictum, hoc est iure ordinario, litigatur.
  
 De alluvione fit controversia fluminum infestatione.
 
-Haec &lt;autem> multas habet condiciones.
+Haec <autem> multas habet condiciones.
 
  
 
  
-De iure territorii controversia est de &lt;his> quae
+De iure territorii controversia est de <his> quae
 
-ad ipsam urbem pertinen&lt;t>, [sive quod intra pomerium eius urbis erit,
+ad ipsam urbem pertinen<t>, [sive quod intra pomerium eius urbis erit,
 
 quod a privatis operibus optineri non oportebit. Eum dico locum quem nec
 
@@ -139,15 +139,15 @@ unam urbani soli, alteram agrestis, quod in tutelam rei fuerit adsignatum
 
 urbanae; [urbani quod operibus publicis datum fuerit aut destinatum]. Huius
 
-soli ius quamvis habita &lt;o>ratione divus Augustus de statu municipiorum
+soli ius quamvis habita <o>ratione divus Augustus de statu municipiorum
 
 tractaverit, in proximas urbes pervenire dicitur, quarum ex voluntate conditoris
 
 maxima pars finium coloniae est adtributa, aliqua portio moenium extremae
 
-perticae adsignatione inclusa; sicut in Piceno fertur Inter&lt;a>m&lt;na>tium
+perticae adsignatione inclusa; sicut in Piceno fertur Inter<a>m<na>tium
 
-Prae&lt;t>uttianorum quandam oppidi partem Asculanorum fine circum dari.
+Prae<t>uttianorum quandam oppidi partem Asculanorum fine circum dari.
 
 [Quod si ad haec revertamur, hoc conciliabulum fuisse fertur et postea
 
@@ -177,9 +177,9 @@ De locis publicis sive populi Romani sive coloniarum
 
 municipiorumve controversia est, quotiens ea loca, quae neque adsignata
 
-neque vendita fuerint &lt;um>quam, aliquis possederit; ut alveum fluminis
+neque vendita fuerint <um>quam, aliquis possederit; ut alveum fluminis
 
-veterem populi Romani, quem vis aquae interposita insula &lt;exclusae>
+veterem populi Romani, quem vis aquae interposita insula <exclusae>
 
 proximi possessoris finibus reliquerit; aut silvas, quas ad populum Romanum
 
@@ -202,7 +202,7 @@ sive arbitrio conditoris [relicta] limites non acceperunt. Haec sunt iuris
 
 subsicivorum. Extraclusa loca sunt aeque iuris subsicivorum, quae ultra
 
-limites et &lt;in>tra finitimam lineam erint; finitima autem linea aut
+limites et <in>tra finitimam lineam erint; finitima autem linea aut
 
 mensuralis est aut aliqua observatione aut terminorum ordine servatur.
 
@@ -217,11 +217,11 @@ De locis sacris et religiosis controversiae plurimae
 
 nascuntur, quae iure ordinario finiuntur, nisi si de locorum eorum modo
 
-agitur; ut l&lt;u>corum publicorum in montibus aut aedium, quibus secundum
+agitur; ut l<u>corum publicorum in montibus aut aedium, quibus secundum
 
 instrumentum fines restituuntur; similiter locorum religiosorum, quibus
 
-secundum cautiones modus est restituendus. Habe&lt;nt> enim et moesilea
+secundum cautiones modus est restituendus. Habe<nt> enim et moesilea
 
 iuris sui hortorum modos circum iacentes aut praescriptum agri finem.
 
@@ -243,9 +243,9 @@ De itineribus controversia est quae in arcifiniis agris
 
 iure ordinario finitur, in assignatis mensurarum ratione. Omnes enim limites
 
-secundum legem colonicam itineri publico servire debent: sed multi exigent&lt;e>
+secundum legem colonicam itineri publico servire debent: sed multi exigent<e>
 
-ratione per &lt;cl>ivia et confragosa loca eunt, qua iter fieri non potest,
+ratione per <cl>ivia et confragosa loca eunt, qua iter fieri non potest,
 
 et sunt in usu agrorum eorum locorum, ubi proximus possessor [est], cuius
 
@@ -262,7 +262,7 @@ de arborum fructibus, earum quae in fine sunt sive intra, nec ullam ad
 
 radicem habent controversiam, quotiens inclinatae in alterutram partem
 
-fructum iactaverunt, inter adfines mo&lt;u>ent disputationem.
+fructum iactaverunt, inter adfines mo<u>ent disputationem.
  
  
 	 

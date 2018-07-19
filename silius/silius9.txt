@@ -158,7 +158,7 @@ inuento simul atque amisso redde parenti
 oscula.' sic fatus galeam exuit atque rigentis 
 inuadit nati tremebundis colla lacertis: 
 attonito mentis uerbis sanare pudorem    145 
-uulneris impressi &lt;et&gt; telum excusare laborat: 
+uulneris impressi <et> telum excusare laborat: 
 'Quis testis nostris, quis conscius adfuit actis? 
 non nox errorem nigranti condidit umbra? 
 cur trepidas? da, nate, magis, da iungere pectus. 
@@ -177,7 +177,7 @@ ast ego, Sidoniis imperditus, ecce, parentem
 uulnere cognosco. saltem hoc, Fortuna, fuisset 
 solamen culpae, dubia ut mihi signa dedisses 
 infausti generis. uerum linquetur iniquis 
-non ultra superis nostros &lt;s&gt;celerare labores.'    165 
+non ultra superis nostros <s>celerare labores.'    165 
  Haec dum amens queritur, iam deficiente cruore 
 in uacuas senior uitam disperserat auras. 
 tum iuuenis maestum attollens ad sidera uultum 
@@ -200,7 +200,7 @@ qualis nulla dies omni surrexerit aeuo.
 Herculeis iter a metis ad Iapygis agros    185 
 uincendo emensi. nusquam est animosa Saguntos, 
 concessere Alpes, pater ipse superbus aquarum 
-Ausoni&lt;d&gt;um Eridanus captiuo defluit alueo. 
+Ausoni<d>um Eridanus captiuo defluit alueo. 
 strage uirum mersus Trebia est, atque ora sepulcro 
 Lydia Flaminio premitur, lateque refulgent    190 
 ossibus ac nullo sulcantur uomere campi. 
@@ -326,7 +326,7 @@ nec uero prima in tantis concursibus hasta    310
 ulla fuit: stridens nimbus certante furore 
 telorum simul effusus, cupidaeque cruoris 
 hinc atque hinc animae gemina cecidere procella. 
-ac &lt;p&gt;rius insanus dextra qua&lt;m&gt; ducitur ensis 
+ac <p>rius insanus dextra qua<m> ducitur ensis 
 bellantum pars magna iacet. super ipsa suorum    315 
 corpora consistunt auidi calcantque gementis. 
 nec magis aut Libyco protrudi Dardana nisu 
@@ -347,7 +347,7 @@ at, quos deinde tenet retrorsum inglorius ordo,
 missilibus certant pugnas aequare priorum. 
 ultra clamor agit bellum, milesque cupiti 
 Martis inops saeuis impellit uocibus hostem. 
-non ullum defit teli genus. &lt;h&gt;i sude pugnas,    335 
+non ullum defit teli genus. <h>i sude pugnas,    335 
 hi pinu flagrante cient, hi pondere pili, 
 at saxis fundaque alius iaculoque uolucri. 
 interdum stridens per nubila fertur harundo, 
@@ -359,7 +359,7 @@ ut Cannas uno ore sonem? si gloria uobis
 nostra placet neque uos magnis auertitis ausis, 
 huc omnis cantus Phoebumque uocate parentem.    345 
 uerum utinam posthac animo, Romane, secunda, 
-quanto nunc aduersa, feras, si&lt;n&gt;tque hactenus, oro, 
+quanto nunc aduersa, feras, si<n>tque hactenus, oro, 
 nec libeat temptare deis an Troia proles 
 par bellum tolerare queat. tuque anxia fati 
 pone, precor, lacrimas et adora uulnera laudes    350 
@@ -390,14 +390,14 @@ is postquam frangi res atque augescere uidit
 exitium, 'Breuis hoc uitae, quodcumque relictum,    375 
 extendamus;' ait 'nam uirtus futtile nomen, 
 ni decori sat sint pariendo tempora leti.' 
-dixit et in medios, qua dext&lt;e&gt;ra concita Poeni 
+dixit et in medios, qua dext<e>ra concita Poeni 
 limitem agit, uasto conixus turbine fertur. 
 hic exultantem Caralim atque erepta uolentem    380 
 induere excelso caesi gestamina trunco 
 ense subit, capuloque tenus ferrum impulit ira. 
 uoluitur ille ruens atque arua hostilia morsu 
 adpetit et mortis premit in tellure dolores. 
-nec Gabari&lt;s&gt; Sicchaeque uirum tenuere furentes    385 
+nec Gabari<s> Sicchaeque uirum tenuere furentes    385 
 concordi uirtute manus; sed perdidit acer, 
 dum stat, decisam Gabar inter proelia dextram; 
 at Siccha auxilium, magno turbante dolore, 
@@ -464,7 +464,7 @@ et clipeo campum inuoluens, Aetnaea Cyclopum
 munere fundentem loricam incendia gestat 
 ac pulsat fulua consurgens aethera crista.    450 
  Ductores pugnae intenti, quantumque uicissim 
-audere&lt;nt&gt;, propius mensi, tamen arma ferentis 
+audere<nt>, propius mensi, tamen arma ferentis 
 sensere aduenisse deos et laetus uterque 
 spectari superis addebant mentibus iras. 
 iamque ictu ualido libratam a pectore Poeni    455 
@@ -507,7 +507,7 @@ cum uentis positus custos, cui flamina carcer
 imperio compressa tenet caelumque ruentes 
 Eurique et Boreae parent Corique Notique, 
 Iunonis precibus promissa haud parua ferentis 
-regnantem Ae&lt;t&gt;olis Vulturnum in proelia campis    495 
+regnantem Ae<t>olis Vulturnum in proelia campis    495 
 effrenat. placet hic irae exitiabilis ultor. 
 qui, se postquam Aetnae mersit candente barathro 
 concepitque ignes et flammea protulit ora, 
@@ -517,7 +517,7 @@ eripuere oculos aurae uocemque manusque.
 uertice harenoso candentis, flebile dictu, 
 torquet in ora globos Italum et bellare maniplis 
 iussa laetatur rabie. tum mole ruinae 
-sternuntur tellure &lt;et&gt; miles et arma tubaeque,    505 
+sternuntur tellure <et> miles et arma tubaeque,    505 
 atque omnis retro flatu occursante refertur 
 lancea et in tergum Rutulis cadit inritus ictus. 
 atque idem flatus Poenorum tela secundant, 
@@ -638,7 +638,7 @@ nunc iaculis, nunc et saxis, nunc alite plumbo
 eminus incessunt, ut qui castella per altos 
 oppugnat munita locos atque adsidet arces. 
 ausus digna uiro, fortuna digna secunda,    625 
-extulerat dextram &lt;at&gt;que aduersum comminus ensem 
+extulerat dextram <at>que aduersum comminus ensem 
 Mincius infelix ausi, sed stridula anhelum 
 feruorem effundens monstri manus abstulit acri 
 implicitum nexu diroque ligamine torsit 
@@ -663,7 +663,7 @@ quae Fabio incolumi Varronem ad bella uocasti.
 quaenam autem mentis uel quae discordia fati 
 Parcarumque latens fraus est? abrumpere cuncta 
 iamdudum cum luce libet. sed comprimit ensem    650 
-nescio qui deus. at &lt;q&gt;uae me ad grauiora reseruat! 
+nescio qui deus. at <q>uae me ad grauiora reseruat! 
 uiuamne? et fractos sparsosque cruore meorum 
 hos referam populo fasces atque ora per urbes 
 iratas spectanda dabo et, quo saeuius ipse 

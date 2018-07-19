@@ -69,7 +69,7 @@ Aut si deus erat, cur natos ille uorabat?
 Terroribus actus, sed quia deus non erat ille, 
 Uiscera natorum rabie monstruosa sumebat. 
 Rex fuit in terris, in monte natus Olympo, 
-Nec erat diuinus; sic deum esse diceba&lt;n&gt;t. 
+Nec erat diuinus; sic deum esse diceba<n>t. 
 Uenit inops animi, lapidem pro filio sorbsit: 
 Sic deus euasit, dicitur modo Iuppiter ille.
  
@@ -91,21 +91,21 @@ Respice querellas: Alter est Deus, non Iouis ille.
 Dicitis o stulti: Iouis tonat, fulminat ipse. 
 Etsi paruulitas sic sensit, cur anni dicentes? 
 Fuistis infantes: numquid et semper eritis? 
-Uersari inmaturum infantia non capit &lt;usus&gt; 
+Uersari inmaturum infantia non capit <usus> 
 Lusus puerilis cessit: sic et corda recedant; 
 Moribus utique consilia uestra debentur. 
 Insipiens ergo Iouem tonitruare tu credis 
 Natum hic in terris et lacte caprino nutritum; 
-Ergo si illum deuorasset &lt;pater&gt; Saturnus, 
+Ergo si illum deuorasset <pater> Saturnus, 
 In istis temporibus quis pluebat illo defuncto? 
 Praesertim mortali patre deus nasci credatur? 
 Saturnus in terris senuit et defecit in ipsis. 
 Illum non aliquis prophetauit ante pronasci. 
 Uel, si tonat ipse, lex ab ipso lata fuisset. 
-Seducunt historiae, factus cum fue&lt;rat ipse&gt;. 
+Seducunt historiae, factus cum fue<rat ipse>. 
 Ille autem in Cretam regnauit et ibi defecit. 
 Omnipotens uobis factus Semelis amator. 
-Uix ipse modo similiter amaret, si uiuere&lt;t&gt; ille. 
+Uix ipse modo similiter amaret, si uiuere<t> ille. 
 Inpuros oratis et dicitis esse caelestes 
 Semine mortali natos de Gigantibus illis. 
 Auditis et legitis natum in terra fuisse: 
@@ -127,7 +127,7 @@ Troianis qui bellum fecit, auem mortalem amauit.
 Ipsis sideribus aut Mars qui cum ipsa deprehensus 
 Zelo maritali deus dominetur aduliscens? 
 O nimium stulti, qui putatis moechos ab astris 
-Nascentes regere aut tota&lt;m&gt; mundi natura&lt;m&gt;. 
+Nascentes regere aut tota<m> mundi natura<m>. 
 In uulnera positi et ipsi sub fata uiuentes, 
 Obsceni, furiosi, bellatores, impii uitae, 
 Et filios totidem mortales illi fecere: 
@@ -152,16 +152,16 @@ Errorem antiquus quin cum ***
 Et quidem in legem iussit, ne quis illos adoret. 
 Tot deos oratis, qui nihil de uita promittunt, 
 Lex quorum in terra non est, nec ipsi praedicti 
-Uos autem seducunt sacerdotes pauci &lt;inanes&gt; 
+Uos autem seducunt sacerdotes pauci <inanes> 
 Numina qui dicunt aliquid morituro prodesse. 
-Accedite legis &lt;codicem&gt; et di&lt;s&gt;cite uerum.
+Accedite legis <codicem> et di<s>cite uerum.
  
 
  
  8 MERCURIUS 
 Mercurius uester fiat cum arabylo depictus 
 Et galea et planta, pinnatus et cetera nudus. 
-Rem uideo miram, deum &lt;cum&gt; saccello uolare: 
+Rem uideo miram, deum <cum> saccello uolare: 
 Currite pauperculi, cum gremio quo uolat ille, 
 Ut sacculum effundat: uos extunc estote parati. 
 Respicite pictum: quando uobis hic ab alto 
@@ -178,7 +178,7 @@ Paret esse deum + cumerale illi parate!
 Troianis non ipse cum Apolline muros eduxit? 
 Unde deus factus inops cimentarius ille? 
 Non Cyclopem genuit monstrum? non moechus et ipse? 
-Uiuere non poterat de suo, quod structura&lt;m&gt; gerebat. 
+Uiuere non poterat de suo, quod structura<m> gerebat. 
 Sic genuit generatus, qui fuit iam mortuus olim.
  
 
@@ -186,12 +186,12 @@ Sic genuit generatus, qui fuit iam mortuus olim.
 10 APOLLO SORTILEGUS FALSUS 
 Apollinem facitis citharoedum atque diuinum. 
 Primum de moechia natus in insula Delo, 
-Oblata mercede postmodum structura&lt;s&gt; secutus 
+Oblata mercede postmodum structura<s> secutus 
 Laomedonti regi Troianorum muros eduxit 
 Locauitque sese, quem deum seducti putatis; 
 Ossibus cuius amor Cassandrae flagrauit, 
 Subdole quem lusit uirgo, falliturque diuinus 
-Officio uerbenis &lt;is&gt; potuit scire bicorde&lt;m&gt;, 
+Officio uerbenis <is> potuit scire bicorde<m>, 
 Repudiatus enim discessit inde diuinus. 
 Terruit hunc uirgo specie, quam ille deberet. 
 Illa prior utique debuerat deum amasse. 
@@ -276,7 +276,7 @@ Et qui fabricantur dominos tibi nuncupas esse.
 Aut feminas quoque nescio quas deas oratis, 
 Bellonam et Nemesim, deas Furinam, Caelestem, 
 Uirginis, et Uenerem, cui coniuges uestrae delumbant. 
-Sunt alia praeterea daemonia &lt;procul a&gt; fanis, 
+Sunt alia praeterea daemonia <procul a> fanis, 
 Quae nec numerantur adhuc et in collo feruntur, 
 Ut nec ipsi sibi possint rationem reddere pestis. 
 Exportari magis in ultima terra deberent.
@@ -324,7 +324,7 @@ Monstra deo ista fincta sunt per uiniuoraces,
 Audacia quorum damnabilis numina fingit. 
 Gestabantur enim, et aliut tale sigillum: 
 Nunc et ipse silet, nec ullus de illo prophetat. 
-O nimium &lt;stulti&gt;, sed uos ipsos perdere uultis.
+O nimium <stulti>, sed uos ipsos perdere uultis.
  
 
  
@@ -380,10 +380,10 @@ Belantum cruore fuso malus inspicit alter
 Et cupit audire responsa bona crudelis, 
 Tot duces et reges ubi sunt consulti de uita. 
 Uel portenta sua scisse quo profuit illi? 
-Di&lt;s&gt;cite quaeso bonum, ciues, simulacra cauete: 
+Di<s>cite quaeso bonum, ciues, simulacra cauete: 
 Omnipotentis enim in legem quaerite cuncti. 
 Sic ipsi conplacuit domino dominorum in altis 
-Ad probationem nostram daemones in mundo uag&lt;ar&gt;i. 
+Ad probationem nostram daemones in mundo uag<ar>i. 
 **************** 
 Caelestis fieri qui relinquant aras eorum. 
 Unde non hoc curo disputari paruo libello: 
@@ -414,7 +414,7 @@ Senties in fatis, cuias modo legem inanis.
 23 INTER UTRUMQUE VIVENTIBUS 
 Inter utrumque putans dubie uiuendo carere 
 Nudatus a lege, decrepitus luxu praecedis. 
-Tot, uane, &lt;luxurias&gt; prospicis; quid quaeris iniqua? 
+Tot, uane, <luxurias> prospicis; quid quaeris iniqua? 
 Et quidquid egistis, istinc remanere defuncto 
 Respicite! Stulte, non eras, et ecce uideris! 
 Unde processisti nescis nec unde nutriris. 
@@ -451,8 +451,8 @@ Teque designabat, crederes in lege secunda;
 Nec minus et ipsos et ex ipsa sibi prudentes 
 Obstupe iam factus ora tu credere Christo, 
 Nam testamentum uetus de isto proclamat. 
-Credere nun&lt;c&gt; opus est, tantum in isto defunctum 
-Resurgere posse &lt;et&gt; uiuere tempore toto. 
+Credere nun<c> opus est, tantum in isto defunctum 
+Resurgere posse <et> uiuere tempore toto. 
 Ergo si quis ea discredis esse futura 
 Dummodo uincetur reus in morte secunda, 
 Euentura canam paucis in isto libello 
@@ -481,10 +481,10 @@ Ureris pauperie dupliciter certe si languis:
 Et dicis uitam, ubi uitrea uita moraris? 
 Respice iam tandem hoc tempus inritum esse; 
 Sed in futuro tibi spes est sine dolo uiuendi. 
-Uiuere uoleba&lt;n&gt;t utique paruoli rapti, 
+Uiuere uoleba<n>t utique paruoli rapti, 
 Sed uita priuati iuuenes senescere forte, 
 Lautities diues perfrui quia ipse parabat; 
-Et tamen inuiti reli&lt;n&gt;quimus omnia mundo. 
+Et tamen inuiti reli<n>quimus omnia mundo. 
 Gens et ego fui peruersa mente moratus 
 Et uitam istius saeculi coram esse putabam 
 Mortemque similiter sicut uos iudicabam adesse, 
@@ -497,7 +497,7 @@ Torqueris, uideo, ubi nil sentire putabas,
 Ille autem uiuet et loca dextera tenet, 
 Delicias fruitur, quas tu perdidisti, nefande! 
 Et cum renouasti saeculum, et ille praegressus 
-Iam &lt;in&gt;mortalis erit; nam tu sub tartara planges. 
+Iam <in>mortalis erit; nam tu sub tartara planges. 
 Uiuet certe Deus, qui defunctos uiuere fecit 
 Innocuisque bonis ut reddat praemia digna, 
 Uesanis autem et impiis tartara saeua. 
@@ -534,9 +534,9 @@ Omnipotenti laudes in ecclesia reddere debes.
  27 IUSTI RES URGUNT 
 Iustitia et bonitas, pax et patientia uera 
 Uiuere post fata faciunt et quaeri de actu: 
-Subdola mens autem, &lt;in&gt;noxia, perfida, praua 
+Subdola mens autem, <in>noxia, perfida, praua 
 Tollit se in parte et fera mente moratur. 
-Impie, nunc audi, qui &lt;uis&gt; malefacta lucrari: 
+Impie, nunc audi, qui <uis> malefacta lucrari: 
 Respice terrenos iudices, in corpore qui nunc 
 Excruciant poenis diros: aut ferro parantur 
 Supplicia meritis aut longo carcere flere. 
@@ -550,7 +550,7 @@ Trade te iam Christo, ut te benefacta sequantur.
 
  
  28 DIVITI INCREDULO MALO 
-Differ&lt;r&gt;is, diues, nimium tua cuncta uidendo, 
+Differ<r>is, diues, nimium tua cuncta uidendo, 
 Insatiabiliter quibus adhuc adicere quaeris. 
 Uiuere post ista, dicis, non spero defunctus. 
 Ingrate summo Deo, qui sic Deum iudicas esse, 
@@ -578,18 +578,18 @@ In medio populi quid te facis alterum esse?
 Uadis ubi nescis, et inscius inde recedis; 
 Impie tractas, cum ipso corpore sitis 
 Tu super diuitias, nimium te tollis in altum 
-Et &lt;fe&gt;stiua ducis nec respicis pauperes ultro 
+Et <fe>stiua ducis nec respicis pauperes ultro 
 Subditos nunc uobis, nec parentes pascitis ipsos. 
 Heu miseri! fugiant longius mediocres a uobis. 
 'Uixit et extinxit pauper' ebriace clames. 
 Mox furiis ageris, cum pereas ipse, Carybdis. 
-Indisciplinati sicut &lt;pecora&gt; diuites estis: 
+Indisciplinati sicut <pecora> diuites estis: 
 Legem datis istis, nam uobis parcitis ipsis. 
 Exuite, diuites, tantis malis Deo peruersos, 
 Subueniat utique tibi, qui nunc operati si forte. 
 Estote communes minimis, dum tempus habetis; 
 Sicut ulmus amat uitem, sic ipsi pusillos. 
-Terribilem legem malis bonis atque benigna&lt;m&gt; 
+Terribilem legem malis bonis atque benigna<m> 
 Obserua nunc sterelis, subditus in prosperis esto; 
 Tollite corda fraudis, diuites, et sumite pacis. 
 Expiate malum uestrum benefactis a Summo.
@@ -600,17 +600,17 @@ Expiate malum uestrum benefactis a Summo.
 Intuite dicta Salominis, iudices omnes, 
 Uno uerbo suo qualiter uos ille detractat: 
 Dona quam et xenia corrumpunt iudices omnes! 
-Inde 'nimis', sequit&lt;ur&gt;, 'datorem semper amatis', 
-Cum quaerit&lt;ur&gt;, causa uictoriam tollit iniqua. 
+Inde 'nimis', sequit<ur>, 'datorem semper amatis', 
+Cum quaerit<ur>, causa uictoriam tollit iniqua. 
 Innocens hic ego sum, nec uos incuso pusillus, 
-Blasphemium tollat Salomon, qui &lt;clamat&gt; aperte. 
+Blasphemium tollat Salomon, qui <clamat> aperte. 
 'Uobis autem Deus est uenter et praemia iura.' 
 Suggerit hoc Paulus apostolus, non ego pulex. 
 Si locus aut tempus fauet aut persona prouenit, 
 Iudex esto tuus. Quod nunc extolleris inde? 
-Blasphema&lt;s&gt;, indocilis: de cuius praestantia uiuis, 
+Blasphema<s>, indocilis: de cuius praestantia uiuis, 
 In fragilitate tanta non respicis umquam. 
-Per gradu&lt;m&gt; et lucra auidus fortunae praesumis, 
+Per gradu<m> et lucra auidus fortunae praesumis, 
 Lex tibi non ulla est, nec te in prosperitate dignos 
 Auro licet cenes cum turba choraulica semper 
 Cruciarium Dominum si non adorasti, peristi. 
@@ -627,9 +627,9 @@ Sine Christo nec uixisse te conpotis unquam.
  31 SIBI PLACENTIBUS 
 Si locus aut tempus fauet aut persona prouenit, 
 Iudex esto tuus. Quod nunc extolleris inde? 
-Blasphema&lt;s&gt;, indocilis: de cuius praestantia uiuis, 
+Blasphema<s>, indocilis: de cuius praestantia uiuis, 
 In fragilitate tanta non respicis umquam. 
-Per gradu&lt;m&gt; et lucra auidus fortunae praesumis, 
+Per gradu<m> et lucra auidus fortunae praesumis, 
 Lex tibi non ulla est, nec te in prosperitate dignos 
 Auro licet cenes cum turba choraulica semper 
 Cruciarium Dominum si non adorasti, peristi. 
@@ -673,7 +673,7 @@ Ballatur ibi, dein cantatur pro psalmis amori.
 Uitam esse putas, ubi ludi, aut prospicis ista: 
 Sortiris, ignare, extincta, aurea quaeris. 
 Inde non effugies pestem, licet ipse diuines. 
-Gratiam, quam misit Dominus in terra legenda&lt;m&gt;, 
+Gratiam, quam misit Dominus in terra legenda<m>, 
 Non requiris eam, sed sic quasi besteus errans. 
 Aurea post fata ueniet tibi saecla, si credis recte, 
 Rursus ut incipias inmortale uiuere semper. 
@@ -693,15 +693,15 @@ Gustato pomo ligni mors intrauit in orbem:
 Hoc ligno mortis quaeramus uitae futurae. 
 In ligno pendit uita ferens poma, praecepta: 
 Kapite nunc ligno uitali poma credentes. 
-Lex a &lt;ligno&gt; data est homini primitiuo timenda, 
+Lex a <ligno> data est homini primitiuo timenda, 
 Mors unde prouenit neglecta lege primordi: 
 Nunc extende manum et sume de ligno uitali. 
 Optima lex Domini sequens de ligno processit; 
 Perdita lex prima; gustat, unde licet illi, 
 Qui deos adorat uetitos, mala gaudia uitae. 
 Respuite gustum; sufficiet scire quod esset. 
-Si &lt;ui&gt;uere uultis, reddite uos legi secundae, 
-Templorum cultura&lt;m&gt;, daemonum fana uitate. 
+Si <ui>uere uultis, reddite uos legi secundae, 
+Templorum cultura<m>, daemonum fana uitate. 
 Uertite uos Christo, et eritis Deo sodales. 
 Xancta Dei lex est, qui mortuos uiuere dicit. 
 Ymnum sibi soli Dominus proferre praecepit, 
@@ -711,7 +711,7 @@ Zabolicam legem omnes omnino uitate.
  
  35 DE RUCI STULTITIA 
 De duplici ligno dixi, mors unde processit, 
-Et iterum inde procedere uita&lt;m&gt; frequenter. 
+Et iterum inde procedere uita<m> frequenter. 
 Rex aeternitatis per crucem diros adumbrat, 
 Ut sibi non credant. O stulti, morte uiuentes! 
 Cain iuniorem occisit nequam repertus: 
@@ -720,10 +720,10 @@ Sic genus iniquum increuit mundo, qui nunquam
 Transmutat animos in Domini credere crucem. 
 Uenit in errorem, et dicunt se uiuere recte. 
 Lex in ligno fuit prima, et inde secunda 
-Terribilem legem prima&lt;m&gt; cum pace &lt;p&gt;raeuenit. 
+Terribilem legem prima<m> cum pace <p>raeuenit. 
 In praua iactatione saeua scelerati ruerunt: 
 Traiectum clauis Dominum cognoscere nolunt, 
-In cuius iudicium cum ue&lt;ne&gt;rit, ibi dignoscunt. 
+In cuius iudicium cum ue<ne>rit, ibi dignoscunt. 
 Abel genus autem credit modo Christo benigno.
  
 
@@ -747,9 +747,9 @@ Funera sunt; nimium de illis tota deferre,
 Aut, quia concludor, agerem congustus aratris. 
 Noluit Omnipotens illos intellegere Regem; 
 A scelere a tanto refugit ipse cruentos. 
-Tradidit se nobis &lt;noua&gt; superaddita lege, 
-Inde modo latrant nobiscum re&lt;ge&gt; deserti. 
-Ceterum in illis si spem &lt;in&gt;esse putatis, 
+Tradidit se nobis <noua> superaddita lege, 
+Inde modo latrant nobiscum re<ge> deserti. 
+Ceterum in illis si spem <in>esse putatis, 
 ********
  
 
@@ -759,7 +759,7 @@ Inprobi semper et dura ceruice recalces,
 Uinci uos non uultis: sic exheredes eritis. 
 Dixit Esaias incrassato corde uos esse. 
 Aspicis legem, quam Moyses allisit iratus; 
-Et idem Dominus dedit illi lege&lt;m&gt; secunda&lt;m&gt;. 
+Et idem Dominus dedit illi lege<m> secunda<m>. 
 In illa spem posuit, quam uos subsannatis erecti. 
 Sic ideo indigni non eritis regno caelesti?
  
@@ -785,21 +785,21 @@ Incredulus populus non est nisi uester, iniqui,
 Tot locis et totiens reprobatus lege clamantum. 
 Et sabbatas uestras spernit et tricensimas Altus 
 Rescidit omnino uniuersas uestras de lege, 
-Ut nec sacrificia faceret&lt;is&gt; illi praecepta 
+Ut nec sacrificia faceret<is> illi praecepta 
 Mittere qui dixit lapidem in scandalo uestro. 
 Iniqua si quis uestrum non crediderint morte 
-Pars alia legis clama&lt;t&gt;: 'Uidebitis inde 
+Pars alia legis clama<t>: 'Uidebitis inde 
 Suspensam in ligno uitam; nec illi credidistis'. 
 Ipse Deus uita est, pependit ipse pro nobis, 
 Sed uos indurato corde subsannatis eundem.
  
 
  
-40 DE ANTECHRISTI TEM&lt;P&gt;ORE? 
+40 DE ANTECHRISTI TEM<P>ORE? 
 Dixit Esaias: Hic homo, qui commouit orbem 
 Et reges totidem, sub quo fiet terra deserta. 
 Audite, quoniam propheta de illo praedixit; 
-Nihil ego conposite dixi, sed lege&lt;m&gt; legendo. 
+Nihil ego conposite dixi, sed lege<m> legendo. 
 Tum scilicet mundus finitur, cum ille parebit 
 Et tres imperantes ipse deuicerit orbe. 
 Cum fuerit autem Nero de inferno leuatus, 
@@ -807,20 +807,20 @@ Helias ueniet prius signare dilectos,
 Rex quam sub fine regit et artatio tota. 
 In septem annis tremebit undique terra: 
 Sed medium tempus Helias, medium Nero tenebit. 
-Tunc Babillon meretrix &lt;erit&gt; incinefacta fauilla 
+Tunc Babillon meretrix <erit> incinefacta fauilla 
 Inde ad Hierusalem perget, uictorque Latinus 
 Tunc dicit: Ego sum Christus, quem semper oratis. 
 Et quidem conlaudant illum primitiui decepti 
 Multa signa facit quoniam cuius pseudopropheta. 
 ****** 
-Omnipotens tribuit, ut &lt;spiri&gt;talis eradat. 
+Omnipotens tribuit, ut <spiri>talis eradat. 
 Recapitulantes scripturas ex eo Iudaei 
 Exclamant pariter ad Excelsum sese deceptos.
  
 
  
 41 DE POPULO ABSCONSO SANCTO OMNIPOTENTIS CHRISTI DEI VIVI 
-Desidet &lt;populus&gt; absconsus ultimus sanctus 
+Desidet <populus> absconsus ultimus sanctus 
 Et quidem ignotus a nobis ubi moretur. 
 Per nouem tribum agant et dimidiam ipsi, 
 Omissae duae tribum haec sunt et dimidia nobis. 
@@ -829,7 +829,7 @@ Uiuamus nunc omnes, nouellae traditio legis
 Lex ut ipsa docet! Apertius indico uobis. 
 Obrelictae duae tribum et dimidia: quare 
 Ab istis dimidia tribum? Ut martyres essent 
-Bellum cum infer&lt;r&gt;et electis suis in orbem, 
+Bellum cum infer<r>et electis suis in orbem, 
 Seu certe sanctorum chorus prophetarum ad illam 
 Consurgeret plebem, qui frenum inponeret illis, 
 Obsceni quos equi trucidarunt calci remissa 
@@ -855,7 +855,7 @@ Transiit ad nostra, ueniunt cum rege caeleste.
 In quorum itinere quod dicam, quo Deus educet, 
 Subsidunt montes ante illos et fontes erumpunt: 
 Caelestem populum gaudet creatura uidere. 
-Hic tamen festinant matre&lt;m&gt; defendere capta&lt;m&gt;. 
+Hic tamen festinant matre<m> defendere capta<m>. 
 Rex autem iniquus, qui obtinet, illum ut audit, 
 In partem boreae refugit et colligit omnes. 
 Sed cum se inlidet exercitu Dei tyrannus 
@@ -875,7 +875,7 @@ Incipiet Dominus iudicium dare per ignem.
 Dat tuba caelo signum sublato leone 
 Et fiunt desubito tenebrae cum caeli fragore. 
 Summittit oculos Dominus, ut terra tremescat, 
-Adclamat et&lt;iam&gt;, ut audiant omnes in orbem: 
+Adclamat et<iam>, ut audiant omnes in orbem: 
 'Ecce diu tacui sufferens tanto tempore uestra!' 
 Conclamant pariter plangentes sero gementes, 
 Ululatur, ploratur, nec spatium datur iniquis. 
@@ -901,7 +901,7 @@ Resurgimus illi, qui fuimus illi deuoti,
 Et incorrupti erint iam tunc sine morte uiuentes, 
 Sed nec dolor ullus nec gemitus erit in illa. 
 Uenturi sunt illi quoque, sub Antechristo qui uincunt 
-Robusta mar&lt;tyr&gt;ia, et ipsi toto tempore uiuunt 
+Robusta mar<tyr>ia, et ipsi toto tempore uiuunt 
 Recipiuntque bona, quoniam mala passi fuere, 
 Et generant ipsi per annos mille nubentes. 
 Conparantur ibi tota uectigalia terrae, 
@@ -920,9 +920,9 @@ Ab annis autem mille Deus omnia portat.
  
  44 DE DIE IUDICII 
 De die iudicii propter incredulos addo: 
-Emissus iterum Dei do&lt;mi&gt;nabitur ignis; 
+Emissus iterum Dei do<mi>nabitur ignis; 
 Dat gemitum terra rerum tunc in ultima fine 
-In ter&lt;r&gt;a gentes ut tunc incredulae cunctae, 
+In ter<r>a gentes ut tunc incredulae cunctae, 
 Euitat et tamen sanctorum castra suorum. 
 In una flamma conuertit tota natura, 
 Uritur ab imis terra montesque liquescunt, 
@@ -994,7 +994,7 @@ Et tamen in poenis poteris tua damna lenire.
 Namque fatebor enim unum me ex uobis adesse 
 Terroremque diu quondam sensisse ruinae. 
 Idcirco commoneo uulneratos cautius ire, 
-Barbam &lt;atque&gt; comam foedare in puluere terrae 
+Barbam <atque> comam foedare in puluere terrae 
 Uolutareque saccis et petere summo de Rege 
 Subuenire tibi, ne pereas forte de plebe.
  
@@ -1010,22 +1010,22 @@ Obisse debuerat quam ire sub barbaro rege,
 Seruitiumque pateat hostibus sine lege deferre. 
 Tu si praedicando moreris pro terra, uicisti, 
 At si manus dederis incolumem, lege peristi. 
-Transfluuiat hostis, tu sub latebra &lt;re&gt;conde, 
-Aut si intrare potest sine c&lt;aede&gt;, ne cessa. 
+Transfluuiat hostis, tu sub latebra <re>conde, 
+Aut si intrare potest sine c<aede>, ne cessa. 
 Undique te redde tutum tuos quoque: uicisti; 
 Et uigilanter age, ne quis incurrat in illa. 
 Rex infamis erit, si quis se propalat hosti. 
 Uincere qui nescit et occurrit tradere sese, 
 Nec sibi nec patriae laudem remisit ineptus; 
 Tunc uiuere noluit, cum ipsa uita peribit. 
-De&lt;inde&gt; si refugiat inops aut profanus ab hoste, 
+De<inde> si refugiat inops aut profanus ab hoste, 
 Eramen ut sonans, facti uel ut aspides surdi, 
-Orare satis debet et se condere tali&lt;s&gt;.
+Orare satis debet et se condere tali<s>.
  
 
  
  50 DE INFANTIBUS 
-Debellum hostis &lt;si&gt; subito uenit inundans, 
+Debellum hostis <si> subito uenit inundans, 
 Et prius quam fugerent, paruulos occupauit inertes, 
 Inproperandum eis non est, licet capti uidentur. 
 Nec quidem excuso: ob delicta forte parentum 
@@ -1041,7 +1041,7 @@ S............................................
 
  
 51 DESERTORES 
-Desertores enim genere non uno dicunt&lt;ur&gt;: 
+Desertores enim genere non uno dicunt<ur>: 
 Est alius nequam, alius in parte secedat, 
 Sed tamen utroque iudicia uera decernunt. 
 Ecce militatur Christo sicut Caesari: paret. 
@@ -1056,7 +1056,7 @@ Sit tibi pro peccare desistere gestum inmensum.
  
  52 MILITIBUS CHRISTI 
 Militiae nomen cum dederis, freno teneris. 
-Incipe tunc ergo dimitte&lt;re&gt; pristina gesta, 
+Incipe tunc ergo dimitte<re> pristina gesta, 
 Luxurias uita, quoniam labor inminet armis; 
 Imperio Regis omni uirtute parendum, 
 Tempora postrema si uis pertingere laeta. 
@@ -1083,17 +1083,17 @@ Flamma quos aeterna torquebit die decreto.
 Uult uagus errare sine disciplina profanus 
 Grassari per fauces uiarum lege solutus. 
 Isti ergo tales, quos nulla poena coegit 
-Si &lt;sece&gt;dere nolunt ab idolis, respui debent.
+Si <sece>dere nolunt ab idolis, respui debent.
  
 
  
 54 DE LOLII SEMINE 
 De semine lolii, qui stant in ecclesia mixti 
 Expletis temporibus messis separatur a fructu. 
-Lolium est natum, quod non &lt;in&gt;miserat dominus; 
+Lolium est natum, quod non <in>miserat dominus; 
 Omne lolium agricola collectum separat illud. 
 Lex ager nobis est: qui fecerit bonum in illa, 
-Ipsam uti&lt;que&gt; nobis prestat requiem ueram 
+Ipsam uti<que> nobis prestat requiem ueram 
 Ipse Dominator, qua lolium igne crematur. 
 Si ergo putastis, quando sub uno morantur 
 Erratis: sterelis Christianos uos esse designo 
@@ -1107,7 +1107,7 @@ Et sic promereri Dominum putatis inanes?
  55 DISSIMULATORI 
 Dissimulas legem tanto praeconio latam 
 In tuba praesente caeleste uoce clamante. 
-Si propheta tantum declama&lt;ui&gt;sset in nubem, 
+Si propheta tantum declama<ui>sset in nubem, 
 Sufficeret utique Domini uox missa per illum. 
 In tot profatorum uolumina uox Domni proclamat; 
 Malitiam nullus dimittit [ita] aeque de corde. 
@@ -1134,7 +1134,7 @@ In ipsis uersaris iterum: qui proderit Unus?
 Aut si pro languore datum quod stulte profanas 
 I........................................ 
 Nolite diligere mundum neque ambitum eius: 
-Tanta Dei uox est, et tibi pro le&lt;ui&gt; uidetur. 
+Tanta Dei uox est, et tibi pro le<ui> uidetur. 
 Obseruas mandatum hominis, et Dei deuitas; 
 Tu fidis muneri, quod doctores ora procludunt 
 Ut taceant neque dicant tibi iussa diuina. 
@@ -1153,7 +1153,7 @@ Altissimus uiuet, et iusta praecepta deuitas.
 57 CHRISTIANUM TALEM ESSE 
 Cum Dominus dicat, in gemitum edere panem, 
 Hic ut quid nunc agis, qui cupis uiuere laetus? 
-Rescindere quaeris sententiam Summi demissa&lt;m&gt; 
+Rescindere quaeris sententiam Summi demissa<m> 
 In protoplausto uide frenum procedere legis. 
 Si Deus omnipotens cum sudore uiuere iussit, 
 Tu qui iocundaris, ergo iam exter es illi. 
@@ -1163,7 +1163,7 @@ Nunc ergo cur illos persequimur sponte profectos?
 Unde perierunt illi, nos cauere debemus. 
 Maxima pars uestra luxuriis dedita paret. 
 Transgrederis legem, cum te facis musicis inter. 
-Apostolus clamat, &lt;clamat&gt; immo Deus per illum: 
+Apostolus clamat, <clamat> immo Deus per illum: 
 Licentia uestra uos, inquit in ipsa, deperdunt. 
 Esto ergo talis, qualem uult esse te Christus: 
 Mitis et in illo hilaris, nam saeculo tristis. 
@@ -1192,11 +1192,11 @@ Sufficiat esse non cultibus sed bona mente.
 Induite uestes quas oportet, frigus ut ostent 
 Aut nimium solis, tantum ut pudico proberis 
 Et in plebe Dei facultatis dona demonstres. 
-Dat tibi memoriam &lt;Tabitha&gt; clarissima quondam; 
+Dat tibi memoriam <Tabitha> clarissima quondam; 
 Exanimata iacet precibus uiduarum erecta. 
 In dando promeruit, non comtibus, inde leuari. 
 Uos matronae bonae uanitatis fugite decorem: 
-In&lt;cestas in&gt; feminas congruet cultura lupana. 
+In<cestas in> feminas congruet cultura lupana. 
 Uincite malignum, pudicae feminae Christi, 
 In dando diuitias uestras ostendite totas. 
 [Xancta Dei mulier diuitias corde demonstrat. 
@@ -1217,11 +1217,11 @@ Has Dei praecones damnant in lege clamantes
 Iniustas esse feminas, quae se taliter ornant. 
 Kapillos inficitis, oculos nigrore linitis, 
 Lunatis comulas gradulatim fronte deuinctas, 
-Mala&lt;m&gt; medicatis quodam superducto rubore, 
+Mala<m> medicatis quodam superducto rubore, 
 Nec non et inaures grauissimo pondere pendent, 
 Obruitis collum naturale gemmis et auro, 
 Palmas Deo dignas praesagio malo ligatis. 
-Quid memorem uestes aut tota&lt;m&gt; Zabuli pompa&lt;m&gt;? 
+Quid memorem uestes aut tota<m> Zabuli pompa<m>? 
 Respuitis legem, mauultis mundo placere, 
 Saltatis in domibus, pro psalmis cantatis amores. 
 Tu licet sis casta, non te purgat sinistra sequendo: 
@@ -1238,14 +1238,14 @@ Nec me supertollo, sed doleo uestri, qui cerno
 Ex tanto populo nullum in agone coronari. 
 Certe si non ipse pugnat, uel suggerat illis. 
 Cladem obiurgate, ouanter officite luxu! 
-Labora&lt;t&gt; frater aduersante mundo sub armis, 
+Labora<t> frater aduersante mundo sub armis, 
 Et fretus opibus nec pugnas nec pugnanti resistis. 
 ******** 
 In talem pendit ecclesia tota, si uincat. 
 Abstinere uides fratrem et pugnare cum hoste. 
 Optas tu in castris pacem, foras ille repugnat. 
 Misericors esto, ut sis ante omnia saluus. 
-Nec intuis Dominum praeconio tanto clamante&lt;m&gt;, 
+Nec intuis Dominum praeconio tanto clamante<m>, 
 Inimicis etiam qui iubet alimenta praebere? 
 Prandia ob ea prospice diurna, quae semper 
 Omnibus omnino diebus cum pauperis sumpsit. 
@@ -1269,7 +1269,7 @@ Omnia suspensus uiuis in ardore lucrorum;
 Cumque reus tibi sis ipsum te iudice damnans, 
 Oculorum acies nunquam satiatur auara. 
 Nunc ergo si credeas et cogites: uana cupido est 
-Congere&lt;re&gt; nimium sub fragili uita moranti. 
+Congere<re> nimium sub fragili uita moranti. 
 Unde Deus clamat: Stulte, hanc noctem uocaris! 
 Postea ruina ruit: cuius erint ista talenta? 
 In suprema cadis iniusta lucra conando, 
@@ -1312,7 +1312,7 @@ Omnia suspensus uiuis in ardore lucrorum;
 Cumque reus tibi sis ipsum te iudice damnans, 
 Oculorum acies nunquam satiatur auara. 
 Nunc ergo si credeas et cogites: uana cupido est 
-Congere&lt;re&gt; nimium sub fragili uita moranti. 
+Congere<re> nimium sub fragili uita moranti. 
 Unde Deus clamat: Stulte, hanc noctem uocaris! 
 Postea ruina ruit: cuius erint ista talenta? 
 Suggeret cum Dominus unicuique uicta diurna. 
@@ -1341,21 +1341,21 @@ Oppressus usuris deplorat factus egenus.
 Nanctus praeterea tempus captat oribus hostis, 
 Ad praesens populas pretio tu sanctos iniquus. 
 Nec non et de lucro mercis si uis te piare, 
-Te ipsum inlidis, non alium, &lt;inquam&gt; inique.
+Te ipsum inlidis, non alium, <inquam> inique.
  
 
  
-65 DE PACE SU&lt;B&gt;DOLA 
+65 DE PACE SU<B>DOLA 
 Dispositum tempus uenit nostris pacem in urbe 
 Et ruinas simul blandiente saeculo primis. 
-Praecipitis populo, quem &lt;ipsi&gt; in schisma misistis: 
+Praecipitis populo, quem <ipsi> in schisma misistis: 
 Aut facite legem ciuitatis aut exite de illa. 
 Conspicitis stipulam cohaerentem in oculis nostris, 
 Et uestris in oculis non uultis cernere trabem. 
 Subdola pax uobis uenit, persecutio flagrat. 
 Uulnera non parent, et sic sine caede ruistis, 
 ********** 
-De &lt;omnibus&gt; uobis uix unus caute se gessit. 
+De <omnibus> uobis uix unus caute se gessit. 
 O malo nutriri in occisione praedicti! 
 Laudatis pacem subdolam et uobis iniquam. 
 Alterius facti milites, non Christi, peristis.
@@ -1370,7 +1370,7 @@ Terrorem premere, nec unquam esse superbos.
 Obsequia iusta maiorum quoque deferte; 
 Reddite uos Christo similes, filioli, magistro; 
 Inter agrestiua benefacitis lilia sitis. 
-Beati facti estis, cum fe&lt;ce&gt;ritis edicta. 
+Beati facti estis, cum fe<ce>ritis edicta. 
 Uos flores in plebe, uos estis Christi lucernas, 
 Seruate quod estis et memorare potestis.
  
@@ -1385,7 +1385,7 @@ Susum intendentes, semper Deo summo deuoti
 Tota Deo reddite inlaesa sacra, ministri. 
 Rebus in diuersis exemplum date parati; 
 Inclinate caput uestrum pastoribus ipsi: 
-Sic fiet, ut Christo possitis &lt;esse&gt; probati.
+Sic fiet, ut Christo possitis <esse> probati.
  
 
  
@@ -1400,7 +1400,7 @@ In faciem cuius sis ausus dicere quicquam.
 Bullit in inferno rumoribus ipsa gehenna: 
 Uae miserae plebi, dubia quae forte uacillat! 
 Si talis aderit pastor, paene perdita instat; 
-Deuotus autem &lt;eam&gt; continet recte gubernans; 
+Deuotus autem <eam> continet recte gubernans; 
 Exhilaratur enim ex anima regibus aptis. 
 In talibus spes est et uiuit ecclesia tota.
  

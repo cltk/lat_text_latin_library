@@ -406,7 +406,7 @@ sed clari et praestantes viri, qui avibus et signis admoniti futura dicebant; qu
  
 
  
-Eodem enim modo multa a vaticinantibus saepe praedicta sunt neque solum &gt;solutis&lt; verbis, sed etiam 
+Eodem enim modo multa a vaticinantibus saepe praedicta sunt neque solum >solutis< verbis, sed etiam 
 
  
 "versibus quos olim Fauni vatesque canebant."

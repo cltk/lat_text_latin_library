@@ -104,14 +104,14 @@ o decus aeternum Carthaginis. horrida iuxta
 stagnantis consul molitur proelia ripas, 
 et laus haud alio maior datur hoste perempto.'    90 
 haec ait et iuuenem diuersa ad proelia raptat. 
- Flumineo Libycam turbabat in aggere pubem&#151; 
+ Flumineo Libycam turbabat in aggere pubem— 
 Cristae nomen erat. bis terni iuncta ferebant 
 arma senem circa nati; pauperque penatum 
 (sed domus haud obscura Tuder, notusque per Vmbros    95 
 bellator populos) factis et caede docebat 
 natorum armigeram pugnas tractare cohortem. 
 unanima inde phalanx, crudo ducente magistro, 
-postquam hominum satiata nec&lt;e&gt; est, prostrauerat ictu 
+postquam hominum satiata nec<e> est, prostrauerat ictu 
 innumero cum turre feram facibusque secutis    100 
 ardentem monstri spectabat laeta ruinam, 
 cum subitus galeae fulgor conoque coruscae 
@@ -122,7 +122,7 @@ tela iubet nec manantis ex ore feroci
 aut quae flagrarent galea exhorrescere flammas. 
 armiger haud aliter magni Iouis, anxia nido 
 cum dignos nutrit gestanda ad fulmina fetus, 
-obuersam spectans ora ad Phaet&lt;h&gt;ontia prolem,    110 
+obuersam spectans ora ad Phaet<h>ontia prolem,    110 
 explorat dubios Phoebea lampade natos. 
 iamque suis daret ut pugnae documenta uocantis 
       . . . . . . . . . . .             112a 
@@ -186,7 +186,7 @@ conlabens operit spatioso stipite prolem.
  Atque ea dum iuxta Tyrius stagna Aufida ductor    170 
 molitur, Paulus, numerosa caede futuram 
 ultus iam mortem, ceu uictor bella gerebat. 
-inter mille uiros iacet ingens P&lt;h&gt;orcys ab antris 
+inter mille uiros iacet ingens P<h>orcys ab antris 
 Herculeae Calpes, caelatus Gorgone parmam, 
 unde genus ~tristique deae manabat origo.    175 
 hunc obiectantem sese atque antiqua tumentem 
@@ -194,7 +194,7 @@ nomina saxificae monstrosa e stirpe Medusae,
 dum laeuum petit incumbens uiolentius inguen, 
 detrahit excelsi correptum uertice coni, 
 adflictumque premens, tergo qua balteus imo    180 
-sinuatur coxa&lt;e&gt;que sedet munimen utrique, 
+sinuatur coxa<e>que sedet munimen utrique, 
 coniecto fodit ense super: uomit ille calentem 
 sanguinis effundens per hiantia uiscera riuum 
 et subit Aetolos Atlanticus accola campos. 
@@ -242,13 +242,13 @@ inuidiam Cannis. tristem non pertulit iram    225
 consul et, insani quamquam contraria uenti 
 exarmat uis atque obtendit puluere lucem, 
 squalentem rumpens ingestae toruus harenae 
-ingreditur nimbum ac &lt;V&gt;iriat&lt;h&gt;um moris Hiberi 
+ingreditur nimbum ac <V>iriat<h>um moris Hiberi 
 carmina pulsata fundentem barbara caetra    230 
 inuadit laeuaeque fodit uitalia mammae. 
 hic fuit extremus caedum labor. addere bello 
 haud ultra licuit dextram, nec tanta relictum est 
 uti, Roma, tibi posthac ad proelia Paulo. 
-saxu&lt;m&gt; ingens, uasto libratum pondere, caeca    235 
+saxu<m> ingens, uasto libratum pondere, caeca    235 
 uenit in ora manu et perfractae cassidis aera 
 ossibus infodiens compleuit sanguine uultus. 
 inde pedem referens, labentia membra propinquo 
@@ -287,7 +287,7 @@ testor caelicolas,' inquit 'ni damna gubernas    270
 crudelis belli uiuisque in turbine tanto 
 inuitus, plus, Paule, (dolor uerba aspera dictat) 
 plus Varrone noces. cape, quaeso, hunc, unica rerum 
-fessarum spe&lt;s&gt;, cornipedem. languentia membra 
+fessarum spe<s>, cornipedem. languentia membra 
 ipse leuabo umeris et dorso tuta locabo.'    275 
  Haec inter, lacero manantem ex ore cruorem 
 eiectans, consul: 'Macte o uirtute paterna! 
@@ -302,7 +302,7 @@ Paulum scire mori? feror an consumptus in urbem    285
 uulneribus? quantine emptum uelit Hannibal, ut nos 
 uertentis terga aspiciat? nec talia Paulo 
 pectora, nec manis tam parua intramus imago. 
-ille ego&#151;sed uano quid enim te demoror aeger, 
+ille ego—sed uano quid enim te demoror aeger, 
 Lentule, conquestu? perge atque hinc cuspide fessum    290 
 erige quadrupedem propere.' tum Lentulus urbem 
 magna ferens mandata petit. nec Paulus inultum 
@@ -419,7 +419,7 @@ interdum maesto socios clamore requirunt.
 hic Galba, hic Piso et leto non dignus inerti 
 Curio deflentur, grauis illic Scaeuola bello. 
 hos passim, at Pauli pariter ceu dira parentis    405 
-fata gemunt: ut uer&lt;b&gt;a mali praenuntia numquam 
+fata gemunt: ut uer<b>a mali praenuntia numquam 
 cessarit canere et Varronis sistere mentem, 
 utque diem hunc totiens nequiquam auerterit urbi, 
 atque idem quantus dextra. sed cura futuri 
@@ -436,7 +436,7 @@ Punica et Hannibalem mutato euadere caelo.
 dux erat exilio non laetus Marte Metellus,    420 
 sed stirpe haud parui cognominis. is mala bello 
 pectora degeneremque manum ad deformia agebat 
-consulta atque alio positas spectabat in or&lt;b&gt;e, 
+consulta atque alio positas spectabat in or<b>e, 
 quis sese occulerent, terras, quo nomina nulla 
 Poenorum aut patriae penetraret fama relictae.    425 
  Quae postquam accepit flammata Scipio mente, 
@@ -469,13 +469,13 @@ Hannibal et magna circumstipante caterua
 dulcia praebebat trucibus spectacula Poenis. 
 quas strages inter, confossus pectora telis 
 seminecem extremo uitam exhalabat in auras    455 
-mu&lt;r&gt;mure deficiens iam Cloelius oraque nisu 
+mu<r>mure deficiens iam Cloelius oraque nisu 
 languida uix aegro et dubia ceruice leuabat. 
 agnouit sonipes, arrectisque auribus acrem 
 hinnitum effundens sternit tellure Bagesum, 
 quem tum captiuo portabat in agmina dorso.    460 
 hinc, rapidum glomerans cursum, per lubrica pingui 
-stante cruore soli et t&lt;u&gt;mulata cadauera caede 
+stante cruore soli et t<u>mulata cadauera caede 
 euolat ac domini consistit ad ora iacentis. 
 inde inclinatus colla et submissus in armos 
 de more inflexis praebebat scandere terga    465 
@@ -501,11 +501,11 @@ auditus tibi, si Cocles, si Lydia castra,
 ille ope Maeonia et populo succinctus Etrusco    485 
 certabat pulsos per bella reponere reges. 
 multa adeo nequiquam ausi, pressitque tyrannus 
-Ianiculum incumbens u&lt;r&gt;bi. mox pace probata 
+Ianiculum incumbens u<r>bi. mox pace probata 
 compressere odia, et positum cum foedere bellum, 
 obsidibusque obstricta fides. mansuescere corda    490 
 nescia, pro superi! et nil non immite parata 
-gens Italum pro laude pati: &lt;b&gt;is Cloelia senos 
+gens Italum pro laude pati: <b>is Cloelia senos 
 nondum complerat primaeui corporis annos, 
 una puellarum Laurentum et pignora pacis 
 inter uirgineas regi tramissa cateruas.    495 
@@ -538,7 +538,7 @@ quantus, Paule, iaces! qui tot mihi milibus unus
 maior laetitiae causa es. cum fata uocabunt, 
 tale precor nobis salua Carthagine letum.' 
  Haec ait et socium mandari corpora terrae, 
-postera cum thalamis Aurora ru&lt;b&gt;ebit apertis,    525 
+postera cum thalamis Aurora ru<b>ebit apertis,    525 
 imperat armorumque iubet consurgere aceruos, 
 arsuros, Gradiue, tibi. tum munera iussa, 
 defessi quamquam, accelerant sparsoque propinquos 
@@ -600,7 +600,7 @@ quodque adeo nondum portis inruperit hostis,
 contemptu cessare putant. iam tecta cremari, 
 ac delubra rapi caedesque ante ora nefandae    585 
 natorum septemque arces fumare uidentur. 
-lux una euersas bis centum in stra&lt;g&gt;e curulis, 
+lux una euersas bis centum in stra<g>e curulis, 
 ac iuuenum bis tricenis orbata gemebat 
 milibus exhaustae nutantia moenia Romae, 
 atque ea post Trebiam, post Tusci stagna profundi,    590 

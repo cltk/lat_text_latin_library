@@ -61,8 +61,8 @@ Quippe velut denso currentia munera nimbo    45
 cernere semper erat, populis undare penates 
 adsiduis, intrare inopes, remeare beatos. 
 Praeceps illa manus fluvios superabat Hiberos 
-aurea dona vomens &#134; si quis &#134; tellure revulsa 
-&#134; sollicitis fodiens miratur collibus aurum:    50 
+aurea dona vomens † si quis † tellure revulsa 
+† sollicitis fodiens miratur collibus aurum:    50 
 quantum stagna Tagi rudibus stillantia venis 
 effluxere decus, quanto pretiosa metallo 
 Hermi ripa micat, quantas per Lydia culta 
@@ -134,7 +134,7 @@ halitus et placidi radiant in casside vultus:
 qualis letifera populatus caede Gelonos 
 procubat horrendus Getico Gradivus in Haemo;    120 
 exuvias Bellona levat, Bellona tepentes 
-pulvere solvit equos, inmensaque cornus in &#134; hastam 
+pulvere solvit equos, inmensaque cornus in † hastam 
 porrigitur tremulisqe ferit splendoribus Hebrum. 
 Ut stetit ante ducem discussas Roma per auras, 
 conscia ter sonuit rupes et inhorruit atrum    125 
@@ -201,9 +201,9 @@ ad loca nutricis iam non errantia Deli,    185
 illa feros saltus et desolata relinquens 
 Maenala lassato certis venatibus arcu, 
 Phoebus adhuc nigris rorantia tela venenis 
-extincto Pythone ferens&#151;tunc insula notos 
+extincto Pythone ferens—tunc insula notos 
 lambit amica pedes ridetque Aegaeus alumnis    190 
-lenior et blando testatur gaudia fluctu&#151;: 
+lenior et blando testatur gaudia fluctu—: 
 sic Proba praecipuo natos exornat amictu, 
 quae decorat mundum, cuius Romana potestas 
 fetibus augetur. Credas ex aethere lapsam 

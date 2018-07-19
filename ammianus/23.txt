@@ -19,7 +19,7 @@ Ammianus: Liber XXIII
  I 
  
  
-1. Haec eo anno &#151; ut praetereamus negotiorum minutias &#151; agebantur. Iulianus vero iam ter consul, adscito in collegium trabeae Sallustio praefecto per Gallias, quater ipse amplissimum inierat magistratum: et videbatur novum adiunctum esse Augusto privatum, quod post Diocletianum et Aristobulum nullus meminerat gestum. 
+1. Haec eo anno — ut praetereamus negotiorum minutias — agebantur. Iulianus vero iam ter consul, adscito in collegium trabeae Sallustio praefecto per Gallias, quater ipse amplissimum inierat magistratum: et videbatur novum adiunctum esse Augusto privatum, quod post Diocletianum et Aristobulum nullus meminerat gestum. 
  
 
  
@@ -39,7 +39,7 @@ Ammianus: Liber XXIII
  
 
  
-6. praecesserat aliud saevum. namque kalendis ipsis ianuariis ascendente eo gradile Genii templum e sacerdotum consortio quidam ceteris diuturnior nullo pulsante repente concidit animamque insperato casu efflavit, quod adstantes &#151; incertum per inperitiam an adulandi cupiditate &#151; memorabant consulum seniori portendi nimirum Sallustio, sed ut apparuit non aetati sed potestati maiori interitum propinquare monstrabatur. 
+6. praecesserat aliud saevum. namque kalendis ipsis ianuariis ascendente eo gradile Genii templum e sacerdotum consortio quidam ceteris diuturnior nullo pulsante repente concidit animamque insperato casu efflavit, quod adstantes — incertum per inperitiam an adulandi cupiditate — memorabant consulum seniori portendi nimirum Sallustio, sed ut apparuit non aetati sed potestati maiori interitum propinquare monstrabatur. 
  
 
  
@@ -75,11 +75,11 @@ Ammianus: Liber XXIII
  
 
  
-7. unde contractis copiis omnibus Mesopotamiam tam propere signa commovit ut fama de se nulla praeversa &#151; id enim curatius observarat &#151; inprovisus Assyrios occuparet. denique cum exercitu et Scytharum auxiliis Euphrate navali ponte transmisso venit ad Batnas municipium Osdroenae ibique inlaetabile portentum offendit. 
+7. unde contractis copiis omnibus Mesopotamiam tam propere signa commovit ut fama de se nulla praeversa — id enim curatius observarat — inprovisus Assyrios occuparet. denique cum exercitu et Scytharum auxiliis Euphrate navali ponte transmisso venit ad Batnas municipium Osdroenae ibique inlaetabile portentum offendit. 
  
 
  
-8. cum enim calonum frequens multitudo ad suscipiendum consuete pabulum prope acervum palearum stetisset inpendio celsum &#151; hoc enim modo per regiones illas tales species construuntur &#151; rapientibus multis quassata congeries inclinata est, parique exitio quinquaginta obruit homines mole maxima ruinarum     
+8. cum enim calonum frequens multitudo ad suscipiendum consuete pabulum prope acervum palearum stetisset inpendio celsum — hoc enim modo per regiones illas tales species construuntur — rapientibus multis quassata congeries inclinata est, parique exitio quinquaginta obruit homines mole maxima ruinarum     
  
 
  
@@ -187,7 +187,7 @@ Ammianus: Liber XXIII
  
 
  
-15. et si emissa lentius arcu invalido &#151; ictu enim rapidiore extinguitur &#151; haeserit usquam, tenaciter cremat aquisque conspersa acriores excitat aestus incendiorum, nec remedio ullo quam superiacto pulvere consopitur. hactenus de instrumentis muralibus, e quibus pauca sunt dicta. nunc ad rerum ordinem revertamur.     
+15. et si emissa lentius arcu invalido — ictu enim rapidiore extinguitur — haeserit usquam, tenaciter cremat aquisque conspersa acriores excitat aestus incendiorum, nec remedio ullo quam superiacto pulvere consopitur. hactenus de instrumentis muralibus, e quibus pauca sunt dicta. nunc ad rerum ordinem revertamur.     
  
 
  
@@ -355,7 +355,7 @@ Ammianus: Liber XXIII
  
 
  
-14. Sunt autem in omni Perside hae regiones maximae, quas Vitaxae id est magistri equitum curant, et reges et satrapae &#151; nam minores plurimas recensere difficile est et superfluvm Assyria, Susiana, Media, Persis, Parthia, Carmania maior, Hyrcania, Margiana, Bactriani, Sogdiani, Sacae, Scythia infra Imaum et ultra eundem montem, Serica, Aria, Paropanisadae, Drangiana, Arachosia et Gedrosia. 
+14. Sunt autem in omni Perside hae regiones maximae, quas Vitaxae id est magistri equitum curant, et reges et satrapae — nam minores plurimas recensere difficile est et superfluvm Assyria, Susiana, Media, Persis, Parthia, Carmania maior, Hyrcania, Margiana, Bactriani, Sogdiani, Sacae, Scythia infra Imaum et ultra eundem montem, Serica, Aria, Paropanisadae, Drangiana, Arachosia et Gedrosia. 
  
 
  
@@ -391,7 +391,7 @@ Ammianus: Liber XXIII
  
 
  
-23. In omni autem Assyria multae sunt urbes. inter quas Apamia eminet Mesene cognominata et Teredon et Apollonia et Vologessia hisque similes multae. splendidissimae vero et pervulgatae hae solae sunt tres: Babylon cuius moenia bitumine Samiramis struxit &#151; arcem enim antiquissimus rex condidit Belus &#151; et Ctesiphon quam Vardanes temporibus priscis instituit, posteaque rex Pacorus incolarum viribus amplificatam et moenibus Graeco indito nomine, Persidis effecit specimen summum. post hanc Seleucia ambitiosum opus Nicatoris Seleuci. 
+23. In omni autem Assyria multae sunt urbes. inter quas Apamia eminet Mesene cognominata et Teredon et Apollonia et Vologessia hisque similes multae. splendidissimae vero et pervulgatae hae solae sunt tres: Babylon cuius moenia bitumine Samiramis struxit — arcem enim antiquissimus rex condidit Belus — et Ctesiphon quam Vardanes temporibus priscis instituit, posteaque rex Pacorus incolarum viribus amplificatam et moenibus Graeco indito nomine, Persidis effecit specimen summum. post hanc Seleucia ambitiosum opus Nicatoris Seleuci. 
  
 
  
@@ -447,7 +447,7 @@ Ammianus: Liber XXIII
  
 
  
-37. In hac regione oleum conficitur Medicum, quo inlitum telum, si emissum lentius laxiore arcu &#151; nam ictu extinguitur rapido &#151; haeserit usquam, tenaciter cremat, et si aqua voluerit abluere quisquam, aestus excitat acriores incendiorum, nec remedio ullo quam iactu pulveris consopitur. 
+37. In hac regione oleum conficitur Medicum, quo inlitum telum, si emissum lentius laxiore arcu — nam ictu extinguitur rapido — haeserit usquam, tenaciter cremat, et si aqua voluerit abluere quisquam, aestus excitat acriores incendiorum, nec remedio ullo quam iactu pulveris consopitur. 
  
 
  
@@ -467,7 +467,7 @@ Ammianus: Liber XXIII
  
 
  
-42. oppida vero mediterranea sunt ampliora &#151; incertum enim, qua ratione per oras maritimas nihil condiderunt insigne &#151; inter quae Persepolis est clara et Ardea et Obroatis atque Tragonice. insulae vero visuntur ibi tres tantum Tabiana et Fara et Alexandria. 
+42. oppida vero mediterranea sunt ampliora — incertum enim, qua ratione per oras maritimas nihil condiderunt insigne — inter quae Persepolis est clara et Ardea et Obroatis atque Tragonice. insulae vero visuntur ibi tres tantum Tabiana et Fara et Alexandria. 
  
 
  

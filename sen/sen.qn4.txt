@@ -125,7 +125,7 @@ recipit.
 et in euitando ineuitabili malo pertinaciam te suspicere confessus 
 es, quia speraueras posse apertis auribus recipi, quamuis blanda 
 diceres, quia uera dicebas. Sed eo magis intellexit obstandum: 
-semper enim falsis a uero petitur ueri &lt;aucto&gt;ritas. Nolo tamen 
+semper enim falsis a uero petitur ueri <aucto>ritas. Nolo tamen 
 displiceas tibi, quasi male egeris minium et quasi ille aliquid 
 iocorum aut doli suspicatus sit: non deprehendit te sed reppulit.
  
@@ -276,7 +276,7 @@ cum poeta meo iocor et illi Ouidium a suum impingo, qui ait
  
 [2,3] Unde crescere incipiat si comprehendi posset, causae 
 quoque incrementi inuenirentur: nunc uero magnas solitudines 
-peruagatus et in paludes diffusus &lt;flexibusque in&gt;gentibus sparsus 
+peruagatus et in paludes diffusus <flexibusque in>gentibus sparsus 
 circa Philas primum ex uago et errante colligitur. Philae insula 
 est aspera et undique prearupta; duobus in unum coituris amnibus 
 bus cingitur, qui Nilo mutantur et eius nomen ferunt; urbem 

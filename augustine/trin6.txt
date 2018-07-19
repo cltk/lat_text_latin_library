@@ -25,7 +25,7 @@ Augustinus: de Trinitate Liber VI
 
  
 
- [II 3] Sed si non dicitur in se ipso nisi quod ad filium dicitur, id est pater uel genitor uel principium eius, si etiam gignens ei quod de se gignit consequenter principium est, quidquid autem aliud dicitur cum filio dicitur uel potius in filio, siue magnus ea magnitudine quam genuit, siue iustus ea iustitia quam genuit, siue bonus ea bonitate quam genuit, siue potens ea potentia uel uirtute quam genuit, siue sapiens ea sapientia quam genuit &#151; magnitudo autem ipsa non dicitur pater sed magnitudinis generator; filius uero sicut in se ipso dicitur filius, quod non cum patre dicitur sed ad patrem, non sic et in se ipso magnus sed cum patre cuius ipse magnitudo est; sic et sapiens cum patre dicitur cuius ipse sapientia est, sicut ille sapiens cum filio quia ea sapientia sapiens est quam genuit &#151; quidquid ergo ad se dicuntur, non dicitur alter sine altero, id est quidquid dicuntur quod substantia eorum ostendat ambo simul dicuntur. 
+ [II 3] Sed si non dicitur in se ipso nisi quod ad filium dicitur, id est pater uel genitor uel principium eius, si etiam gignens ei quod de se gignit consequenter principium est, quidquid autem aliud dicitur cum filio dicitur uel potius in filio, siue magnus ea magnitudine quam genuit, siue iustus ea iustitia quam genuit, siue bonus ea bonitate quam genuit, siue potens ea potentia uel uirtute quam genuit, siue sapiens ea sapientia quam genuit — magnitudo autem ipsa non dicitur pater sed magnitudinis generator; filius uero sicut in se ipso dicitur filius, quod non cum patre dicitur sed ad patrem, non sic et in se ipso magnus sed cum patre cuius ipse magnitudo est; sic et sapiens cum patre dicitur cuius ipse sapientia est, sicut ille sapiens cum filio quia ea sapientia sapiens est quam genuit — quidquid ergo ad se dicuntur, non dicitur alter sine altero, id est quidquid dicuntur quod substantia eorum ostendat ambo simul dicuntur. 
 
  
 
@@ -85,7 +85,7 @@ Augustinus: de Trinitate Liber VI
 
  
 
- [9] Nec quoniam trinitas est ideo triplex putandus est; alioquin minor erit pater solus aut filius solus quam simul pater et filius &#151; quamquam non inuenitur quomodo dici possit aut pater solus aut filius solus cum semper atque inseparabiliter et ille cum filio sit et ille cum patre, non ut ambo sint pater aut ambo filius, sed quia semper in inuicem neuter solus. Quia uero dicimus et deum solum ipsam trinitatem, quamuis semper sit cum spiritibus et animabus sanctis, sed solum dicimus quod deus est quia non et illi cum illo deus sunt, ita solum patrem dicimus patrem non quia separatur a filio sed quia non simul ambo pater est. 
+ [9] Nec quoniam trinitas est ideo triplex putandus est; alioquin minor erit pater solus aut filius solus quam simul pater et filius — quamquam non inuenitur quomodo dici possit aut pater solus aut filius solus cum semper atque inseparabiliter et ille cum filio sit et ille cum patre, non ut ambo sint pater aut ambo filius, sed quia semper in inuicem neuter solus. Quia uero dicimus et deum solum ipsam trinitatem, quamuis semper sit cum spiritibus et animabus sanctis, sed solum dicimus quod deus est quia non et illi cum illo deus sunt, ita solum patrem dicimus patrem non quia separatur a filio sed quia non simul ambo pater est. 
 
  
 

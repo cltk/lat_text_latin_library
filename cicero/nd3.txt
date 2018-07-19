@@ -51,7 +51,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 9 ] Tum Cotta "Quam simile istud sit", inquit, "tu videris. Nam ego neque in causis, si quid est evidens, de quo inter omnis conveniat, argumentari soleo &#151; perspicuitas enim argumentatione elevatur &#151; nec, si id facerem in causis forensibus, idem facerem in hac suptilitate sermonis. Cur coniveres autem altero oculo, causa non esset, cum idem optutus esset amborum et cum rerum natura, quam tu sapientem esse vis, duo lumina ab animo ad oculos perforata nos habere voluisset. Sed quia non confidebas tam esse id perspicuum, quam tu velis, propterea multis argumentis deos esse docere voluisti. Mihi enim unum sat erat, ita nobis maioris nostros tradidisse. Sed tu auctoritates contemnis, ratione pugnas; 
+ [ 9 ] Tum Cotta "Quam simile istud sit", inquit, "tu videris. Nam ego neque in causis, si quid est evidens, de quo inter omnis conveniat, argumentari soleo — perspicuitas enim argumentatione elevatur — nec, si id facerem in causis forensibus, idem facerem in hac suptilitate sermonis. Cur coniveres autem altero oculo, causa non esset, cum idem optutus esset amborum et cum rerum natura, quam tu sapientem esse vis, duo lumina ab animo ad oculos perforata nos habere voluisset. Sed quia non confidebas tam esse id perspicuum, quam tu velis, propterea multis argumentis deos esse docere voluisti. Mihi enim unum sat erat, ita nobis maioris nostros tradidisse. Sed tu auctoritates contemnis, ratione pugnas; 
  
 
  
@@ -59,7 +59,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 11 ] quasi vero quisquam nostrum istum potius quam Capitolinum Iovem appellet aut hoc perspicuum sit constetque inter omnes, eos esse deos, quos tibi Velleius multique praeterea ne animantis quidem esse concedant. Grave etiam argumentum tibi videbatur, quod opinio de dis inmortalibus et omnium esset et cottidie cresceret: placet igitur tantas res opinione stultorum iudicari, vobis praesertim, qui illos insanos esse dicatis? 'At enim praesentis videmus deos, ut apud Regillum Postumius, in Salaria Vatinius' &#151; nescio quid etiam de Locrorum apud Sagram proelio. Quos igitur tu Tyndaridas appellabas, id est homines homine natos, et quos Homerus, qui recens ab illorum aetate fuit, sepultos esse dicit Lacedaemone, eos tu cum cantheriis albis nullis calonibus obviam Vatinio venisse existimas et victoriam populi Romani Vatinio potius homini rustico quam M. Catoni, qui tum erat princeps, nuntiavisse? Ergo et illud in silice, quod hodie apparet apud Regillum, tamquam vestigium ungulae Castoris equi credis esse? 
+ [ 11 ] quasi vero quisquam nostrum istum potius quam Capitolinum Iovem appellet aut hoc perspicuum sit constetque inter omnes, eos esse deos, quos tibi Velleius multique praeterea ne animantis quidem esse concedant. Grave etiam argumentum tibi videbatur, quod opinio de dis inmortalibus et omnium esset et cottidie cresceret: placet igitur tantas res opinione stultorum iudicari, vobis praesertim, qui illos insanos esse dicatis? 'At enim praesentis videmus deos, ut apud Regillum Postumius, in Salaria Vatinius' — nescio quid etiam de Locrorum apud Sagram proelio. Quos igitur tu Tyndaridas appellabas, id est homines homine natos, et quos Homerus, qui recens ab illorum aetate fuit, sepultos esse dicit Lacedaemone, eos tu cum cantheriis albis nullis calonibus obviam Vatinio venisse existimas et victoriam populi Romani Vatinio potius homini rustico quam M. Catoni, qui tum erat princeps, nuntiavisse? Ergo et illud in silice, quod hodie apparet apud Regillum, tamquam vestigium ungulae Castoris equi credis esse? 
  
 
  
@@ -75,7 +75,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 15 ] 'At medici quoque' &#151; ita enim dicebas &#151; 'saepe falluntur.' Quid simile medicina, cuius ego rationem video, et divinatio, quae unde oriatur non intellego? Tu autem etiam Deciorum devotionibus placatos deos esse censes. Quae fuit eorum tanta iniquitas, ut placari populo Romano non possent nisi viri tales occidissent? Consilium illud imperatorium' fuit, quod Graeci strategema appellant, sed eorum imperatorum, qui patriae consulerent, vitae non parcerent; rebantur enim fore, ut exercitus imperatorem equo incitato se in hostem inmittentem persequeretur, id quod evenit. Nam Fauni vocem equidem numquam audivi; tibi, si audivisse te dicis, credam, etsi, Faunus omnino quid sit, nescio. Non igitur adhuc, quantum quidem in te est, Balbe, intellego deos esse; quos equidem credo esse, sed nil docent Stoici. 
+ [ 15 ] 'At medici quoque' — ita enim dicebas — 'saepe falluntur.' Quid simile medicina, cuius ego rationem video, et divinatio, quae unde oriatur non intellego? Tu autem etiam Deciorum devotionibus placatos deos esse censes. Quae fuit eorum tanta iniquitas, ut placari populo Romano non possent nisi viri tales occidissent? Consilium illud imperatorium' fuit, quod Graeci strategema appellant, sed eorum imperatorum, qui patriae consulerent, vitae non parcerent; rebantur enim fore, ut exercitus imperatorem equo incitato se in hostem inmittentem persequeretur, id quod evenit. Nam Fauni vocem equidem numquam audivi; tibi, si audivisse te dicis, credam, etsi, Faunus omnino quid sit, nescio. Non igitur adhuc, quantum quidem in te est, Balbe, intellego deos esse; quos equidem credo esse, sed nil docent Stoici. 
  
 
  
@@ -107,7 +107,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 23 ] Hoc si placet, iam efficies, ut mundus optime librum legere videatur; Zenonis enim vestigiis hoc modo rationem poteris concludere: 'Quod litteratum est, id est melius, quam quod non est litteratum; nihil autem mundo melius; litteratus igitur est mundus' &#151;isto modo etiam disertus et quidem mathematicus, musicus, omni denique doctrina eruditus, postremo philosophus erit mundus. Saepe dixisti nihil fieri sine deo nec ullam vim esse naturae, ut sui dissimilia posset effingere: concedam non modo animantem et sapientem esse mundum, sed fidicinem etiam et tubicinem, quoniam earum quoque artium homines ex eo procreantur? Nihil igitur adfert pater iste Stoicorum, quare mundum ratione uti putemus, nec cur animantem quidem esse. Non est igitur mundus deus; et tamen nihil est eo melius: nihil est enim eo pulchrius, nihil salutarius nobis, nihil ornatius aspectu motuque constantius. Quod si mundus universus non est deus, ne stellae quidem, quas tu innumerabilis in deorum numero reponebas. Quarum te cursus aequabiles aeternique delectabant, nec mehercule iniuria, sunt enim admirabili incredibilique constantia. 
+ [ 23 ] Hoc si placet, iam efficies, ut mundus optime librum legere videatur; Zenonis enim vestigiis hoc modo rationem poteris concludere: 'Quod litteratum est, id est melius, quam quod non est litteratum; nihil autem mundo melius; litteratus igitur est mundus' —isto modo etiam disertus et quidem mathematicus, musicus, omni denique doctrina eruditus, postremo philosophus erit mundus. Saepe dixisti nihil fieri sine deo nec ullam vim esse naturae, ut sui dissimilia posset effingere: concedam non modo animantem et sapientem esse mundum, sed fidicinem etiam et tubicinem, quoniam earum quoque artium homines ex eo procreantur? Nihil igitur adfert pater iste Stoicorum, quare mundum ratione uti putemus, nec cur animantem quidem esse. Non est igitur mundus deus; et tamen nihil est eo melius: nihil est enim eo pulchrius, nihil salutarius nobis, nihil ornatius aspectu motuque constantius. Quod si mundus universus non est deus, ne stellae quidem, quas tu innumerabilis in deorum numero reponebas. Quarum te cursus aequabiles aeternique delectabant, nec mehercule iniuria, sunt enim admirabili incredibilique constantia. 
  
 
  
@@ -115,7 +115,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 25 ] quod vos cum facere non potestis, tamquam in aram confugitis ad deum. Et Chrysippus tibi acute dicere videbatur, homo sine dubio versutus et callidus &#151; versutos eos appello, quorum celeriter mens versatur, callidos autem, quorum tamquam manus opere, sic animus usu concalluit &#151;; is igitur 'Si aliquid est', inquit, 'quod homo efficere non possit, qui id efficit, melior est homine; homo autem haec, quae in mundo sunt, efficere non potest; qui potuit igitur, is praestat homini; homini autem praestare quis possit nisi deus; est igitur deus'. Haec omnia in eodem, quo illa Zenonis, errore versantur. 
+ [ 25 ] quod vos cum facere non potestis, tamquam in aram confugitis ad deum. Et Chrysippus tibi acute dicere videbatur, homo sine dubio versutus et callidus — versutos eos appello, quorum celeriter mens versatur, callidos autem, quorum tamquam manus opere, sic animus usu concalluit —; is igitur 'Si aliquid est', inquit, 'quod homo efficere non possit, qui id efficit, melior est homine; homo autem haec, quae in mundo sunt, efficere non potest; qui potuit igitur, is praestat homini; homini autem praestare quis possit nisi deus; est igitur deus'. Haec omnia in eodem, quo illa Zenonis, errore versantur. 
  
 
  
@@ -123,7 +123,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 27 ] At enim quaerit apud Xenophontem Socrates, unde animum arripuerimus, si nullus fuerit in mundo. Et ego quaero, unde orationem, unde numeros, unde cantus; nisi vero loqui solem cum Iuna putamus, cum propius accesserit, aut ad harmoniam canere mundum, ut Pythagoras existimat. Naturae ista sunt, Balbe, naturae non artificiose ambulantis, ut ait Zeno &#151; quod quidem quale sit, iam videbimus &#151;, sed omnia cientis et agitantis motibus et mutationibus suis. 
+ [ 27 ] At enim quaerit apud Xenophontem Socrates, unde animum arripuerimus, si nullus fuerit in mundo. Et ego quaero, unde orationem, unde numeros, unde cantus; nisi vero loqui solem cum Iuna putamus, cum propius accesserit, aut ad harmoniam canere mundum, ut Pythagoras existimat. Naturae ista sunt, Balbe, naturae non artificiose ambulantis, ut ait Zeno — quod quidem quale sit, iam videbimus —, sed omnia cientis et agitantis motibus et mutationibus suis. 
  
 
  
@@ -171,7 +171,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 39 ] Nec ratione igitur utentem nec virtute ulla praeditum deum intellegere qui possumus? Nec vero volgi atque imperitorum inscitiam despicere possum, cum ea considero, quae dicuntur a Stoicis. Sunt enim illa imperitorum: piscem Syri venerantur, omne fere genus bestiarum Aegyptii consecraverunt; iam vero in Graecia multos habent ex hominibus deos, Alabandum Alabandis, Tenedi Tenen, Leucotheam, quae fuit Ino, et eius Palaemonem filium cuncta Graecia &#151; Herculem, Aesculapium, Tyndaridas, Romulum nostrum aliosque compluris, quos quasi novos et adscripticios cives in caelum receptos putant. 
+ [ 39 ] Nec ratione igitur utentem nec virtute ulla praeditum deum intellegere qui possumus? Nec vero volgi atque imperitorum inscitiam despicere possum, cum ea considero, quae dicuntur a Stoicis. Sunt enim illa imperitorum: piscem Syri venerantur, omne fere genus bestiarum Aegyptii consecraverunt; iam vero in Graecia multos habent ex hominibus deos, Alabandum Alabandis, Tenedi Tenen, Leucotheam, quae fuit Ino, et eius Palaemonem filium cuncta Graecia — Herculem, Aesculapium, Tyndaridas, Romulum nostrum aliosque compluris, quos quasi novos et adscripticios cives in caelum receptos putant. 
  
 
  
@@ -183,7 +183,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 42 ] Quamquam quem potissimum Herculem colamus, scire sane velim; pluris enim tradunt nobis ii, qui interiores scrutantur et reconditas litteras, antiquissimum Iove natum &#151; sed item Iove antiquissimo, nam Ioves quoque pluris in priscis Graecorum litteris invenimus: ex eo igitur et Lysithoe est is Hercules, quem concertavisse cum Apolline de tripode accepimus. Alter traditur Nilo natus Aegyptius, quem aiunt Phrygias litteras conscripsisse. Tertius est ex Idaeis Digitis; cui inferias adferunt Cretes. Quartus Iovis est et Asteriae, Latonae sororis, qui Tyri maxime colitur, cuius Carthaginem filiam ferunt; quintus in India, qui Belus dicitur, sextus hic ex Alcmena, quem Iuppiter genuit, sed tertius Iuppiter, quoniam, ut iam docebo, pluris Ioves etiam accepimus. 
+ [ 42 ] Quamquam quem potissimum Herculem colamus, scire sane velim; pluris enim tradunt nobis ii, qui interiores scrutantur et reconditas litteras, antiquissimum Iove natum — sed item Iove antiquissimo, nam Ioves quoque pluris in priscis Graecorum litteris invenimus: ex eo igitur et Lysithoe est is Hercules, quem concertavisse cum Apolline de tripode accepimus. Alter traditur Nilo natus Aegyptius, quem aiunt Phrygias litteras conscripsisse. Tertius est ex Idaeis Digitis; cui inferias adferunt Cretes. Quartus Iovis est et Asteriae, Latonae sororis, qui Tyri maxime colitur, cuius Carthaginem filiam ferunt; quintus in India, qui Belus dicitur, sextus hic ex Alcmena, quem Iuppiter genuit, sed tertius Iuppiter, quoniam, ut iam docebo, pluris Ioves etiam accepimus. 
  
 
  
@@ -191,7 +191,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 44 ] At id quidem repudiandum; ne Orcus quidem igitur; quid dicitis ergo de fratribus?' Haec Carneades aiebat, non ut deos tolleret &#151; quid enim philosopho minus conveniens &#151;, sed ut Stoicos nihil de dis explicare convinceret; itaque insequebatur: 'Quid enim', aiebat, 'si hi fratres sunt in numero deorum, num de patre eorum Saturno negari potest, quem volgo maxime colunt ad occidentem? Qui si est deus, patrem quoque eius Caelum esse deum confitendum est. Quod si ita est, Caeli quoque parentes di habendi sunt Aether et Dies eorumque fratres et sorores, qui a genealogis antiquis sic nominantur &#151; Amor, Dolus, Metus, Labor, Invidentia, Fatum, Senectus, Mors, Tenebrae, Miseria, Querella, Gratia, Fraus, Pertinacia, Parcae, Hesperides, Somnia; quos omnis Erebo et Nocte natos ferunt. Aut igitur haec monstra probanda sunt aut prima illa tollenda. 
+ [ 44 ] At id quidem repudiandum; ne Orcus quidem igitur; quid dicitis ergo de fratribus?' Haec Carneades aiebat, non ut deos tolleret — quid enim philosopho minus conveniens —, sed ut Stoicos nihil de dis explicare convinceret; itaque insequebatur: 'Quid enim', aiebat, 'si hi fratres sunt in numero deorum, num de patre eorum Saturno negari potest, quem volgo maxime colunt ad occidentem? Qui si est deus, patrem quoque eius Caelum esse deum confitendum est. Quod si ita est, Caeli quoque parentes di habendi sunt Aether et Dies eorumque fratres et sorores, qui a genealogis antiquis sic nominantur — Amor, Dolus, Metus, Labor, Invidentia, Fatum, Senectus, Mors, Tenebrae, Miseria, Querella, Gratia, Fraus, Pertinacia, Parcae, Hesperides, Somnia; quos omnis Erebo et Nocte natos ferunt. Aut igitur haec monstra probanda sunt aut prima illa tollenda. 
  
 
  
@@ -207,7 +207,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 48 ] Quid deinde, Ino dea ducetur et Leukothea a Graecis, a nobis Matuta dicetur, cum sit Cadmi filia, Circe autem er Pasiphae et Aeeta e Perseide Oceani filia natae patre Sole in deorum numero non habebuntur? Quamquam Circen quoque coloni nostri Cercienses religiose colunt. Ergo hanc deam ducis: quid Medeae respondebis, quae duobus dis avis, Sole et Oceano, Aeeta patre, matre Idyia procreata est, quid huius Absyrto fratri &#151; qui est apud Pacuvium Aegialeus, sed illud nomen veterum litteris usitatius &#151;? Qui si di non sunt, vereor, quid agat Ino; haec enim omnia ex eodem fonte fluxerunt. 
+ [ 48 ] Quid deinde, Ino dea ducetur et Leukothea a Graecis, a nobis Matuta dicetur, cum sit Cadmi filia, Circe autem er Pasiphae et Aeeta e Perseide Oceani filia natae patre Sole in deorum numero non habebuntur? Quamquam Circen quoque coloni nostri Cercienses religiose colunt. Ergo hanc deam ducis: quid Medeae respondebis, quae duobus dis avis, Sole et Oceano, Aeeta patre, matre Idyia procreata est, quid huius Absyrto fratri — qui est apud Pacuvium Aegialeus, sed illud nomen veterum litteris usitatius —? Qui si di non sunt, vereor, quid agat Ino; haec enim omnia ex eodem fonte fluxerunt. 
  
 
  
@@ -223,7 +223,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 52 ] Iam si est Ceres a gerendo &#151; ita enim dicebas &#151;, terra ipsa dea est et ita habetur; quae est enim alia Tellus; sin terra, mare etiam, quem Neptunum esse dicebas; ergo et flumina et fontes. Itaque et Fontis delubrum Masso ex Corsica dedicavit, et in augurum precatione Tiberinum, Spinonem, Anemonem, Nodinum, alia propinquorum fluminum nomina videmus. Ergo hoc aut in inmensum serpet aut nihil horum recipiemus; nec ilIa infinita ratio superstitionis probabitur; nihil ergo horum probandum est. 
+ [ 52 ] Iam si est Ceres a gerendo — ita enim dicebas —, terra ipsa dea est et ita habetur; quae est enim alia Tellus; sin terra, mare etiam, quem Neptunum esse dicebas; ergo et flumina et fontes. Itaque et Fontis delubrum Masso ex Corsica dedicavit, et in augurum precatione Tiberinum, Spinonem, Anemonem, Nodinum, alia propinquorum fluminum nomina videmus. Ergo hoc aut in inmensum serpet aut nihil horum recipiemus; nec ilIa infinita ratio superstitionis probabitur; nihil ergo horum probandum est. 
  
 
  
@@ -323,7 +323,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 77 ] Poetarum ista sunt; nos autem philosophi esse volumus, rerum auctores, non fabularum. Atque hi tamen ipsi di poetici, si scissent perniciosa fore illa filiis, peccasse in beneficio putarentur. Et si verum est, quod Aristo Chius dicere solebat, nocere audientibus philosophos is, qui bene dicta male interpretarentur &#151; posse enim asotus ex Aristippi, acerbos e Zenonis schola exire &#151; prorsus, si, qui audierunt, vitiosi essent discessuri, quod perverse philosophorum disputationem interpretarentur, tacere praestaret philosophis quam is, qui se audissent, nocere. 
+ [ 77 ] Poetarum ista sunt; nos autem philosophi esse volumus, rerum auctores, non fabularum. Atque hi tamen ipsi di poetici, si scissent perniciosa fore illa filiis, peccasse in beneficio putarentur. Et si verum est, quod Aristo Chius dicere solebat, nocere audientibus philosophos is, qui bene dicta male interpretarentur — posse enim asotus ex Aristippi, acerbos e Zenonis schola exire — prorsus, si, qui audierunt, vitiosi essent discessuri, quod perverse philosophorum disputationem interpretarentur, tacere praestaret philosophis quam is, qui se audissent, nocere. 
  
 
  
@@ -367,7 +367,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 88 ] neque Herculi quisquam decumam vovit umquam, si sapiens factus esset &#151; quamquam Pythagoras, cum in geometria quiddam novi invenisset, Musis bovem inmolavisse dicitur; sed id quidem non credo, quoniam ille ne Apollini quidem Delio hostiam inmolare voluit, ne aram sanguine aspergeret. Ad rem autem ut redeam, iudicium hoc omnium mortalium est, fortunam a deo petendam, a se ipso sumendam esse sapientiam. Quamvis licet Menti delubra et Virtuti et Fidei et Spei consecremus, tamen haec in nobis ipsis sita videmus; salutis, opis, victoriae facultas a dis expetenda est. Inproborum igitur prosperitates secundaeque res redarguunt, ut Diogenes dicebat, vim omnem deorum ac potestatem. 
+ [ 88 ] neque Herculi quisquam decumam vovit umquam, si sapiens factus esset — quamquam Pythagoras, cum in geometria quiddam novi invenisset, Musis bovem inmolavisse dicitur; sed id quidem non credo, quoniam ille ne Apollini quidem Delio hostiam inmolare voluit, ne aram sanguine aspergeret. Ad rem autem ut redeam, iudicium hoc omnium mortalium est, fortunam a deo petendam, a se ipso sumendam esse sapientiam. Quamvis licet Menti delubra et Virtuti et Fidei et Spei consecremus, tamen haec in nobis ipsis sita videmus; salutis, opis, victoriae facultas a dis expetenda est. Inproborum igitur prosperitates secundaeque res redarguunt, ut Diogenes dicebat, vim omnem deorum ac potestatem. 
  
 
  
@@ -387,7 +387,7 @@ Cicero: De Natura Deorum III
  
 
  
- [ 93 ] 'Non curat singulos homines.' Non mirum: ne civitates quidem; non eas: ne nationes quidem et gentis. Quod si has etiam contemnet, quid mirum est omne ab ea genus humanum esse contemptum? Sed quomodo idem dicitis non omnia deos persequi, idem voltis a dis inmortalibus hominibus dispertiri ac dividi somnia &#151; idcirco haec tecum, quia vestra est de somniorum veritate sententia &#151;, atque idem etiam vota suscipi dicitis oportere? Nempe singuli vovent, audit igitur mens divina etiam de singulis; videtis ergo non esse eam tam occupatam, quam putabatis. Fac esse distentam, caelum versantem, terram tuentem, maria moderantem: cur tam multos deos nihil agere et cessare patitur, cur non rebus humanis aliquos otiosos deos praeficit, qui a te, Balbe, innumerabiles explicati sunt? Haec fere dicere habui de natura deorum, non ut eam tollerem, sed ut intellegeretis, quam esset obscura et quam difficiles explicatus haberet." 
+ [ 93 ] 'Non curat singulos homines.' Non mirum: ne civitates quidem; non eas: ne nationes quidem et gentis. Quod si has etiam contemnet, quid mirum est omne ab ea genus humanum esse contemptum? Sed quomodo idem dicitis non omnia deos persequi, idem voltis a dis inmortalibus hominibus dispertiri ac dividi somnia — idcirco haec tecum, quia vestra est de somniorum veritate sententia —, atque idem etiam vota suscipi dicitis oportere? Nempe singuli vovent, audit igitur mens divina etiam de singulis; videtis ergo non esse eam tam occupatam, quam putabatis. Fac esse distentam, caelum versantem, terram tuentem, maria moderantem: cur tam multos deos nihil agere et cessare patitur, cur non rebus humanis aliquos otiosos deos praeficit, qui a te, Balbe, innumerabiles explicati sunt? Haec fere dicere habui de natura deorum, non ut eam tollerem, sed ut intellegeretis, quam esset obscura et quam difficiles explicatus haberet." 
  
 
  

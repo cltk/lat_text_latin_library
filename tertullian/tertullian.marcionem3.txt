@@ -576,7 +576,7 @@ supra legis de Christo? Tempestivus decore praeter filios hominum, effusa est gr
 ense cingebat, ei de tempestivitate decoris et labiorum gratia 
 blandiebatur. Sic item subiungens, Et extende et prosperare et 
 regna, adiecit propter veritatem et lenitatem et iustitiam. Quis 
-enim &lt;ea&gt; ense operabitur, et non contraria potius,
+enim <ea> ense operabitur, et non contraria potius,
 dolum et 
 asperitatem et iniustitiam, propria scilicet negotia proeliorum? 
 Videamus ergo an alius sit ensis ille, cuius alius est actus. [3] Nam 
@@ -612,7 +612,7 @@ non fuit bellator, quia non talis ab Esaia praedicatur.
  15.  [1] De quaestione carnis et per eam nativitatis et unius interim 
 nominis Emmanuelis hucusque. De ceteris vero nominibus et inprimis Christi quid pars diversa respondebit? Si proinde commune est apud vos Christi nomen quemadmodum et dei, ut sicut 
 utriusque dei filium Christum competat dici, sic utrumque patrem 
-&lt;et&gt; dominum, certe ratio huic argumentationi
+<et> dominum, certe ratio huic argumentationi
 refragabitur. [2] Dei 
 enim nomen quasi naturale divinitatis potest in omnes communicari quibus divinitas vindicatur, sicut et idolis, dicente apostolo, 
 Nam et sunt qui dicuntur dii sive in caelo sive in terris. Christi 
@@ -660,7 +660,7 @@ duo miscuit, speratum et insperatum, expugnatur utrumque
 consilium eius. Sive enim ideo Christus, ut interim quasi creatoris 
 irreperet, obstrepit Iesus, quia non sperabatur Iesus in
 Christo 
-creatoris: sive &lt;ideo Iesus&gt; ut alterius haberetur, non
+creatoris: sive <ideo Iesus> ut alterius haberetur, non
 sinit Christus 
 quia non alterius sperabatur Christus quam creatoris. [3] Quid 
 horum constare possit ignoro. Constabit autem utrumque in 
@@ -673,7 +673,7 @@ in terram promissionis melle et lacte manantem, id est vitae
 aeternae possessionem, qua nihil dulcius, idque non per Moysen, 
 id est non per legis disciplinam, sed per Iesum, per evangelii 
 gratiam, provenire habebat, circumcisis nobis petrina acie, id est 
-&lt;praeceptis&gt; Christi, [5] petra enim Christus,óideo
+<praeceptis> Christi, [5] petra enim Christus,óideo
 is vir, qui in 
 huius sacramenti imagines parabatur, etiam nominis dominici 
 inauguratus est figura, Iesus cognominatus. Hoc nomen ipse 
@@ -772,7 +772,7 @@ haeresi, qua scilicet Christum sunt persecuti; in concilium eorum
 ne venerit anima mea, et in stationem eorum ne incubuerint 
 iecora mea, quia in indignatione sua interfecerunt homines, id 
 est prophetas, et in concupiscentia sua ceciderunt nervos tauro, 
-id est Christo, quem post necem prophetarum suffigendo, &lt;in&gt; nervos utique eius clavis desaevierunt. Ceterum vanum, si post 
+id est Christo, quem post necem prophetarum suffigendo, <in> nervos utique eius clavis desaevierunt. Ceterum vanum, si post 
 homicidia alicuius bovis illis exprobrat carnificinam. [6] Iam vero 
 Moyses, quid utique tunc tantum, cum Iesus adversus Amalech 
 proeliabatur, expansis manibus orabat residens, quando in rebus 
@@ -1086,7 +1086,7 @@ evigilavit et
 primum loci horrore concussus est, convertitur ad interpretationem somnii? Cum enim dixisset, Quam terribilis est locus 
 iste! Non est, inquit, aliud, sed aedes dei, et haec porta caeli. 
 Christum dominum enim viderat, templum dei et portam eundem, per quem aditur caelum. Et utique portam caeli non nominasset, si caelum non aditur apud creatorem. Sed est et porta 
-quae recipit, et &lt;via&gt; quae perducit, strata iam a
+quae recipit, et <via> quae perducit, strata iam a
 Christo. De quo 
 Amos: Qui aedificat in caelum ascensum suum, utique non sibi 
 soli, sed et suis, qui cum illo erunt. [11] Et circumdabis enim illos

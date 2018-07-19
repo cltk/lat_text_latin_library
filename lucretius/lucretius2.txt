@@ -97,7 +97,7 @@ Suave, mari magno turbantibus aequora ventis
  avius a vera longe ratione vagaris. 
  nam quoniam per inane vagantur, cuncta necessest 
  aut gravitate sua ferri primordia rerum 
- aut ictu forte alterius. nam &lt;cum&gt; cita saepe    85 
+ aut ictu forte alterius. nam <cum> cita saepe    85 
  obvia conflixere, fit ut diversa repente 
  dissiliant; neque enim mirum, durissima quae sint 
  ponderibus solidis neque quicquam a tergibus obstet. 
@@ -116,7 +116,7 @@ Suave, mari magno turbantibus aequora ventis
  exiguis intervallis convecta resultant, 
  indupedita suis perplexis ipsa figuris, 
  haec validas saxi radices et fera ferri 
- corpora constituunt et cetera &lt;de&gt; genere horum. 
+ corpora constituunt et cetera <de> genere horum. 
  paucula quae porro magnum per inane vagantur,    105 
  cetera dissiliunt longe longeque recursant 
  in magnis intervallis; haec aera rarum 
@@ -149,7 +149,7 @@ Suave, mari magno turbantibus aequora ventis
  inde ea quae parvo sunt corpora conciliatu 
  et quasi proxima sunt ad viris principiorum,    135 
  ictibus illorum caecis inpulsa cientur, 
- ipsaque &lt;pro&gt;porro paulo maiora lacessunt. 
+ ipsaque <pro>porro paulo maiora lacessunt. 
  sic a principiis ascendit motus et exit 
  paulatim nostros ad sensus, ut moveantur 
  illa quoque, in solis quae lumine cernere quimus    140 
@@ -218,12 +218,12 @@ Suave, mari magno turbantibus aequora ventis
  quin vacuum per inane deorsum cuncta ferantur. 
  sic igitur debent flammae quoque posse per auras 
  aeris expressae sursum succedere, quamquam 
- pondera, quantum in &lt;se&gt; est, deorsum &lt;de&gt;ducere pugnent.    205 
+ pondera, quantum in <se> est, deorsum <de>ducere pugnent.    205 
  nocturnasque faces caeli sublime volantis 
  nonne vides longos flammarum ducere tractus 
  in quas cumque dedit partis natura meatum? 
  non cadere in terras stellas et sidera cernis? 
- sol etiam &lt;caeli&gt; de vertice dissipat omnis    210 
+ sol etiam <caeli> de vertice dissipat omnis    210 
  ardorem in partis et lumine conserit arva; 
  in terras igitur quoque solis vergitur ardor. 
  transversosque volare per imbris fulmina cernis, 
@@ -260,12 +260,12 @@ Suave, mari magno turbantibus aequora ventis
  corpora; nec plus quam minimum, ne fingere motus 
  obliquos videamur et id res vera refutet.    245 
  namque hoc in promptu manifestumque esse videmus, 
- pondera, quantum in &lt;se&gt; est, non posse obliqua meare, 
+ pondera, quantum in <se> est, non posse obliqua meare, 
  ex supero cum praecipitant, quod cernere possis; 
- sed nihil omnino &lt;recta&gt; regione viai 
+ sed nihil omnino <recta> regione viai 
  declinare quis est qui possit cernere sese?    250 
   Denique si semper motu conectitur omnis 
- et vetere exoritur &lt;motus&gt; novus ordine certo 
+ et vetere exoritur <motus> novus ordine certo 
  nec declinando faciunt primordia motus 
  principium quoddam, quod fati foedera rumpat, 
  ex infinito ne causam causa sequatur,    255 
@@ -318,7 +318,7 @@ Suave, mari magno turbantibus aequora ventis
  quantum cuique datum est per foedera naturai. 
  nec rerum summam commutare ulla potest vis; 
  nam neque quo possit genus ullum materiai 
- effugere ex omni quicquam est &lt;extra&gt;, neque in omne    305 
+ effugere ex omni quicquam est <extra>, neque in omne    305 
  unde coorta queat nova vis inrumpere et omnem 
  naturam rerum mutare et vertere motus. 
   Illud in his rebus non est mirabile, quare, 
@@ -344,7 +344,7 @@ Suave, mari magno turbantibus aequora ventis
  icti reiectant voces ad sidera mundi 
  et circum volitant equites mediosque repente 
  tramittunt valido quatientes impete campos;    330 
- et tamen est quidam locus altis montibus, &lt;unde&gt; 
+ et tamen est quidam locus altis montibus, <unde> 
  stare videntur et in campis consistere fulgor. 
   Nunc age, iam deinceps cunctarum exordia rerum 
  qualia sint et quam longe distantia formis, 
@@ -435,13 +435,13 @@ Suave, mari magno turbantibus aequora ventis
  semine constituas, oculos qui pascere possunt, 
  et qui conpungunt aciem lacrimareque cogunt    420 
  aut foeda specie foedi turpesque videntur. 
- omnis enim, sensus quae mulcet cumque, &lt;tibi res&gt; 
+ omnis enim, sensus quae mulcet cumque, <tibi res> 
  haut sine principiali aliquo levore creatast; 
  at contra quae cumque molesta atque aspera constat, 
  non aliquo sine materiae squalore repertast.    425 
   Sunt etiam quae iam nec levia iure putantur 
  esse neque omnino flexis mucronibus unca, 
- sed magis angellis paulum prostantibus, &lt;ut quae&gt; 
+ sed magis angellis paulum prostantibus, <ut quae> 
  titillare magis sensus quam laedere possint, 
  fecula iam quo de genere est inulaeque sapores.    430 
   Denique iam calidos ignis gelidamque pruinam 
@@ -481,7 +481,7 @@ Suave, mari magno turbantibus aequora ventis
  sudor uti maris est, minime mirabile debet    465 
        * * *            465a 
  nam quod fluvidus est, e levibus atque rotundis 
- est, sed levibus &lt;sunt hamata&gt; admixta doloris 
+ est, sed levibus <sunt hamata> admixta doloris 
  corpora. nec tamen haec retineri hamata necessust: 
  scilicet esse globosa tamen, cum squalida constent, 
  provolvi simul ut possint et laedere sensus.    470 
@@ -526,7 +526,7 @@ Suave, mari magno turbantibus aequora ventis
  omnia sic partis, ut diximus in melioris; 
  namque aliis aliud retro quoque taetrius esset    510 
  naribus auribus atque oculis orisque sapori. 
- quae quoniam non sunt, &lt;sed&gt; rebus reddita certa 
+ quae quoniam non sunt, <sed> rebus reddita certa 
  finis utrimque tenet summam, fateare necessest 
  materiem quoque finitis differe figuris. 
  denique ab ignibus ad gelidas hiemum usque pruinas    515 
@@ -699,7 +699,7 @@ Suave, mari magno turbantibus aequora ventis
  reddita sunt cum odore in primis pleraque poma.    681 
  haec igitur variis debent constare figuris; 
  nidor enim penetrat qua fucus non it in artus, 
- fucus item sorsum, &lt;sorsum&gt; sapor insinuatur 
+ fucus item sorsum, <sorsum> sapor insinuatur 
  sensibus; ut noscas primis differre figuris.    685 
  dissimiles igitur formae glomeramen in unum 
  conveniunt et res permixto semine constant. 
@@ -869,7 +869,7 @@ Suave, mari magno turbantibus aequora ventis
  naturam, nullam quae mittat naribus auram, 
  quam minime ut possit mixtos in corpore odores 
  concoctosque suo contractans perdere viro, 
- propter eandem &lt;rem&gt; debent primordia rerum 
+ propter eandem <rem> debent primordia rerum 
  non adhibere suum gignundis rebus odorem    855 
  nec sonitum, quoniam nihil ab se mittere possunt, 
  nec simili ratione saporem denique quemquam 
@@ -897,7 +897,7 @@ Suave, mari magno turbantibus aequora ventis
  ergo omnes natura cibos in corpora viva 
  vertit et hinc sensus animantum procreat omnes,    880 
  non alia longe ratione atque arida ligna 
- explicat in flammas et &lt;in&gt; ignis omnia versat. 
+ explicat in flammas et <in> ignis omnia versat. 
  iamne vides igitur magni primordia rerum 
  referre in quali sint ordine quaeque locata 
  et commixta quibus dent motus accipiantque?    885 
@@ -934,7 +934,7 @@ Suave, mari magno turbantibus aequora ventis
  vitali ut possint consentire undique sensu.    915 
  qui poterunt igitur rerum primordia dici 
  et leti vitare vias, animalia cum sint, 
- atque animalia &lt;sint&gt; mortalibus una eademque? 
+ atque animalia <sint> mortalibus una eademque? 
  quod tamen ut possint, at coetu concilioque 
  nil facient praeter volgum turbamque animantum,    920 
  scilicet ut nequeant homines armenta feraeque 
@@ -1065,7 +1065,7 @@ Suave, mari magno turbantibus aequora ventis
  quid sit ibi porro, quo prospicere usque velit mens 
  atque animi iactus liber quo pervolet ipse. 
   Principio nobis in cunctas undique partis 
- et latere ex utroque &lt;supra&gt; supterque per omne 
+ et latere ex utroque <supra> supterque per omne 
  nulla est finis; uti docui, res ipsaque per se    1050 
  vociferatur, et elucet natura profundi. 
  nullo iam pacto veri simile esse putandumst, 
@@ -1131,7 +1131,7 @@ Suave, mari magno turbantibus aequora ventis
  nam sua cuique, locis ex omnibus, omnia plagis 
  corpora distribuuntur et ad sua saecla recedunt, 
  umor ad umorem, terreno corpore terra 
- crescit et ignem ignes procudunt aetheraque &lt;aether&gt;,    1115 
+ crescit et ignem ignes procudunt aetheraque <aether>,    1115 
  donique ad extremum crescendi perfica finem 
  omnia perduxit rerum natura creatrix; 
  ut fit ubi nihilo iam plus est quod datur intra 
@@ -1163,7 +1163,7 @@ Suave, mari magno turbantibus aequora ventis
   Sic igitur magni quoque circum moenia mundi 
  expugnata dabunt labem putrisque ruinas;    1145 
  omnia debet enim cibus integrare novando 
- et fulcire cibus, &lt;cibus&gt; omnia sustentare, 
+ et fulcire cibus, <cibus> omnia sustentare, 
  ne quiquam, quoniam nec venae perpetiuntur 
  quod satis est, neque quantum opus est natura ministrat. 
   Iamque adeo fracta est aetas effetaque tellus    1150 
@@ -1184,7 +1184,7 @@ Suave, mari magno turbantibus aequora ventis
  crebrius, in cassum magnos cecidisse labores,    1165 
  et cum tempora temporibus praesentia confert 
  praeteritis, laudat fortunas saepe parentis. 
- tristis item vetulae vitis sator atque &lt;vietae&gt; 
+ tristis item vetulae vitis sator atque <vietae> 
  temporis incusat momen saeclumque fatigat, 
  et crepat, antiquum genus ut pietate repletum    1170 
  perfacile angustis tolerarit finibus aevom, 

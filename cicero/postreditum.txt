@@ -53,7 +53,7 @@ Cicero: Post Reditum in Senatu
  
 
  
-[11] Quorum alter tamen neque me neque quemquam fefellit. quis enim ullam ullius boni spem haberet in eo, cuius primum tempus aetatis palam fuisset ad omnium libidines divulgatum, qui ne a sanctissima quidem parte corporis potuisset hominum impuram intemperantiam propulsare? qui, cum suam rem non minus strenue quam postea publicam confecisset, egestatem et luxuriem domestico lenocinio sustentavit, qui, nisi in aram tribunatus confugisset, neque vim praetoris nec multitudinem creditorum nec bonorum proscriptionem effugere potuisset&#151;quo in magistratu nisi rogationem de piratico bello tulisset, profecto egestate et improbitate coactus piraticam ipse fecisset, ac minore quidem cum rei publicae detrimento, quam quo intra moenia nefarius hostis praedoque versatus est -, quo inspectante ac sedente legem tribunus plebis tulit, ne auspiciis obtemperaretur, ne obnuntiare concilio aut comitiis, ne legi intercedere liceret, ut lex Aelia et Fufia ne valeret, quae nostri maiores certissima subsidia rei publicae contra tribunicios furores esse voluerunt.
+[11] Quorum alter tamen neque me neque quemquam fefellit. quis enim ullam ullius boni spem haberet in eo, cuius primum tempus aetatis palam fuisset ad omnium libidines divulgatum, qui ne a sanctissima quidem parte corporis potuisset hominum impuram intemperantiam propulsare? qui, cum suam rem non minus strenue quam postea publicam confecisset, egestatem et luxuriem domestico lenocinio sustentavit, qui, nisi in aram tribunatus confugisset, neque vim praetoris nec multitudinem creditorum nec bonorum proscriptionem effugere potuisset—quo in magistratu nisi rogationem de piratico bello tulisset, profecto egestate et improbitate coactus piraticam ipse fecisset, ac minore quidem cum rei publicae detrimento, quam quo intra moenia nefarius hostis praedoque versatus est -, quo inspectante ac sedente legem tribunus plebis tulit, ne auspiciis obtemperaretur, ne obnuntiare concilio aut comitiis, ne legi intercedere liceret, ut lex Aelia et Fufia ne valeret, quae nostri maiores certissima subsidia rei publicae contra tribunicios furores esse voluerunt.
  
 
  
@@ -65,7 +65,7 @@ Cicero: Post Reditum in Senatu
  
 
  
-Nam ille alter, Caesoninus Calventius, ab adulescentia versatus est in foro, cum eum praeter simulatam versutamque tristitiam nulla res commendaret, non iuris &lt;notitia&gt;, non dicendi vi&lt;sS, non scien&gt;tia rei militaris, non cognoscendorum hominum studium, non liberalitas; quem praeteriens cum incultum, horridum maestumque vidisses, etiam si agrestem et inhumanum existimares, tamen libidinosum et perditum non putares.
+Nam ille alter, Caesoninus Calventius, ab adulescentia versatus est in foro, cum eum praeter simulatam versutamque tristitiam nulla res commendaret, non iuris <notitia>, non dicendi vi<sS, non scien>tia rei militaris, non cognoscendorum hominum studium, non liberalitas; quem praeteriens cum incultum, horridum maestumque vidisses, etiam si agrestem et inhumanum existimares, tamen libidinosum et perditum non putares.
  
 
  
@@ -77,7 +77,7 @@ Nam ille alter, Caesoninus Calventius, ab adulescentia versatus est in foro, cum
  
 
  
-Is nequaquam me quidem [non]&#151;cognoram enim propter Pisonum adfinitatem, quam longe hunc ab hoc genere cognatio materna Transalpini sanguinis abstulisset -, sed vos populumque Romanum non consilio neque eloquentia, quod in multis saepe accidit, sed rugis supercilioque decepit.
+Is nequaquam me quidem [non]—cognoram enim propter Pisonum adfinitatem, quam longe hunc ab hoc genere cognatio materna Transalpini sanguinis abstulisset -, sed vos populumque Romanum non consilio neque eloquentia, quod in multis saepe accidit, sed rugis supercilioque decepit.
  
 
  
@@ -105,7 +105,7 @@ Horum consulum ruinas vos consules vestra virtute fulsistis, summa tribunorum pl
  
 
  
-[21] Iam ceterorum officia &lt;ac&gt; studia vidistis, quam cupidus mei C. Cestilius, quam studiosus vestri, quam non varius fuerit in causa.
+[21] Iam ceterorum officia <ac> studia vidistis, quam cupidus mei C. Cestilius, quam studiosus vestri, quam non varius fuerit in causa.
  
 
  

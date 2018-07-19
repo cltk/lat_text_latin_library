@@ -17,7 +17,7 @@ Ovid: Heroides XX
  
 
  
-Accipe, Cydippe, despecti namen Aconti&#151; 
+Accipe, Cydippe, despecti namen Aconti— 
   illius in pomo qui tibi verba dedit. 
 Pone metum! nihil hic iterum iurabis amanti; 
   promissam satis est te semel esse mihi. 
@@ -72,7 +72,7 @@ si non proficient artes, veniemus ad arma,
   inque tui cupido rapta ferere sinu. 
 non sum qui soleam Paridis reprehendere factum 
   nec quemquam, qui vir, posset ut esse, fuit. 
-nos quoque&#151;sed taceo. mors huius poena rapinae 
+nos quoque—sed taceo. mors huius poena rapinae 
   ut sit, erit quam te non habuisse minor. 
 aut esses formosa minus, peterere modeste; 
   audaces facie cogimur esse tua. 
@@ -254,7 +254,7 @@ haec tibi me in somnis iaculatrix scribere Phoebe;
   haec tibi me vigilem scribere iussit Amor; 
 e quibus alterius mihi iam nocuere sagittae, 
   alterius noceant ne tibi tela, cave! 
-iuncta salus nostra est&#151;miserere meique tuique: 
+iuncta salus nostra est—miserere meique tuique: 
   quid dubitas unam ferre duobus opem? 
 quod si contigerit, cum iam data signa sonabunt, 
   tinctaque votivo sanguine Delos erit, 

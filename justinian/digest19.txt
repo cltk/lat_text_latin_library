@@ -4774,7 +4774,7 @@ Pomponius 21 ad sab.
  
 
  
-Quod kalendis &lt;ianuariis?&gt; dari solet medicis et scaenicis, non est merces: itaque si quid in hisce ministeriis aliter fiat quam convenit, non ex locato, sed in factum actio dabitur.
+Quod kalendis <ianuariis?> dari solet medicis et scaenicis, non est merces: itaque si quid in hisce ministeriis aliter fiat quam convenit, non ex locato, sed in factum actio dabitur.
  
 
  

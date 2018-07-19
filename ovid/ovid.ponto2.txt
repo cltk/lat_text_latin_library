@@ -14,7 +14,7 @@ LIBER SECVNDVS
  
 
  
- I. &lt;GERMANICO&gt; 
+ I. <GERMANICO> 
  
 
  
@@ -72,7 +72,7 @@ atque ea te contra nec muri mole nec armis
   nec satis ingenio tuta fuisse loci. 
 Di tibi dent annos! A te nam cetera sumes, 
   sint modo uirtuti tempora longa tuae. 
-Quod precor eueniet&#151;sunt quaedam oracula uatum&#151;,     55 
+Quod precor eueniet—sunt quaedam oracula uatum—,     55 
   nam deus optanti prospera signa dedit. 
 Te quoque uictorem Tarpeias scandere in arces 
   laeta coronatis Roma uidebit equis 
@@ -126,7 +126,7 @@ Dixerit hoc aliquis tutum non esse: fatemur,
 Tuta petant alii: fortuna miserrima tuta est; 
   nam timor euentu deterioris abest. 
 Qui rapitur . . . . . . . . . . . . . 
-  porrigit &lt;et&gt; spinas duraque saxa . . . . . 
+  porrigit <et> spinas duraque saxa . . . . . 
 accipitremque timens pennis trepidantibus ales     35 
   audet ad humanos fessa uenire sinus, 
 nec se uicino dubitat committere tecto 
@@ -228,11 +228,11 @@ Sic tamen haec tempta, si non nocitura putabis.     125
  
 Maxime, qui claris nomen uirtutibus aequas 
   nec sinis ingenium nobilitate premi, 
-culte mihi&#151;quid enim status hic a funere differt?&#151; 
+culte mihi—quid enim status hic a funere differt?— 
   supremum uitae tempus adusque meae, 
 rem facis adflictum non auersatus amicum     5 
   qua non est aeuo rarior ulla tuo. 
-Turpe quidem dictu, sed&#151;si modo uera fatemur&#151; 
+Turpe quidem dictu, sed—si modo uera fatemur— 
   uulgus amicitias utilitate probat. 
 Cura quid expediat prius est quam quid sit honestum, 
   et cum fortuna statque caditque fides.     10 
@@ -348,7 +348,7 @@ Saepe citae longis uisae sermonibus horae,
 Saepe tuas uenit factum modo carmen ad auris 
   et noua iudicio subdita Musa tuo est. 
 Quod tu laudaras, populo placuisse putabam     15 
-  &#151;hoc pretium curae dulce recentis erat&#151; 
+  —hoc pretium curae dulce recentis erat— 
 utque meus lima rasus liber esset amici, 
   non semel admonitu facta litura tuo est. 
 Nos fora uiderunt pariter, nos porticus omnis, 
@@ -524,8 +524,8 @@ Obseruare deos ne quid mihi cedat amice
   uerbaque Fortunae uix puto posse dari.     20 
 Est illi curae me perdere, quaeque solebat 
   esse leuis, constans et bene certa nocet. 
-Crede mihi, si sum ueri tibi cognitus oris&#151; 
-  nec planis nostris casibus esse puter&#151; 
+Crede mihi, si sum ueri tibi cognitus oris— 
+  nec planis nostris casibus esse puter— 
 Cinyphiae segetis citius numerabis aristas     25 
   altaque quam multis floreat Hybla thymis 
 et quot aues motis nitantur in aere pennis 
@@ -662,7 +662,7 @@ Nam caput e nostra citius ceruice recedet     65
 quam caream raptis, o publica numina, uobis: 
   uos eritis nostrae portus et ara fugae. 
 Vos ego complectar, Geticis si cingar ab armis, 
-  utque meas aquilas, &lt;sic mea&gt; signa sequar.     70 
+  utque meas aquilas, <sic mea> signa sequar.     70 
 Aut ego me fallo nimioque cupidine ludor 
   aut spes exilii commodioris adest; 
 nam minus et minus est facies in imagine tristis 
@@ -681,8 +681,8 @@ Regia progenies, cui nobilitatis origo
 Fama loquax uestras si iam peruenit ad aures 
   me tibi finitimi parte iacere soli, 
 supplicis exaudi, iuuenum mitissime, uocem,     5 
-  quamque potes, profugo&#151;nam potes&#151;adfer opem. 
-Me fortuna tibi&#151;de qua quod non queror hoc est&#151; 
+  quamque potes, profugo—nam potes—adfer opem. 
+Me fortuna tibi—de qua quod non queror hoc est— 
   tradidit, hoc uno non inimica mihi. 
 Excipe naufragium non duro litore nostrum, 
   ne fuerit terra tutior unda tua.     10 

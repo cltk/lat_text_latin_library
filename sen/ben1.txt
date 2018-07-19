@@ -48,7 +48,7 @@ defluant, has tenax memoria custodiat, quid expectat, qui offendit, dum
 obligat? Satis aduersus illum gratus est, si quis beneficio eius
 ignoscit. Non est autem, quod tardiores faciat ad bene merendum turba
 ingratorum. Nam primum, ut dixi, nos illam augemus; deinde ne deos
-quidem inmortales ab hac tam effusa nec cess&#060;ante benign&#062;itate sacrilegi
+quidem inmortales ab hac tam effusa nec cess<ante benign>itate sacrilegi
 neclegentesque eorum deterrent: utuntur natura sua et cuncta interque
 illa ipsos munerum suorum malos interpretes iuuant. Hos sequamur duces,
 quantum humana inbecillitas patitur; demus beneficia, non feneremus.
@@ -107,8 +107,8 @@ gratiam extundit. Non audebit aduersus multa oculos adtollere; quocumque
 se conuertit memoriam suam fugiens, ibi te uideat: beneficiis illum tuis
 cinge. Quorum quae uis quaeue proprietas sit, dicam, si prius illa, quae
 ad rem non pertinent, transilire mihi permiseris, quare tres Gratiae et
-quare sorores sint, et quare manibus inplexis, et quare ridentes &#060;et
-iuuenes&#062; et uirgines solutaque ac perlucida ueste. Alii quidem uideri
+quare sorores sint, et quare manibus inplexis, et quare ridentes <et
+iuuenes> et uirgines solutaque ac perlucida ueste. Alii quidem uideri
 uolunt unam esse, quae det beneficium, alteram, quae accipiat, tertiam,
 quae reddat; alii tria beneficorum esse genera, promerentium,
 reddentium, simul accipientium reddentiumque. Sed utrumlibet ex istis
@@ -159,7 +159,7 @@ Hic uero quod acumen est? De beneficiis dicendum est et ordinanda res,
 quae maxime humanam societatem adligat; danda lex uitae, ne sub specie
 benignitatis inconsulta facilitas placeat, ne liberalitatem, quam nec
 deesse oportet nec superfluere, haec ipsa obseruatio restringat, dum
-temperat; docendi sunt &#060;libenter dare&#062;, libenter accipere, libenter
+temperat; docendi sunt <libenter dare>, libenter accipere, libenter
 reddere et magnum ipsis certamen proponere, eos, quibus obligati sunt,
 re animoque non tantum aequare sed uincere, quia, qui referre gratiam
 debet, numquam consequitur, nisi praecessit; hi docendi sunt nihil
@@ -179,14 +179,14 @@ nouas tabulas.
 
  [5] Sed quemadmodum superuacua transcurram, ita exponam necesse est
 hoc primum nobis esse discendum, quid accepto beneficio debeamus. Debere
-enim se &#060;ait&#062; alius pecuniam, quam accepit, alius consulatum, alius
+enim se <ait> alius pecuniam, quam accepit, alius consulatum, alius
 sacerdotium, alius prouinciam. Ista autem sunt meritorum signa, non
 merita. Non potest beneficium manu tangi: res animo geritur. Multum
 interest inter materiam beneficii et beneficium; itaque nec aurum nec
 argentum nec quicquam eorum, quae pro maximis accipiuntur, beneficium
 est, sed ipsa tribuentis uoluntas. Inperiti autem id, quod oculis
 incurrit et quod traditur possideturque, solum notant, cum contra illud,
-quod in re carum atque pretiosum &#060;est, parui pendunt&#062;. Haec, quae
+quod in re carum atque pretiosum <est, parui pendunt>. Haec, quae
 tenemus, quae aspicimus, in quibus cupiditas nostra haeret, caduca sunt,
 auferre nobis et fortuna et iniuria potest; beneficium etiam amisso eo,
 per quod datum est, durat; est enim recte factum, quod inritum nulla uis
@@ -213,7 +213,7 @@ sordida inlustrat, magna et in pretio habita dehonestat; ipsa, quae
 adpetuntur, neutram naturam habent, nec boni nec mali: refert, quo illa
 rector inpellat, a quo forma rebus datur. Non est beneficium ipsum, quod
 numeratur aut traditur, sicut ne in uictimis quidem, licet opimae sint
-auroque praefulgeant, deorum est honor sed &#060;in&#062; recta ac pia uoluntate
+auroque praefulgeant, deorum est honor sed <in> recta ac pia uoluntate
 uenerantium. Itaque boni etiam farre ac fitilla religiosi sunt; mali
 rursus non effugiunt inpietatem, quamuis aras sanguine multo
 cruentauerint. 
@@ -224,7 +224,7 @@ autem falsum est; non numquam enim magis nos obligat, qui dedit parua
 magnifice, qui 'regum aequauit opes animo', qui exiguum tribuit sed
 libenter, qui paupertatis suae oblitus est, dum meam respicit, qui non
 uoluntatem tantum iuuandi habuit sed cupiditatem, qui accipere se
-putauit beneficium, cum daret, qui dedit tamquam &#060;non&#062; recepturus,
+putauit beneficium, cum daret, qui dedit tamquam <non> recepturus,
 recepit, tamquam non dedisset, qui occasionem, qua prodesset, et
 occupauit et quaesiit. Contra ingrata sunt, ut dixi, licet re ac specie
 magna uideantur, quae danti aut extorquentur aut excidunt, multoque
@@ -264,7 +264,7 @@ praestat, hunc matronae humilem et sordidae libidinis et ancillariolum
 uocant. Inde decentissimum sponsaliorum genus est adulterium et in
 consensu uiduitas caelibatusque: nemo uxorem duxit, nisi qui abduxit.
 Iam rapta spargere, sparsa fera et acri auaritia recolligere certant,
-nihil pensi habere, paupertatem alienam contemnere, suam &#060;magis&#062; quam
+nihil pensi habere, paupertatem alienam contemnere, suam <magis> quam
 ullum aliud uereri malum, pacem iniuriis perturbare, inbecilliores ui ac
 metu premere. Nam prouincias spoliari et nummarium tribunal audita
 utrimque licitatione alteri addici non mirum, quoniam, quae emeris,
@@ -383,7 +383,7 @@ conuiuam dantis epulum, ubi dici potest: 'Quid enim in me contulit?
 Nempe hoc, quod et in illum uix bene notum sibi et in illum etiam
 inimicum ac turpissimum hominem. Numquid enim me dignum iudicauit? morbo
 suo morem gessit.' Quod uoles gratum esse, rarum effice: quis patitur
-sibi inputari &#060;uolgaria&#062;? Nemo haec ita interpretetur, tamquam reducam
+sibi inputari <uolgaria>? Nemo haec ita interpretetur, tamquam reducam
 liberalitatem et frenis artioribus reprimam; illa uero, in quantum
 libet, exeat, sed eat, non erret. Licet ita largiri, ut unusquisque,
 etiam si cum multis accepit, in populo se esse non putet. Nemo non

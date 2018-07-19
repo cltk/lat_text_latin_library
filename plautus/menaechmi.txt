@@ -244,7 +244,7 @@ sumus?
  MEN. Dic modo hoc quod ego te iubeo. PEN. Dico: homo
 lepidissime. 
  MEN. Ecquid audes de tuo istuc addere? PEN. Atque hilarissime. 
- MEN. Perge &lt;perge>. PEN. Non pergo hercle, nisi scio
+ MEN. Perge <perge>. PEN. Non pergo hercle, nisi scio
 qua gratia.   150 
 litigium tibi est cum uxore, eo mi abs te caveo cautius. 
  MEN. Clam uxoremst ubi pulchre habeamus atque hunc comburamus
@@ -435,8 +435,8 @@ sed eccum Menaechmum video. vae tergo meo,
 275 
 prius iam convivae ambulant ante ostium, 
 quam ego opsonatu redeo. adibo atque alloquar. 
-Menaechme, salve. MEN. Di te amabunt quisquis &lt;es>. 
- CYL. Quisquis *** &lt;es> ego sim? 
+Menaechme, salve. MEN. Di te amabunt quisquis <es>. 
+ CYL. Quisquis *** <es> ego sim? 
  MEN. Non hercle vero. CYL. Vbi convivae ceteri?  
 280 
  MEN. Quos tu convivas quaeris? CYL. Parasitum tuom. 
@@ -502,7 +502,7 @@ dum ego haec appono ad Volcani violentiam.
 330 
 ibo intro et dicam te hic adstare Erotio, 
 ut te hinc abducat potius quam hic adstes foris. 
- MEN. Iamne abiit &lt;illic>? edepol haud mendacia 
+ MEN. Iamne abiit <illic>? edepol haud mendacia 
 tua verba experior esse. MESS. Observato modo: 
 nam istic meretricem credo habitare mulierem,   
 335 
@@ -714,7 +714,7 @@ uxori surrupuisse. quoniam sentio
 481 
 errare, extemplo, quasi res cum ea esset mihi, 
 coepi adsentari: mulier quidquid dixerat, 
-idem ego dicebam. quid multis verbis &lt;opust>? 
+idem ego dicebam. quid multis verbis <opust>? 
 minore nusquam bene fui dispendio.   
 485 
  PEN. Adibo ad hominem, nam turbare gestio. 
@@ -770,7 +770,7 @@ ita me ludificant? sed concrepuit ostium.
  
 
  ANCILLA Menaechme, amare ait te multum Erotium, 
-ut hoc una opera &lt;sibi> ad aurificem deferas,   
+ut hoc una opera <sibi> ad aurificem deferas,   
 525 
 atque huc ut addas auri pondo unciam 
 iubeasque spinter novom reconcinnarier. 
@@ -794,7 +794,7 @@ et palla et spinter faxo referantur simul.
 faciendas pondo duom nummum, stalagmia, 
 ut te libenter videam, quom ad nos veneris. 
  MEN. Fiat. cedo aurum, ego manupretium dabo. 
- ANC. Da sodes abs te: &lt;ego> post reddidero tibi.  
+ ANC. Da sodes abs te: <ego> post reddidero tibi.  
 545 
  MEN. Immo cedo abs te: ego post tibi reddam duplex. 
  ANC. Non habeo. MEN. At tu, quando habebis, tum dato. 
@@ -966,10 +966,10 @@ ut dissimulat. non potes celare: rem novit probe.
 omnia hercle ego edictavi. MEN. Quid id est? MAT. Quando
 nil pudet 
 neque vis tua voluntate ipse profiteri, audi atque ades. 
-et quid tristis &lt;sim> et quid hic mihi dixerit, faxo scias. 
+et quid tristis <sim> et quid hic mihi dixerit, faxo scias. 
 palla mi est domo surrupta. MEN. Palla surruptast mihi?  
 645 
- PEN. Viden ut &lt;te> scelestus captat? huic surruptast,
+ PEN. Viden ut <te> scelestus captat? huic surruptast,
 non tibi. 
 nam profecto tibi surrupta si esset -- salva non foret. 
  MEN. Nil mihi tecum est. sed tu quid ais? MAT. Palla,
@@ -1073,14 +1073,14 @@ quae te res agitat, mulier? MAT. Etiamne, impudens,
 710 
 muttire verbum unum audes aut mecum loqui? 
  MEN. Quid tandem admisi in me, ut loqui non audeam? 
- MAT. Rogas me? &lt;o> hominis impudentem audaciam! 
+ MAT. Rogas me? <o> hominis impudentem audaciam! 
  MEN. Non tu scis, mulier, Hecubam quapropter canem 
 Graii esse praedicabant? MAT. Non equidem scio.   
 715 
  MEN. Quia idem faciebat Hecuba quod tu nunc facis: 
 omnia mala ingerebat, quemquem aspexerat. 
 itaque adeo iure coepta appellari est canes. 
- MAT. Non ego istaec &lt;tua> flagitia possum perpeti. 
+ MAT. Non ego istaec <tua> flagitia possum perpeti. 
 nam med aetatem viduam esse mavelim,     
 720 
 quam istaec flagitia tua pati quae tu facis. 
@@ -1110,7 +1110,7 @@ domo suppilas tuae uxori et tuae
 degeris amicae. satin haec recte fabulor? 
  MEN. Quaeso hercle, mulier, si scis, monstra quod bibam, 
 tuam qui possim perpeti petulantiam. 
-quem tu hominem&lt;esse me> arbitrere, nescio; 
+quem tu hominem<esse me> arbitrere, nescio; 
 ego te simitu novi cum Porthaone.  
 745 
  MAT. Si me derides, at pol illum non potes, 
@@ -1151,7 +1151,7 @@ et illi quoque haud abstinent saepe culpa.
 verum est modus tamen, quoad pati uxorem oportet; 
 nec pol filia umquam patrem accersit ad se,    
 770 
-nisi aut quid commissi aut iurgi est &lt;iusta> causa. 
+nisi aut quid commissi aut iurgi est <iusta> causa. 
 sed id quidquid est, iam sciam. atque eccam eampse 
 ante aedis et eius virum tristem video. 
 id est quod suspicabar. 
@@ -1199,8 +1199,8 @@ me despoliat, mea ornamenta clam ad meretrices degerit.
 805 
 quae insontem insimules. MAT. Quin etiam nunc habet pallam,
 pater, 
-&lt;et>spinter, quod ad hanc detulerat, nunc, quia rescivi, refert. 
- SEN. Iam ego ex hoc, ut factumst, scibo. &lt;ibo>ad hominem
+<et>spinter, quod ad hanc detulerat, nunc, quia rescivi, refert. 
+ SEN. Iam ego ex hoc, ut factumst, scibo. <ibo>ad hominem
 atque adloquar. 
 dic mi istuc, Menaechme, quod vos dissertatis, ut sciam. 
 quid tu tristis es? quid illa autem irata abs te destitit?  
@@ -1209,7 +1209,7 @@ quid tu tristis es? quid illa autem irata abs te destitit?
 deosque do testes -- SEN. Qua de re aut cuius rei rerum omnium? 
  MEN. Me neque isti male fecisse mulieri, quae me arguit 
 hanc domo ab se surrupuisse atque abstulisse *** deierat. 
-si ego intra aedis huius umquam, ubi habitat, penetravi &lt;pedem>, 
+si ego intra aedis huius umquam, ubi habitat, penetravi <pedem>, 
 815-816 
 omnium hominum exopto ut fiam miserorum miserrimus. 
 817 
@@ -1219,8 +1219,8 @@ in eas aedis intulisse ubi habitas, insanissime?
 820 
  SEN. Tun negas? MEN. Nego hercle vero. SEN. Immo
 hercle ~ludere negas; 
-nisi quo nocte hac exmigrastis. concede huc, &lt;mia>filia. 
-quid tu ais? num hinc exmigrastis? MAT. Quem in locum aut &lt;quam>ob
+nisi quo nocte hac exmigrastis. concede huc, <mia>filia. 
+quid tu ais? num hinc exmigrastis? MAT. Quem in locum aut <quam>ob
 rem, obsecro? 
  SEN. Non edepol scio. MAT. Profecto ludit te hic. non
 tu tenes? 
@@ -1260,7 +1260,7 @@ faciam quod iubes, Apollo. SEN. Fuge domum, quantum potest,
 850 
 ne hic te obtundat. MAT. Fugio. amabo, adserva istunc, mi pater, 
 ne quo hinc abeat. sumne ego mulier misera, quae illaec audio? 
- MEN. Haud male, &lt;Apollo>illanc amovi; nunc hunc impurissimum, 
+ MEN. Haud male, <Apollo>illanc amovi; nunc hunc impurissimum, 
 barbatum, tremulum Tithonum, qui cluet Cygno patre, 
 ita mihi imperas ut ego huius membra atque ossa atque artua  
 855 
@@ -1451,7 +1451,7 @@ praesto:
 nam illi, qui nil metuont, postquam malum promeriti, tunc ei metuont.]  
 983b 
 metuam haud multum. prope est quando erus ob facta pretium exsolvet. 
-&lt;eo>ego exemplo servio, tergi ut in rem esse arbitror. 
+<eo>ego exemplo servio, tergi ut in rem esse arbitror. 
 postquam in tabernam vasa et servos conlocavi, ut iusserat, 
 ita venio adversum. nunc foris pultabo, adesse ut me sciat, 
 ~ neque virum ex hoc saltu damni salvom ut educam foras. 
@@ -1529,7 +1529,7 @@ alii me negant eum esse qui sum, atque excludunt foras
 1040 
 * * *   1040a 
 vel ille qui se petere argentum modo, qui servom se meum 
-esse aiebat,&lt;meus servator,>quem ego modo emisi manu; 
+esse aiebat,<meus servator,>quem ego modo emisi manu; 
 is ait se mihi allaturum cum argento marsuppium: 
 id si attulerit, dicam ut a me abeat liber quo volet, 
 ne tum, quando sanus factus sit, a me argentum petat. 
@@ -1577,7 +1577,7 @@ quam potest.
  MESS. Adulescens, quaeso hercle eloquere tuom mihi nomen, nisi
 piget. 
  MEN. Non edepol ita promeruisti de me, ut pigeat, quae velis 
-&lt;obsequi>. mihi est Menaechmo nomen. SOS. Immo edepol mihi. 
+<obsequi>. mihi est Menaechmo nomen. SOS. Immo edepol mihi. 
  MEN. Siculus sum Syracusanus. SOS. Eadem urbs et patria
 est mihi. 
  MEN. Quid ego ex te audio? SOS. Hoc quod res est. MESS. 
@@ -1620,7 +1620,7 @@ spero fore.
 1095 
  MEN. Ita vero. MESS. Huic item Menaechmo nomen est. in
 Sicilia 
-te Syracusis natum esse dixti: &lt;et>hic natust ibi. 
+te Syracusis natum esse dixti: <et>hic natust ibi. 
 Moschum tibi patrem fuisse dixti: huic itidem fuit. 
 nunc operam potestis ambo mihi dare et vobis simul. 
  MEN. Promeruisti ut ne quid ores quod velis, quin impetres. 
@@ -1680,12 +1680,12 @@ hunc censebat te esse, credo, quom vocat te ad prandium.
 clam meam uxorem, quoi pallam surrupui dudum domo, 
 eam dedi huic. S. Hanc, dicis, frater, pallam, quam ego habeo?
  M.
- &lt;Haec
+ <Haec
 east.> 
 quo modo haec ad te pervenit? SOS. Meretrix huc ad prandium 
 1140 
 me abduxit, me sibi dedisse aiebat. prandi perbene, 
-potavi atque accubui scortum, pallam et aurum hoc &lt;abstuli>. 
+potavi atque accubui scortum, pallam et aurum hoc <abstuli>. 
  MEN. Gaudeo edepol, si quid propter me tibi evenit boni. 
 nam illa quom te ad se vocabat, memet esse credidit.  
 1144-1145 

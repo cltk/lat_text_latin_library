@@ -46,7 +46,7 @@ infesta genti strage tam late edita        30
 mihi parcit uni? cui reseruamur malo? 
 inter ruinas urbis et semper nouis 
 deflenda lacrimis funera ac populi struem 
-incolumis asto&#151;scilicet Phoebi reus. 
+incolumis asto—scilicet Phoebi reus. 
 sperare poteras sceleribus tantis dari        35 
 regnum salubre? fecimus caelum nocens. 
   Non aura gelido lenis afflatu fouet 
@@ -79,7 +79,7 @@ suaeque circa funus exequiae cadunt.
 tum propria flammis corpora alienis cremant; 
 diripitur ignis: nullus est miseris pudor.        65 
 non ossa tumuli lecta discreti tegunt: 
-arsisse satis est&#151;pars quota in cineres abit? 
+arsisse satis est—pars quota in cineres abit? 
 dest terra tumulis, iam rogos siluae negant. 
 non uota, non ars ulla correptos leuat: 
 cadunt medentes, morbus auxilium trahit.        70 
@@ -92,7 +92,7 @@ negatur uni nempe in hoc populo mihi
 mors tam parata? sperne letali manu 
 contacta regna, linque lacrimas, funera, 
 tabifica caeli uitia quae tecum inuehis 
-infaustus hospes, profuge iamdudum ocius&#151;        80 
+infaustus hospes, profuge iamdudum ocius—        80 
 uel ad parentes. Iocasta Quid iuuat, coniunx, mala 
 grauare questu? regium hoc ipsum reor: 
 aduersa capere, quoque sit dubius magis 
@@ -102,7 +102,7 @@ haud est uirile terga Fortunae dare.
  Oe. Abest pauoris crimen ac probrum procul, 
 uirtusque nostra nescit ignauos metus: 
 si tela contra stricta, si uis horrida 
-Mauortis in me rueret&#151;aduersus feros        90 
+Mauortis in me rueret—aduersus feros        90 
 audax Gigantas obuias ferrem manus. 
 nec Sphinga caecis uerba nectentem modis 
 fugi: cruentos uatis infandae tuli 
@@ -340,7 +340,7 @@ caerulea fuluis mixta oberrauit notis,
 sanguinea rursus; ultima in tenebras abit.        320 
 sed ecce pugnax ignis in partes duas 
 discedit et se scindit unius sacri 
-discors fauilla&#151;genitor, horresco intuens: 
+discors fauilla—genitor, horresco intuens: 
 libata Bacchi dona permutat cruor 
 ambitque densus regium fumus caput        325 
 ipsosque circa spissior uultus sedet 
@@ -607,7 +607,7 @@ siue ipsa tellus, ut daret functis uiam,
 compage rupta sonuit, aut ira furens        580 
 triceps catenas Cerberus mouit graues. 
   Subito dehiscit terra et immenso sinu 
-laxata patuit&#151;ipse pallentes deos 
+laxata patuit—ipse pallentes deos 
 uidi inter umbras, ipse torpentes lacus 
 noctemque ueram; gelidus in uenis stetit        585 
 haesitque sanguis. saeua prosiluit cohors 
@@ -618,7 +618,7 @@ Horrorque et una quidquid aeternae creant
 celantque tenebrae: Luctus auellens comam 
 aegreque lassum sustinens Morbus caput, 
 grauis Senectus sibimet et pendens Metus 
-auidumque populi Pestis Ogygii malum&#151;        589 
+auidumque populi Pestis Ogygii malum—        589 
 nos liquit animus; ipsa quae ritus senis        595 
 artesque norat stupuit. Intrepidus parens 
 audaxque damno conuocat Ditis feri 
@@ -647,13 +647,13 @@ Pentheus tenetque saeuus etiamnunc minas.
 caput atque ab omni dissidet turba procul        620 
 celatque semet (instat et Stygias preces 
 geminat sacerdos, donec in apertum efferat 
-uultus opertos) Laius&#151;fari horreo: 
+uultus opertos) Laius—fari horreo: 
 stetit per artus sanguine effuso horridus, 
 paedore foedo squalidam obtentus comam,        625 
 et ore rabido fatur: 'O Cadmi effera, 
 cruore semper laeta cognato domus, 
 uibrate thyrsos, enthea gnatos manu 
-lacerate potius&#151;maximum Thebis scelus 
+lacerate potius—maximum Thebis scelus 
 maternus amor est. patria, non ira deum,        630 
 sed scelere raperis: non graui flatu tibi 
 luctificus Auster nec parum pluuio aethere 
@@ -664,7 +664,7 @@ sceptra et nefandos occupat thalamos patris        635
 quam gnatus, utero rursus infausto grauis] 
 egitque in ortus semet et matri impios 
 fetus regessit, quique uix mos est feris, 
-fratres sibi ipse genuit&#151;implicitum malum        640 
+fratres sibi ipse genuit—implicitum malum        640 
 magisque monstrum Sphinge perplexum sua. 
 Te, te cruenta sceptra qui dextra geris, 
 te pater inultus urbe cum tota petam 
@@ -684,7 +684,7 @@ addam et tenebo: reptet incertus uiae,
 baculo senili triste praetemptans iter: 
 eripite terras, auferam caelum pater.' 
  Oe. Et ossa et artus gelidus inuasit tremor: 
-quidquid timebam facere fecisse arguor&#151;        660 
+quidquid timebam facere fecisse arguor—        660 
 tori iugalis abnuit Merope nefas 
 sociata Polybo; sospes absoluit manus 
 Polybus meas: uterque defendit parens 
@@ -775,7 +775,7 @@ horret tantis aduena monstris
 populique timet bella recentis, 
 donec cecidit saeua iuuentus        745 
 genetrixque suo reddi gremio 
-modo productos uidit alumnos&#151; 
+modo productos uidit alumnos— 
 hac transierit ciuile nefas! 
 illa Herculeae norint Thebae 
   proelia fratrum.        750 
@@ -787,7 +787,7 @@ praeceps siluas montesque fugit        755
 citus Actaeon agilique magis 
 pede per saltus ac saxa uagus 
 metuit motas zephyris plumas 
-et quae posuit retia uitat&#151; 
+et quae posuit retia uitat— 
 donec placidi fontis in unda        760 
 cornua uidit uultusque feros, 
 ubi uirgineos fouerat artus 
@@ -810,7 +810,7 @@ primone in aeuo uiridis an fracto occidit?        775
 paucos fidelis curribus iunxit labor. 
  Oe. Aliquisne cecidit regio fato comes?        780 
  Ioc. Vnum fides uirtusque consortem addidit. 
- Oe. Teneo nocentem: conuenit numerus, locus&#151; 
+ Oe. Teneo nocentem: conuenit numerus, locus— 
 sed tempus adde. Ioc. Decima iam metitur seges. 
   Senex Corinthivs Corinthius te populus in regnum uocat 
 patrium: quietem Polybus aeternam obtinet.        785 
@@ -866,7 +866,7 @@ tuto mouetur quidquid extremo in loco est.
  Ioc. Nobilius aliquid genere regali appetis?        835 
 ne te parentis pigeat inuenti uide. 
  Oe. Vel paenitendi sanguinis quaeram fidem: 
-sic nosse certum est.&#151;Ecce grandaeuus senex, 
+sic nosse certum est.—Ecce grandaeuus senex, 
 arbitria sub quo regii fuerant gregis, 
 Phorbas. refersne nomen aut uultum senis?        840 
  Sen. Adridet animo forma; nec notus satis, 
@@ -888,7 +888,7 @@ non potuit ille luce, non caelo frui.
  Ph. Ferrum per ambos tenue transactum pedes 
 ligabat artus, uulneri innatus tumor 
 puerile foeda corpus urebat lue. 
- Oe. Quid quaeris ultra? fata iam accedunt prope.&#151;        860 
+ Oe. Quid quaeris ultra? fata iam accedunt prope.—        860 
 quis fuerit infans edoce. Ph. Prohibet fides. 
  Oe. Huc aliquis ignem! flamma iam excutiet fidem. 
  Ph. Per tam cruentas uera quaerentur uias? 
@@ -907,7 +907,7 @@ iaculetur ignes. saeculi crimen uagor,        875
 odium deorum, iuris exitium sacri, 
 qua luce primum spiritus hausi rudes 
 iam morte dignus. redde nunc animos pares, 
-nunc aliquid aude sceleribus dignum tuis.&#151; 
+nunc aliquid aude sceleribus dignum tuis.— 
 i, perge, propero regiam gressu pete:        880 
 gratare matri liberis auctam domum. 
   Chorvs Fata si liceat mihi 
@@ -941,7 +941,7 @@ quidquid excessit modum
 pendet instabili loco.        910 
   Sed quid hoc? postes sonant, 
 maestus et famulus manu 
-regius quassat caput.&#151; 
+regius quassat caput.— 
 Ede quid portes noui. 
   Nvntivs Praedicta postquam fata et infandum genus        915 
 deprendit ac se scelere conuictum Oedipus 
@@ -960,7 +960,7 @@ aut feruido aliquis igne uel saxo domet.
 quae tigris aut quae saeua uisceribus meis 
 incurret ales? ipse tu scelerum capax,        930 
 sacer Cithaeron, uel feras in me tuis 
-emitte siluis, mitte uel rabidos canes&#151; 
+emitte siluis, mitte uel rabidos canes— 
 nunc redde Agauen. anime, quid mortem times? 
 mors innocentem sola Fortunae eripit.' 
   Haec fatus aptat impiam capulo manum        935 
@@ -975,13 +975,13 @@ Natura in uno uertit Oedipoda, nouos
 commenta partus, supplicis eadem meis 
 nouetur. iterum uiuere atque iterum mori        945 
 liceat, renasci semper ut totiens noua 
-supplicia pendas&#151;utere ingenio, miser: 
+supplicia pendas—utere ingenio, miser: 
 quod saepe fieri non potest fiat diu; 
 mors eligatur longa. quaeratur uia 
 qua nec sepultis mixtus et uiuis tamen        950 
 exemptus erres: morere, sed citra patrem. 
 cunctaris, anime? subitus en uultus grauat 
-profusus imber ac rigat fletu genas&#151; 
+profusus imber ac rigat fletu genas— 
 et flere satis est? hactenus fundent leuem 
 oculi liquorem? sedibus pulsi suis        955 
 lacrimas sequantur: hi maritales statim 
@@ -1040,7 +1040,7 @@ sensitue raptum. dubitat afflictum alloqui,
 cupit pauetque. iam malis cessit pudor, 
 sed haeret ore prima uox. Iocasta Quid te uocem? 
 gnatumne? dubitas? gnatus es: gnatum pudet;        1010 
-inuite loquere gnate&#151;quo auertis caput 
+inuite loquere gnate—quo auertis caput 
 uacuosque uultus? Oe. Quis frui tenebris uetat? 
 quis reddit oculos? matris, en matris sonus! 
 perdidimus operam. congredi fas amplius 
@@ -1061,10 +1061,10 @@ non si ipse mundum concitans diuum sator
 corusca saeua tela iaculetur manu, 
 umquam rependam sceleribus poenas pares        1030 
 mater nefanda. mors placet: mortis uia 
-quaeratur.&#151;Agedum, commoda matri manum, 
+quaeratur.—Agedum, commoda matri manum, 
 si parricida es. restat hoc operi ultimum: 
 rapiatur ensis; hoc iacet ferro meus 
-coniunx&#151;quid illum nomine haud uero uocas?        1035 
+coniunx—quid illum nomine haud uero uocas?        1035 
 socer est. utrumne pectori infigam meo 
 telum an patenti conditum iugulo inprimam? 
 eligere nescis uulnus: hunc, dextra, hunc pete 
@@ -1080,7 +1080,7 @@ o Phoebe mendax, fata superaui impia.
 suspensa plantis efferens uestigia 
 caecam tremente dextera noctem rege. 
 ingredere praeceps, lubricos ponens gradus,        1050 
-i profuge uade&#151;siste, ne in matrem incidas. 
+i profuge uade—siste, ne in matrem incidas. 
 Quicumque fessi corpore et morbo graues 
 semanima trahitis pectora, en fugio, exeo: 
 releuate colla. mitior caeli status 

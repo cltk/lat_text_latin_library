@@ -13,8 +13,8 @@ Tertullian: Liber De Corona Militis
 fratribus qui se duobus dominis seruire posse praesumpserant. Solus libero capite, coronamento in manu otioso,
  uulgato iam et ista disciplina christiano, relucebat. 
  [2] Denique singuli designare et ludere eminus, infrendere comminus. Continuo murmur; 
- tribuno defertur et persona : iam ex ordine decesserat. Statim tribunus : &laquo; Cur, inquit, tam diuersus
- habitus? &raquo; Negauit ille sibi cum ceteris licere. Causas expostulatus, &laquo; christianus sum &raquo; 
+ tribuno defertur et persona : iam ex ordine decesserat. Statim tribunus : « Cur, inquit, tam diuersus
+ habitus? » Negauit ille sibi cum ceteris licere. Causas expostulatus, « christianus sum » 
 respondit. O militem gloriosum in Deo ! Suffragia exinde, et res
  ampliata et reus ad
 praefectos. [3] Ibidem grauissimas paenulas 
@@ -35,7 +35,7 @@ in pace leones et in proelio ceruos. Sed de quaestionibus
 confessionum 
  alibi docebimus. [6] At nunc,
  quatinus et illud opponunt : 
-&laquo; Vbi autem prohibemur coronari? &raquo;, hanc magis localem 
+« Vbi autem prohibemur coronari? », hanc magis localem 
 substantiam causae praesentis aggrediar, ut et qui ex sollicitudine ignorantiae quaerunt instruantur, et qui in
  defensionem delicti contendunt, reuincantur, ipsi uel maxime christiani laureati, quibus
  id solum quaestio est, quasi aut nullum aut incertum saltem
@@ -66,7 +66,7 @@ quibus non competit quaestio, sed ad illos qui studio discendi non quaestionem d
  enim scripturae patrocinium in parte diuersa, praeiudicant 
  suae quoque parti scripturae patrocinium adesse debere. Nam si ideo dicetur coronari licere quia non prohibeat scriptura, aeque retorquebitur ideo coronari non licere quia scriptura non iubeat. Quid faciet disciplina? Vtrumque recipiet, quasi
 neutrum 
- prohibitum sit, an utrumque reiciet, quasi neutrum praeceptum sit? -- &laquo; Sed quod non prohibetur ultro permissum est. &raquo;
+ prohibitum sit, an utrumque reiciet, quasi neutrum praeceptum sit? -- « Sed quod non prohibetur ultro permissum est. »
 -- Immo prohibetur quod non ultro est permissum. 
  
 
@@ -104,7 +104,7 @@ Rationem
  [2] Adicio unum adhuc 
 exemplum, quatinus et de ueteribus docere conueniet. Apud Iudaeos tam sollemne est feminis eorum uelamen capitis ut inde noscantur. Quaero legem, apostolum differo. Si Rebecca conspecto procul sponso uelamen inuasit, priuatus pudor legem facere non potuit, aut, causae suae fecerit, tegantur 
 uirgines solae, et hoc nuptum uenientes, nec antequam cognouerint 
- sponsos. [3] Si et Susanna in iudicio reuelata argumentum uelandi praestat, possum dicere : &laquo; Et hic uelamen arbitrii fuit. &raquo; Rea uenerat, erubescens de
+ sponsos. [3] Si et Susanna in iudicio reuelata argumentum uelandi praestat, possum dicere : « Et hic uelamen arbitrii fuit. » Rea uenerat, erubescens de
  infamia sua, merito abscondens 
 decorem, uel quia timens iam placere. Ceterum in stadio mariti non putem uelatam deambulasse quae placuit. Fuerit nunc uelata semper, in ipsa quoque
  legem habitus requiro uel in quacumque alia. [4] Si legem nusquam reperio, sequitur ut traditio consuetudini morem hunc dederit, habiturum
@@ -116,9 +116,9 @@ obseruationis.
 consistat, 
  quando et legem ratio commendet. Porro si ratione lex constat, lex erit omne iam quod ratione constiterit a quocumque productum. An non putas omni fideli licere concipere et
 constituere, 
- dumtaxat quod Deo congruat, quod disciplinae conducat, quod saluti proficiat, dicente Domino : &laquo; Cur autem non et a 
-uobis ipsis quod iustum iudicatis? &raquo; [6] Et non de
- iudicio tantum, sed de omni sententia rerum examinandarum dicit et apostolus : &laquo; Si quid ignoratis, Deus uobis reuelabit&raquo;, solitus et ipse
+ dumtaxat quod Deo congruat, quod disciplinae conducat, quod saluti proficiat, dicente Domino : « Cur autem non et a 
+uobis ipsis quod iustum iudicatis? » [6] Et non de
+ iudicio tantum, sed de omni sententia rerum examinandarum dicit et apostolus : « Si quid ignoratis, Deus uobis reuelabit», solitus et ipse
 consilium 
  subministrare, cum praeceptum Domini non habebat, 
  et edicere a semetipso, spiritum Dei habens deductorem omnis ueritatis. Itaque
@@ -154,7 +154,7 @@ Tam contra naturam est florem capite sectari quam cibum aure, quam sonum nare. O
  
  6. [1] Quaeres igitur Dei legem?
  Habes communem istam 
-in publico mundi, in naturalibus tabulis ad quas et apostolus solet prouocare, ut cum in uelamine feminae : &laquo; Nec natura, inquit, uos docet? &raquo;, ut cum ad Romanos, natura facere dicens nationes ea quae sunt legis, et legem naturalem suggerit et naturam
+in publico mundi, in naturalibus tabulis ad quas et apostolus solet prouocare, ut cum in uelamine feminae : « Nec natura, inquit, uos docet? », ut cum ad Romanos, natura facere dicens nationes ea quae sunt legis, et legem naturalem suggerit et naturam
 legalem. 
  Sed et in priore epistula naturalem usum conditionis in 
 non naturalem masculos et feminas inter se demutasse affirmans 
@@ -272,16 +272,16 @@ sollemnitate
  si dignum Deo esset. [2] Atquin si figurae nostrae fuerunt, -- nos enim sumus et templa Dei et altaria et
  luminaria et uasa, -- hoc quoque figurate portendebant, homines Dei coronari non oportere. Imagini ueritas respondere debebit. 
  Si forsitan opponis ipsum Christum coronatum, ad hoc
- breuiter interim audies : &laquo; Sic et tu coronare; licitum est. &raquo;
+ breuiter interim audies : « Sic et tu coronare; licitum est. »
  [3] Tamen nec illam impietatis contumeliosae coronam populus consciuit. Romanorum militum fuit commentum, ex usu rei
  saecularis, quem populus Dei nec publicae umquam laetitiae nec ingenitae luxuriae nomine admisit, facilius cum tympanis et tibiis et
 psalteriis 
  reuertens de captiuitate Babyloniae quam cum coronis, et 
 post cibum et potum exsurgens ad ludendum sine coronis. 
  [4] Nam neque laetitiae descriptio neque luxuriae denotatio de 
-coronae decore aut dedecore tacuisset. Adeo et Esaias : &laquo; Quoniam, 
- inquit, cum tympanis et psalteriis et tibiis uinum bibunt&raquo;, 
-dicturus etiam &laquo; cum coronis &raquo;, si umquam hic usus fuisset et 
+coronae decore aut dedecore tacuisset. Adeo et Esaias : « Quoniam, 
+ inquit, cum tympanis et psalteriis et tibiis uinum bibunt», 
+dicturus etiam « cum coronis », si umquam hic usus fuisset et 
 in Dei rebus. 
  
  
@@ -297,27 +297,27 @@ sensu, atque si abuti eo uellent, si sensu non
 carerent. Nulla uero distantia est abutendi, cum ueritas cessat utendi: cessante natura sentiendi qua uult, quis abutatur, cum non
 habeat qua utatur? [3] Nobis autem abuti apud apostolum non licet, facilius non uti docentem. Nisi quod nec abutuntur qui nihil sentiunt, sed
  uaca n t totum, et est ipsum quoque 
-opus mortuum, quantum in idolis, uiuum plane, quantum in daemoniis ad quae pertinet superstitio. &laquo; Idola nationum, inquit Dauid, argentum et aurum : oculos habent, nec uident,
- nares, nec odorantur, manus, nec contrectabunt. &raquo; [4] Per haec enim floribus frui est. Quod si tales edicit futuros qui idola
+opus mortuum, quantum in idolis, uiuum plane, quantum in daemoniis ad quae pertinet superstitio. « Idola nationum, inquit Dauid, argentum et aurum : oculos habent, nec uident,
+ nares, nec odorantur, manus, nec contrectabunt. » [4] Per haec enim floribus frui est. Quod si tales edicit futuros qui idola
 fabricantur, 
  tales iam sunt qui secundum idolorum ornatum quid utuntur. Omnia munda mundis; ita et immunda omnia immundis. Nihil autem immundius idolis. 
 -- Ceterum substantiae mundae, ut Dei res, et hac sua condicione communes usui. 
 -- Sed et ipsius 
 usus administratio interest. [5] Nam et ego mihi gallinaceum macto, non minus quam Aesculapio Socrates, et si me odor alicuius loci offenderit, Arabiae aliquid incendo, sed non eodem ritu, nec eodem habitu, nec eodem apparatu, quo agitur 
-apud idola. Si enim uerbo nudo conditio polluitur, -- ut apostolus docet : &laquo; Si quis autem dixerit : hoc
+apud idola. Si enim uerbo nudo conditio polluitur, -- ut apostolus docet : « Si quis autem dixerit : hoc
 idolothytum 
- est, ne contigeris &raquo;, -- multo magis, cum saltitaueris habitu et ritu et apparatu
+ est, ne contigeris », -- multo magis, cum saltitaueris habitu et ritu et apparatu
  idolothytorum, contaminatur. Ita et 
 corona idolothytum efficitur. [6] Hoc enim ritu et habitu et apparatu idolis immolatur
- auctoribus suis, quorum eo uel maxime proprius est usus, ne in communionem possit admitti, quod in Dei rebus non inuenitur. Propterea apostolus clamat : &laquo; Fugite
-idololatriam ! &raquo; 
+ auctoribus suis, quorum eo uel maxime proprius est usus, ne in communionem possit admitti, quod in Dei rebus non inuenitur. Propterea apostolus clamat : « Fugite
+idololatriam ! » 
  Omnem utique et totam. [7] Recogita siluam et quantae 
 latitant spinae. Nihil dandum idolo; sic nec sumendum ab idolo. Si in idolio recumbere alienum est a fide, quid in idoli habitu uideri? Quae communio Christo et Beliae? Et ideo 
 fugite.  Longum enim diuortium mandat ab idololatria. 
 In nullo proxime agendum : draco  etiam terrenus de 
  longinquo homines  spiritu absorbet. [8] 
 Altius Iohannes : 
-&laquo; Filioli, inquit, custodite uos ab idolis! &raquo;; non iam ab idololatria quasi officio, sed ab idolis, id est ab ipsa effigie eorum. Indignum enim ut imago Dei uiui imago idoli et mortui
+« Filioli, inquit, custodite uos ab idolis! »; non iam ab idololatria quasi officio, sed ab idolis, id est ab ipsa effigie eorum. Indignum enim ut imago Dei uiui imago idoli et mortui
  fias. Vsque adhuc proprietatem istius habitus et ex originis censu et ex superstitionis 
 usu idolis uindicamus, ex eo praeterea quod, dum in rebus Dei non 
 refertur, magis magisque illorum deputatur in quorum et
@@ -393,13 +393,13 @@ arbore coronatam. In his erit serti militaris superstitio, ubique
 polluta et polluens omnia. Quae iam polluantur et causis. 
  [3] Ecce 
 annua uotorum nuncupatio : quid uidetur? Prima in principiis, 
-secunda in capitoliis. Accipe, post loca, et uerba : &laquo; Tunc tibi, Iuppiter, bouem cornibus auro decoratis uouemus esse
-futurum. &raquo; 
+secunda in capitoliis. Accipe, post loca, et uerba : « Tunc tibi, Iuppiter, bouem cornibus auro decoratis uouemus esse
+futurum. » 
  Cuius sententiae uox est? Vtique negationis. Etiam si tacet illic christianus ore, coronatus capite
  respondit. Eadem laurea in donatiui dispensationem denuntiatur. Plane 
-non gratuita [4] idololatria, aliquibus aureis uenditans Christum, ut argenteis Iudas. Hoc erit &laquo; Non potestis Deo seruire et mammonae &raquo;, mammonae manum tradere et Deo
- absistere? Hoc erit &laquo; Reddite quae sunt Caesaris Caesari et quae Dei 
-Deo &raquo;, nec hominem Deo reddere et denarium Caesari auferre? Triumphi laurea foliis struitur
+non gratuita [4] idololatria, aliquibus aureis uenditans Christum, ut argenteis Iudas. Hoc erit « Non potestis Deo seruire et mammonae », mammonae manum tradere et Deo
+ absistere? Hoc erit « Reddite quae sunt Caesaris Caesari et quae Dei 
+Deo », nec hominem Deo reddere et denarium Caesari auferre? Triumphi laurea foliis struitur
  an cadaueribus? lemniscis ornatur an bustis? unguentis delibuitur an lacrimis coniugum et matrum? Fortasse quorundam et christianorum : et apud barbaros 
  enim Christus. [5] Qui hanc portauerit in capite causam, nonne et ipse pugnauit? Est et alia militia, regiarum familiarum. Nam et castrenses appellantur, munificae et ipsae sollemnium
 Caesarianorum. 
@@ -417,15 +417,15 @@ deducendas
 Sed tui ordines et tui magistratus et ipsum curiae nomen ecclesia 
 est Christi. Illius es concriptus in libris uitae. [2] Illic purpurae tuae 
 sanguis Domini, et clauus latus in cruce ipsius; illic secures, 
-ad caudicem iam arboris positae; illic uirgae ex radice Iesse. Viderint et publici equi cum coronis suis. Dominus tuus, ubi secundum scripturam Hierusalem ingredi uoluit, nec asinum habuit priuatum. &laquo; Isti in curribus et isti in equis, nos autem in nomine
- Domini nostri inuocabimus. &raquo; [3] Ab ipso incolatu
+ad caudicem iam arboris positae; illic uirgae ex radice Iesse. Viderint et publici equi cum coronis suis. Dominus tuus, ubi secundum scripturam Hierusalem ingredi uoluit, nec asinum habuit priuatum. « Isti in curribus et isti in equis, nos autem in nomine
+ Domini nostri inuocabimus. » [3] Ab ipso incolatu
 Babylonis 
  illius in Apocalypsi Iohannis submouemur, nedum a 
 suggestu. Coronatur et uulgus, nunc ex principalium prosperitatum 
  exultatione, nunc ex municipalium sollemnitatum proprietate. 
  Est enim omnis publicae laetitiae luxuria captatrix. [4] Sed tu, 
 peregrinus mundi huius et ciuis ciuitatis supernae Hierusalem, 
--- &laquo; Noster, inquit, municipatus in caelis &raquo;, -- habes tuos census, tuos fastos, nihil tibi cum gaudiis saeculi, immo contrarium debes. &laquo; Saeculum enim gaudebit, uos uero lugebitis. &raquo; Et, puto, felices ait lugentes, non coronatos. Coronant et nuptiae sponsos. Et 
+-- « Noster, inquit, municipatus in caelis », -- habes tuos census, tuos fastos, nihil tibi cum gaudiis saeculi, immo contrarium debes. « Saeculum enim gaudebit, uos uero lugebitis. » Et, puto, felices ait lugentes, non coronatos. Coronant et nuptiae sponsos. Et 
 ideo non nubemus ethnicis, ne nos ad idololatriam usque 
 deducant, a qua apud illos nuptiae incipiunt. [5] Habes legem 
 a patriarchis quidem, habes apostolum in Domino nubere 
@@ -481,8 +481,8 @@ potes.
  
  15. [1] Serua Deo rem suam
 intaminatam. Ille eam, si uolet, coronabit. 
- Immo et uult, denique inuitat : &laquo; Qui uicerit, inquit, 
-dabo ei coronam uitae. &raquo; Esto et tu fidelis ad mortem, decerta et tu bonum agonem, cuius coronam et apostolus repositam sibi merito confidit. 
+ Immo et uult, denique inuitat : « Qui uicerit, inquit, 
+dabo ei coronam uitae. » Esto et tu fidelis ad mortem, decerta et tu bonum agonem, cuius coronam et apostolus repositam sibi merito confidit. 
  Accipit et angelus uictoriae coronam, procedens in candido equo
  ut uinceret; at alius iridis ambitu ornatur caelesti prasio. Sedent et presbyteri coronati, 
  eodemque auto et ipse filius hominis super nubem micat. 

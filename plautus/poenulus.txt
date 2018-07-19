@@ -53,7 +53,7 @@ Plautus: Poenulus
 Achillem Aristarchi mihi commentari lubet: 
 inde mihi principium capiam, ex ea tragoedia. 
 'sileteque et tacete atque animum advortite, 
-audire iubet vos imperator' &#151; histricus, 
+audire iubet vos imperator' — histricus, 
 bonoque ut animo sedeate in subselliis,   5 
 et qui esurientes et qui saturi venerint: 
 qui edistis, multo fecistis sapientius, 
@@ -115,7 +115,7 @@ fuere, summo genere et summis ditiis;   60
 eorum alter vivit, alter est emortuos. 
 propterea apud vos dico confidentius, 
 quia mihi pollictor dixit qui eum pollinxerat. 
-sed illi seni qui mortuost, &lt;ei> filius, 
+sed illi seni qui mortuost, <ei> filius, 
 unicus qui fuerat, ab divitiis a patre    65 
 puer septuennis surripitur Carthagine, 
 sexennio prius quidem quam moritur pater. 
@@ -156,7 +156,7 @@ quia amare cernit, tangere hominem volt bolo.
 illam minorem in concubinatum sibi 
 volt emere miles quidam, qui illam deperit. 
 Sed pater illarum Poenus, postquam eas perdidit, 
-mari te&lt;rraque> usquequaque quaeritat.    105 
+mari te<rraque> usquequaque quaeritat.    105 
 ubi quamque in urbem est ingressus, ilico 
 omnes meretrices, ubi quisque habitant, invenit; 
 dat aurum, ducit noctem, rogitat postibi 
@@ -264,7 +264,7 @@ meos delectare munditiis meretriciis.
 abeamus intro, ut Collybiscum vilicum 
 hanc perdoceamus ut ferat fallaciam.      195 
  AGOR. Quamquam Cupido in corde vorsatur, tamen 
-tibi auscultabo.&#151; MIL. Faciam ut facto gaudeas. 
+tibi auscultabo.— MIL. Faciam ut facto gaudeas. 
 inest amoris macula huic homini in pectore, 
 sine damno magno quae elui ne utiquam potest. 
 itaque hic scelestus est homo leno Lycus,   200 
@@ -368,7 +368,7 @@ exornatae ut simus. AD. Immo vero sane commode;
 nam pro erili et nostro quaestu satis bene ornatae sumus.  285 
 non enim potis est quaestus fieri, ni sumptus sequitur, scio, 
 et tamen quaestus non consistet, si eum sumptus superat, soror. 
-eo illud satiust, satis quod habitu, &lt;haud satis est quod> plus
+eo illud satiust, satis quod habitu, <haud satis est quod> plus
 quam sat est. 
  AGOR. Ita me di ament, ut illa me amet malim quam di, Milphio. 
 nam illa mulier lapidem silicem subigere, ut se amet, potest.    290 
@@ -481,7 +481,7 @@ neque istuc usquam apparet; ita nunc servio nihilo minus.
 i, soror. apscede tu a me. AGOR. Perii. ecquid agis, Milphio? 
  MIL. Mea voluptas, mea delicia, mea vita, mea amoenitas,  365 
 meus ocellus, meum labellum, mea salus, meum savium, 
-meum mel, meum cor, mea colustra, meus molliculus caseus&#151; 
+meum mel, meum cor, mea colustra, meus molliculus caseus— 
  AGOR. Mene ego illaec patiar praesente dici? discrucior miser, 
 nisi ego illum iubeo quadrigis cursim ad carnificem rapi. 
  MIL. Noli, amabo, suscensere ero meo, causa mea.  370 
@@ -548,7 +548,7 @@ dedi dudum, prius quam me evocavisti foras.
 nunc opsecro te, Milphio, hanc per dexteram 
 perque hanc sororem laevam perque oculos tuos 
 [perque meos amores perque Adelphasium meam] 
-perque tuam libertatem&#151; MIL. Em nunc nihil opsecras. 420 
+perque tuam libertatem— MIL. Em nunc nihil opsecras. 420 
  AGOR. Mi Milphidisce, mea commoditas, mea salus, 
 fac quod facturum te esse promisti mihi, 
 ut ego hunc lenonem perdam. MIL. Perfacile id quidemst. 
@@ -557,30 +557,30 @@ iam et ornamentis meis et sycophantiis      425
 tuom exornabo vilicum. propera atque abi. 
  AGOR. Fugio. MIL. Meum est istuc magis officium quam
 tuom. 
- AGOR. Egone egone, si istuc lepide ecfexis&#151; MIL. I modo. 
- AGOR. Vt non ego te hodie&#151; MIL. Abi modo. AGOR. 
-Emittam manu&#151; 
- MIL. I modo. AG. Non hercle meream. MIL. Oh&#151;
+ AGOR. Egone egone, si istuc lepide ecfexis— MIL. I modo. 
+ AGOR. Vt non ego te hodie— MIL. Abi modo. AGOR. 
+Emittam manu— 
+ MIL. I modo. AG. Non hercle meream. MIL. Oh—
  AG. 
-Vah&#151; MIL. Abi modo. 430 
+Vah— MIL. Abi modo. 430 
  AGOR. Quantum Acheruntest mortuorum. MIL. Etiamne abis? 
  AGOR. Neque quantum aquaist in mari. MIL. Abiturun es? 
  AGOR. Neque nubes omnes quantumst. MIL. Pergin pergere? 
  AGOR. Neque stellae in caelo. MIL. Pergin auris tundere? 
- AGOR. Neque hoc neque illud neque&#151; enim vero serio&#151; 435 
-neque&#151; hercle vero&#151; quid opust verbis? quippini? 
-quod uno verbo&#151; dicere hic quidvis licet, 
-neque&#151; hercle vero serio, scin quomodo? 
+ AGOR. Neque hoc neque illud neque— enim vero serio— 435 
+neque— hercle vero— quid opust verbis? quippini? 
+quod uno verbo— dicere hic quidvis licet, 
+neque— hercle vero serio, scin quomodo? 
 ita me di amabunt, vin bona dicam fide, 
 quod hic inter nos liceat? ita me Iuppiter,   440 
 scin quam videtur? credin quod ego fabuler? 
  MIL. Si nequeo facere ut abeas, egomet abiero; 
 nam isti quidem hercle orationi Oedipo 
-opust coniectore, qui Sphingi interpres fuit.&#151; 
+opust coniectore, qui Sphingi interpres fuit.— 
  AGOR. Illic hinc iratus abiit. nunc mihi cautio est,  445 
 ne meamet culpa meo amori obiexim moram. 
 ibo atque arcessam testis, quando Amor iubet 
-me oboedientem esse servo liberum.&#151;
+me oboedientem esse servo liberum.—
  
 
  
@@ -646,9 +646,9 @@ addice tuam mihi meretricem minusculam.
  LYC. Ita res divina mihi fuit: res serias 
 omnis extollo ex hoc die in alium diem.         500 
  ANTAM. Profestos festos habeam decretum est mihi. 
- LYC. Nunc hinc eamus intro. sequere hac me.&#151; ANTAM. 
+ LYC. Nunc hinc eamus intro. sequere hac me.— ANTAM. 
 Seqor. 
-in hunc diem iam tuos sum mercennarius.&#151;
+in hunc diem iam tuos sum mercennarius.—
  
 
  
@@ -756,7 +756,7 @@ nam istorum nullus nefastust: comitiales sunt meri;
 ibi habitant, ibi eos conspicias quam praetorem saepius.  585 
 hodie iuris coctiores non sunt qui lites creant, 
 quam hi sunt, qui si nihil est quicum litigent, lites emunt. 
- ADV. Di te perdant. M. Vos quidem hercle&#151; cum eo cum
+ ADV. Di te perdant. M. Vos quidem hercle— cum eo cum
 quiqui tamen 
 et bene et benigne facitis, quom ero amanti operam datis. 
 sed isti iam sciunt, negoti quid sit? AGOR. Omne in ordine.  590 
@@ -781,15 +781,15 @@ Agite intro abite,
   Agorastocles, 
 ne hic vos mecum conspicetur leno neu fallaciae     605 
 praepedimentum obiciatur. ADV. Hic homo sapienter sapit. 
-facite quod iubet. AGOR. Abeamus. sed vos&#151; ADV. Satis
+facite quod iubet. AGOR. Abeamus. sed vos— ADV. Satis
 dictumst. abi. 
  AGOR. Abeo. ADV. Quaeso, di immortales, quin abis? AGOR. 
-Abeo.&#151; ADV. 
+Abeo.— ADV. 
  Sapis. 
  COLL. St,       608a 
 tace. ADV. Quid est? COLL. Fores hae fecerunt magnum
 flagitium modo. 
- ADV. Quid &lt;id> est flagiti? COLL. Crepuerunt clare.
+ ADV. Quid <id> est flagiti? COLL. Crepuerunt clare.
  ADV. 
 Di te perduint. 
 pone nos recede. COLL. Fiat. ADV. Nos priores ibimus. 
@@ -879,7 +879,7 @@ salutat. salvom te advenire gaudeo.
  LYC. Hospitium te aiunt quaeritare. COLL. Quaerito. 
  LYC. Ita illi dixerunt, qui hinc a me abierunt modo, 
 te quaeritare a muscis. COLL. Minime gentium.   690 
- LYC. Quid ita? COLL. Quia &lt;a> muscis si mi hospitium
+ LYC. Quid ita? COLL. Quia <a> muscis si mi hospitium
 quaererem, 
 adveniens irem in carcerem recta via. 
 ego id quaero hospitium, ubi ego curer mollius, 
@@ -914,7 +914,7 @@ hinc me procura; propere hosce apsumi volo.   715
 age, eamus intro. COLL. Te sequor. LYC. Age, age, ambula, 
 ibi, quae reliqua, alia fabulabimur. 
  COLL. Eadem narrabo tibi res Spartiaticas. 
- L. Quin sequere me ergo.&#151; C. Abduc intro. addictum tenes.&#151;  720 
+ L. Quin sequere me ergo.— C. Abduc intro. addictum tenes.—  720 
  AGOR. Quid nunc mi auctores estis? ADV. Vt frugi sies. 
  AGOR. Quid si animus esse non sinit? ADV. Esto ut sinit. 
  AGOR. Vidistis, leno quom aurum accepit? ADV. Vidimus. 
@@ -982,11 +982,11 @@ lupo agnum eripere postulant. nugas agunt.
 quem tibi nos esse Spartiatam diximus,    780 
 qui ad te trecentos Philippeos modo detulit. 
 idque in istoc adeo aurum inest marsuppio. 
- LYC. Vae vostrae aetati. ADV. Id quidem &lt;in> mundo
+ LYC. Vae vostrae aetati. ADV. Id quidem <in> mundo
 est tuae. 
  AGOR. Age omitte actutum, furcifer, marsuppium: 
 manifesto fur es mihi. quaeso hercle, operam date,  785 
-dum me videatis servom ab hoc abducere.&#151; 
+dum me videatis servom ab hoc abducere.— 
  LYC. Nunc pol ego perii certo, haud arbitrario. 
 consulto hoc factum est, mihi ut insidiae fierent. 
 sed quid ego dubito fugere hinc in malam crucem, 
@@ -995,7 +995,7 @@ eheu, quom ego habui hariolos haruspices;
 qui si quid bene promittunt, perspisso evenit, 
 id quod mali promittunt, praesentarium est. 
 nunc ibo, amicos consulam, quo me modo 
-suspendere aequom censeant potissimum.&#151;   795
+suspendere aequom censeant potissimum.—   795
  
 
  
@@ -1011,10 +1011,10 @@ homini dicam.  800
  COLL. Non sum nequiquam miles factus; paululum 
 praedae intus feci: dum lenonis familia 
 dormitat, extis sum satur factus probe. 
-abscedam hinc intro.&#151; AGOR. Factum a vobis comiter. 805 
+abscedam hinc intro.— AGOR. Factum a vobis comiter. 805 
 bonam dedistis, advocati, operam mihi. 
 cras mane, quaeso, in comitio estote obviam. 
-tu sequere me intro. vos valete.&#151; ADV. Et tu vale. 
+tu sequere me intro. vos valete.— ADV. Et tu vale. 
 iniuriam illic insignite postulat: 
 nostro servire nos sibi censet cibo.   810 
 verum ita sunt *** isti nostri divites: 
@@ -1022,7 +1022,7 @@ si quid bene facias, levior pluma est gratia,
 si quid peccatumst, plumbeas iras gerunt. 
 domos abeamus nostras, sultis, nunciam, 
 quando id, quoi rei operam dedimus, impetravimus,  815 
-ut perderemus corruptorem civium.&#151;
+ut perderemus corruptorem civium.—
  
 
  
@@ -1054,7 +1054,7 @@ quam apud lenonem hunc servitutem colere. quid illuc est genus,
 quae illic hominum corruptelae fiunt. di vostram fidem,   830 
 quodvis genus ibi hominum videas, quasi Acheruntem veneris, 
 equitem peditem, libertinum, furem an fugitivom velis, 
-verberatum, vinctum, addictum: qui habet quod det, &lt;ut>ut homo est, 
+verberatum, vinctum, addictum: qui habet quod det, <ut>ut homo est, 
 omnia genera recipiuntur; itaque in totis aedibus 
 tenebrae latebrae, bibitur estur quasi in popina, hau secus. 835 
 ibi tu videas litteratas fictiles epistulas, 
@@ -1126,7 +1126,7 @@ tacitas tibi res sistam quam quod dictum est mutae mulieri.
 credam tamen. 
  MIL. Scin tu erum tuom meo ero esse inimicum capitalem? SYNC. 
 Scio. 
- MIL. Propter amorem&#151; SYNC. Omnem operam perdis. MIL. 
+ MIL. Propter amorem— SYNC. Omnem operam perdis. MIL. 
 Quid iam?  880 
   SYNC. Quia doctum doces. 
  MIL. Quid ergo dubitas quin lubenter tuo ero meus quid possiet 
@@ -1173,7 +1173,7 @@ vale.
 quom mones. 
 et ita hoc fiet. SYNC. Proba materies data est, si probum adhibes
 fabrum. 915 
- MIL. Potin ut taceas? SYNC. Taceo atque abeo.&#151; MIL. 
+ MIL. Potin ut taceas? SYNC. Taceo atque abeo.— MIL. 
 Mihi commoditatem creas. 
 illic hinc abiit. di immortales meum erum servatum volunt 
 et hunc disperditum lenonem: tantum eum instat exiti. 
@@ -1187,7 +1187,7 @@ ita negotium institutumst, non datur cessatio;      925
 nam et hoc docte consulendum, quod modo concreditumst, 
 et illud autem inserviendumst consilium vernaculum. 
 remora si sit, qui malam rem mihi det merito fecerit. 
-nunc intro ibo: dum erus adveniat a foro, opperiar domi.&#151;]
+nunc intro ibo: dum erus adveniat a foro, opperiar domi.—]
  
 
  
@@ -1279,7 +1279,7 @@ dare hic nescio quid. audin pollicitarier?
  HAN. Me har bocca. MIL. Istuc tibi sit potius quam mihi. 
  AGOR. Quid ait? MIL. Miseram esse praedicat buccam sibi. 
 fortasse medicos nos esse arbitrarier. 
- AGOR. Si &lt;ita> est, nega esse; nolo ego errare hospitem. 1005 
+ AGOR. Si <ita> est, nega esse; nolo ego errare hospitem. 1005 
  MIL. Audin tu? HAN. Rufeyn nyccho issam. AGOR. 
 Sic volo 
 profecto vera cuncta huic expedirier. 
@@ -1353,7 +1353,7 @@ quo me privatum aegre patior mortuo.
 sed si ita est, ut tu sis Iahonis filius, 
 signum esse oportet in manu laeva tibi, 
 ludenti puero quod memordit simia. 
-ostende, inspiciam. &lt; AGOR. Em ostendo.> HAN. Aperi.
+ostende, inspiciam. < AGOR. Em ostendo.> HAN. Aperi.
 audi atque ades: 1075 
  * * *               1075a 
  AGOR. Mi patrue, salve. HAN. Et tu salve, Agorastocles. 
@@ -1415,7 +1415,7 @@ Hanno Carthaginiensis. MIL. Ecce autem mala.
 [praestrigiator hic quidem Poenus probust,    1125 
 perduxit omnis ad suam sententiam.] 
  GIDD. O mi ere, salve, Hanno, insperatissume 
-mihi tuisque filiis, salve atque&#151; eho, 
+mihi tuisque filiis, salve atque— eho, 
 mirari noli neque me contemplarier. 
 cognoscin Giddenenem ancillam tuam?     1130 
  HAN. Novi. sed ubi sunt meae gnatae? id scire expeto. 
@@ -1443,7 +1443,7 @@ iube hanc abire hinc ad te. AGOR. Fac quod imperat.
 patruo advenienti cena curetur volo. 
  MIL. Lachanna vos, quos ego iam detrudam ad molas, 
 inde porro ad puteum atque ad robustum codicem. 
-ego faxo hospitium hoc leniter laudabitis.&#151; 
+ego faxo hospitium hoc leniter laudabitis.— 
  AGOR. Audin tu, patrue? dico, ne dictum neges:  1155 
 tuam mihi maiorem filiam despondeas. 
  HAN. Pactam rem habeto. AGOR. Spondesne igitur? HAN. 
@@ -1493,7 +1493,7 @@ eo sumus gnatae genere, ut deceat nos esse a culpa castas.
  HAN. Iuppiter, qui genus colis alisque hominum, per quem vivimus
 vitalem aevom, 
 quem penes spes vitae sunt hominum omnium, da diem hunc sospitem quaeso, 
-~ rebus meis agundis, ut quibus annos multos carui quasque &lt;e> patria 
+~ rebus meis agundis, ut quibus annos multos carui quasque <e> patria 
 perdidi parvas ~ redde is libertatem, invictae praemium ut esse sciam
 pietati. 1190 
  AGOR. Omnia faciet Iuppiter faxo, 
@@ -1508,7 +1508,7 @@ si tibi illi non os oblitumst fuligine?   1195
  AGOR. O patrue, o patrue mi. HAN. Quid est, 
 fratris mei gnate, gnate, quid vis? expedi. 
  AGOR. At enim hoc volo agas. HAN. At enim ago istuc. 
- AGOR. &lt;O> patrue mi patruissime. 
+ AGOR. <O> patrue mi patruissime. 
  HAN. Quid est? AGOR. Est lepida et lauta. ut sapit. 
  HAN. Ingenium patris habet quod sapit. 
  AG. Quae res? iam diu edepol sapientiam tuam haec quidem abusast. 
@@ -1552,10 +1552,10 @@ voco.  1225
  AGOR. Nunc, patrue, tu frugi bonae es. tene. vin ego hanc adprendam? 
  AD. An patruos est, Agorastocles, tuos hic? AGOR. Iam
 faxo scibis. 
-nunc pol ego te ulciscar probe, nam faxo&#151; mea eris sponsa. 
+nunc pol ego te ulciscar probe, nam faxo— mea eris sponsa. 
  HAN. Ite in ius, ne moramini. antestare me atque duce. 
  AGOR. Ego te antestabor, postea hanc amabo atque amplexabor.  1230 
-sed illud quidem volui dicere&#151; immo hercle dixi quod volebam. 
+sed illud quidem volui dicere— immo hercle dixi quod volebam. 
  HAN. Moramini. in ius vos voco, nisi honestiust prehendi. 
  AD. Quid in ius vocas nos? quid tibi debemus? AGOR. Dicet
 illi. 
@@ -1712,7 +1712,7 @@ collo rem solvam iam omnibus, quasi baiolus.
 tuam, ut dixisti, mihi desponde filiam. 
  HAN. Haud aliter ausim. ANTAM. Bene vale. AG. 
 Et tu bene vale. 
- ANTAM. Leno, arrabonem hoc pro mina mecum fero.&#151; 
+ ANTAM. Leno, arrabonem hoc pro mina mecum fero.— 
  LYC. Perii hercle. AG. Immo haud multo post, si in ius
 veneris. 1360 
  LYC. Quin egomet tibi me addico. quid praetore opust? 
@@ -1726,7 +1726,7 @@ habeamus hilare, huius malo et nostro bono.
 multum valete. multa verba fecimus; 
 malum postremo omne ad lenonem reccidit. 
 nunc, quod postremum est condimentum fabulae,  1370 
-si placuit, plausum postulat comoedia.&#151;]
+si placuit, plausum postulat comoedia.—]
  
 
  
@@ -1762,19 +1762,19 @@ omitte genua. LYC. Mitto, si ita sententia est.
  LYC. Di meliora faxint. ANTAM. Sic est: hodie cenabis
 toris.  1400 
 aurum argentum collum, leno, tris res nunc debes simul. 
- HAN. Quid me &lt;in> hac re facere deceat, egomet mecum cogito. 
+ HAN. Quid me <in> hac re facere deceat, egomet mecum cogito. 
 si volo hunc ulcisci, litis sequar in alieno oppido, 
 quantum audivi ingenium et mores eius quo pacto sient. 
  ADELPH. Mi pater, ne quid tibi cum istoc rei sit pessumo, obsecro. 1405 
  ANTER. Ausculta sorori. abi, diiunge inimicitias cum improbo. 
  HAN. Hoc age sis, leno. quamquam ego te meruisse ut pereas scio, 
 non experiar tecum. AGOR. Neque ego; si aurum mihi reddes meum, 
-leno, quando ex nervo emissu's&#151; compingare in carcerem. 
+leno, quando ex nervo emissu's— compingare in carcerem. 
  LYC. Iamne autem ut soles? ANTAM. Ego, Poene, tibi me
 purgatum volo. 1410 
 si quid dixi iratus advorsum animi tui sententiam, 
 id uti ignoscas quaeso; et quom istas invenisti filias, 
-ita me di ament &lt;ut> mihi volup est. HAN. Ignosco et credo
+ita me di ament <ut> mihi volup est. HAN. Ignosco et credo
 tibi. 
  ANTAM. Leno, tu autem amicam mihi des facito aut [auri] mihi
 reddas minam. 
@@ -1782,10 +1782,10 @@ reddas minam.
 nescias, utrum ei maiores buccaene an mammae sient. 
  LYC. Dabo quae placeat. ANTAM. Cura. LYC. Aurum
 cras ad te referam tuom. 
- AGOR. Facito in memoria habeas. LYC. Miles, sequere me.&#151;
+ AGOR. Facito in memoria habeas. LYC. Miles, sequere me.—
  ANTAM. 
 Ego 
-  vero sequor.&#151; 
+  vero sequor.— 
  AGOR. Quid ais, patrue? quando hinc ire cogitas Carthaginem? 
 nam tecum mi una ire certum est. HAN. Vbi primum potero, ilico.  1420 
  AGOR. Dum auctionem facio, hic opus est aliquot ut maneas dies. 

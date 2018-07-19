@@ -20,7 +20,7 @@ Seneca: On Leisure
 1. * * * nobis magno consensu uitia commendant. Licet nihil aliud
 quod sit salutare temptemus, proderit tamen per se ipsum secedere: meliores
 erimus singuli. Quid quod secedere ad optimos uiros et aliquod exemplum
-eligere ad quod uitam derigamus licet? Quod &lt;nisi&gt; in otio non fit:
+eligere ad quod uitam derigamus licet? Quod <nisi> in otio non fit:
 tunc potest optineri quod semel placuit, ubi nemo interuenit qui iudicium
 adhuc inbecillum populo adiutore detorqueat; tunc potest uita aequali et
 uno tenore procedere, quam propositis diuersissimis scindimus. 2. Nam inter
@@ -92,7 +92,7 @@ sed utraque ad otium diuersa uia mittit. Epicurus ait: 'non accedet ad
 rem publicam sapiens, nisi si quid interuenerit'; Zenon ait: 'accedet ad
 rem publicam, nisi si quid inpedierit.' 3. Alter otium ex proposito petit,
 alter ex causa; causa autem illa late patet. Si res publica corruptior
-est quam &lt;ut> adiuuari possit, si occupata est malis, non nitetur sapiens
+est quam <ut> adiuuari possit, si occupata est malis, non nitetur sapiens
 in superuacuum nec se nihil profuturus inpendet; si parum habebit auctoritatis
 aut uirium nec illum erit admissura res publica, si ualetudo illum inpediet,
 quomodo nauem quassam non deduceret in mare, quomodo nomen in militiam
@@ -206,7 +206,7 @@ leges tulissent; quas non uni ciuitati, sed toti humano generi tulerunt.
 Quid est ergo quare tale otium non conueniat uiro bono, per quod futura
 saecula ordinet nec apud paucos contionetur sed apud omnis omnium gentium
 homines, quique sunt quique erunt? 5. Ad summam, quaero an ex praeceptis
-suis uixerint Cleanthes et Chrysippus et Zenon. &lt;Non> dubie respondebis
+suis uixerint Cleanthes et Chrysippus et Zenon. <Non> dubie respondebis
 sic illos uixisse quemadmodum dixerant esse uiuendum: atqui nemo illorum
 rem publicam administrauit. 'Non fuit' inquis 'illis aut ea fortuna aut
 ea dignitas quae admitti ad publicarum rerum tractationem solet.' Sed idem

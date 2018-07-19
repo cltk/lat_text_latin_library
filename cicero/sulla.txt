@@ -39,7 +39,7 @@ Cicero: Pro Sulla
  
 
  
- [ 6 ] Quis nostrum adfuit Vargunteio? Nemo, ne hic quidem Q. Hortensius, praesertim qui illum solus antea de ambitu defendisset. Non enim iam se ullo officio cum illo coniunctum arbitrabatur, cum ille tanto scelere commisso omnium officiorum societatem diremisset. Quis nostrum Serv. Sullam, quis Publium, quis M. Laecam, quis &lt;C.&gt; Cornelium defendendum putavit, quis eis horum adfuit? Nemo. Quid ita? Quia ceteris in causis etiam nocentis viri boni, si necessarii sunt, deserendos esse non putant; in hoc crimine non solum levitatis est culpa verum etiam quaedam contagio sceleris, si defendas eum quem obstrictum esse patriae parricidio suspicere. 
+ [ 6 ] Quis nostrum adfuit Vargunteio? Nemo, ne hic quidem Q. Hortensius, praesertim qui illum solus antea de ambitu defendisset. Non enim iam se ullo officio cum illo coniunctum arbitrabatur, cum ille tanto scelere commisso omnium officiorum societatem diremisset. Quis nostrum Serv. Sullam, quis Publium, quis M. Laecam, quis <C.> Cornelium defendendum putavit, quis eis horum adfuit? Nemo. Quid ita? Quia ceteris in causis etiam nocentis viri boni, si necessarii sunt, deserendos esse non putant; in hoc crimine non solum levitatis est culpa verum etiam quaedam contagio sceleris, si defendas eum quem obstrictum esse patriae parricidio suspicere. 
  
 
  
@@ -119,7 +119,7 @@ Cicero: Pro Sulla
  
 
  
- [ 26 ] Ego, tantis a me beneficiis in re publica positis, si nullum aliud mihi praemium ab senatu populoque Romano nisi honestum otium postularem, quis non concederet? &lt;Ceteri&gt; sibi haberent honores, sibi imperia, sibi provincias, sibi triumphos, sibi alia praeclarae laudis insignia; mihi liceret eius urbis quam conservassem conspectu tranquillo animo et quieto frui. Quid si hoc non postulo? si ille labor meus pristinus, si sollicitudo, si officia, si operae, si vigiliae deserviunt amicis, praesto sunt omnibus; si neque amici in foro requirunt studium meum neque res publica in curia; si me non modo non rerum gestarum vacatio sed neque honoris neque aetatis excusatio vindicat a labore; si voluntas mea, si industria, si domus, si animus, si aures patent omnibus; si mihi ne ad ea quidem quae pro salute omnium gessi recordanda et cogitanda quicquam relinquitur temporis: tamen hoc regnum appellabitur, cuius vicarius qui velit esse inveniri nemo potest? 
+ [ 26 ] Ego, tantis a me beneficiis in re publica positis, si nullum aliud mihi praemium ab senatu populoque Romano nisi honestum otium postularem, quis non concederet? <Ceteri> sibi haberent honores, sibi imperia, sibi provincias, sibi triumphos, sibi alia praeclarae laudis insignia; mihi liceret eius urbis quam conservassem conspectu tranquillo animo et quieto frui. Quid si hoc non postulo? si ille labor meus pristinus, si sollicitudo, si officia, si operae, si vigiliae deserviunt amicis, praesto sunt omnibus; si neque amici in foro requirunt studium meum neque res publica in curia; si me non modo non rerum gestarum vacatio sed neque honoris neque aetatis excusatio vindicat a labore; si voluntas mea, si industria, si domus, si animus, si aures patent omnibus; si mihi ne ad ea quidem quae pro salute omnium gessi recordanda et cogitanda quicquam relinquitur temporis: tamen hoc regnum appellabitur, cuius vicarius qui velit esse inveniri nemo potest? 
  
 
  
@@ -139,7 +139,7 @@ Cicero: Pro Sulla
  
 
  
- [ 31 ] In quo primum illud erat absurdum quod, cum ea quae leviter dixerat vobis probare volebat, eos autem qui circum iudicium stabant audire nolebat, non intellegebat ea quae clare diceret ita illos audituros quibus se venditabat ut vos quoque audiretis, qui id non probabatis. Deinde alterum iam oratoris &lt;est&gt; vitium non videre quid quaeque causa postulet. Nihil est enim tam alienum ab eo qui alterum coniurationis accuset quam videri coniuratorum poenam mortemque lugere. Quod cum is tribunus pl. facit qui unus videtur ex illis ad lugendos coniuratos relictus, nemini mirum est; difficile est enim tacere, cum doleas; te, si quid eius modi facis, non modo talem adulescentem sed in ea causa in qua te vindicem coniurationis velis esse vehementer admiror. 
+ [ 31 ] In quo primum illud erat absurdum quod, cum ea quae leviter dixerat vobis probare volebat, eos autem qui circum iudicium stabant audire nolebat, non intellegebat ea quae clare diceret ita illos audituros quibus se venditabat ut vos quoque audiretis, qui id non probabatis. Deinde alterum iam oratoris <est> vitium non videre quid quaeque causa postulet. Nihil est enim tam alienum ab eo qui alterum coniurationis accuset quam videri coniuratorum poenam mortemque lugere. Quod cum is tribunus pl. facit qui unus videtur ex illis ad lugendos coniuratos relictus, nemini mirum est; difficile est enim tacere, cum doleas; te, si quid eius modi facis, non modo talem adulescentem sed in ea causa in qua te vindicem coniurationis velis esse vehementer admiror. 
  
 
  
@@ -175,11 +175,11 @@ Cicero: Pro Sulla
  
 
  
- [ 40 ] Exclusus hac criminatione Torquatus rursus in me inruit, me accusat; ait me aliter ac dictum sit in tabulas publicas rettulisse. O di immortales!&#151;vobis enim tribuo quae vestra sunt, nec vero possum meo tantum ingenio dare ut tot res tantas, tam varias, tam repentinas in illa turbulentissima tempestate rei publicae mea sponte dispexerim&#151;vos profecto animum meum tum conservandae patriae cupiditate incendistis, vos me ab omnibus ceteris cogitationibus ad unam salutem rei publicae convertistis, vos denique in tantis tenebris erroris et inscientiae clarissimum lumen menti meae praetulistis. 
+ [ 40 ] Exclusus hac criminatione Torquatus rursus in me inruit, me accusat; ait me aliter ac dictum sit in tabulas publicas rettulisse. O di immortales!—vobis enim tribuo quae vestra sunt, nec vero possum meo tantum ingenio dare ut tot res tantas, tam varias, tam repentinas in illa turbulentissima tempestate rei publicae mea sponte dispexerim—vos profecto animum meum tum conservandae patriae cupiditate incendistis, vos me ab omnibus ceteris cogitationibus ad unam salutem rei publicae convertistis, vos denique in tantis tenebris erroris et inscientiae clarissimum lumen menti meae praetulistis. 
  
 
  
- [ 41 ] Vidi ego hoc, iudices, nisi recenti memoria senatus auctoritatem huius indici monumentis publicis testatus essem, fore ut aliquando non Torquatus neque Torquati quispiam similis&#151;nam id me multum fefellit&#151;sed ut aliquis patrimoni naufragus, inimicus oti, bonorum hostis, aliter indicata haec esse diceret, quo facilius vento aliquo in optimum quemque excitato posset in malis rei publicae portum aliquem suorum malorum invenire. Itaque introductis in senatum indicibus constitui senatores qui omnia indicum dicta, interrogata, responsa perscriberent. 
+ [ 41 ] Vidi ego hoc, iudices, nisi recenti memoria senatus auctoritatem huius indici monumentis publicis testatus essem, fore ut aliquando non Torquatus neque Torquati quispiam similis—nam id me multum fefellit—sed ut aliquis patrimoni naufragus, inimicus oti, bonorum hostis, aliter indicata haec esse diceret, quo facilius vento aliquo in optimum quemque excitato posset in malis rei publicae portum aliquem suorum malorum invenire. Itaque introductis in senatum indicibus constitui senatores qui omnia indicum dicta, interrogata, responsa perscriberent. 
  
 
  
@@ -191,7 +191,7 @@ Cicero: Pro Sulla
  
 
  
- [ 44 ] Sed tamen abs te, Torquate, quaero: cum indicatus tuus esset inimicus et esset eius rei frequens senatus et recens memoria testis, &lt;et&gt; tibi, meo familiari et contubernali, prius etiam edituri indicium fuerint scribae mei, si voluisses, quam in codicem rettulissent, &lt;cur&gt; cum videres aliter fieri, tacuisti, passus es, non mecum aut &lt;ut&gt; cum familiarissimo questus es aut, quoniam tam facile inveheris in amicos, iracundius et vehementius etulasti? Tu, cum tua vox numquam sit audita, cum indicio lecto, descripto, divolgato quieveris, tacueris, repente tantam rem ementiare et in eum locum te deducas ut, ante quam me commutati indici coargueris, te summae neglegentiae tuo iudicio convictum esse fateare? 
+ [ 44 ] Sed tamen abs te, Torquate, quaero: cum indicatus tuus esset inimicus et esset eius rei frequens senatus et recens memoria testis, <et> tibi, meo familiari et contubernali, prius etiam edituri indicium fuerint scribae mei, si voluisses, quam in codicem rettulissent, <cur> cum videres aliter fieri, tacuisti, passus es, non mecum aut <ut> cum familiarissimo questus es aut, quoniam tam facile inveheris in amicos, iracundius et vehementius etulasti? Tu, cum tua vox numquam sit audita, cum indicio lecto, descripto, divolgato quieveris, tacueris, repente tantam rem ementiare et in eum locum te deducas ut, ante quam me commutati indici coargueris, te summae neglegentiae tuo iudicio convictum esse fateare? 
  
 
  
@@ -215,15 +215,15 @@ Cicero: Pro Sulla
  
 
  
- [ 50 ] Ego vero quibus ornamentis adversor tuis aut cui dignitati vestrae repugno? Quid est quod iam ab hoc expetas? Honos ad patrem, insignia honoris ad te delata sunt. Tu ornatus exuviis huius venis ad eum lacerandum quem interemisti, ego iacentem et spoliatum defendo et protego. Atque hic tu et reprehendis me quia defendam et irasceris; ego autem non modo tibi non irascor sed ne reprehendo quidem factum tuum. Te enim existimo tibi statuisse quid faciendum putares et satis idoneum offici tui iudicem &lt;esse&gt; potuisse. 
+ [ 50 ] Ego vero quibus ornamentis adversor tuis aut cui dignitati vestrae repugno? Quid est quod iam ab hoc expetas? Honos ad patrem, insignia honoris ad te delata sunt. Tu ornatus exuviis huius venis ad eum lacerandum quem interemisti, ego iacentem et spoliatum defendo et protego. Atque hic tu et reprehendis me quia defendam et irasceris; ego autem non modo tibi non irascor sed ne reprehendo quidem factum tuum. Te enim existimo tibi statuisse quid faciendum putares et satis idoneum offici tui iudicem <esse> potuisse. 
  
 
  
- [ 51 ] At accusat &lt;C.&gt; Corneli filius et id aeque valere debet ac si pater indicaret. O patrem Cornelium sapientem qui, quod praemi solet esse in indicio, reliquerit, quod turpitudinis in confessione, id per accusationem fili susceperit! Sed quid est tandem quod indicat per istum puerum Cornelius? Si vetera, mihi ignota, cum Hortensio communicata, respondit Hortensius; sin, ut ais, illum conatum Autroni et Catilinae, cum in campo consularibus comitiis, quae a me habita sunt, caedem facere voluerunt, Autronium tum in campo vidimus &#151;sed quid dixi vidisse nos? ego vidi; vos enim tum, iudices, nihil laborabatis neque suspicabamini, ego tectus praesidio firmo amicorum Catilinae tum et Autroni copias et conatum repressi. 
+ [ 51 ] At accusat <C.> Corneli filius et id aeque valere debet ac si pater indicaret. O patrem Cornelium sapientem qui, quod praemi solet esse in indicio, reliquerit, quod turpitudinis in confessione, id per accusationem fili susceperit! Sed quid est tandem quod indicat per istum puerum Cornelius? Si vetera, mihi ignota, cum Hortensio communicata, respondit Hortensius; sin, ut ais, illum conatum Autroni et Catilinae, cum in campo consularibus comitiis, quae a me habita sunt, caedem facere voluerunt, Autronium tum in campo vidimus —sed quid dixi vidisse nos? ego vidi; vos enim tum, iudices, nihil laborabatis neque suspicabamini, ego tectus praesidio firmo amicorum Catilinae tum et Autroni copias et conatum repressi. 
  
 
  
- [ 52 ] Num quis est igitur qui tum dicat in campum aspirasse Sullam? Atqui, si tum se cum Catilina societate sceleris coniunxerat, cur ab eo discedebat, cur cum Autronio non erat, cur in pari causa non paria signa criminis reperiuntur? Sed quoniam Cornelius ipse etiam nunc de indicando dubitat, &lt;et,&gt; ut dicitis, informat ad hoc adumbratum indicium filium, quid tandem de illa nocte dicit, cum inter falcarios ad M. Laecam nocte ea quae consecuta est posterum diem Nonarum Novembrium me consule Catilinae denuntiatione convenit? quae nox omnium temporum coniurationis acerrima fuit atque acerbissima. Tum Catilinae dies exeundi, tum ceteris manendi condicio, tum discriptio totam per urbem caedis atque incendiorum constituta est; tum tuus pater, Corneli, id quod tandem aliquando confitetur, illam sibi officiosam provinciam depoposcit ut, cum prima luce consulem salutatum veniret, intromissus et meo more et iure amicitiae me in meo lectulo trucidaret. 
+ [ 52 ] Num quis est igitur qui tum dicat in campum aspirasse Sullam? Atqui, si tum se cum Catilina societate sceleris coniunxerat, cur ab eo discedebat, cur cum Autronio non erat, cur in pari causa non paria signa criminis reperiuntur? Sed quoniam Cornelius ipse etiam nunc de indicando dubitat, <et,> ut dicitis, informat ad hoc adumbratum indicium filium, quid tandem de illa nocte dicit, cum inter falcarios ad M. Laecam nocte ea quae consecuta est posterum diem Nonarum Novembrium me consule Catilinae denuntiatione convenit? quae nox omnium temporum coniurationis acerrima fuit atque acerbissima. Tum Catilinae dies exeundi, tum ceteris manendi condicio, tum discriptio totam per urbem caedis atque incendiorum constituta est; tum tuus pater, Corneli, id quod tandem aliquando confitetur, illam sibi officiosam provinciam depoposcit ut, cum prima luce consulem salutatum veniret, intromissus et meo more et iure amicitiae me in meo lectulo trucidaret. 
  
 
  
@@ -235,11 +235,11 @@ Cicero: Pro Sulla
  
 
  
- [ 55 ] At litterae sunt Fausti, per quas ille precibus a P. Sulla petit ut emat gladiatores et ut hos ipsos emat, neque solum ad Sullam missae sed ad L. Caesarem, Q. Pompeium, C. Memmium, quorum de sententia tota res gesta est. 'At praefuit familiae Cornelius, &lt;libertus eius&gt;.' Iam si in paranda familia nulla suspicio est, quis praefuerit nihil ad rem pertinet; sed tamen munere servili obtulit se ad ferramenta prospicienda, praefuit vero numquam, eaque res omni tempore per Bellum, Fausti libertum, administrata est. 
+ [ 55 ] At litterae sunt Fausti, per quas ille precibus a P. Sulla petit ut emat gladiatores et ut hos ipsos emat, neque solum ad Sullam missae sed ad L. Caesarem, Q. Pompeium, C. Memmium, quorum de sententia tota res gesta est. 'At praefuit familiae Cornelius, <libertus eius>.' Iam si in paranda familia nulla suspicio est, quis praefuerit nihil ad rem pertinet; sed tamen munere servili obtulit se ad ferramenta prospicienda, praefuit vero numquam, eaque res omni tempore per Bellum, Fausti libertum, administrata est. 
  
 
  
- [ 56 ] At enim Sittius est ab hoc in ulteriorem Hispaniam missus ut eam provinciam perturbaret. Primum Sittius, iudices, L. Iulio C. Figulo consulibus profectus est aliquanto ante furorem Catilinae et suspicionem huius coniurationis; deinde est profectus non tum primum sed cum in isdem locis aliquanto ante eadem de causa aliquot annos fuisset, ac profectus est non modo ob causam sed etiam ob necessariam causam, magna ratione cum Mauretaniae rege contracta. Tum autem, illo profecto, Sulla procurante eius rem et gerente plurimis et pulcherrimis P. Sitti praediis venditis aes alienum eiusdem dissolutum &lt;est&gt;, ut, quae causa ceteros ad facinus impulit, cupiditas retinendae possessionis, ea Sittio non fuerit praediis deminutis. 
+ [ 56 ] At enim Sittius est ab hoc in ulteriorem Hispaniam missus ut eam provinciam perturbaret. Primum Sittius, iudices, L. Iulio C. Figulo consulibus profectus est aliquanto ante furorem Catilinae et suspicionem huius coniurationis; deinde est profectus non tum primum sed cum in isdem locis aliquanto ante eadem de causa aliquot annos fuisset, ac profectus est non modo ob causam sed etiam ob necessariam causam, magna ratione cum Mauretaniae rege contracta. Tum autem, illo profecto, Sulla procurante eius rem et gerente plurimis et pulcherrimis P. Sitti praediis venditis aes alienum eiusdem dissolutum <est>, ut, quae causa ceteros ad facinus impulit, cupiditas retinendae possessionis, ea Sittio non fuerit praediis deminutis. 
  
 
  
@@ -247,7 +247,7 @@ Cicero: Pro Sulla
  
 
  
- [ 58 ] Ipse autem Sittius&#151;non enim mihi deserenda est causa amici veteris atque hospitis&#151;is homo est aut ea familia ac disciplina ut hoc credi possit, eum bellum populo Romano facere voluisse? ut, cuius pater, cum ceteri deficerent finitimi ac vicini, singulari exstiterit in rem publicam nostram officio et fide, is sibi nefarium bellum contra patriam suscipiendum putaret? cuius aes alienum videmus, iudices, non libidine, sed negoti gerendi studio esse contractum, qui ita Romae debuit ut in provinciis et in regnis ei maximae pecuniae deberentur; quas cum peteret, non commisit ut sui procuratores quicquam oneris absente se sustinerent; venire omnis suas possessiones et patrimonio se ornatissimo spoliari maluit quam ullam moram cuiquam fieri creditorum suorum. 
+ [ 58 ] Ipse autem Sittius—non enim mihi deserenda est causa amici veteris atque hospitis—is homo est aut ea familia ac disciplina ut hoc credi possit, eum bellum populo Romano facere voluisse? ut, cuius pater, cum ceteri deficerent finitimi ac vicini, singulari exstiterit in rem publicam nostram officio et fide, is sibi nefarium bellum contra patriam suscipiendum putaret? cuius aes alienum videmus, iudices, non libidine, sed negoti gerendi studio esse contractum, qui ita Romae debuit ut in provinciis et in regnis ei maximae pecuniae deberentur; quas cum peteret, non commisit ut sui procuratores quicquam oneris absente se sustinerent; venire omnis suas possessiones et patrimonio se ornatissimo spoliari maluit quam ullam moram cuiquam fieri creditorum suorum. 
  
 
  
@@ -267,7 +267,7 @@ Cicero: Pro Sulla
  
 
  
- [ 63 ] Atque in ea re per L. Caecilium Sulla accusatur in qua re est uterque laudandus. Primum Caecilius&#151;quid? 'id promulgavit in quo res iudicatas videbatur voluisse rescindere, ut restitueretur Sulla.' Recte reprehendis; status enim rei publicae maxime iudicatis rebus continetur; neque ego tantum fraterno amori dandum arbitror ut quisquam, dum saluti suorum consulat, communem relinquat. &lt;At&gt; nihil de iudicio ferebat, sed poenam ambitus eam referebat quae fuerat nuper superioribus legibus constituta. Itaque hac rogatione non iudicum sententia, sed legis vitium corrigebatur. Nemo iudicium reprehendit, cum de poena queritur, sed legem. Damnatio est enim iudicum, quae manebat, poena legis, quae levabatur. 
+ [ 63 ] Atque in ea re per L. Caecilium Sulla accusatur in qua re est uterque laudandus. Primum Caecilius—quid? 'id promulgavit in quo res iudicatas videbatur voluisse rescindere, ut restitueretur Sulla.' Recte reprehendis; status enim rei publicae maxime iudicatis rebus continetur; neque ego tantum fraterno amori dandum arbitror ut quisquam, dum saluti suorum consulat, communem relinquat. <At> nihil de iudicio ferebat, sed poenam ambitus eam referebat quae fuerat nuper superioribus legibus constituta. Itaque hac rogatione non iudicum sententia, sed legis vitium corrigebatur. Nemo iudicium reprehendit, cum de poena queritur, sed legem. Damnatio est enim iudicum, quae manebat, poena legis, quae levabatur. 
  
 
  
@@ -303,7 +303,7 @@ Cicero: Pro Sulla
  
 
  
- [ 72 ] Agedum, conferte nunc cum illius vita &lt;vitam&gt; P. Sullae vobis populoque Romano notissimam, iudices, et eam ante oculos vestros proponite. Ecquod est huius factum aut commissum non dicam audacius, sed quod cuiquam paulo minus consideratum videretur? Factum quaero; verbum ecquod umquam ex ore huius excidit in quo quisquam posset offendi? At vero in illa gravi L. Sullae turbulentaque victoria quis P. Sulla mitior, quis misericordior inventus est? &lt;Quam&gt; multorum hic vitam est a L. Sulla deprecatus! quam multi sunt summi homines et ornatissimi et nostri et equestris ordinis quorum pro salute se hic Sullae obligavit! Quos ego nominarem&#151;neque enim ipsi nolunt et huic animo gratissimo adsunt&#151;sed, quia maius est beneficium quam posse debet civis civi dare, ideo a vobis peto ut quod potuit, tempori tribuatis, quod fecit, ipsi. 
+ [ 72 ] Agedum, conferte nunc cum illius vita <vitam> P. Sullae vobis populoque Romano notissimam, iudices, et eam ante oculos vestros proponite. Ecquod est huius factum aut commissum non dicam audacius, sed quod cuiquam paulo minus consideratum videretur? Factum quaero; verbum ecquod umquam ex ore huius excidit in quo quisquam posset offendi? At vero in illa gravi L. Sullae turbulentaque victoria quis P. Sulla mitior, quis misericordior inventus est? <Quam> multorum hic vitam est a L. Sulla deprecatus! quam multi sunt summi homines et ornatissimi et nostri et equestris ordinis quorum pro salute se hic Sullae obligavit! Quos ego nominarem—neque enim ipsi nolunt et huic animo gratissimo adsunt—sed, quia maius est beneficium quam posse debet civis civi dare, ideo a vobis peto ut quod potuit, tempori tribuatis, quod fecit, ipsi. 
  
 
  
@@ -319,7 +319,7 @@ Cicero: Pro Sulla
  
 
  
- [ 76 ] Nolite, iudices, arbitrari hominum illum impetum et conatum fuisse&#151;neque enim ulla gens tam barbara aut tam immanis umquam fuit in qua non modo tot, sed unus tam crudelis hostis patriae sit inventus&#151;, beluae quaedam illae ex portentis immanes ac ferae forma hominum indutae exstiterunt. Perspicite etiam atque etiam, iudices,&#151;nihil enim est quod in hac causa dici possit vehementius&#151;penitus introspicite Catilinae, Autroni, Cethegi, Lentuli ceterorumque mentis; quas vos in his libidines, quae flagitia, quas turpitudines, quantas audacias, quam incredibilis furores, quas notas facinorum, quae indicia parricidiorum, quantos acervos scelerum reperietis! Ex magnis et diuturnis et iam desperatis rei publicae morbis ista repente vis erupit, ut ea confecta et eiecta convalescere aliquando et sanari civitas posset; neque enim est quisquam qui arbitretur illis inclusis in re publica pestibus diutius haec stare potuisse. Itaque eos non ad perficiendum scelus, sed ad luendas rei publicae poenas Furiae quaedam incitaverunt. 
+ [ 76 ] Nolite, iudices, arbitrari hominum illum impetum et conatum fuisse—neque enim ulla gens tam barbara aut tam immanis umquam fuit in qua non modo tot, sed unus tam crudelis hostis patriae sit inventus—, beluae quaedam illae ex portentis immanes ac ferae forma hominum indutae exstiterunt. Perspicite etiam atque etiam, iudices,—nihil enim est quod in hac causa dici possit vehementius—penitus introspicite Catilinae, Autroni, Cethegi, Lentuli ceterorumque mentis; quas vos in his libidines, quae flagitia, quas turpitudines, quantas audacias, quam incredibilis furores, quas notas facinorum, quae indicia parricidiorum, quantos acervos scelerum reperietis! Ex magnis et diuturnis et iam desperatis rei publicae morbis ista repente vis erupit, ut ea confecta et eiecta convalescere aliquando et sanari civitas posset; neque enim est quisquam qui arbitretur illis inclusis in re publica pestibus diutius haec stare potuisse. Itaque eos non ad perficiendum scelus, sed ad luendas rei publicae poenas Furiae quaedam incitaverunt. 
  
 
  
@@ -335,11 +335,11 @@ Cicero: Pro Sulla
  
 
  
- [ 80 ] Quid vero? haec auctoritas&#151;saepe enim est de ea dicendum, quamquam a me timide modiceque dicetur&#151;quid? inquam, haec auctoritas nostra, qui a ceteris coniurationis causis abstinuimus, P. Sullam defendimus, nihil hunc tandem iuvabit? Grave est hoc dictu fortasse, iudices, grave, si appetimus aliquid; si, cum ceteri de nobis silent, non etiam nosmet ipsi tacemus, grave; sed, si laedimur, si accusamur, si in invidiam vocamur, profecto conceditis, iudices, ut nobis libertatem retinere liceat, si minus liceat dignitatem. 
+ [ 80 ] Quid vero? haec auctoritas—saepe enim est de ea dicendum, quamquam a me timide modiceque dicetur—quid? inquam, haec auctoritas nostra, qui a ceteris coniurationis causis abstinuimus, P. Sullam defendimus, nihil hunc tandem iuvabit? Grave est hoc dictu fortasse, iudices, grave, si appetimus aliquid; si, cum ceteri de nobis silent, non etiam nosmet ipsi tacemus, grave; sed, si laedimur, si accusamur, si in invidiam vocamur, profecto conceditis, iudices, ut nobis libertatem retinere liceat, si minus liceat dignitatem. 
  
 
  
- [ 81 ] Accusati sunt uno nomine &lt;omnes&gt; consulares, ut iam videatur honoris amplissimi nomen plus invidiae quam dignitatis adferre. 'Adfuerunt,' inquit, 'Catilinae illumque laudarunt.' Nulla tum patebat, nulla erat cognita coniuratio; defendebant amicum, aderant supplici, vitae eius turpitudinem in summis eius periculis non insequebantur. Quin etiam parens tuus, Torquate, consul reo de pecuniis repetundis Catilinae fuit advocatus, improbo homini, at supplici, fortasse audaci, at aliquando amico. Cui cum adfuit post delatam ad eum primam illam coniurationem, indicavit se audisse aliquid, non credidisse. 'At idem non adfuit alio in iudicio, cum adessent ceteri.' Si postea cognorat ipse aliquid quod in consulatu ignorasset, ignoscendum est eis qui postea nihil audierunt; sin illa res prima valuit, num inveterata quam recens debuit esse gravior? Sed si tuus parens etiam in ipsa suspicione periculi sui tamen humanitate adductus advocationem hominis improbissimi sella curuli atque ornamentis et suis et consulatus honestavit, quid est quam ob rem consulares qui Catilinae adfuerunt reprendantur? ' 
+ [ 81 ] Accusati sunt uno nomine <omnes> consulares, ut iam videatur honoris amplissimi nomen plus invidiae quam dignitatis adferre. 'Adfuerunt,' inquit, 'Catilinae illumque laudarunt.' Nulla tum patebat, nulla erat cognita coniuratio; defendebant amicum, aderant supplici, vitae eius turpitudinem in summis eius periculis non insequebantur. Quin etiam parens tuus, Torquate, consul reo de pecuniis repetundis Catilinae fuit advocatus, improbo homini, at supplici, fortasse audaci, at aliquando amico. Cui cum adfuit post delatam ad eum primam illam coniurationem, indicavit se audisse aliquid, non credidisse. 'At idem non adfuit alio in iudicio, cum adessent ceteri.' Si postea cognorat ipse aliquid quod in consulatu ignorasset, ignoscendum est eis qui postea nihil audierunt; sin illa res prima valuit, num inveterata quam recens debuit esse gravior? Sed si tuus parens etiam in ipsa suspicione periculi sui tamen humanitate adductus advocationem hominis improbissimi sella curuli atque ornamentis et suis et consulatus honestavit, quid est quam ob rem consulares qui Catilinae adfuerunt reprendantur? ' 
  
 
  

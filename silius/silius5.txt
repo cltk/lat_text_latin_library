@@ -17,11 +17,11 @@ Ceperat Etruscos occulto milite colles
 Sidonius ductor perque alta silentia noctis 
 siluarum anfractus caecis insederat armis. 
 at parte e laeua restagnans gurgite uasto 
-effigiem in pelagi lacus umectabat inerti&lt;s&gt;    5 
+effigiem in pelagi lacus umectabat inerti<s>    5 
 et late multo foedabat proxima limo. 
 quae uada Faunigenae regnata antiquitus Arno 
 nunc uoluente die Trasimenni nomina seruant. 
-Lydius huic genitor, &lt;T&gt;moli decus, aequore longo 
+Lydius huic genitor, <T>moli decus, aequore longo 
 Maeoniam quondam in Latias aduexerat oras    10 
 Tyrrhenus pubem dederatque uocabula terris. 
 isque insueta tubae monstrauit murmura primus 
@@ -57,7 +57,7 @@ incustoditum, mox inremeabile, litus.
 namque sub angustas artato limite fauces 
 in fraudem ducebat iter, geminumque receptis 
 exitium, hinc rupes, hinc undae claustra premebant. 
-at tur&lt;m&gt;a umbroso seruabat uertice montis    45 
+at tur<m>a umbroso seruabat uertice montis    45 
 hostilem ingressum, refugos habitura sub ictu: 
 haud secus ac uitreas sollers piscator ad undas, 
 ore leuem patulo texens de uimine nassam, 
@@ -114,8 +114,8 @@ interea rapidis aderit Seruilius armis,
 cui par imperium et uires legionibus aequae. 
 bellandum est astu. leuior laus in duce dextrae.'    100 
   Talia Coruinus, primoresque addere passim 
-orantum uerba, et diuisus quisque timori&lt;s&gt; 
-nunc superos, ne Flamin&lt;i&gt;o, nunc deinde precari 
+orantum uerba, et diuisus quisque timori<s> 
+nunc superos, ne Flamin<i>o, nunc deinde precari 
 Flaminium, ne caelicolis contendere perstet. 
 acrius hoc accensa ducis surrexerat ira,    105 
 auditoque furens socias non defore uires 
@@ -160,7 +160,7 @@ ceu fetum lupa permulcens puerilia membra
 ingentem Assaraci caelo nutribat alumnum.    145 
 hinc ensem lateri dextraeque accommodat hastam. 
 stat sonipes uexatque ferox umentia frena, 
-Caucas&lt;e&gt;am instratus uirgato corpore tigrim. 
+Caucas<e>am instratus uirgato corpore tigrim. 
 inde exceptus equo, qua dant angusta uiarum, 
 nunc hos, nunc illos adit atque hortatibus implet:    150 
 'Vestrum opus est uestrumque decus suffixa per urbem 
@@ -422,7 +422,7 @@ sed non augurio Parcarum impellere metas
 concessum cuiquam: ruit inter tela cruentis 
 suspiciens oculis caelum superosque reposcit 
 tempora promissae media iam morte senectae. 
-nec Bagaso exultare datum &lt;a&gt;ut impune relictum    410 
+nec Bagaso exultare datum <a>ut impune relictum    410 
 consulis ante oculos uita spoliasse Libonem. 
 laurigeris decus illud auis nauaque iuuenta 
 florebat, sed Massylus succiderat ensis 
@@ -431,7 +431,7 @@ delerat leto bellator barbarus annos.    415
 Flaminium implorasse tamen iam morte suprema 
 haud frustra fuit. auulsa est nam protinus hosti 
 ore simul ceruix: iuuit punire feroci 
-uictorem exemplo &lt;et&gt; monstratum reddere letum. 
+uictorem exemplo <et> monstratum reddere letum. 
   Quis deus, o Musae, paribus tot funera uerbis    420 
 euoluat, tantisque umbris in carmine digna 
 quis lamenta ferat? certantis laude cadendi 
@@ -526,7 +526,7 @@ elisitque uirum spatiosa membra ruina.
 conlucet rapidoque inuoluitur aesculus igni. 
 iamque inter frondes arenti robore gliscens 
 uerticibus saeuis torquet Vulcanus anhelos 
-cum feruore globos flammarum et &lt;c&gt;ulmina torret. 
+cum feruore globos flammarum et <c>ulmina torret. 
 nec tela interea cessant. semusta gementum    515 
 atque amplexa cadunt ardentis corpora ramos. 
   Haec inter miseranda uirum certamina consul 

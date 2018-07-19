@@ -34,15 +34,15 @@ Plautus: Vidularia
  
 *** hanc rem vetere nomine 
 *** g *** estitit 
-potentiam inimi&lt;co>rum s::tisitio 
-laudatus ia::s *** gra&lt;ti>as 
+potentiam inimi<co>rum s::tisitio 
+laudatus ia::s *** gra<ti>as 
 ::ius sc *** g *** f *** nro 5 
-Sc&lt;h>edia *** uo *** g&lt;r>ae::::c *** 
-&lt;p>oeta ha&lt;nc> noster f&lt;ecit> V&lt;idularia>m. 
-isqu::t:r:o:::ciuntm ego fa&lt;x>o s&lt;cibi>tis. 
-prius noscite &lt;alia: sane> scitis, ipsus &lt;e>s&lt;t>; 
-credo argumentum velle vos &lt;pern>os&lt;cer>e; 10 
-int&lt;elle>g&lt;etis poti>us q&lt;uid a>g&lt;an>t quand&lt;o a>gent. 
+Sc<h>edia *** uo *** g<r>ae::::c *** 
+<p>oeta ha<nc> noster f<ecit> V<idularia>m. 
+isqu::t:r:o:::ciuntm ego fa<x>o s<cibi>tis. 
+prius noscite <alia: sane> scitis, ipsus <e>s<t>; 
+credo argumentum velle vos <pern>os<cer>e; 10 
+int<elle>g<etis poti>us q<uid a>g<an>t quand<o a>gent. 
 a *** uos in loco monitum::petro 
 di::::q *** s:commodiu:::tas: 
 ina *** b meam 
@@ -57,7 +57,7 @@ Hominem, semel quem usurpavit servitus
  
 
  
- &lt;NICODEMVS adulescens GORGINES senex > 
+ <NICODEMVS adulescens GORGINES senex > 
  
 
  
@@ -81,44 +81,44 @@ haec myrtus Veneris est. 17e
  
 
  
- &lt;DINIA senex NICODEMVS adulescens > 
+ <DINIA senex NICODEMVS adulescens > 
  
 
  
 est quo *** neq:::::us censeo *** 
- NIC. Quid ais? licet&lt;ne? DIN. M>axum&lt;e, si>quid
+ NIC. Quid ais? licet<ne? DIN. M>axum<e, si>quid
 est opus. 
-sed quid est negoti? NIC. Te ego audi&lt;vi di>cere, 20 
-operarium te velle ru&lt;s condu>c&lt;ere>. 
- DIN. Re&lt;ct>e audivisti. NIC. Quid vis operis &lt;fie>ri? 
- DIN. Qu&lt;id t>u istuc curas? an mihi tutor additu's? 
+sed quid est negoti? NIC. Te ego audi<vi di>cere, 20 
+operarium te velle ru<s condu>c<ere>. 
+ DIN. Re<ct>e audivisti. NIC. Quid vis operis <fie>ri? 
+ DIN. Qu<id t>u istuc curas? an mihi tutor additu's? 
  NIC. Dare possum, opinor, satis bonum operarium. 
- DIN. Est tibi in mercede servus quem des quispia&lt;m>?   25 
+ DIN. Est tibi in mercede servus quem des quispia<m>?   25 
  NIC. Inopia servum i::e::::::o me loc *** 
- DIN. Quid? tu locas te? no&lt;n, ut opinor, serio,> 
-nam equidem te m&lt;ercennarium haud esse arb>itror. 
- NIC. Non sum, siquidem tu n&lt;on vis mercedem dare,> 
-verum, si pretium das, du&lt;ces te>cum simul.  30 
+ DIN. Quid? tu locas te? no<n, ut opinor, serio,> 
+nam equidem te m<ercennarium haud esse arb>itror. 
+ NIC. Non sum, siquidem tu n<on vis mercedem dare,> 
+verum, si pretium das, du<ces te>cum simul.  30 
  DIN. Laboriosa, adulescens, vita est rustica. 
  NIC. Vrbana egestas edepol aliquanto magis. 
  DIN. Talis iactandis tuae sunt consuetae manus. 
  NIC. At qualis exercendas nunc intellego. 
  DIN. Mollitia urbana atque umbra corpus candidumst. 35 
  NIC. Sol est ad eam rem pictor: atrum fecerit. 
- DIN. Heus tu, a me&lt;is> illic estur &lt;satis duru>s c&lt;ibus>. 
- NIC. Misero male esse &lt;fuerit> con&lt;senta>ne&lt;um>. 
-quod abs te:::c p::t quaesso ut m&lt;ih>i impertias. 
-si tibi pudico &lt;homine> est opus et non malo, 40 
+ DIN. Heus tu, a me<is> illic estur <satis duru>s c<ibus>. 
+ NIC. Misero male esse <fuerit> con<senta>ne<um>. 
+quod abs te:::c p::t quaesso ut m<ih>i impertias. 
+si tibi pudico <homine> est opus et non malo, 40 
 qui fidei plenior sit quam servi tui 
 cibique minimi maxumaque industria, 
 minime mendace, em me licet conducere. 
  DIN. Non edepol equidem credo, mercennarium 
-te esse. &lt; NIC. An> non credis? non :::: &lt;co>ndu&lt;ci>
-arbit&lt;ror>   45 
+te esse. < NIC. An> non credis? non :::: <co>ndu<ci>
+arbit<ror>   45 
 n *** st dicat simul 
 *** operarium 
 iam *** unde conducam mihi 
-multum labor&lt;et, p>aullum mereat, paullum edi&lt;t>. 
+multum labor<et, p>aullum mereat, paullum edi<t>. 
  NIC. Minus operis nihilo faciam quam qui plurumum, 50 
 nec mihi nisi unum prandium quicquam duis, 
 praeter mercedem. DIN. Quid merendam? NIC. Ne duis, 
@@ -128,7 +128,7 @@ neque cenam. DIN. Non cenabis? NIC. Immo ibo domum.
  
 
  
- &lt;GORGINES CACISTVS ASPASIVS> 
+ <GORGINES CACISTVS ASPASIVS> 
  
 
  
@@ -149,11 +149,11 @@ seu quem norim, qui advocatus adsit. iam hunc novi locum.
 hicine vos habitatis? GORG. Hisc in aedibus: huc adducito. 
 at ego vidulum intro condam in arcam atque occludam probe. 
 tu si quem vis invenire tibi patronum, quaerita;  60 
-perfidiose numquam quicquam hic agere decretu&lt;m>st mihi. 
+perfidiose numquam quicquam hic agere decretu<m>st mihi. 
  CAC. Qur, malum, patronum quaeram, postquam litem perdidi? 
-ne &lt;ego> homo miser e&lt;t scelestus dudum at>que infelix fui, 
-vidulum q&lt;ui> ubi v&lt;id>i, non me circumspexi centiens; 
-verbero illic inter mu&lt;rtos> latuit, insidias dedit.   65 
+ne <ego> homo miser e<t scelestus dudum at>que infelix fui, 
+vidulum q<ui> ubi v<id>i, non me circumspexi centiens; 
+verbero illic inter mu<rtos> latuit, insidias dedit.   65 
 tam scio quam med hic stare: captam praedam perdidi, 
 nisi quid ego mei simile aliquid contra consilium paro. 
 hic astabo atque observabo, si quem amicum conspicer.
@@ -167,17 +167,17 @@ hic astabo atque observabo, si quem amicum conspicer.
  DIN. Ne tu edepol hodie miserias multas tuas 
 mihi narravisti, eoque ab opere maxume  70 
 te abire iussi, quia me miserebat tui. 
- CAC. Illic est adulescens, quem tempe&lt;st>as immin *** 
+ CAC. Illic est adulescens, quem tempe<st>as immin *** 
 ::fic:::t:s atque arg::en::m *** rom *** 
 et iam ego audivi d::m r *** m mut *** 
-in opus ut sese collocavit quam &lt;cit>o;   75 
-&lt;po>l haut cessavit, postquam t&lt;erra>m attigi&lt;t>. 
+in opus ut sese collocavit quam <cit>o;   75 
+<po>l haut cessavit, postquam t<erra>m attigi<t>. 
 mirum est si a::::: tuam v:::::squa *** 
 nosuos parenti:::dare possu *** tus fu *** 
-rem mihi na&lt;rravit;> ede&lt;po>li simul *** 
+rem mihi na<rravit;> ede<po>li simul *** 
 pueri::s hi *** isp *** gis  80 
 egentiorem *** minen:::m neminem *** 
-neque esse c&lt;redo neque fuisse> neque f&lt;o>re. 
+neque esse c<redo neque fuisse> neque f<o>re. 
  DIN. Cave tu istuc dixis. immo etiam argenti minam, 
 quam med oravisti ut darem tibi faenore, 
 iam ego adferam ad te. faenus mihi nullum duis.   85 

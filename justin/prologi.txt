@@ -100,7 +100,7 @@ PROLOGVS LIBRI X.
 
  
 Decimo uolumine continentur Persicae res. Ut Artaxerxes Mnemon pacificatus cum Euagora rege Cyprio bellum Aegyptium in urbe Ace conpararit, ipse in Cadusis uictus, defectores in Asia purpuratos suos persecutus, primum Dotamen
-praefectum &lt;Paphlagoniae&gt;. Paphlagonon origo repetita: deinde praefectum Hellesponti Ariobarzanen, deinde in Syria praefectum Armeniae Oronten, omnibusque uictis decesserit filio successore Ocho. Is deinde occisis optimatibus Sidon accepit. Aegypto bellum ter intulit.
+praefectum <Paphlagoniae>. Paphlagonon origo repetita: deinde praefectum Hellesponti Ariobarzanen, deinde in Syria praefectum Armeniae Oronten, omnibusque uictis decesserit filio successore Ocho. Is deinde occisis optimatibus Sidon accepit. Aegypto bellum ter intulit.
 Ut post mortem Ochi regnarit Arses, deinde Darius, qui cum Alexandro Macedonum rege bello conflixit.
  
 
@@ -126,7 +126,7 @@ PROLOGVS LIBRI XIII.
 
  
 Tertio decimo uolumine continentur haec. Ut mortuo Alexandro optimates castrorum eius prouinciarum imperia sint partiti; ut ueterani, qui ab eodem lecti erant in colonias, moliti relictis illis in Graeciam redire a Pithone sint deleti. Bellum Lamiacum, quod Antipater in Graecia gessit. Bellum quo Perdiccas regem Ariarathem occidit;
-&lt;ut&gt; occisus est. Bellum quo Eumenes Neoptolemum et Crateron occidit. Additae in excessu origines regesque Quirenarum.
+<ut> occisus est. Bellum quo Eumenes Neoptolemum et Crateron occidit. Additae in excessu origines regesque Quirenarum.
  
 
  
@@ -203,7 +203,7 @@ PROLOGVS LIBRI XXI.
  
 
  Uno et uicensimo uolumine continentur haec. Ut in Sicilia Dionysius filius a patre amisso tractarit imperium. Per
-&lt;Dionem&gt; Dionysius eiectus bellum cum Siculis gessit, donec amissis liberis et fratribus Corinthum &lt;abiit&gt;.
+<Dionem> Dionysius eiectus bellum cum Siculis gessit, donec amissis liberis et fratribus Corinthum <abiit>.
 Ut a Timoleonte Carthaginensium bello sit liberata Sicilia mortuoque Sosistrato iterum facta seditione arcessitique a bello Carthaginenses obsederunt Syracusas quo bello Agathocles nanctus imperium
 est.
  
@@ -333,7 +333,7 @@ PROLOGVS LIBRI XXXIV.
 Quarto et tricensimo uolumine continentur haec. Bellum Achaicum, quod Romani per Metellum et Mummium gessere, quo diruta est Corinthos. Bellum regis Eumenis cum Gallograecis et in Pisidia cum Selegensibus. Res quas gessit Syrias rex Antiochus, et rex Aegypti Ptolomaeus
 Epiphanes. Ut mortuo Ptolomaeo relicti ab eo filii duo Philometor et Euergetes primum cum Antiocho habuere bellum, quod per Romanos finitum est, deinde inter se, quo maior est expulsus, restitutoque Romani inter fratres regna diuiserunt.
 Ut mortuo Antiocho rege Syriae Demetrius cognomine Soter, qui Romae fuerat obses, clam fugit occupataque Syria bellum cum Timarcho Medorum rege habuit
-&lt;et&gt; Ariarathe rege Cappadocum. Repetitae inde origines regum Cappadocum. Ut habita inter Ariarathen et Orophernem regni certamina.
+<et> Ariarathe rege Cappadocum. Repetitae inde origines regum Cappadocum. Ut habita inter Ariarathen et Orophernem regni certamina.
 Ut mortuo rege Asiae Eumene suffectus Attalus bellum cum Selegensibus habuit et cum rege
 Prusia.
  
@@ -345,7 +345,7 @@ PROLOGVS LIBRI XXXV.
  
 Quinto et tricensimo uolumine continentur haec. Bellum piraticum inter Cretas et Rhodios; seditio Cnidiorum aduersus Ceramenses.
 Ut aduersus Demetrium Sotera subornatus est Alexander tamquam genitus Epiphane Antiocho, quo bello uictus
-Demetrius &lt;interiit. Ut deinde maior filiorum eius Demetrius&gt; 
+Demetrius <interiit. Ut deinde maior filiorum eius Demetrius> 
 invisum stultitia Alexandrum bello uicit adiuuante Ptolomaeo Philometore, qui eo bello interiit.
 Ut deinde orta Demetrio bella sint cum Diodoto Tryphone expulsusque a Tryphone regno Syriae Demetrius. Repetit inde superioris Asiae motus factos per Araetheum et Arsacen Parthum.
  
@@ -358,7 +358,7 @@ PROLOGVS LIBRI XXXVI.
 Sexto et tricensimo uolumine continentur haec. Ut Trypho pulso Syria Demetrio captoque a Parthis bellum gessit cum fratre eius Antiocho cognomine Sidete.
 Ut Antiochus interfecto Hyrcano Iudaeos subegit. Repetita inde in excessu origo Iudaeorum.
 Ut rex Asiae Attalus Caenos Thracas subegit successoremque imperii Attalum Philometora reliquit. Mortuo denique Philometore
-&lt;rege frater eius Aristonicus&gt; regno Asiae occupato bellum cum Romanis gessit, quo captus
+<rege frater eius Aristonicus> regno Asiae occupato bellum cum Romanis gessit, quo captus
 est.
  
 
@@ -368,7 +368,7 @@ PROLOGVS LIBRI XXXVII.
 
  
 Septimo et tricensimo uolumine continentur haec. Repetitis regum Ponticorum originibus, ut
-&lt;ad&gt; ultimum Mithridaten Eupatora series imperii deducta sit, atque ut ingressus ille regnum subegit Pontum et Paphlagoniam, priusquam in bella Romana descendit. Dictaeque in excessu regum Bosporanorum et Colchorum origines et res
+<ad> ultimum Mithridaten Eupatora series imperii deducta sit, atque ut ingressus ille regnum subegit Pontum et Paphlagoniam, priusquam in bella Romana descendit. Dictaeque in excessu regum Bosporanorum et Colchorum origines et res
 gestae.
  
 
@@ -400,7 +400,7 @@ PROLOGVS LIBRI XL.
 
  
 Quadragensimo uolumine continentur haec. Ut mortuo Grypo rege Cyzicenus cum filiis eius bello congressus interiit, hi deinde a filio Cyziceni Eusebe
-&lt;extincti sunt: et ut repetito domestico bello&gt; extinctaque regum Antiochorum domo Tigranes Armenius Syriam occupauit, quo mox uicto Romani abstulere eam.
+<extincti sunt: et ut repetito domestico bello> extinctaque regum Antiochorum domo Tigranes Armenius Syriam occupauit, quo mox uicto Romani abstulere eam.
 Ut Alexandriam post interitum Ptolomaei Lathyri substituti sint eius filii: alteri data Cypros, cui P. Clodii rogatione Romani abstulerunt eam; alter seditione flagitatus Alexandriae Romam profugit belloque per Gabinium gesto recepit imperium: quo mortuo successit filius, qui cum sorore Cleopatra certamine insumpto et Pompeium magnum interfecit et bellum cum Caesare Alexandriae gessit.
 Ut successit eius regno soror Cleopatra, quae inligato in amorem suum M. Antonio belli Actiaci fine extinxit regnum
 Ptolomaeorum.
